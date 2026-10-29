@@ -19,6 +19,18 @@ REQUIRED = ('slug', 'company', 'first_name', 'domain', 'market')
 def steps_html():
     return ''.join(f'<div class="step"><i>0{i+1}</i><div><b>{E(h)}</b><p>{E(t)}</p></div></div>' for i, (h, t) in enumerate(B['steps']))
 
+GEO = json.load(open(os.path.join(HERE, 'geo', 'italy_regions.json'), encoding='utf-8'))
+
+def map_html(mk):
+    """Italy as inline SVG, the market regions lit. Regions come from market.json, so the picture is as true as the data."""
+    on = set(mk.get('regions') or [])
+    if not on: return ''
+    unknown = on - set(GEO['regions']); assert not unknown, f'unknown region {unknown}'
+    paths = ''.join(f'<path class="{"on" if n in on else ""}" d="{d}"><title>{E(n)}</title></path>' for n, d in GEO['regions'].items())
+    n = len(on); where = 'in ' + (f'{n} regioni' if n > 1 else next(iter(on)))
+    return (f'<figure class="map"><svg viewBox="{GEO["viewBox"]}" role="img" aria-label="{E(mk["count"])} decisori {E(where)}">{paths}</svg>'
+            f'<figcaption class="tag"><b>{E(mk["count"])}</b>decisori {E(where)}</figcaption><span class="credit">Confini ISTAT via openpolis, CC BY 4.0</span></figure>')
+
 def pick_cases(sectors, n=3):
     """the n cases closest to the lead's sectors (tag overlap), ties keep the brand.json order"""
     want = {x.lower() for x in (sectors or [])}
@@ -50,7 +62,7 @@ def render(sp, prefix='../', fallback=False):
         'BRAND': E(B['brand']), 'BRAND_DOMAIN': E(B['brand_domain']), 'CASES_DOMAIN': E(B['cases_domain']),
         'COMPANY': E(co), 'FIRST': E(sp['first_name']), 'PREPARED': E(f"{sp['first_name']} · {co}") if not fallback else E(f'the {co} team'),
         'DOMAIN': E(sp['domain']), 'CO_MARK': mark,
-        'SHOT_SRC': f'{prefix}assets/shots/{E(shot)}' if shot else '', 'SAW_CLASS': '' if shot else ' noshot',   # HARD RULE: picture or noshot, never a placeholder
+        'COVER_VISUAL': map_html(sp['market']), 'COVER_CLASS': '' if sp['market'].get('regions') else ' noshot',   # map of the market or text only, never a placeholder
         'COVER_LINE': E(B['cover_line'].replace('{company}', co)), 'COVER_SUB': E(sp.get('cover_sub') or B.get('cover_sub', '')),
         'OFFER_HEAD': E(B['offer_head']), 'OFFER_BODY': E(B['offer_body']), 'OFFER_TAIL': E(sp.get('offer_tail', '')), 'STEPS': steps_html(),
         'MKT_COUNT': E(mk['count']), 'MKT_LABEL': E(mk['label']), 'MKT_CHIPS': ''.join(f'<span>{E(c)}</span>' for c in mk['chips']),

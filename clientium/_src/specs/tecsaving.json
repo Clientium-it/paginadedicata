@@ -29,7 +29,15 @@
    "energia"
   ],
   "source": "ricerca AI-ARK 13/07/2026, C26 FILTRI_LISTA.md",
-  "sector": "manifatturiero"
+  "sector": "manifatturiero",
+  "regions": [
+   "Veneto",
+   "Lombardia",
+   "Emilia-Romagna",
+   "Friuli Venezia Giulia",
+   "Piemonte",
+   "Liguria"
+  ]
  },
  "market_line": "Tecsaving propone climatizzazione industriale ad alta efficienza per capannoni, quindi parleremmo con titolari e amministratori delle aziende manifatturiere che decidono su questi investimenti.",
  "cover_sub": "Una pagina pensata per te, Francesco, su chi contatteremmo per Tecsaving e su come possiamo portarti appuntamenti qualificati.",
