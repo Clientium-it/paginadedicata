@@ -1,0 +1,43 @@
+{
+ "sector": "manifatturiero",
+ "insights_head": "Cosa funziona nel manifatturiero",
+ "insights_sub": "Numeri misurati da noi, non stime. Ogni campagna nel tuo settore parte da qui.",
+ "insights": [
+  {
+   "kpi": "24,3",
+   "label": "appuntamenti ogni 1.000 titolari e soci contattati",
+   "text": "Contro 6,1 per CEO e direttori generali e 0 su 333 direttori finanziari. Nel manifatturiero risponde chi decide l'investimento."
+  },
+  {
+   "kpi": "22,6",
+   "label": "appuntamenti ogni 1.000 aziende da 10 a 19 addetti",
+   "text": "Contro 7,2 nella fascia da 20 a 49 addetti e 5,5 da 50 a 199. Nelle aziende più piccole il messaggio arriva direttamente a chi decide."
+  },
+  {
+   "kpi": "0 su 275",
+   "label": "appuntamenti con prime email oltre 125 parole",
+   "text": "Tra 111 e 125 parole la stessa campagna ha fatto 11,9 appuntamenti ogni 1.000. E gli oggetti sul reparto del destinatario hanno battuto quelli sul prodotto."
+  }
+ ],
+ "insights_source": "Dati Clientium, campagna manifatturiero di settembre 2026, 2.500 decisori nel nord Italia.",
+ "segments": [
+  [
+   "Meccanica e automotive",
+   "Titolari di aziende con reparti di lavorazione e montaggio."
+  ],
+  [
+   "Alimentare",
+   "Titolari e amministratori di aziende di produzione e confezionamento."
+  ],
+  [
+   "Plastica, carta e packaging",
+   "Proprietà di aziende con impianti di trasformazione."
+  ]
+ ],
+ "sectors": [
+  "industria",
+  "manifatturiero",
+  "impianti",
+  "energia"
+ ]
+}

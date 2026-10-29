@@ -1,0 +1,144 @@
+{
+ "client": "clientium",
+ "brand": "Clientium",
+ "brand_domain": "clientium.it",
+ "cases_domain": "paginadedicata.com/clientium",
+ "theme": "dark",
+ "accent": "#02c3c1",
+ "ink": "#0a0f1c",
+ "paper": "#edf2f9",
+ "font": "Hanken Grotesk",
+ "sender_name": "Arnold Koci",
+ "sender_title": "Founder, Clientium",
+ "team_photo": "assets/team.jpg",
+ "booking_url": "https://clientium.it/prenota/",
+ "booking_host": "clientium.it/prenota",
+ "track_url": "",
+ "cover_line": "Come {company} può riempire l'agenda di appuntamenti B2B e pagare solo quelli che si presentano.",
+ "cover_sub": "Una pagina breve su cosa abbiamo visto e su come lavoreremmo insieme nei primi 90 giorni.",
+ "offer_head": "Paghi solo i risultati.",
+ "offer_body": "Una tariffa fissa per ogni appuntamento che si presenta in call ed è in target. I criteri di qualifica li scriviamo insieme prima del lancio. No show e fuori target non si pagano. Recesso con 30 giorni di preavviso, senza penali.",
+ "steps": [
+  [
+   "Mappatura",
+   "Analizziamo il tuo mercato, scegliamo i decisori giusti e mettiamo per iscritto cosa conta come appuntamento in target."
+  ],
+  [
+   "Lancio",
+   "Liste su misura, caselle dedicate e copy scritto per il tuo settore. Ogni testo parte solo con la tua approvazione."
+  ],
+  [
+   "Regime",
+   "Gli appuntamenti arrivano in calendario con un promemoria prima della call. Ogni email, risposta e numero è verificabile."
+  ]
+ ],
+ "proof_head": "Aziende come la tua che hanno già riempito l'agenda",
+ "cases": [
+  {
+   "name": "EffePi Engineering",
+   "kpi": "28+",
+   "label": "meeting nel primo mese",
+   "text": "Consulenza industriale 4.0 e 5.0. Titolari di aziende di food, legno, carta, chimica e meccanica, tra cui SCM Group e Newlat.",
+   "url": "https://clientium.it/casi-studio/effepie/",
+   "logo": "",
+   "sectors": [
+    "industria",
+    "manifatturiero",
+    "meccanica",
+    "alimentare",
+    "impianti",
+    "energia"
+   ]
+  },
+  {
+   "name": "Neven",
+   "kpi": "44",
+   "label": "appuntamenti in 3 settimane",
+   "text": "Domotica luxury e home automation. Studi di architettura considerati irraggiungibili, 138 risposte su 1.011 studi contattati.",
+   "url": "https://clientium.it/casi-studio/neven/",
+   "logo": "",
+   "sectors": [
+    "impianti",
+    "edilizia",
+    "energia",
+    "industria"
+   ]
+  },
+  {
+   "name": "Publy Team",
+   "kpi": "111",
+   "label": "appuntamenti in 19 mesi",
+   "text": "Stampa e comunicazione visiva. Campagne per linea di prodotto, oltre €35.000 di contratti chiusi tracciati.",
+   "url": "https://clientium.it/casi-studio/publy-team/",
+   "logo": "",
+   "sectors": [
+    "industria",
+    "manifatturiero",
+    "servizi"
+   ]
+  },
+  {
+   "name": "Blogger Italia",
+   "kpi": "€351.000",
+   "label": "contratti presentati in meno di 60 giorni",
+   "text": "Agenzia di influencer marketing. Oltre 80 appuntamenti con responsabili marketing e brand manager, €42.000 di contratti già firmati.",
+   "url": "https://clientium.it/casi-studio/blogger-italia/",
+   "logo": "",
+   "sectors": [
+    "marketing",
+    "consulenza",
+    "servizi"
+   ]
+  },
+  {
+   "name": "Planetica",
+   "kpi": "33",
+   "label": "appuntamenti corporate in meno di 90 giorni",
+   "text": "Data analytics. Contatto diretto con i decisori di grandi aziende senza aspettare la referenza giusta, 62 nuove opportunità commerciali.",
+   "url": "https://clientium.it/casi-studio/planetica/",
+   "logo": "",
+   "sectors": [
+    "software",
+    "consulenza",
+    "ict"
+   ]
+  },
+  {
+   "name": "ICT Group",
+   "kpi": "€60.000",
+   "label": "contratto firmato in meno di 90 giorni",
+   "text": "Software ERP e HR. Campagna verticale su aziende da 50 a 1.000 dipendenti nel Nord Italia, reply rate 9,2%.",
+   "url": "https://clientium.it/casi-studio/ict-group/",
+   "logo": "",
+   "sectors": [
+    "software",
+    "ict"
+   ]
+  },
+  {
+   "name": "Cube Proemotion",
+   "kpi": "22",
+   "label": "appuntamenti qualificati in 2 mesi",
+   "text": "Visual merchandising. Aperto il mercato GDO che in 19 anni non erano mai riusciti a raggiungere, €26.000 chiusi subito.",
+   "url": "https://clientium.it/casi-studio/cube-proemotion/",
+   "logo": "",
+   "sectors": [
+    "retail",
+    "gdo",
+    "marketing"
+   ]
+  }
+ ],
+ "trusted_logos": [
+  "Avvocato Flash",
+  "Easy Life Group",
+  "The Method",
+  "AI6",
+  "Planetica",
+  "ICT Group"
+ ],
+ "talk_head": "Ne parliamo?",
+ "talk_text": "Una breve call per vedere insieme i punti di questa pagina e capire se il tuo mercato ha i numeri per partire.",
+ "msg_head": "Lo scriviamo uno per uno, a nome tuo.",
+ "msg_text": "Ogni decisore riceve un messaggio scritto sulla sua azienda, firmato da te e inviato dalle tue caselle. Nessun testo parte senza la tua approvazione. Questo è un esempio di come aprirebbe il primo."
+}

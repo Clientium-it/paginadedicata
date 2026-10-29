@@ -1,0 +1,37 @@
+{
+ "slug": "tecsaving",
+ "company": "Tecsaving",
+ "first_name": "Francesco",
+ "domain": "tecsaving.com",
+ "shot": "tecsaving.jpg",
+ "logo": "tecsaving.png",
+ "market": {
+  "count": "12.933",
+  "label": "titolari, CEO e amministratori di aziende manifatturiere nel nord Italia",
+  "chips": [
+   "Veneto",
+   "Lombardia",
+   "Emilia-Romagna",
+   "Friuli Venezia Giulia",
+   "Piemonte",
+   "Liguria",
+   "da 10 a 300 addetti",
+   "meccanica",
+   "alimentare",
+   "plastica",
+   "legno e arredo",
+   "packaging"
+  ],
+  "sectors": [
+   "industria",
+   "manifatturiero",
+   "impianti",
+   "energia"
+  ],
+  "source": "ricerca AI-ARK 13/07/2026, C26 FILTRI_LISTA.md",
+  "sector": "manifatturiero"
+ },
+ "market_line": "Tecsaving propone climatizzazione industriale ad alta efficienza per capannoni, quindi parleremmo con titolari e amministratori delle aziende manifatturiere che decidono su questi investimenti.",
+ "cover_sub": "Una pagina pensata per te, Francesco, su chi contatteremmo per Tecsaving e su come possiamo portarti appuntamenti qualificati.",
+ "offer_tail": "Per Tecsaving vuol dire pagare solo gli appuntamenti con decisori giusti che si presentano, nient'altro."
+}
