@@ -1,0 +1,6 @@
+_src/auto/runs/
+_private/
+__pycache__/
+*.pyc
+.env
+.DS_Store
