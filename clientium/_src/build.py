@@ -61,7 +61,7 @@ def logo_mask(name):
     if not box: return None
     m = m.crop(box)
     out = Image.new('RGBA', m.size, (0, 0, 0, 0)); out.putalpha(m)
-    d = os.path.join(ROOT, 'assets', 'leadlogos', '_mask'); os.makedirs(d, exist_ok=True)
+    d = os.path.join(ROOT, 'assets', 'leadlogos', 'mask'); os.makedirs(d, exist_ok=True)
     fn = os.path.splitext(name)[0] + '.png'; out.save(os.path.join(d, fn))
     return fn, m.size[0] / m.size[1]
 
@@ -80,7 +80,7 @@ def render(sp, prefix='../', fallback=False):
     shot = sp.get('shot') if sp.get('shot') and os.path.exists(os.path.join(ROOT, 'assets', 'shots', sp['shot'])) else ''
     logo = sp.get('logo') if sp.get('logo') and os.path.exists(os.path.join(ROOT, 'assets', 'leadlogos', sp['logo'])) else ''
     lm = logo_mask(logo) if logo else None
-    mark = (f'<span class="ll" role="img" aria-label="{E(sp["company"])}" style="--m:url({prefix}assets/leadlogos/_mask/{E(lm[0])});--ar:{lm[1]:.3f}"></span>'
+    mark = (f'<span class="ll" role="img" aria-label="{E(sp["company"])}" style="--m:url({prefix}assets/leadlogos/mask/{E(lm[0])});--ar:{lm[1]:.3f}"></span>'
             if lm else f'<span class="co">{E(sp["company"])}</span>')
     co = sp['company']
     slots = {

@@ -14,7 +14,7 @@ def data_uri(path):
     return f'data:image/{ext};base64,' + base64.b64encode(open(path, 'rb').read()).decode()
 
 def page(sp):
-    mask = os.path.join(ROOT, 'assets', 'leadlogos', '_mask', os.path.splitext(sp.get('logo') or '_')[0] + '.png')   # written by build.py
+    mask = os.path.join(ROOT, 'assets', 'leadlogos', 'mask', os.path.splitext(sp.get('logo') or '_')[0] + '.png')   # written by build.py
     mark = (f'<i class="ll" style="-webkit-mask:url({data_uri(mask)}) left center/contain no-repeat"></i>'
             if sp.get('logo') and os.path.exists(mask) else f'<b>{E(sp["company"])}</b>')
     mk = sp.get('market') or {}
