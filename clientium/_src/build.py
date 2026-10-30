@@ -59,11 +59,30 @@ def logo_mask(name):
         m = L.point(lambda v: max(0, min(255, int((abs(v - bg) - 28) * 255 / 120))))   # below 28 = paper noise, gone; 148+ = full ink
     box = m.getbbox()
     if not box: return None
-    m = m.crop(box)
-    out = Image.new('RGBA', m.size, (0, 0, 0, 0)); out.putalpha(m)
+    m = m.crop(box); ar = m.size[0] / m.size[1]
     d = os.path.join(ROOT, 'assets', 'leadlogos', 'mask'); os.makedirs(d, exist_ok=True)
-    fn = os.path.splitext(name)[0] + '.png'; out.save(os.path.join(d, fn))
-    return fn, m.size[0] / m.size[1]
+    base = os.path.splitext(name)[0]
+    try:                                               # vector when potrace is installed: sharp at any zoom, like the map
+        import potrace
+        big = m.resize((m.size[0] * 4, m.size[1] * 4), Image.LANCZOS)
+        def trace(cut):                                # potrace fills the dark pixels: ink goes dark
+            bm = potrace.Bitmap(big.point(lambda v: 0 if v > cut else 255))
+            segs = []
+            for c in bm.trace(turdsize=8, alphamax=1.0, opticurve=True, opttolerance=0.2):
+                s = c.start_point; segs.append(f'M{s.x:.1f} {s.y:.1f}')
+                for sg in c.segments:
+                    segs.append(f'L{sg.c.x:.1f} {sg.c.y:.1f}L{sg.end_point.x:.1f} {sg.end_point.y:.1f}' if sg.is_corner else
+                                f'C{sg.c1.x:.1f} {sg.c1.y:.1f} {sg.c2.x:.1f} {sg.c2.y:.1f} {sg.end_point.x:.1f} {sg.end_point.y:.1f}')
+                segs.append('Z')
+            return ''.join(segs)
+        # two tones keep the logo readable in one colour: the strong ink (lettering) full, the lighter ink (coloured marks) at half
+        svg = (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {big.size[0]} {big.size[1]}">'
+               f'<path fill="#000" fill-opacity=".45" fill-rule="evenodd" d="{trace(60)}"/><path fill="#000" fill-rule="evenodd" d="{trace(200)}"/></svg>')
+        fn = base + '.svg'; open(os.path.join(d, fn), 'w').write(svg)
+    except ImportError:
+        out = Image.new('RGBA', m.size, (0, 0, 0, 0)); out.putalpha(m)
+        fn = base + '.png'; out.save(os.path.join(d, fn))
+    return fn, ar
 
 def first_sentence(s):
     return re.split(r'(?<=\.)\s', s, 1)[0]
