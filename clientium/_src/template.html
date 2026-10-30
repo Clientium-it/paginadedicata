@@ -101,6 +101,7 @@ p{font-size:18px;line-height:1.45}
 .irow p,.crow p{font-size:14px;color:var(--mute);margin-top:3px;line-height:1.4}
 .crow:hover b{text-decoration:underline}
 .irows .src{margin-top:10px}
+.mgrid.solo{grid-template-columns:1fr;align-content:center}.mgrid.solo .big{font-size:150px}.mgrid.solo .bigl{font-size:30px;max-width:32ch}.mgrid.solo .mline{font-size:21px;max-width:58ch}
 /* offer */
 .offer .cols{display:grid;grid-template-columns:1fr 1fr;gap:48px;margin-top:30px;flex:1}
 .offer .body{font-size:19px;line-height:1.5}
@@ -189,7 +190,7 @@ html.phone #nxt span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   </div>
 </div></section>
 
-<section data-i="2" aria-label="Il mercato di {{COMPANY}}"><div class="s market">
+<!--MARKET--><section data-i="2" aria-label="Il mercato di {{COMPANY}}"><div class="s market">
   <div class="eyebrow">Il mercato di {{COMPANY}}</div>
   <div class="mgrid">
     <div>
@@ -199,7 +200,7 @@ html.phone #nxt span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
     </div>
     <div class="irows"><div class="segh">{{INS_HEAD}}</div>{{INSIGHTS}}<p class="src">{{INS_SOURCE}}</p></div>
   </div>
-</div></section>
+</div></section><!--/MARKET-->
 
 <section data-i="3" aria-label="La proposta per {{COMPANY}}"><div class="s offer">
   <div class="eyebrow">La proposta per {{COMPANY}}</div>
@@ -225,7 +226,7 @@ html.phone #nxt span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 
 </div></div>
 
-<nav class="pnav" aria-label="Slides"><button class="pb" data-d="-1" aria-label="Precedente">&#8249;</button><span class="pc"><b>1</b>/ <span class="pnt">4</span><span class="pd"></span></span><button class="pb" data-d="1" aria-label="Successiva">&#8250;</button></nav>
+<nav class="pnav" aria-label="Slides"><button class="pb" data-d="-1" aria-label="Precedente">&#8249;</button><span class="pc"><b>1</b>/ <span class="pnt"></span><span class="pd"></span></span><button class="pb" data-d="1" aria-label="Successiva">&#8250;</button></nav>
 <a id="nxt" class="off" href="#"><span id="nxtt"></span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12l7 7 7-7"/></svg></a>
 
 <script>
@@ -233,6 +234,7 @@ html.phone #nxt span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 (()=>{
 const ph=document.documentElement.classList.contains('phone');
 const secs=[...document.querySelectorAll('.slides>section')],n=secs.length;
+document.querySelectorAll('.pnt').forEach(e=>e.textContent=n);
 const names=secs.map(s=>s.getAttribute('aria-label')||'');
 const nb=document.getElementById('nxt'),nt=document.getElementById('nxtt'),box=document.querySelector('.slides');
 let cur=0;

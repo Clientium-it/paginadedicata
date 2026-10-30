@@ -15,7 +15,7 @@ from PIL import Image
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 B = json.load(open(os.path.join(HERE, 'brand.json'), encoding='utf-8'))
 E = html.escape
-REQUIRED = ('slug', 'company', 'first_name', 'domain', 'market')
+REQUIRED = ('slug', 'company', 'first_name', 'domain')   # everything else is optional: a slide shows only when its data is verified
 
 def steps_html():
     return ''.join(f'<div class="step"><i>0{i+1}</i><div><b>{E(h)}</b><p>{E(t)}</p></div></div>' for i, (h, t) in enumerate(B['steps']))
@@ -94,8 +94,9 @@ def render(sp, prefix='../', fallback=False):
     """prefix = path from the deck folder to the repo root ('../' for <slug>/index.html, '/' for 404.html)."""
     for k in REQUIRED:
         assert sp.get(k) not in (None, '', []), f'{sp.get("slug")}: missing {k}'
-    mk = sp['market']
-    pk = json.load(open(os.path.join(HERE, 'sectors', mk['sector'] + '.json'), encoding='utf-8'))   # sector pack: written once, checked by hand, 0 tokens per lead
+    mk = sp.get('market') or {}
+    pf = os.path.join(HERE, 'sectors', (mk.get('sector') or '_') + '.json')
+    pk = json.load(open(pf, encoding='utf-8')) if os.path.exists(pf) else {}   # sector pack: written once, checked by hand, 0 tokens per lead
     shot = sp.get('shot') if sp.get('shot') and os.path.exists(os.path.join(ROOT, 'assets', 'shots', sp['shot'])) else ''
     logo = sp.get('logo') if sp.get('logo') and os.path.exists(os.path.join(ROOT, 'assets', 'leadlogos', sp['logo'])) else ''
     lm = logo_mask(logo) if logo and B.get('lead_logo') else None   # default: the lead's name in the brand font, always sharp, no logo hunting per lead
@@ -107,14 +108,14 @@ def render(sp, prefix='../', fallback=False):
         'BRAND': E(B['brand']), 'BRAND_DOMAIN': E(B['brand_domain']), 'CASES_DOMAIN': E(B['cases_domain']),
         'COMPANY': E(co), 'FIRST': E(sp['first_name']), 'PREPARED': E(f"{sp['first_name']} · {co}") if not fallback else E(f'the {co} team'),
         'DOMAIN': E(sp['domain']), 'CO_MARK': mark,
-        'COVER_VISUAL': map_html(sp['market']), 'COVER_CLASS': '' if sp['market'].get('regions') else ' noshot',   # map of the market or text only, never a placeholder
+        'COVER_VISUAL': map_html(mk) if mk.get('count') else '', 'COVER_CLASS': '' if mk.get('count') and mk.get('regions') else ' noshot',   # map of the market or text only, never a placeholder
         'COVER_LINE': E(B['cover_line'].replace('{company}', co)), 'COVER_SUB': E(sp.get('cover_sub') or B.get('cover_sub', '')),
         'OFFER_HEAD': E(B['offer_head']), 'OFFER_BODY': E(B['offer_body']), 'OFFER_TAIL': E(sp.get('offer_tail', '')), 'STEPS': steps_html(),
-        'MKT_COUNT': E(mk['count']), 'MKT_LABEL': E(mk['label']), 'MKT_CHIPS': ''.join(f'<span>{E(c)}</span>' for c in mk['chips']),
+        'MKT_COUNT': E(mk.get('count', '')), 'MKT_LABEL': E(mk.get('label', '')), 'MKT_CHIPS': ''.join(f'<span>{E(c)}</span>' for c in mk.get('chips', [])),
         'MKT_LINE': E(sp.get('market_line', '')),
-        'SEGMENTS': ''.join(f'<div class="seg"><i>0{i+1}</i><div><b>{E(h)}</b><p>{E(x)}</p></div></div>' for i, (h, x) in enumerate(pk['segments'])),
-        'INS_HEAD': E(pk['insights_head']), 'INS_SUB': E(pk['insights_sub']), 'INS_SOURCE': E(pk['insights_source']),
-        'INSIGHTS': ''.join(f'<div class="irow"><span class="kpi">{E(c["kpi"])}</span><div><b>{E(c["label"])}</b><p>{E(first_sentence(c["text"]))}</p></div></div>' for c in pk['insights']),
+        'SEGMENTS': ''.join(f'<div class="seg"><i>0{i+1}</i><div><b>{E(h)}</b><p>{E(x)}</p></div></div>' for i, (h, x) in enumerate(pk.get('segments', []))),
+        'INS_HEAD': E(pk.get('insights_head', '')), 'INS_SUB': E(pk.get('insights_sub', '')), 'INS_SOURCE': E(pk.get('insights_source', '')),
+        'INSIGHTS': ''.join(f'<div class="irow"><span class="kpi">{E(c["kpi"])}</span><div><b>{E(c["label"])}</b><p>{E(first_sentence(c["text"]))}</p></div></div>' for c in pk.get('insights', [])),
         'OG_IMAGE': f"https://{B['cases_domain']}/assets/og/{E(sp['slug'])}.png" if os.path.exists(os.path.join(ROOT, 'assets', 'og', sp['slug'] + '.png')) else f"https://{B['cases_domain']}/assets/og.png",
         'PROOF_HEAD': E(B['proof_head']), 'CASES': cases_html(pk.get('sectors')), 'LOGOS': logos_html(prefix),
         'TALK_HEAD': E(B['talk_head']), 'TALK_TEXT': E(B['talk_text']), 'BOOKING_URL': E(B['booking_url']), 'BOOKING_HOST': E(B['booking_host']),
@@ -122,6 +123,10 @@ def render(sp, prefix='../', fallback=False):
         'TRACK_URL': E(B['track_url']), 'SLUG': E(sp['slug']),
     }
     out = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
+    if not mk.get('count'):                            # no verified market number: no market slide, no map, never a placeholder
+        out = re.sub(r'<!--MARKET-->.*?<!--/MARKET-->', '', out, flags=re.S)
+    elif not pk.get('insights'):                       # market known, sector data not yet: the number alone
+        out = re.sub(r'<div class="irows">.*?</div>\n', '', out, count=1, flags=re.S).replace('<div class="mgrid">', '<div class="mgrid solo">', 1)
     for k, v in slots.items():
         out = out.replace('{{' + k + '}}', v)
     assert '{{' not in out, 'unfilled slot: ' + out[out.index('{{'):out.index('{{') + 30]
