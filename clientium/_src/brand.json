@@ -140,5 +140,6 @@
  "talk_head": "Ne parliamo?",
  "talk_text": "Una breve call per vedere insieme i punti di questa pagina e capire se il tuo mercato ha i numeri per partire.",
  "msg_head": "Lo scriviamo uno per uno, a nome tuo.",
- "msg_text": "Ogni decisore riceve un messaggio scritto sulla sua azienda, firmato da te e inviato dalle tue caselle. Nessun testo parte senza la tua approvazione. Questo è un esempio di come aprirebbe il primo."
+ "msg_text": "Ogni decisore riceve un messaggio scritto sulla sua azienda, firmato da te e inviato dalle tue caselle. Nessun testo parte senza la tua approvazione. Questo è un esempio di come aprirebbe il primo.",
+ "lead_logo": false
 }

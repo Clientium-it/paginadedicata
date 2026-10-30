@@ -17,7 +17,7 @@ def page(sp):
     base = os.path.join(ROOT, 'assets', 'leadlogos', 'mask', os.path.splitext(sp.get('logo') or '_')[0])   # written by build.py
     mask = base + '.svg' if os.path.exists(base + '.svg') else base + '.png'
     mark = (f'<i class="ll" style="-webkit-mask:url({data_uri(mask)}) left center/contain no-repeat"></i>'
-            if sp.get('logo') and os.path.exists(mask) else f'<b>{E(sp["company"])}</b>')
+            if B.get('lead_logo') and sp.get('logo') and os.path.exists(mask) else f'<b>{E(sp["company"])}</b>')
     mk = sp.get('market') or {}
     big = f'<div class="big">{E(mk["count"])}</div><div class="lb">{E(mk["label"])}</div>' if mk.get('count') else ''
     return f'''<!doctype html><html><head><meta charset="utf-8">

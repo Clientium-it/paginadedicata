@@ -98,7 +98,7 @@ def render(sp, prefix='../', fallback=False):
     pk = json.load(open(os.path.join(HERE, 'sectors', mk['sector'] + '.json'), encoding='utf-8'))   # sector pack: written once, checked by hand, 0 tokens per lead
     shot = sp.get('shot') if sp.get('shot') and os.path.exists(os.path.join(ROOT, 'assets', 'shots', sp['shot'])) else ''
     logo = sp.get('logo') if sp.get('logo') and os.path.exists(os.path.join(ROOT, 'assets', 'leadlogos', sp['logo'])) else ''
-    lm = logo_mask(logo) if logo else None
+    lm = logo_mask(logo) if logo and B.get('lead_logo') else None   # default: the lead's name in the brand font, always sharp, no logo hunting per lead
     mark = (f'<span class="ll" role="img" aria-label="{E(sp["company"])}" style="--m:url({prefix}assets/leadlogos/mask/{E(lm[0])});--ar:{lm[1]:.3f}"></span>'
             if lm else f'<span class="co">{E(sp["company"])}</span>')
     co = sp['company']
