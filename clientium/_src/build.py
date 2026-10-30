@@ -10,7 +10,8 @@ Spec fields (written by auto/deck.py, or by hand):
   cover_sub   one sentence under the cover headline (optional, from the model or a default)
   offer_tail  one sentence specific to the lead under the offer body (optional)
 """
-import json, os, sys, html, urllib.parse
+import json, os, re, sys, html, urllib.parse
+from PIL import Image
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 B = json.load(open(os.path.join(HERE, 'brand.json'), encoding='utf-8'))
 E = html.escape
@@ -40,9 +41,32 @@ def pick_cases(sectors, n=3):
 def cases_html(sectors=None):
     out = []
     for c in pick_cases(sectors):
-        out.append(f'<a class="card" href="{E(c["url"])}" target="_blank" rel="noopener"><span class="nm">{E(c["name"])}</span>'
-                   f'<span class="kpi">{E(c["kpi"])}</span><span class="lb">{E(c["label"])}</span><p>{E(c["text"])}</p><span class="more">Leggi il caso completo →</span></a>')
+        out.append(f'<a class="crow" href="{E(c["url"])}" target="_blank" rel="noopener"><span class="kpi">{E(c["kpi"])}</span>'
+                   f'<div><b>{E(c["name"])}</b><p>{E(c["label"][:1].upper() + c["label"][1:])}.<span class="tx"> {E(first_sentence(c["text"]))}</span></p></div></a>')
     return ''.join(out)
+
+def logo_mask(name):
+    """the lead logo as a one-colour mask (alpha = ink), trimmed, so the page paints it in its own text colour.
+    Transparent logos keep their shape; opaque ones (white or dark box) are keyed on contrast with the corners."""
+    src = os.path.join(ROOT, 'assets', 'leadlogos', name)
+    im = Image.open(src).convert('RGBA'); w, h = im.size
+    L = im.convert('L'); A = im.getchannel('A')
+    if A.getextrema()[0] < 250:                        # has transparency: the shape is the alpha
+        m = A
+    else:
+        corners = [L.getpixel(xy) for xy in ((0, 0), (w - 1, 0), (0, h - 1), (w - 1, h - 1))]
+        bg = sum(corners) / 4
+        m = L.point(lambda v: max(0, min(255, int((abs(v - bg) - 28) * 255 / 120))))   # below 28 = paper noise, gone; 148+ = full ink
+    box = m.getbbox()
+    if not box: return None
+    m = m.crop(box)
+    out = Image.new('RGBA', m.size, (0, 0, 0, 0)); out.putalpha(m)
+    d = os.path.join(ROOT, 'assets', 'leadlogos', '_mask'); os.makedirs(d, exist_ok=True)
+    fn = os.path.splitext(name)[0] + '.png'; out.save(os.path.join(d, fn))
+    return fn, m.size[0] / m.size[1]
+
+def first_sentence(s):
+    return re.split(r'(?<=\.)\s', s, 1)[0]
 
 def logos_html(prefix):
     return ''.join(f'<img src="{prefix}{E(l)}" alt="">' if l.startswith('assets/') else f'<span class="tl">{E(l)}</span>' for l in B['trusted_logos'])
@@ -55,7 +79,9 @@ def render(sp, prefix='../', fallback=False):
     pk = json.load(open(os.path.join(HERE, 'sectors', mk['sector'] + '.json'), encoding='utf-8'))   # sector pack: written once, checked by hand, 0 tokens per lead
     shot = sp.get('shot') if sp.get('shot') and os.path.exists(os.path.join(ROOT, 'assets', 'shots', sp['shot'])) else ''
     logo = sp.get('logo') if sp.get('logo') and os.path.exists(os.path.join(ROOT, 'assets', 'leadlogos', sp['logo'])) else ''
-    mark = f'<img class="ll" src="{prefix}assets/leadlogos/{E(logo)}" alt="{E(sp["company"])}">' if logo else f'<span class="co">{E(sp["company"])}</span>'
+    lm = logo_mask(logo) if logo else None
+    mark = (f'<span class="ll" role="img" aria-label="{E(sp["company"])}" style="--m:url({prefix}assets/leadlogos/_mask/{E(lm[0])});--ar:{lm[1]:.3f}"></span>'
+            if lm else f'<span class="co">{E(sp["company"])}</span>')
     co = sp['company']
     slots = {
         'THEME': B.get('theme', 'dark'), 'ACCENT': B['accent'], 'INK': B['ink'], 'PAPER': B['paper'], 'FONT': B['font'], 'FONT_Q': urllib.parse.quote(B['font']),
@@ -69,7 +95,7 @@ def render(sp, prefix='../', fallback=False):
         'MKT_LINE': E(sp.get('market_line', '')),
         'SEGMENTS': ''.join(f'<div class="seg"><i>0{i+1}</i><div><b>{E(h)}</b><p>{E(x)}</p></div></div>' for i, (h, x) in enumerate(pk['segments'])),
         'INS_HEAD': E(pk['insights_head']), 'INS_SUB': E(pk['insights_sub']), 'INS_SOURCE': E(pk['insights_source']),
-        'INSIGHTS': ''.join(f'<div class="icard"><span class="kpi">{E(c["kpi"])}</span><span class="lb">{E(c["label"])}</span><p>{E(c["text"])}</p></div>' for c in pk['insights']),
+        'INSIGHTS': ''.join(f'<div class="irow"><span class="kpi">{E(c["kpi"])}</span><div><b>{E(c["label"])}</b><p>{E(first_sentence(c["text"]))}</p></div></div>' for c in pk['insights']),
         'OG_IMAGE': f"https://{B['cases_domain']}/assets/og/{E(sp['slug'])}.png" if os.path.exists(os.path.join(ROOT, 'assets', 'og', sp['slug'] + '.png')) else f"https://{B['cases_domain']}/assets/og.png",
         'PROOF_HEAD': E(B['proof_head']), 'CASES': cases_html(pk.get('sectors')), 'LOGOS': logos_html(prefix),
         'TALK_HEAD': E(B['talk_head']), 'TALK_TEXT': E(B['talk_text']), 'BOOKING_URL': E(B['booking_url']), 'BOOKING_HOST': E(B['booking_host']),

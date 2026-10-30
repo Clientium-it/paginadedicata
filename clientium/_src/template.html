@@ -32,7 +32,7 @@ p{font-size:18px;line-height:1.45}
 .mute{color:var(--mute)}
 .pair{display:flex;align-items:center;gap:22px;font-size:30px;font-weight:800;letter-spacing:-.02em}
 .pair .x{color:var(--accent);font-weight:400}
-.pair img.ll{height:44px;max-width:220px;object-fit:contain}
+.pair .ll{display:block;height:50px;width:calc(50px * var(--ar));max-width:240px;background:var(--fg);-webkit-mask:var(--m) left center/contain no-repeat;mask:var(--m) left center/contain no-repeat}
 .pair .co{font-weight:800}
 .wm{font-weight:800;letter-spacing:-.03em}
 /* cover */
@@ -92,6 +92,15 @@ p{font-size:18px;line-height:1.45}
 .icard .lb{font-size:13px;letter-spacing:.05em;text-transform:uppercase;color:var(--fg);font-weight:700;line-height:1.35}
 .icard p{font-size:14.5px;color:var(--mute);line-height:1.45}
 .src{margin-top:auto;font-size:12.5px;color:var(--mute)}
+/* market insights and proof as compact rows: one idea per line, no paragraphs */
+.irows,.crows{display:grid;grid-template-columns:auto 1fr;column-gap:22px;align-content:start;margin-top:6px}.irows>.segh,.crows>.segh,.irows>.src{grid-column:1/-1}
+.irow,.crow{grid-column:1/-1;grid-template-columns:subgrid}
+.irow,.crow{display:grid;gap:22px;align-items:baseline;border-top:1px solid var(--line);padding:16px 0;text-decoration:none}
+.irow .kpi,.crow .kpi{font-size:38px;font-weight:800;letter-spacing:-.03em;color:var(--accent);line-height:1;white-space:nowrap}
+.irow b,.crow b{display:block;font-size:16.5px;line-height:1.35}
+.irow p,.crow p{font-size:14px;color:var(--mute);margin-top:3px;line-height:1.4}
+.crow:hover b{text-decoration:underline}
+.irows .src{margin-top:10px}
 /* offer */
 .offer .cols{display:grid;grid-template-columns:1fr 1fr;gap:48px;margin-top:30px;flex:1}
 .offer .body{font-size:19px;line-height:1.5}
@@ -134,7 +143,7 @@ html.phone .slides{position:static;width:auto;height:calc(100dvh - 56px);transfo
 html.phone .slides>section{position:static;opacity:1;pointer-events:auto;height:calc(100dvh - 56px);scroll-snap-align:start;scroll-snap-stop:always;overflow:hidden}
 html.phone .s{position:static;height:100%;padding:24px 18px 70px;overflow-y:auto;overscroll-behavior:contain}
 html.phone h1{font-size:34px;max-width:none}html.phone h2{font-size:27px}html.phone p{font-size:15px}
-html.phone .pair{font-size:22px;gap:12px;flex-wrap:wrap}html.phone .pair img.ll{height:30px;max-width:150px}
+html.phone .pair{font-size:22px;gap:12px;flex-wrap:wrap}html.phone .pair .ll{height:30px;width:calc(30px * var(--ar));max-width:160px}
 html.phone .cover .grid,html.phone .saw .wrap,html.phone .offer .cols,html.phone .talk .grid{grid-template-columns:1fr;gap:18px;margin-top:18px}
 html.phone .cover .sub{font-size:16px;margin-top:14px}html.phone .cover .prep{margin-top:14px;font-size:11px}
 html.phone .cover.noshot h1{font-size:38px}
@@ -145,13 +154,14 @@ html.phone .cards{grid-template-columns:1fr;gap:12px;margin-top:16px}html.phone 
 html.phone .trust{margin-top:18px;flex-direction:column;align-items:flex-start;gap:10px}html.phone .trust .logos{flex-wrap:wrap;gap:18px}
 html.phone .mgrid,html.phone .msg .cols{grid-template-columns:1fr;gap:18px;margin-top:14px}
 html.phone .big{font-size:60px}html.phone .bigl{font-size:17px}html.phone .chips{margin-top:14px}html.phone .chips span{font-size:11.5px;padding:5px 10px}
+html.phone .irows,html.phone .crows{column-gap:12px}html.phone .irow,html.phone .crow{gap:12px;padding:11px 0}html.phone .irow .kpi,html.phone .crow .kpi{font-size:26px}html.phone .irow b,html.phone .crow b{font-size:14.5px}html.phone .irow p,html.phone .crow p{font-size:12.5px}
 html.phone .mline{font-size:14.5px;margin-top:14px}html.phone .pts.one .pt p{font-size:14px}
 html.phone .mail{padding:14px 16px}html.phone .mh{grid-template-columns:58px 1fr;font-size:12px;padding:5px 0}html.phone .mb{font-size:13.5px}
 html.phone .icards{grid-template-columns:1fr;gap:10px;margin-top:14px}html.phone .icard{padding:14px 16px;gap:4px}html.phone .icard .kpi{font-size:32px}html.phone .icard .lb{font-size:11.5px}html.phone .icard p{font-size:13px}
 html.phone .src{margin-top:12px;font-size:11px}html.phone .seg{padding:10px 0}html.phone .seg b{font-size:16px}html.phone .seg p{font-size:13.5px}
 html.phone .cover{padding-bottom:64px}html.phone .cover .grid{gap:6px}html.phone .cover h1{font-size:29px}
 html.phone .map{flex-direction:row;align-items:center;gap:14px;justify-content:flex-start}html.phone .map svg{height:min(28vh,260px)}
-@media (max-height:720px){html.phone .cover .sub{display:none}html.phone .cover h1{font-size:27px}}
+@media (max-height:720px){html.phone .crow .tx,html.phone .offer .body.mute{display:none}html.phone .cover .sub{display:none}html.phone .cover h1{font-size:27px}}
 html.phone .map .tag{position:static;font-size:12px;padding:8px 12px}html.phone .map .tag b{font-size:24px}html.phone .map .credit{font-size:9px}
 html.phone .btn{font-size:16px;padding:14px 22px;margin-top:18px}
 html.phone .pnav{position:fixed;left:0;right:0;bottom:0;height:56px;display:flex;align-items:center;justify-content:space-between;padding:0 10px env(safe-area-inset-bottom,0);background:var(--bg);border-top:1px solid var(--line);z-index:50}
@@ -171,10 +181,9 @@ html.phone #nxt span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   <div class="pair"><span class="wm">{{BRAND}}</span><span class="x">×</span>{{CO_MARK}}</div>
   <div class="grid">
     <div>
-      <div class="eyebrow">Preparata per {{COMPANY}}</div>
+      <div class="eyebrow">Preparata per {{PREPARED}}</div>
       <h1>{{COVER_LINE}}</h1>
       <p class="sub mute">{{COVER_SUB}}</p>
-      <div class="prep">Preparata per <b>{{PREPARED}}</b></div>
     </div>
     {{COVER_VISUAL}}
   </div>
@@ -186,38 +195,22 @@ html.phone #nxt span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
     <div>
       <div class="big">{{MKT_COUNT}}</div>
       <div class="bigl">{{MKT_LABEL}}</div>
-      <div class="chips">{{MKT_CHIPS}}</div>
       <p class="mline">{{MKT_LINE}}</p>
     </div>
-    <div class="segs"><div class="segh">Come lo divideremmo</div>{{SEGMENTS}}</div>
+    <div class="irows"><div class="segh">{{INS_HEAD}}</div>{{INSIGHTS}}<p class="src">{{INS_SOURCE}}</p></div>
   </div>
 </div></section>
 
-<section data-i="3" aria-label="{{INS_HEAD}}"><div class="s ins">
-  <div class="eyebrow">Dati dal campo</div>
-  <h2>{{INS_HEAD}}</h2>
-  <p class="mute" style="margin-top:10px">{{INS_SUB}}</p>
-  <div class="icards">{{INSIGHTS}}</div>
-  <p class="src">{{INS_SOURCE}}</p>
-</div></section>
-
-<section data-i="4" aria-label="La proposta per {{COMPANY}}"><div class="s offer">
+<section data-i="3" aria-label="La proposta per {{COMPANY}}"><div class="s offer">
   <div class="eyebrow">La proposta per {{COMPANY}}</div>
   <h2>{{OFFER_HEAD}}</h2>
   <div class="cols">
     <div><p class="body">{{OFFER_BODY}}</p><p class="body mute" style="margin-top:16px">{{OFFER_TAIL}}</p></div>
-    <div class="steps">{{STEPS}}</div>
+    <div class="crows"><div class="segh">{{PROOF_HEAD}}</div>{{CASES}}</div>
   </div>
 </div></section>
 
-<section data-i="5" aria-label="{{PROOF_HEAD}}"><div class="s proof">
-  <div class="eyebrow">Risultati</div>
-  <h2>{{PROOF_HEAD}}</h2>
-  <div class="cards">{{CASES}}</div>
-  <div class="trust"><span>Hanno scelto Clientium</span><div class="logos">{{LOGOS}}</div></div>
-</div></section>
-
-<section data-i="6" aria-label="{{TALK_HEAD}}"><div class="s talk">
+<section data-i="4" aria-label="{{TALK_HEAD}}"><div class="s talk">
   <div class="pair"><span class="wm">{{BRAND}}</span><span class="x">×</span>{{CO_MARK}}</div>
   <div class="grid">
     <div>
@@ -232,7 +225,7 @@ html.phone #nxt span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 
 </div></div>
 
-<nav class="pnav" aria-label="Slides"><button class="pb" data-d="-1" aria-label="Precedente">&#8249;</button><span class="pc"><b>1</b>/ <span class="pnt">6</span><span class="pd"></span></span><button class="pb" data-d="1" aria-label="Successiva">&#8250;</button></nav>
+<nav class="pnav" aria-label="Slides"><button class="pb" data-d="-1" aria-label="Precedente">&#8249;</button><span class="pc"><b>1</b>/ <span class="pnt">4</span><span class="pd"></span></span><button class="pb" data-d="1" aria-label="Successiva">&#8250;</button></nav>
 <a id="nxt" class="off" href="#"><span id="nxtt"></span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12l7 7 7-7"/></svg></a>
 
 <script>
