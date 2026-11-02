@@ -173,55 +173,116 @@ html.phone .pc b{font-size:20px;color:var(--accent)}
 html.phone .pd{display:flex;gap:5px;margin-left:8px}html.phone .pd i{width:6px;height:6px;border-radius:50%;background:var(--line)}html.phone .pd i.on{background:var(--accent)}
 html.phone #nxt{bottom:calc(56px + env(safe-area-inset-bottom,0) + 12px);font-size:14px;padding:.6em 1em .6em 1.15em;max-width:calc(100vw - 32px)}
 html.phone #nxt span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+/* ---------- v6: Thomas 30/10. cover only, little text, case study slide, Craze style close, every phone slide fits ---------- */
+.ticks{list-style:none;display:flex;flex-direction:column;gap:26px;margin-top:48px;max-width:860px}
+.ticks li{display:grid;grid-template-columns:38px 1fr;gap:16px;font-size:32px;font-weight:700;line-height:1.25;letter-spacing:-.01em}
+.ticks li::before{content:"";width:30px;height:30px;margin-top:2px;border-radius:50%;background:var(--accent) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%230a0f1c' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12.5l4.5 4.5L19 7.5'/%3E%3C/svg%3E") center/18px no-repeat}
+.irow{grid-template-columns:subgrid}.irow b{font-size:18px}
+.vcards{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:28px}
+.vc{display:flex;flex-direction:column;gap:6px;text-decoration:none;color:inherit}
+.vc .vis{position:relative;aspect-ratio:16/9;border-radius:14px;overflow:hidden;border:1px solid var(--line);background:radial-gradient(120% 120% at 0% 0%,color-mix(in srgb,var(--accent) 34%,transparent),transparent 60%),var(--card);background-size:cover;background-position:center;display:flex;align-items:flex-end;padding:18px;cursor:pointer}
+.vc .vis .kpi{font-size:58px;font-weight:800;letter-spacing:-.04em;line-height:.95;color:var(--accent)}
+.vc.hasv .vis .kpi{display:none}
+.vc .vis iframe,.vc .vis video{position:absolute;inset:0;width:100%;height:100%;border:0;background:#000}
+.play{position:absolute;right:16px;bottom:16px;width:54px;height:54px;border-radius:50%;background:var(--accent);box-shadow:0 8px 24px rgba(0,0,0,.4);transition:transform .2s}
+.play::after{content:"";position:absolute;left:55%;top:50%;transform:translate(-50%,-50%);border-style:solid;border-width:10px 0 10px 16px;border-color:transparent transparent transparent var(--ink)}
+.vc .vis:hover .play{transform:scale(1.1)}
+.vc .tag{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute);margin-top:8px}
+.vc h3{font-size:21px;font-weight:800;letter-spacing:-.01em}
+.vc .lb{font-size:15px;color:var(--mute);line-height:1.35}
+.vc .k2{font-size:30px;font-weight:800;color:var(--accent);letter-spacing:-.03em;line-height:1;display:none}.vc.hasv .k2{display:block}
+.marquee{margin-top:auto;overflow:hidden;border-top:1px solid var(--line);padding-top:22px;-webkit-mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent);mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)}
+.marquee .track{display:flex;align-items:center;gap:56px;width:max-content;animation:roll 38s linear infinite}
+.marquee img{height:30px;width:auto;max-width:150px;object-fit:contain;filter:brightness(0) invert(1);opacity:.7}
+html.light .marquee img{filter:brightness(0);opacity:.6}
+@keyframes roll{to{transform:translateX(-50%)}}
+.s.talk{padding:0;display:grid;grid-template-columns:1fr 40%}
+.talk .l{padding:64px 72px;display:flex;flex-direction:column;justify-content:center;align-items:flex-start;gap:34px}
+.talk h2{font-size:58px;max-width:13ch;margin:0}
+.talk .btn{margin:0}
+.talk .contact{margin:0;font-size:14px;color:var(--mute)}
+.talk .r{margin:0;position:relative;background:#111 50% 18%/cover no-repeat}
+.talk .r figcaption{position:absolute;left:28px;bottom:28px;display:flex;flex-direction:column;gap:4px;background:var(--paper);color:var(--ink);padding:14px 18px;border-radius:8px}
+.talk .r b{font-size:20px;font-weight:800}.talk .r span{font-size:13px;opacity:.7}
+/* motion: elements rise in when their slide opens, numbers count up */
+.in{opacity:0;transform:translateY(16px);transition:opacity .6s ease,transform .6s cubic-bezier(.2,.7,.2,1)}
+section.seen .in{opacity:1;transform:none}
+section.seen .in:nth-child(2){transition-delay:.08s}section.seen .in:nth-child(3){transition-delay:.16s}section.seen .in:nth-child(4){transition-delay:.24s}
+.ticks li,.vc{opacity:0;transform:translateY(16px);transition:opacity .6s ease,transform .6s cubic-bezier(.2,.7,.2,1)}
+section.seen .ticks li,section.seen .vc{opacity:1;transform:none}
+section.seen .ticks li:nth-child(2),section.seen .vc:nth-child(2){transition-delay:.15s}section.seen .ticks li:nth-child(3),section.seen .vc:nth-child(3){transition-delay:.3s}
+@media (prefers-reduced-motion:reduce){.in,.ticks li,.vc{opacity:1;transform:none;transition:none}.marquee .track{animation:none}}
+/* phone: one slide = one screen, nothing scrolls inside a slide */
+html.phone #nxt{display:none}
+html.phone .s{padding:22px 18px 18px;overflow:hidden;display:flex;flex-direction:column}
+html.phone .cover .grid{flex:1;min-height:0;align-content:space-between;gap:10px}
+html.phone .cover h1{font-size:clamp(26px,7.6vw,32px)}
+html.phone .map svg{height:min(30vh,280px)}
+html.phone .market .mgrid{gap:14px}html.phone .big{font-size:58px}html.phone .bigl{font-size:16px}
+html.phone .irow b{font-size:14px}html.phone .irow{padding:10px 0}
+html.phone .ticks{margin-top:22px;gap:16px}html.phone .ticks li{font-size:19px;grid-template-columns:28px 1fr;gap:12px}html.phone .ticks li::before{width:24px;height:24px;background-size:14px}
+html.phone .vcards{grid-template-columns:1fr;gap:10px;margin-top:14px}
+html.phone .vc{display:grid;grid-template-columns:112px 1fr;grid-template-rows:auto auto auto;column-gap:14px;row-gap:2px;align-items:center}
+html.phone .vc .vis{grid-row:1/4;aspect-ratio:1;padding:10px;border-radius:10px}html.phone .vc .vis .kpi{font-size:28px}
+html.phone .play{width:38px;height:38px;right:10px;bottom:10px}html.phone .play::after{border-width:7px 0 7px 11px}
+html.phone .vc .tag{margin:0;font-size:9.5px}html.phone .vc h3{font-size:16px}html.phone .vc .lb{font-size:12.5px}html.phone .vc .k2{font-size:20px}
+html.phone .vc.playing{grid-template-columns:1fr}html.phone .vc.playing .vis{grid-row:auto;aspect-ratio:16/10}
+html.phone .marquee{padding-top:14px}html.phone .marquee img{height:22px}html.phone .marquee .track{gap:34px}
+html.phone .s.talk{display:flex;flex-direction:column;padding:0}
+html.phone .talk .l{padding:22px 18px 18px;gap:16px}
+html.phone .talk h2{font-size:32px}
+html.phone .talk .pair{font-size:22px}
+html.phone .talk .r{flex:1;min-height:0;background-position:50% 22%}
+html.phone .talk .r figcaption{left:14px;bottom:14px;padding:9px 13px}html.phone .talk .r b{font-size:16px}html.phone .talk .r span{font-size:11px}
+@media (max-height:700px){html.phone .vc .tag{display:none}html.phone .vc .vis{aspect-ratio:auto;height:78px}html.phone .vc{grid-template-columns:96px 1fr}html.phone .src{display:none}html.phone .talk .contact{display:none}}
 </style>
 </head>
 <body>
 <div class="stage"><div class="slides">
 
 <section data-i="1" aria-label="Preparata per {{COMPANY}}" class="on"><div class="s cover{{COVER_CLASS}}">
-  <div class="pair"><span class="wm">{{BRAND}}</span><span class="x">×</span>{{CO_MARK}}</div>
+  <div class="pair in"><span class="wm">{{BRAND}}</span><span class="x">×</span>{{CO_MARK}}</div>
   <div class="grid">
     <div>
-      <div class="eyebrow">Preparata per {{PREPARED}}</div>
-      <h1>{{COVER_LINE}}</h1>
-      <p class="sub mute">{{COVER_SUB}}</p>
+      <div class="eyebrow in">Preparata per {{PREPARED}}</div>
+      <h1 class="in">{{COVER_LINE}}</h1>
     </div>
     {{COVER_VISUAL}}
   </div>
 </div></section>
 
 <!--MARKET--><section data-i="2" aria-label="Il mercato di {{COMPANY}}"><div class="s market">
-  <div class="eyebrow">Il mercato di {{COMPANY}}</div>
+  <div class="eyebrow in">Il mercato di {{COMPANY}}</div>
   <div class="mgrid">
-    <div>
-      <div class="big">{{MKT_COUNT}}</div>
+    <div class="in">
+      <div class="big"><span class="cu">{{MKT_COUNT}}</span></div>
       <div class="bigl">{{MKT_LABEL}}</div>
-      <p class="mline">{{MKT_LINE}}</p>
     </div>
-    <div class="irows"><div class="segh">{{INS_HEAD}}</div>{{INSIGHTS}}<p class="src">{{INS_SOURCE}}</p></div>
+    <div class="irows in"><div class="segh">{{INS_HEAD}}</div>{{INSIGHTS}}<p class="src">{{INS_SOURCE}}</p></div>
   </div>
 </div></section><!--/MARKET-->
 
 <section data-i="3" aria-label="La proposta per {{COMPANY}}"><div class="s offer">
-  <div class="eyebrow">La proposta per {{COMPANY}}</div>
-  <h2>{{OFFER_HEAD}}</h2>
-  <div class="cols">
-    <div><p class="body">{{OFFER_BODY}}</p><p class="body mute" style="margin-top:16px">{{OFFER_TAIL}}</p></div>
-    <div class="crows"><div class="segh">{{PROOF_HEAD}}</div>{{CASES}}</div>
-  </div>
+  <div class="eyebrow in">La proposta per {{COMPANY}}</div>
+  <h2 class="in">{{OFFER_HEAD}}</h2>
+  <ul class="ticks">{{OFFER_POINTS}}</ul>
 </div></section>
 
-<section data-i="4" aria-label="{{TALK_HEAD}}"><div class="s talk">
-  <div class="pair"><span class="wm">{{BRAND}}</span><span class="x">×</span>{{CO_MARK}}</div>
-  <div class="grid">
-    <div>
-      <h2>{{TALK_HEAD}}</h2>
-      <p class="mute" style="margin-top:14px;max-width:46ch">{{TALK_TEXT}}</p>
-      <a class="btn" href="{{BOOKING_URL}}" target="_blank" rel="noopener">Prenota una call <span>→</span></a>
-      <p class="contact">{{SENDER_NAME}}, {{SENDER_TITLE}} · {{BRAND_DOMAIN}} · oppure rispondi su LinkedIn</p>
-    </div>
-    <figure class="photo"><img src="{{TEAM_PHOTO}}" alt="{{SENDER_NAME}}"><figcaption>{{SENDER_NAME}}, {{SENDER_TITLE}}</figcaption></figure>
+<section data-i="4" aria-label="{{PROOF_HEAD}}"><div class="s proof">
+  <div class="eyebrow in">Risultati</div>
+  <h2 class="in">{{PROOF_HEAD}}</h2>
+  <div class="vcards">{{CASES}}</div>
+  <div class="marquee in" aria-label="Hanno scelto {{BRAND}}"><div class="track">{{REFS}}{{REFS}}</div></div>
+</div></section>
+
+<section data-i="5" aria-label="{{TALK_HEAD}}"><div class="s talk">
+  <div class="l">
+    <h2 class="in">{{TALK_HEAD}}</h2>
+    <a class="btn in" href="{{BOOKING_URL}}" target="_blank" rel="noopener">Prenota una call <span>→</span></a>
+    <div class="pair in"><span class="wm">{{BRAND}}</span><span class="x">×</span>{{CO_MARK}}</div>
+    <p class="contact in">{{BRAND_DOMAIN}}</p>
   </div>
+  <figure class="r" role="img" aria-label="{{SENDER_NAME}}" style="background-image:url({{TEAM_PHOTO}})"><figcaption><b>{{SENDER_NAME}}</b><span>{{SENDER_TITLE}}</span></figcaption></figure>
 </div></section>
 
 </div></div>
@@ -252,6 +313,19 @@ else{
   let wl=0;addEventListener('wheel',e=>{const t=Date.now();if(t-wl<700||Math.abs(e.deltaY)<20)return;wl=t;go(cur+(e.deltaY>0?1:-1))},{passive:true});
   let ty=null;addEventListener('touchstart',e=>ty=e.touches[0].clientY,{passive:true});addEventListener('touchend',e=>{if(ty===null)return;const d=ty-e.changedTouches[0].clientY;if(Math.abs(d)>50)go(cur+(d>0?1:-1));ty=null},{passive:true});
   paint(0)}
+})();
+</script>
+<script>
+/* motion + video: a slide gets .seen the first time it opens; numbers count up; a case card plays its video in place */
+(()=>{const secs=[...document.querySelectorAll('.slides>section')];
+const fmt=(n,dec)=>n.toLocaleString('it-IT',{minimumFractionDigits:dec,maximumFractionDigits:dec});
+const count=el=>{const m=el.textContent.match(/^(\D*)([\d.]+(?:,\d+)?)(.*)$/);if(!m)return;const dec=(m[2].split(',')[1]||'').length,end=parseFloat(m[2].replace(/\./g,'').replace(',','.'));
+  if(!(end>9))return;const t0=performance.now(),d=1100;const f=t=>{const k=Math.min(1,(t-t0)/d),e=1-Math.pow(1-k,3);el.textContent=m[1]+fmt(end*e,dec)+m[3];if(k<1)requestAnimationFrame(f)};requestAnimationFrame(f)};
+const seen=i=>{const s=secs[i-1];if(!s||s.classList.contains('seen'))return;s.classList.add('seen');if(!matchMedia('(prefers-reduced-motion:reduce)').matches)s.querySelectorAll('.cu').forEach(count)};
+document.addEventListener('slide',e=>seen(e.detail));setTimeout(()=>seen(window.__slide||1),60);
+document.addEventListener('click',e=>{const v=e.target.closest('.vis[data-v]');if(!v||v.querySelector('iframe,video'))return;e.preventDefault();
+  const src=v.dataset.v,card=v.closest('.vc');card.classList.add('playing');
+  v.insertAdjacentHTML('beforeend',/\.mp4$/.test(src)?'<video src="'+src+'" autoplay controls playsinline></video>':'<iframe src="https://www.youtube-nocookie.com/embed/'+src+'?autoplay=1&rel=0&playsinline=1" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>')});
 })();
 </script>
 <script>

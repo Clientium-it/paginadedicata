@@ -38,11 +38,18 @@ def pick_cases(sectors, n=3):
     ranked = sorted(enumerate(B['cases']), key=lambda ic: (-len(want & {t.lower() for t in ic[1].get('sectors', [])}), ic[0]))
     return [c for _, c in ranked[:n]]
 
-def cases_html(sectors=None):
+def cases_html(sectors=None, prefix='../'):
+    """case cards: a video plays in place when the case has one (case.video = YouTube id or assets/...mp4, case.thumb = image), otherwise the number is the picture"""
     out = []
     for c in pick_cases(sectors):
-        out.append(f'<a class="crow" href="{E(c["url"])}" target="_blank" rel="noopener"><span class="kpi">{E(c["kpi"])}</span>'
-                   f'<div><b>{E(c["name"])}</b><p>{E(c["label"][:1].upper() + c["label"][1:])}.<span class="tx"> {E(first_sentence(c["text"]))}</span></p></div></a>')
+        v = c.get('video', '')
+        src = prefix + v if v.endswith('.mp4') else v
+        bg = f' style="background-image:url({prefix}{E(c["thumb"])})"' if c.get('thumb') else ''
+        vis = (f'<div class="vis" data-v="{E(src)}" role="button" aria-label="Guarda il video di {E(c["name"])}"{bg}><span class="play"></span></div>' if v else
+               f'<div class="vis"><span class="kpi cu">{E(c["kpi"])}</span></div>')
+        tag, href = ('div', '') if v else ('a', f' href="{E(c["url"])}" target="_blank" rel="noopener"')
+        out.append(f'<{tag} class="vc{" hasv" if v else ""}"{href}>{vis}<span class="tag">{E(first_sentence(c["text"]).rstrip("."))}</span>'
+                   f'<h3>{E(c["name"])}</h3><span class="k2">{E(c["kpi"])}</span><span class="lb">{E(c["label"][:1].upper() + c["label"][1:])}</span></{tag}>')
     return ''.join(out)
 
 def logo_mask(name):
@@ -115,10 +122,10 @@ def render(sp, prefix='../', fallback=False):
         'MKT_LINE': E(sp.get('market_line', '')),
         'SEGMENTS': ''.join(f'<div class="seg"><i>0{i+1}</i><div><b>{E(h)}</b><p>{E(x)}</p></div></div>' for i, (h, x) in enumerate(pk.get('segments', []))),
         'INS_HEAD': E(pk.get('insights_head', '')), 'INS_SUB': E(pk.get('insights_sub', '')), 'INS_SOURCE': E(pk.get('insights_source', '')),
-        'INSIGHTS': ''.join(f'<div class="irow"><span class="kpi">{E(c["kpi"])}</span><div><b>{E(c["label"])}</b><p>{E(first_sentence(c["text"]))}</p></div></div>' for c in pk.get('insights', [])),
+        'INSIGHTS': ''.join(f'<div class="irow"><span class="kpi">{E(c["kpi"])}</span><div><b>{E(c["label"])}</b></div></div>' for c in pk.get('insights', [])),
         'OG_IMAGE': f"https://{B['cases_domain']}/assets/og/{E(sp['slug'])}.png" if os.path.exists(os.path.join(ROOT, 'assets', 'og', sp['slug'] + '.png')) else f"https://{B['cases_domain']}/assets/og.png",
-        'PROOF_HEAD': E(B['proof_head']), 'CASES': cases_html(pk.get('sectors')), 'LOGOS': logos_html(prefix),
-        'TALK_HEAD': E(B['talk_head']), 'TALK_TEXT': E(B['talk_text']), 'BOOKING_URL': E(B['booking_url']), 'BOOKING_HOST': E(B['booking_host']),
+        'PROOF_HEAD': E(B['proof_head']), 'CASES': cases_html(pk.get('sectors') or mk.get('sectors'), prefix), 'OFFER_POINTS': ''.join(f'<li>{E(x)}</li>' for x in B['offer_points']), 'REFS': ''.join(f'<img src="{prefix}{E(r)}" alt="">' for r in B.get('refs', [])), 'LOGOS': logos_html(prefix),
+        'TALK_HEAD': E(B['talk_head'].replace('{company}', co)), 'TALK_TEXT': E(B['talk_text']), 'BOOKING_URL': E(B['booking_url']), 'BOOKING_HOST': E(B['booking_host']),
         'SENDER_NAME': E(B['sender_name']), 'SENDER_TITLE': E(B['sender_title']), 'TEAM_PHOTO': prefix + E(B['team_photo']),
         'TRACK_URL': E(B['track_url']), 'SLUG': E(sp['slug']),
     }
