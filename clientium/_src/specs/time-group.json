@@ -1,0 +1,73 @@
+{
+ "slug": "time-group",
+ "company": "Time Group",
+ "first_name": "Paolo",
+ "domain": "timegroup.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Soluzioni software integrate per le aziende manifatturiere italiane. Ecco chi contatteremmo per Time Group.",
+ "market_note": "Time Group sviluppa software ERP per le aziende manifatturiere italiane, con soluzioni per macchine, lavorazioni meccaniche e cantieristica navale, quindi parleremmo con chi decide su gestionali e produzione.",
+ "evidence": [
+  {
+   "claim": "Produce soluzioni software per le aziende manifatturiere italiane",
+   "url": "https://www.timegroup.it/",
+   "quote": "Soluzioni software specifiche e integrate per le aziende manifatturiere italiane"
+  },
+  {
+   "claim": "Ha soluzioni ERP verticali per settori manifatturieri come la cantieristica navale",
+   "url": "https://www.timegroup.it/",
+   "quote": "ERP per la Cantieristica Navale e Yacht"
+  },
+  {
+   "claim": "BMS è il sistema ERP sviluppato dal lead",
+   "url": "https://www.timegroup.it/prodotti/bms-lerp-integrato-per-le-aziende/",
+   "quote": "BMS è il sistema ERP sviluppato da TIME"
+  },
+  {
+   "claim": "I clienti sono PMI manifatturiere",
+   "url": "https://www.timegroup.it/azienda/",
+   "quote": "TIME lavora nel mercato delle PMI manifatturiere da oltre 40 anni"
+  }
+ ],
+ "market": {
+  "count": "21.341",
+  "label": "titolari, CEO e direttori di piccole e medie imprese manifatturiere italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "manifatturiero",
+   "macchine e macchinari",
+   "cantieristica navale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"manufacturing,machinery manufacturing,industrial machinery manufacturing,shipbuilding\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

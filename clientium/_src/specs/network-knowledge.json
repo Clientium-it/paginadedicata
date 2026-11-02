@@ -1,0 +1,53 @@
+{
+ "slug": "network-knowledge",
+ "company": "Network & Knowledge",
+ "first_name": "Cesare",
+ "domain": "n-k.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Assistenza e consulenza in ambito societario, fiscale e della gestione aziendale. Ecco chi contatteremmo per Network & Knowledge.",
+ "market_note": "Network & Knowledge assiste da Brescia e provincia le imprese con consulenza societaria, fiscale e aziendale, quindi parleremmo con chi guida le aziende del territorio bresciano.",
+ "evidence": [
+  {
+   "claim": "Offre assistenza e consulenza in ambito societario, fiscale e della gestione aziendale",
+   "url": "https://networkandknowledge.it/",
+   "quote": "servizi di assistenza e consulenza in ambito societario, contabile-fiscale e della gestione aziendale"
+  },
+  {
+   "claim": "Opera come commercialisti per le imprese di Brescia e provincia",
+   "url": "https://networkandknowledge.it/",
+   "quote": "Commercialisti a Brescia e provincia"
+  },
+  {
+   "claim": "Offre alle imprese consulenza in ambito societario e di gestione aziendale",
+   "url": "https://networkandknowledge.it/",
+   "quote": "servizi di assistenza e consulenza in ambito societario, contabile-fiscale e della gestione aziendale"
+  },
+  {
+   "claim": "Serve le imprese della provincia bresciana con sedi sul territorio",
+   "url": "https://networkandknowledge.it/",
+   "quote": "70 persone al tuo servizio in 7 sedi distribuite nella provincia bresciana."
+  }
+ ],
+ "market": {
+  "count": "24.680",
+  "label": "titolari, CEO e amministratori di imprese lombarde da 10 a 250 addetti",
+  "chips": [
+   "Lombardia",
+   "Brescia e provincia",
+   "10 a 250 addetti",
+   "PMI"
+  ],
+  "regions": [
+   "Lombardia"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Lombardy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

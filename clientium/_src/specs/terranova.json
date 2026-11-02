@@ -1,0 +1,83 @@
+{
+ "slug": "terranova",
+ "company": "Terranova",
+ "first_name": "Alessandro",
+ "domain": "terranovasoftware.eu",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Software per le utility che gestiscono servizio idrico, distribuzione, vendita e rifiuti. Ecco chi contatteremmo per Terranova.",
+ "market_note": "Terranova sviluppa software per le utility di acqua, energia, gas e rifiuti, quindi parleremmo con chi decide gli investimenti tecnologici in aziende di servizi strutturate.",
+ "evidence": [
+  {
+   "claim": "software per utility di servizio idrico, distribuzione, vendita e rifiuti",
+   "url": "https://www.terranovasoftware.eu/soluzioni",
+   "quote": "dalla distribuzione di gas, elettricità e acqua, alla vendita gas & power, fino alla gestione del Sistema Idrico Integrato e dei processi ambientali"
+  },
+  {
+   "claim": "software per le utility di acqua, energia e gas",
+   "url": "https://www.terranovasoftware.eu/soluzioni/smart-network",
+   "quote": "Costruita per le Utilities dei settori gas, acqua ed energia elettrica"
+  },
+  {
+   "claim": "soluzioni per la gestione dei rifiuti",
+   "url": "https://www.terranovasoftware.eu/soluzioni/gestione-ambientale",
+   "quote": "soluzioni flessibili e affidabili per tutti gli operatori della filiera del trattamento dei rifiuti"
+  },
+  {
+   "claim": "sviluppano prodotti software",
+   "url": "https://www.terranovasoftware.eu/",
+   "quote": "Sviluppiamo prodotti software che supportano la digitalizzazione dell’ecosistema cittadino"
+  },
+  {
+   "claim": "clienti sono aziende del servizio idrico integrato",
+   "url": "https://www.terranovasoftware.eu/soluzioni/servizio-idrico",
+   "quote": "soluzioni software per le aziende del Servizio Idrico Integrato"
+  },
+  {
+   "claim": "clienti di medie e grandi dimensioni",
+   "url": "https://www.terranovasoftware.eu/soluzioni/gestione-ambientale",
+   "quote": "ad aziende di medie e grandi dimensioni, consorzi, grandi produttori"
+  }
+ ],
+ "market": {
+  "count": "534",
+  "label": "responsabili IT e direzione tecnica di utility e aziende di servizi strutturate in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "utilities",
+   "gestione ambientale",
+   "servizio idrico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"utilities,waste management,water\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

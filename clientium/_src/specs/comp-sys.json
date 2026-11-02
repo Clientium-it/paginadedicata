@@ -1,0 +1,83 @@
+{
+ "slug": "comp-sys",
+ "company": "Comp.Sys",
+ "first_name": "Angela",
+ "domain": "csy.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Servizi informatici, software e consulenza per le aziende. Ecco chi contatteremmo per Comp.Sys.",
+ "market_note": "Comp.Sys offre servizi di Information Technology, sviluppo software e cybersecurity ad aziende e pubblica amministrazione, quindi parleremmo con chi decide su infrastrutture, assistenza e sicurezza informatica.",
+ "evidence": [
+  {
+   "claim": "Offre servizi, software e consulenza informatica",
+   "url": "https://www.csy.it/",
+   "quote": "Servizi, software e consulenza all’avanguardia"
+  },
+  {
+   "claim": "Opera nel mercato dei servizi IT",
+   "url": "https://www.csy.it/chi-siamo/",
+   "quote": "mercato dei Servizi di Information Technology"
+  },
+  {
+   "claim": "Clienti in sanità, telco, PA e trasporti",
+   "url": "https://www.csy.it/chi-siamo/",
+   "quote": "Sanità Telco e Media Pubblica Amministrazione Infrastrutture e trasporti"
+  },
+  {
+   "claim": "Sviluppa soluzioni su misura per le aziende",
+   "url": "https://www.csy.it/servizi/sviluppo/",
+   "quote": "sviluppiamo soluzioni studiate su misura per le aziende"
+  },
+  {
+   "claim": "Dagli ERP al Facility Management",
+   "url": "https://www.csy.it/servizi/sviluppo/",
+   "quote": "Dagli applicativi ERP personalizzati per le PMI al Facility Management"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://www.csy.it/chi-siamo/",
+   "quote": "Sanità Telco e Media Pubblica Amministrazione Infrastrutture e trasporti"
+  }
+ ],
+ "market": {
+  "count": "1.508",
+  "label": "responsabili IT, CIO e CTO di aziende strutturate ed enti della pubblica amministrazione in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "sanità",
+   "pubblica amministrazione",
+   "telco e media"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"health care,telecommunications,media and entertainment,government administration,transportation\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

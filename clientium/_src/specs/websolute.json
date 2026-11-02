@@ -1,0 +1,77 @@
+{
+ "slug": "websolute",
+ "company": "Websolute",
+ "first_name": "Maurizio",
+ "domain": "websolute.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Agenzia digitale che trasforma idee ambiziose in risultati. Ecco chi contatteremmo per Websolute.",
+ "market_note": "Websolute è l'agenzia digitale che aiuta le più importanti aziende italiane in numerosi settori industriali, quindi parleremmo con titolari e direttori che decidono su brand, marketing e digitale.",
+ "evidence": [
+  {
+   "claim": "Agenzia digitale che trasforma idee ambiziose in risultati",
+   "url": "https://www.websolute.com/",
+   "quote": "AI-First Digital Agency che trasforma idee ambiziose in risultati"
+  },
+  {
+   "claim": "Aiuta le più importanti aziende italiane",
+   "url": "https://www.websolute.com/clienti/home-design",
+   "quote": "aiutare le più importanti aziende italiane"
+  },
+  {
+   "claim": "Segue numerosi settori industriali",
+   "url": "https://www.websolute.com/clienti",
+   "quote": "Seguiamo numerosi settori industriali, ognuno con specifiche necessità."
+  },
+  {
+   "claim": "Aiuta le aziende italiane a ottenere riconoscimento nel mondo",
+   "url": "https://www.websolute.com/clienti/home-design",
+   "quote": "le più importanti aziende italiane a ottenere il riconoscimento che meritano nel mondo"
+  },
+  {
+   "claim": "Lavora in numerosi settori industriali",
+   "url": "https://www.websolute.com/clienti",
+   "quote": "Seguiamo numerosi settori industriali, ognuno con specifiche necessità."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate in numerosi settori industriali",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate",
+   "più settori industriali"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

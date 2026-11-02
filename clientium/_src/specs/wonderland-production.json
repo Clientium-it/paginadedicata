@@ -1,0 +1,71 @@
+{
+ "slug": "wonderland-production",
+ "company": "Wonderland Production",
+ "first_name": "Oriana",
+ "domain": "wonderlandproduction.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Studio di produzione video e multimediale con sede a Genova. Ecco chi contatteremmo per Wonderland Production.",
+ "market_note": "Wonderland Production progetta e realizza contenuti per imprese, piccole e grandi attività e istituzioni, quindi parleremmo con chi guida aziende che vogliono raccontarsi con video e contenuti multimediali.",
+ "evidence": [
+  {
+   "claim": "Studio di produzione video e multimediale con sede a Genova",
+   "url": "https://www.wonderlandproduction.com/contatti/",
+   "quote": "studio di produzione video e multimediale con sede a Genova"
+  },
+  {
+   "claim": "Progetta e realizza contenuti per imprese e istituzioni",
+   "url": "https://www.wonderlandproduction.com/produzione-video-aziendali-istituzionali-presentazioni-eventi-genova/",
+   "quote": "Progettiamo e realizziamo contenuti per imprese, piccole e grandi attività e istituzioni"
+  },
+  {
+   "claim": "Realizza video aziendali, industriali, emozionali e spot commerciali",
+   "url": "https://www.wonderlandproduction.com/produzione-video-aziendali-istituzionali-presentazioni-eventi-genova/",
+   "quote": "Realizziamo video aziendali , industriali, emozionali e spot commerciali"
+  },
+  {
+   "claim": "Clienti sono imprese, attività e istituzioni",
+   "url": "https://www.wonderlandproduction.com/produzione-video-aziendali-istituzionali-presentazioni-eventi-genova/",
+   "quote": "Progettiamo e realizziamo contenuti per imprese, piccole e grandi attività e istituzioni"
+  }
+ ],
+ "market": {
+  "count": "124.079",
+  "label": "titolari, CEO e direttori marketing di aziende italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "aziende e istituzioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

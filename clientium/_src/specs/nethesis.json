@@ -1,0 +1,92 @@
+{
+ "slug": "nethesis",
+ "company": "Nethesis",
+ "first_name": "Cristian",
+ "domain": "nethesis.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Produce soluzioni Open Source di cybersecurity, comunicazione e collaborazione per le PMI. Ecco chi contatteremmo per Nethesis.",
+ "market_note": "Nethesis produce soluzioni Open Source di cybersecurity e comunicazione per la PMI, ideali per gli MSP, quindi parleremmo con chi guida le aziende IT che potrebbero diventare partner.",
+ "evidence": [
+  {
+   "claim": "produce soluzioni Open Source",
+   "url": "https://www.nethesis.it/",
+   "quote": "Nethesis è il principale produttore italiano di soluzioni Open Source per il business."
+  },
+  {
+   "claim": "sicurezza, comunicazione, collaborazione",
+   "url": "https://www.nethesis.it/",
+   "quote": "Soddisfa tutte le tue esigenze di sicurezza, comunicazione, collaborazione."
+  },
+  {
+   "claim": "per le PMI",
+   "url": "https://www.nethesis.it/",
+   "quote": "altamente modulare, pensata per la PMI"
+  },
+  {
+   "claim": "produttore di soluzioni Open Source",
+   "url": "https://www.nethesis.it/",
+   "quote": "Nethesis è il principale produttore italiano di soluzioni Open Source per il business."
+  },
+  {
+   "claim": "per la PMI",
+   "url": "https://www.nethesis.it/",
+   "quote": "altamente modulare, pensata per la PMI"
+  },
+  {
+   "claim": "ideali per gli MSP",
+   "url": "https://www.nethesis.it/soluzioni/nethvoice",
+   "quote": "Ideale per MSP e ambienti multi-azienda"
+  },
+  {
+   "claim": "principale produttore italiano Open Source",
+   "url": "https://www.nethesis.it/",
+   "quote": "Nethesis è il principale produttore italiano di soluzioni Open Source per il business."
+  },
+  {
+   "claim": "target aziende IT e MSP partner",
+   "url": "https://www.nethesis.it/soluzioni/nethvoice",
+   "quote": "Ideale per MSP e ambienti multi-azienda"
+  }
+ ],
+ "market": {
+  "count": "8.196",
+  "label": "titolari e responsabili di aziende IT e MSP italiani",
+  "chips": [
+   "tutta Italia",
+   "10 a 250 addetti",
+   "aziende IT",
+   "MSP"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"information technology,it services and it consulting\"}"
+ }
+}

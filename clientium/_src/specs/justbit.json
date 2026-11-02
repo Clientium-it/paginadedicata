@@ -1,0 +1,86 @@
+{
+ "slug": "justbit",
+ "company": "Justbit",
+ "first_name": "Francesco",
+ "domain": "justbit.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Soluzioni digitali su misura per aziende e startup, tra tecnologia e creatività. Ecco chi contatteremmo per Justbit.",
+ "market_note": "Justbit dal 2010 offre a brand, aziende e startup soluzioni digitali tra tecnologia, design e creatività, quindi parleremmo con chi decide su innovazione e comunicazione.",
+ "evidence": [
+  {
+   "claim": "Lavora con aziende e startup",
+   "url": "https://www.justbit.it/servizi",
+   "quote": "Miglioriamo le performance e la presenza online di brand, aziende e startup grazie a strategie mirate."
+  },
+  {
+   "claim": "Unisce tecnologia e creatività",
+   "url": "https://www.justbit.it/",
+   "quote": "Orbitiamo intorno alle tecnologie più innovative accompagnati dalla migliore creatività."
+  },
+  {
+   "claim": "Dal 2010 offre soluzioni digitali",
+   "url": "https://www.justbit.it/chi-siamo",
+   "quote": "Dal 2010 offriamo soluzioni dinamiche su coordinate digitali."
+  },
+  {
+   "claim": "Si rivolge a brand, aziende e startup",
+   "url": "https://www.justbit.it/servizi",
+   "quote": "Miglioriamo le performance e la presenza online di brand, aziende e startup grazie a strategie mirate."
+  },
+  {
+   "claim": "Realizza soluzioni IT e mobile avanzate",
+   "url": "https://www.justbit.it/servizi",
+   "quote": "Analizziamo, progettiamo e realizziamo soluzioni IT e mobile avanzate"
+  },
+  {
+   "claim": "Per aziende e startup",
+   "url": "https://www.justbit.it/servizi",
+   "quote": "Miglioriamo le performance e la presenza online di brand, aziende e startup grazie a strategie mirate."
+  },
+  {
+   "claim": "Aiuta le aziende",
+   "url": "https://www.justbit.it/chi-siamo",
+   "quote": "Aiutando le aziende a comunicare la loro unicità."
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

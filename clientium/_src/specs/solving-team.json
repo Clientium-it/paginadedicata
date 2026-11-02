@@ -1,0 +1,81 @@
+{
+ "slug": "solving-team",
+ "company": "Solving Team",
+ "first_name": "Martino",
+ "domain": "solvingteam.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Sviluppo software e servizi digitali per aziende e Pubbliche Amministrazioni. Ecco chi contatteremmo per Solving Team.",
+ "market_note": "Solving Team sviluppa software e affianca aziende e Pubbliche Amministrazioni nello sviluppo di servizi digitali complessi, quindi parleremmo con chi decide su innovazione tecnologica e digitalizzazione dei processi.",
+ "evidence": [
+  {
+   "claim": "Sviluppa software e servizi",
+   "url": "https://www.solvingteam.it/chi-siamo/",
+   "quote": "è un' azienda specializzata nello sviluppo software e nei servizi di facility management"
+  },
+  {
+   "claim": "Serve aziende e Pubbliche Amministrazioni con servizi digitali",
+   "url": "https://www.solvingteam.it/servizi/",
+   "quote": "Affianchiamo aziende e Pubbliche Amministrazioni nella progettazione, nello sviluppo e nell'evoluzione di servizi digitali complessi"
+  },
+  {
+   "claim": "Sviluppa software",
+   "url": "https://www.solvingteam.it/chi-siamo/",
+   "quote": "è un' azienda specializzata nello sviluppo software e nei servizi di facility management"
+  },
+  {
+   "claim": "Affianca aziende e PA nello sviluppo di servizi digitali complessi",
+   "url": "https://www.solvingteam.it/servizi/",
+   "quote": "Affianchiamo aziende e Pubbliche Amministrazioni nella progettazione, nello sviluppo e nell'evoluzione di servizi digitali complessi"
+  },
+  {
+   "claim": "Affianca aziende e PA su servizi digitali complessi",
+   "url": "https://www.solvingteam.it/servizi/",
+   "quote": "Affianchiamo aziende e Pubbliche Amministrazioni nella progettazione, nello sviluppo e nell'evoluzione di servizi digitali complessi"
+  },
+  {
+   "claim": "Opera con realtà nazionali, nessun limite di zona",
+   "url": "https://www.solvingteam.it/chi-siamo/",
+   "quote": "Negli anni abbiamo lavorato con realtà come l'Agenzia delle Entrate, la Corte dei Conti, la Banca d'Italia"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

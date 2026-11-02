@@ -1,0 +1,77 @@
+{
+ "slug": "lenis",
+ "company": "Lenis",
+ "first_name": "Luca",
+ "domain": "lenis.tech",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Sviluppo software aziendali su misura e consulenza informatica professionale, ecco chi contatteremmo per Lenis.",
+ "market_note": "Lenis sviluppa software aziendali su misura e offre consulenza informatica da Firenze e Milano, quindi parleremmo con chi decide su digitalizzazione e sviluppo software nelle aziende.",
+ "evidence": [
+  {
+   "claim": "Sviluppo software aziendali su misura e consulenza informatica professionale",
+   "url": "https://lenis.tech/",
+   "quote": "Offriamo servizi di consulenza informatica professionale e siamo specializzati nello sviluppo di app e software aziendali su misura"
+  },
+  {
+   "claim": "Sviluppa software su misura e offre consulenza informatica",
+   "url": "https://lenis.tech/",
+   "quote": "Sviluppo software su misura e consulenza informatica"
+  },
+  {
+   "claim": "Ha sedi a Firenze e Milano",
+   "url": "https://lenis.tech/",
+   "quote": "I nostri uffici sono a Milano e Firenze"
+  },
+  {
+   "claim": "Specializzata nello sviluppo di app e software aziendali su misura",
+   "url": "https://lenis.tech/",
+   "quote": "siamo specializzati nello sviluppo di app e software aziendali su misura"
+  },
+  {
+   "claim": "Realizza progetti in tutta Italia",
+   "url": "https://lenis.tech/",
+   "quote": "abbiamo realizzato progetti su Ravenna, Torino, Bologna, Bergamo"
+  }
+ ],
+ "market": {
+  "count": "75.714",
+  "label": "titolari, CEO e amministratori di aziende italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "software su misura",
+   "consulenza IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

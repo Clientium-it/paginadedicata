@@ -1,0 +1,71 @@
+{
+ "slug": "mice",
+ "company": "MICE",
+ "first_name": "Emilio",
+ "domain": "micegroup.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Consulenza DevOps e Cloud, sviluppo software web e mobile, soluzioni di Machine Learning e AI. Ecco chi contatteremmo per MICE.",
+ "market_note": "MICE sviluppa software web e mobile e offre consulenza DevOps, Cloud e soluzioni di Machine Learning e AI, quindi parleremmo con chi decide su tecnologia e progetti digitali.",
+ "evidence": [
+  {
+   "claim": "Offre consulenza DevOps e Cloud, sviluppo software web e mobile e soluzioni di Machine Learning e AI",
+   "url": "https://micegroup.it/",
+   "quote": "Dalla consulenza DevOps e Cloud allo sviluppo software per web e mobile, fino alle soluzioni di Machine Learning e AI"
+  },
+  {
+   "claim": "Sviluppa software web e mobile e consulenza DevOps, Cloud, Machine Learning e AI",
+   "url": "https://micegroup.it/",
+   "quote": "Dalla consulenza DevOps e Cloud allo sviluppo software per web e mobile, fino alle soluzioni di Machine Learning e AI"
+  },
+  {
+   "claim": "Sviluppa software web e mobile e guida la trasformazione digitale",
+   "url": "https://micegroup.it/",
+   "quote": "Dalla consulenza DevOps e Cloud allo sviluppo software per web e mobile, fino alle soluzioni di Machine Learning e AI"
+  },
+  {
+   "claim": "Si rivolge ad aziende e Pubblica Amministrazione",
+   "url": "https://micegroup.it/",
+   "quote": "configurandosi come uno strumento completo per aziende e Pubblica Amministrazione."
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

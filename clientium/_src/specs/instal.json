@@ -1,0 +1,76 @@
+{
+ "slug": "instal",
+ "company": "Instal",
+ "first_name": "Antonio",
+ "domain": "instal.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Traffico, lead e app install pagati sul risultato che conta. Ecco chi contatteremmo per Instal.",
+ "market_note": "Instal aiuta i brand a crescere con traffico, lead e app install pagati sul risultato, quindi parleremmo con chi decide su marketing e crescita.",
+ "evidence": [
+  {
+   "claim": "Consegna traffico, lead e app install",
+   "url": "https://instal.com/",
+   "quote": "We deliver qualified traffic, leads, and app installs"
+  },
+  {
+   "claim": "Prezza ogni campagna sul risultato",
+   "url": "https://instal.com/",
+   "quote": "price every campaign on the result that matters"
+  },
+  {
+   "claim": "Aiuta i brand a crescere",
+   "url": "https://instal.com/",
+   "quote": "We help brands grow across the middle and lower funnel."
+  },
+  {
+   "claim": "Consegna traffico, lead e app install pagati sul risultato",
+   "url": "https://instal.com/",
+   "quote": "We deliver qualified traffic, leads, and app installs"
+  },
+  {
+   "claim": "Vende ai brand",
+   "url": "https://instal.com/",
+   "quote": "We help brands grow across the middle and lower funnel."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori marketing di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "direttori marketing"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

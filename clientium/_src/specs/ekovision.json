@@ -1,0 +1,77 @@
+{
+ "slug": "ekovision",
+ "company": "Ekovision",
+ "first_name": "Paolo",
+ "domain": "ekovision.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Una soluzione erp completa per le aziende che operano nel settore rifiuti. Ecco chi contatteremmo per Ekovision.",
+ "market_note": "Ekovision propone soluzioni IT per la gestione dell'intero ciclo dei rifiuti alle aziende del settore ambiente in tutta Italia, quindi parleremmo con chi guida le imprese che gestiscono rifiuti.",
+ "evidence": [
+  {
+   "claim": "Offre una soluzione erp completa per le aziende del settore rifiuti",
+   "url": "https://www.ekovision.it/",
+   "quote": "Una soluzione erp completa per le aziende che operano nel settore rifiuti"
+  },
+  {
+   "claim": "Propone soluzioni IT per la gestione dell'intero ciclo dei rifiuti",
+   "url": "https://www.ekovision.it/",
+   "quote": "Proponiamo soluzioni IT per la gestione dell'intero ciclo dei rifiuti"
+  },
+  {
+   "claim": "Serve clienti in tutta Italia",
+   "url": "https://www.ekovision.it/azienda/",
+   "quote": "Con numerosi clienti operanti su tutto il territorio Nazionale, dalla Sicilia all'Alto Adige"
+  },
+  {
+   "claim": "Da oltre 15 anni opera nel software gestionale ambientale",
+   "url": "https://www.ekovision.it/",
+   "quote": "Da oltre 15 anni operiamo nel mercato nazionale del software gestionale ambientale"
+  },
+  {
+   "claim": "I clienti sono aziende del settore ambiente",
+   "url": "https://www.ekovision.it/azienda/",
+   "quote": "affiancare e supportare le aziende del settore ambiente"
+  }
+ ],
+ "market": {
+  "count": "2.374",
+  "label": "titolari, CEO e direttori di aziende che gestiscono rifiuti e servizi ambientali in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "da 10 addetti",
+   "gestione rifiuti",
+   "servizi ambientali"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"companyIndustry\": \"waste management,environmental services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

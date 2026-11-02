@@ -1,0 +1,78 @@
+{
+ "slug": "link-mobility",
+ "company": "LINK Mobility",
+ "first_name": "Riccardo",
+ "domain": "linkmobility.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Messaggistica mobile omnicanale per brand e clienti in tutto il mondo. Ecco chi contatteremmo per LINK Mobility.",
+ "market_note": "LINK Mobility è provider leader di messaggistica mobile in Europa e offre soluzioni omnicanale a oltre 47.000 brand, quindi parleremmo con chi guida marketing e customer experience.",
+ "evidence": [
+  {
+   "claim": "Messaggistica mobile per brand e clienti",
+   "url": "https://www.linkmobility.com/it",
+   "quote": "Omnichannel Experience per brand e clienti"
+  },
+  {
+   "claim": "Provider leader di messaggistica mobile in Europa",
+   "url": "https://www.linkmobility.com/it",
+   "quote": "Siamo provider leader di messaggistica mobile in Europa dal 2001."
+  },
+  {
+   "claim": "Serve oltre 47.000 brand",
+   "url": "https://www.linkmobility.com/it",
+   "quote": "Per oltre 47.000 brand, le nostre soluzioni innovative ottimizzano il flusso delle conversazioni"
+  },
+  {
+   "claim": "Consegna ogni giorno milioni di messaggi nel mondo",
+   "url": "https://www.linkmobility.com/it",
+   "quote": "consegniamo ogni giorno milioni di messaggi personalizzati in tutto il mondo"
+  },
+  {
+   "claim": "Settori clienti serviti dal lead",
+   "url": "https://www.linkmobility.com/it",
+   "quote": "Retail Logistica Travel & Hospitality Finance"
+  }
+ ],
+ "market": {
+  "count": "33.029",
+  "label": "direttori marketing, CEO e titolari di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "retail",
+   "logistica",
+   "finance"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail,logistics,travel,financial services,hospitals and health care\"}"
+ }
+}

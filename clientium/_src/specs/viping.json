@@ -1,0 +1,54 @@
+{
+ "slug": "viping",
+ "company": "Viping",
+ "first_name": "Nicola",
+ "domain": "viping.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Servizi di pulizia, traslochi e manutenzione del verde per aziende ed enti. Ecco chi contatteremmo per Viping.",
+ "market_note": "Viping offre servizi di pulizia, traslochi e manutenzione del verde per aziende, enti pubblici e privati in Toscana e Liguria, quindi parleremmo con chi decide su facility e servizi generali.",
+ "evidence": [
+  {
+   "claim": "Offre pulizia, traslochi e manutenzione del verde per aziende ed enti",
+   "url": "https://www.viping.com/about-us/",
+   "quote": "Viping offre servizi di pulizia, traslochi e manutenzione del verde per aziende, enti pubblici e privati su tutto il territorio Toscano e Ligure."
+  },
+  {
+   "claim": "Serve dalla piccola alla grande azienda, pubblico e privato",
+   "url": "https://www.viping.com/",
+   "quote": "Dalla piccola alla grande azienda, dal pubblico al privato, Viping offre servizi di pulizia industriale."
+  },
+  {
+   "claim": "Opera su territorio toscano e ligure con pulizia, traslochi e verde",
+   "url": "https://www.viping.com/about-us/",
+   "quote": "Viping offre servizi di pulizia, traslochi e manutenzione del verde per aziende, enti pubblici e privati su tutto il territorio Toscano e Ligure."
+  },
+  {
+   "claim": "Zona servita Toscana e Liguria",
+   "url": "https://www.viping.com/about-us/",
+   "quote": "su tutto il territorio Toscano e Ligure"
+  }
+ ],
+ "market": {
+  "count": "13.113",
+  "label": "titolari, CEO e direttori di aziende toscane e liguri strutturate",
+  "chips": [
+   "Toscana",
+   "Liguria",
+   "oltre 20 addetti",
+   "pubblico e privato"
+  ],
+  "regions": [
+   "Toscana",
+   "Liguria"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Tuscany,Liguria\", \"minEmployees\": 20}"
+ }
+}

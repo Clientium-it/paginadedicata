@@ -1,0 +1,76 @@
+{
+ "slug": "ccelera",
+ "company": "Ccelera",
+ "first_name": "Matteo",
+ "domain": "ccelera.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Partner SAP per la trasformazione digitale delle aziende. Ecco chi contatteremmo per Ccelera.",
+ "market_note": "Ccelera è un partner SAP specializzato nelle implementazioni delle soluzioni Cloud per la trasformazione digitale delle aziende, quindi parleremmo con chi decide su processi, tecnologia e innovazione.",
+ "evidence": [
+  {
+   "claim": "Ccelera è un partner SAP",
+   "url": "https://www.ccelera.com:443/",
+   "quote": "Ccelera è un partner SAP specializzato nelle implementazioni delle soluzioni Cloud."
+  },
+  {
+   "claim": "opera nella trasformazione digitale",
+   "url": "https://www.ccelera.com:443/",
+   "quote": "accelera la tua trasformazione digitale"
+  },
+  {
+   "claim": "partner SAP che implementa soluzioni Cloud",
+   "url": "https://www.ccelera.com:443/",
+   "quote": "Ccelera è un partner SAP specializzato nelle implementazioni delle soluzioni Cloud."
+  },
+  {
+   "claim": "partner SAP specializzato nelle implementazioni Cloud",
+   "url": "https://www.ccelera.com:443/",
+   "quote": "Ccelera è un partner SAP specializzato nelle implementazioni delle soluzioni Cloud."
+  },
+  {
+   "claim": "soluzioni applicabili a qualsiasi azienda, nessun settore limitato",
+   "url": "https://www.ccelera.com:443/",
+   "quote": "applicabili a qualsiasi azienda"
+  }
+ ],
+ "market": {
+  "count": "117.349",
+  "label": "titolari, CEO e direttori di grandi aziende italiane oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "grandi aziende"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

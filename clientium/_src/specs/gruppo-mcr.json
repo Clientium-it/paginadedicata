@@ -1,0 +1,93 @@
+{
+ "slug": "gruppo-mcr",
+ "company": "Gruppo MCR",
+ "first_name": "Mauro",
+ "domain": "gruppomcr.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Consulenza informatica e sviluppo software per aziende di diversi settori. Ecco chi contatteremmo per Gruppo MCR.",
+ "market_note": "Gruppo MCR offre consulenza informatica, sviluppo software e formazione su tutto il territorio nazionale ad aziende di diversi settori, quindi parleremmo con chi guida l'azienda e sceglie le tecnologie.",
+ "evidence": [
+  {
+   "claim": "Fa consulenza informatica e sviluppo software",
+   "url": "https://gruppomcr.com/",
+   "quote": "Consulenza informatica e Sviluppo software"
+  },
+  {
+   "claim": "Serve clienti di diversi settori",
+   "url": "https://gruppomcr.com/",
+   "quote": "collaborare con importanti Clienti operanti in diversi settori"
+  },
+  {
+   "claim": "Offre consulenza su tutto il territorio nazionale",
+   "url": "https://gruppomcr.com/IT/contatti.html",
+   "quote": "offre consulenza su tutto il territorio nazionale"
+  },
+  {
+   "claim": "Offerta articolata in formazione, consulenza e sviluppo",
+   "url": "https://gruppomcr.com/IT/azienda-servizi-informatici.html",
+   "quote": "articolata in formazione, consulenza e system integration"
+  },
+  {
+   "claim": "Ha un team di sviluppo interno e una Software Factory",
+   "url": "https://gruppomcr.com/",
+   "quote": "Il nostro team di sviluppo interno disegna e implementa software"
+  },
+  {
+   "claim": "Ha una Software Factory propria",
+   "url": "https://gruppomcr.com/",
+   "quote": "la nostra Software Factory può offrirti"
+  },
+  {
+   "claim": "Opera su tutto il territorio nazionale",
+   "url": "https://gruppomcr.com/IT/contatti.html",
+   "quote": "offre consulenza su tutto il territorio nazionale"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://gruppomcr.com/",
+   "quote": "Operiamo nei settori di telecomunicazioni, pubblica amministrazione, media, servizi e utilities, industria e distribuzione"
+  }
+ ],
+ "market": {
+  "count": "2.762",
+  "label": "responsabili IT e direzioni di aziende strutturate italiane dei settori telecomunicazioni, media, utilities, industria e pubblica amministrazione",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "telecomunicazioni",
+   "industria",
+   "pubblica amministrazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"telecommunications,government administration,media and entertainment,utilities,manufacturing,wholesale\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

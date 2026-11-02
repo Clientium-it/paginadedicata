@@ -1,0 +1,76 @@
+{
+ "slug": "oplium",
+ "company": "Oplium",
+ "first_name": "Giuliano",
+ "domain": "oplium.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Azienda globale specializzata in sicurezza informatica che protegge imprese di ogni settore. Ecco chi contatteremmo per Oplium.",
+ "market_note": "Oplium è azienda globale specializzata in sicurezza informatica che protegge imprese di ogni settore dalle minacce digitali, quindi parleremmo con chi decide su cyber security e rischio digitale.",
+ "evidence": [
+  {
+   "claim": "Azienda globale specializzata in sicurezza informatica",
+   "url": "https://oplium.com/",
+   "quote": "Oplium, uma empresa global especializada em segurança cibernética"
+  },
+  {
+   "claim": "Protegge imprese di ogni settore",
+   "url": "https://oplium.com/",
+   "quote": "proteger empresas de todos os setores contra ameaças digitais"
+  },
+  {
+   "claim": "Specializzata in sicurezza informatica per imprese di ogni settore",
+   "url": "https://oplium.com/",
+   "quote": "Oplium, uma empresa global especializada em segurança cibernética"
+  },
+  {
+   "claim": "Servizi gestiti che monitorano e neutralizzano le minacce digitali",
+   "url": "https://oplium.com/cyberservices",
+   "quote": "nossos serviços gerenciados monitoramos, detectamos e neutralizamos ameaças digitais"
+  },
+  {
+   "claim": "Presenza in Italia con sede a Milano",
+   "url": "https://oplium.com/cyberservices",
+   "quote": "Milão: Via Bisceglie, 76, 20152, Milano MI, Itália"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT e sicurezza informatica di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "cyber security"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

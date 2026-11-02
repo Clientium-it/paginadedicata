@@ -1,0 +1,87 @@
+{
+ "slug": "sinapsi",
+ "company": "Sinapsi",
+ "first_name": "Alessio",
+ "domain": "sinapsi.world",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Reti vendita e formazione di distributori per il mercato libero dell'energia. Ecco chi contatteremmo per Sinapsi.",
+ "market_note": "Sinapsi crea reti vendita e forma distributori di energia per i Big Vendor del settore energetico in tutta Italia, quindi parleremmo con chi guida le strategie commerciali e di marketing.",
+ "evidence": [
+  {
+   "claim": "Seleziona e forma distributori di energia",
+   "url": "https://www.sinapsi.world/",
+   "quote": "Selezioniamo e formiamo distributori di energia"
+  },
+  {
+   "claim": "Crea reti vendita dirette e indirette",
+   "url": "https://www.sinapsi.world/",
+   "quote": "Siamo specializzati nella creazione di reti vendita dirette ed indirette"
+  },
+  {
+   "claim": "Crea valore per i Big Vendor del settore energetico",
+   "url": "https://www.sinapsi.world/",
+   "quote": "Creiamo valore economico per i Big Vendor del settore Energetico"
+  },
+  {
+   "claim": "Seleziona e forma distributori di energia",
+   "url": "https://www.sinapsi.world/",
+   "quote": "Selezioniamo e formiamo distributori di energia"
+  },
+  {
+   "claim": "Opera su tutto il territorio nazionale",
+   "url": "https://www.sinapsi.world/",
+   "quote": "su tutto il territorio nazionale"
+  },
+  {
+   "claim": "Clienti nel settore energia",
+   "url": "https://www.sinapsi.world/",
+   "quote": "Creiamo valore economico per i Big Vendor del settore Energetico"
+  },
+  {
+   "claim": "Opera in tutta Italia",
+   "url": "https://www.sinapsi.world/",
+   "quote": "su tutto il territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "4.805",
+  "label": "titolari, CEO e direttori dei grandi venditori di energia attivi in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "energia",
+   "utilities"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"energy,utilities\"}"
+ }
+}

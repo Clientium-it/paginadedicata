@@ -1,0 +1,57 @@
+{
+ "slug": "keypass",
+ "company": "Keypass",
+ "first_name": "Dino",
+ "domain": "keypass.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Partner completo per le aziende che integrano le moderne tecnologie informatiche e di telecomunicazione. Ecco chi contatteremmo per Keypass.",
+ "market_note": "Keypass collabora con le imprese su infrastruttura IT, telecomunicazioni e soluzioni Disaster Recovery e Business Continuity, quindi parleremmo con chi decide su server, connettività e sicurezza informatica.",
+ "evidence": [
+  {
+   "claim": "integra le moderne tecnologie informatiche e di telecomunicazione",
+   "url": "https://keypass.it/keypass-chi-siamo/",
+   "quote": "integrare le potenzialità messe a disposizione dalle moderne tecnologie informatiche e di telecomunicazione"
+  },
+  {
+   "claim": "collabora con le imprese",
+   "url": "https://keypass.it/keypass-chi-siamo/",
+   "quote": "ci ha portato a collaborare con le imprese"
+  },
+  {
+   "claim": "progetta soluzioni Disaster Recovery e Business Continuity",
+   "url": "https://keypass.it/keypass-chi-siamo/",
+   "quote": "Progettazione e configurazione soluzioni Disaster Recovery e Business Continuity"
+  },
+  {
+   "claim": "autorizzata per la fornitura di servizi Internet come ISP e WISP",
+   "url": "https://keypass.it/keypass-chi-siamo/",
+   "quote": "per la fornitura di servizi Internet sia come ISP che WISP"
+  },
+  {
+   "claim": "sede a Camerano in provincia di Ancona, Marche",
+   "url": "https://keypass.it/contatti/",
+   "quote": "Via Direttissima del Conero, 39/41 60021 Camerano (AN)"
+  }
+ ],
+ "market": {
+  "count": "1.727",
+  "label": "titolari, CEO e amministratori di imprese marchigiane da 10 a 250 addetti",
+  "chips": [
+   "Marche",
+   "10-250 addetti",
+   "titolari e amministratori"
+  ],
+  "regions": [
+   "Marche"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Marche\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

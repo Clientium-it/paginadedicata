@@ -1,0 +1,73 @@
+{
+ "slug": "atrax",
+ "company": "AtraX",
+ "first_name": "Gerti",
+ "domain": "atrax.al",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "AtraX costruisce scala e modernizza prodotti digitali con team di ingegneria senior. Ecco chi contatteremmo per AtraX.",
+ "market_note": "AtraX sviluppa prodotti digitali e integra AI per aziende in tutto il mondo, quindi parleremmo con chi guida tecnologia e sviluppo prodotto dentro le aziende.",
+ "evidence": [
+  {
+   "claim": "Costruisce scala e modernizza prodotti digitali con team di ingegneria senior.",
+   "url": "https://atrax.al/",
+   "quote": "Engineering teams that build, scale and modernize digital products."
+  },
+  {
+   "claim": "Sviluppa software per aziende in tutto il mondo.",
+   "url": "https://atrax.al/",
+   "quote": "15+ years building software for companies worldwide."
+  },
+  {
+   "claim": "Costruisce scala e modernizza prodotti digitali.",
+   "url": "https://atrax.al/",
+   "quote": "Engineering teams that build, scale and modernize digital products."
+  },
+  {
+   "claim": "Dichiara i settori in cui lavora.",
+   "url": "https://atrax.al/",
+   "quote": "The sectors we work in, and what we deliver in each."
+  }
+ ],
+ "market": {
+  "count": "642",
+  "label": "CIO, CTO e responsabili IT di aziende italiane dai 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "fintech",
+   "cyber security",
+   "e-commerce"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"fintech,cyber security,health care,e-commerce,real estate,logistics,hospitality,education\"}"
+ }
+}

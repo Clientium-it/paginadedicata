@@ -1,0 +1,71 @@
+{
+ "slug": "whp-ai",
+ "company": "WHP.AI",
+ "first_name": "Davide",
+ "domain": "whp.ai",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Piattaforma HR con intelligenza artificiale per assunzioni predittive e analisi dei talenti. Ecco chi contatteremmo per WHP.AI.",
+ "market_note": "WHP.AI offre una piattaforma HR con intelligenza artificiale che aiuta le aziende ad assumere e analizzare i talenti, quindi parleremmo con chi guida le direzioni HR e aziendali.",
+ "evidence": [
+  {
+   "claim": "Piattaforma HR con intelligenza artificiale per assunzioni predittive e analisi dei talenti",
+   "url": "https://www.whp.ai/",
+   "quote": "AI HR Platform for Predictive Hiring & Talent Analytics"
+  },
+  {
+   "claim": "Piattaforma di talent analytics che aiuta le aziende",
+   "url": "https://www.whp.ai/",
+   "quote": "full Talent Analytics platform that empowers companies to increase revenue"
+  },
+  {
+   "claim": "Analizza i candidati oltre il curriculum",
+   "url": "https://www.whp.ai/ai-hr-use-cases/",
+   "quote": "Screening and shorting candidates, beyond the CV"
+  },
+  {
+   "claim": "Si rivolge a CHRO e team HR",
+   "url": "https://www.whp.ai/ai-hr-use-cases/",
+   "quote": "enabling CHROs and HR teams to make faster, smarter, data-driven decisions"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "direttori HR e generali, CEO e titolari di aziende italiane strutturate oltre i 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "HR e direzione generale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

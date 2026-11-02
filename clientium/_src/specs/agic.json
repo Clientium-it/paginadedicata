@@ -1,0 +1,86 @@
+{
+ "slug": "agic",
+ "company": "AGIC",
+ "first_name": "Filippo",
+ "domain": "agic.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Soluzioni su misura di trasformazione digitale e intelligenza artificiale come Microsoft Solution Partner. Ecco chi contatteremmo per AGIC.",
+ "market_note": "AGIC crea soluzioni su misura di trasformazione digitale cloud e intelligenza artificiale per ogni settore come Microsoft Solution Partner, quindi parleremmo con chi guida le scelte tecnologiche in azienda.",
+ "evidence": [
+  {
+   "claim": "Crea soluzioni su misura",
+   "url": "https://agic.it/it",
+   "quote": "Creiamo soluzioni su misura che trasformano le sfide in opportunità di crescita e vantaggio competitivo"
+  },
+  {
+   "claim": "Lavora con l'intelligenza artificiale",
+   "url": "https://agic.it/it",
+   "quote": "dove l’intelligenza artificiale e la tecnologia si fondono per creare un futuro senza limiti"
+  },
+  {
+   "claim": "Offre tecnologia per ogni settore",
+   "url": "https://agic.it/it",
+   "quote": "Offriamo il meglio della tecnologia per ogni settore"
+  },
+  {
+   "claim": "Opera sulla trasformazione digitale delle aziende",
+   "url": "https://agic.it/it",
+   "quote": "La trasformazione digitale sta ridisegnando il modo in cui le aziende operano"
+  },
+  {
+   "claim": "Microsoft Solution Partner tra i primi in Italia",
+   "url": "https://agic.it/it",
+   "quote": "Riconosciuti da Microsoft fra i primi Partner in Italia"
+  },
+  {
+   "claim": "Serve il mercato corporate",
+   "url": "https://agic.it/it",
+   "quote": "2024 - 2025 Microsoft Best Corporate Partner Winner"
+  },
+  {
+   "claim": "Soluzioni cloud e AI",
+   "url": "https://agic.it/it",
+   "quote": "Compliance Microsoft Digital Education AI Cloud"
+  }
+ ],
+ "market": {
+  "count": "9.984",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "corporate e settore pubblico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

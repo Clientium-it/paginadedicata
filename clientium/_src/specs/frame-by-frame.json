@@ -1,0 +1,77 @@
+{
+ "slug": "frame-by-frame",
+ "company": "Frame by Frame",
+ "first_name": "Domenico",
+ "domain": "frame.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Creatività, tecnologia e media con oltre trentacinque anni di esperienza cinematografica. Ecco chi contatteremmo per Frame by Frame.",
+ "market_note": "Frame by Frame è uno studio di post produzione e VFX attivo tra cinema, streaming e pubblicità, quindi parleremmo con chi guida marketing e produzione dei contenuti.",
+ "evidence": [
+  {
+   "claim": "Azienda indipendente di creatività, tecnologia e media con oltre 35 anni di cinema",
+   "url": "https://frame.it/en/",
+   "quote": "An independent creative, technology and media company built on over 35 years of cinematic expertise."
+  },
+  {
+   "claim": "Studio di post produzione e VFX attivo tra cinema, streaming e pubblicità",
+   "url": "https://frame.it/en/",
+   "quote": "A leading post-production and VFX studio, with International pipelines and high-end capabilities across cinema, streaming and advertising."
+  },
+  {
+   "claim": "Capacità su cinema, streaming e pubblicità",
+   "url": "https://frame.it/en/",
+   "quote": "high-end capabilities across cinema, streaming and advertising"
+  },
+  {
+   "claim": "Progetti con Netflix, Disney e Marvel",
+   "url": "https://frame.it/en/",
+   "quote": "working at projects with Netflix, Amazon, Disney, Marvel, HBO, MG"
+  },
+  {
+   "claim": "Serve i settori media e pubblicità",
+   "url": "https://frame.it/en/",
+   "quote": "high-end capabilities across cinema, streaming and advertising"
+  }
+ ],
+ "market": {
+  "count": "3.680",
+  "label": "titolari, CEO e direttori di aziende italiane di media e pubblicità con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "media e intrattenimento",
+   "pubblicità"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"advertising,media and entertainment\"}"
+ }
+}

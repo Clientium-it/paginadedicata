@@ -1,0 +1,71 @@
+{
+ "slug": "yourcfo",
+ "company": "yourCFO",
+ "first_name": "Fabrizio",
+ "domain": "yourcfo.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Un CFO senior esperto al servizio delle PMI italiane, solo quando serve. Ecco chi contatteremmo per yourCFO.",
+ "market_note": "yourCFO porta a disposizione delle PMI italiane un CFO senior solo per il tempo necessario, quindi parleremmo con chi guida le imprese e deve rafforzare la governance finanziaria.",
+ "evidence": [
+  {
+   "claim": "CFO al servizio delle PMI italiane",
+   "url": "https://yourcfo.it/",
+   "quote": "Portiamo l'esperienza da multinazionale al servizio delle PMI italiane"
+  },
+  {
+   "claim": "un CFO senior solo per il tempo necessario, senza costi fissi",
+   "url": "https://yourcfo.it/chi-siamo/",
+   "quote": "avere un CFO senior solo per il tempo necessario, senza i costi fissi di una figura a tempo pieno"
+  },
+  {
+   "claim": "esperienza da multinazionale al servizio delle PMI italiane",
+   "url": "https://yourcfo.it/",
+   "quote": "Portiamo l'esperienza da multinazionale al servizio delle PMI italiane"
+  },
+  {
+   "claim": "serve imprese italiane, PMI, imprese familiari e scale-up",
+   "url": "https://yourcfo.it/",
+   "quote": "al servizio di PMI, Imprese Familiari, Scale-Up e anche delle Grandi Aziende"
+  }
+ ],
+ "market": {
+  "count": "86.964",
+  "label": "titolari, CEO e amministratori di PMI italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "PMI e scale-up"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

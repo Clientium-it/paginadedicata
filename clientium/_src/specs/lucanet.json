@@ -1,0 +1,76 @@
+{
+ "slug": "lucanet",
+ "company": "Lucanet",
+ "first_name": "Carlo",
+ "domain": "lucanet.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "La CFO Solution Platform con intelligenza integrata per i team finanziari e fiscali. Ecco chi contatteremmo per Lucanet.",
+ "market_note": "Lucanet offre la CFO Solution Platform per i team finanziari e fiscali di tutto il mondo, quindi parleremmo con chi guida amministrazione, controllo di gestione e reporting.",
+ "evidence": [
+  {
+   "claim": "Lucanet offre la CFO Solution Platform",
+   "url": "https://www.lucanet.com/it/",
+   "quote": "La CFO Solution Platform con intelligenza integrata"
+  },
+  {
+   "claim": "per i team finanziari e fiscali",
+   "url": "https://www.lucanet.com/it/",
+   "quote": "Sviluppata appositamente per i team finanziari e fiscali di tutto il mondo"
+  },
+  {
+   "claim": "CFO Solution Platform per i team finanziari e fiscali di tutto il mondo",
+   "url": "https://www.lucanet.com/it/",
+   "quote": "Sviluppata appositamente per i team finanziari e fiscali di tutto il mondo"
+  },
+  {
+   "claim": "sviluppano la CFO Solution Platform per i team finanziari e fiscali",
+   "url": "https://www.lucanet.com/it/",
+   "quote": "La CFO Solution Platform con intelligenza integrata"
+  },
+  {
+   "claim": "soluzioni di livello enterprise",
+   "url": "https://www.lucanet.com/it/solutions/",
+   "quote": "SOLUZIONI DI LIVELLO ENTERPRISE"
+  }
+ ],
+ "market": {
+  "count": "110.688",
+  "label": "titolari, CEO e direttori amministrativi di aziende italiane strutturate oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200}"
+ }
+}

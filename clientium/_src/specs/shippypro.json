@@ -1,0 +1,78 @@
+{
+ "slug": "shippypro",
+ "company": "ShippyPro",
+ "first_name": "Jacopo",
+ "domain": "shippypro.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Software che collega oltre 190 corrieri e gestisce le spedizioni dei negozi online. Ecco chi contatteremmo per ShippyPro.",
+ "market_note": "ShippyPro offre una piattaforma per gestire spedizioni, corrieri e tracking ai negozi online che vogliono crescere in tutto il mondo, quindi parleremmo con chi guida le operazioni e la logistica.",
+ "evidence": [
+  {
+   "claim": "Collega oltre 190 corrieri e gestisce le spedizioni",
+   "url": "https://www.shippypro.com/en/",
+   "quote": "All-in-one shipping platform that connects 190+ carriers, automates your entire fulfilment workflow, and reduces shipping costs."
+  },
+  {
+   "claim": "Software per i negozi online",
+   "url": "https://www.shippypro.com/en/solutions-smallbusinesses",
+   "quote": "the software built for e-commerce entrepeneurs"
+  },
+  {
+   "claim": "Aiuta a crescere a livello internazionale",
+   "url": "https://www.shippypro.com/en/",
+   "quote": "ShippyPro empowers you to grow internationally with confidence."
+  },
+  {
+   "claim": "Collega oltre 190 corrieri e automatizza il flusso di spedizione",
+   "url": "https://www.shippypro.com/en/",
+   "quote": "connects 190+ carriers, automates your entire fulfilment workflow"
+  },
+  {
+   "claim": "Settori clienti dichiarati dal sito",
+   "url": "https://www.shippypro.com/en/",
+   "quote": "Fashion & Luxury Electronics & Toys Furniture & Lifestyle Food & Beverage Pharma & Beauty 3PL & Logistics"
+  }
+ ],
+ "market": {
+  "count": "27.701",
+  "label": "titolari, CEO e direttori di aziende e negozi online da 10 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "da 10 addetti",
+   "e-commerce",
+   "fashion",
+   "food and beverage"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"companyIndustry\": \"e-commerce,fashion,electronics,toys,furniture,food and beverage,pharmaceutical,beauty,logistics\"}"
+ }
+}

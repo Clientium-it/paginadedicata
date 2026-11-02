@@ -1,0 +1,73 @@
+{
+ "slug": "join-business",
+ "company": "Join Business",
+ "first_name": "Cesare",
+ "domain": "joinbusinessmc.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Boutique di consulenza manageriale focalizzata nel settore dei Financial Services. Ecco chi contatteremmo per Join Business.",
+ "market_note": "Join Business è una boutique di consulenza manageriale focalizzata nel settore dei Financial Services, quindi parleremmo con chi guida banche e assicurazioni in Italia.",
+ "evidence": [
+  {
+   "claim": "boutique di consulenza manageriale focalizzata sui Financial Services",
+   "url": "https://www.joinbusinessmc.com/it-IT/",
+   "quote": "boutique di consulenza manageriale focalizzata nel settore dei Financial Services"
+  },
+  {
+   "claim": "consulenza focalizzata sui Financial Services",
+   "url": "https://www.joinbusinessmc.com/it-IT/azienda/chi-siamo/",
+   "quote": "boutique di consulenza manageriale con focus nei Financial Services"
+  },
+  {
+   "claim": "boutique di consulenza manageriale sui Financial Services nata nel 2013",
+   "url": "https://www.joinbusinessmc.com/it-IT/",
+   "quote": "boutique di consulenza manageriale focalizzata nel settore dei Financial Services, nata nel 2013"
+  },
+  {
+   "claim": "serve il sistema bancario",
+   "url": "https://www.joinbusinessmc.com/it-IT/",
+   "quote": "in questo straordinario momento di trasformazione del sistema bancario"
+  }
+ ],
+ "market": {
+  "count": "15.373",
+  "label": "direttori generali, CEO e top manager di banche, assicurazioni e società finanziarie italiane strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "banche",
+   "assicurazioni",
+   "financial services"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"financial services,banking,insurance\"}"
+ }
+}

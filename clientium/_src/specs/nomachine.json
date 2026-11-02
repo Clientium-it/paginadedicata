@@ -1,0 +1,81 @@
+{
+ "slug": "nomachine",
+ "company": "NoMachine",
+ "first_name": "Gian",
+ "domain": "nomachine.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Il remote desktop più veloce e sicuro per lavorare su qualsiasi computer da remoto. Ecco chi contatteremmo per NoMachine.",
+ "market_note": "NoMachine sviluppa il remote desktop più completo e sicuro per aziende e professionisti, anche self hosted, quindi parleremmo con chi decide su accesso remoto, sicurezza e infrastruttura IT.",
+ "evidence": [
+  {
+   "claim": "il remote desktop più veloce",
+   "url": "https://www.nomachine.com/",
+   "quote": "NoMachine is the fastest and highest quality remote desktop you have ever tried."
+  },
+  {
+   "claim": "lavorare su qualsiasi computer da remoto",
+   "url": "https://www.nomachine.com/",
+   "quote": "NoMachine lets you work on any computer anywhere around the Internet as if you were in front of it."
+  },
+  {
+   "claim": "il remote desktop più completo",
+   "url": "https://www.nomachine.com/",
+   "quote": "NoMachine is the most complete remote access solution"
+  },
+  {
+   "claim": "sicuro, per aziende e professionisti, anche self hosted",
+   "url": "https://www.nomachine.com/enterprise/enterprise-desktop-products",
+   "quote": "a fast, secure, and self-hosted remote desktop solution built for businesses and professionals"
+  },
+  {
+   "claim": "remote desktop veloce e sicuro per aziende e professionisti, self hosted",
+   "url": "https://www.nomachine.com/enterprise/enterprise-desktop-products",
+   "quote": "a fast, secure, and self-hosted remote desktop solution built for businesses and professionals"
+  },
+  {
+   "claim": "ideale per responsabili IT",
+   "url": "https://www.nomachine.com/enterprise/enterprise-desktop-products/enterprise-desktop",
+   "quote": "Ideal for remote workers and IT administrators"
+  }
+ ],
+ "market": {
+  "count": "11.169",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "CIO e responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

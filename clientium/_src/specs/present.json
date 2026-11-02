@@ -1,0 +1,78 @@
+{
+ "slug": "present",
+ "company": "Present",
+ "first_name": "Vincenzo",
+ "domain": "blog.it-present.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Managed service outsourcing e competenze SAP per la gestione dell'ecosistema IT delle imprese. Ecco chi contatteremmo per Present.",
+ "market_note": "Present offre managed service outsourcing per la gestione dell'ecosistema IT e competenze SAP alle imprese dei settori manufacturing, finance e pubblica amministrazione, quindi parleremmo con chi guida i sistemi informativi.",
+ "evidence": [
+  {
+   "claim": "Present offre managed service outsourcing per la gestione dell'ecosistema IT",
+   "url": "https://blog.it-present.com/tag/managed-services",
+   "quote": "managed service outsourcing per la gestione dell’ecosistema IT"
+  },
+  {
+   "claim": "Present ha competenze approfondite sulle architetture SAP",
+   "url": "https://magazine.exprivia.it/ottimizzazione-e-governance-dei-sistemi-sap-il-valore-dei-servizi-ams",
+   "quote": "competenze specialistiche e nella conoscenza approfondita delle architetture SAP"
+  },
+  {
+   "claim": "Present dichiara i settori serviti",
+   "url": "https://blog.it-present.com/",
+   "quote": "Manufacturing Finance Pubblica Amministrazione Transportation Energy & Utilities Telco & Media"
+  },
+  {
+   "claim": "Present offre managed service outsourcing per la gestione dell'ecosistema IT",
+   "url": "https://blog.it-present.com/tag/managed-services",
+   "quote": "managed service outsourcing per la gestione dell’ecosistema IT"
+  },
+  {
+   "claim": "settori clienti dichiarati dal sito",
+   "url": "https://blog.it-present.com/",
+   "quote": "Manufacturing Finance Pubblica Amministrazione Transportation Energy & Utilities Telco & Media"
+  }
+ ],
+ "market": {
+  "count": "3.379",
+  "label": "responsabili IT, CIO e CTO di grandi imprese italiane dei settori manufacturing, finance e pubblica amministrazione",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "manufacturing",
+   "finance",
+   "pubblica amministrazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"manufacturing,finance,government administration,transportation,energy,utilities,telecommunications,media and entertainment\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

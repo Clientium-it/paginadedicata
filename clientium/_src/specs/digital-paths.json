@@ -1,0 +1,71 @@
+{
+ "slug": "digital-paths",
+ "company": "Digital Paths",
+ "first_name": "Fabrizio",
+ "domain": "digitalpaths.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Branding, social media marketing e sviluppo di strumenti digitali. Ecco chi contatteremmo per Digital Paths.",
+ "market_note": "Digital Paths è una web agency con sede a Bologna che offre branding, social media marketing e sviluppo di strumenti digitali, quindi parleremmo con chi decide su comunicazione e marketing.",
+ "evidence": [
+  {
+   "claim": "offre branding, social media marketing e sviluppo di strumenti digitali",
+   "url": "https://www.digitalpaths.it/",
+   "quote": "Agenzia full service che offre servizi di branding e creatività, social media marketing, design e sviluppo di strumenti digitali."
+  },
+  {
+   "claim": "web agency con sede a Bologna",
+   "url": "https://www.digitalpaths.it/",
+   "quote": "Siamo una web agency con sede a Bologna"
+  },
+  {
+   "claim": "agenzia full service di branding e social media marketing",
+   "url": "https://www.digitalpaths.it/",
+   "quote": "Agenzia full service che offre servizi di branding e creatività, social media marketing, design e sviluppo di strumenti digitali."
+  },
+  {
+   "claim": "agenzia di digital marketing, quindi i decisori comprano comunicazione e marketing",
+   "url": "https://www.digitalpaths.it/chi-siamo",
+   "quote": "Siamo un’agenzia di digital marketing che unisce strategia, creatività e tecnologia per costruire comunicazioni che funzionano davvero."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori marketing di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

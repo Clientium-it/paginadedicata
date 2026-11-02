@@ -1,0 +1,78 @@
+{
+ "slug": "innovaway",
+ "company": "Innovaway",
+ "first_name": "Antonio",
+ "domain": "innovaway.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Progetta e gestisce infrastrutture e piattaforme digitali per aziende e PA. Ecco chi contatteremmo per Innovaway.",
+ "market_note": "Innovaway progetta e gestisce infrastrutture e piattaforme digitali per aziende e PA, quindi parleremmo con chi decide su infrastruttura, applicazioni, dati e cybersecurity.",
+ "evidence": [
+  {
+   "claim": "Progetta e gestisce infrastrutture e piattaforme digitali per aziende e PA",
+   "url": "https://innovaway.it/",
+   "quote": "Progettiamo e gestiamo infrastrutture e piattaforme digitali end-to-end per aziende e PA."
+  },
+  {
+   "claim": "Innovaway progetta e gestisce infrastrutture e piattaforme digitali per aziende e PA",
+   "url": "https://innovaway.it/",
+   "quote": "Progettiamo e gestiamo infrastrutture e piattaforme digitali end-to-end per aziende e PA."
+  },
+  {
+   "claim": "Gestisce il ciclo di vita dell'infrastruttura IT su ambienti cloud e on premise",
+   "url": "https://innovaway.it/",
+   "quote": "Gestiamo l'intero ciclo di vita dell'infrastruttura IT, dalla progettazione alla gestione di ambienti ibridi, cloud e on premise."
+  },
+  {
+   "claim": "Serve i settori retail, utilities e trasporti",
+   "url": "https://innovaway.it/",
+   "quote": "con focus mirato sui settori Retail, Utilities e Trasporti"
+  },
+  {
+   "claim": "Serve i settori banking e insurance",
+   "url": "https://innovaway.it/",
+   "quote": "con particolare attenzione ai settori Banking e Insurance."
+  }
+ ],
+ "market": {
+  "count": "2.656",
+  "label": "responsabili IT, CIO e CTO di grandi aziende italiane oltre 100 addetti nei settori banking, assicurazioni, retail e utilities",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "banking e assicurazioni",
+   "retail e utilities",
+   "sanità e trasporti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"retail,utilities,transportation,banking,insurance,health care\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

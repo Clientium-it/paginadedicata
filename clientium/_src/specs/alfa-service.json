@@ -1,0 +1,78 @@
+{
+ "slug": "alfa-service",
+ "company": "Alfa Service",
+ "first_name": "Stefano",
+ "domain": "alfaservice.net",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Partner tecnologico per le aziende con software gestionali ERP dedicati al manifatturiero. Ecco chi contatteremmo per Alfa Service.",
+ "market_note": "Alfa Service sviluppa software gestionali ERP per il settore cartario, tissue converting, medicale e meccanico, quindi parleremmo con chi guida aziende manifatturiere su produzione, logistica e qualità.",
+ "evidence": [
+  {
+   "claim": "Alfa Service e partner tecnologico per le aziende",
+   "url": "https://www.alfaservice.net/",
+   "quote": "Partner tecnologico per le aziende"
+  },
+  {
+   "claim": "Sviluppa software gestionali ERP per il manifatturiero",
+   "url": "https://www.alfaservice.net/",
+   "quote": "Software gestionali ERP dedicati a vari mercati: cartario, tissue converting, medicale, officine meccaniche ed aziende manifatturiere."
+  },
+  {
+   "claim": "ERP verticali per cartario, tissue converting, medicale e meccanico",
+   "url": "https://www.alfaservice.net/",
+   "quote": "Software gestionali ERP dedicati a vari mercati: cartario, tissue converting, medicale, officine meccaniche ed aziende manifatturiere."
+  },
+  {
+   "claim": "Sviluppa software gestionali per cartario, tissue converting e meccanico",
+   "url": "https://www.alfaservice.net/",
+   "quote": "Software gestionali ERP dedicati a vari mercati: cartario, tissue converting, medicale, officine meccaniche ed aziende manifatturiere."
+  },
+  {
+   "claim": "Settori clienti manifatturieri serviti dal lead",
+   "url": "https://www.alfaservice.net/soluzioni-software/",
+   "quote": "Il reparto software di Alfa Service da oltre 30 anni affianca le aziende nella consulenza applicativa e gestionale"
+  }
+ ],
+ "market": {
+  "count": "18.338",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "manifatturiero",
+   "meccanico",
+   "medicale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"manufacturing,paper manufacturing,mechanical engineering,medical equipment manufacturing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

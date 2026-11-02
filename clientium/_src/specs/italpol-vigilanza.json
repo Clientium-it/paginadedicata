@@ -1,0 +1,81 @@
+{
+ "slug": "italpol-vigilanza",
+ "company": "Italpol Vigilanza",
+ "first_name": "Christian",
+ "domain": "italpolvigilanza.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Vigilanza privata, servizi fiduciari, investigazioni e sicurezza sussidiaria al fianco di aziende e istituzioni. Ecco chi contatteremmo per Italpol Vigilanza.",
+ "market_note": "Italpol Vigilanza offre da Roma vigilanza, servizi fiduciari e investigazioni alle imprese di tutta Italia, quindi parleremmo con chi in azienda decide su sicurezza e protezione di sedi e persone.",
+ "evidence": [
+  {
+   "claim": "Offre vigilanza privata, servizi fiduciari, investigazioni e sicurezza sussidiaria",
+   "url": "https://www.italpolvigilanza.it/",
+   "quote": "Vigilanza privata, servizi fiduciari, investigazioni, sicurezza sussidiaria"
+  },
+  {
+   "claim": "Al fianco di aziende e istituzioni",
+   "url": "https://www.italpolvigilanza.it/",
+   "quote": "garantiamo sicurezza a persone, aziende e istituzioni"
+  },
+  {
+   "claim": "Fondata a Roma, opera in tutta Italia",
+   "url": "https://www.italpolvigilanza.it/chi-siamo/",
+   "quote": "Fondata a Roma nel 1975 oggi è una S.p.A. che opera in tutta Italia."
+  },
+  {
+   "claim": "Si rivolge anche alle imprese",
+   "url": "https://www.italpolvigilanza.it/",
+   "quote": "La nostra sicurezza integrata per privati, Pubblica Amministrazione, imprese"
+  },
+  {
+   "claim": "Protegge le aziende con servizi e tecnologie d’avanguardia",
+   "url": "https://www.italpolvigilanza.it/",
+   "quote": "Proteggiamo le aziende con servizi e tecnologie d’avanguardia"
+  },
+  {
+   "claim": "Opera in tutta Italia",
+   "url": "https://www.italpolvigilanza.it/chi-siamo/",
+   "quote": "Fondata a Roma nel 1975 oggi è una S.p.A. che opera in tutta Italia."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

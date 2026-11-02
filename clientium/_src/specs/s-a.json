@@ -1,0 +1,76 @@
+{
+ "slug": "s-a",
+ "company": "S&A",
+ "first_name": "Pierangelo",
+ "domain": "sealink.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Soluzioni e metodologie per l'intelligence e l'analisi di dati complessi. Ecco chi contatteremmo per S&A.",
+ "market_note": "S&A crea soluzioni per l'intelligence e l'analisi di dati complessi per pubbliche amministrazioni, forze dell'ordine e aziende private, quindi parleremmo con chi decide su sicurezza e analisi dei dati.",
+ "evidence": [
+  {
+   "claim": "Crea soluzioni e metodologie per l'intelligence",
+   "url": "https://sealink.it/",
+   "quote": "creiamo soluzioni e metodologie per l’intelligence dal 1996"
+  },
+  {
+   "claim": "Analisi di dati complessi",
+   "url": "https://sealink.it/chi-siamo/",
+   "quote": "l’analisi e la correlazione di dati complessi"
+  },
+  {
+   "claim": "Vende a pubbliche amministrazioni, forze dell'ordine e aziende private",
+   "url": "https://sealink.it/prodotti/",
+   "quote": "pubbliche amministrazioni , forze dell’ordine , settore industriale e aziende private"
+  },
+  {
+   "claim": "Crea soluzioni per l'intelligence dal 1996",
+   "url": "https://sealink.it/",
+   "quote": "creiamo soluzioni e metodologie per l’intelligence dal 1996"
+  },
+  {
+   "claim": "I prodotti sono rivolti anche ad aziende private",
+   "url": "https://sealink.it/prodotti/",
+   "quote": "pubbliche amministrazioni , forze dell’ordine , settore industriale e aziende private"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "cybersecurity"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

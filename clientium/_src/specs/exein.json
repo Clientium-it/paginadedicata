@@ -1,0 +1,83 @@
+{
+ "slug": "exein",
+ "company": "Exein",
+ "first_name": "Gianni",
+ "domain": "exein.io",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Sicurezza informatica che protegge i sistemi Physical AI e il firmware dei dispositivi connessi. Ecco chi contatteremmo per Exein.",
+ "market_note": "Exein porta la sicurezza runtime nel firmware dei dispositivi connessi di chi opera in manifattura, sanità, automotive e semiconduttori, quindi parleremmo con chi decide su sicurezza e sviluppo prodotto.",
+ "evidence": [
+  {
+   "claim": "Exein protegge i sistemi Physical AI con soluzioni di cybersecurity",
+   "url": "https://www.exein.io/",
+   "quote": "protecting your Physical AI Systems with self-sustaining cybersecurity solutions"
+  },
+  {
+   "claim": "Le soluzioni di sicurezza vengono integrate direttamente nel firmware",
+   "url": "https://www.exein.io/",
+   "quote": "AI-powered cybersecurity solutions directly into your firmware"
+  },
+  {
+   "claim": "Exein fornisce sicurezza a livello di firmware",
+   "url": "https://www.exein.io/industries/manufacturing",
+   "quote": "Exein provides security at the firmware level, where attacks often begin"
+  },
+  {
+   "claim": "Settori industriali serviti da Exein",
+   "url": "https://www.exein.io/",
+   "quote": "Manufacturing Healthcare Industrial IoT Energy Automotive Semiconductor Robotics Critical Infrastructure"
+  },
+  {
+   "claim": "Exein protegge macchinari, sistemi embedded e dispositivi IoT",
+   "url": "https://www.exein.io/industries/manufacturing",
+   "quote": "Exein protects your machinery, embedded systems, and IoT devices"
+  },
+  {
+   "claim": "Settori clienti dichiarati dal sito",
+   "url": "https://www.exein.io/",
+   "quote": "Manufacturing Healthcare Industrial IoT Energy Automotive Semiconductor Robotics Critical Infrastructure"
+  }
+ ],
+ "market": {
+  "count": "2.111",
+  "label": "responsabili IT, CTO e CISO di aziende manifatturiere e produttori di dispositivi connessi di grandi dimensioni",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "manifattura",
+   "automotive",
+   "semiconduttori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"manufacturing,health care,automotive,semiconductor,robotics,energy,internet of things\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

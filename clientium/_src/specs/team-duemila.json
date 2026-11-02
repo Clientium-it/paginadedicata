@@ -1,0 +1,71 @@
+{
+ "slug": "team-duemila",
+ "company": "Team Duemila",
+ "first_name": "Massimiliano",
+ "domain": "teamduemila.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Soluzioni gestionali per Commercialisti, Consulenti del Lavoro e Aziende. Ecco chi contatteremmo per Team Duemila.",
+ "market_note": "Team Duemila dal 1995 è specializzata in software ERP e gestionali per Commercialisti, Consulenti del Lavoro e Aziende, quindi parleremmo con i titolari e gli amministratori che decidono sul gestionale.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni gestionali per Commercialisti, Consulenti del Lavoro e Aziende",
+   "url": "https://teamduemila.it/",
+   "quote": "Soluzioni gestionali per Commercialisti, Consulenti del Lavoro e Aziende."
+  },
+  {
+   "claim": "Azienda specializzata in software ERP e gestionali",
+   "url": "https://teamduemila.it/",
+   "quote": "è un'azienda specializzata in software ERP e Gestionali"
+  },
+  {
+   "claim": "Software partner TeamSystem dal 1995",
+   "url": "https://teamduemila.it/",
+   "quote": "Software Partner TeamSystem dal 1995."
+  },
+  {
+   "claim": "Serve clienti di qualunque dimensione a livello nazionale",
+   "url": "https://teamduemila.it/teamsystem-azienda",
+   "quote": "servire clienti di qualunque dimensione con soluzioni personalizzate"
+  }
+ ],
+ "market": {
+  "count": "75.714",
+  "label": "titolari e amministratori di piccole e medie imprese italiane",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "PMI italiane"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

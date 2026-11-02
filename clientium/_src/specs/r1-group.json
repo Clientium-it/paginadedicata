@@ -1,0 +1,71 @@
+{
+ "slug": "r1-group",
+ "company": "R1 Group",
+ "first_name": "Giancarlo",
+ "domain": "r1group.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "System Integrator che supporta le aziende italiane con soluzioni digitali innovative e su misura. Ecco chi contatteremmo per R1 Group.",
+ "market_note": "R1 Group è un System Integrator che si rivolge a imprese ed enti pubblici e privati di ogni dimensione, quindi parleremmo con chi decide su infrastrutture, cloud e sicurezza informatica.",
+ "evidence": [
+  {
+   "claim": "System Integrator che supporta le aziende italiane con soluzioni digitali su misura",
+   "url": "https://r1group.it/",
+   "quote": "supporta le aziende italiane con soluzioni digitali innovative e su misura"
+  },
+  {
+   "claim": "Si rivolge a imprese ed enti pubblici e privati di ogni dimensione",
+   "url": "https://r1group.it/",
+   "quote": "R1 Group si rivolge a imprese, enti pubblici e privati e aziende di ogni dimensione"
+  },
+  {
+   "claim": "Si rivolge a imprese, enti pubblici e privati e aziende di ogni dimensione",
+   "url": "https://r1group.it/",
+   "quote": "R1 Group si rivolge a imprese, enti pubblici e privati e aziende di ogni dimensione"
+  },
+  {
+   "claim": "System Integrator nel settore IT",
+   "url": "https://r1group.it/",
+   "quote": "R1 Group è un System Integrator con un’esperienza trentennale nel settore IT."
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "CIO e responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

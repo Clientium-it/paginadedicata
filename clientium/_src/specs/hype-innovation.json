@@ -1,0 +1,79 @@
+{
+ "slug": "hype-innovation",
+ "company": "HYPE Innovation",
+ "first_name": "Sven",
+ "domain": "hypeinnovation.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Una piattaforma per trasformare le iniziative aziendali in crescita ed efficienza misurabili. Ecco chi contatteremmo per HYPE Innovation.",
+ "market_note": "HYPE Innovation offre una piattaforma di innovation management alle grandi aziende globali, quindi parleremmo con chi guida strategia, innovazione e miglioramento continuo.",
+ "evidence": [
+  {
+   "claim": "Offre una piattaforma per trasformare le iniziative aziendali in crescita ed efficienza misurabili",
+   "url": "https://www.hypeinnovation.com/",
+   "quote": "One platform to turn business initiatives into measurable growth and efficiency."
+  },
+  {
+   "claim": "Offre una piattaforma di innovation management",
+   "url": "https://www.hypeinnovation.com/",
+   "quote": "in one innovation management platform."
+  },
+  {
+   "claim": "Vende a grandi aziende globali",
+   "url": "https://www.hypeinnovation.com/solutions/ai-governance",
+   "quote": "Trusted by global enterprises"
+  },
+  {
+   "claim": "Aiuta le organizzazioni a trasformare idee e iniziative in risultati misurabili",
+   "url": "https://www.hypeinnovation.com/",
+   "quote": "it helps organizations turn insights and ideas into work that can be prioritized, executed, and measured."
+  },
+  {
+   "claim": "Settori clienti dichiarati dal lead",
+   "url": "https://www.hypeinnovation.com/",
+   "quote": "Aerospace Automotive Chemical Energy / Utilities Finance Government / Public Sector Healthcare Insurance Manufacturing"
+  }
+ ],
+ "market": {
+  "count": "41.845",
+  "label": "direttori, CEO e responsabili innovazione di grandi aziende italiane oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "manifatturiero",
+   "aerospazio",
+   "finanza",
+   "energia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"aerospace,automotive,chemical,energy,utilities,finance,government,health care,insurance,manufacturing,pharmaceutical,life science,professional services,transportation,logistics\"}"
+ }
+}

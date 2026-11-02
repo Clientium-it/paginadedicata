@@ -1,0 +1,76 @@
+{
+ "slug": "sogetel",
+ "company": "Sogetel",
+ "first_name": "Pierluca",
+ "domain": "sogetel.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Innovazione digitale e soluzioni IT avanzate per accelerare il business delle imprese. Ecco chi contatteremmo per Sogetel.",
+ "market_note": "Sogetel progetta innovazione e soluzioni IT avanzate per le imprese che vogliono accelerare il proprio sviluppo digitale, quindi parleremmo con chi guida le scelte tecnologiche in azienda.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni IT avanzate",
+   "url": "https://www.sogetel.it/azienda/",
+   "quote": "un ampio portafoglio di soluzioni IT avanzate"
+  },
+  {
+   "claim": "Punta ad accelerare il business dei clienti",
+   "url": "https://www.sogetel.it/",
+   "quote": "accelerare il business dei nostri clienti in un mercato in continua evoluzione"
+  },
+  {
+   "claim": "Aiuta le imprese ad accelerare il proprio sviluppo",
+   "url": "https://www.sogetel.it/azienda/",
+   "quote": "Diamo alle imprese la possibilità di accelerare il proprio sviluppo"
+  },
+  {
+   "claim": "Collabora con CIO e Innovation center su progetti innovativi",
+   "url": "https://www.sogetel.it/azienda/",
+   "quote": "Collaboriamo con CIO, startup e Innovation center per definire e realizzare progetti in ambiti fortemente innovativi"
+  },
+  {
+   "claim": "I referenti tecnologici sono i CIO",
+   "url": "https://www.sogetel.it/azienda/",
+   "quote": "Collaboriamo con CIO, startup e Innovation center"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "CIO e responsabili IT di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "soluzioni IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "forge-studios",
+ "company": "Forge Studios",
+ "first_name": "Stefano",
+ "domain": "forgestudios.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Partner di produzione di game art e animazione per studi di gioco. Ecco chi contatteremmo per Forge Studios.",
+ "market_note": "Forge Studios dal 2010 produce game art e supporta studi di gioco in arte realistica, stilizzata e animazione, quindi parleremmo con chi guida le case di sviluppo videoludiche.",
+ "evidence": [
+  {
+   "claim": "Forge Studios produce game art",
+   "url": "https://www.forgestudios.com/",
+   "quote": "end-to-end game art production support"
+  },
+  {
+   "claim": "Offrono animazione",
+   "url": "https://www.forgestudios.com/our-services/",
+   "quote": "3D Animation by Hand"
+  },
+  {
+   "claim": "Attiva dal 2010",
+   "url": "https://www.forgestudios.com/about/",
+   "quote": "Founded in 2010"
+  },
+  {
+   "claim": "Supporta studi di sviluppo come estensione del team interno",
+   "url": "https://www.forgestudios.com/about/",
+   "quote": "An extension of 15+ in-house studio teams"
+  },
+  {
+   "claim": "Sede a Roma",
+   "url": "https://www.forgestudios.com/contacts/",
+   "quote": "Via Ostiense, 131/L 00154, Rome, Italy"
+  },
+  {
+   "claim": "Serve studi di sviluppo videogiochi con outsourcing di game art",
+   "url": "https://www.forgestudios.com/",
+   "quote": "Game Art & Visual Development Outsourcing Partner"
+  }
+ ],
+ "market": {
+  "count": "107",
+  "label": "titolari, CEO e amministratori di studi di sviluppo videogiochi in Italia",
+  "chips": [
+   "tutta Italia",
+   "studi di videogiochi",
+   "game art outsourcing"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"companyIndustry\": \"video games\"}"
+ }
+}

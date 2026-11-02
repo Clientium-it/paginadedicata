@@ -1,0 +1,73 @@
+{
+ "slug": "mycicero",
+ "company": "myCicero",
+ "first_name": "Giulia",
+ "domain": "mycicero.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "myCicero rivoluziona la gestione della mobilità per operatori del trasporto, enti pubblici e grandi aziende. Ecco chi contatteremmo per myCicero.",
+ "market_note": "myCicero rivoluziona la gestione della mobilità per operatori del trasporto, enti pubblici e grandi aziende, quindi parleremmo con i titolari e i direttori che decidono su mobilità e trasporti.",
+ "evidence": [
+  {
+   "claim": "gestisce la mobilità per operatori del trasporto, enti pubblici e grandi aziende",
+   "url": "https://mycicero.it/",
+   "quote": "myCicero rivoluziona la gestione della mobilità per Operatori del trasporto, Enti pubblici, Grandi Aziende e Grandi Eventi."
+  },
+  {
+   "claim": "gestisce la mobilità per operatori del trasporto, enti pubblici e grandi aziende",
+   "url": "https://mycicero.it/",
+   "quote": "myCicero rivoluziona la gestione della mobilità per Operatori del trasporto, Enti pubblici, Grandi Aziende e Grandi Eventi."
+  },
+  {
+   "claim": "rivoluziona la gestione della mobilità per operatori del trasporto, enti pubblici e grandi aziende",
+   "url": "https://mycicero.it/",
+   "quote": "myCicero rivoluziona la gestione della mobilità per Operatori del trasporto, Enti pubblici, Grandi Aziende e Grandi Eventi."
+  },
+  {
+   "claim": "offre servizi B2B",
+   "url": "https://mycicero.it/",
+   "quote": "Scopri l’ampia gamma di servizi B2B myCicero."
+  }
+ ],
+ "market": {
+  "count": "3.291",
+  "label": "titolari, CEO e direttori di operatori del trasporto, enti pubblici e grandi aziende in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "trasporti",
+   "enti pubblici",
+   "grandi aziende"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"transportation,public transportation\"}"
+ }
+}

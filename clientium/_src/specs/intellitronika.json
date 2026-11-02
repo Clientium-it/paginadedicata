@@ -1,0 +1,77 @@
+{
+ "slug": "intellitronika",
+ "company": "Intellitronika",
+ "first_name": "Andrea",
+ "domain": "intellitronika.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Soluzioni per il situation management e la sicurezza, dai dispositivi sul campo alla centrale operativa. Ecco chi contatteremmo per Intellitronika.",
+ "market_note": "Intellitronika progetta soluzioni per il situation management per i professionisti dell'emergenza e per il mondo business, quindi parleremmo con chi decide su sicurezza operativa e tecnologie sul campo.",
+ "evidence": [
+  {
+   "claim": "Opera nel situation management",
+   "url": "https://www.intellitronika.com/profilo-aziendale/",
+   "quote": "Operiamo oggi nel settore del situation management"
+  },
+  {
+   "claim": "Collega i dispositivi sul campo alla centrale operativa",
+   "url": "https://www.intellitronika.com/soluzioni/code/",
+   "quote": "lo scambio di informazioni in tempo reale fra gli operatori su strada e la centrale operativa"
+  },
+  {
+   "claim": "Realizza soluzioni per i professionisti dell'emergenza e per il mondo business",
+   "url": "https://www.intellitronika.com/profilo-aziendale/",
+   "quote": "soluzioni per i professionisti dell’emergenza e per il mondo business"
+  },
+  {
+   "claim": "Opera nel situation management",
+   "url": "https://www.intellitronika.com/profilo-aziendale/",
+   "quote": "Operiamo oggi nel settore del situation management"
+  },
+  {
+   "claim": "Serve anche istituti di vigilanza privata",
+   "url": "https://www.intellitronika.com/soluzioni/ibwc/",
+   "quote": "forze dell’ordine o di istituti di vigilanza privata"
+  }
+ ],
+ "market": {
+  "count": "1.527",
+  "label": "titolari e amministratori di istituti di vigilanza privata e aziende di trasporto strutturate in Italia",
+  "chips": [
+   "Tutta Italia",
+   "Vigilanza privata",
+   "Trasporti",
+   "Oltre 50 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"security and investigations,transportation\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "slug": "ubroker",
+ "company": "Ubroker",
+ "first_name": "Filippo",
+ "domain": "ubroker.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Gestore di energia elettrica e gas che rifornisce clienti privati e business sull'intero territorio nazionale. Ecco chi contatteremmo per Ubroker.",
+ "market_note": "Ubroker rifornisce di energia elettrica e gas clienti privati e business sull'intero territorio nazionale, quindi parleremmo con i titolari che decidono sulle forniture di luce e gas.",
+ "evidence": [
+  {
+   "claim": "Ubroker è un gestore di energia elettrica e gas per clienti privati e business",
+   "url": "https://ubroker.it/",
+   "quote": "gestore di energia elettrica e gas che rifornisce clienti privati e business di ogni entità sull'intero territorio nazionale"
+  },
+  {
+   "claim": "Rifornisce clienti privati e business su tutto il territorio nazionale",
+   "url": "https://ubroker.it/",
+   "quote": "gestore di energia elettrica e gas che rifornisce clienti privati e business di ogni entità sull'intero territorio nazionale"
+  },
+  {
+   "claim": "Rifornisce di energia elettrica e gas clienti privati e business a livello nazionale",
+   "url": "https://ubroker.it/",
+   "quote": "gestore di energia elettrica e gas che rifornisce clienti privati e business di ogni entità sull'intero territorio nazionale"
+  },
+  {
+   "claim": "Serve aziende business su tutta Italia",
+   "url": "https://ubroker.it/",
+   "quote": "gestore di energia elettrica e gas che rifornisce clienti privati e business di ogni entità sull'intero territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "86.964",
+  "label": "titolari e amministratori di piccole e medie imprese italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "PMI italiane"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

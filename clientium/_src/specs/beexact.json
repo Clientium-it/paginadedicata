@@ -1,0 +1,73 @@
+{
+ "slug": "beexact",
+ "company": "BeExact",
+ "first_name": "Luigi",
+ "domain": "beexact.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Reality capture e intelligenza AI per le infrastrutture di telecom, utility e smart city. Ecco chi contatteremmo per BeExact.",
+ "market_note": "BeExact unisce reality capture, software di design e ingegneria delle reti per operatori telecom, utility e municipalità, quindi parleremmo con chi guida gli investimenti nelle reti e nelle infrastrutture.",
+ "evidence": [
+  {
+   "claim": "Piattaforma di reality capture e intelligenza AI per telecom, utility e smart city",
+   "url": "https://beexact.com/",
+   "quote": "integrated platform for telecom, utilities and smart cities"
+  },
+  {
+   "claim": "Vende a operatori telecom, utility e municipalità come partner unico",
+   "url": "https://beexact.com/about/",
+   "quote": "Telecom operators, utilities, and municipalities work with one accountable partner"
+  },
+  {
+   "claim": "Oltre 90 sistemi di mobile mapping e oltre 60 milioni di homes passed mappati",
+   "url": "https://beexact.com/solutions/capture/",
+   "quote": "more than 90 mobile mapping systems and has captured more than 60 million homes passed"
+  },
+  {
+   "claim": "Serve reti telecom, utility e smart city",
+   "url": "https://beexact.com/about/",
+   "quote": "for telecom, utility, and smart city networks across Europe"
+  }
+ ],
+ "market": {
+  "count": "4.369",
+  "label": "direttori e responsabili delle reti di operatori telecom, utility e municipalità in Italia",
+  "chips": [
+   "tutta Italia",
+   "telecom",
+   "utility",
+   "smart city",
+   "oltre 200 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"telecommunications,utilities,smart cities\"}"
+ }
+}

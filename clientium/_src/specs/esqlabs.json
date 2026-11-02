@@ -1,0 +1,72 @@
+{
+ "slug": "esqlabs",
+ "company": "ESQlabs",
+ "first_name": "Stephan",
+ "domain": "esqlabs.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Consulenza scientifica, software e formazione nel modeling PBPK QSP e nella valutazione del rischio chimico. Ecco chi contatteremmo per ESQlabs.",
+ "market_note": "ESQlabs offre consulenza, software e formazione nel modeling PBPK QSP per supportare le decisioni su prodotti farmaceutici e chimici, quindi parleremmo con chi guida ricerca e sviluppo.",
+ "evidence": [
+  {
+   "claim": "Offrono consulenza scientifica, software e formazione nel modeling PBPK QSP e nella valutazione del rischio chimico",
+   "url": "https://esqlabs.com/",
+   "quote": "Customized scientific consultancy, software, and training in PBPK- QSP modeling and chemical risk assessment"
+  },
+  {
+   "claim": "Supportano le decisioni nello sviluppo di prodotti farmaceutici e chimici",
+   "url": "https://esqlabs.com/about-us/",
+   "quote": "support informed decision-making throughout the research and development process for both pharmaceutical and chemical products"
+  },
+  {
+   "claim": "Lavorano su modeling PBPK QSP e valutazione del rischio chimico",
+   "url": "https://esqlabs.com/",
+   "quote": "PBPK- QSP modeling and chemical risk assessment"
+  },
+  {
+   "claim": "I clienti sono aziende farmaceutiche e chimiche",
+   "url": "https://esqlabs.com/about-us/",
+   "quote": "support informed decision-making throughout the research and development process for both pharmaceutical and chemical products"
+  }
+ ],
+ "market": {
+  "count": "4.956",
+  "label": "direttori e responsabili di ricerca e sviluppo di aziende farmaceutiche e chimiche strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "farmaceutico",
+   "chimico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"pharmaceutical,chemical\"}"
+ }
+}

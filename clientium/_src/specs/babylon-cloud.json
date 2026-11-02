@@ -1,0 +1,83 @@
+{
+ "slug": "babylon-cloud",
+ "company": "Babylon Cloud",
+ "first_name": "Carlo",
+ "domain": "babyloncloud.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Soluzioni cloud proprietarie per backup, storage e gestione dei dati aziendali. Ecco chi contatteremmo per Babylon Cloud.",
+ "market_note": "Babylon Cloud fornisce servizi cloud a operatori Telco, software house e system integrator, quindi parleremmo con chi guida le scelte su infrastruttura, dati e sicurezza.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni cloud proprietarie",
+   "url": "https://www.babyloncloud.com/",
+   "quote": "Babylon Cloud offers a portfolio of proprietary, flexible, GDPR-compliant cloud solutions."
+  },
+  {
+   "claim": "Backup e storage dei dati aziendali",
+   "url": "https://www.babyloncloud.com/",
+   "quote": "offers solutions for the backup and synchronization of business data"
+  },
+  {
+   "claim": "Vende servizi cloud a telco, software house e system integrator",
+   "url": "https://www.babyloncloud.com/about-us/",
+   "quote": "Babylon Cloud provides Cloud services to Telco operators, Software Houses, and System Integrators"
+  },
+  {
+   "claim": "Vende servizi cloud a telco, software house e system integrator",
+   "url": "https://www.babyloncloud.com/about-us/",
+   "quote": "Babylon Cloud provides Cloud services to Telco operators, Software Houses, and System Integrators"
+  },
+  {
+   "claim": "Serve federazioni sportive",
+   "url": "https://www.babyloncloud.com/customers/",
+   "quote": "Babylon Stream offers sports federations the opportunity to enhance and monetize their video content"
+  },
+  {
+   "claim": "Serve agenzie pubblicitarie",
+   "url": "https://www.babyloncloud.com/customers/",
+   "quote": "advertising agencies can maximize revenue and fully take advantage of video streaming power"
+  }
+ ],
+ "market": {
+  "count": "1.795",
+  "label": "responsabili IT e CTO di aziende italiane strutturate come telco, software house e media",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "telco",
+   "software house",
+   "media"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"telecommunications,software,media and entertainment,advertising services,sports\"}"
+ }
+}

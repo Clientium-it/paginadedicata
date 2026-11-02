@@ -1,0 +1,73 @@
+{
+ "slug": "advancia-technology",
+ "company": "Advancia Technology",
+ "first_name": "Ugo",
+ "domain": "advancia.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Consulenza IT specializzata per finance e banking con competenza tecnica e visione strategica. Ecco chi contatteremmo per Advancia Technology.",
+ "market_note": "Advancia Technology offre consulenza IT ai settori bancario, assicurativo e industriale, quindi parleremmo con chi guida le scelte tecnologiche su software, dati e intelligenza artificiale.",
+ "evidence": [
+  {
+   "claim": "Fa consulenza IT specializzata per finance e banking con competenza tecnica e visione strategica",
+   "url": "https://www.advancia.it/",
+   "quote": "Consulenza IT specializzata per finance e banking, dove competenza tecnica e visione strategica creano valore"
+  },
+  {
+   "claim": "Offre consulenza IT ai settori bancario, assicurativo e industriale",
+   "url": "https://www.advancia.it/",
+   "quote": "Affianchiamo aziende dei settori bancario, assicurativo e industriale con servizi di consulenza IT ad alto valore strategico"
+  },
+  {
+   "claim": "Affianca aziende dei settori bancario, assicurativo e industriale con servizi di consulenza IT",
+   "url": "https://www.advancia.it/",
+   "quote": "Affianchiamo aziende dei settori bancario, assicurativo e industriale con servizi di consulenza IT ad alto valore strategico"
+  },
+  {
+   "claim": "I settori clienti dichiarati sono finance, banking, automotive e insurance",
+   "url": "https://www.advancia.it/",
+   "quote": "Finance Banking Automotive Insurance"
+  }
+ ],
+ "market": {
+  "count": "1.644",
+  "label": "responsabili IT, CIO e CTO di banche, assicurazioni e aziende industriali in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "banche",
+   "assicurazioni",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"banking,insurance,automotive,finance\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

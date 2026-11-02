@@ -1,0 +1,81 @@
+{
+ "slug": "it-partner-italia",
+ "company": "IT Partner Italia",
+ "first_name": "Alessio",
+ "domain": "itpartneritalia.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Consulenza IT, system integration e outsourcing per la trasformazione digitale delle aziende. Ecco chi contatteremmo per IT Partner Italia.",
+ "market_note": "IT Partner Italia affianca da Firenze le aziende con consulenza IT, system integration e outsourcing, quindi parleremmo con chi decide su infrastrutture e progetti informatici.",
+ "evidence": [
+  {
+   "claim": "consulenza IT, system integration e outsourcing",
+   "url": "https://itpartneritalia.com/",
+   "quote": "supportiamo i processi di trasformazione digitale attraverso consulenza IT, system integration e outsourcing"
+  },
+  {
+   "claim": "consulenza IT, system integration e outsourcing",
+   "url": "https://itpartneritalia.com/",
+   "quote": "supportiamo i processi di trasformazione digitale attraverso consulenza IT, system integration e outsourcing"
+  },
+  {
+   "claim": "sede a Firenze",
+   "url": "https://itpartneritalia.com/chi-siamo/",
+   "quote": "3 Sedi a Firenze, Milano e Roma"
+  },
+  {
+   "claim": "outsourcing IT e system integration",
+   "url": "https://itpartneritalia.com/chi-siamo/",
+   "quote": "specializzato in IT Outsourcing e System Integration"
+  },
+  {
+   "claim": "da Firenze",
+   "url": "https://itpartneritalia.com/chi-siamo/",
+   "quote": "3 Sedi a Firenze, Milano e Roma"
+  },
+  {
+   "claim": "vende servizi IT alle aziende",
+   "url": "https://itpartneritalia.com/chi-siamo/",
+   "quote": "specializzato in IT Outsourcing e System Integration"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

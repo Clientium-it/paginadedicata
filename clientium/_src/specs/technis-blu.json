@@ -1,0 +1,74 @@
+{
+ "slug": "technis-blu",
+ "company": "Technis Blu",
+ "first_name": "Elio",
+ "domain": "technisblu.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Progettazione e gestione di sistemi informativi complessi con forte expertise nella consulenza SAP. Ecco chi contatteremmo per Technis Blu.",
+ "market_note": "Technis Blu progetta sistemi informativi complessi con soluzioni SAP per Pubblica Amministrazione Locale, manifatturiero, food & beverage e sanità, quindi parleremmo con chi guida IT e sistemi informativi.",
+ "evidence": [
+  {
+   "claim": "Progetta e gestisce sistemi informativi complessi con forte expertise nella consulenza SAP",
+   "url": "https://technisblu.it/",
+   "quote": "progettazione e gestione di sistemi informativi complessi, con una forte expertise nell’ambito della consulenza SAP"
+  },
+  {
+   "claim": "Offre soluzioni SAP per PA locale, manifatturiero, food & beverage e sanità",
+   "url": "https://technisblu.it/",
+   "quote": "dalla Pubblica Amministrazione Locale all’industria manifatturiera, dal food & beverage al mondo sanitario"
+  },
+  {
+   "claim": "Sviluppa soluzioni SAP verticali per diversi settori",
+   "url": "https://technisblu.it/",
+   "quote": "Technis Blu sviluppa soluzioni SAP verticali pensate per rispondere alle esigenze specifiche di diversi settori"
+  },
+  {
+   "claim": "Player nazionale nella consulenza organizzativa e di processo",
+   "url": "https://technisblu.it/azienda/",
+   "quote": "ci configura fra i principali player nazionali nella consulenza organizzativa e di processo"
+  }
+ ],
+ "market": {
+  "count": "2.035",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate dei settori manifatturiero, alimentare, sanitario e della pubblica amministrazione locale",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manifatturiero",
+   "food & beverage",
+   "sanità",
+   "PA locale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,food and beverage,health care,government administration\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

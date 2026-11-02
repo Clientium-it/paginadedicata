@@ -1,0 +1,76 @@
+{
+ "slug": "jdk",
+ "company": "Jdk",
+ "first_name": "Danilo",
+ "domain": "jdk.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Software house italiana specializzata in sviluppo software, formazione e consulenza. Ecco chi contatteremmo per Jdk.",
+ "market_note": "Jdk è una software house di Roma che offre sviluppo software, formazione e consulenza IT alle aziende, quindi parleremmo con chi guida IT e innovazione nelle imprese strutturate.",
+ "evidence": [
+  {
+   "claim": "Software house italiana specializzata in sviluppo software, formazione e consulenza",
+   "url": "https://jdk.it/",
+   "quote": "Software House italiana specializzata in sviluppo software, formazione e consulenza"
+  },
+  {
+   "claim": "software house che offre sviluppo software, formazione e consulenza",
+   "url": "https://jdk.it/",
+   "quote": "Software House italiana specializzata in sviluppo software, formazione e consulenza"
+  },
+  {
+   "claim": "sede a Roma",
+   "url": "https://jdk.it/",
+   "quote": "Via dei Magazzini Generali, 10 – 00147 Roma"
+  },
+  {
+   "claim": "ha sviluppato Jdk Workspace, piattaforma per la gestione del personale",
+   "url": "https://jdk.it/sviluppo-software/applicazione-aziendale/",
+   "quote": "Jdk Workspace Una piattaforma su misura per la gestione del personale"
+  },
+  {
+   "claim": "software house italiana nel settore IT",
+   "url": "https://jdk.it/chi-siamo/",
+   "quote": "una software house italiana nel settore dell’Information Technology"
+  }
+ ],
+ "market": {
+  "count": "2.941",
+  "label": "responsabili IT, CTO e CIO di aziende italiane strutturate dai 20 ai 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

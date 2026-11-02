@@ -1,0 +1,83 @@
+{
+ "slug": "cosmic",
+ "company": "Cosmic",
+ "first_name": "Pasini",
+ "domain": "cosmic-group.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Soluzioni di test per semiconduttori, dall'attrezzatura ATE ai servizi di collaudo. Ecco chi contatteremmo per Cosmic.",
+ "market_note": "Cosmic progetta e produce soluzioni di test per semiconduttori e offre servizi di collaudo per i mercati automotive, industriale e power, quindi parleremmo con chi guida ingegneria e produzione.",
+ "evidence": [
+  {
+   "claim": "Fornisce soluzioni di test per semiconduttori",
+   "url": "https://cosmic-group.com/",
+   "quote": "A Global Player for Semiconductor Test Solutions"
+  },
+  {
+   "claim": "Progetta e produce attrezzature di test ATE",
+   "url": "https://cosmic-group.com/",
+   "quote": "the design and manufacturing of advanced test solutions, including Automatic Test Equipment (ATE) systems"
+  },
+  {
+   "claim": "Offre un portafoglio di servizi di test",
+   "url": "https://cosmic-group.com/services/",
+   "quote": "The Cosmic Services division provides a comprehensive portfolio of test services"
+  },
+  {
+   "claim": "Serve i mercati automotive, industriale e power",
+   "url": "https://cosmic-group.com/",
+   "quote": "the growing demands of the automotive, industrial, power, and high-reliability markets"
+  },
+  {
+   "claim": "Sviluppa sistemi ATE per mercati automotive e industriali",
+   "url": "https://cosmic-group.com/",
+   "quote": "the design and manufacturing of advanced test solutions, including Automatic Test Equipment (ATE) systems"
+  },
+  {
+   "claim": "I clienti operano nei mercati automotive, industriale e power",
+   "url": "https://cosmic-group.com/",
+   "quote": "the growing demands of the automotive, industrial, power, and high-reliability markets"
+  }
+ ],
+ "market": {
+  "count": "8.953",
+  "label": "titolari, CEO e direttori tecnici di aziende del settore semiconduttori e automotive oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "semiconduttori",
+   "automotive",
+   "industriale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"semiconductor,semiconductor manufacturing,automotive,industrial\"}"
+ }
+}

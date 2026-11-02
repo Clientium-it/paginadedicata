@@ -1,0 +1,88 @@
+{
+ "slug": "delta-system",
+ "company": "Delta System",
+ "first_name": "Gabriele",
+ "domain": "deltasystem.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Sviluppa soluzioni informatiche integrate per far funzionare al meglio le aziende. Ecco chi contatteremmo per Delta System.",
+ "market_note": "Delta System sviluppa software gestionali e soluzioni informatiche integrate per le aziende manifatturiere e dell'arredo, quindi parleremmo con chi guida la trasformazione digitale e il controllo di gestione.",
+ "evidence": [
+  {
+   "claim": "Sviluppa soluzioni informatiche integrate per le aziende",
+   "url": "https://www.deltasystem.it/azienda/",
+   "quote": "sviluppiamo soluzioni informatiche integrate che rispondono concretamente alle tue necessità"
+  },
+  {
+   "claim": "Serve le aziende manifatturiere e dell'arredo",
+   "url": "https://www.deltasystem.it/",
+   "quote": "Componenti e lavorazioni per l’industria manifatturiera"
+  },
+  {
+   "claim": "Affianca le aziende da oltre 30 anni con consulenza e soluzioni",
+   "url": "https://www.deltasystem.it/",
+   "quote": "Da oltre 30 anni affianchiamo le aziende per offrire consulenza e soluzioni"
+  },
+  {
+   "claim": "Clienti nella manifattura",
+   "url": "https://www.deltasystem.it/",
+   "quote": "Componenti e lavorazioni per l’industria manifatturiera"
+  },
+  {
+   "claim": "Clienti nel mobile e arredo",
+   "url": "https://www.deltasystem.it/",
+   "quote": "Componenti per l’industria del mobile"
+  },
+  {
+   "claim": "Clienti nelle macchine industriali",
+   "url": "https://www.deltasystem.it/",
+   "quote": "Macchine industriali e attrezzature"
+  },
+  {
+   "claim": "Clienti nell'automotive",
+   "url": "https://www.deltasystem.it/",
+   "quote": "Componenti per l’industria automobilistica e lavorazioni meccaniche"
+  }
+ ],
+ "market": {
+  "count": "16.262",
+  "label": "titolari, CEO e direttori di aziende manifatturiere e dell'arredo in Italia da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "manifattura",
+   "arredo",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"companyIndustry\": \"manufacturing,furniture and home furnishings manufacturing,industrial machinery manufacturing,automotive\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

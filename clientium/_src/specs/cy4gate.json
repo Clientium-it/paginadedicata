@@ -1,0 +1,91 @@
+{
+ "slug": "cy4gate",
+ "company": "CY4GATE",
+ "first_name": "Emanuele",
+ "domain": "cy4gate.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Tecnologie italiane di cyber security e intelligence per difesa di istituzioni e infrastrutture critiche. Ecco chi contatteremmo per CY4GATE.",
+ "market_note": "CY4GATE sviluppa tecnologie italiane per la cyber security a difesa di istituzioni, aziende e infrastrutture critiche, quindi parleremmo con chi decide su sicurezza informatica e protezione dei dati.",
+ "evidence": [
+  {
+   "claim": "Sviluppa tecnologie italiane di cyber security",
+   "url": "https://www.cy4gate.com/",
+   "quote": "sviluppa tecnologie italiane per la cyber security"
+  },
+  {
+   "claim": "A difesa di istituzioni e infrastrutture critiche",
+   "url": "https://www.cy4gate.com/",
+   "quote": "per la difesa di istituzioni, aziende e infrastrutture critiche"
+  },
+  {
+   "claim": "Sviluppa tecnologie italiane per la cyber security",
+   "url": "https://www.cy4gate.com/",
+   "quote": "sviluppa tecnologie italiane per la cyber security"
+  },
+  {
+   "claim": "A difesa di istituzioni, aziende e infrastrutture critiche",
+   "url": "https://www.cy4gate.com/",
+   "quote": "per la difesa di istituzioni, aziende e infrastrutture critiche"
+  },
+  {
+   "claim": "Protegge i dati e supporta le decisioni strategiche",
+   "url": "https://www.cy4gate.com/",
+   "quote": "garantire la protezione dei dati e supportare le decisioni strategiche"
+  },
+  {
+   "claim": "Sviluppa tecnologie italiane di cyber security per istituzioni, aziende e infrastrutture critiche",
+   "url": "https://www.cy4gate.com/",
+   "quote": "sviluppa tecnologie italiane per la cyber security"
+  },
+  {
+   "claim": "Protegge istituzioni, aziende e infrastrutture critiche",
+   "url": "https://www.cy4gate.com/",
+   "quote": "per la difesa di istituzioni, aziende e infrastrutture critiche"
+  },
+  {
+   "claim": "Azienda italiana di cyber security",
+   "url": "https://www.cy4gate.com/",
+   "quote": "un'azienda italiana top player nel settore della Cyber Security"
+  }
+ ],
+ "market": {
+  "count": "7.840",
+  "label": "CIO, CTO e responsabili IT di aziende e infrastrutture critiche italiane strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "CIO e responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

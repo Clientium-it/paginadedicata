@@ -1,0 +1,103 @@
+{
+ "slug": "nais",
+ "company": "NAIS",
+ "first_name": "Valerio",
+ "domain": "nais-solutions.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Ingegneria del software e trasferimento sul mercato di tecnologie innovative. Ecco chi contatteremmo per NAIS.",
+ "market_note": "NAIS è una software house di Roma che realizza progetti di ingegneria del software e R&D per agenzie spaziali, istituzioni e aziende, quindi parleremmo con chi decide su innovazione tecnologica.",
+ "evidence": [
+  {
+   "claim": "Fa ingegneria del software",
+   "url": "https://www.nais-solutions.it/",
+   "quote": "Ingegneria del software a 360°"
+  },
+  {
+   "claim": "Trasferimento sul mercato di tecnologie innovative",
+   "url": "https://www.nais-solutions.it/",
+   "quote": "Trasferimento sul Mercato (TTM) di Tecnologie Innovative"
+  },
+  {
+   "claim": "È una software house",
+   "url": "https://www.nais-solutions.it/",
+   "quote": "La nostra Software House è in continua evoluzione tecnologica"
+  },
+  {
+   "claim": "Realizza progetti di R&D",
+   "url": "https://www.nais-solutions.it/",
+   "quote": "realizziamo Progetti di R&D in ambito Europeo (ESA, EUSPA, HORIZON)"
+  },
+  {
+   "claim": "Serve agenzie spaziali e istituzioni",
+   "url": "https://www.nais-solutions.it/",
+   "quote": "abbiamo supportato Agenzie Spaziali, Istituzioni, PA, Istituti di Ricerca, e Utenti Privati"
+  },
+  {
+   "claim": "Supporta le aziende",
+   "url": "https://www.nais-solutions.it/",
+   "quote": "Supportiamo la tua azienda con professionalità e attenzione"
+  },
+  {
+   "claim": "Sede a Roma",
+   "url": "https://www.nais-solutions.it/nais-portfolio/",
+   "quote": "Via Andrea Noale 345/A , 00155, Roma, Italia"
+  },
+  {
+   "claim": "Monitoraggio di ponti e viadotti con satelliti",
+   "url": "https://www.nais-solutions.it/",
+   "quote": "monitoraggio di ponti e viadotti attraverso l’uso di satelliti"
+  },
+  {
+   "claim": "Fornitura di funzioni per ANAS",
+   "url": "https://www.nais-solutions.it/safebridge-servizi-di-monitoraggio-con-tecniche-satellitari-per-ponti-sicuri/",
+   "quote": "Fornitura all’utente ANAS di funzioni di Monitoraggio e Sorveglianza dei Ponti"
+  },
+  {
+   "claim": "Domini serviti spazio, difesa, cybersecurity",
+   "url": "https://www.nais-solutions.it/",
+   "quote": "sia sui diversi domini (Spazio, Difesa, ATM, Cybersecurity, Betting)"
+  }
+ ],
+ "market": {
+  "count": "343",
+  "label": "responsabili IT e CTO di aziende italiane strutturate dei settori spazio, difesa e cybersecurity",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "spazio",
+   "difesa",
+   "cybersecurity"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"aerospace,defense and space manufacturing,cyber security,gambling\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

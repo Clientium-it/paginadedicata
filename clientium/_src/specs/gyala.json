@@ -1,0 +1,73 @@
+{
+ "slug": "gyala",
+ "company": "Gyala",
+ "first_name": "Nicola",
+ "domain": "gyala.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Proteggono le infrastrutture IT OT e IoT con una piattaforma di cyber security italiana. Ecco chi contatteremmo per Gyala.",
+ "market_note": "Gyala protegge le infrastrutture IT OT e IoT di aziende pubbliche e private con una tecnologia italiana, quindi parleremmo con chi decide su sicurezza informatica e resilienza delle infrastrutture critiche.",
+ "evidence": [
+  {
+   "claim": "Protegge le infrastrutture IT, OT e IoT con un'unica soluzione",
+   "url": "https://www.gyala.com/",
+   "quote": "Proteggi le infrastrutture IT, OT e IoT con un’unica soluzione."
+  },
+  {
+   "claim": "Supporta aziende pubbliche e private verso la cyber resilience",
+   "url": "https://www.gyala.com/chi-siamo/",
+   "quote": "supportiamo aziende pubbliche e private nel raggiungere il massimo livello di cyber resilience."
+  },
+  {
+   "claim": "Tecnologia italiana di derivazione militare",
+   "url": "https://www.gyala.com/",
+   "quote": "Tecnologia 100% italiana di derivazione militare"
+  },
+  {
+   "claim": "Collabora con aziende dei settori sanitario, industriale, navale ed energetico",
+   "url": "https://www.gyala.com/chi-siamo/",
+   "quote": "collaboriamo con aziende leader nei settori sanitario, industriale, navale ed energetico"
+  }
+ ],
+ "market": {
+  "count": "4.337",
+  "label": "responsabili IT, CIO e CTO di aziende e infrastrutture critiche italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "sanità e industria",
+   "finance e utilities",
+   "difesa e PA"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"health care,manufacturing,maritime transportation,financial services,banking,utilities,energy,government administration,defense and space manufacturing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

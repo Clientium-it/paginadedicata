@@ -1,0 +1,78 @@
+{
+ "slug": "wsense",
+ "company": "WSense",
+ "first_name": "Chiara",
+ "domain": "wsense.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Comunicazioni wireless sottomarine per le infrastrutture critiche della blue economy. Ecco chi contatteremmo per WSense.",
+ "market_note": "WSense dà voce all'oceano con comunicazioni wireless sottomarine per le infrastrutture critiche della blue economy, quindi parleremmo con chi decide su energia offshore, difesa e sorveglianza subacquea.",
+ "evidence": [
+  {
+   "claim": "Comunicazioni wireless sottomarine per le infrastrutture critiche",
+   "url": "https://wsense.it/",
+   "quote": "Unleash the Power of Underwater Wireless Communication for Critical Infrastructures"
+  },
+  {
+   "claim": "Dà voce all'oceano per la blue economy",
+   "url": "https://wsense.it/",
+   "quote": "We give voice to the Ocean for a sustainable and actionable blue economy"
+  },
+  {
+   "claim": "Comunicazioni wireless sottomarine per infrastrutture critiche",
+   "url": "https://wsense.it/",
+   "quote": "Unleash the Power of Underwater Wireless Communication for Critical Infrastructures"
+  },
+  {
+   "claim": "Settori serviti difesa ed energia offshore",
+   "url": "https://wsense.it/",
+   "quote": "Defense AUV Swarms Offshore Energy Carbon Capture And Storage Marine Protected Areas"
+  },
+  {
+   "claim": "Operazioni oil and gas servite",
+   "url": "https://wsense.it/usecases/",
+   "quote": "Upstream Oil & Gas Operations Downstream Oil & LNG Terminal Operations"
+  }
+ ],
+ "market": {
+  "count": "3.323",
+  "label": "direttori e responsabili di grandi aziende italiane dell'energia offshore, oil and gas e difesa oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "energia offshore",
+   "oil and gas",
+   "difesa"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"oil and gas,renewable energy,defense and space manufacturing\"}"
+ }
+}

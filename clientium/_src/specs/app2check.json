@@ -1,0 +1,76 @@
+{
+ "slug": "app2check",
+ "company": "App2Check",
+ "first_name": "Pierpaolo",
+ "domain": "app2check.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Analisi della customer experience e chatbot cognitivi per le aziende. Ecco chi contatteremmo per App2Check.",
+ "market_note": "App2Check sviluppa da Genova una suite Voice of the Customer con analisi CX e chatbot cognitivi per le aziende, quindi parleremmo con chi decide su customer experience e assistenza clienti.",
+ "evidence": [
+  {
+   "claim": "analisi della customer experience e chatbot",
+   "url": "https://app2check.com/",
+   "quote": "Deep CX analytics & Smart chatbots"
+  },
+  {
+   "claim": "ha sede a Genova",
+   "url": "https://app2check.com/",
+   "quote": "Via XX Settembre, 14 - 16121, Genoa"
+  },
+  {
+   "claim": "suite Voice of the Customer",
+   "url": "https://app2check.com/",
+   "quote": "The Ultimate Voice Of the Customer Suite"
+  },
+  {
+   "claim": "piattaforma per costruire chatbot cognitivi senza competenze tecniche",
+   "url": "https://app2check.com/",
+   "quote": "EVA is a platform to build Cognitive Chatbots without technical skills"
+  },
+  {
+   "claim": "analizza la customer experience da più fonti dati per le aziende",
+   "url": "https://app2check.com/",
+   "quote": "App2Check analyses Customer Experience from multiple data sources"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

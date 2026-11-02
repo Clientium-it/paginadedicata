@@ -1,0 +1,76 @@
+{
+ "slug": "ranocchi-software",
+ "company": "Ranocchi Software",
+ "first_name": "Giorgio",
+ "domain": "ranocchi.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Software gestionali per commercialisti, consulenti del lavoro e aziende. Ecco chi contatteremmo per Ranocchi Software.",
+ "market_note": "Ranocchi Software offre software gestionali per commercialisti, consulenti del lavoro e aziende, quindi parleremmo con i titolari di studi e imprese che scelgono gli strumenti gestionali.",
+ "evidence": [
+  {
+   "claim": "Produce software gestionali per commercialisti, consulenti del lavoro e aziende",
+   "url": "http://ranocchi.it/",
+   "quote": "Software gestionali Commercialisti, Consulenti del Lavoro, Aziende"
+  },
+  {
+   "claim": "Vende software gestionali a commercialisti, consulenti del lavoro e aziende",
+   "url": "http://ranocchi.it/",
+   "quote": "Software gestionali Commercialisti, Consulenti del Lavoro, Aziende"
+  },
+  {
+   "claim": "Sviluppa software gestionali per commercialisti, consulenti del lavoro e aziende",
+   "url": "http://ranocchi.it/",
+   "quote": "Software gestionali Commercialisti, Consulenti del Lavoro, Aziende"
+  },
+  {
+   "claim": "Opera sul mercato locale e nazionale di professionisti e imprese",
+   "url": "http://ranocchi.it/gruppo-ranocchi-nts-chi-siamo/company-profile-gruppo-ranocchi-software",
+   "quote": "Creato per il mercato locale e nazionale dei professionisti e delle imprese"
+  },
+  {
+   "claim": "Vende software gestionale e fiscale a commercialisti e aziende",
+   "url": "http://ranocchi.it/gruppo-ranocchi-nts-chi-siamo/company-profile-gruppo-ranocchi-software",
+   "quote": "opera sul mercato del software gestionale e fiscale per commercialisti e aziende"
+  }
+ ],
+ "market": {
+  "count": "345",
+  "label": "titolari, CEO e amministratori di studi professionali e imprese italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "accounting"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"accounting\"}"
+ }
+}

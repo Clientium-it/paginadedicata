@@ -1,0 +1,78 @@
+{
+ "slug": "digilab-group",
+ "company": "Digilab Group",
+ "first_name": "Alessandro",
+ "domain": "digilabgroup.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Genera domanda, la qualifica e la porta fino alla conversione. Ecco chi contatteremmo per Digilab Group.",
+ "market_note": "Digilab Group genera e qualifica domanda per aziende di energia, telco, assicurazioni e finanza, quindi parleremmo con chi guida marketing e vendite e decide sulla generazione di clienti.",
+ "evidence": [
+  {
+   "claim": "Genera e qualifica domanda fino alla conversione",
+   "url": "https://digilabgroup.it/",
+   "quote": "Generiamo domanda, la qualifichiamo, la portiamo fino alla conversione."
+  },
+  {
+   "claim": "Serve aziende di energia, telco, assicurazioni e finanza",
+   "url": "https://digilabgroup.it/",
+   "quote": "Energia e Gas · Telco · Assicurazioni · Finanza e Prestiti · Casa e Ristrutturazione"
+  },
+  {
+   "claim": "Hanno una AI propria costruita in casa",
+   "url": "https://digilabgroup.it/",
+   "quote": "È la nostra AI, costruita in casa"
+  },
+  {
+   "claim": "La AI lavora i contatti uno per uno",
+   "url": "https://digilabgroup.it/",
+   "quote": "Prende i contatti uno per uno e decide"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://digilabgroup.it/",
+   "quote": "Energia e Gas · Telco · Assicurazioni · Finanza e Prestiti · Casa e Ristrutturazione"
+  }
+ ],
+ "market": {
+  "count": "28.852",
+  "label": "titolari, CEO e direttori marketing di aziende italiane di energia, telco, assicurazioni e finanza da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "energia e gas",
+   "telco",
+   "assicurazioni e finanza"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"energy,telecommunications,insurance,financial services,home improvement,energy efficiency,wellness,automotive,education\"}"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "slug": "it-value",
+ "company": "IT Value",
+ "first_name": "Vincenzo",
+ "domain": "itvalue.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Consulenza direzionale per sicurezza delle informazioni, governance, rischio e compliance. Ecco chi contatteremmo per IT Value.",
+ "market_note": "IT Value offre consulenza direzionale e servizi per information security, governance, risk e compliance a organizzazioni private e pubbliche, quindi parleremmo con chi decide su sicurezza, rischio e conformità.",
+ "evidence": [
+  {
+   "claim": "Consulenza direzionale per information security, governance, risk e compliance",
+   "url": "https://itvalue.it/",
+   "quote": "Consulenza Direzionale e di Servizi per l'Information Security, Governance, Risk & Compliance"
+  },
+  {
+   "claim": "Serve organizzazioni private e pubbliche",
+   "url": "https://itvalue.it/nostri-servizi",
+   "quote": "offrire supporto consulenziale ad organizzazioni private e pubbliche"
+  },
+  {
+   "claim": "Offre consulenza direzionale in information security, governance, risk e compliance",
+   "url": "https://itvalue.it/",
+   "quote": "Consulenza Direzionale e di Servizi per l'Information Security, Governance, Risk & Compliance"
+  },
+  {
+   "claim": "Lavora su IT Governance, Risk e Compliance, quindi parla con chi decide sull'IT",
+   "url": "https://itvalue.it/",
+   "quote": "Opera nell'analisi e progettazione dell'IT Governance, Risk & Compliance"
+  }
+ ],
+ "market": {
+  "count": "11.169",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "CIO e responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

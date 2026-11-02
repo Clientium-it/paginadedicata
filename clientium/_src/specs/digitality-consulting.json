@@ -1,0 +1,81 @@
+{
+ "slug": "digitality-consulting",
+ "company": "Digitality Consulting",
+ "first_name": "Domenico",
+ "domain": "digitality-consulting.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Affiancano le aziende nella trasformazione digitale con consulenza IT, AI e sviluppo software. Ecco chi contatteremmo per Digitality Consulting.",
+ "market_note": "Digitality Consulting affianca da Roma le aziende nella trasformazione digitale tra consulenza IT, intelligenza artificiale e sviluppo software, quindi parleremmo con chi decide su innovazione e sistemi informativi.",
+ "evidence": [
+  {
+   "claim": "Affiancano le aziende nella trasformazione digitale con consulenza IT e AI",
+   "url": "https://digitality-consulting.com/chi-siamo/",
+   "quote": "specializzata in consulenza IT , soluzioni di intelligenza artificiale e formazione professionale certificata"
+  },
+  {
+   "claim": "Sviluppano software su misura",
+   "url": "https://digitality-consulting.com/",
+   "quote": "Sviluppo Software e Integrazione di Sistemi"
+  },
+  {
+   "claim": "Affiancano le aziende nei percorsi di trasformazione digitale",
+   "url": "https://digitality-consulting.com/",
+   "quote": "affianca aziende e persone nei percorsi di trasformazione digitale"
+  },
+  {
+   "claim": "Hanno sede a Roma",
+   "url": "https://digitality-consulting.com/contatti/",
+   "quote": "Via Sardegna, 29, Roma"
+  },
+  {
+   "claim": "Prima azienda in Italia ad adottare lo standard C2PA in un progetto proprietario",
+   "url": "https://digitality-consulting.com/",
+   "quote": "la prima azienda in Italia ad adottare ufficialmente lo standard C2PA in un progetto proprietario"
+  },
+  {
+   "claim": "Servono aziende di diverse dimensioni e settori",
+   "url": "https://digitality-consulting.com/chi-siamo/",
+   "quote": "aziende di diverse dimensioni e settori"
+  }
+ ],
+ "market": {
+  "count": "76.489",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "PMI strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

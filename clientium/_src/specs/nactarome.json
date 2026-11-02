@@ -1,0 +1,73 @@
+{
+ "slug": "nactarome",
+ "company": "Nactarome",
+ "first_name": "Valentino",
+ "domain": "nactarome.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Soluzioni naturali di gusto, colore e benessere per le industrie alimentari e delle bevande. Ecco chi contatteremmo per Nactarome.",
+ "market_note": "Nactarome produce soluzioni naturali di aroma, gusto e colore per le industrie alimentari e delle bevande, quindi parleremmo con chi guida le aziende del settore food and beverage.",
+ "evidence": [
+  {
+   "claim": "Soluzioni naturali di gusto, colore e benessere per le industrie alimentari, delle bevande e nutraceutica",
+   "url": "https://www.nactarome.com/about-us/",
+   "quote": "natural taste, colour & wellbeing solutions for the food, beverage & nutraceutical industries"
+  },
+  {
+   "claim": "Producono soluzioni naturali per le industrie alimentari e delle bevande",
+   "url": "https://www.nactarome.com/about-us/",
+   "quote": "natural taste, colour & wellbeing solutions for the food, beverage & nutraceutical industries"
+  },
+  {
+   "claim": "Aiutano i produttori di alimenti e bevande a creare prodotti",
+   "url": "https://www.nactarome.com/our-solutions/",
+   "quote": "help food and beverage manufacturers create products that meet the unique needs of different markets"
+  },
+  {
+   "claim": "I clienti sono produttori di alimenti e bevande",
+   "url": "https://www.nactarome.com/our-solutions/",
+   "quote": "help food and beverage manufacturers create products that meet the unique needs of different markets"
+  }
+ ],
+ "market": {
+  "count": "2.806",
+  "label": "direttori e titolari di aziende alimentari e delle bevande strutturate oltre i 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "alimentare",
+   "bevande",
+   "nutraceutica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"food and beverage manufacturing,beverage manufacturing,nutraceutical\"}"
+ }
+}

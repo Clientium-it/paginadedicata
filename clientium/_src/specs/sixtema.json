@@ -1,0 +1,78 @@
+{
+ "slug": "sixtema",
+ "company": "Sixtema",
+ "first_name": "Claudio",
+ "domain": "sixtema.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Piattaforme verticali e soluzioni cloud per la digital transformation di associazioni e PMI. Ecco chi contatteremmo per Sixtema.",
+ "market_note": "Sixtema è il Digital Enabler per associazioni, intermediari finanziari e PMI che promuove la digital transformation, quindi parleremmo con chi guida associazioni e piccole imprese verso il digitale.",
+ "evidence": [
+  {
+   "claim": "Offre piattaforme verticali per la gestione degli associati",
+   "url": "https://sixtema.it/",
+   "quote": "Sixtema offre piattaforme verticali per la gestione a 360° degli associati"
+  },
+  {
+   "claim": "Promuove la digital transformation con soluzioni cloud",
+   "url": "https://sixtema.it/",
+   "quote": "promuove la digital transformation del tessuto produttivo e imprenditoriale del Sistema Italia"
+  },
+  {
+   "claim": "Digital Enabler per associazioni, intermediari finanziari e PMI",
+   "url": "https://sixtema.it/",
+   "quote": "Sixtema è il Digital Enabler per Associazioni, Intermediari finanziari e PMI che promuove la digital transformation"
+  },
+  {
+   "claim": "Piattaforme verticali per la gestione degli associati alle organizzazioni di rappresentanza",
+   "url": "https://sixtema.it/",
+   "quote": "Sixtema offre piattaforme verticali per la gestione a 360° degli associati alle più importanti organizzazioni di rappresentanza del paese"
+  },
+  {
+   "claim": "Vende ad associazioni, intermediari finanziari e PMI",
+   "url": "https://sixtema.it/",
+   "quote": "Digital Enabler per Associazioni, Intermediari finanziari e PMI"
+  }
+ ],
+ "market": {
+  "count": "3.884",
+  "label": "direttori, titolari e CEO di associazioni, intermediari finanziari e PMI italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "associazioni",
+   "finanza",
+   "PMI"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"association,financial services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

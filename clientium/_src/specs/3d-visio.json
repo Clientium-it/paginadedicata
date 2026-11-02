@@ -1,0 +1,71 @@
+{
+ "slug": "3d-visio",
+ "company": "3D VISIO",
+ "first_name": "Armando",
+ "domain": "3dvisio.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Esperti nella scansione 3D e nei gemelli digitali di architetture e infrastrutture. Ecco chi contatteremmo per 3D VISIO.",
+ "market_note": "3D VISIO usa tecnologie innovative per creare gemelli digitali di architetture e infrastrutture urbane, quindi parleremmo con chi decide su rilievi, modellazione BIM e tour virtuali.",
+ "evidence": [
+  {
+   "claim": "Esperti nella scansione 3D che creano gemelli digitali",
+   "url": "https://www.3dvisio.it/",
+   "quote": "usiamo tecnologie innovative per creare gemelli digitali di persone, oggetti, architetture o infrastrutture urbane"
+  },
+  {
+   "claim": "Creano gemelli digitali di architetture e infrastrutture urbane",
+   "url": "https://www.3dvisio.it/",
+   "quote": "Esperti nel mondo della scansione 3D, usiamo tecnologie innovative per creare gemelli digitali di persone, oggetti, architetture o infrastrutture urbane."
+  },
+  {
+   "claim": "Usano la scansione 3D per creare gemelli digitali",
+   "url": "https://www.3dvisio.it/",
+   "quote": "usiamo tecnologie innovative per creare gemelli digitali di persone, oggetti, architetture o infrastrutture urbane"
+  },
+  {
+   "claim": "Operano in piu citta italiane",
+   "url": "https://www.3dvisio.it/",
+   "quote": "MILANO bologna firenze roma napoli"
+  }
+ ],
+ "market": {
+  "count": "124.079",
+  "label": "titolari, CEO e direttori di aziende italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10 a 250 addetti",
+   "PMI strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

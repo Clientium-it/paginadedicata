@@ -1,0 +1,108 @@
+{
+ "slug": "evoila",
+ "company": "evoila",
+ "first_name": "Michele",
+ "domain": "evoila.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Consulenti ingegneri che progettano, costruiscono e gestiscono ambienti IT complessi. Ecco chi contatteremmo per evoila.",
+ "market_note": "evoila progetta, costruisce e gestisce ambienti IT complessi per organizzazioni di diversi settori, quindi parleremmo con chi decide su infrastruttura cloud, sviluppo software e servizi gestiti.",
+ "evidence": [
+  {
+   "claim": "Consulenti ingegneri che progettano, costruiscono e gestiscono ambienti IT complessi",
+   "url": "https://evoila.com/gb/",
+   "quote": "Our consultants are engineers who design, build and operate complex IT environments every day."
+  },
+  {
+   "claim": "progettano, costruiscono e gestiscono ambienti IT complessi ogni giorno",
+   "url": "https://evoila.com/gb/",
+   "quote": "Our consultants are engineers who design, build and operate complex IT environments every day."
+  },
+  {
+   "claim": "combina competenza settoriale per creare soluzioni IT full-stack su misura",
+   "url": "https://evoila.com/gb/industries/",
+   "quote": "evoila combines deep sector expertise with cross-industry pattern recognition to engineer full-stack IT solutions that are compliant, scalable, and tailored to your specific business reality."
+  },
+  {
+   "claim": "settore automotive servito",
+   "url": "https://evoila.com/gb/industries/",
+   "quote": "Automotive: Handling intersecting pressures of TISAX-certified security, supply chain optimisation and connected vehicle data platforms"
+  },
+  {
+   "claim": "settore industrial manufacturing servito",
+   "url": "https://evoila.com/gb/industries/",
+   "quote": "Industrial Manufacturing: Bringing OT and IT infrastructure together for Industry 4.0 without exposing production systems to risk"
+  },
+  {
+   "claim": "settore energy and utilities servito",
+   "url": "https://evoila.com/gb/industries/",
+   "quote": "Energy & Utilities: Delivering robust, NIS2-aligned security frameworks and Zero Trust architectures to protect critical grid infrastructure"
+  },
+  {
+   "claim": "settore public sector servito",
+   "url": "https://evoila.com/gb/industries/",
+   "quote": "Public Sector: Modernising infrastructure and digital services for federal and state institutions under strict BSI C5 and GDPR mandates"
+  },
+  {
+   "claim": "settore finance and insurance servito",
+   "url": "https://evoila.com/gb/industries/",
+   "quote": "Finance & Insurance: Ensuring digital resilience across the entire ICT supply chain with DORA-compliant infrastructures and ISO 27001 certifications"
+  },
+  {
+   "claim": "settore telecommunications servito",
+   "url": "https://evoila.com/gb/industries/",
+   "quote": "Telecommunications: Engineering high-availability, cloud-native network architectures, container workflows, and Kubernetes environments at scale"
+  },
+  {
+   "claim": "settore healthcare servito",
+   "url": "https://evoila.com/gb/industries/",
+   "quote": "Healthcare: Integrating complex clinical systems and medical endpoints securely while respecting strict GDPR and data protection laws"
+  },
+  {
+   "claim": "settore transport and logistics servito",
+   "url": "https://evoila.com/gb/industries/",
+   "quote": "Transport & Logistics: Building real-time data pipelines, fleet asset platforms and demand forecasting systems for a fast-paced operational tempo"
+  }
+ ],
+ "market": {
+  "count": "3.790",
+  "label": "responsabili IT, CIO e CTO di aziende strutturate italiane oltre 100 addetti nei settori industriale, finanza e telco",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "industriale",
+   "finanza e assicurazioni",
+   "telco"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"automotive,industrial manufacturing,utilities,government administration,financial services,insurance,telecommunications,health care,transportation, logistics, supply chain and storage\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

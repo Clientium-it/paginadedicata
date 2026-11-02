@@ -1,0 +1,77 @@
+{
+ "slug": "movyon",
+ "company": "Movyon",
+ "first_name": "Lorenzo",
+ "domain": "movyon.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Ingegneria digitale per la mobilità sostenibile e soluzioni di Intelligent Transport Systems. Ecco chi contatteremmo per Movyon.",
+ "market_note": "Movyon offre in Italia e all'estero soluzioni tecnologiche d'avanguardia a gestori di strade e autostrade, municipalità e service provider, quindi parleremmo con chi guida le direzioni tecniche di queste realtà.",
+ "evidence": [
+  {
+   "claim": "Movyon fa ingegneria digitale per la mobilità sostenibile",
+   "url": "https://www.movyon.com/",
+   "quote": "Ingegneria digitale per la mobilità sostenibile"
+  },
+  {
+   "claim": "Sviluppa soluzioni di Intelligent Transport Systems",
+   "url": "https://www.movyon.com/",
+   "quote": "soluzioni di Intelligent Transport Systems"
+  },
+  {
+   "claim": "Offre in Italia e all'estero soluzioni a gestori di strade e autostrade, municipalità e service provider",
+   "url": "https://www.movyon.com/",
+   "quote": "soluzioni tecnologiche d’avanguardia a gestori di strade e autostrade, municipalità e service provider"
+  },
+  {
+   "claim": "Sviluppa soluzioni ITS per gestori di strade e autostrade",
+   "url": "https://www.movyon.com/",
+   "quote": "soluzioni di Intelligent Transport Systems"
+  },
+  {
+   "claim": "Vende a gestori di strade e autostrade e municipalità in Italia e all'estero",
+   "url": "https://www.movyon.com/",
+   "quote": "soluzioni tecnologiche d’avanguardia a gestori di strade e autostrade, municipalità e service provider"
+  }
+ ],
+ "market": {
+  "count": "11.488",
+  "label": "direttori e responsabili delle direzioni tecniche di gestori di strade, autostrade e municipalità in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "gestori di strade e autostrade",
+   "municipalità"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"transportation,government administration\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

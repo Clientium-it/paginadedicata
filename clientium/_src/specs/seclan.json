@@ -1,0 +1,81 @@
+{
+ "slug": "seclan",
+ "company": "Seclan",
+ "first_name": "Gabriele",
+ "domain": "seclan.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "System integrator italiano di soluzioni printing, visual, green e IT per le aziende. Ecco chi contatteremmo per Seclan.",
+ "market_note": "Seclan è un system integrator italiano che fornisce alle aziende soluzioni di printing, visual, green ed IT, quindi parleremmo con i titolari e gli amministratori che decidono su questi investimenti.",
+ "evidence": [
+  {
+   "claim": "System integrator italiano specializzato in printing, visual, green e IT",
+   "url": "https://www.seclan.it/",
+   "quote": "Siamo un system integrator italiano specializzato nei settori"
+  },
+  {
+   "claim": "Fornisce soluzioni alle aziende",
+   "url": "https://www.seclan.it/",
+   "quote": "forniamo alle aziende le migliori soluzioni sul mercato"
+  },
+  {
+   "claim": "System integrator che fornisce alle aziende le sue soluzioni",
+   "url": "https://www.seclan.it/",
+   "quote": "forniamo alle aziende le migliori soluzioni sul mercato"
+  },
+  {
+   "claim": "Settori printing, visual, green, ICT ed educational",
+   "url": "https://www.seclan.it/",
+   "quote": "Siamo un system integrator italiano specializzato nei settori"
+  },
+  {
+   "claim": "Esperienza di oltre trent'anni",
+   "url": "https://www.seclan.it/",
+   "quote": "oltre trent’anni e lo sguardo rivolto costantemente al futuro"
+  },
+  {
+   "claim": "Soluzioni rivolte a piccole e medie aziende, private e pubbliche",
+   "url": "https://www.seclan.it/",
+   "quote": "progettate per supportare il lavoro quotidiano di piccole e medie aziende, private e pubbliche"
+  }
+ ],
+ "market": {
+  "count": "75.714",
+  "label": "titolari, CEO e amministratori di piccole e medie imprese italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "da 10 a 250 addetti",
+   "PMI private e pubbliche"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

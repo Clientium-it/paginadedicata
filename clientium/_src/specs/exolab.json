@@ -1,0 +1,87 @@
+{
+ "slug": "exolab",
+ "company": "Exolab",
+ "first_name": "Paolo",
+ "domain": "exolab.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Consulenza IT e sviluppo software su misura per aziende, enti e pubblica amministrazione. Ecco chi contatteremmo per Exolab.",
+ "market_note": "Exolab è una società di consulenza IT e sviluppo software che affianca aziende, enti e pubblica amministrazione, quindi parleremmo con chi guida i sistemi informativi e le scelte tecnologiche.",
+ "evidence": [
+  {
+   "claim": "Consulenza IT e sviluppo software",
+   "url": "https://www.exolab.it/",
+   "quote": "società di consulenza IT e sviluppo software certificata ISO 9001:2015"
+  },
+  {
+   "claim": "vende ad aziende, enti e pubblica amministrazione",
+   "url": "https://www.exolab.it/",
+   "quote": "affiancare Aziende, Enti e Pubblica Amministrazione nella definizione delle loro strategie di crescita"
+  },
+  {
+   "claim": "società di consulenza IT e sviluppo software per aziende, enti e PA",
+   "url": "https://www.exolab.it/",
+   "quote": "società di consulenza IT e sviluppo software certificata ISO 9001:2015"
+  },
+  {
+   "claim": "affianca aziende, enti e pubblica amministrazione",
+   "url": "https://www.exolab.it/",
+   "quote": "affiancare Aziende, Enti e Pubblica Amministrazione nella definizione delle loro strategie di crescita"
+  },
+  {
+   "claim": "sviluppano soluzioni su misura",
+   "url": "https://www.exolab.it/",
+   "quote": "Realizziamo soluzioni su misura su tecnologia .Net"
+  },
+  {
+   "claim": "gestiscono i sistemi IT dei clienti",
+   "url": "https://www.exolab.it/",
+   "quote": "Presa in carico e gestione dei sistemi IT dei nostri clienti."
+  },
+  {
+   "claim": "si rivolge a chi gestisce sistemi e infrastrutture IT",
+   "url": "https://www.exolab.it/",
+   "quote": "Presa in carico e gestione dei sistemi IT dei nostri clienti."
+  }
+ ],
+ "market": {
+  "count": "11.169",
+  "label": "CIO, CTO e responsabili IT di aziende ed enti italiani strutturati oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende, enti e PA",
+   "consulenza IT e software"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

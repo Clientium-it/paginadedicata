@@ -1,0 +1,76 @@
+{
+ "slug": "hnrg",
+ "company": "HNRG",
+ "first_name": "Filippo",
+ "domain": "hnrg.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "HNRG crea soluzioni digitali e customer experience end to end per i brand. Ecco chi contatteremmo per HNRG.",
+ "market_note": "HNRG progetta ecosistemi digitali e customer experience per i brand in Italia, orchestrando marketing, sales e commerce, quindi parleremmo con chi decide su digitale, CRM ed esperienza cliente.",
+ "evidence": [
+  {
+   "claim": "crea soluzioni digitali",
+   "url": "https://hnrg.it/",
+   "quote": "HNRG crea soluzioni digitali con un approccio human-centered."
+  },
+  {
+   "claim": "customer experience end to end per i brand",
+   "url": "https://hnrg.it/",
+   "quote": "Realizziamo customer experience end-to-end creando esperienze integrate che rafforzano la relazione tra brand e persone"
+  },
+  {
+   "claim": "orchestra marketing, sales e commerce",
+   "url": "https://hnrg.it/",
+   "quote": "Progettiamo ecosistemi digitali connessi orchestrando marketing, sales, service, commerce e clienteling"
+  },
+  {
+   "claim": "ecosistemi digitali e clienteling",
+   "url": "https://hnrg.it/",
+   "quote": "Progettiamo ecosistemi digitali connessi orchestrando marketing, sales, service, commerce e clienteling"
+  },
+  {
+   "claim": "lavora con i brand",
+   "url": "https://hnrg.it/",
+   "quote": "rafforzano la relazione tra brand e persone"
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori marketing e digitale di brand e aziende strutturate in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "brand e aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

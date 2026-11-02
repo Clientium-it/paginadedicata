@@ -1,0 +1,71 @@
+{
+ "slug": "tac",
+ "company": "TAC",
+ "first_name": "Matteo",
+ "domain": "tac.business",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Raccoglie, qualifica e attiva i contatti generati dalle relazioni e li integra nel CRM. Ecco chi contatteremmo per TAC.",
+ "market_note": "TAC è la piattaforma che raccoglie, qualifica e attiva i contatti generati dalle relazioni e li integra nel CRM, quindi parleremmo con chi guida le vendite.",
+ "evidence": [
+  {
+   "claim": "Raccoglie, qualifica e attiva i contatti generati dalle relazioni integrandoli nel CRM",
+   "url": "https://tac.business/",
+   "quote": "Raccogli, qualifica e attiva i contatti generati dalle relazioni, integrandoli nei processi commerciali e nel CRM."
+  },
+  {
+   "claim": "TAC è una piattaforma completa per le relazioni commerciali",
+   "url": "https://tac.business/about-us/",
+   "quote": "il nostro percorso si è trasformato in una piattaforma completa"
+  },
+  {
+   "claim": "Raccoglie, qualifica e attiva i contatti e li integra nel CRM",
+   "url": "https://tac.business/",
+   "quote": "Raccogli, qualifica e attiva i contatti generati dalle relazioni, integrandoli nei processi commerciali e nel CRM."
+  },
+  {
+   "claim": "Trasforma ogni incontro in un flusso strutturato e ripetibile",
+   "url": "https://tac.business/",
+   "quote": "Trasforma ogni incontro in un flusso strutturato e ripetibile."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori commerciali di aziende italiane",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "team commerciali strutturati"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

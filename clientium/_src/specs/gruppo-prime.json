@@ -1,0 +1,81 @@
+{
+ "slug": "gruppo-prime",
+ "company": "Gruppo Prime",
+ "first_name": "Ivan",
+ "domain": "gruppoprime.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Software proprietari, intelligenza artificiale e cybersecurity per le imprese. Ecco chi contatteremmo per Gruppo Prime.",
+ "market_note": "Gruppo Prime sviluppa software proprietari, intelligenza artificiale e cybersecurity per le imprese da Sora, quindi parleremmo con chi decide su gestionali, sicurezza informatica e innovazione digitale.",
+ "evidence": [
+  {
+   "claim": "Sviluppa piattaforme software proprietarie con il proprio team di ricerca e sviluppo",
+   "url": "https://gruppoprime.it/",
+   "quote": "Piattaforme proprietarie progettate e sviluppate interamente dal nostro team di ricerca e sviluppo"
+  },
+  {
+   "claim": "Si occupa di IT, finanza agevolata e cybersecurity",
+   "url": "https://gruppoprime.it/chi-siamo/",
+   "quote": "si specializza in IT, finanza agevolata e cybersecurity"
+  },
+  {
+   "claim": "Consulenza IT e cybersecurity con sede a Sora",
+   "url": "https://gruppoprime.it/chi-siamo/",
+   "quote": "Consulenza IT e Cybersecurity a Sora (FR)"
+  },
+  {
+   "claim": "Sviluppa software proprietari",
+   "url": "https://gruppoprime.it/",
+   "quote": "Piattaforme proprietarie progettate e sviluppate interamente dal nostro team di ricerca e sviluppo"
+  },
+  {
+   "claim": "Soluzioni proprietarie sviluppate per la gestione aziendale",
+   "url": "https://gruppoprime.it/prodotti/",
+   "quote": "Soluzioni proprietarie progettate e sviluppate da Gruppo Prime per la gestione aziendale"
+  },
+  {
+   "claim": "Vende soluzioni digitali alle imprese senza dichiarare settori specifici",
+   "url": "https://gruppoprime.it/",
+   "quote": "soluzioni innovative per supportare le imprese nel percorso di trasformazione digitale"
+  }
+ ],
+ "market": {
+  "count": "75.714",
+  "label": "titolari, CEO e amministratori di piccole e medie imprese italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "PMI",
+   "10-250 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

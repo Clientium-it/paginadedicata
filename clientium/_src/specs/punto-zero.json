@@ -1,0 +1,86 @@
+{
+ "slug": "punto-zero",
+ "company": "Punto Zero",
+ "first_name": "Roberto",
+ "domain": "prototipipuntozero.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Meccanica di precisione per prototipi e piccole serie. Ecco chi contatteremmo per Punto Zero.",
+ "market_note": "Punto Zero realizza meccanica di precisione per aziende che devono realizzare prototipi, piccole e medie serie, quindi parleremmo con chi guida imprese manifatturiere che commissionano particolari complessi.",
+ "evidence": [
+  {
+   "claim": "Fa meccanica di precisione",
+   "url": "https://www.prototipipuntozero.com/azienda-2/",
+   "quote": "nel settore della meccanica di precisione"
+  },
+  {
+   "claim": "Realizza prototipi e piccole serie",
+   "url": "https://www.prototipipuntozero.com/azienda-2/",
+   "quote": "aziende che devono realizzare prototipi, piccole serie"
+  },
+  {
+   "claim": "Vende a aziende che fanno realizzare prototipi e piccole serie",
+   "url": "https://www.prototipipuntozero.com/azienda-2/",
+   "quote": "aziende che devono realizzare prototipi, piccole serie"
+  },
+  {
+   "claim": "Produce anche medie serie",
+   "url": "https://www.prototipipuntozero.com/azienda-2/",
+   "quote": "ma anche medie serie"
+  },
+  {
+   "claim": "Realizza particolari complessi",
+   "url": "https://www.prototipipuntozero.com/azienda-2/",
+   "quote": "realizzare particolari sempre più complessi"
+  },
+  {
+   "claim": "Realizza prototipi e piccole serie di meccanica di precisione",
+   "url": "https://www.prototipipuntozero.com/azienda-2/",
+   "quote": "aziende che devono realizzare prototipi, piccole serie"
+  },
+  {
+   "claim": "Serve aziende che commissionano lavorazioni meccaniche",
+   "url": "https://www.prototipipuntozero.com/azienda-2/",
+   "quote": "aziende che devono realizzare prototipi, piccole serie"
+  }
+ ],
+ "market": {
+  "count": "124.079",
+  "label": "titolari, CEO e direttori di piccole e medie imprese manifatturiere da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "imprese manifatturiere"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

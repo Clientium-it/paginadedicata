@@ -1,0 +1,79 @@
+{
+ "slug": "quantico",
+ "company": "Quantico",
+ "first_name": "Ugo",
+ "domain": "wearequantico.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Strategia, design e tecnologie a supporto del business. Ecco chi contatteremmo per Quantico.",
+ "market_note": "Quantico affianca le imprese con branding, design, marketing digitale, sviluppo software e infrastrutture IT, quindi parleremmo con i titolari e i direttori che decidono su crescita e progetti digitali.",
+ "evidence": [
+  {
+   "claim": "Quantico mette strategia, design e tecnologie a supporto del business",
+   "url": "https://www.wearequantico.it/it/case-studies/aboca/",
+   "quote": "Strategia, design e tecnologie a supporto del business"
+  },
+  {
+   "claim": "Offre sviluppo software e infrastrutture IT oltre al marketing",
+   "url": "https://www.wearequantico.it/it/",
+   "quote": "App & Software ERP IT Infrastructure & Networking"
+  },
+  {
+   "claim": "Offre branding, design e marketing digitale",
+   "url": "https://www.wearequantico.it/it/",
+   "quote": "Branding & Strategy Creativity & Design Art Direction & Shooting Social Media Marketing"
+  },
+  {
+   "claim": "Unisce strategia, design e tecnologie a supporto del business",
+   "url": "https://www.wearequantico.it/it/case-studies/aboca/",
+   "quote": "Strategia, design e tecnologie a supporto del business"
+  },
+  {
+   "claim": "Settori clienti dichiarati dal sito",
+   "url": "https://www.wearequantico.it/it/",
+   "quote": "Food Finance & Insurance Health & Pharma Manufacturing Jewelry & Precious Metals Ho.Re.Ca. PA Fashion & Accessories"
+  }
+ ],
+ "market": {
+  "count": "68.920",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate nei settori food, moda, salute, manifattura e gioielleria",
+  "chips": [
+   "tutta Italia",
+   "aziende strutturate",
+   "food",
+   "moda e lusso",
+   "salute e pharma",
+   "manifattura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"companyIndustry\": \"food and beverage,financial services,insurance,health care,pharmaceutical,manufacturing,jewelry,hospitality,government administration,fashion\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

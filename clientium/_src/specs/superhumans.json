@@ -1,0 +1,76 @@
+{
+ "slug": "superhumans",
+ "company": "superhumans",
+ "first_name": "Camila",
+ "domain": "superhumans.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "ICT Group",
+ "cover_note": "Agenzia creativa indipendente che aiuta i brand con idee, contenuti ed eventi. Ecco chi contatteremmo per superhumans.",
+ "market_note": "superhumans e un'agenzia creativa indipendente di Roma e Milano che aiuta i brand con idee, contenuti ed esperienze, quindi parleremmo con chi decide su comunicazione e marketing.",
+ "evidence": [
+  {
+   "claim": "Agenzia creativa che aiuta i brand con idee, contenuti ed esperienze",
+   "url": "https://superhumans.it/",
+   "quote": "We help brands connect with people through ideas, content and experiences designed to make a lasting impact."
+  },
+  {
+   "claim": "Realizzano eventi",
+   "url": "https://superhumans.it/",
+   "quote": "We love creating events"
+  },
+  {
+   "claim": "Agenzia creativa indipendente di Roma e Milano",
+   "url": "https://superhumans.it/",
+   "quote": "Independent Creative Agency in Rome and Milan"
+  },
+  {
+   "claim": "Aiutano i brand a connettersi con le persone tramite idee, contenuti ed esperienze",
+   "url": "https://superhumans.it/",
+   "quote": "We help brands connect with people through ideas, content and experiences designed to make a lasting impact."
+  },
+  {
+   "claim": "Agenzia full-service che aiuta i brand nella comunicazione",
+   "url": "https://superhumans.it/about/",
+   "quote": "superhumans is a full-service and independent agency."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori marketing di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "marketing e comunicazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

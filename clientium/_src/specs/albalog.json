@@ -1,0 +1,73 @@
+{
+ "slug": "albalog",
+ "company": "Albalog",
+ "first_name": "Maurizio",
+ "domain": "extraerp.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Laboratorio informatico specializzato in software gestionali per le PMI italiane. Ecco chi contatteremmo per Albalog.",
+ "market_note": "Albalog progetta e distribuisce software gestionali per le PMI italiane, quindi parleremmo con chi guida le piccole e medie imprese e valuta un gestionale unico per i processi.",
+ "evidence": [
+  {
+   "claim": "Albalog è un laboratorio informatico specializzato in software gestionali per le PMI italiane",
+   "url": "https://extraerp.it/",
+   "quote": "Albalog è un laboratorio informatico specializzato nella progettazione e distribuzione di software gestionali per le PMI italiane."
+  },
+  {
+   "claim": "progetta e distribuisce software gestionali per le PMI italiane",
+   "url": "https://extraerp.it/",
+   "quote": "progettazione e distribuzione di software gestionali per le PMI italiane"
+  },
+  {
+   "claim": "progetta e distribuisce software gestionali per le PMI italiane",
+   "url": "https://extraerp.it/",
+   "quote": "specializzato nella progettazione e distribuzione di software gestionali per le PMI italiane"
+  },
+  {
+   "claim": "mercati clienti dichiarati dal sito",
+   "url": "https://extraerp.it/",
+   "quote": "Commercio e distribuzione Horeca ICT & printing Manutenzione Moda"
+  }
+ ],
+ "market": {
+  "count": "12.170",
+  "label": "titolari, CEO e amministratori di piccole e medie imprese italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "commercio e distribuzione",
+   "horeca",
+   "moda"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"retail,wholesale,hospitality,fashion,printing,information technology\"}"
+ }
+}

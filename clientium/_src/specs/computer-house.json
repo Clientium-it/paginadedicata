@@ -1,0 +1,76 @@
+{
+ "slug": "computer-house",
+ "company": "Computer House",
+ "first_name": "Giacomo",
+ "domain": "cho.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Software ERP per aziende tessili dal 1979, sviluppato internamente. Ecco chi contatteremmo per Computer House.",
+ "market_note": "Computer House sviluppa dal 1979 la suite gestionale Protex per filature, tessiture, tintorie e finissaggi, quindi parleremmo con chi decide su produzione e gestione nelle aziende tessili.",
+ "evidence": [
+  {
+   "claim": "Sviluppa software ERP per aziende tessili dal 1979",
+   "url": "https://www.cho.it/",
+   "quote": "Software ERP per Aziende Tessili dal 1979"
+  },
+  {
+   "claim": "Sviluppa internamente la suite Protex per le fasi del tessile",
+   "url": "https://www.cho.it/",
+   "quote": "Protex è la suite gestionale che Computer House sviluppa internamente per filature, tessiture, tintorie, finissaggi e confezione"
+  },
+  {
+   "claim": "Sviluppa internamente Protex per le lavorazioni tessili",
+   "url": "https://www.cho.it/",
+   "quote": "Protex è la suite gestionale che Computer House sviluppa internamente per filature, tessiture, tintorie, finissaggi e confezione"
+  },
+  {
+   "claim": "Serve esclusivamente le aziende del settore tessile",
+   "url": "https://www.cho.it/",
+   "quote": "servendo esclusivamente le aziende del settore tessile in tutte le forme di produzione"
+  },
+  {
+   "claim": "Opera a fianco delle aziende tessili italiane",
+   "url": "https://www.cho.it/products/erp",
+   "quote": "Dal 1979 a fianco delle aziende tessili italiane"
+  }
+ ],
+ "market": {
+  "count": "1.479",
+  "label": "titolari, CEO e direttori di aziende tessili italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "settore tessile",
+   "10-250 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"textile manufacturing,textiles\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

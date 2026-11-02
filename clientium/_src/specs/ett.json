@@ -1,0 +1,93 @@
+{
+ "slug": "ett",
+ "company": "ETT",
+ "first_name": "Giuseppe",
+ "domain": "ettsolutions.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Progettano esperienze e sviluppano tecnologie di digital transformation nel punto d'incontro tra fisico e digitale. Ecco chi contatteremmo per ETT.",
+ "market_note": "ETT progetta esperienze e sviluppa tecnologie di digital transformation per cultura, turismo e pubbliche amministrazioni, quindi parleremmo con chi decide su innovazione e progetti digitali.",
+ "evidence": [
+  {
+   "claim": "Progettano esperienze e sviluppano tecnologie",
+   "url": "https://ettsolutions.com/",
+   "quote": "Progettiamo esperienze e sviluppiamo tecnologie per dare valore alla tua storia."
+  },
+  {
+   "claim": "Digital transformation",
+   "url": "https://ettsolutions.com/",
+   "quote": "Leader in Digital Transformation"
+  },
+  {
+   "claim": "Nel punto d'incontro tra fisico e digitale",
+   "url": "https://ettsolutions.com/",
+   "quote": "Lavoriamo nel punto d'incontro tra spazio fisico e spazio digitale."
+  },
+  {
+   "claim": "Serve cultura e turismo",
+   "url": "https://ettsolutions.com/prodotti/consulting/sviluppo/",
+   "quote": "utili per valorizzare il settore della cultura e del turismo"
+  },
+  {
+   "claim": "Serve le pubbliche amministrazioni",
+   "url": "https://ettsolutions.com/",
+   "quote": "Acceleriamo ed efficientiamo i processi di governance della PA e la gestione dei servizi"
+  },
+  {
+   "claim": "Lavorano tra spazio fisico e spazio digitale",
+   "url": "https://ettsolutions.com/",
+   "quote": "Lavoriamo nel punto d'incontro tra spazio fisico e spazio digitale."
+  },
+  {
+   "claim": "Serve musei e il settore culturale",
+   "url": "https://ettsolutions.com/prodotti/consulting/allestimenti/",
+   "quote": "seguiamo a 360° la produzione multimediale per musei, fiere, negozi ed eventi di ogni genere"
+  },
+  {
+   "claim": "Serve corporate e retail",
+   "url": "https://ettsolutions.com/prodotti/consulting/allestimenti/",
+   "quote": "trasformando stand, negozi e spazi espositivi in ambienti immersivi"
+  }
+ ],
+ "market": {
+  "count": "10.263",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate dei settori cultura, turismo e retail con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "cultura e turismo",
+   "retail",
+   "musei"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"tourism,museums, historical sites, and zoos,retail\"}"
+ }
+}

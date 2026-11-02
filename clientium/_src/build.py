@@ -46,7 +46,7 @@ def cases_html(sectors=None, prefix='../', first=''):
         src = prefix + v if v.endswith('.mp4') else v
         bg = f' style="background-image:url({prefix}{E(c["thumb"])})"' if c.get('thumb') else ''
         vis = (f'<div class="vis" data-v="{E(src)}" role="button" aria-label="Video di {E(c["name"])}"{bg}><span class="play"></span></div>' if v else
-               f'<div class="vis"><span class="kpi cu">{E(c["kpi"])}</span></div>')
+               f'<div class="vis"><span class="kpi cu{" long" if len(c["kpi"]) > 6 else ""}">{E(c["kpi"])}</span></div>')
         tag, href = ('div', '') if v else ('a', f' href="{E(c["url"])}" target="_blank" rel="noopener"')
         out.append(f'<{tag} class="vc{" hasv" if v else ""}"{href}>{vis}<span class="tag">{E(first_sentence(c["text"]).rstrip("."))}</span>'
                    f'<h3>{E(c["name"])}</h3><span class="k2">{E(c["kpi"])}</span><span class="lb">{E(c["label"][:1].upper() + c["label"][1:])}</span></{tag}>')

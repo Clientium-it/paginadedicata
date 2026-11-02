@@ -1,0 +1,71 @@
+{
+ "slug": "swapcard",
+ "company": "Swapcard",
+ "first_name": "Godefroy",
+ "domain": "swapcard.com",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Piattaforma di event management per associazioni, fiere e organizzatori di conferenze. Ecco chi contatteremmo per Swapcard.",
+ "market_note": "Swapcard è la piattaforma di event management per associazioni, fiere e organizzatori di conferenze, quindi parleremmo con chi decide su eventi, engagement e ricavi nelle organizzazioni che li gestiscono.",
+ "evidence": [
+  {
+   "claim": "Piattaforma di event management per associazioni, fiere e organizzatori di conferenze",
+   "url": "https://www.swapcard.com/",
+   "quote": "Swapcard is the revenue-first event management platform made for associations, trade shows, and conference organizers."
+  },
+  {
+   "claim": "Piattaforma di event management per associazioni, fiere e organizzatori di conferenze",
+   "url": "https://www.swapcard.com/",
+   "quote": "Swapcard is the revenue-first event management platform made for associations, trade shows, and conference organizers."
+  },
+  {
+   "claim": "Aiuta associazioni e organizzatori di fiere a semplificare le operazioni e migliorare il ROI degli espositori",
+   "url": "https://www.swapcard.com/",
+   "quote": "Swapcard helps associations and trade show organizers simplify event operations, boost attendee engagement, and improve exhibitor ROI, all in one event platform."
+  },
+  {
+   "claim": "Vende a associazioni, fiere e organizzatori di conferenze",
+   "url": "https://www.swapcard.com/",
+   "quote": "Swapcard is the revenue-first event management platform made for associations, trade shows, and conference organizers."
+  }
+ ],
+ "market": {
+  "count": "544",
+  "label": "titolari, CEO e direttori di organizzazioni italiane che gestiscono eventi, fiere e conferenze, da 50 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "eventi, fiere e conferenze"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"events services\"}"
+ }
+}

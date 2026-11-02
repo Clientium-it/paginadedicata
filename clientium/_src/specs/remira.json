@@ -1,0 +1,83 @@
+{
+ "slug": "remira",
+ "company": "REMIRA",
+ "first_name": "Alessandro",
+ "domain": "remira.it",
+ "register": "lei",
+ "campaign": "C16",
+ "sectors": [
+  "software",
+  "ict",
+  "consulenza"
+ ],
+ "cases_first": "Planetica",
+ "cover_note": "Soluzioni software per la supply chain e l'omnicanalità basate su intelligenza artificiale. Ecco chi contatteremmo per REMIRA.",
+ "market_note": "REMIRA sviluppa software per la supply chain e l'omnicanalità per aziende retail, logistiche e industriali, quindi parleremmo con chi decide su pianificazione, acquisti e magazzino.",
+ "evidence": [
+  {
+   "claim": "soluzioni per supply chain e omnicanalità",
+   "url": "https://remira.com/it/",
+   "quote": "REMIRA è il tuo partner tecnologico per una gestione integrata ed efficiente della supply chain e dell'omnicanalità."
+  },
+  {
+   "claim": "software basati su intelligenza artificiale",
+   "url": "https://remira.com/it/",
+   "quote": "I nostri software avanzati, basati sulle più moderne tecnologie di intelligenza artificiale, sono progettati per ottimizzare efficacemente i processi aziendali."
+  },
+  {
+   "claim": "vende a aziende retail, logistiche e industriali",
+   "url": "https://remira.com/it/la-nostra-azienda",
+   "quote": "REMIRA è uno dei principali fornitori di soluzioni intelligenti per la supply chain e l'omnicanalità per aziende del settore retail, logistico e industriale in tutti i settori."
+  },
+  {
+   "claim": "aree di pianificazione, acquisto e magazzino",
+   "url": "https://remira.com/it/la-nostra-azienda",
+   "quote": "REMIRA supporta i suoi clienti nelle aree di pianificazione , acquisto e produzione"
+  },
+  {
+   "claim": "software per Retail, Produzione e Logistica",
+   "url": "https://remira.com/it/",
+   "quote": "Soluzioni software per il Retail, la Produzione e la Logistica"
+  },
+  {
+   "claim": "settori clienti serviti",
+   "url": "https://remira.com/it/settori",
+   "quote": "Che tu operi nel Retail, nel Wholesale, nella Produzione o nella Logistica, sia una PMI o una grande azienda"
+  }
+ ],
+ "market": {
+  "count": "40.882",
+  "label": "titolari, CEO e direttori di aziende retail, manifatturiere e logistiche italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "retail",
+   "manifattura",
+   "logistica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail,wholesale,manufacturing,logistics,fashion,food and beverage,automotive,medical,furniture,electronics\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}
