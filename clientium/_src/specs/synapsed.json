@@ -10,5 +10,44 @@
   "consulenza"
  ],
  "cases_first": "Planetica",
- "campaign": "C16"
+ "campaign": "C16",
+ "cover_note": "Per chi porta l'AI in produzione e deve dimostrare che è affidabile, ecco chi contatteremmo per Synapsed.",
+ "market_note": "Synapsed rende affidabili i sistemi AI con ricerca applicata, framework di governance e test ripetibili, quindi parleremmo con chi risponde dell'AI in banche, assicurazioni e telco.",
+ "market": {
+  "count": "4.447",
+  "label": "CTO, CIO e responsabili tecnici di banche, assicurazioni, telco e aziende software con oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "banche",
+   "assicurazioni",
+   "telecomunicazioni",
+   "software"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "source": "AI-ARK people_search 02/11/2026: location Italy, department information_technology+engineering, seniority c_suite/vp/director/head, minEmployees 200, industry banking/insurance/financial services/software/enterprise software/software development/telecommunications",
+  "sector": ""
+ },
+ "register": "lei"
 }

@@ -10,5 +10,45 @@
   "consulenza"
  ],
  "cases_first": "ICT Group",
- "campaign": "C16"
+ "campaign": "C16",
+ "cover_note": "Talenti con le ali per progetti digitali e gestionali. Ecco chi contatteremmo per Hermes Corporate.",
+ "market_note": "Hermes affianca in outsourcing aziende dell'aerospazio, dell'ingegneria industriale, della moda e del petrolchimico, quindi parleremmo con chi guida aziende così con oltre 50 addetti.",
+ "market": {
+  "count": "15.573",
+  "label": "titolari, CEO e direttori di aziende con oltre 50 addetti in aerospazio, ingegneria industriale, moda, oil and gas e chimica",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aerospazio",
+   "ingegneria industriale",
+   "moda",
+   "oil and gas",
+   "chimica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "source": "AI-ARK people_search 02/11/2026: location Italy, seniority owner/founder/c_suite/director, minEmployees 50, industry aerospace/aviation and aerospace component/defense and space/industrial engineering/industrial machinery/mechanical engineering/apparel/fashion/retail apparel and fashion/oil and gas/chemical manufacturing",
+  "sector": ""
+ },
+ "register": "lei"
 }

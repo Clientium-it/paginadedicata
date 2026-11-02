@@ -234,6 +234,8 @@ html.phone .talk h2{font-size:32px}
 html.phone .talk .pair{font-size:22px}
 html.phone .talk .r{flex:1;min-height:0;background-position:50% 22%}
 html.phone .talk .r figcaption{left:14px;bottom:14px;padding:9px 13px}html.phone .talk .r b{font-size:16px}html.phone .talk .r span{font-size:11px}
+html.phone .mgrid.solo .big{font-size:64px;line-height:1}html.phone .mgrid.solo .bigl{font-size:17px;max-width:none}html.phone .mgrid.solo .mline{font-size:14px;line-height:1.45;margin-top:12px;max-width:none}html.phone .mgrid.solo{align-content:start}
+@media (max-height:760px){html.phone .mgrid.solo .chips{display:none}html.phone .mgrid.solo .big{font-size:56px}html.phone .mgrid.solo .bigl{font-size:16px}}
 @media (max-height:700px){html.phone .vc .tag{display:none}html.phone .vc .vis{aspect-ratio:auto;height:78px}html.phone .vc{grid-template-columns:96px 1fr}html.phone .src{display:none}html.phone .talk .contact{display:none}}
 </style>
 </head>
@@ -246,6 +248,7 @@ html.phone .talk .r figcaption{left:14px;bottom:14px;padding:9px 13px}html.phone
     <div>
       <div class="eyebrow in">Preparata per {{PREPARED}}</div>
       <h1 class="in">{{COVER_LINE}}</h1>
+      <!--CNOTE--><p class="sub in">{{COVER_NOTE}}</p><!--/CNOTE-->
     </div>
     {{COVER_VISUAL}}
   </div>
@@ -257,6 +260,7 @@ html.phone .talk .r figcaption{left:14px;bottom:14px;padding:9px 13px}html.phone
     <div class="in">
       <div class="big"><span class="cu">{{MKT_COUNT}}</span></div>
       <div class="bigl">{{MKT_LABEL}}</div>
+      <!--MNOTE--><p class="mline">{{MARKET_NOTE}}</p><div class="chips">{{MKT_CHIPS}}</div><!--/MNOTE-->
     </div>
     <div class="irows in"><div class="segh">{{INS_HEAD}}</div>{{INSIGHTS}}<p class="src">{{INS_SOURCE}}</p></div>
   </div>
@@ -318,7 +322,7 @@ else{
 <script>
 /* motion + video: a slide gets .seen the first time it opens; numbers count up; a case card plays its video in place */
 (()=>{const secs=[...document.querySelectorAll('.slides>section')];
-const fmt=(n,dec)=>n.toLocaleString('it-IT',{minimumFractionDigits:dec,maximumFractionDigits:dec});
+const fmt=(n,dec)=>n.toLocaleString('it-IT',{minimumFractionDigits:dec,maximumFractionDigits:dec,useGrouping:'always'});
 const count=el=>{const m=el.textContent.match(/^(\D*)([\d.]+(?:,\d+)?)(.*)$/);if(!m)return;const dec=(m[2].split(',')[1]||'').length,end=parseFloat(m[2].replace(/\./g,'').replace(',','.'));
   if(!(end>9))return;const t0=performance.now(),d=1100;const f=t=>{const k=Math.min(1,(t-t0)/d),e=1-Math.pow(1-k,3);el.textContent=m[1]+fmt(end*e,dec)+m[3];if(k<1)requestAnimationFrame(f)};requestAnimationFrame(f)};
 const seen=i=>{const s=secs[i-1];if(!s||s.classList.contains('seen'))return;s.classList.add('seen');if(!matchMedia('(prefers-reduced-motion:reduce)').matches)s.querySelectorAll('.cu').forEach(count)};

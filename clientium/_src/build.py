@@ -28,7 +28,7 @@ def map_html(mk):
     if not on: return ''
     unknown = on - set(GEO['regions']); assert not unknown, f'unknown region {unknown}'
     paths = ''.join(f'<path class="{"on" if n in on else ""}" d="{d}"><title>{E(n)}</title></path>' for n, d in GEO['regions'].items())
-    n = len(on); where = 'in ' + (f'{n} regioni' if n > 1 else next(iter(on)))
+    n = len(on); where = 'in tutta Italia' if n == len(GEO['regions']) else 'in ' + (f'{n} regioni' if n > 1 else next(iter(on)))
     return (f'<figure class="map"><svg viewBox="{GEO["viewBox"]}" role="img" aria-label="{E(mk["count"])} decisori {E(where)}">{paths}</svg>'
             f'<figcaption class="tag"><b>{E(mk["count"])}</b>decisori {E(where)}</figcaption><span class="credit">Confini ISTAT via openpolis, CC BY 4.0</span></figure>')
 
@@ -45,7 +45,7 @@ def cases_html(sectors=None, prefix='../', first=''):
         v = c.get('video', '')
         src = prefix + v if v.endswith('.mp4') else v
         bg = f' style="background-image:url({prefix}{E(c["thumb"])})"' if c.get('thumb') else ''
-        vis = (f'<div class="vis" data-v="{E(src)}" role="button" aria-label="Guarda il video di {E(c["name"])}"{bg}><span class="play"></span></div>' if v else
+        vis = (f'<div class="vis" data-v="{E(src)}" role="button" aria-label="Video di {E(c["name"])}"{bg}><span class="play"></span></div>' if v else
                f'<div class="vis"><span class="kpi cu">{E(c["kpi"])}</span></div>')
         tag, href = ('div', '') if v else ('a', f' href="{E(c["url"])}" target="_blank" rel="noopener"')
         out.append(f'<{tag} class="vc{" hasv" if v else ""}"{href}>{vis}<span class="tag">{E(first_sentence(c["text"]).rstrip("."))}</span>'
@@ -102,6 +102,7 @@ def render(sp, prefix='../', fallback=False):
     for k in REQUIRED:
         assert sp.get(k) not in (None, '', []), f'{sp.get("slug")}: missing {k}'
     mk = sp.get('market') or {}
+    B = {**globals()['B'], **(globals()['B'].get('lei', {}) if sp.get('register') == 'lei' else {})}   # spec.register = 'lei': formal copy from brand.json lei
     pf = os.path.join(HERE, 'sectors', (mk.get('sector') or '_') + '.json')
     pk = json.load(open(pf, encoding='utf-8')) if os.path.exists(pf) else {}   # sector pack: written once, checked by hand, 0 tokens per lead
     shot = sp.get('shot') if sp.get('shot') and os.path.exists(os.path.join(ROOT, 'assets', 'shots', sp['shot'])) else ''
@@ -128,8 +129,11 @@ def render(sp, prefix='../', fallback=False):
         'TALK_HEAD': E(B['talk_head'].replace('{company}', co)), 'TALK_TEXT': E(B['talk_text']), 'BOOKING_URL': E(B['booking_url']), 'BOOKING_HOST': E(B['booking_host']),
         'SENDER_NAME': E(B['sender_name']), 'SENDER_TITLE': E(B['sender_title']), 'TEAM_PHOTO': prefix + E(B['team_photo']),
         'TRACK_URL': E(B['track_url']), 'SLUG': E(sp['slug']),
+        'COVER_NOTE': E(sp.get('cover_note', '')), 'MARKET_NOTE': E(sp.get('market_note', '')),
     }
     out = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
+    if not sp.get('cover_note'): out = re.sub(r'\s*<!--CNOTE-->.*?<!--/CNOTE-->', '', out, flags=re.S)
+    if not sp.get('market_note'): out = re.sub(r'\s*<!--MNOTE-->.*?<!--/MNOTE-->', '', out, flags=re.S)
     if not mk.get('count'):                            # no verified market number: no market slide, no map, never a placeholder
         out = re.sub(r'<!--MARKET-->.*?<!--/MARKET-->', '', out, flags=re.S)
     elif not pk.get('insights'):                       # market known, sector data not yet: the number alone

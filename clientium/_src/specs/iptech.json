@@ -10,5 +10,23 @@
   "consulenza"
  ],
  "cases_first": "ICT Group",
- "campaign": "C16"
+ "campaign": "C16",
+ "cover_note": "Assistenza, VoIP, reti e cloud per le aziende toscane. Ecco chi contatteremmo per IPTECH.",
+ "market_note": "IPTECH segue da Empoli l'infrastruttura IT delle aziende di tutta la Toscana, quindi parleremmo con chi decide su assistenza, sicurezza e telefonia.",
+ "market": {
+  "count": "4.179",
+  "label": "titolari, CEO e amministratori di aziende toscane da 10 a 250 addetti",
+  "chips": [
+   "Toscana",
+   "da 10 a 250 addetti",
+   "tutti i settori",
+   "escluse le aziende IT"
+  ],
+  "regions": [
+   "Toscana"
+  ],
+  "source": "AI-ARK people_search 02/11/2026: location Tuscany, seniority owner/founder/c_suite, employees 10-250, esclusi it services/software/network security",
+  "sector": ""
+ },
+ "register": "lei"
 }

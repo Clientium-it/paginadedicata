@@ -160,5 +160,15 @@
   "assets/refs/girardini.png",
   "assets/refs/samec.png",
   "assets/refs/scotwork.png"
- ]
+ ],
+ "lei": {
+  "cover_line": "Appuntamenti con i decisori giusti per {company}. Paga solo quelli che si presentano.",
+  "offer_head": "Paga solo i risultati.",
+  "offer_points": [
+   "Paga solo gli appuntamenti in target che si presentano.",
+   "I criteri di qualifica li scriviamo insieme.",
+   "Recesso con 30 giorni di preavviso, senza penali."
+  ],
+  "proof_head": "Aziende come la sua, già in agenda"
+ }
 }

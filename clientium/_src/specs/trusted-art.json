@@ -10,5 +10,41 @@
   "consulenza"
  ],
  "cases_first": "",
- "campaign": "C16"
+ "campaign": "C16",
+ "cover_note": "Certificati di autenticità su blockchain per artisti, collezionisti e gallerie. Ecco chi contatteremmo per Trusted Art.",
+ "market_note": "Trusted Art certifica e cataloga le opere su blockchain, quindi parleremmo con chi guida una galleria e deve garantire l'autenticità di ciò che vende.",
+ "market": {
+  "count": "614",
+  "label": "galleristi, direttori e manager di gallerie d'arte in Italia",
+  "chips": [
+   "tutta Italia",
+   "gallerie d'arte",
+   "titolari e direttori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "source": "AI-ARK people_search 02/11/2026: location Italy, title Gallerista/Gallery Director/Gallery Owner/Direttore galleria/Titolare galleria/Gallery Manager",
+  "sector": ""
+ },
+ "register": "lei"
 }

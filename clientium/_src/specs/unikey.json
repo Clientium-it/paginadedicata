@@ -10,5 +10,24 @@
   "consulenza"
  ],
  "cases_first": "Planetica",
- "campaign": "C16"
+ "campaign": "C16",
+ "cover_note": "Dal cloud agli agenti AI di Zendata, ecco chi contatteremmo per Unikey e come lavoreremmo.",
+ "market_note": "Unikey affianca le imprese con professionisti su cloud, sicurezza e AI, quindi parleremmo con chi guida l'IT nelle aziende con oltre 100 addetti.",
+ "market": {
+  "count": "2.877",
+  "label": "CIO, CTO e responsabili IT di aziende con oltre 100 addetti nel Lazio e in Lombardia",
+  "chips": [
+   "Lazio",
+   "Lombardia",
+   "oltre 100 addetti",
+   "escluse le aziende IT"
+  ],
+  "regions": [
+   "Lazio",
+   "Lombardia"
+  ],
+  "source": "AI-ARK people_search 02/11/2026: location Lazio+Lombardy, department information_technology, seniority c_suite/vp/director/head, minEmployees 100, esclusi it services/software/network security",
+  "sector": ""
+ },
+ "register": "lei"
 }

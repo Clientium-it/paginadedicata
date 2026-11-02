@@ -2,7 +2,7 @@ Scrivi 3 frasi per una pagina di Clientium rivolta al titolare di un'azienda B2B
 
 REGOLE
 - Ogni numero deve comparire nei fatti esattamente così. Mai inventare, arrotondare o calcolare numeri.
-- Niente trattini, niente punti esclamativi, niente grassetto. Italiano corretto con gli accenti. Dai del tu.
+- Niente trattini, niente punti esclamativi, niente grassetto. Italiano corretto con gli accenti. Dai del Lei.
 - Niente prezzi, costi di attivazione, durate. Non nominare software. Non dire che il sito non ha qualcosa.
 - Nome azienda breve, mai tutto maiuscolo, mai la forma societaria.
 - Descrivi cosa vende il lead solo con parole prese dai suoi fatti.
