@@ -6,11 +6,11 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Progettazione e gestione di sistemi informativi complessi con forte expertise nella consulenza SAP. Ecco chi contatteremmo per Technis Blu.",
  "market_note": "Technis Blu progetta sistemi informativi complessi con soluzioni SAP per Pubblica Amministrazione Locale, manifatturiero, food & beverage e sanità, quindi parleremmo con chi guida IT e sistemi informativi.",
  "evidence": [
@@ -70,5 +70,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,food and beverage,health care,government administration\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

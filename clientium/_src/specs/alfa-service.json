@@ -6,9 +6,9 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica"
  ],
  "cases_first": "Planetica",
  "cover_note": "Partner tecnologico per le aziende con software gestionali ERP dedicati al manifatturiero. Ecco chi contatteremmo per Alfa Service.",
@@ -74,5 +74,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"manufacturing,paper manufacturing,mechanical engineering,medical equipment manufacturing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

@@ -6,9 +6,9 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "energia",
+  "impianti",
+  "edilizia"
  ],
  "cases_first": "Planetica",
  "cover_note": "Reality capture e intelligenza AI per le infrastrutture di telecom, utility e smart city. Ecco chi contatteremmo per BeExact.",
@@ -69,5 +69,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"telecommunications,utilities,smart cities\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

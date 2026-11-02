@@ -6,11 +6,10 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "servizi",
+  "industria"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "System integrator italiano di soluzioni printing, visual, green e IT per le aziende. Ecco chi contatteremmo per Seclan.",
  "market_note": "Seclan è un system integrator italiano che fornisce alle aziende soluzioni di printing, visual, green ed IT, quindi parleremmo con i titolari e gli amministratori che decidono su questi investimenti.",
  "evidence": [
@@ -77,5 +76,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

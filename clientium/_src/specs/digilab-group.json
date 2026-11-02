@@ -6,11 +6,13 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "energia",
+  "impianti",
+  "edilizia",
+  "marketing",
+  "retail"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Genera domanda, la qualifica e la porta fino alla conversione. Ecco chi contatteremmo per Digilab Group.",
  "market_note": "Digilab Group genera e qualifica domanda per aziende di energia, telco, assicurazioni e finanza, quindi parleremmo con chi guida marketing e vendite e decide sulla generazione di clienti.",
  "evidence": [
@@ -74,5 +76,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"energy,telecommunications,insurance,financial services,home improvement,energy efficiency,wellness,automotive,education\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

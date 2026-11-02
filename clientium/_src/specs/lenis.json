@@ -6,11 +6,10 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "servizi",
+  "industria"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Sviluppo software aziendali su misura e consulenza informatica professionale, ecco chi contatteremmo per Lenis.",
  "market_note": "Lenis sviluppa software aziendali su misura e offre consulenza informatica da Firenze e Milano, quindi parleremmo con chi decide su digitalizzazione e sviluppo software nelle aziende.",
  "evidence": [
@@ -73,5 +72,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

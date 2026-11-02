@@ -6,11 +6,13 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "energia",
+  "impianti",
+  "edilizia",
+  "marketing",
+  "retail"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Reti vendita e formazione di distributori per il mercato libero dell'energia. Ecco chi contatteremmo per Sinapsi.",
  "market_note": "Sinapsi crea reti vendita e forma distributori di energia per i Big Vendor del settore energetico in tutta Italia, quindi parleremmo con chi guida le strategie commerciali e di marketing.",
  "evidence": [
@@ -83,5 +85,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"energy,utilities\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

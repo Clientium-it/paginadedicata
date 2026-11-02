@@ -6,9 +6,11 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica",
+  "marketing",
+  "retail"
  ],
  "cases_first": "Planetica",
  "cover_note": "Soluzioni software per la supply chain e l'omnicanalità basate su intelligenza artificiale. Ecco chi contatteremmo per REMIRA.",
@@ -79,5 +81,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail,wholesale,manufacturing,logistics,fashion,food and beverage,automotive,medical,furniture,electronics\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

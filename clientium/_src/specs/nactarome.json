@@ -6,11 +6,11 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Soluzioni naturali di gusto, colore e benessere per le industrie alimentari e delle bevande. Ecco chi contatteremmo per Nactarome.",
  "market_note": "Nactarome produce soluzioni naturali di aroma, gusto e colore per le industrie alimentari e delle bevande, quindi parleremmo con chi guida le aziende del settore food and beverage.",
  "evidence": [
@@ -69,5 +69,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"food and beverage manufacturing,beverage manufacturing,nutraceutical\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

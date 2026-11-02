@@ -6,9 +6,9 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "energia",
+  "impianti",
+  "edilizia"
  ],
  "cases_first": "Planetica",
  "cover_note": "Il remote desktop più veloce e sicuro per lavorare su qualsiasi computer da remoto. Ecco chi contatteremmo per NoMachine.",
@@ -77,5 +77,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

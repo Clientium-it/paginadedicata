@@ -6,9 +6,9 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "energia",
+  "impianti",
+  "edilizia"
  ],
  "cases_first": "Planetica",
  "cover_note": "Una soluzione erp completa per le aziende che operano nel settore rifiuti. Ecco chi contatteremmo per Ekovision.",
@@ -73,5 +73,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"companyIndustry\": \"waste management,environmental services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

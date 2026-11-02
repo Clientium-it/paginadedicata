@@ -6,11 +6,16 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica",
+  "energia",
+  "impianti",
+  "edilizia",
+  "marketing",
+  "retail"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Strategia, design e tecnologie a supporto del business. Ecco chi contatteremmo per Quantico.",
  "market_note": "Quantico affianca le imprese con branding, design, marketing digitale, sviluppo software e infrastrutture IT, quindi parleremmo con i titolari e i direttori che decidono su crescita e progetti digitali.",
  "evidence": [
@@ -75,5 +80,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"companyIndustry\": \"food and beverage,financial services,insurance,health care,pharmaceutical,manufacturing,jewelry,hospitality,government administration,fashion\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

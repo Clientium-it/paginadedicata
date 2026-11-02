@@ -6,9 +6,11 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "energia",
+  "impianti",
+  "edilizia",
+  "marketing",
+  "retail"
  ],
  "cases_first": "Planetica",
  "cover_note": "Comunicazioni wireless sottomarine per le infrastrutture critiche della blue economy. Ecco chi contatteremmo per WSense.",
@@ -74,5 +76,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"oil and gas,renewable energy,defense and space manufacturing\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

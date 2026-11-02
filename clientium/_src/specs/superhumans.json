@@ -6,11 +6,10 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "marketing",
+  "retail"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Agenzia creativa indipendente che aiuta i brand con idee, contenuti ed eventi. Ecco chi contatteremmo per superhumans.",
  "market_note": "superhumans e un'agenzia creativa indipendente di Roma e Milano che aiuta i brand con idee, contenuti ed esperienze, quindi parleremmo con chi decide su comunicazione e marketing.",
  "evidence": [
@@ -72,5 +71,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

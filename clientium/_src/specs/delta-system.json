@@ -6,9 +6,9 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica"
  ],
  "cases_first": "Planetica",
  "cover_note": "Sviluppa soluzioni informatiche integrate per far funzionare al meglio le aziende. Ecco chi contatteremmo per Delta System.",
@@ -84,5 +84,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"companyIndustry\": \"manufacturing,furniture and home furnishings manufacturing,industrial machinery manufacturing,automotive\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

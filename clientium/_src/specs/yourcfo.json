@@ -6,11 +6,10 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "servizi",
+  "industria"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Un CFO senior esperto al servizio delle PMI italiane, solo quando serve. Ecco chi contatteremmo per yourCFO.",
  "market_note": "yourCFO porta a disposizione delle PMI italiane un CFO senior solo per il tempo necessario, quindi parleremmo con chi guida le imprese e deve rafforzare la governance finanziaria.",
  "evidence": [
@@ -67,5 +66,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

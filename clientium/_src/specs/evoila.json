@@ -6,11 +6,14 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica",
+  "energia",
+  "impianti",
+  "edilizia"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Consulenti ingegneri che progettano, costruiscono e gestiscono ambienti IT complessi. Ecco chi contatteremmo per evoila.",
  "market_note": "evoila progetta, costruisce e gestisce ambienti IT complessi per organizzazioni di diversi settori, quindi parleremmo con chi decide su infrastruttura cloud, sviluppo software e servizi gestiti.",
  "evidence": [
@@ -104,5 +107,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"automotive,industrial manufacturing,utilities,government administration,financial services,insurance,telecommunications,health care,transportation, logistics, supply chain and storage\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

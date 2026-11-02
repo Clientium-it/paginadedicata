@@ -6,9 +6,9 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica"
  ],
  "cases_first": "Planetica",
  "cover_note": "Sicurezza informatica che protegge i sistemi Physical AI e il firmware dei dispositivi connessi. Ecco chi contatteremmo per Exein.",
@@ -79,5 +79,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"manufacturing,health care,automotive,semiconductor,robotics,energy,internet of things\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

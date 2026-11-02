@@ -5,11 +5,10 @@
  "domain": "iptech.it",
  "region": "Toscana",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "servizi",
+  "industria"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "campaign": "C16",
  "cover_note": "Assistenza, VoIP, reti e cloud per le aziende toscane. Ecco chi contatteremmo per IPTECH.",
  "market_note": "IPTECH segue da Empoli l'infrastruttura IT delle aziende di tutta la Toscana, quindi parleremmo con chi decide su assistenza, sicurezza e telefonia.",
@@ -65,5 +64,12 @@
    "url": "https://iptech.it/",
    "quote": "Offriamo soluzioni per garantire che la tua infrastruttura IT sia sempre protetta e performante"
   }
+ ],
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
  ]
 }

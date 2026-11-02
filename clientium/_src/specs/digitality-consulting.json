@@ -6,11 +6,10 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "servizi",
+  "industria"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Affiancano le aziende nella trasformazione digitale con consulenza IT, AI e sviluppo software. Ecco chi contatteremmo per Digitality Consulting.",
  "market_note": "Digitality Consulting affianca da Roma le aziende nella trasformazione digitale tra consulenza IT, intelligenza artificiale e sviluppo software, quindi parleremmo con chi decide su innovazione e sistemi informativi.",
  "evidence": [
@@ -77,5 +76,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

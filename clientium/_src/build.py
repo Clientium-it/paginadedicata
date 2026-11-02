@@ -32,16 +32,17 @@ def map_html(mk):
     return (f'<figure class="map"><svg viewBox="{GEO["viewBox"]}" role="img" aria-label="{E(mk["count"])} decisori {E(where)}">{paths}</svg>'
             f'<figcaption class="tag"><b>{E(mk["count"])}</b>decisori {E(where)}</figcaption><span class="credit">Confini ISTAT via openpolis, CC BY 4.0</span></figure>')
 
-def pick_cases(sectors, n=3, first=''):
+def pick_cases(sectors, n=3, first='', allow=None):
     """the n cases closest to the lead's sectors (tag overlap), ties keep the brand.json order; spec.cases_first puts one named case in front"""
     want = {x.lower() for x in (sectors or [])}
-    ranked = sorted(enumerate(B['cases']), key=lambda ic: (ic[1]['name'] != first, -len(want & {t.lower() for t in ic[1].get('sectors', [])}), ic[0]))
+    pool = [c for c in B['cases'] if not allow or c['name'] in allow]   # spec.cases_allow: only these cases on the page
+    ranked = sorted(enumerate(pool), key=lambda ic: (ic[1]['name'] != first, -len(want & {t.lower() for t in ic[1].get('sectors', [])}), ic[0]))
     return [c for _, c in ranked[:n]]
 
-def cases_html(sectors=None, prefix='../', first=''):
+def cases_html(sectors=None, prefix='../', first='', allow=None):
     """case cards: a video plays in place when the case has one (case.video = YouTube id or assets/...mp4, case.thumb = image), otherwise the number is the picture"""
     out = []
-    for c in pick_cases(sectors, first=first):
+    for c in pick_cases(sectors, first=first, allow=allow):
         v = c.get('video', '')
         src = prefix + v if v.endswith('.mp4') else v
         bg = f' style="background-image:url({prefix}{E(c["thumb"])})"' if c.get('thumb') else ''
@@ -127,7 +128,7 @@ def render(sp, prefix='../', fallback=False):
         'INS_HEAD': E(pk.get('insights_head', '')), 'INS_SUB': E(pk.get('insights_sub', '')), 'INS_SOURCE': E(pk.get('insights_source', '')),
         'INSIGHTS': ''.join(f'<div class="irow"><span class="kpi">{E(c["kpi"])}</span><div><b>{E(c["label"])}</b></div></div>' for c in pk.get('insights', [])),
         'OG_IMAGE': f"https://{B['cases_domain']}/assets/og/{E(sp['slug'])}.png" if os.path.exists(os.path.join(ROOT, 'assets', 'og', sp['slug'] + '.png')) else f"https://{B['cases_domain']}/assets/og.png",
-        'PROOF_HEAD': E(B['proof_head']), 'CASES': cases_html(pk.get('sectors') or mk.get('sectors') or sp.get('sectors'), prefix, sp.get('cases_first', '')), 'OFFER_POINTS': ''.join(f'<li>{E(x)}</li>' for x in B['offer_points']), 'REFS': ''.join(f'<img src="{prefix}{E(r)}" alt="">' for r in B.get('refs', [])), 'LOGOS': logos_html(prefix),
+        'PROOF_HEAD': E(B['proof_head']), 'CASES': cases_html(pk.get('sectors') or mk.get('sectors') or sp.get('sectors'), prefix, sp.get('cases_first', ''), sp.get('cases_allow')), 'OFFER_POINTS': ''.join(f'<li>{E(x)}</li>' for x in B['offer_points']), 'REFS': ''.join(f'<img src="{prefix}{E(r)}" alt="">' for r in B.get('refs', [])), 'LOGOS': logos_html(prefix),
         'TALK_HEAD': E(B['talk_head'].replace('{company}', co)), 'TALK_TEXT': E(B['talk_text']), 'BOOKING_URL': E(B['booking_url']), 'BOOKING_HOST': E(B['booking_host']),
         'SENDER_NAME': E(B['sender_name']), 'SENDER_TITLE': E(B['sender_title']), 'TEAM_PHOTO': prefix + E(B['team_photo']),
         'TRACK_URL': E(B['track_url']), 'SLUG': E(sp['slug']),

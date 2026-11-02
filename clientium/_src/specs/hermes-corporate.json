@@ -5,11 +5,11 @@
  "domain": "hermescorporate.it",
  "region": "Toscana",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "campaign": "C16",
  "cover_note": "Talenti con le ali per progetti digitali e gestionali. Ecco chi contatteremmo per Hermes Corporate.",
  "market_note": "Hermes affianca in outsourcing aziende dell'aerospazio, dell'ingegneria industriale, della moda e del petrolchimico, quindi parleremmo con chi guida aziende così con oltre 50 addetti.",
@@ -71,5 +71,12 @@
    "url": "https://hermescorporate.it/azienda",
    "quote": "clienti internazionali nei settori aerospaziale, ingegneria industriale, moda, petrolchimico"
   }
+ ],
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
  ]
 }

@@ -6,11 +6,11 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Consulenza IT specializzata per finance e banking con competenza tecnica e visione strategica. Ecco chi contatteremmo per Advancia Technology.",
  "market_note": "Advancia Technology offre consulenza IT ai settori bancario, assicurativo e industriale, quindi parleremmo con chi guida le scelte tecnologiche su software, dati e intelligenza artificiale.",
  "evidence": [
@@ -69,5 +69,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"banking,insurance,automotive,finance\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

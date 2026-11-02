@@ -6,11 +6,11 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "energia",
+  "impianti",
+  "edilizia"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "System Integrator che supporta le aziende italiane con soluzioni digitali innovative e su misura. Ecco chi contatteremmo per R1 Group.",
  "market_note": "R1 Group è un System Integrator che si rivolge a imprese ed enti pubblici e privati di ogni dimensione, quindi parleremmo con chi decide su infrastrutture, cloud e sicurezza informatica.",
  "evidence": [
@@ -67,5 +67,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

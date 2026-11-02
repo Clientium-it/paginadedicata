@@ -6,9 +6,8 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "servizi",
+  "industria"
  ],
  "cases_first": "Planetica",
  "cover_note": "Laboratorio informatico specializzato in software gestionali per le PMI italiane. Ecco chi contatteremmo per Albalog.",
@@ -69,5 +68,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"retail,wholesale,hospitality,fashion,printing,information technology\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

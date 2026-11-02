@@ -6,11 +6,11 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Meccanica di precisione per prototipi e piccole serie. Ecco chi contatteremmo per Punto Zero.",
  "market_note": "Punto Zero realizza meccanica di precisione per aziende che devono realizzare prototipi, piccole e medie serie, quindi parleremmo con chi guida imprese manifatturiere che commissionano particolari complessi.",
  "evidence": [
@@ -82,5 +82,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

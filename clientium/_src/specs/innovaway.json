@@ -6,11 +6,13 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "energia",
+  "impianti",
+  "edilizia",
+  "marketing",
+  "retail"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Progetta e gestisce infrastrutture e piattaforme digitali per aziende e PA. Ecco chi contatteremmo per Innovaway.",
  "market_note": "Innovaway progetta e gestisce infrastrutture e piattaforme digitali per aziende e PA, quindi parleremmo con chi decide su infrastruttura, applicazioni, dati e cybersecurity.",
  "evidence": [
@@ -74,5 +76,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"retail,utilities,transportation,banking,insurance,health care\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

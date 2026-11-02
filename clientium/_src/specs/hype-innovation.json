@@ -6,9 +6,8 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "servizi",
+  "industria"
  ],
  "cases_first": "Planetica",
  "cover_note": "Una piattaforma per trasformare le iniziative aziendali in crescita ed efficienza misurabili. Ecco chi contatteremmo per HYPE Innovation.",
@@ -75,5 +74,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"aerospace,automotive,chemical,energy,utilities,finance,government,health care,insurance,manufacturing,pharmaceutical,life science,professional services,transportation,logistics\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

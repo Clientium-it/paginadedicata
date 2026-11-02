@@ -6,11 +6,13 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica",
+  "marketing",
+  "retail"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Partner di produzione di game art e animazione per studi di gioco. Ecco chi contatteremmo per Forge Studios.",
  "market_note": "Forge Studios dal 2010 produce game art e supporta studi di gioco in arte realistica, stilizzata e animazione, quindi parleremmo con chi guida le case di sviluppo videoludiche.",
  "evidence": [
@@ -77,5 +79,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"companyIndustry\": \"video games\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

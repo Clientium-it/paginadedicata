@@ -6,9 +6,8 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "marketing",
+  "retail"
  ],
  "cases_first": "Planetica",
  "cover_note": "Software che collega oltre 190 corrieri e gestisce le spedizioni dei negozi online. Ecco chi contatteremmo per ShippyPro.",
@@ -74,5 +73,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"companyIndustry\": \"e-commerce,fashion,electronics,toys,furniture,food and beverage,pharmaceutical,beauty,logistics\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

@@ -6,11 +6,10 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "servizi",
+  "industria"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Assistenza e consulenza in ambito societario, fiscale e della gestione aziendale. Ecco chi contatteremmo per Network & Knowledge.",
  "market_note": "Network & Knowledge assiste da Brescia e provincia le imprese con consulenza societaria, fiscale e aziendale, quindi parleremmo con chi guida le aziende del territorio bresciano.",
  "evidence": [
@@ -49,5 +48,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Lombardy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

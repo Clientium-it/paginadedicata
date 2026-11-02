@@ -6,11 +6,13 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "energia",
+  "impianti",
+  "edilizia",
+  "marketing",
+  "retail"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Partner completo per le aziende che integrano le moderne tecnologie informatiche e di telecomunicazione. Ecco chi contatteremmo per Keypass.",
  "market_note": "Keypass collabora con le imprese su infrastruttura IT, telecomunicazioni e soluzioni Disaster Recovery e Business Continuity, quindi parleremmo con chi decide su server, connettività e sicurezza informatica.",
  "evidence": [
@@ -53,5 +55,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Marche\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

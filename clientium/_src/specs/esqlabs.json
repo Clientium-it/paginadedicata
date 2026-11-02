@@ -6,11 +6,10 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "servizi",
+  "industria"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Consulenza scientifica, software e formazione nel modeling PBPK QSP e nella valutazione del rischio chimico. Ecco chi contatteremmo per ESQlabs.",
  "market_note": "ESQlabs offre consulenza, software e formazione nel modeling PBPK QSP per supportare le decisioni su prodotti farmaceutici e chimici, quindi parleremmo con chi guida ricerca e sviluppo.",
  "evidence": [
@@ -68,5 +67,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"pharmaceutical,chemical\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }

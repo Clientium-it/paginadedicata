@@ -5,9 +5,8 @@
  "domain": "unikey.it",
  "region": "Lazio",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "servizi",
+  "industria"
  ],
  "cases_first": "Planetica",
  "campaign": "C16",
@@ -66,5 +65,12 @@
    "url": "https://unikey.it/",
    "quote": "Via Papiria, 50 Roma (RM) Via Mario Bianchini, 51 Roma (RM) Via Libero Temolo, 4 Milano (MI)"
   }
+ ],
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
  ]
 }

@@ -6,11 +6,13 @@
  "register": "lei",
  "campaign": "C16",
  "sectors": [
-  "software",
-  "ict",
-  "consulenza"
+  "manifatturiero",
+  "industria",
+  "meccanica",
+  "marketing",
+  "retail"
  ],
- "cases_first": "ICT Group",
+ "cases_first": "Planetica",
  "cover_note": "Creatività, tecnologia e media con oltre trentacinque anni di esperienza cinematografica. Ecco chi contatteremmo per Frame by Frame.",
  "market_note": "Frame by Frame è uno studio di post produzione e VFX attivo tra cinema, streaming e pubblicità, quindi parleremmo con chi guida marketing e produzione dei contenuti.",
  "evidence": [
@@ -73,5 +75,12 @@
   ],
   "sector": "",
   "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"advertising,media and entertainment\"}"
- }
+ },
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ]
 }
