@@ -1,0 +1,75 @@
+{
+ "slug": "channel-factory",
+ "company": "Channel Factory",
+ "first_name": "Sara",
+ "domain": "channelfactory.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Pubblicità su YouTube e sulle piattaforme social per i grandi brand e le agenzie. Ecco chi contatteremmo per Channel Factory.",
+ "market_note": "Channel Factory aiuta i grandi brand e le agenzie a crescere su YouTube e sulle piattaforme social, quindi parleremmo con chi guida marketing e investimenti pubblicitari.",
+ "evidence": [
+  {
+   "claim": "Pubblicità su YouTube e sulle piattaforme social per grandi brand e agenzie",
+   "url": "https://channelfactory.com/",
+   "quote": "The biggest brands and agencies grow on YouTube and social platforms with us."
+  },
+  {
+   "claim": "Aiuta i grandi brand e le agenzie a crescere su YouTube e sulle piattaforme social",
+   "url": "https://channelfactory.com/",
+   "quote": "The biggest brands and agencies grow on YouTube and social platforms with us."
+  },
+  {
+   "claim": "Aiuta i grandi brand e le agenzie a crescere su YouTube e sulle piattaforme social",
+   "url": "https://channelfactory.com/about-us",
+   "quote": "The biggest brands and agencies grow on YouTube and social platforms with us"
+  },
+  {
+   "claim": "Vende a brand e agenzie",
+   "url": "https://channelfactory.com/",
+   "quote": "The biggest brands and agencies grow on YouTube and social platforms with us."
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "titolari, CEO e direttori marketing di grandi aziende e agenzie pubblicitarie in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "grandi brand",
+   "agenzie"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

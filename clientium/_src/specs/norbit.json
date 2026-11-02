@@ -1,0 +1,82 @@
+{
+ "slug": "norbit",
+ "company": "NORBIT",
+ "first_name": "Lino",
+ "domain": "norbit.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni di connettività che combinano sensori, moduli di comunicazione e software intelligente. Ecco chi contatteremmo per NORBIT.",
+ "market_note": "NORBIT sviluppa soluzioni di connettività che combinano sensori, moduli di comunicazione e software intelligente per settori diversi, quindi parleremmo con chi decide su telematica e digitalizzazione nelle aziende.",
+ "evidence": [
+  {
+   "claim": "soluzioni di connettività che combinano sensori, moduli di comunicazione e software intelligente",
+   "url": "https://norbit.com/connectivity/tailored-connectivity-solutions",
+   "quote": "NORBIT develops customized connectivity solutions that combine sensor technology, communication modules, and intelligent software for diverse industries"
+  },
+  {
+   "claim": "sviluppa soluzioni di connettività per settori diversi",
+   "url": "https://norbit.com/connectivity/tailored-connectivity-solutions",
+   "quote": "NORBIT develops customized connectivity solutions that combine sensor technology, communication modules, and intelligent software for diverse industries"
+  },
+  {
+   "claim": "sviluppa soluzioni che combinano sensori, moduli di comunicazione e software intelligente",
+   "url": "https://norbit.com/connectivity/tailored-connectivity-solutions",
+   "quote": "NORBIT develops customized connectivity solutions that combine sensor technology, communication modules, and intelligent software for diverse industries"
+  },
+  {
+   "claim": "serve settori come acquacoltura, energia e trasporti",
+   "url": "https://norbit.com/connectivity/tailored-connectivity-solutions",
+   "quote": "diverse industries - from aquaculture and energy to transportation and urban infrastructure"
+  },
+  {
+   "claim": "serve il settore oil and gas",
+   "url": "https://norbit.com/connectivity/tailored-connectivity-solutions",
+   "quote": "smart protectors for oil and gas pipes with integrated LED inspection and logistics monitoring"
+  }
+ ],
+ "market": {
+  "count": "8.439",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate in acquacoltura, energia, trasporti e oil and gas",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "acquacoltura",
+   "energia",
+   "trasporti",
+   "oil and gas"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"aquaculture,energy,transportation,oil and gas\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

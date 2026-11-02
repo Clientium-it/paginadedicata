@@ -1,0 +1,76 @@
+{
+ "slug": "doxee",
+ "company": "Doxee",
+ "first_name": "Andrea",
+ "domain": "doxee.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Una piattaforma basata su AI per comunicazioni personalizzate verso i clienti. Ecco chi contatteremmo per Doxee.",
+ "market_note": "Doxee offre una piattaforma per digitalizzare le comunicazioni ai clienti di utility, telco, banche, assicurazioni e settore pubblico, quindi parleremmo con chi decide su IT e trasformazione digitale.",
+ "evidence": [
+  {
+   "claim": "Piattaforma basata su AI per comunicazioni personalizzate verso i clienti",
+   "url": "https://doxee.com/",
+   "quote": "Enabling perfect communication through an AI-powered, intuitive, and flexible platform that boosts customer satisfaction and engagement."
+  },
+  {
+   "claim": "Serve clienti di utility, telecom, banche, assicurazioni e settore pubblico",
+   "url": "https://doxee.com/",
+   "quote": "across utilities, telecom, banking, insurance and the public sector"
+  },
+  {
+   "claim": "Aiuta questi settori a digitalizzare le comunicazioni",
+   "url": "https://doxee.com/",
+   "quote": "use the Doxee Platform to digitize communications, increase engagement"
+  },
+  {
+   "claim": "Settori clienti dichiarati dal sito",
+   "url": "https://doxee.com/",
+   "quote": "across utilities, telecom, banking, insurance and the public sector"
+  }
+ ],
+ "market": {
+  "count": "2.737",
+  "label": "responsabili IT e digitali di grandi aziende di utility, telco, banche e assicurazioni oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "utility e telco",
+   "banche e assicurazioni",
+   "settore pubblico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"utilities,energy,telecommunications,media and entertainment,banking,insurance,government administration\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

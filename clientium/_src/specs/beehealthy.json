@@ -1,0 +1,86 @@
+{
+ "slug": "beehealthy",
+ "company": "BeeHealthy",
+ "first_name": "Giuseppe",
+ "domain": "beehealthy.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma SaaS configurabile per la sanità digitale di provider e assicuratori. Ecco chi contatteremmo per BeeHealthy.",
+ "market_note": "BeeHealthy offre una piattaforma SaaS configurabile per provider sanitari, di cura sociale, veterinari e assicuratori in area EMEA, quindi parleremmo con chi decide su digitale e tecnologia.",
+ "evidence": [
+  {
+   "claim": "piattaforma SaaS configurabile",
+   "url": "https://beehealthy.com/",
+   "quote": "a configurable, white-label SaaS platform with all the features"
+  },
+  {
+   "claim": "sanità digitale per provider e assicuratori",
+   "url": "https://beehealthy.com/",
+   "quote": "Digital healthcare platform for healthcare, social care, veterinary providers, and insurers."
+  },
+  {
+   "claim": "vende a provider sanitari, cura sociale, veterinari e assicuratori in EMEA",
+   "url": "https://beehealthy.com/company/",
+   "quote": "social care, veterinary care providers, and insurers in EMEA"
+  },
+  {
+   "claim": "provider sanitari e assicuratori in area EMEA",
+   "url": "https://beehealthy.com/company/",
+   "quote": "digital healthcare software, solutions and services to healthcare, social care, veterinary care providers, and insurers in EMEA"
+  },
+  {
+   "claim": "soluzione enterprise per organizzazioni strutturate",
+   "url": "https://beehealthy.com/",
+   "quote": "BeeHealthy is an enterprise-grade platform offering tailored tools for every stakeholder in the care ecosystem"
+  },
+  {
+   "claim": "settori clienti dichiarati",
+   "url": "https://beehealthy.com/company/",
+   "quote": "healthcare, social care, veterinary care providers, and insurers"
+  }
+ ],
+ "market": {
+  "count": "14.659",
+  "label": "titolari, CEO e direttori di provider sanitari e assicurativi italiani con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "sanità",
+   "assicurazioni",
+   "veterinario"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"health care,veterinary,insurance,social assistance\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

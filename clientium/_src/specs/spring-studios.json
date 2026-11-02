@@ -1,0 +1,76 @@
+{
+ "slug": "spring-studios",
+ "company": "Spring Studios",
+ "first_name": "Marco",
+ "domain": "springstudios.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Agenzia creativa dedicata a idee e strategia per brand luxury e premium nel mondo. Ecco chi contatteremmo per Spring Studios.",
+ "market_note": "Spring Studios firma idee strategia e produzione per brand del lusso e premium in tutto il mondo, quindi parleremmo con chi guida marketing e comunicazione dei brand.",
+ "evidence": [
+  {
+   "claim": "Agenzia creativa che offre idee e strategia per brand luxury e premium a livello globale",
+   "url": "https://www.springstudios.com/",
+   "quote": "Delivering original ideas and strategy for luxury and premium brands globally"
+  },
+  {
+   "claim": "Spring è un'agenzia creativa",
+   "url": "https://www.springstudios.com/",
+   "quote": "Spring is a creative agency devoted to the exceptional"
+  },
+  {
+   "claim": "Ha firmato la campagna per Brunello Cucinelli con la collezione Incanti Poetici",
+   "url": "https://www.springstudios.com/",
+   "quote": "CAMPAIGN BRUNELLO CUCINELLI Debuting the new Incanti Poetici collection"
+  },
+  {
+   "claim": "Agenzia creativa per beauty, fashion e luxury",
+   "url": "https://www.springstudios.com/",
+   "quote": "Beauty, Fashion & Luxury Creative Agency, Production & Events"
+  }
+ ],
+ "market": {
+  "count": "5.640",
+  "label": "direttori marketing, CEO e titolari di brand moda, beauty e lusso strutturati oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "moda",
+   "beauty",
+   "lusso"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"beauty,fashion,retail luxury goods and jewelry\"}"
+ }
+}

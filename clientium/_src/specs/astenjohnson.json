@@ -1,0 +1,75 @@
+{
+ "slug": "astenjohnson",
+ "company": "AstenJohnson",
+ "first_name": "Marco",
+ "domain": "astenjohnson.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Produce tessuti per macchine da carta come press fabrics e forming fabrics. Ecco chi contatteremmo per AstenJohnson.",
+ "market_note": "AstenJohnson produce paper machine clothing e tessuti di filtrazione per cartiere e impianti di cellulosa in tutto il mondo, quindi parleremmo con chi decide su produzione e acquisti negli stabilimenti.",
+ "evidence": [
+  {
+   "claim": "Produce paper machine clothing come press fabrics, forming fabrics e dryer fabrics",
+   "url": "https://astenjohnson.com/",
+   "quote": "global manufacturer for the paper industry, supplying paper machine clothing like press fabrics, forming fabrics, dryer fabrics"
+  },
+  {
+   "claim": "Vende a cartiere e impianti di cellulosa in tutto il mondo",
+   "url": "https://astenjohnson.com/",
+   "quote": "to paper mills and pulp mills around the world"
+  },
+  {
+   "claim": "Fornisce paper machine clothing a cartiere e impianti di cellulosa nel mondo",
+   "url": "https://astenjohnson.com/",
+   "quote": "supplying paper machine clothing like press fabrics, forming fabrics, dryer fabrics"
+  },
+  {
+   "claim": "Clienti nell'industria della carta, cartiere e impianti di cellulosa",
+   "url": "https://astenjohnson.com/about/",
+   "quote": "preferred manufacturer of paper machine clothing, specialty fabrics and filaments for the worldwide paper industry"
+  }
+ ],
+ "market": {
+  "count": "355",
+  "label": "direttori, titolari e responsabili di cartiere e impianti di cellulosa in Italia oltre 50 addetti",
+  "chips": [
+   "Italia",
+   "oltre 50 addetti",
+   "cartiere e cellulosa",
+   "industria della carta"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"paper and forest product manufacturing,paper manufacturing\"}"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "slug": "sitael",
+ "company": "SITAEL",
+ "first_name": "Vincenzo",
+ "domain": "sitael.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Satelliti, propulsione elettrica ed elettronica per lo spazio. Ecco chi contatteremmo per SITAEL.",
+ "market_note": "SITAEL progetta e produce piccoli satelliti, propulsione elettrica ed elettronica per le principali industrie e agenzie spaziali del mondo, quindi parleremmo con chi guida direzione tecnica e sviluppo.",
+ "evidence": [
+  {
+   "claim": "Produce propulsione elettrica ed elettronica qualificata per lo spazio",
+   "url": "https://www.sitael.com/",
+   "quote": "Electric Propulsion subsystems, and space-qualified Electronic Equipment"
+  },
+  {
+   "claim": "Progetta e produce piccoli satelliti",
+   "url": "https://www.sitael.com/about-us/",
+   "quote": "The in-house Design and Production of Small Satellites"
+  },
+  {
+   "claim": "Fornisce tecnologie alle principali industrie e agenzie spaziali del mondo",
+   "url": "https://www.sitael.com/about-us/",
+   "quote": "providing advanced flight-proven technologies to the main space Industries and Agencies in the world"
+  },
+  {
+   "claim": "Progetta e produce piccoli satelliti",
+   "url": "https://www.sitael.com/about-us/",
+   "quote": "The in-house Design and Production of Small Satellites"
+  },
+  {
+   "claim": "Posizione di primo piano nella propulsione elettrica",
+   "url": "https://www.sitael.com/about-us/",
+   "quote": "the leading position in the Electric Propulsion"
+  },
+  {
+   "claim": "Serve industrie e agenzie spaziali internazionali",
+   "url": "https://www.sitael.com/about-us/",
+   "quote": "providing advanced flight-proven technologies to the main space Industries and Agencies in the world"
+  }
+ ],
+ "market": {
+  "count": "956",
+  "label": "titolari, CEO e direttori di industrie e agenzie aerospaziali strutturate in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "aerospace"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"aerospace\"}"
+ }
+}

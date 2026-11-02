@@ -1,0 +1,84 @@
+{
+ "slug": "gfx",
+ "company": "GFX",
+ "first_name": "Marcello",
+ "domain": "gefx.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "System Integrator nel settore ICT dal 1988, tra infrastrutture IT, cyber security e sviluppo software. Ecco chi contatteremmo per GFX.",
+ "market_note": "GFX è un System Integrator ICT di Roma, segue infrastrutture IT, cyber security e sviluppo software per aziende private e Pubblica Amministrazione, quindi parleremmo con chi decide sui sistemi informatici.",
+ "evidence": [
+  {
+   "claim": "System Integrator nel settore ICT dal 1988",
+   "url": "https://gefx.it/",
+   "quote": "GFX è un System Integrator operante nel settore ICT dal 1988"
+  },
+  {
+   "claim": "si occupa di infrastrutture IT",
+   "url": "https://gefx.it/",
+   "quote": "Realizzazione, gestione e assistenza delle infrastrutture IT"
+  },
+  {
+   "claim": "offre cyber security e sviluppo software",
+   "url": "https://gefx.it/",
+   "quote": "consulenza nell’ambito della Cyber Security e consulenza per lo sviluppo di soluzioni software personalizzate"
+  },
+  {
+   "claim": "si rivolge ad aziende private e Pubblica Amministrazione",
+   "url": "https://gefx.it/",
+   "quote": "Ci rivolgiamo ad Aziende Private e Pubblica Amministrazione"
+  },
+  {
+   "claim": "ha sede a Roma nel mercato IT",
+   "url": "https://gefx.it/servizi-per-la-pubblica-amministrazione/",
+   "quote": "La GFX S.r.l. è presente nel mercato IT da più di 30 anni, con sede in Roma"
+  },
+  {
+   "claim": "System Integrator ICT dal 1988",
+   "url": "https://gefx.it/",
+   "quote": "GFX è un System Integrator operante nel settore ICT dal 1988"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende private e PA"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

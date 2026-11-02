@@ -1,0 +1,84 @@
+{
+ "slug": "alascom",
+ "company": "Alascom",
+ "first_name": "Marco",
+ "domain": "alascom.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "System integrator e consulenza tecnica nel settore ICT e nella robotica industriale. Ecco chi contatteremmo per Alascom.",
+ "market_note": "Alascom opera in tutta Italia come system integrator nel settore ICT e nella robotica industriale per ogni applicazione industriale, quindi parleremmo con chi decide su automazione, intralogistica e sicurezza informatica.",
+ "evidence": [
+  {
+   "claim": "system integrator e consulenza tecnica nel settore ICT",
+   "url": "https://www.alascom.it/",
+   "quote": "come system integrator e fornitore di servizi di consulenza tecnica nel settore ICT"
+  },
+  {
+   "claim": "robotica industriale",
+   "url": "https://www.alascom.it/chi-siamo/",
+   "quote": "realtà consolidata nel mondo della robotica industriale"
+  },
+  {
+   "claim": "opera su tutta Italia",
+   "url": "https://www.alascom.it/chi-siamo/",
+   "quote": "L’azienda è presente ed opera sull’intero nazionale Italiano"
+  },
+  {
+   "claim": "robotica per applicazioni industriali",
+   "url": "https://www.alascom.it/chi-siamo/",
+   "quote": "con la costruzione di impianti robotizzati standard e speciali per ogni applicazione industriale"
+  },
+  {
+   "claim": "da oltre 20 anni system integrator e consulenza tecnica",
+   "url": "https://www.alascom.it/chi-siamo/",
+   "quote": "Opera da oltre 20 anni come system integrator e fornitore di servizi di consulenza tecnica"
+  },
+  {
+   "claim": "clienti tra le imprese manifatturiere",
+   "url": "https://www.alascom.it/servizi-ict/",
+   "quote": "consente alle imprese manifatturiere di integrare meglio i propri processi produttivi con quelli distributivi"
+  }
+ ],
+ "market": {
+  "count": "20.186",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manifattura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

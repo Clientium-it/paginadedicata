@@ -1,0 +1,79 @@
+{
+ "slug": "isg",
+ "company": "ISG",
+ "first_name": "Millian",
+ "domain": "isg.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Recruiting, executive search e formazione per portare talenti e aziende insieme. Ecco chi contatteremmo per ISG.",
+ "market_note": "ISG affianca le aziende con recruiting, executive search e formazione per attrarre e sviluppare le persone giuste, quindi parleremmo con chi guida la crescita e le assunzioni.",
+ "evidence": [
+  {
+   "claim": "ISG offre recruiting, executive search e formazione",
+   "url": "https://www.isg.com/de/",
+   "quote": "Recruiting, Executive Search und Trainings"
+  },
+  {
+   "claim": "ISG porta insieme talenti e aziende",
+   "url": "https://www.isg.com/de/",
+   "quote": "Wir bringen Talente und Unternehmen zusammen."
+  },
+  {
+   "claim": "ISG affianca le aziende con recruiting, executive search e formazione",
+   "url": "https://www.isg.com/de/",
+   "quote": "Recruiting, Executive Search und Trainings"
+  },
+  {
+   "claim": "ISG offre programmi di formazione su misura",
+   "url": "https://www.isg.com/de/",
+   "quote": "Wir bieten maßgeschneiderte Trainingsprogramme"
+  },
+  {
+   "claim": "ISG mette in contatto talenti e aziende, quindi i clienti sono aziende che assumono",
+   "url": "https://www.isg.com/de/",
+   "quote": "Wir bringen Talente und Unternehmen zusammen."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate dai 50 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

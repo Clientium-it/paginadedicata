@@ -1,0 +1,79 @@
+{
+ "slug": "data-management",
+ "company": "Data Management",
+ "first_name": "Francesco",
+ "domain": "datamanagement.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni HR per la gestione e l'amministrazione del personale delle aziende. Ecco chi contatteremmo per Data Management.",
+ "market_note": "Data Management sviluppa soluzioni HR per la gestione e l'amministrazione del personale delle aziende di tutti i settori, quindi parleremmo con chi decide su risorse umane e processi del personale.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni per la gestione e l'amministrazione del personale",
+   "url": "https://www.datamanagement.it/it/home/",
+   "quote": "La soluzione per la gestione e l'amministrazione del personale"
+  },
+  {
+   "claim": "Sviluppa soluzioni HR per le aziende",
+   "url": "https://www.datamanagement.it/it/home/",
+   "quote": "Aiutiamo le aziende a migliorare la gestione e l'amministrazione delle loro Persone"
+  },
+  {
+   "claim": "Serve aziende di tutti i settori",
+   "url": "https://www.datamanagement.it/it/home/",
+   "quote": "sono al servizio di tutti i settori"
+  },
+  {
+   "claim": "Aiuta le aziende nella gestione e amministrazione delle Persone",
+   "url": "https://www.datamanagement.it/it/home/",
+   "quote": "Aiutiamo le aziende a migliorare la gestione e l'amministrazione delle loro Persone"
+  },
+  {
+   "claim": "Offre soluzioni per il segmento Large Enterprise",
+   "url": "https://www.datamanagement.it/it/home/",
+   "quote": "soluzioni per il segmento Large Enterprise"
+  }
+ ],
+ "market": {
+  "count": "100.009",
+  "label": "titolari, CEO e direttori di grandi aziende italiane strutturate di tutti i settori",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "tutti i settori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

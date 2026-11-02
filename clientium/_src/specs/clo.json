@@ -1,0 +1,89 @@
+{
+ "slug": "clo",
+ "company": "CLO",
+ "first_name": "Fabio",
+ "domain": "clomilano.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Gestore dei processi di magazzino, trasporto e distribuzione per la filiera food. Ecco chi contatteremmo per CLO.",
+ "market_note": "CLO gestisce magazzini, trasporto e distribuzione per la filiera food, quindi parleremmo con chi decide sulla logistica e sull'organizzazione dei magazzini nelle aziende.",
+ "evidence": [
+  {
+   "claim": "gestore dei processi di magazzino",
+   "url": "https://clomilano.eu/",
+   "quote": "gestore e operatore dei processi di magazzino e di piattaforma"
+  },
+  {
+   "claim": "logistica della filiera food",
+   "url": "https://clomilano.eu/",
+   "quote": "della logistica distributiva e della filiera food"
+  },
+  {
+   "claim": "trasporto e distribuzione",
+   "url": "https://clomilano.eu/servizi/",
+   "quote": "Pianificazione ed ottimizzazione dei viaggi, ritiro e consegna di prodotti deperibili e non"
+  },
+  {
+   "claim": "logistica della filiera food",
+   "url": "https://clomilano.eu/",
+   "quote": "della logistica distributiva e della filiera food"
+  },
+  {
+   "claim": "gestore dei processi di magazzino",
+   "url": "https://clomilano.eu/",
+   "quote": "gestore e operatore dei processi di magazzino e di piattaforma"
+  },
+  {
+   "claim": "filiera food",
+   "url": "https://clomilano.eu/",
+   "quote": "della logistica distributiva e della filiera food"
+  },
+  {
+   "claim": "serve la filiera food",
+   "url": "https://clomilano.eu/",
+   "quote": "della logistica distributiva e della filiera food"
+  }
+ ],
+ "market": {
+  "count": "4.135",
+  "label": "titolari, CEO e direttori di aziende italiane della filiera food strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "filiera food"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"food and beverage\"}"
+ }
+}

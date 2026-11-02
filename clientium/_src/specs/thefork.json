@@ -1,0 +1,79 @@
+{
+ "slug": "thefork",
+ "company": "TheFork",
+ "first_name": "Almir",
+ "domain": "careers.thefork.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma di prenotazione online dei ristoranti con software gestionale per i ristoratori. Ecco chi contatteremmo per TheFork.",
+ "market_note": "TheFork offre ai ristoranti una soluzione software per gestire le prenotazioni e ottimizzare le operazioni, quindi parleremmo con i titolari dei ristoranti che decidono su strumenti e servizi digitali.",
+ "evidence": [
+  {
+   "claim": "piattaforma di prenotazione online dei ristoranti",
+   "url": "https://www.careers.thefork.com/about",
+   "quote": "the leading online restaurant booking platform in Europe"
+  },
+  {
+   "claim": "software gestionale per i ristoratori",
+   "url": "https://www.careers.thefork.com/about",
+   "quote": "TheFork provides them with a software solution, TheFork Manager, to optimise reservation management"
+  },
+  {
+   "claim": "soluzione software per gestire le prenotazioni e ottimizzare le operazioni",
+   "url": "https://www.careers.thefork.com/about",
+   "quote": "to optimise reservation management, streamline operations"
+  },
+  {
+   "claim": "TheFork Manager aiuta i ristoranti a gestire le prenotazioni e migliorare il servizio",
+   "url": "https://www.careers.thefork.com/about",
+   "quote": "to optimise reservation management, streamline operations and ultimately improve service"
+  },
+  {
+   "claim": "vende ai ristoranti",
+   "url": "https://www.careers.thefork.com/about",
+   "quote": "From the restaurant side, TheFork provides them with a software solution"
+  }
+ ],
+ "market": {
+  "count": "6.599",
+  "label": "titolari di ristoranti e gruppi della ristorazione in Italia",
+  "chips": [
+   "tutta Italia",
+   "ristoranti",
+   "hospitality"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"companyIndustry\": \"restaurants,hospitality\"}"
+ }
+}

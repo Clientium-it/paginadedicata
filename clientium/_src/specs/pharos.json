@@ -1,0 +1,81 @@
+{
+ "slug": "pharos",
+ "company": "Pharos",
+ "first_name": "Daniela",
+ "domain": "pharos.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software di gestione della stampa cloud native per grandi aziende. Ecco chi contatteremmo per Pharos.",
+ "market_note": "Pharos offre software cloud native per la gestione della stampa alle grandi aziende con flotte multi-vendor, quindi parleremmo con chi guida l'IT e la sicurezza.",
+ "evidence": [
+  {
+   "claim": "Piattaforma cloud native di gestione della stampa pensata per le aziende",
+   "url": "https://www.pharos.com/products/cloud-platform/",
+   "quote": "cloud-native print management platform purpose-built for the enterprise"
+  },
+  {
+   "claim": "Modernizza l'infrastruttura di stampa su ambienti distribuiti e multi-vendor",
+   "url": "https://www.pharos.com/products/cloud-platform/",
+   "quote": "modernize print infrastructure across distributed, multi-vendor environments"
+  },
+  {
+   "claim": "Elimina i print server legacy e semplifica le operazioni",
+   "url": "https://www.pharos.com/",
+   "quote": "eliminating legacy print servers and simplifying operations"
+  },
+  {
+   "claim": "Si rivolge ai team IT per modernizzare la stampa",
+   "url": "https://www.pharos.com/",
+   "quote": "gives IT teams the security, visibility, and control to modernize printing"
+  },
+  {
+   "claim": "Settori clienti dichiarati dal sito",
+   "url": "https://www.pharos.com/",
+   "quote": "Financial Services Professional Services Insurance Healthcare Manufacturing Utilities & Energy Technology Education"
+  }
+ ],
+ "market": {
+  "count": "3.632",
+  "label": "responsabili IT, CIO e CTO di grandi aziende italiane oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "finanza e assicurazioni",
+   "sanità",
+   "industria"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"financial services,professional services,insurance,health care,manufacturing,utilities,energy,information technology,education\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

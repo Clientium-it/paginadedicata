@@ -1,0 +1,79 @@
+{
+ "slug": "drillmec",
+ "company": "Drillmec",
+ "first_name": "Michele",
+ "domain": "drillmec.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Impianti di perforazione e attrezzature per l'industria oil and gas. Ecco chi contatteremmo per Drillmec.",
+ "market_note": "Drillmec progetta e fornisce impianti di perforazione e attrezzature per l'industria oil and gas, quindi parleremmo con chi guida le operazioni e la manutenzione delle flotte di impianti.",
+ "evidence": [
+  {
+   "claim": "Drillmec fornisce soluzioni per l'industria oil and gas",
+   "url": "https://www.drillmec.com/en/",
+   "quote": "solutions to the oil and gas industry"
+  },
+  {
+   "claim": "Gli impianti operano nei principali giacimenti del mondo",
+   "url": "https://www.drillmec.com/en/",
+   "quote": "OPERATING IN ALL MAJOR OILFIELDS IN THE WORLD"
+  },
+  {
+   "claim": "Aiuta i clienti a mantenere operative flotte di impianti e attrezzature",
+   "url": "https://www.drillmec.com/en/services/rig-integrity",
+   "quote": "keep their rig fleet and equipment running"
+  },
+  {
+   "claim": "Fornisce pacchetti operativi nei principali giacimenti del mondo",
+   "url": "https://www.drillmec.com/en/",
+   "quote": "PACKAGES SUCCESSFULLY OPERATING IN ALL MAJOR OILFIELDS IN THE WORLD"
+  },
+  {
+   "claim": "Il lead serve l'industria oil and gas",
+   "url": "https://www.drillmec.com/en/",
+   "quote": "solutions to the oil and gas industry"
+  }
+ ],
+ "market": {
+  "count": "2.240",
+  "label": "direttori, CEO e titolari di aziende oil and gas con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oil and gas",
+   "oltre 100 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"oil and gas\"}"
+ }
+}

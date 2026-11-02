@@ -1,0 +1,78 @@
+{
+ "slug": "benigni-k",
+ "company": "Benigni & K",
+ "first_name": "Claudio",
+ "domain": "benignibk.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza strategica per imprese, patrimoni e operazioni straordinarie. Ecco chi contatteremmo per Benigni & K.",
+ "market_note": "Benigni & K offre consulenza integrata su fiscalità, operazioni straordinarie e protezione del patrimonio a imprese e gruppi industriali, quindi parleremmo con chi guida le scelte finanziarie e societarie.",
+ "evidence": [
+  {
+   "claim": "Offre consulenza strategica per imprese, patrimoni e operazioni straordinarie.",
+   "url": "https://benignibk.com/",
+   "quote": "Consulenza strategica per imprese, patrimoni e operazioni straordinarie"
+  },
+  {
+   "claim": "Offre consulenza integrata a imprese e famiglie.",
+   "url": "https://benignibk.com/chi-siamo/",
+   "quote": "offrendo soluzioni su misura per imprese, professionisti e famiglie."
+  },
+  {
+   "claim": "Serve PMI e gruppi industriali.",
+   "url": "https://benignibk.com/chi-siamo/",
+   "quote": "Affianchiamo PMI, gruppi industriali, fondi, investitori esteri e famiglie patrimoniali."
+  },
+  {
+   "claim": "Ha esperienza in M&A e internazionalizzazione per PMI e gruppi industriali.",
+   "url": "https://benignibk.com/chi-siamo/",
+   "quote": "Abbiamo esperienza in M&A, ristrutturazioni del debito, internazionalizzazione e progetti immobiliari e turistici di fascia alta."
+  },
+  {
+   "claim": "Affianca imprese, gruppi industriali e fondi.",
+   "url": "https://benignibk.com/chi-siamo/",
+   "quote": "Affianchiamo PMI, gruppi industriali, fondi, investitori esteri e famiglie patrimoniali."
+  }
+ ],
+ "market": {
+  "count": "101.368",
+  "label": "titolari, CEO e amministratori di aziende italiane oltre 20 addetti",
+  "chips": [
+   "tutta Italia",
+   "da 20 addetti in su"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 20}"
+ }
+}

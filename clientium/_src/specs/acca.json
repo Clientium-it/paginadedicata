@@ -1,0 +1,86 @@
+{
+ "slug": "acca",
+ "company": "ACCA",
+ "first_name": "Antonio",
+ "domain": "acca.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software per l'edilizia, l'architettura e l'ingegneria e il BIM italiano. Ecco chi contatteremmo per ACCA.",
+ "market_note": "ACCA sviluppa software tecnico e BIM per l'edilizia usati da tecnici, studi professionali, imprese edili e pubbliche amministrazioni, quindi parleremmo con chi guida studi e imprese di costruzioni.",
+ "evidence": [
+  {
+   "claim": "Software per l'edilizia, l'architettura e l'ingegneria",
+   "url": "https://www.acca.it/",
+   "quote": "leader italiano del software per l'edilizia, l'architettura e l'ingegneria"
+  },
+  {
+   "claim": "il BIM italiano",
+   "url": "https://www.acca.it/",
+   "quote": "Il BIM italiano n.1 facile e per tutti"
+  },
+  {
+   "claim": "software tecnico e BIM",
+   "url": "https://www.acca.it/",
+   "quote": "ACCA è il leader italiano del software tecnico e del BIM."
+  },
+  {
+   "claim": "usati da imprese edili e pubbliche amministrazioni",
+   "url": "https://www.acca.it/",
+   "quote": "imprese edili e pubbliche amministrazioni"
+  },
+  {
+   "claim": "i software per l'edilizia più usati dai tecnici italiani",
+   "url": "https://www.acca.it/",
+   "quote": "I software per l'edilizia più usati dai tecnici italiani"
+  },
+  {
+   "claim": "settori architettura, ingegneria e costruzioni",
+   "url": "https://www.acca.it/company-profile",
+   "quote": "per i settori dell'architettura, dell'ingegneria e delle costruzioni"
+  }
+ ],
+ "market": {
+  "count": "4.994",
+  "label": "titolari e amministratori di studi tecnici e imprese di costruzioni in tutta Italia da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "edilizia",
+   "architettura",
+   "ingegneria"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"architecture and planning,civil engineering,construction\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

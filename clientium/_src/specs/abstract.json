@@ -1,0 +1,95 @@
+{
+ "slug": "abstract",
+ "company": "Abstract",
+ "first_name": "Maria",
+ "domain": "abstract.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni digitali su misura per la trasformazione digitale delle imprese. Ecco chi contatteremmo per Abstract.",
+ "market_note": "Abstract guida da oltre 30 anni la trasformazione digitale delle principali organizzazioni nei settori luxury, manufacturing, retail, sanità e utility, quindi parleremmo con chi decide su sistemi digitali e dati.",
+ "evidence": [
+  {
+   "claim": "soluzioni digitali su misura",
+   "url": "https://abstract.it/",
+   "quote": "Diamo forma all’innovazione con soluzioni digitali su misura"
+  },
+  {
+   "claim": "guida la trasformazione digitale delle imprese",
+   "url": "https://abstract.it/",
+   "quote": "Guidiamo la trasformazione digitale delle imprese"
+  },
+  {
+   "claim": "da oltre 30 anni supporta le principali organizzazioni nei settori strategici",
+   "url": "https://abstract.it/",
+   "quote": "da oltre 30 anni, supportiamo le principali organizzazioni nei settori strategici"
+  },
+  {
+   "claim": "supporta le principali organizzazioni nei settori strategici con sistemi digitali",
+   "url": "https://abstract.it/",
+   "quote": "supportiamo le principali organizzazioni nei settori strategici con sistemi digitali data-driven, verticali e costruiti per generare impatto reale"
+  },
+  {
+   "claim": "settore luxury e fashion",
+   "url": "https://abstract.it/",
+   "quote": "Soluzioni digitali per i brand del lusso e della moda"
+  },
+  {
+   "claim": "serve aziende della distribuzione e dei servizi",
+   "url": "https://abstract.it/settori/retail/",
+   "quote": "Supportiamo la trasformazione digitale di aziende della Distribuzione B2C e B2B e dei Servizi"
+  },
+  {
+   "claim": "settore sanità pubblica e privata",
+   "url": "https://abstract.it/settori/sanita/",
+   "quote": "Ecosistemi digitali integrati per la sanità pubblica e privata"
+  },
+  {
+   "claim": "settore utility e telco",
+   "url": "https://abstract.it/settori/utility-telco/",
+   "quote": "Servizi digitali per la gestione di clienti, reti e dati"
+  }
+ ],
+ "market": {
+  "count": "2.468",
+  "label": "responsabili IT, CIO e CTO di grandi aziende italiane dei settori luxury, manufacturing, retail, sanità, utility e telco",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "luxury, manufacturing, retail",
+   "sanità, utility e telco"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"fashion,retail luxury goods and jewelry,manufacturing,retail,hospitals and health care,utilities,telecommunications\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

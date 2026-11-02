@@ -1,0 +1,66 @@
+{
+ "slug": "areajob",
+ "company": "Areajob",
+ "first_name": "Alessandra",
+ "domain": "areajob.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Agenzia per il lavoro che seleziona personale qualificato per le aziende. Ecco chi contatteremmo per Areajob.",
+ "market_note": "Areajob è partner di migliaia di imprese del Nord e del Centro Italia per la ricerca e selezione di personale, quindi parleremmo con chi decide le assunzioni in azienda.",
+ "evidence": [
+  {
+   "claim": "È un'agenzia per il lavoro che offre servizi alle aziende",
+   "url": "https://areajob.it/chi-siamo/",
+   "quote": "Areajob è un’agenzia di lavoro dinamica che offre servizi personalizzati"
+  },
+  {
+   "claim": "Seleziona personale qualificato per le aziende",
+   "url": "https://areajob.it/sei-un-azienda/",
+   "quote": "Se sei un'azienda in cerca di personale qualificato, Areajob può essere un prezioso partner."
+  },
+  {
+   "claim": "È partner di migliaia di imprese del Nord e del Centro Italia",
+   "url": "https://areajob.it/chi-siamo/",
+   "quote": "Areajob è diventato partner di migliaia di imprese del Nord e del Centro Italia"
+  },
+  {
+   "claim": "Ha 31 sedi tra Emilia-Romagna, Lombardia, Veneto, Toscana e Piemonte",
+   "url": "https://areajob.it/chi-siamo/",
+   "quote": "oggi Areajob conta 31 sedi dislocate tra Emilia-Romagna, Lombardia, Veneto, Toscana e Piemonte."
+  },
+  {
+   "claim": "Opera tra Emilia-Romagna, Lombardia, Veneto, Toscana e Piemonte",
+   "url": "https://areajob.it/chi-siamo/",
+   "quote": "oggi Areajob conta 31 sedi dislocate tra Emilia-Romagna, Lombardia, Veneto, Toscana e Piemonte."
+  }
+ ],
+ "market": {
+  "count": "74.459",
+  "label": "titolari, CEO e direttori di aziende del nord e centro Italia da 10 a 250 addetti",
+  "chips": [
+   "Emilia-Romagna",
+   "Lombardia",
+   "Veneto",
+   "Toscana e Piemonte",
+   "10-250 addetti"
+  ],
+  "regions": [
+   "Emilia-Romagna",
+   "Lombardia",
+   "Veneto",
+   "Toscana",
+   "Piemonte"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Emilia-Romagna,Lombardy,Veneto,Tuscany,Piedmont\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

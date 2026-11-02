@@ -1,0 +1,75 @@
+{
+ "slug": "bga",
+ "company": "BGA",
+ "first_name": "Davide",
+ "domain": "bgautomotive.co.uk",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Ricambi motore e sterzo di qualità originale per l'aftermarket automobilistico. Ecco chi contatteremmo per BGA.",
+ "market_note": "BGA porta alle officine un'alternativa aftermarket ai ricambi originali per motore e sterzo, quindi parleremmo con chi guida i distributori e le reti di ricambi auto in Italia.",
+ "evidence": [
+  {
+   "claim": "Produce ricambi motore e sterzo di qualità originale",
+   "url": "https://bgautomotive.co.uk/",
+   "quote": "ORIGINAL QUALITY ENGINE & STEERING PARTS"
+  },
+  {
+   "claim": "Porta alle officine un'alternativa aftermarket ai ricambi originali",
+   "url": "https://bgautomotive.co.uk/",
+   "quote": "to bring garages an aftermarket alternative to match and beat that of OE equipment"
+  },
+  {
+   "claim": "Leader europei per i kit catena di distribuzione",
+   "url": "https://bgautomotive.co.uk/",
+   "quote": "European Market Leaders for Timing Chain Kits"
+  },
+  {
+   "claim": "Opera nell'aftermarket automobilistico internazionale",
+   "url": "https://bgautomotive.co.uk/company/",
+   "quote": "the ever-growing international automotive aftermarket"
+  }
+ ],
+ "market": {
+  "count": "1.235",
+  "label": "titolari e amministratori di distributori e officine di ricambi auto in Italia da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "automotive",
+   "distributori e officine"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"automotive\"}"
+ }
+}

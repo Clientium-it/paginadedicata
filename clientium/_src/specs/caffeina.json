@@ -1,0 +1,74 @@
+{
+ "slug": "caffeina",
+ "company": "Caffeina",
+ "first_name": "Henry",
+ "domain": "caffeina.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Esperienze d'impatto tra brand e persone con creatività e digitale. Ecco chi contatteremmo per Caffeina.",
+ "market_note": "Caffeina progetta campagne omnichannel, prodotti digitali e campagne media per i brand, quindi parleremmo con chi guida marketing e comunicazione nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Crea esperienze d'impatto tra brand e persone con creatività e digitale",
+   "url": "https://caffeina.com/about-us",
+   "quote": "esperienze d'impatto che iniettano nuova energia nella relazione tra persone e brand"
+  },
+  {
+   "claim": "Offre campagne omnichannel, prodotti digitali e campagne media ai brand",
+   "url": "https://caffeina.com/",
+   "quote": "Campagne omnichannel, prodotti digitali, branded content on e offline, campagne media di performance e awareness"
+  },
+  {
+   "claim": "È Official Partner di Facebook, Google e TikTok",
+   "url": "https://caffeina.com/services",
+   "quote": "Siamo Official Partner di Facebook, Google e TikTok."
+  },
+  {
+   "claim": "Progetta esperienze per i brand",
+   "url": "https://caffeina.com/services",
+   "quote": "progettano impactful experience per ogni brand"
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "direttori marketing, CEO e titolari di aziende e brand strutturati in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "brand e aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

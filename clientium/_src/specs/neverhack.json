@@ -1,0 +1,81 @@
+{
+ "slug": "neverhack",
+ "company": "NEVERHACK",
+ "first_name": "Mariateresa",
+ "domain": "neverhack.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Cybersecurity sovrana e difesa cyber per proteggere gli ambienti più sensibili e le infrastrutture critiche. Ecco chi contatteremmo per NEVERHACK.",
+ "market_note": "NEVERHACK protegge con cybersecurity sovrana i settori più sensibili come governo, difesa, energia, finanza e telecomunicazioni, quindi parleremmo con chi decide su sicurezza informatica e infrastrutture IT.",
+ "evidence": [
+  {
+   "claim": "cybersecurity sovrana e difesa cyber",
+   "url": "https://neverhack.com/",
+   "quote": "Sovereign cybersecurity. Defence-grade expertise."
+  },
+  {
+   "claim": "protegge gli ambienti più sensibili e le infrastrutture critiche",
+   "url": "https://neverhack.com/",
+   "quote": "the most sensitive environments: government, defence, critical infrastructure"
+  },
+  {
+   "claim": "settori sensibili serviti come governo, difesa, energia, finanza, telecomunicazioni",
+   "url": "https://neverhack.com/",
+   "quote": "Government Defence Energy Finance Health Industry Telecoms Transport Aerospace Critical Infra"
+  },
+  {
+   "claim": "combina infrastruttura AI sovrana ed esperienza cyber di livello difesa",
+   "url": "https://neverhack.com/",
+   "quote": "NEVERHACK combines sovereign AI infrastructure with defence-grade cybersecurity expertise"
+  },
+  {
+   "claim": "settori clienti dichiarati",
+   "url": "https://neverhack.com/",
+   "quote": "Government Defence Energy Finance Health Industry Telecoms Transport Aerospace Critical Infra"
+  }
+ ],
+ "market": {
+  "count": "3.494",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate con oltre 100 addetti nei settori più esposti al rischio cyber",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "finanza",
+   "energia",
+   "telecomunicazioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"finance,energy,health care,telecommunications,transportation,aerospace,manufacturing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

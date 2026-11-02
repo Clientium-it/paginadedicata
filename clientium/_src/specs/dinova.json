@@ -1,0 +1,84 @@
+{
+ "slug": "dinova",
+ "company": "Dinova",
+ "first_name": "Francesco",
+ "domain": "dinova.one",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni AI, dati, cloud e cybersecurity su misura per le organizzazioni. Ecco chi contatteremmo per Dinova.",
+ "market_note": "Dinova progetta soluzioni AI, dati, cloud e cybersecurity su misura per le organizzazioni, quindi parleremmo con chi guida tecnologia e sicurezza nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Progetta soluzioni AI e dati su misura",
+   "url": "https://www.dinova.one/",
+   "quote": "Progettiamo soluzioni AI & Data su misura"
+  },
+  {
+   "claim": "Progetta infrastrutture cloud",
+   "url": "https://www.dinova.one/",
+   "quote": "Progettiamo infrastrutture cloud ibride e multi-cloud, scalabili e AI-ready"
+  },
+  {
+   "claim": "Si occupa di cybersecurity per le organizzazioni",
+   "url": "https://www.dinova.one/la-potenza-della-piattaforma-secops-di-google-cloud-nella-tua-azienda/",
+   "quote": "Aiutiamo le organizzazioni a trasformare la cybersicurezza grazie a competenze e intelligence di prima linea"
+  },
+  {
+   "claim": "Offre consulenza AI alle organizzazioni",
+   "url": "https://www.dinova.one/cosa-facciamo/ai-data-solutions/",
+   "quote": "Consulenza su intelligenza artificiale per le organizzazioni"
+  },
+  {
+   "claim": "Progetta soluzioni AI e dati su misura",
+   "url": "https://www.dinova.one/",
+   "quote": "Progettiamo soluzioni AI & Data su misura"
+  },
+  {
+   "claim": "Vende a organizzazioni e aziende",
+   "url": "https://www.dinova.one/cosa-facciamo/ai-data-solutions/",
+   "quote": "Consulenza su intelligenza artificiale per le organizzazioni"
+  }
+ ],
+ "market": {
+  "count": "7.840",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate da 100 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

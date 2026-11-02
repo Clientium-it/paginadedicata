@@ -1,0 +1,79 @@
+{
+ "slug": "nooo-agency",
+ "company": "NOOO Agency",
+ "first_name": "Gabriele",
+ "domain": "noooagency.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Agenzia web, marketing e comunicazione per le aziende che vogliono evolvere nel digitale. Ecco chi contatteremmo per NOOO Agency.",
+ "market_note": "NOOO Agency offre servizi web, marketing e comunicazione in tutta Italia alle aziende che vogliono evolvere nel digitale, quindi parleremmo con chi guida marketing e comunicazione del brand.",
+ "evidence": [
+  {
+   "claim": "Agenzia web, marketing e comunicazione",
+   "url": "https://www.noooagency.com/",
+   "quote": "Agenzia web, marketing e comunicazione"
+  },
+  {
+   "claim": "Lavora con le aziende che vogliono evolvere nel digitale",
+   "url": "https://www.noooagency.com/chi-siamo/",
+   "quote": "collaboriamo ogni giorno con le aziende che vogliono evolvere negli ambiti web, marketing e comunicazione"
+  },
+  {
+   "claim": "Offre servizi web in tutta Italia",
+   "url": "https://www.noooagency.com/",
+   "quote": "Offriamo servizi web in tutta Italia."
+  },
+  {
+   "claim": "Collabora con le aziende che vogliono evolvere nel web, marketing e comunicazione",
+   "url": "https://www.noooagency.com/chi-siamo/",
+   "quote": "collaboriamo ogni giorno con le aziende che vogliono evolvere negli ambiti web, marketing e comunicazione"
+  },
+  {
+   "claim": "Serve aziende in tutta Italia",
+   "url": "https://www.noooagency.com/",
+   "quote": "Offriamo servizi web in tutta Italia."
+  }
+ ],
+ "market": {
+  "count": "124.079",
+  "label": "titolari, CEO e direttori marketing di aziende italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "PMI strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "digital360",
+ "company": "Digital360",
+ "first_name": "Eltiana",
+ "domain": "digital360.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza per la Digital Transformation di imprese e Pubblica Amministrazione. Ecco chi contatteremmo per Digital360.",
+ "market_note": "Digital360 affianca aziende e Pubblica Amministrazione nel percorso di Digital Transformation con strategie e competenze, quindi parleremmo con chi guida innovazione, organizzazione e trasformazione digitale nelle imprese strutturate.",
+ "evidence": [
+  {
+   "claim": "Consulenza per la Digital Transformation di imprese e Pubblica Amministrazione",
+   "url": "https://www.digital360.it/",
+   "quote": "La consulenza per la Digital Transformation di imprese e Pubblica Amministrazione"
+  },
+  {
+   "claim": "Affianca aziende e Pubblica Amministrazione nel percorso di Digital Transformation",
+   "url": "https://www.digital360.it/",
+   "quote": "è al fianco di aziende e Pubblica Amministrazione nel percorso di Digital Transformation"
+  },
+  {
+   "claim": "Affianca aziende e PA nel percorso di Digital Transformation con strategie ed execution data-driven",
+   "url": "https://www.digital360.it/",
+   "quote": "percorso di Digital Transformation con strategie, competenze ed execution data-driven"
+  },
+  {
+   "claim": "Opera sul mercato italiano",
+   "url": "https://www.digital360.it/",
+   "quote": "Una realtà unica sul mercato italiano per la Digital Transformation"
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "titolari, CEO e direttori di imprese italiane strutturate con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "imprese strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

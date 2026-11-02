@@ -1,0 +1,74 @@
+{
+ "slug": "bizaway",
+ "company": "BizAway",
+ "first_name": "Flavio",
+ "domain": "bizaway.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma per gestire i viaggi aziendali con supporto umano disponibile ventiquattr'ore su ventiquattro. Ecco chi contatteremmo per BizAway.",
+ "market_note": "BizAway offre una piattaforma per gestire i viaggi aziendali a organizzazioni medie e grandi, quindi parleremmo con chi decide su costi, trasferte e fornitori di viaggio.",
+ "evidence": [
+  {
+   "claim": "piattaforma per gestire i viaggi aziendali con tecnologia e persone reali",
+   "url": "https://www.bizaway.com/en",
+   "quote": "Manage business travel in one platform powered by technology and supported by real people whenever it matters."
+  },
+  {
+   "claim": "serve organizzazioni medie e grandi con frequenti viaggi aziendali",
+   "url": "https://www.bizaway.com/en/clients",
+   "quote": "We work with medium and large organizations that manage frequent business travel across multiple countries or entities."
+  },
+  {
+   "claim": "combina tecnologia di prenotazione e supporto umano attivo sempre",
+   "url": "https://www.bizaway.com/en",
+   "quote": "BizAway combines powerful booking management tech with 24/7 human support"
+  },
+  {
+   "claim": "clienti sono organizzazioni medie e grandi con trasferte frequenti",
+   "url": "https://www.bizaway.com/en/clients",
+   "quote": "We work with medium and large organizations that manage frequent business travel across multiple countries or entities."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti con frequenti trasferte di lavoro",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "medie e grandi aziende"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

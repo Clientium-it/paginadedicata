@@ -1,0 +1,91 @@
+{
+ "slug": "fortlane-partners",
+ "company": "Fortlane Partners",
+ "first_name": "Giovanni",
+ "domain": "fortlane.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza strategica su operazioni di M&A e trasformazioni complesse. Ecco chi contatteremmo per Fortlane Partners.",
+ "market_note": "Fortlane Partners guida i clienti attraverso operazioni e trasformazioni complesse, apprezzata da investitori finanziari e clienti corporate, quindi parleremmo con chi decide su acquisizioni, cessioni e piani di crescita.",
+ "evidence": [
+  {
+   "claim": "Fortlane fa consulenza su strategia, M&A e trasformazioni",
+   "url": "https://www.fortlane.com/",
+   "quote": "Strategy. M&A. Transformation. As trusted advisors, we solve decision makers’ challenges."
+  },
+  {
+   "claim": "guida operazioni e trasformazioni complesse",
+   "url": "https://www.fortlane.com/",
+   "quote": "we guide clients through complex transactions and transformations in Germany, Europe, and beyond"
+  },
+  {
+   "claim": "guida i clienti attraverso operazioni e trasformazioni complesse",
+   "url": "https://www.fortlane.com/",
+   "quote": "we guide clients through complex transactions and transformations in Germany, Europe, and beyond"
+  },
+  {
+   "claim": "serve investitori finanziari e clienti corporate",
+   "url": "https://www.fortlane.com/en/industries/consumer-goods-and-retail.html",
+   "quote": "valued by financial investors and corporate clients alike"
+  },
+  {
+   "claim": "guida operazioni e trasformazioni complesse in Germania ed Europa",
+   "url": "https://www.fortlane.com/",
+   "quote": "we guide clients through complex transactions and transformations in Germany, Europe, and beyond"
+  },
+  {
+   "claim": "clienti sono investitori finanziari e aziende corporate",
+   "url": "https://www.fortlane.com/en/industries/consumer-goods-and-retail.html",
+   "quote": "valued by financial investors and corporate clients alike"
+  },
+  {
+   "claim": "settori serviti",
+   "url": "https://www.fortlane.com/",
+   "quote": "Consumer Goods and Retail Energy and Utilities Healthcare and Life Sciences Industrials and Automotive IT Services and Software"
+  }
+ ],
+ "market": {
+  "count": "7.611",
+  "label": "titolari, CEO e amministratori di aziende italiane strutturate oltre 100 addetti e fondi di private equity",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "private equity",
+   "industria e automotive",
+   "IT e software"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"consumer goods,utilities,hospitals and health care,industrial manufacturing,it services and it consulting,venture capital and private equity principals\"}"
+ }
+}

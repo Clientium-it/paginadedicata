@@ -1,0 +1,70 @@
+{
+ "slug": "alfa-group",
+ "company": "Alfa Group",
+ "first_name": "Dario",
+ "domain": "alfagroup.ai",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Protezione integrata contro frodi e cyber risk per organizzazioni e grandi aziende. Ecco chi contatteremmo per Alfa Group.",
+ "market_note": "Alfa Group protegge organizzazioni e grandi aziende da frodi e rischi cyber, quindi parleremmo con chi decide su sicurezza informatica e antifrode.",
+ "evidence": [
+  {
+   "claim": "Aiuta organizzazioni e grandi aziende contro le frodi",
+   "url": "https://www.alfagroup.ai/",
+   "quote": "Aiutiamo le organizzazioni e le grandi aziende a contrastare le frodi"
+  },
+  {
+   "claim": "Approccio integrato al rischio cyber",
+   "url": "https://www.alfagroup.ai/",
+   "quote": "Un approccio integrato al cyber risk."
+  },
+  {
+   "claim": "Contrastano le frodi per organizzazioni e grandi aziende",
+   "url": "https://www.alfagroup.ai/",
+   "quote": "Aiutiamo le organizzazioni e le grandi aziende a contrastare le frodi"
+  }
+ ],
+ "market": {
+  "count": "1.709",
+  "label": "responsabili IT, CIO e CTO di banche e grandi organizzazioni in Italia da oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "banche e finanza",
+   "pubblica amministrazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"banking,financial services,government administration\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

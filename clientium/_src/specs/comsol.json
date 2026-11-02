@@ -1,0 +1,87 @@
+{
+ "slug": "comsol",
+ "company": "COMSOL",
+ "first_name": "Lara",
+ "domain": "comsol.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software di modellazione e simulazione multifisica per l'ingegneria e la ricerca. Ecco chi contatteremmo per COMSOL.",
+ "market_note": "COMSOL sviluppa software di modellazione e simulazione multifisica usato nei campi dell'ingegneria e della ricerca scientifica, quindi parleremmo con chi guida ricerca e sviluppo nelle aziende tecniche.",
+ "evidence": [
+  {
+   "claim": "Sviluppa software di modellazione e simulazione multifisica per l'ingegneria",
+   "url": "https://www.comsol.com/company",
+   "quote": "we develop mathematical modeling software that drives new breakthroughs in physics and engineering"
+  },
+  {
+   "claim": "Software di simulazione usato in tutti i campi dell'ingegneria, produzione e ricerca",
+   "url": "https://www.comsol.com/products",
+   "quote": "a general-purpose simulation software used in all fields of engineering, manufacturing, and scientific research"
+  },
+  {
+   "claim": "I clienti sono ricercatori e ingegneri di imprese tecniche e laboratori",
+   "url": "https://www.comsol.com/company",
+   "quote": "Our customers are researchers and engineers working for leading technical enterprises, research labs, and universities"
+  },
+  {
+   "claim": "Software di simulazione usato in tutti i campi dell'ingegneria e della ricerca",
+   "url": "https://www.comsol.com/products",
+   "quote": "a general-purpose simulation software used in all fields of engineering, manufacturing, and scientific research"
+  },
+  {
+   "claim": "Capacita di modellazione multifisica",
+   "url": "https://www.comsol.com/products",
+   "quote": "The software brings fully coupled multiphysics and single-physics modeling capabilities"
+  },
+  {
+   "claim": "Settori serviti dichiarati dal sito",
+   "url": "https://www.comsol.com/industries",
+   "quote": "Automotive Electronics Energy Food & Beverage Healthcare Manufacturing Semiconductor Manufacturing Transportation"
+  }
+ ],
+ "market": {
+  "count": "41.430",
+  "label": "direttori, CEO e responsabili di ricerca e sviluppo di aziende manifatturiere e tecniche italiane oltre i 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manifatturiero",
+   "automotive",
+   "elettronica",
+   "energia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"aerospace,automotive,electronics,energy,food and beverage,health care,manufacturing,semiconductor manufacturing,transportation\"}"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "axians-italia",
+ "company": "Axians Italia",
+ "first_name": "Massimo",
+ "domain": "axians.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Partner tecnologico di fiducia per la trasformazione digitale delle aziende. Ecco chi contatteremmo per Axians Italia.",
+ "market_note": "Axians Italia guida le aziende nella digitalizzazione dei sistemi e dei processi chiave con soluzioni cloud, networks e cyber security, quindi parleremmo con chi governa l'infrastruttura IT.",
+ "evidence": [
+  {
+   "claim": "partner tecnologico di fiducia per la trasformazione digitale",
+   "url": "https://www.axians.it/",
+   "quote": "Siamo il partner tecnologico di fiducia che stavi cercando."
+  },
+  {
+   "claim": "guida le aziende nella digitalizzazione dei sistemi e dei processi chiave",
+   "url": "https://www.axians.it/",
+   "quote": "Guidiamo la tua azienda attraverso il percorso di digitalizzazione dei sistemi e dei processi chiave"
+  },
+  {
+   "claim": "ha realizzato le soluzioni multimediali avanzate per il nuovo Headquarters CIA-Conad",
+   "url": "https://www.axians.it/use-case/axians-italia-realizza-le-soluzioni-multimediali-avanzate-per-il-nuovo-headquarters-cia-conad/",
+   "quote": "Axians Italia realizza le soluzioni multimediali avanzate per il nuovo Headquarters CIA-Conad"
+  },
+  {
+   "claim": "opera in ogni mercato con soluzioni IT in tutta Italia",
+   "url": "https://www.axians.it/",
+   "quote": "Progettiamo e implementiamo soluzioni IT in ogni mercato e per qualsiasi tipo di obiettivo."
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

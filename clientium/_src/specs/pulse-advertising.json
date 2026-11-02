@@ -1,0 +1,79 @@
+{
+ "slug": "pulse-advertising",
+ "company": "Pulse Advertising",
+ "first_name": "Paola",
+ "domain": "pulse-advertising.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Servizi social end to end per far vincere i brand sui social media. Ecco chi contatteremmo per Pulse Advertising.",
+ "market_note": "Pulse Advertising offre servizi social end to end per far vincere i brand sui social media, quindi parleremmo con chi decide marketing, brand e comunicazione.",
+ "evidence": [
+  {
+   "claim": "fanno vincere i brand sui social media",
+   "url": "https://www.pulse-advertising.com/",
+   "quote": "We make brands win on social media."
+  },
+  {
+   "claim": "servizi social end to end",
+   "url": "https://www.pulse-advertising.com/services/",
+   "quote": "End-to-end social media services."
+  },
+  {
+   "claim": "servizi social end to end per i brand",
+   "url": "https://www.pulse-advertising.com/services/",
+   "quote": "We deliver end-to-end social media services, to make brands win on social media."
+  },
+  {
+   "claim": "fanno vincere i brand sui social media",
+   "url": "https://www.pulse-advertising.com/",
+   "quote": "We make brands win on social media."
+  },
+  {
+   "claim": "team globale senza limite di zona",
+   "url": "https://www.pulse-advertising.com/",
+   "quote": "Our team is globalised."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori marketing di aziende italiane strutturate dai 50 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "marketing e comunicazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

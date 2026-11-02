@@ -1,0 +1,92 @@
+{
+ "slug": "intarget",
+ "company": "Intarget",
+ "first_name": "Nicola",
+ "domain": "intarget.net",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza lungo tutto il customer journey, dal marketing ai dati alla creatività. Ecco chi contatteremmo per Intarget.",
+ "market_note": "Intarget costruisce valore lungo tutto il customer journey per brand di fashion, retail, finance e manufacturing, quindi parleremmo con chi guida marketing e digitale nelle aziende.",
+ "evidence": [
+  {
+   "claim": "Lavorano lungo tutto il customer journey",
+   "url": "https://www.intarget.net/",
+   "quote": "Costruiamo valore lungo tutto il customer journey"
+  },
+  {
+   "claim": "Integrano marketing, dati e creatività",
+   "url": "https://www.intarget.net/",
+   "quote": "MARKETING SOLUTIONS DATA & TECH SOLUTIONS CREATIVE SOLUTIONS"
+  },
+  {
+   "claim": "Servono brand di fashion, retail, finance, manufacturing e altri settori",
+   "url": "https://www.intarget.net/",
+   "quote": "FASHION & LUXURY - RETAIL - CONSUMER GOODS - FINANCE - MANUFACTURING - PUBLISHING - BEAUTY & PHARMA - TRAVEL"
+  },
+  {
+   "claim": "Lavorano lungo tutto il customer journey",
+   "url": "https://www.intarget.net/",
+   "quote": "Costruiamo valore lungo tutto il customer journey"
+  },
+  {
+   "claim": "Ferragamo tra i loro brand",
+   "url": "https://www.intarget.net/",
+   "quote": "FERRAGAMO Strategia omnicanale su TikTok"
+  },
+  {
+   "claim": "De'Longhi tra i loro brand",
+   "url": "https://www.intarget.net/",
+   "quote": "DE'LONGHI GROUP E-commerce Performance Dashboard"
+  },
+  {
+   "claim": "Servono i settori dichiarati",
+   "url": "https://www.intarget.net/",
+   "quote": "FASHION & LUXURY - RETAIL - CONSUMER GOODS - FINANCE - MANUFACTURING - PUBLISHING - BEAUTY & PHARMA - TRAVEL"
+  }
+ ],
+ "market": {
+  "count": "43.049",
+  "label": "direttori marketing, CEO e titolari di aziende e brand strutturati in Italia, oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "fashion e luxury",
+   "retail e consumer goods",
+   "finance",
+   "manufacturing"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"fashion,retail,consumer goods,financial services,manufacturing,publishing,cosmetics,pharmaceutical,travel\"}"
+ }
+}

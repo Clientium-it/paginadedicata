@@ -1,0 +1,75 @@
+{
+ "slug": "autamarocchi",
+ "company": "Autamarocchi",
+ "first_name": "Alessio",
+ "domain": "autamarocchi.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Trasporto container e FTL in Italia e in Europa, su strada e intermodale. Ecco chi contatteremmo per Autamarocchi.",
+ "market_note": "Autamarocchi opera nei principali porti e centri intermodali in Europa per le linee di navigazione, gli spedizionieri e gli operatori logistici, quindi parleremmo con chi guida logistica e trasporti.",
+ "evidence": [
+  {
+   "claim": "Trasporto di Container e FTL in Italia e in Europa, su strada e intermodale",
+   "url": "https://www.autamarocchi.com/",
+   "quote": "Il Core Business è il trasporto di Container e FTL in Italia ed in Europa, su strada ed intermodale."
+  },
+  {
+   "claim": "Opera nei porti e centri intermodali europei per linee di navigazione, spedizionieri e operatori logistici",
+   "url": "https://www.autamarocchi.com/servizi/trasporto-container/",
+   "quote": "Operiamo in tutti i principali porti e centri intermodali in Europa, per tutte le linee di navigazione, gli Spedizionieri e gli Operatori Logistici."
+  },
+  {
+   "claim": "Protagonisti nelle supply chain globali al servizio dei maggiori Carrier e Global Forwarders",
+   "url": "https://www.autamarocchi.com/",
+   "quote": "Protagonisti nelle supply chain globali al servizio dei maggiori Carrier e Global Forwarders"
+  },
+  {
+   "claim": "Al servizio delle maggiori Compagnie di Navigazione e di Leasing",
+   "url": "https://www.autamarocchi.com/servizi/terminal/",
+   "quote": "Al servizio delle maggiori Compagnie di Navigazione e di Leasing"
+  }
+ ],
+ "market": {
+  "count": "3.312",
+  "label": "direttori, CEO e titolari di linee di navigazione, spedizionieri e operatori logistici strutturati",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "linee di navigazione",
+   "spedizionieri e operatori logistici"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"logistics,maritime transportation\"}"
+ }
+}

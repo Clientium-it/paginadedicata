@@ -1,0 +1,79 @@
+{
+ "slug": "inaz",
+ "company": "Inaz",
+ "first_name": "Massimo",
+ "domain": "inaz.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Gestionali e software per aziende e professionisti, con l'amministrazione del personale. Ecco chi contatteremmo per Inaz.",
+ "market_note": "Inaz offre gestionali e software per aziende e professionisti nell'amministrazione del personale e nella gestione HR, quindi parleremmo con chi decide su risorse umane e organizzazione.",
+ "evidence": [
+  {
+   "claim": "Gestionali e software per aziende e professionisti",
+   "url": "https://www.inaz.it/",
+   "quote": "Gestionali e software per aziende e professionisti"
+  },
+  {
+   "claim": "soluzioni e software per aziende, PA e CDL",
+   "url": "https://www.inaz.it/software-e-soluzioni/",
+   "quote": "Soluzioni e software per aziende, PA e CDL"
+  },
+  {
+   "claim": "gestionale per le risorse umane",
+   "url": "https://www.inaz.it/software-e-soluzioni/gestione-hr/",
+   "quote": "Gestionale per le Risorse Umane"
+  },
+  {
+   "claim": "amministrazione del personale",
+   "url": "https://www.inaz.it/software-e-soluzioni/amministrazione-del-personale/",
+   "quote": "Amministrazione del Personale Software Paghe Collocamento"
+  },
+  {
+   "claim": "vende ad aziende, professionisti, PA e consulenti del lavoro",
+   "url": "https://www.inaz.it/software-e-soluzioni/",
+   "quote": "Soluzioni e software per aziende, PA e CDL"
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori risorse umane di aziende italiane strutturate dai 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "amministrazione del personale e HR"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

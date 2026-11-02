@@ -1,0 +1,74 @@
+{
+ "slug": "sgb-humangest",
+ "company": "SGB Humangest",
+ "first_name": "Andrea",
+ "domain": "sgbholding.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Recruitment, formazione e gestione delle risorse umane per le aziende. Ecco chi contatteremmo per SGB Humangest.",
+ "market_note": "SGB Humangest fornisce recruitment, formazione e gestione delle risorse umane alle aziende clienti, quindi parleremmo con chi in azienda decide su assunzioni, formazione e gestione del personale.",
+ "evidence": [
+  {
+   "claim": "Si occupa di recruitment, formazione e gestione delle risorse umane",
+   "url": "https://sgbholding.it/",
+   "quote": "recruitment, formazione, e gestione delle risorse umane"
+  },
+  {
+   "claim": "Serve aziende clienti",
+   "url": "https://sgbholding.it/servizi/agenzia-per-il-lavoro/",
+   "quote": "rispondendo puntualmente alle esigenze dei aziende clienti"
+  },
+  {
+   "claim": "È tra i principali player italiani in recruitment, formazione e HR",
+   "url": "https://sgbholding.it/",
+   "quote": "uno dei principali player italiani in recruitment, formazione, e gestione delle risorse umane"
+  },
+  {
+   "claim": "Opera in tutta Italia",
+   "url": "https://sgbholding.it/servizi/global-outsourcing/",
+   "quote": "opera su tutto il territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate di medie e grandi dimensioni",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

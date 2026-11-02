@@ -1,0 +1,86 @@
+{
+ "slug": "hello",
+ "company": "Hello",
+ "first_name": "Sara",
+ "domain": "thisishello.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Agenzia creativa che aiuta i brand a guadagnare l'attenzione delle persone. Ecco chi contatteremmo per Hello.",
+ "market_note": "Hello è un'agenzia creativa che aiuta i brand a guadagnare l'attenzione delle persone, quindi parleremmo con chi guida marketing e comunicazione nelle grandi aziende.",
+ "evidence": [
+  {
+   "claim": "è un'agenzia creativa",
+   "url": "https://thisishello.com/it/chi-siamo/",
+   "quote": "Siamo un’agenzia creativa, parte del gruppo Plus Company."
+  },
+  {
+   "claim": "aiuta i brand a guadagnare l'attenzione delle persone",
+   "url": "https://thisishello.com/it/chi-siamo/",
+   "quote": "Aiutiamo i brand a guadagnare l’attenzione delle persone parlando la loro stessa lingua."
+  },
+  {
+   "claim": "aiuta i brand a guadagnare l'attenzione delle persone",
+   "url": "https://thisishello.com/it/chi-siamo/",
+   "quote": "Aiutiamo i brand a guadagnare l’attenzione delle persone parlando la loro stessa lingua."
+  },
+  {
+   "claim": "aiuta i brand a guadagnare l'attenzione parlando la loro stessa lingua",
+   "url": "https://thisishello.com/it/chi-siamo/",
+   "quote": "Aiutiamo i brand a guadagnare l’attenzione delle persone parlando la loro stessa lingua."
+  },
+  {
+   "claim": "settori dei clienti serviti",
+   "url": "https://thisishello.com/it/case-studies/",
+   "quote": "Banking Entertainment Fashion Gaming Payment Sport Travel"
+  },
+  {
+   "claim": "mercato servito Italia",
+   "url": "https://thisishello.com/it/case-studies/",
+   "quote": "Mercati Vedi tutti Italia"
+  }
+ ],
+ "market": {
+  "count": "15.460",
+  "label": "direttori marketing e comunicazione, CEO e titolari di grandi brand e aziende italiane",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "Fashion",
+   "Entertainment",
+   "Travel"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"banking,entertainment providers,fashion,gaming,payments,sports,travel\"}"
+ }
+}

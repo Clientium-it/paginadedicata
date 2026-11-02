@@ -1,0 +1,96 @@
+{
+ "slug": "cadmatic",
+ "company": "Cadmatic",
+ "first_name": "Gianluca",
+ "domain": "cadmatic.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software di progettazione ed engineering per la cantieristica navale e l'industria di processo. Ecco chi contatteremmo per Cadmatic.",
+ "market_note": "Cadmatic sviluppa software di engineering unificato per la cantieristica navale e le industrie di processo, quindi parleremmo con chi decide su progettazione e ingegneria nelle aziende industriali strutturate.",
+ "evidence": [
+  {
+   "claim": "Software di progettazione ed engineering per la cantieristica navale e l'industria di processo",
+   "url": "https://cadmatic.com/en/",
+   "quote": "Ship and industrial plant engineering software"
+  },
+  {
+   "claim": "Software di engineering unificato per la cantieristica navale e le industrie di processo",
+   "url": "https://cadmatic.com/en/",
+   "quote": "unified engineering software solutions for the shipbuilding and process industries"
+  },
+  {
+   "claim": "Software di progettazione ed engineering per cantieristica navale e industria di processo",
+   "url": "https://cadmatic.com/en/",
+   "quote": "unified engineering software solutions for the shipbuilding and process industries"
+  },
+  {
+   "claim": "Serve la cantieristica navale e le industrie di processo",
+   "url": "https://cadmatic.com/en/",
+   "quote": "unified engineering software solutions for the shipbuilding and process industries"
+  },
+  {
+   "claim": "Serve il settore oil and gas",
+   "url": "https://cadmatic.com/en/",
+   "quote": "Precise tools for oil and gas plants"
+  },
+  {
+   "claim": "Serve il settore chimico e farmaceutico",
+   "url": "https://cadmatic.com/en/",
+   "quote": "Chemical & Pharma Design it, run it, stay in control"
+  },
+  {
+   "claim": "Serve il settore power and energy",
+   "url": "https://cadmatic.com/en/",
+   "quote": "Efficient power and energy infrastructure"
+  },
+  {
+   "claim": "Serve il settore mining",
+   "url": "https://cadmatic.com/en/",
+   "quote": "Keep complex mining projects on track"
+  }
+ ],
+ "market": {
+  "count": "11.132",
+  "label": "direttori tecnici, CEO e responsabili engineering di aziende industriali e cantieri navali italiani oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "cantieristica navale",
+   "industria di processo",
+   "oil and gas"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"shipbuilding,oil and gas,chemical,pharmaceutical,energy,mining\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

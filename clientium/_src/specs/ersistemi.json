@@ -1,0 +1,75 @@
+{
+ "slug": "ersistemi",
+ "company": "ERsistemi",
+ "first_name": "Cristiano",
+ "domain": "ersistemi.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "System integrator per l'automazione di processo nel life science. Ecco chi contatteremmo per ERsistemi.",
+ "market_note": "ERsistemi è un system integrator che porta soluzioni di automazione di processo alle aziende manifatturiere del life science, quindi parleremmo con chi decide su impianti, controllo e automazione.",
+ "evidence": [
+  {
+   "claim": "ERsistemi fornisce soluzioni di automazione e informazione ad aziende manifatturiere",
+   "url": "https://www.ersistemi.it/",
+   "quote": "delivering automation and information solutions to manufacturing companies globally"
+  },
+  {
+   "claim": "ERsistemi è un system integrator di automazione di processo per il life science",
+   "url": "https://www.ersistemi.it/",
+   "quote": "ERsistemi is a System Integrator that provides process automation solutions which meet the needs of virtually any enterprise in the life science industry"
+  },
+  {
+   "claim": "sviluppano soluzioni di automazione di processo per il life science",
+   "url": "https://www.ersistemi.it/",
+   "quote": "provides process automation solutions which meet the needs of virtually any enterprise in the life science industry"
+  },
+  {
+   "claim": "settore farmaceutico e life science servito",
+   "url": "https://www.ersistemi.it/",
+   "quote": "data integrity is trend topic in the pharmaceutical industry"
+  }
+ ],
+ "market": {
+  "count": "4.286",
+  "label": "titolari, CEO e direttori di aziende del settore farmaceutico e life science oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "farmaceutico",
+   "life science"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"pharmaceutical manufacturing,life science\"}"
+ }
+}

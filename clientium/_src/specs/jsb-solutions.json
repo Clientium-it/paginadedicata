@@ -1,0 +1,76 @@
+{
+ "slug": "jsb-solutions",
+ "company": "JSB Solutions",
+ "first_name": "Valentina",
+ "domain": "jsb-solutions.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza, gestione di studi clinici e sviluppo software per il settore Life Science. Ecco chi contatteremmo per JSB Solutions.",
+ "market_note": "JSB Solutions affianca aziende farmaceutiche, biomedicali, biotecnologiche, laboratori e organismi di ricerca con consulenza e studi clinici nel Life Science, quindi parleremmo con chi guida direzione e operazioni.",
+ "evidence": [
+  {
+   "claim": "Offre consulenza, gestione di studi clinici e sviluppo software",
+   "url": "https://www.jsb-solutions.com/",
+   "quote": "offriamo consulenza, gestione di studi clinici e sviluppo software"
+  },
+  {
+   "claim": "Serve aziende farmaceutiche, biomedicali, biotecnologiche e organismi di ricerca",
+   "url": "https://www.jsb-solutions.com/servizi/cro",
+   "quote": "La nostra CRO affianca aziende farmaceutiche, biomedicali, biotecnologiche, laboratori e organismi di ricerca"
+  },
+  {
+   "claim": "Affianca aziende farmaceutiche e biotecnologiche negli studi clinici",
+   "url": "https://www.jsb-solutions.com/servizi/cro",
+   "quote": "La nostra CRO affianca aziende farmaceutiche, biomedicali, biotecnologiche, laboratori e organismi di ricerca"
+  },
+  {
+   "claim": "Clienti nel settore farmaceutico e biotecnologico",
+   "url": "https://www.jsb-solutions.com/servizi/cro",
+   "quote": "La nostra CRO affianca aziende farmaceutiche, biomedicali, biotecnologiche, laboratori e organismi di ricerca"
+  }
+ ],
+ "market": {
+  "count": "5.741",
+  "label": "titolari, CEO e direttori di aziende farmaceutiche, biotecnologiche e di dispositivi medici in Italia da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "farmaceutico",
+   "biotecnologie",
+   "dispositivi medici"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"pharmaceutical,biotechnology,medical device\"}"
+ }
+}

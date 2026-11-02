@@ -1,0 +1,90 @@
+{
+ "slug": "expandi-group",
+ "company": "Expandi Group",
+ "first_name": "Giambattista",
+ "domain": "expandigroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Dati, piattaforme e media B2B per brand IT e agenzie di marketing. Ecco chi contatteremmo per Expandi Group.",
+ "market_note": "Expandi Group fornisce dati, piattaforme e media B2B a brand IT e agenzie di marketing, quindi parleremmo con i responsabili marketing e commerciali delle aziende in target.",
+ "evidence": [
+  {
+   "claim": "dati, piattaforme e media B2B",
+   "url": "https://expandigroup.com/",
+   "quote": "Expandi, your global partner for B2B data, platforms and media"
+  },
+  {
+   "claim": "brand IT e agenzie di marketing",
+   "url": "https://expandigroup.com/clients.php",
+   "quote": "Global IT Brands and agencies already use our unique data, tech platforms and services"
+  },
+  {
+   "claim": "dati, piattaforme e media B2B",
+   "url": "https://expandigroup.com/",
+   "quote": "Expandi, your global partner for B2B data, platforms and media"
+  },
+  {
+   "claim": "serve brand IT e agenzie",
+   "url": "https://expandigroup.com/clients.php",
+   "quote": "Global IT Brands and agencies already use our unique data, tech platforms and services"
+  },
+  {
+   "claim": "dati, piattaforme e media B2B",
+   "url": "https://expandigroup.com/",
+   "quote": "Expandi, your global partner for B2B data, platforms and media"
+  },
+  {
+   "claim": "ai brand IT e alle agenzie",
+   "url": "https://expandigroup.com/clients.php",
+   "quote": "Global IT Brands and agencies already use our unique data, tech platforms and services"
+  },
+  {
+   "claim": "clienti sono brand IT e agenzie",
+   "url": "https://expandigroup.com/clients.php",
+   "quote": "Global IT Brands and agencies already use our unique data, tech platforms and services"
+  }
+ ],
+ "market": {
+  "count": "10.213",
+  "label": "direttori, titolari e CEO di aziende IT e agenzie di marketing in Italia oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "IT",
+   "marketing"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"information technology,marketing\"}"
+ }
+}

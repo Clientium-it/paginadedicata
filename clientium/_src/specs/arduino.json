@@ -1,0 +1,80 @@
+{
+ "slug": "arduino",
+ "company": "Arduino",
+ "first_name": "Francesco",
+ "domain": "arduino.cc",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma hardware e software per professionisti in ogni settore. Ecco chi contatteremmo per Arduino.",
+ "market_note": "Arduino offre una piattaforma hardware e software e soluzioni di livello industriale per professionisti in ogni settore, quindi parleremmo con chi guida le scelte tecnologiche e di prodotto nelle aziende.",
+ "evidence": [
+  {
+   "claim": "piattaforma hardware e software",
+   "url": "https://www.arduino.cc/",
+   "quote": "The easy-to-use hardware and software platform"
+  },
+  {
+   "claim": "per professionisti in ogni settore",
+   "url": "https://www.arduino.cc/",
+   "quote": "Cutting-edge, out-of-the-box solutions for professionals in any field"
+  },
+  {
+   "claim": "soluzioni di livello industriale",
+   "url": "https://www.arduino.cc/pro/case-studies-snaptron/",
+   "quote": "Arduino Pro offers a wide range of industrial-grade offerings for high-performance, reliable, and versatile solutions"
+  },
+  {
+   "claim": "soluzioni pronte all'uso per professionisti in ogni settore",
+   "url": "https://www.arduino.cc/",
+   "quote": "Cutting-edge, out-of-the-box solutions for professionals in any field"
+  },
+  {
+   "claim": "si rivolge a system integrator, product manufacturer e aziende B2B",
+   "url": "https://www.arduino.cc/pro/contact-us/",
+   "quote": "System Integrator Product Manufacturer B2B Company"
+  }
+ ],
+ "market": {
+  "count": "11.169",
+  "label": "CTO e responsabili tecnici di aziende e produttori con oltre 50 addetti in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "product manufacturer",
+   "system integrator"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

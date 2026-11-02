@@ -1,0 +1,86 @@
+{
+ "slug": "star7",
+ "company": "STAR7",
+ "first_name": "Linda",
+ "domain": "star-7.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Da più di vent'anni il contenuto e l'informazione di prodotto per i gruppi industriali. Ecco chi contatteremmo per STAR7.",
+ "market_note": "STAR7 segue i contenuti e l'informazione di prodotto dei gruppi industriali italiani e internazionali, dalla progettazione al post vendita, quindi parleremmo con chi guida documentazione tecnica, ingegneria e servizi linguistici.",
+ "evidence": [
+  {
+   "claim": "Il loro prodotto è il contenuto",
+   "url": "https://www.star-7.com/i-nostri-servizi",
+   "quote": "il nostro prodotto è il contenuto"
+  },
+  {
+   "claim": "Affiancano i grandi gruppi industriali",
+   "url": "https://www.star-7.com/i-nostri-servizi",
+   "quote": "i più importanti gruppi industriali italiani e internazionali"
+  },
+  {
+   "claim": "Seguono il prodotto dalla progettazione al post vendita",
+   "url": "https://www.star-7.com/i-nostri-servizi",
+   "quote": "affiancando l’attività industriale dei clienti in ciascuna fase produttiva, dalla progettazione al post vendita"
+  },
+  {
+   "claim": "Lavorano sul ciclo di vita dell'informazione di prodotto",
+   "url": "https://www.star-7.com/azienda/integrale7",
+   "quote": "ciclo di vita dell’informazione di prodotto"
+  },
+  {
+   "claim": "STAR7 Engineering affianca i grandi gruppi industriali nella progettazione",
+   "url": "https://www.star-7.com/i-nostri-servizi",
+   "quote": "STAR7 Engineering affianca nella progettazione e nella gestione dei processi produttivi i più importanti gruppi industriali italiani e internazionali"
+  },
+  {
+   "claim": "Settori industriali serviti dichiarati dal sito",
+   "url": "https://www.star-7.com/",
+   "quote": "Aerospace & Defence Agriculture & Construction Equipment Air conditioning & Household appliances Automotive & Transportation Engineering & Machine Tools Fashion & Retail Finance Food & Beverage"
+  }
+ ],
+ "market": {
+  "count": "14.410",
+  "label": "titolari, CEO e direttori di gruppi e aziende industriali italiane con oltre cento addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "automotive",
+   "aerospace",
+   "manifattura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"automotive,aerospace,machinery manufacturing,food and beverage,life science,fashion\"}"
+ }
+}

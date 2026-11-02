@@ -1,0 +1,85 @@
+{
+ "slug": "sovendus",
+ "company": "Sovendus",
+ "first_name": "Gregory",
+ "domain": "sovendus.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Connette i marchi con i clienti che acquistano per generare nuovi clienti e ricavi. Ecco chi contatteremmo per Sovendus.",
+ "market_note": "Sovendus è la piattaforma europea di brand partnership che connette i marchi con acquirenti pronti a comprare, quindi parleremmo con chi guida marketing e acquisizione clienti nei brand online.",
+ "evidence": [
+  {
+   "claim": "Connette i marchi con i clienti che acquistano",
+   "url": "https://web.sovendus.com/",
+   "quote": "We connect your brand with customers who buy."
+  },
+  {
+   "claim": "genera nuovi clienti e ricavi",
+   "url": "https://web.sovendus.com/",
+   "quote": "gain new customers and incremental revenue."
+  },
+  {
+   "claim": "piattaforma di brand partnership",
+   "url": "https://web.sovendus.com/contact/demo-tour",
+   "quote": "Reach new customers and increase revenue through our brand partnership network."
+  },
+  {
+   "claim": "connette i marchi con acquirenti pronti a comprare",
+   "url": "https://web.sovendus.com/",
+   "quote": "We connect 3,000+ tier-1 brands with 90 million ready-to-buy shoppers every month."
+  },
+  {
+   "claim": "oltre 3.000 marchi con 90 milioni di acquirenti pronti a comprare ogni mese",
+   "url": "https://web.sovendus.com/",
+   "quote": "We connect 3,000+ tier-1 brands with 90 million ready-to-buy shoppers every month."
+  },
+  {
+   "claim": "vende a retailer e negozi online",
+   "url": "https://web.sovendus.com/contact/demo-tour",
+   "quote": "See why top retailers choose Sovendus to grow their revenue at their Thank-you page."
+  }
+ ],
+ "market": {
+  "count": "10.733",
+  "label": "direttori marketing, CEO e responsabili acquisizione clienti di brand e retailer online in Italia da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "e-commerce",
+   "retail",
+   "oltre 50 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"e-commerce,retail\"}"
+ }
+}

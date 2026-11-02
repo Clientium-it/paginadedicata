@@ -1,0 +1,91 @@
+{
+ "slug": "ready2use",
+ "company": "Ready2Use",
+ "first_name": "Antonio",
+ "domain": "r2u.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni informatiche e progetti di trasformazione digitale per le aziende. Ecco chi contatteremmo per Ready2Use.",
+ "market_note": "Ready2Use sviluppa soluzioni informatiche, IT operations e cyber security per le aziende, quindi parleremmo con chi decide su infrastruttura IT, sicurezza e trasformazione digitale.",
+ "evidence": [
+  {
+   "claim": "Fornisce soluzioni informatiche per il business",
+   "url": "https://r2u.it/",
+   "quote": "Soluzioni informatiche per il tuo Business"
+  },
+  {
+   "claim": "Gestisce progetti di trasformazione digitale",
+   "url": "https://r2u.it/",
+   "quote": "gestire progetti di trasformazione digitale partendo dalla complessità"
+  },
+  {
+   "claim": "Le aree di business sono application development, IT operations e cyber security",
+   "url": "https://r2u.it/",
+   "quote": "Application development & Data Management IT OPERATIONS CYBER SECURITY"
+  },
+  {
+   "claim": "Le aree di business sono application development, IT operations e cyber security",
+   "url": "https://r2u.it/",
+   "quote": "Application development & Data Management IT OPERATIONS CYBER SECURITY"
+  },
+  {
+   "claim": "Serve il mercato IT delle Telco",
+   "url": "https://r2u.it/chi-siamo/",
+   "quote": "L’azienda entra nel mercato IT delle Telco"
+  },
+  {
+   "claim": "Sviluppa soluzioni per logistica, utilities e water management",
+   "url": "https://r2u.it/chi-siamo/",
+   "quote": "R2U sviluppa nuove soluzioni per la Logistica – Utilities – Water Management"
+  },
+  {
+   "claim": "Ha quattro sedi in Italia",
+   "url": "https://r2u.it/",
+   "quote": "4 SEDI IN ITALIA"
+  }
+ ],
+ "market": {
+  "count": "1.307",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "telco",
+   "utilities",
+   "logistica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"telecommunications,utilities,logistics,water\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

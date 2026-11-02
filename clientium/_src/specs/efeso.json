@@ -1,0 +1,81 @@
+{
+ "slug": "efeso",
+ "company": "EFESO",
+ "first_name": "Admir",
+ "domain": "efeso.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Strategia operativa e miglioramento delle performance al servizio delle aziende industriali. Ecco chi contatteremmo per EFESO.",
+ "market_note": "EFESO è il player globale nella strategia operativa e nel miglioramento delle performance per aziende industriali di molti settori, quindi parleremmo con chi guida le operations e i progetti di trasformazione.",
+ "evidence": [
+  {
+   "claim": "Si occupa di strategia operativa e miglioramento delle performance",
+   "url": "https://www.efeso.com/",
+   "quote": "leading global pure player in operations strategy and performance improvement"
+  },
+  {
+   "claim": "Lavora con clienti di molti settori sulla strategia operativa e sulle performance",
+   "url": "https://www.efeso.com/industries/",
+   "quote": "EFESO partners with clients across industries to deliver breakthrough results in operations strategy and performance improvement"
+  },
+  {
+   "claim": "È il player globale in strategia operativa e miglioramento delle performance",
+   "url": "https://www.efeso.com/",
+   "quote": "leading global pure player in operations strategy and performance improvement"
+  },
+  {
+   "claim": "Ha oltre 30 uffici nel mondo",
+   "url": "https://www.efeso.com/",
+   "quote": "30 Worldwide EFESO offices check our global presence"
+  },
+  {
+   "claim": "Serve settori come aerospace, automotive, chimica, consumer goods e life sciences",
+   "url": "https://www.efeso.com/industries/",
+   "quote": "From aerospace & defense, automotive, and chemicals to consumer goods, life sciences, energy and more"
+  }
+ ],
+ "market": {
+  "count": "18.780",
+  "label": "titolari, CEO e direttori operations di grandi aziende industriali italiane oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "industria e manifattura",
+   "aerospace, automotive, chimica",
+   "consumer goods e life sciences"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"aerospace,automotive,chemical manufacturing,consumer goods,food and beverage manufacturing,industrial manufacturing,life science,oil and gas,retail,logistics\"}"
+ }
+}

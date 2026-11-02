@@ -1,0 +1,102 @@
+{
+ "slug": "aton",
+ "company": "Aton",
+ "first_name": "Stefano",
+ "domain": "aton.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Accompagnano le aziende verso la trasformazione digitale di logistica, distribuzione e vendita. Ecco chi contatteremmo per Aton.",
+ "market_note": "Aton sviluppa soluzioni per la trasformazione digitale delle vendite omnichannel e della supply chain di aziende del largo consumo, retail, fashion ed energia, quindi parleremmo con chi guida vendite e IT.",
+ "evidence": [
+  {
+   "claim": "trasformazione digitale di logistica, distribuzione e vendita",
+   "url": "https://aton.com/",
+   "quote": "Accompagniamo la tua azienda verso la trasformazione digitale sostenibile dei processi di logistica, distribuzione e vendita"
+  },
+  {
+   "claim": "sviluppa soluzioni per le vendite omnichannel e la supply chain",
+   "url": "https://aton.com/chi-siamo/",
+   "quote": "Sviluppiamo soluzioni per la trasformazione digitale sostenibile delle vendite omnichannel e dei processi di tracciabilità e supply chain aziendale."
+  },
+  {
+   "claim": "serve aziende del largo consumo",
+   "url": "https://aton.com/",
+   "quote": "a fianco di aziende che producono, distribuiscono e commercializzano beni di largo consumo"
+  },
+  {
+   "claim": "serve il retail e la GDO",
+   "url": "https://aton.com/",
+   "quote": "Ci rivolgiamo alle aziende della grande distribuzione organizzata (GDO) e specializzata (GDS)"
+  },
+  {
+   "claim": "serve il fashion",
+   "url": "https://aton.com/",
+   "quote": "Collaboriamo con le principali aziende italiane ed internazionali di abbigliamento e calzature"
+  },
+  {
+   "claim": "serve l'energia e la distribuzione GPL",
+   "url": "https://aton.com/",
+   "quote": "Ci affianchiamo alle principali aziende italiane e internazionali che distribuiscono GPL, gas tecnici e medicali"
+  },
+  {
+   "claim": "sviluppa soluzioni per le vendite omnichannel e la supply chain",
+   "url": "https://aton.com/chi-siamo/",
+   "quote": "Sviluppiamo soluzioni per la trasformazione digitale sostenibile delle vendite omnichannel e dei processi di tracciabilità e supply chain aziendale."
+  },
+  {
+   "claim": "opera nel largo consumo",
+   "url": "https://aton.com/",
+   "quote": "a fianco di aziende che producono, distribuiscono e commercializzano beni di largo consumo"
+  },
+  {
+   "claim": "serve contesti industriali diversi",
+   "url": "https://aton.com/",
+   "quote": "dal settore metallurgico alla produzione di materie plastiche, dal settore automobilistico all’aerospaziale"
+  }
+ ],
+ "market": {
+  "count": "29.247",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate del largo consumo, retail, fashion, energia e industria oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "largo consumo",
+   "retail",
+   "fashion",
+   "energia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"consumer goods,food and beverage,retail,fashion,oil and gas,manufacturing,automotive,aerospace\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

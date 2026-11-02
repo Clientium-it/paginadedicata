@@ -1,0 +1,74 @@
+{
+ "slug": "fiven",
+ "company": "Fiven",
+ "first_name": "Luigi",
+ "domain": "fiven.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Esperienze ridefinite attraverso design e tecnologia per i corporate. Ecco chi contatteremmo per Fiven.",
+ "market_note": "Fiven affianca i corporate con design e tecnologia per ridefinire le esperienze attraverso innovazione applicata, quindi parleremmo con chi guida le direzioni digitali e di trasformazione.",
+ "evidence": [
+  {
+   "claim": "Ridefiniscono le esperienze attraverso design e tecnologia",
+   "url": "https://www.fiven.eu/",
+   "quote": "We re-define experiences through design and technology."
+  },
+  {
+   "claim": "Lavorano con i corporate attraverso innovazione applicata",
+   "url": "https://www.fiven.eu/",
+   "quote": "We partner with corporates and people within corporates to re-define the stakeholders’ experience through applied innovation"
+  },
+  {
+   "claim": "Lavorano all'intersezione tra tecnologia e design",
+   "url": "https://www.fiven.eu/about",
+   "quote": "We build innovation working at the intersection of technology and design"
+  },
+  {
+   "claim": "Guidano i corporate verso i loro obiettivi",
+   "url": "https://www.fiven.eu/about",
+   "quote": "driving corporates towards their communicative and business goals"
+  }
+ ],
+ "market": {
+  "count": "117.349",
+  "label": "titolari, CEO e direttori di grandi aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

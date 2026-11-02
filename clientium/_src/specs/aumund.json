@@ -1,0 +1,81 @@
+{
+ "slug": "aumund",
+ "company": "AUMUND",
+ "first_name": "Enrico",
+ "domain": "aumund.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Tecnologie di trasporto e stoccaggio per materiali sfusi nelle grandi industrie di processo. Ecco chi contatteremmo per AUMUND.",
+ "market_note": "AUMUND progetta tecnologie di trasporto e stoccaggio per le industrie del cemento, minerario, metallurgico e chimico, quindi parleremmo con chi decide su impianti e nuove linee di produzione.",
+ "evidence": [
+  {
+   "claim": "Trasporto e stoccaggio di materiali sfusi",
+   "url": "https://aumund.com/en/industries/",
+   "quote": "conveying and storage of bulk materials is required"
+  },
+  {
+   "claim": "Serve le industrie del cemento, minerali, metallurgia, fonderie, energia e chimica",
+   "url": "https://aumund.com/en/industries/",
+   "quote": "the cement, lime and gypsum industry, to mining and minerals, metallurgy, foundries, power, the chemicals industry"
+  },
+  {
+   "claim": "Progetta per cemento, minerario e metallurgico",
+   "url": "https://aumund.com/en/industries/",
+   "quote": "the cement, lime and gypsum industry, to mining and minerals, metallurgy, foundries, power, the chemicals industry"
+  },
+  {
+   "claim": "Settori clienti dichiarati: minerario, chimico, energia",
+   "url": "https://aumund.com/en/industries/",
+   "quote": "the cement, lime and gypsum industry, to mining and minerals, metallurgy, foundries, power, the chemicals industry"
+  },
+  {
+   "claim": "Serve porti e terminal",
+   "url": "https://aumund.com/en/industries/",
+   "quote": "such as for shiploading or unloading in ports"
+  }
+ ],
+ "market": {
+  "count": "3.712",
+  "label": "direttori e titolari di aziende industriali italiane strutturate dei settori cemento, minerali e metallurgia",
+  "chips": [
+   "tutta Italia",
+   "aziende strutturate",
+   "cemento e minerali",
+   "metallurgia",
+   "porti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"mining,chemical manufacturing,ports and harbors,utilities\"}"
+ }
+}

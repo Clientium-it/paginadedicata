@@ -1,0 +1,81 @@
+{
+ "slug": "atlante",
+ "company": "Atlante",
+ "first_name": "Ian",
+ "domain": "atlantefood.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni su misura per il mercato food nella grande distribuzione da oltre 30 anni. Ecco chi contatteremmo per Atlante.",
+ "market_note": "Atlante sviluppa private label e distribuisce brand selezionati per la grande distribuzione e il food service, quindi parleremmo con chi guida acquisti e sviluppo prodotto nelle insegne.",
+ "evidence": [
+  {
+   "claim": "Atlante crea soluzioni su misura per il mercato food nella grande distribuzione da oltre 30 anni",
+   "url": "https://atlantefood.com/",
+   "quote": "Da oltre 30 anni diamo vita a soluzioni su misura per il mercato food nella grande distribuzione"
+  },
+  {
+   "claim": "sviluppa private label e progetta linee a marchio pronte per lo scaffale",
+   "url": "https://atlantefood.com/soluzioni/",
+   "quote": "Sviluppiamo private label, progettiamo linee a marchio e offriamo prodotti pronti per lo scaffale."
+  },
+  {
+   "claim": "affianca operatori del fuori casa e il food service",
+   "url": "https://atlantefood.com/",
+   "quote": "Affianchiamo distributori specializzati e operatori del fuori casa con soluzioni e prodotti pensati per rendere il Food Service più efficiente e competitivo."
+  },
+  {
+   "claim": "sviluppa private label e progetta linee a marchio pronte per lo scaffale",
+   "url": "https://atlantefood.com/soluzioni/",
+   "quote": "Sviluppiamo private label, progettiamo linee a marchio e offriamo prodotti pronti per lo scaffale."
+  },
+  {
+   "claim": "offre ai buyer brand selezionati",
+   "url": "https://atlantefood.com/soluzioni/",
+   "quote": "Offriamo ai buyer brand selezionati, e ai partner internazionali un accesso guidato ai mercati chiave."
+  }
+ ],
+ "market": {
+  "count": "3.892",
+  "label": "titolari, CEO e direttori acquisti di insegne e distributori food in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "grande distribuzione",
+   "food service",
+   "distribuzione specializzata"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail groceries,food and beverage services,wholesale\"}"
+ }
+}

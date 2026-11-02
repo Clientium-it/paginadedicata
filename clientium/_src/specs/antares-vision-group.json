@@ -1,0 +1,76 @@
+{
+ "slug": "antares-vision-group",
+ "company": "Antares Vision Group",
+ "first_name": "Silvia",
+ "domain": "antaresvisiongroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni di ispezione e tracciabilità per qualità dei prodotti e trasparenza della filiera. Ecco chi contatteremmo per Antares Vision Group.",
+ "market_note": "Antares Vision Group fornisce tecnologie di ispezione e tracciabilità ad aziende farmaceutiche, alimentari, delle bevande e cosmetiche, quindi parleremmo con chi guida qualità, produzione e supply chain.",
+ "evidence": [
+  {
+   "claim": "Fornisce tecnologie per la qualita del prodotto e la trasparenza della filiera",
+   "url": "https://antaresvisiongroup.com/",
+   "quote": "Antares Vision Group delivers innovative technologies and solutions to ensure product and packaging quality, along with complete supply chain transparency."
+  },
+  {
+   "claim": "Serve i settori farmaceutico, alimentare, bevande e cosmetico",
+   "url": "https://antaresvisiongroup.com/diamind-solutions/inspection/",
+   "quote": "designed to meet the needs of the pharmaceutical, food, beverage, cosmetic and chemical industries"
+  },
+  {
+   "claim": "Leader mondiale nelle soluzioni di track and trace per prodotti farmaceutici",
+   "url": "https://antaresvisiongroup.com/about-us/",
+   "quote": "the world leader in track and trace solutions for pharmaceutical products"
+  },
+  {
+   "claim": "Clienti nei settori farmaceutico, alimentare, bevande, cosmetico e chimico",
+   "url": "https://antaresvisiongroup.com/diamind-solutions/inspection/",
+   "quote": "designed to meet the needs of the pharmaceutical, food, beverage, cosmetic and chemical industries"
+  }
+ ],
+ "market": {
+  "count": "8.405",
+  "label": "direttori qualita, produzione e supply chain di aziende farmaceutiche, alimentari e cosmetiche con oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "farmaceutico",
+   "food & beverage",
+   "cosmetica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"pharmaceutical,food and beverage,cosmetics,chemical,medical device\"}"
+ }
+}

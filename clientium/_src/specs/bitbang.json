@@ -1,0 +1,74 @@
+{
+ "slug": "bitbang",
+ "company": "BitBang",
+ "first_name": "Giovanni",
+ "domain": "bitbang.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza sui dati per la trasformazione digitale e la centralità del cliente. Ecco chi contatteremmo per BitBang.",
+ "market_note": "BitBang è una società di consulenza sui dati specializzata in trasformazione digitale e centralità del cliente, quindi parleremmo con chi guida i progetti su dati, analytics e intelligenza artificiale.",
+ "evidence": [
+  {
+   "claim": "BitBang è una società di consulenza sui dati per la trasformazione digitale e la centralità del cliente",
+   "url": "https://bitbang.com/",
+   "quote": "We are a data consulting company specializing in digital transformation and customer-centricity."
+  },
+  {
+   "claim": "offre soluzioni su intelligenza artificiale, machine learning e natural language processing",
+   "url": "https://bitbang.com/services/data-science/",
+   "quote": "Artificial Intelligence, Machine Learning, and Natural Language Processing"
+  },
+  {
+   "claim": "è una società di consulenza sui dati specializzata in trasformazione digitale e centralità del cliente",
+   "url": "https://bitbang.com/",
+   "quote": "We are a data consulting company specializing in digital transformation and customer-centricity."
+  },
+  {
+   "claim": "opera a livello nazionale e internazionale",
+   "url": "https://bitbang.com/services/",
+   "quote": "both nationally and internationally"
+  }
+ ],
+ "market": {
+  "count": "117.349",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 100 addetti",
+  "chips": [
+   "Tutta Italia",
+   "oltre 100 addetti",
+   "dati e analytics"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

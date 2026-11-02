@@ -1,0 +1,74 @@
+{
+ "slug": "intesys",
+ "company": "Intesys",
+ "first_name": "Alberto",
+ "domain": "intesys.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Disegna, sviluppa e comunica la trasformazione digitale delle aziende. Ecco chi contatteremmo per Intesys.",
+ "market_note": "Intesys progetta, sviluppa e promuove progetti di trasformazione digitale per le aziende, quindi parleremmo con chi guida le scelte su software, servizi digitali e marketing.",
+ "evidence": [
+  {
+   "claim": "Disegna, sviluppa e comunica la trasformazione digitale",
+   "url": "https://www.intesys.it/",
+   "quote": "Disegniamo, Sviluppiamo e Comunichiamo la tua Trasformazione Digitale."
+  },
+  {
+   "claim": "Realizza progetti di trasformazione digitale per le aziende",
+   "url": "https://www.intesys.it/",
+   "quote": "Realizziamo progetti di Digital Transformation che coinvolgono diverse aree del tuo business"
+  },
+  {
+   "claim": "Progetta soluzioni tecnologiche enterprise e ne segue sviluppo e mantenimento",
+   "url": "https://www.intesys.it/",
+   "quote": "Progettiamo soluzioni tecnologiche enterprise, le sviluppiamo e ne seguiamo il mantenimento"
+  },
+  {
+   "claim": "Si rivolge alle aziende per la trasformazione digitale",
+   "url": "https://www.intesys.it/",
+   "quote": "Accelera la trasformazione digitale della tua azienda"
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori di aziende strutturate italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

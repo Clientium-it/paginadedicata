@@ -1,0 +1,81 @@
+{
+ "slug": "cribis-credit-management",
+ "company": "CRIBIS Credit Management",
+ "first_name": "Luca",
+ "domain": "cribiscreditmanagement.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Affianca le aziende nella gestione del credito con una vasta gamma di servizi. Ecco chi contatteremmo per CRIBIS Credit Management.",
+ "market_note": "CRIBIS Credit Management affianca banche, finanza e corporate nei processi di gestione del credito con servizi di collection e legali, quindi parleremmo con chi decide sul recupero del credito.",
+ "evidence": [
+  {
+   "claim": "Affianca le aziende nella gestione del credito con una vasta gamma di servizi",
+   "url": "https://www.cribiscreditmanagement.it/",
+   "quote": "di gestione del credito grazie a una vasta gamma di servizi"
+  },
+  {
+   "claim": "Serve il mercato Finance con banche, consumer finance, leasing e automotive",
+   "url": "https://www.cribiscreditmanagement.it/",
+   "quote": "I mercati serviti Finance Banking, Consumer Finance, Leasing, Automotive"
+  },
+  {
+   "claim": "Serve il mercato corporate di energy, telco e utilities",
+   "url": "https://www.cribiscreditmanagement.it/",
+   "quote": "Corporate Energy, Telco, Utilities, Corporate"
+  },
+  {
+   "claim": "Affianca nei processi di gestione del credito con una vasta gamma di servizi",
+   "url": "https://www.cribiscreditmanagement.it/",
+   "quote": "di gestione del credito grazie a una vasta gamma di servizi"
+  },
+  {
+   "claim": "Serve settori B2B tra cui farmaceutico, idrico e commercio all'ingrosso",
+   "url": "https://www.cribiscreditmanagement.it/",
+   "quote": "B2B Farmaceutico, Attività Postali, Vigilanza privata, Idrico, Commercio all'ingrosso"
+  }
+ ],
+ "market": {
+  "count": "32.630",
+  "label": "titolari, CEO e direttori di banche, società finanziarie e aziende italiane strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "banking e finance",
+   "insurance",
+   "energy e utilities"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"banking,financial services,leasing,automotive,insurance,energy,telecommunications,utilities,pharmaceutical,wholesale\"}"
+ }
+}

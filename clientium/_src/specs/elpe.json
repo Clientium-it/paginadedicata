@@ -1,0 +1,81 @@
+{
+ "slug": "elpe",
+ "company": "Elpe",
+ "first_name": "Manuela",
+ "domain": "elpe.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Provider logistico per aziende italiane e internazionali da oltre trent'anni. Ecco chi contatteremmo per Elpe.",
+ "market_note": "Elpe gestisce dall'esterno la logistica e la supply chain di aziende dei settori food, fashion e automotive, quindi parleremmo con chi decide su esternalizzazione e magazzino.",
+ "evidence": [
+  {
+   "claim": "provider logistico per aziende italiane e internazionali da oltre trent'anni",
+   "url": "https://www.elpe.it/news/chi-siamo-e-come-lavoriamo/",
+   "quote": "Provider logistico al fianco di aziende italiane e internazionali da oltre trent'anni"
+  },
+  {
+   "claim": "serve aziende dei settori food, fashion e automotive",
+   "url": "https://www.elpe.it/news/chi-siamo-e-come-lavoriamo/",
+   "quote": "opera in settori che vanno dal food & beverage alla GDO, dal fashion all'automotive"
+  },
+  {
+   "claim": "gestisce logistica e supply chain in outsourcing",
+   "url": "https://www.elpe.it/elpe-global-logistic-services/",
+   "quote": "Siamo il partner logistico ideale per l'outsourcing e la gestione della supply chain."
+  },
+  {
+   "claim": "settori clienti serviti",
+   "url": "https://www.elpe.it/",
+   "quote": "PORTIAMO EFFICIENZA LOGISTICA NEL TUO SETTORE: AUTOMOTIVE FASHION HEALTH&CARE FOOD"
+  },
+  {
+   "claim": "opera su tutto il territorio nazionale",
+   "url": "https://www.elpe.it/elpe-global-logistic-services/",
+   "quote": "La nostra Azienda, attiva su tutto il territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "20.684",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate dei settori automotive, fashion, food e grande distribuzione",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "automotive",
+   "fashion",
+   "food e GDO"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive,food and beverage,retail apparel and fashion,retail groceries,health care\"}"
+ }
+}

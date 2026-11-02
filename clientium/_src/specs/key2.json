@@ -1,0 +1,80 @@
+{
+ "slug": "key2",
+ "company": "Key2",
+ "first_name": "Marco",
+ "domain": "key2.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Partner tecnologico per AI, software e dati che si prende cura del successo dei clienti. Ecco chi contatteremmo per Key2.",
+ "market_note": "Key2 è il partner tecnologico per AI, software e dati che affianca aziende e brand come Omnicom Media Group, quindi parleremmo con chi decide su tecnologia, digitale e innovazione.",
+ "evidence": [
+  {
+   "claim": "Si definisce partner tecnologico che si prende cura del successo dei clienti",
+   "url": "https://www.key2.it/",
+   "quote": "Il partner tecnologico che parla da essere umano e si prende cura del tuo successo"
+  },
+  {
+   "claim": "Offre servizi di AI, software e dati",
+   "url": "https://www.key2.it/",
+   "quote": "AI Strategy/AI & Agents App modernization Data Strategy & Architecture Agile Software development & QA"
+  },
+  {
+   "claim": "Ha affiancato Omnicom Media Group come partner tecnologico",
+   "url": "https://www.key2.it/2025/04/29/case-study-key2-e-il-monitoraggio-dellattenzione-nel-mondo-del-calcio-un-progetto-pionieristico-con-omnicom-media-group-e-annalect/",
+   "quote": "Omnicom Media Group si è avvalsa del supporto di Key2 come partner tecnologico"
+  },
+  {
+   "claim": "Ha misurato l'attenzione visiva durante partite di calcio con Omnicom",
+   "url": "https://www.key2.it/2025/04/29/case-study-key2-e-il-monitoraggio-dellattenzione-nel-mondo-del-calcio-un-progetto-pionieristico-con-omnicom-media-group-e-annalect/",
+   "quote": "misurare e analizzare l'attenzione visiva durante partite di Serie A"
+  },
+  {
+   "claim": "Vende servizi tecnologici AI, software e dati ad aziende",
+   "url": "https://www.key2.it/",
+   "quote": "AI Strategy/AI & Agents App modernization Data Strategy & Architecture Agile Software development & QA"
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "AI e software",
+   "dati e digitale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

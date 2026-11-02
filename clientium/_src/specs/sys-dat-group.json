@@ -1,0 +1,80 @@
+{
+ "slug": "sys-dat-group",
+ "company": "SYS-DAT Group",
+ "first_name": "Emanuele",
+ "domain": "sys-datgroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza ICT e soluzioni verticali per le aziende di tutti i settori. Ecco chi contatteremmo per SYS-DAT Group.",
+ "market_note": "SYS-DAT Group offre consulenza Business e ICT e soluzioni verticali alle aziende di tutti i settori, quindi parleremmo con chi decide su gestionali, infrastrutture e sicurezza informatica.",
+ "evidence": [
+  {
+   "claim": "consulenza con competenze verticali",
+   "url": "https://www.sys-datgroup.com/",
+   "quote": "Innovazione e competenze verticali"
+  },
+  {
+   "claim": "consulenza Business e ICT",
+   "url": "https://www.sys-datgroup.com/",
+   "quote": "Business & ICT Consulting"
+  },
+  {
+   "claim": "serve aziende di tutti i settori",
+   "url": "https://www.sys-datgroup.com/casestudies/",
+   "quote": "aziende di tutti i settori"
+  },
+  {
+   "claim": "offre soluzioni di cybersecurity per le aziende",
+   "url": "https://www.sys-datgroup.com/soluzioni/cybersecurity/",
+   "quote": "soluzioni cybersecurity avanzate per proteggere le aziende da ogni tipo di minaccia informatica"
+  },
+  {
+   "claim": "serve clienti di tutti i settori",
+   "url": "https://www.sys-datgroup.com/",
+   "quote": "Al servizio dei nostri clienti in tutti i settori"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "tutti i settori",
+   "ERP, CRM e cybersecurity"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

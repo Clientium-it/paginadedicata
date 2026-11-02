@@ -1,0 +1,92 @@
+{
+ "slug": "bsi-software",
+ "company": "BSI Software",
+ "first_name": "Pamela",
+ "domain": "bsi-software.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "La piattaforma CRM/CX numero uno in Europa per vendite, marketing e assistenza. Ecco chi contatteremmo per BSI Software.",
+ "market_note": "BSI Software offre la piattaforma CRM/CX numero uno in Europa a banche, assicuratori, retail e fornitori di energia, quindi parleremmo con chi guida vendite e relazioni con i clienti.",
+ "evidence": [
+  {
+   "claim": "piattaforma CRM/CX numero uno in Europa",
+   "url": "https://www.bsi-software.com/it",
+   "quote": "La BSI Customer Suite è la piattaforma CRM/CX numero uno in Europa"
+  },
+  {
+   "claim": "per vendite, marketing e assistenza",
+   "url": "https://www.bsi-software.com/it/settori/insurance-health",
+   "quote": "leader di mercato in ambito assicurativo per vendite, marketing e assistenza"
+  },
+  {
+   "claim": "piattaforma CRM/CX numero uno in Europa per vendite, marketing e assistenza",
+   "url": "https://www.bsi-software.com/it",
+   "quote": "La BSI Customer Suite è la piattaforma CRM/CX numero uno in Europa"
+  },
+  {
+   "claim": "serve le banche",
+   "url": "https://www.bsi-software.com/it/settori/banking",
+   "quote": "Le banche che utilizzano BSI massimizzano il loro potenziale di cross-selling e upselling."
+  },
+  {
+   "claim": "leader per gli assicuratori",
+   "url": "https://www.bsi-software.com/it/settori/insurance-health",
+   "quote": "leader di mercato in ambito assicurativo per vendite, marketing e assistenza"
+  },
+  {
+   "claim": "serve il retail",
+   "url": "https://www.bsi-software.com/it/settori/retail",
+   "quote": "Massimizza il tuo customer lifetime value con BSI Software"
+  },
+  {
+   "claim": "serve i fornitori di energia",
+   "url": "https://www.bsi-software.com/it/settori/energy-utilities",
+   "quote": "I principali fornitori di energia si affidano a BSI Software"
+  }
+ ],
+ "market": {
+  "count": "21.271",
+  "label": "direttori, CEO e responsabili commerciali di grandi banche, assicurazioni, retail ed energia in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "banking",
+   "insurance",
+   "retail",
+   "energy"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"banking,insurance,retail,energy,utilities,life science\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

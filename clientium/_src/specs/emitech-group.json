@@ -1,0 +1,87 @@
+{
+ "slug": "emitech-group",
+ "company": "Emitech Group",
+ "first_name": "Alessio",
+ "domain": "emitech.fr",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Laboratori di prove e ingegneria per qualificare i prodotti industriali e portarli sul mercato. Ecco chi contatteremmo per Emitech Group.",
+ "market_note": "Emitech Group accompagna le aziende nella validazione dei prodotti con prove, ingegneria e certificazione per settori come automobile, aeronautica ed energia, quindi parleremmo con chi guida qualita e progetti tecnici.",
+ "evidence": [
+  {
+   "claim": "Laboratori di prove per qualificare i prodotti e portarli sul mercato",
+   "url": "https://www.emitech-group.com/fr",
+   "quote": "Laboratoires d'essais pour vos qualifications et mise sur le marché"
+  },
+  {
+   "claim": "Accompagna le aziende nella validazione dei loro prodotti e sistemi",
+   "url": "https://www.emitech-group.com/fr",
+   "quote": "accompagne les entreprises dans la validation de leurs produits et systèmes"
+  },
+  {
+   "claim": "Serve settori come automobile, aeronautica, energia, medicale",
+   "url": "https://www.emitech-group.com/fr",
+   "quote": "des secteurs exigeants tels que l'automobile, l'aéronautique, le ferroviaire, la défense, l'énergie, le médical, les télécoms"
+  },
+  {
+   "claim": "Oltre trent'anni di esperienza nella validazione dei prodotti e sistemi delle aziende",
+   "url": "https://www.emitech-group.com/fr",
+   "quote": "fort de plus de 30 ans d'expérience, accompagne les entreprises dans la validation de leurs produits et systèmes"
+  },
+  {
+   "claim": "Settori clienti dichiarati dal sito",
+   "url": "https://www.emitech-group.com/fr",
+   "quote": "des secteurs exigeants tels que l'automobile, l'aéronautique, le ferroviaire, la défense, l'énergie, le médical, les télécoms"
+  },
+  {
+   "claim": "Interventi in Francia e in Europa",
+   "url": "https://www.emitech-group.com/fr/nos-metiers/services-complementaires-certification-formation-metrologie-maintenance",
+   "quote": "Interventions en France et en Europe"
+  }
+ ],
+ "market": {
+  "count": "17.397",
+  "label": "titolari, CEO e direttori di aziende industriali dei settori automotive, aeronautica ed energia con oltre cinquanta addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "automotive",
+   "aeronautica",
+   "energia",
+   "medicale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive,aerospace,railroad,defense and space manufacturing,energy,medical,telecommunications\"}"
+ }
+}

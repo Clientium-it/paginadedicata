@@ -1,0 +1,79 @@
+{
+ "slug": "alliance-advisors",
+ "company": "Alliance Advisors",
+ "first_name": "Sandro",
+ "domain": "allianceadvisors.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza e proxy solicitation per assemblee complesse di società quotate e fondi. Ecco chi contatteremmo per Alliance Advisors.",
+ "market_note": "Alliance Advisors offre proxy solicitation e consulenza su assemblee complesse per società quotate e fondi, quindi parleremmo con chi guida board e direzione di grandi aziende quotate.",
+ "evidence": [
+  {
+   "claim": "Società di proxy solicitation e consulenza specializzata in assemblee complesse",
+   "url": "https://allianceadvisors.com/",
+   "quote": "Alliance Advisors is a proxy solicitation and advisory firm specializing in complex shareholder meetings"
+  },
+  {
+   "claim": "Serve società quotate e fondi",
+   "url": "https://allianceadvisors.com/",
+   "quote": "retail shareholder engagement for public companies and mutual funds"
+  },
+  {
+   "claim": "Consiglia board e team esecutivi",
+   "url": "https://allianceadvisors.com/",
+   "quote": "The firm advises boards and executive teams on shareholder campaign strategy"
+  },
+  {
+   "claim": "Si occupa di assemblee complesse, attivismo e M&A",
+   "url": "https://allianceadvisors.com/",
+   "quote": "complex shareholder meetings, shareholder activism , M&A situations, and retail shareholder engagement"
+  },
+  {
+   "claim": "I clienti sono società quotate",
+   "url": "https://allianceadvisors.com/",
+   "quote": "Public companies navigating annual and special meetings, activist threats, M&A votes"
+  }
+ ],
+ "market": {
+  "count": "110.688",
+  "label": "titolari, CEO e direttori di grandi società quotate italiane oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "società quotate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200}"
+ }
+}

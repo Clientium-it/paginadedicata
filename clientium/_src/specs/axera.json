@@ -1,0 +1,62 @@
+{
+ "slug": "axera",
+ "company": "Axera",
+ "first_name": "Giampaolo",
+ "domain": "axera.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni TLC e ICT per le imprese del territorio. Ecco chi contatteremmo per Axera.",
+ "market_note": "Axera offre soluzioni TLC e ICT alle imprese del territorio del Nord Est, dalla connettività alla sicurezza gestita, quindi parleremmo con chi decide su infrastruttura, cloud e cybersecurity.",
+ "evidence": [
+  {
+   "claim": "Affianca le imprese del territorio con soluzioni TLC e ICT",
+   "url": "https://www.axera.it/",
+   "quote": "affiancando le imprese del territorio con soluzioni personalizzate, efficienti e sicure"
+  },
+  {
+   "claim": "Offre connettività, data center, cloud e sicurezza gestita",
+   "url": "https://www.axera.it/",
+   "quote": "Connettività ad Internet, Servizi Voice & Collaboration, Networking, Soluzioni Data Center & Cloud, Servizi di Sicurezza gestiti e Piattaforme custom IoT."
+  },
+  {
+   "claim": "Opera nel Nord Est nel settore TLC e ICT",
+   "url": "https://www.axera.it/",
+   "quote": "la più grande realtà votata al settore TLC & ICT del Nord-Est"
+  },
+  {
+   "claim": "Oltre 30 anni di storia nel settore ICT e TLC",
+   "url": "https://www.axera.it/",
+   "quote": "oltre 30 anni di storia ICT e TLC"
+  },
+  {
+   "claim": "Sostiene lo sviluppo delle aziende del Triveneto",
+   "url": "https://www.axera.it/chi-siamo/la-nostra-storia/",
+   "quote": "sostenere lo sviluppo delle aziende del Triveneto"
+  }
+ ],
+ "market": {
+  "count": "653",
+  "label": "responsabili IT, CIO e CTO di aziende strutturate del Triveneto oltre 50 addetti",
+  "chips": [
+   "Triveneto",
+   "oltre 50 addetti",
+   "IT e sicurezza"
+  ],
+  "regions": [
+   "Veneto",
+   "Trentino-Alto Adige",
+   "Friuli Venezia Giulia"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Veneto,Trentino-South Tyrol,Friuli–Venezia Giulia\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

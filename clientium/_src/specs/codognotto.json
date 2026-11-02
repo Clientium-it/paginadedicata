@@ -1,0 +1,79 @@
+{
+ "slug": "codognotto",
+ "company": "Codognotto",
+ "first_name": "Fabio",
+ "domain": "codognotto.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Trasporto su strada, intermodale e logistica integrata per aziende in Italia e in Europa. Ecco chi contatteremmo per Codognotto.",
+ "market_note": "Codognotto offre trasporto su strada, intermodale, logistica e consulenza doganale ad aziende in Italia e in Europa, quindi parleremmo con chi decide su trasporti e supply chain.",
+ "evidence": [
+  {
+   "claim": "trasporto su strada, intermodale e logistica integrata",
+   "url": "https://www.codognotto.com/en/about-us",
+   "quote": "evolving into intermodal transport and integrated logistics"
+  },
+  {
+   "claim": "in Italia e in Europa",
+   "url": "https://www.codognotto.com/en",
+   "quote": "in Italy and across Europe"
+  },
+  {
+   "claim": "trasporto, logistica e consulenza doganale",
+   "url": "https://www.codognotto.com/en/integrated-solutions",
+   "quote": "combining road, sea, and air transport, logistics, and customs consulting"
+  },
+  {
+   "claim": "gruppo internazionale che collega aziende e mercati",
+   "url": "https://www.codognotto.com/en/about-us",
+   "quote": "an international group connecting companies and markets across Europe and beyond"
+  },
+  {
+   "claim": "nuovo collegamento intermodale diretto Spagna-Belgio",
+   "url": "https://www.codognotto.com/en",
+   "quote": "Codognotto expands its intermodal network with a new direct Spain–Belgium route"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con flussi di merci da gestire",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "titolari e direttori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

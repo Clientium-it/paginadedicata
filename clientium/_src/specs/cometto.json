@@ -1,0 +1,81 @@
+{
+ "slug": "cometto",
+ "company": "Cometto",
+ "first_name": "Fabrizio",
+ "domain": "cometto.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Trasportatori modulari semoventi per trasporti pesanti e applicazioni industriali. Ecco chi contatteremmo per Cometto.",
+ "market_note": "Cometto sviluppa e produce trasportatori modulari semoventi per trasporto pesante, cantieristica navale e oil and gas, quindi parleremmo con chi guida le aziende di industria pesante.",
+ "evidence": [
+  {
+   "claim": "Sviluppa e produce trasportatori modulari semoventi",
+   "url": "https://www.cometto.com/",
+   "quote": "the development and manufacture of self-propelled modular transporters SPMT"
+  },
+  {
+   "claim": "Offre trasportatori speciali per applicazioni industriali",
+   "url": "https://www.cometto.com/",
+   "quote": "special transporters for industrial applications"
+  },
+  {
+   "claim": "Serve trasporto pesante, cantieristica navale e oil and gas",
+   "url": "https://www.cometto.com/",
+   "quote": "heavy duty transport, heavy industry, shipbuilding, oil & gas"
+  },
+  {
+   "claim": "Sviluppa trasportatori modulari semoventi per trasporto pesante, cantieristica e oil and gas",
+   "url": "https://www.cometto.com/",
+   "quote": "heavy duty transport, heavy industry, shipbuilding, oil & gas"
+  },
+  {
+   "claim": "Settori serviti dichiarati dal sito",
+   "url": "https://www.cometto.com/products/",
+   "quote": "Oil & gas industry Shipyard industry Mining Wind Energy Steel industry"
+  }
+ ],
+ "market": {
+  "count": "3.732",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate dell'industria pesante da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "cantieristica navale",
+   "oil and gas",
+   "wind energy"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"shipbuilding,oil and gas,mining,wind energy,nuclear\"}"
+ }
+}

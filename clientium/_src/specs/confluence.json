@@ -1,0 +1,75 @@
+{
+ "slug": "confluence",
+ "company": "Confluence",
+ "first_name": "Vito",
+ "domain": "confluence.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni di regulatory, analytics e investor communications per il settore dell'investment management. Ecco chi contatteremmo per Confluence.",
+ "market_note": "Confluence fornisce soluzioni di regulatory reporting, analytics e investor communications per asset manager, asset owner e investment consultant, quindi parleremmo con chi guida le funzioni commerciali e tecnologiche.",
+ "evidence": [
+  {
+   "claim": "soluzioni per il settore dell'investment management",
+   "url": "https://www.confluence.com/",
+   "quote": "For the investment management industry."
+  },
+  {
+   "claim": "vende ad asset manager, asset owner e investment consultant",
+   "url": "https://www.confluence.com/",
+   "quote": "The world’s largest asset servicers , asset managers , asset owners and investment consultants rely on Confluence Technologies."
+  },
+  {
+   "claim": "regulatory, analytics e investor communications",
+   "url": "https://www.confluence.com/",
+   "quote": "Regulatory, Analytics & Investor Communications Solutions For the investment management industry."
+  },
+  {
+   "claim": "clienti nel settore dell'investment management",
+   "url": "https://www.confluence.com/",
+   "quote": "For the investment management industry."
+  }
+ ],
+ "market": {
+  "count": "12.967",
+  "label": "direttori, CEO e responsabili di società di asset management e financial services oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "asset management",
+   "financial services"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"asset management,financial services\"}"
+ }
+}

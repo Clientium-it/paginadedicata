@@ -1,0 +1,77 @@
+{
+ "slug": "sidea-group",
+ "company": "Sidea Group",
+ "first_name": "Vittorio",
+ "domain": "sideagroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Orchestrano dati, sistemi e processi per la trasformazione agentica delle imprese. Ecco chi contatteremmo per Sidea Group.",
+ "market_note": "Sidea Group integra soluzioni di intelligenza artificiale nei processi di monetizzazione e commerce operations delle imprese, quindi parleremmo con chi guida tecnologia e strategia digitale nelle aziende clienti.",
+ "evidence": [
+  {
+   "claim": "Orchestrano dati, sistemi e processi per la trasformazione agentica delle imprese",
+   "url": "https://sideagroup.com/",
+   "quote": "Orchestriamo dati, sistemi e processi per guidare la trasformazione agentica delle imprese."
+  },
+  {
+   "claim": "orchestrano dati, sistemi e processi per guidare la trasformazione agentica delle imprese",
+   "url": "https://sideagroup.com/",
+   "quote": "Orchestriamo dati, sistemi e processi per guidare la trasformazione agentica delle imprese."
+  },
+  {
+   "claim": "integra soluzioni di intelligenza artificiale nei processi di monetizzazione e commerce operations",
+   "url": "https://sideagroup.com/",
+   "quote": "Integrando soluzioni AI-native nei flussi di monetizzazione, customer lifecycle e commerce operations."
+  },
+  {
+   "claim": "settori clienti dichiarati: retail e consumer goods, banking e finance, manufacturing, travel e hospitality",
+   "url": "https://sideagroup.com/",
+   "quote": "Retail e consumer goods Banking e Finance Manufacturing Travel e Hospitality"
+  }
+ ],
+ "market": {
+  "count": "45.485",
+  "label": "direttori, titolari e responsabili digitali di aziende italiane strutturate nei settori retail, banking, manufacturing e travel",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "retail",
+   "banking",
+   "manufacturing",
+   "travel"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail,consumer goods,banking,financial services,manufacturing,travel,hospitality\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "franchetti",
+ "company": "Franchetti",
+ "first_name": "Gianluca",
+ "domain": "franchetti.tech",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Sviluppo software ed engineering design per la manutenzione predittiva di ponti e viadotti. Ecco chi contatteremmo per Franchetti.",
+ "market_note": "Franchetti sviluppa software per la manutenzione predittiva di ponti e viadotti rivolgendosi a concessionarie e gestori immobiliari, quindi parleremmo con chi decide sulla gestione di reti e asset strategici.",
+ "evidence": [
+  {
+   "claim": "Sviluppo software ed engineering design per la manutenzione predittiva di ponti e viadotti",
+   "url": "https://franchetti.tech/contatti",
+   "quote": "sviluppo software ed engineering design per la manutenzione predittiva di ponti e viadotti"
+  },
+  {
+   "claim": "Si rivolge a concessionarie e gestori immobiliari",
+   "url": "https://franchetti.tech/",
+   "quote": "supporta concessionarie, investitori e gestori immobiliari"
+  },
+  {
+   "claim": "Sviluppa software ed engineering design per la manutenzione predittiva di ponti e viadotti",
+   "url": "https://franchetti.tech/contatti",
+   "quote": "sviluppo software ed engineering design per la manutenzione predittiva di ponti e viadotti"
+  },
+  {
+   "claim": "I clienti sono concessionarie, investitori e gestori immobiliari",
+   "url": "https://franchetti.tech/",
+   "quote": "supporta concessionarie, investitori e gestori immobiliari"
+  }
+ ],
+ "market": {
+  "count": "3.755",
+  "label": "titolari, CEO e direttori di concessionarie e gestori immobiliari in Italia con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "infrastrutture",
+   "gestori immobiliari"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"infrastructure,real estate,property management\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

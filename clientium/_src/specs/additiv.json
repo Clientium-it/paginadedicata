@@ -1,0 +1,81 @@
+{
+ "slug": "additiv",
+ "company": "additiv",
+ "first_name": "Vittorio",
+ "domain": "additiv.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma di orchestrazione per i servizi finanziari rivolta a banche e assicurazioni. Ecco chi contatteremmo per additiv.",
+ "market_note": "additiv offre una piattaforma di orchestrazione che permette a banche, assicurazioni e gestori patrimoniali di lanciare servizi finanziari, quindi parleremmo con chi guida la strategia digitale.",
+ "evidence": [
+  {
+   "claim": "piattaforma di orchestrazione per i servizi finanziari",
+   "url": "https://additiv.com/",
+   "quote": "The orchestration platform for financial services"
+  },
+  {
+   "claim": "rivolta a banche e assicurazioni",
+   "url": "https://additiv.com/",
+   "quote": "We empower banks, insurers, asset and wealth managers and non-financial institutions"
+  },
+  {
+   "claim": "vende a banche, assicurazioni e gestori patrimoniali",
+   "url": "https://additiv.com/",
+   "quote": "We empower banks, insurers, asset and wealth managers and non-financial institutions"
+  },
+  {
+   "claim": "orchestrazione dei servizi finanziari su un'unica piattaforma",
+   "url": "https://additiv.com/",
+   "quote": "The orchestration platform for financial services"
+  },
+  {
+   "claim": "settori clienti banche, assicurazioni e gestione patrimoniale",
+   "url": "https://additiv.com/",
+   "quote": "We empower banks, insurers, asset and wealth managers and non-financial institutions"
+  }
+ ],
+ "market": {
+  "count": "1.662",
+  "label": "responsabili IT, CIO e CTO di banche, assicurazioni e gestori patrimoniali con oltre 200 addetti",
+  "chips": [
+   "Italia",
+   "oltre 200 addetti",
+   "banche e assicurazioni",
+   "gestione patrimoniale",
+   "servizi finanziari"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"banking,insurance,wealth management,financial services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

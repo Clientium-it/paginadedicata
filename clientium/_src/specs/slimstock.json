@@ -1,0 +1,80 @@
+{
+ "slug": "slimstock",
+ "company": "Slimstock",
+ "first_name": "Lorenzo",
+ "domain": "slimstock.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software che rende la pianificazione end to end della supply chain semplice per tutti. Ecco chi contatteremmo per Slimstock.",
+ "market_note": "Slimstock sviluppa software di pianificazione della supply chain per grossisti, rivenditori e produttori, quindi parleremmo con chi decide su previsioni della domanda, scorte e approvvigionamenti.",
+ "evidence": [
+  {
+   "claim": "Rende la pianificazione end to end della supply chain semplice",
+   "url": "https://www.slimstock.com/",
+   "quote": "make end-to-end supply chain planning easy for everyone"
+  },
+  {
+   "claim": "Sviluppa software di pianificazione della supply chain",
+   "url": "https://www.slimstock.com/solutions/",
+   "quote": "supply chain planning software includes a comprehensive suite of tools"
+  },
+  {
+   "claim": "Vende a grossisti, rivenditori e produttori",
+   "url": "https://www.slimstock.com/",
+   "quote": "Trusted by wholesalers, retailers, and manufacturers"
+  },
+  {
+   "claim": "Sviluppa software di pianificazione della supply chain per grossisti, rivenditori e produttori",
+   "url": "https://www.slimstock.com/",
+   "quote": "Trusted by wholesalers, retailers, and manufacturers"
+  },
+  {
+   "claim": "Clienti nel commercio allingrosso, retail e produzione",
+   "url": "https://www.slimstock.com/",
+   "quote": "Trusted by wholesalers, retailers, and manufacturers"
+  }
+ ],
+ "market": {
+  "count": "29.001",
+  "label": "titolari, CEO e direttori di grossisti, rivenditori e produttori italiani oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "grossisti e produttori",
+   "retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail,wholesale,manufacturing\"}"
+ }
+}

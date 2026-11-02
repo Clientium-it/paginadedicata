@@ -1,0 +1,87 @@
+{
+ "slug": "akronos-technologies",
+ "company": "Akronos Technologies",
+ "first_name": "Angelo",
+ "domain": "akronos-tech.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Innovazione, ricerca e sviluppo e servizi ingegneristici ad alta tecnologia. Ecco chi contatteremmo per Akronos Technologies.",
+ "market_note": "Akronos Technologies eroga servizi ingegneristici ad alta tecnologia rivolgendosi al mercato delle grandi aziende presenti in Italia, quindi parleremmo con chi guida le scelte tecnologiche e di sviluppo prodotto.",
+ "evidence": [
+  {
+   "claim": "Akronos opera nell'innovazione, ricerca e sviluppo e nei servizi ingegneristici ad alta tecnologia",
+   "url": "https://www.akronos-tech.it/",
+   "quote": "società di primaria rilevanza in ambito innovazione, ricerca & sviluppo (R&D) e servizi ingegneristici ad alta tecnologia"
+  },
+  {
+   "claim": "eroga servizi ingegneristici ad alta tecnologia",
+   "url": "https://www.akronos-tech.it/about.php",
+   "quote": "erogazione di servizi ingegneristici ad alta tecnologia"
+  },
+  {
+   "claim": "si rivolge alle grandi aziende presenti in Italia",
+   "url": "https://www.akronos-tech.it/about.php",
+   "quote": "rivolgendosi al mercato delle grandi aziende presenti in Italia"
+  },
+  {
+   "claim": "si occupa di progettazione meccanica, elettronica e firmware/software",
+   "url": "https://www.akronos-tech.it/",
+   "quote": "Progettazione meccanica (Progettazione al CAD, Utilizzo di codici FEM) Progettazione Firmware/Software"
+  },
+  {
+   "claim": "serve settori come automotive, aeronautico, telecomunicazioni, ferroviario, banking",
+   "url": "https://www.akronos-tech.it/services.php",
+   "quote": "ingegneristico (automotive, aeronautico, telecomunicazioni, ferroviario, home appliance, banking, media)"
+  },
+  {
+   "claim": "clienti sono grandi aziende",
+   "url": "https://www.akronos-tech.it/about.php",
+   "quote": "rivolgendosi al mercato delle grandi aziende presenti in Italia"
+  }
+ ],
+ "market": {
+  "count": "19.257",
+  "label": "titolari, CEO e direttori di grandi aziende industriali italiane con oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "automotive e aerospace",
+   "ferroviario",
+   "banking",
+   "energia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"automotive,aerospace,telecommunications,railroad,home appliances,banking,defense and space manufacturing,energy,industrial automation,electronics\"}"
+ }
+}

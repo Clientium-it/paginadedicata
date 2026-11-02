@@ -1,0 +1,86 @@
+{
+ "slug": "eidosmedia",
+ "company": "Eidosmedia",
+ "first_name": "Francesco",
+ "domain": "eidosmedia.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforme headless CMS e content management per la ricerca finanziaria e i news media. Ecco chi contatteremmo per Eidosmedia.",
+ "market_note": "Eidosmedia sviluppa piattaforme di content management per la ricerca finanziaria usate da banche d'investimento, asset manager e wealth manager, quindi parleremmo con chi guida la ricerca e le operations.",
+ "evidence": [
+  {
+   "claim": "Piattaforme headless CMS e content management",
+   "url": "https://www.eidosmedia.com/",
+   "quote": "excellence in headless CMS and Enterprise content publishing systems"
+  },
+  {
+   "claim": "Piattaforme per i news media usate da gruppi editoriali",
+   "url": "https://www.eidosmedia.com/",
+   "quote": "Eidosmedia editorial platforms are used by global news groups"
+  },
+  {
+   "claim": "Vende a banche d'investimento, asset manager e wealth manager",
+   "url": "https://www.eidosmedia.com/",
+   "quote": "investment banks, asset managers and wealth managers"
+  },
+  {
+   "claim": "Piattaforme per la ricerca finanziaria",
+   "url": "https://www.eidosmedia.com/financial-services/research/",
+   "quote": "creating and delivering investment research"
+  },
+  {
+   "claim": "Usate da quattro delle prime dieci banche d'investimento del mondo",
+   "url": "https://www.eidosmedia.com/financial-services/research/",
+   "quote": "four of the world's top ten investment banks"
+  },
+  {
+   "claim": "Clienti sono banche d'investimento, asset manager e wealth manager",
+   "url": "https://www.eidosmedia.com/",
+   "quote": "investment banks, asset managers and wealth managers"
+  }
+ ],
+ "market": {
+  "count": "12.939",
+  "label": "direttori della ricerca, CEO e direttori di banche d'investimento, asset manager e wealth manager strutturati",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "banche d'investimento",
+   "asset management",
+   "wealth management"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"investment banking,asset management,wealth management,financial services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

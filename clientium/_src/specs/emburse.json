@@ -1,0 +1,84 @@
+{
+ "slug": "emburse",
+ "company": "Emburse",
+ "first_name": "Francesco",
+ "domain": "emburse.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software di gestione di viaggi e spese aziendali. Ecco chi contatteremmo per Emburse.",
+ "market_note": "Emburse offre software per la gestione di viaggi e spese aziendali per i team finance delle aziende, quindi parleremmo con chi decide su spesa, compliance e processi amministrativi.",
+ "evidence": [
+  {
+   "claim": "Software di gestione di viaggi e spese aziendali",
+   "url": "https://www.emburse.com/",
+   "quote": "Travel and expense management software solutions"
+  },
+  {
+   "claim": "software per la gestione di viaggi e spese aziendali",
+   "url": "https://www.emburse.com/company/news/emburse-recognized-among-cnbc-s-world-s-top-fintech-companies-of-2026",
+   "quote": "a global leader in travel and expense management"
+  },
+  {
+   "claim": "usato dai team finance delle aziende",
+   "url": "https://www.emburse.com/solutions/expense-management",
+   "quote": "Emburse AI gives finance teams real-time visibility and control"
+  },
+  {
+   "claim": "software di gestione viaggi e spese per i team finance",
+   "url": "https://www.emburse.com/",
+   "quote": "Travel and expense management software solutions"
+  },
+  {
+   "claim": "serve organizzazioni di grandi dimensioni a livello globale",
+   "url": "https://www.emburse.com/company/news/emburse-recognized-among-cnbc-s-world-s-top-fintech-companies-of-2026",
+   "quote": "serving over 20,000 organizations in 200 countries and territories"
+  },
+  {
+   "claim": "clienti tra grandi imprese, PMI e settore pubblico",
+   "url": "https://www.emburse.com/company/news/emburse-recognized-among-cnbc-s-world-s-top-fintech-companies-of-2026",
+   "quote": "including Global 2000 enterprises, SMBs, public sector agencies, and nonprofits"
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "direttori e CFO"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

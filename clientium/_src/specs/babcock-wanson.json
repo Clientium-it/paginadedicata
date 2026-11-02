@@ -1,0 +1,76 @@
+{
+ "slug": "babcock-wanson",
+ "company": "Babcock Wanson",
+ "first_name": "Flavio",
+ "domain": "babcock-wanson.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Caldaie industriali e impianti di riscaldamento di processo per l'industria. Ecco chi contatteremmo per Babcock Wanson.",
+ "market_note": "Babcock Wanson progetta, vende e installa caldaie industriali, ossidatori termici, bruciatori e trattamento acque per aziende industriali di molti settori, quindi parleremmo con chi decide sugli impianti di processo.",
+ "evidence": [
+  {
+   "claim": "Fornitore di impianti e soluzioni di riscaldamento di processo industriale",
+   "url": "https://www.babcock-wanson.com/about/",
+   "quote": "Babcock Wanson is a major international provider of industrial process heating equipment and solutions"
+  },
+  {
+   "claim": "Progetta, vende e installa caldaie industriali, ossidatori termici, bruciatori e trattamento acque",
+   "url": "https://www.babcock-wanson.com/",
+   "quote": "the design, sales and installation of industrial boilers, thermal oxidisers, burners and industrial water treatment"
+  },
+  {
+   "claim": "Si occupa di progettazione e installazione di caldaie industriali, bruciatori e ossidatori termici",
+   "url": "https://www.babcock-wanson.com/",
+   "quote": "the design, sales and installation of industrial boilers, thermal oxidisers, burners and industrial water treatment"
+  },
+  {
+   "claim": "Settori industriali serviti dichiarati dal sito",
+   "url": "https://www.babcock-wanson.com/",
+   "quote": "Beverages Industry Chemicals & Pharmaceuticals Industry Construction Material Industry Dairies & Dairy Industry Food Industry"
+  }
+ ],
+ "market": {
+  "count": "9.392",
+  "label": "titolari, CEO e direttori di aziende industriali italiane strutturate di settori come alimentare, chimico e cartario",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "alimentare e bevande",
+   "chimico e farmaceutico",
+   "carta e stampa"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"food and beverage manufacturing,chemical manufacturing,pharmaceutical manufacturing,plastics and rubber manufacturing,printing,textile manufacturing,paper and forest product manufacturing\"}"
+ }
+}

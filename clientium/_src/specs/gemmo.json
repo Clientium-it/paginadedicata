@@ -1,0 +1,74 @@
+{
+ "slug": "gemmo",
+ "company": "Gemmo",
+ "first_name": "Giuliano",
+ "domain": "gemmo.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Progetta, installa e gestisce impianti tecnologici e servizi di facility management. Ecco chi contatteremmo per Gemmo.",
+ "market_note": "Gemmo progetta, installa e gestisce impianti tecnologici e fornisce servizi di facility management per strutture pubbliche e private, quindi parleremmo con chi decide su impianti ed efficienza energetica.",
+ "evidence": [
+  {
+   "claim": "Progetta, installa e gestisce impianti tecnologici e servizi di facility management",
+   "url": "https://www.gemmo.com/",
+   "quote": "Gemmo progetta, installa e gestisce impianti tecnologici e fornisce servizi di facility management"
+  },
+  {
+   "claim": "Fornisce impianti tecnologici e facility management per strutture pubbliche e private",
+   "url": "https://www.gemmo.com/",
+   "quote": "Gemmo progetta, installa e gestisce impianti tecnologici e fornisce servizi di facility management per strutture pubbliche e private ad alta complessità"
+  },
+  {
+   "claim": "Impianti tecnologici e facility management per strutture pubbliche e private ad alta complessità",
+   "url": "https://www.gemmo.com/",
+   "quote": "Gemmo progetta, installa e gestisce impianti tecnologici e fornisce servizi di facility management per strutture pubbliche e private ad alta complessità"
+  },
+  {
+   "claim": "Serve organizzazioni pubbliche, industriali e del terziario privato",
+   "url": "https://www.gemmo.com/corporate/chi-siamo/",
+   "quote": "richiesti in outsourcing dalle organizzazioni pubbliche, industriali e del terziario privato"
+  }
+ ],
+ "market": {
+  "count": "110.688",
+  "label": "direttori, CEO e titolari di grandi aziende italiane con edifici e impianti tecnologici da gestire",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "edifici e impianti da gestire"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200}"
+ }
+}

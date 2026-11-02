@@ -1,0 +1,81 @@
+{
+ "slug": "bcg-platinion",
+ "company": "BCG Platinion",
+ "first_name": "Antonino",
+ "domain": "bcgplatinion.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Esperti di tecnologia che rendono reali le grandi trasformazioni tech delle aziende. Ecco chi contatteremmo per BCG Platinion.",
+ "market_note": "BCG Platinion accompagna le aziende nelle grandi trasformazioni tecnologiche e digitali, quindi parleremmo con chi guida IT, architetture e progetti di innovazione nelle realtà strutturate.",
+ "evidence": [
+  {
+   "claim": "è esperta di tecnologia",
+   "url": "https://www.bcgplatinion.com/",
+   "quote": "We are technology-minded specialists."
+  },
+  {
+   "claim": "rende reali le grandi trasformazioni tecnologiche",
+   "url": "https://www.bcgplatinion.com/",
+   "quote": "We implement and secure large-scale tech programs, architect platforms and enable AI-driven digital capabilities of the future."
+  },
+  {
+   "claim": "offre soluzioni che trasformano il modo di lavorare e competere dei clienti",
+   "url": "https://www.bcgplatinion.com/about-us",
+   "quote": "BCG Platinion delivers end-to-end solutions that transform how our clients work and compete."
+  },
+  {
+   "claim": "da oltre 25 anni lavora con i clienti verso il futuro digitale",
+   "url": "https://www.bcgplatinion.com/",
+   "quote": "For over 25 years, we have worked alongside our clients to prepare them for a digital future."
+  },
+  {
+   "claim": "serve clienti in ogni settore principale",
+   "url": "https://www.bcgplatinion.com/",
+   "quote": "We pride ourselves on our ability to empower clients across every major industry with our leading digital, AI, and Agentic AI expertise."
+  }
+ ],
+ "market": {
+  "count": "3.480",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate con oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "banche e assicurazioni",
+   "industria",
+   "energia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"financial services,insurance,consumer,energy,health care,industrial,government,telecommunications\"}"
+ }
+}

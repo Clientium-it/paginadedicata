@@ -1,0 +1,86 @@
+{
+ "slug": "unguess",
+ "company": "UNGUESS",
+ "first_name": "Raffaella",
+ "domain": "unguess.io",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "UNGUESS aiuta i team a validare idee e testare i prodotti digitali con persone reali. Ecco chi contatteremmo per UNGUESS.",
+ "market_note": "UNGUESS testa e migliora i prodotti digitali di marchi globali nel retail, nel banking e nell'automotive, quindi parleremmo con chi decide su qualità software e sicurezza.",
+ "evidence": [
+  {
+   "claim": "Valida idee e testa i prodotti digitali con utenti reali",
+   "url": "https://unguess.io/",
+   "quote": "Validate ideas, test with real users and improve your digital product at every stage."
+  },
+  {
+   "claim": "Lavora con marchi globali",
+   "url": "https://unguess.io/",
+   "quote": "300+ GLOBAL BRANDS RELY ON UNGUESS"
+  },
+  {
+   "claim": "Serve settori come retail, banking e automotive",
+   "url": "https://unguess.io/",
+   "quote": "Retail & Ecommerce Fast-Moving Consumer Goods Banking, Insurance & Financial Services Travel & Hospitality Utilities Healthcare Media & Entertainment Automotive"
+  },
+  {
+   "claim": "Testa i prodotti con una community globale di persone reali",
+   "url": "https://unguess.io/services/industry/retail-ecommerce/",
+   "quote": "global community of real humans to test and improve your products and services"
+  },
+  {
+   "claim": "Copre UX, qualità software e cyber security",
+   "url": "https://unguess.io/",
+   "quote": "AI Data Validation User Experience Software Quality Cyber Security Accessibility"
+  },
+  {
+   "claim": "Serve settori dichiarati come banking, healthcare e automotive",
+   "url": "https://unguess.io/",
+   "quote": "Retail & Ecommerce Fast-Moving Consumer Goods Banking, Insurance & Financial Services Travel & Hospitality Utilities Healthcare Media & Entertainment Automotive"
+  }
+ ],
+ "market": {
+  "count": "3.192",
+  "label": "CIO, CTO e responsabili IT di aziende e marchi strutturati in Italia oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "retail",
+   "banking",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"retail,e-commerce,fast-moving consumer goods,banking,insurance,financial services,travel,hospitality,utilities,health care,media and entertainment,automotive\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

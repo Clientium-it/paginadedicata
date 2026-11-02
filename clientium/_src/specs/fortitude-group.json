@@ -1,0 +1,85 @@
+{
+ "slug": "fortitude-group",
+ "company": "Fortitude Group",
+ "first_name": "Michele",
+ "domain": "fortitudegroup.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Servizi di Applied AI e integrazione di sistemi per le imprese. Ecco chi contatteremmo per Fortitude Group.",
+ "market_note": "Fortitude Group assiste le imprese europee nella consulenza strategica e nell'integrazione di sistemi, quindi parleremmo con chi decide su innovazione tecnologica e adozione dell'AI.",
+ "evidence": [
+  {
+   "claim": "Offre servizi di Applied AI",
+   "url": "https://fortitudegroup.it/",
+   "quote": "Servizi di Applied AI"
+  },
+  {
+   "claim": "Integrazione di sistemi e consulenza enterprise",
+   "url": "https://fortitudegroup.it/chi-siamo",
+   "quote": "competenza nell'integrazione di sistemi e nella consulenza a livello enterprise"
+  },
+  {
+   "claim": "Guida le imprese europee",
+   "url": "https://fortitudegroup.it/",
+   "quote": "guidare le imprese europee verso un futuro"
+  },
+  {
+   "claim": "Dalla consulenza strategica all'integrazione di sistemi",
+   "url": "https://fortitudegroup.it/",
+   "quote": "dalla consulenza strategica all'integrazione di sistemi"
+  },
+  {
+   "claim": "Trasforma la complessità tecnologica in vantaggio competitivo",
+   "url": "https://fortitudegroup.it/",
+   "quote": "trasformiamo la complessità tecnologica in vantaggio competitivo per il business"
+  },
+  {
+   "claim": "Assiste le imprese nel percorso di innovazione",
+   "url": "https://fortitudegroup.it/",
+   "quote": "assistiamo le imprese in ogni fase del loro percorso di innovazione"
+  }
+ ],
+ "market": {
+  "count": "7.840",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "enterprise",
+   "Applied AI"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "evora",
+ "company": "EVORA",
+ "first_name": "Valentina",
+ "domain": "evoraglobal.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Aiuta investitori e gestori di asset immobiliari a trasformare la sostenibilità in valore misurabile. Ecco chi contatteremmo per EVORA.",
+ "market_note": "EVORA aiuta investitori, gestori e proprietari di asset immobiliari a trasformare la sostenibilità in risultati finanziari e operativi misurabili, quindi parleremmo con chi guida investimenti e sostenibilità nei fondi.",
+ "evidence": [
+  {
+   "claim": "Aiuta investitori e gestori di asset immobiliari a ridurre il rischio e proteggere il valore degli asset",
+   "url": "https://evoraglobal.com/",
+   "quote": "EVORA enables real asset investors and managers to reduce risk, protect asset value"
+  },
+  {
+   "claim": "Aiuta investitori, gestori e proprietari di asset immobiliari a trasformare la sostenibilità in risultati finanziari e operativi misurabili",
+   "url": "https://evoraglobal.com/services/",
+   "quote": "We help real asset investors, manager and owners turn sustainability ambition into measurable financial and operational results"
+  },
+  {
+   "claim": "Aiuta investitori e gestori di asset immobiliari a ridurre il rischio e proteggere il valore degli asset",
+   "url": "https://evoraglobal.com/",
+   "quote": "EVORA enables real asset investors and managers to reduce risk, protect asset value"
+  },
+  {
+   "claim": "Serve investitori nel settore immobiliare e delle infrastrutture",
+   "url": "https://evoraglobal.com/",
+   "quote": "Specialist strategic, regulatory and investment advisory services across real estate and infrastructure"
+  }
+ ],
+ "market": {
+  "count": "3.061",
+  "label": "titolari, CEO e direttori di società di investimento e gestione immobiliare in Italia con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "real estate",
+   "investment management"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"real estate,real estate investment,investment management\"}"
+ }
+}

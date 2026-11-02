@@ -1,0 +1,81 @@
+{
+ "slug": "elevion-group",
+ "company": "Elevion Group",
+ "first_name": "Claudio",
+ "domain": "eleviongroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni di decarbonizzazione ed efficienza energetica per le aziende in Europa. Ecco chi contatteremmo per Elevion Group.",
+ "market_note": "Elevion Group è un provider europeo di soluzioni di decarbonizzazione ed efficienza energetica per immobiliare, industria e commerciale, quindi parleremmo con chi decide su energia ed efficienza nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Fornisce soluzioni di decarbonizzazione ed efficienza energetica in Europa",
+   "url": "https://www.eleviongroup.com/",
+   "quote": "We are an European provider of end-to-end decarbonization and higher energy efficiency solutions."
+  },
+  {
+   "claim": "Vende soluzioni di decarbonizzazione ed efficienza energetica",
+   "url": "https://www.eleviongroup.com/",
+   "quote": "We are an European provider of end-to-end decarbonization and higher energy efficiency solutions."
+  },
+  {
+   "claim": "Serve clienti immobiliare, industria e commerciale",
+   "url": "https://www.eleviongroup.com/",
+   "quote": "Real Estate Industry Municipalities Commercial"
+  },
+  {
+   "claim": "Opera con oltre 80 società specializzate",
+   "url": "https://www.eleviongroup.com/",
+   "quote": "80+ highly specialized independent companies"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://www.eleviongroup.com/clients/industry",
+   "quote": "Real Estate Industry Municipalities Commercial"
+  }
+ ],
+ "market": {
+  "count": "9.575",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate dai 50 addetti nei settori immobiliare, industriale e commerciale",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "immobiliare",
+   "industria",
+   "commerciale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"real estate,industrial,commercial\"}"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "objectway",
+ "company": "Objectway",
+ "first_name": "Luigi",
+ "domain": "objectway.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software e servizi per banche e gestori patrimoniali. Ecco chi contatteremmo per Objectway.",
+ "market_note": "Objectway offre a banche e gestori patrimoniali una piattaforma software e di servizi, quindi parleremmo con chi guida tecnologia e operazioni nelle banche e società di gestione.",
+ "evidence": [
+  {
+   "claim": "Fornisce software e servizi a banche e gestori patrimoniali e di asset",
+   "url": "https://objectway.com/",
+   "quote": "Objectway provides banks, wealth and asset managers with a state-of-the-art software and service platform delivering key benefits across their entire value chain."
+  },
+  {
+   "claim": "Piattaforma software e di servizi per banche e gestori",
+   "url": "https://objectway.com/",
+   "quote": "Objectway provides banks, wealth and asset managers with a state-of-the-art software and service platform delivering key benefits across their entire value chain."
+  },
+  {
+   "claim": "Fornisce la piattaforma a banche e gestori patrimoniali",
+   "url": "https://objectway.com/",
+   "quote": "Objectway provides banks, wealth and asset managers with a state-of-the-art software and service platform delivering key benefits across their entire value chain."
+  },
+  {
+   "claim": "Serve istituzioni finanziarie in ogni segmento",
+   "url": "https://objectway.com/objectway-serves-wide-range-of-clients-and-financial-institutions/",
+   "quote": "Supporting financial institutions in every segment"
+  }
+ ],
+ "market": {
+  "count": "1.778",
+  "label": "responsabili IT, CIO e CTO di banche e società di gestione patrimoniale, oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "banche",
+   "wealth e asset management",
+   "assicurazioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"banking,financial services,wealth management,asset management,capital markets,insurance\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

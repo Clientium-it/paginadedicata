@@ -1,0 +1,86 @@
+{
+ "slug": "iubenda",
+ "company": "iubenda",
+ "first_name": "Filippo",
+ "domain": "iubenda.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Da oltre 15 anni soluzioni di conformità online per aziende, consensi, privacy policy e accessibilità. Ecco chi contatteremmo per iubenda.",
+ "market_note": "iubenda sviluppa da anni soluzioni per gestire la conformità online di siti e app, dalle startup alle multinazionali, quindi parleremmo con titolari e amministratori delle aziende che devono restare conformi.",
+ "evidence": [
+  {
+   "claim": "Da oltre 15 anni offre soluzioni di conformità online alle aziende",
+   "url": "https://www.iubenda.com/it/",
+   "quote": "Da oltre 15 anni aiutiamo le aziende a gestire la conformità online in modo automatico"
+  },
+  {
+   "claim": "Si occupa di consensi, privacy policy, termini e condizioni e accessibilità",
+   "url": "https://www.iubenda.com/it/",
+   "quote": "Consensi, privacy policy, termini e condizioni, accessibilità."
+  },
+  {
+   "claim": "Serve clienti dalle startup alle grandi multinazionali",
+   "url": "https://www.iubenda.com/it/advanced-solutions/",
+   "quote": "Dalle startup in crescita alle grandi multinazionali"
+  },
+  {
+   "claim": "Le soluzioni coprono siti e app",
+   "url": "https://www.iubenda.com/it/",
+   "quote": "400+ mila siti e app supportati"
+  },
+  {
+   "claim": "Aiuta da oltre 15 anni le aziende con la conformità online in modo automatico",
+   "url": "https://www.iubenda.com/it/",
+   "quote": "Da oltre 15 anni aiutiamo le aziende a gestire la conformità online in modo automatico"
+  },
+  {
+   "claim": "Settori clienti dichiarati sul sito",
+   "url": "https://www.iubenda.com/it/",
+   "quote": "Settori E-commerce SaaS Editori Inserzionisti Sviluppatori di app"
+  }
+ ],
+ "market": {
+  "count": "4.681",
+  "label": "titolari, CEO e amministratori di aziende italiane con un sito o una app da conformare",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "e-commerce",
+   "SaaS",
+   "editori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"e-commerce,saas,publishing,advertising,mobile apps\"}"
+ }
+}

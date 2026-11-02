@@ -1,0 +1,91 @@
+{
+ "slug": "abbyy",
+ "company": "ABBYY",
+ "first_name": "Vladimir",
+ "domain": "abbyy.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Elaborazione intelligente dei documenti e automazione dei processi aziendali. Ecco chi contatteremmo per ABBYY.",
+ "market_note": "ABBYY offre elaborazione intelligente dei documenti e automazione dei processi per imprese di ogni dimensione e settore, quindi parleremmo con chi guida i progetti di automazione e digitalizzazione.",
+ "evidence": [
+  {
+   "claim": "Elaborazione intelligente dei documenti e automazione dei processi aziendali",
+   "url": "https://www.abbyy.com/",
+   "quote": "Purpose-built AI document processing for efficient business process automation"
+  },
+  {
+   "claim": "Rivolge la propria tecnologia a imprese di ogni dimensione e settore",
+   "url": "https://www.abbyy.com/marketplace/about/",
+   "quote": "Document understanding for enterprises of any size and industry"
+  },
+  {
+   "claim": "Sviluppa AI per l'elaborazione documentale e l'automazione dei processi",
+   "url": "https://www.abbyy.com/",
+   "quote": "Purpose-built AI document processing for efficient business process automation"
+  },
+  {
+   "claim": "Serve i servizi finanziari e il banking",
+   "url": "https://www.abbyy.com/",
+   "quote": "Smarter, faster banking for today’s customers."
+  },
+  {
+   "claim": "Serve il settore assicurativo",
+   "url": "https://www.abbyy.com/solutions/insurance/",
+   "quote": "Strategically automate and digitize policy and claims processes with intelligent automation."
+  },
+  {
+   "claim": "Serve il settore pubblico",
+   "url": "https://www.abbyy.com/solutions/government/",
+   "quote": "Achieve the highest levels of security, reliability, scalability and efficiency."
+  },
+  {
+   "claim": "Serve trasporti e logistica",
+   "url": "https://www.abbyy.com/",
+   "quote": "Target and remove friction from your shipments."
+  }
+ ],
+ "market": {
+  "count": "1.997",
+  "label": "responsabili IT e CIO di aziende italiane strutturate nei settori finanza, assicurazioni, pubblica amministrazione e logistica",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "finanza",
+   "assicurazioni",
+   "logistica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"financial services,insurance,government,transportation, logistics, supply chain and storage\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

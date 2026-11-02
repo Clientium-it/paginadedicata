@@ -1,0 +1,79 @@
+{
+ "slug": "econocom-italia",
+ "company": "Econocom Italia",
+ "first_name": "Sara",
+ "domain": "econocom.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Primo general contractor digitale che segue progetti di innovazione tecnologica in azienda. Ecco chi contatteremmo per Econocom Italia.",
+ "market_note": "Econocom Italia accelera la trasformazione digitale delle aziende con soluzioni, servizi e noleggio operativo della tecnologia, quindi parleremmo con chi guida IT e investimenti tecnologici.",
+ "evidence": [
+  {
+   "claim": "Econocom è un general contractor digitale che segue progetti di innovazione tecnologica in azienda",
+   "url": "https://www.econocom.it/",
+   "quote": "il primo general contractor digitale in Europa"
+  },
+  {
+   "claim": "Accelera la trasformazione digitale delle aziende",
+   "url": "https://www.econocom.it/",
+   "quote": "accelera la trasformazione digitale delle aziende e delle organizzazioni pubbliche"
+  },
+  {
+   "claim": "Offre noleggio operativo e gestione del budget tecnologico",
+   "url": "https://www.econocom.it/",
+   "quote": "soluzioni di noleggio operativo e gestione dinamica del budget"
+  },
+  {
+   "claim": "Si definisce primo general contractor digitale in Europa",
+   "url": "https://www.econocom.it/",
+   "quote": "il primo general contractor digitale in Europa"
+  },
+  {
+   "claim": "Serve medie e grandi aziende come clienti",
+   "url": "https://www.econocom.it/financing/lease-solutions",
+   "quote": "+1.000 medie-grandi aziende clienti"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di medie e grandi aziende italiane oltre i 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "medie-grandi aziende"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "slug": "rise",
+ "company": "RISE",
+ "first_name": "René",
+ "domain": "rise-world.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Progetta e integra grandi sistemi IT per aziende di molti settori. Ecco chi contatteremmo per RISE.",
+ "market_note": "RISE progetta e integra grandi sistemi IT per aziende di settori come automotive, sanità, finanza ed energia, quindi parleremmo con chi decide su infrastruttura, software e sicurezza.",
+ "evidence": [
+  {
+   "claim": "integra grandi sistemi IT",
+   "url": "https://www.rise-world.com/de/",
+   "quote": "Anbieter und Integrator für große IT-Systeme"
+  },
+  {
+   "claim": "serve aziende di molti settori",
+   "url": "https://www.rise-world.com/de/",
+   "quote": "Automobilindustrie, Corporate IT, Government, Healthcare, Financial & Banking, Energie & Versorgungsunternehmen"
+  },
+  {
+   "claim": "grandi sistemi IT",
+   "url": "https://www.rise-world.com/de/",
+   "quote": "Anbieter und Integrator für große IT-Systeme"
+  },
+  {
+   "claim": "settori come automotive, sanità, finanza ed energia",
+   "url": "https://www.rise-world.com/de/",
+   "quote": "Automobilindustrie, Corporate IT, Government, Healthcare, Financial & Banking, Energie & Versorgungsunternehmen"
+  },
+  {
+   "claim": "grandi sistemi IT",
+   "url": "https://www.rise-world.com/de/",
+   "quote": "Anbieter und Integrator für große IT-Systeme"
+  },
+  {
+   "claim": "settori come automotive, sanità e finanza",
+   "url": "https://www.rise-world.com/de/",
+   "quote": "Automobilindustrie, Corporate IT, Government, Healthcare, Financial & Banking, Energie & Versorgungsunternehmen"
+  },
+  {
+   "claim": "settori clienti dichiarati",
+   "url": "https://www.rise-world.com/de/",
+   "quote": "Automobilindustrie, Corporate IT, Government, Healthcare, Financial & Banking, Energie & Versorgungsunternehmen"
+  }
+ ],
+ "market": {
+  "count": "4.292",
+  "label": "responsabili IT, CIO e CTO di aziende strutturate dai 100 addetti in diversi settori",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "automotive",
+   "finanza",
+   "sanità",
+   "energia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"automotive,information technology,government,health care,banking,financial services,energy,utilities\"}"
+ }
+}

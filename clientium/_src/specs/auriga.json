@@ -1,0 +1,84 @@
+{
+ "slug": "auriga",
+ "company": "Auriga",
+ "first_name": "Antonella",
+ "domain": "aurigaspa.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software innovativi per il mondo delle banche, da oltre 30 anni. Ecco chi contatteremmo per Auriga.",
+ "market_note": "Auriga sviluppa software per la banca omnicanale punto di riferimento per il mondo delle banche, quindi parleremmo con chi guida tecnologia e canali digitali negli istituti bancari.",
+ "evidence": [
+  {
+   "claim": "Produce software per il mondo delle banche da oltre 30 anni",
+   "url": "https://www.aurigaspa.com/azienda/chi-siamo/",
+   "quote": "Da oltre 30 anni progettiamo e realizziamo software innovativi, punto di riferimento per il mondo delle banche."
+  },
+  {
+   "claim": "Sviluppa software per la banca omnicanale",
+   "url": "https://www.aurigaspa.com/azienda/chi-siamo/",
+   "quote": "LEADER ITALIANO NEL SOFTWARE PER LA BANCA OMNICANALE"
+  },
+  {
+   "claim": "Punto di riferimento per le banche",
+   "url": "https://www.aurigaspa.com/azienda/chi-siamo/",
+   "quote": "punto di riferimento per il mondo delle banche"
+  },
+  {
+   "claim": "Software per la banca omnicanale",
+   "url": "https://www.aurigaspa.com/azienda/chi-siamo/",
+   "quote": "LEADER ITALIANO NEL SOFTWARE PER LA BANCA OMNICANALE"
+  },
+  {
+   "claim": "Punto di riferimento per le banche",
+   "url": "https://www.aurigaspa.com/azienda/chi-siamo/",
+   "quote": "punto di riferimento per il mondo delle banche"
+  },
+  {
+   "claim": "Vende alle banche",
+   "url": "https://www.aurigaspa.com/azienda/chi-siamo/",
+   "quote": "punto di riferimento per il mondo delle banche"
+  }
+ ],
+ "market": {
+  "count": "936",
+  "label": "responsabili IT e digitali di banche e istituti finanziari strutturati in Italia da oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "banking"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"banking\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

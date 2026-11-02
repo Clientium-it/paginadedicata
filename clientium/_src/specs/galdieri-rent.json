@@ -1,0 +1,84 @@
+{
+ "slug": "galdieri-rent",
+ "company": "Galdieri Rent",
+ "first_name": "Alessandro",
+ "domain": "galdierirent.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Noleggio auto lungo termine per privati e aziende, con canone fisso tutto incluso. Ecco chi contatteremmo per Galdieri Rent.",
+ "market_note": "Galdieri Rent offre noleggio auto a breve e lungo termine per privati e aziende in tutta Italia, quindi parleremmo con chi in azienda decide sulla flotta e sulla mobilità.",
+ "evidence": [
+  {
+   "claim": "Noleggio auto lungo termine per privati e aziende",
+   "url": "https://galdierirent.it/",
+   "quote": "Per privati e aziende: canone chiaro, assistenza completa"
+  },
+  {
+   "claim": "canone fisso tutto incluso",
+   "url": "https://galdierirent.it/",
+   "quote": "solo canone fisso mensile, tutto incluso"
+  },
+  {
+   "claim": "noleggio auto a breve e lungo termine",
+   "url": "https://galdierirent.it/contatti",
+   "quote": "Noleggio auto a breve e lungo termine."
+  },
+  {
+   "claim": "in tutta Italia",
+   "url": "https://galdierirent.it/",
+   "quote": "oltre 100 Point in tutta Italia"
+  },
+  {
+   "claim": "noleggio breve e lungo termine per privati e aziende",
+   "url": "https://galdierirent.it/contatti",
+   "quote": "Noleggio auto a breve e lungo termine."
+  },
+  {
+   "claim": "aziende servite in tutta Italia",
+   "url": "https://galdierirent.it/",
+   "quote": "oltre 100 Point in tutta Italia"
+  }
+ ],
+ "market": {
+  "count": "86.964",
+  "label": "titolari, CEO e amministratori di aziende italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "da 10 a 250 addetti",
+   "aziende di ogni dimensione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

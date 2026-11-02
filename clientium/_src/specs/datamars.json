@@ -1,0 +1,85 @@
+{
+ "slug": "datamars",
+ "company": "Datamars",
+ "first_name": "Daniela",
+ "domain": "datamars.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Tecnologie RFID e dati per la produttività animale e tessile. Ecco chi contatteremmo per Datamars.",
+ "market_note": "Datamars sviluppa tecnologie RFID e soluzioni dati per agricoltura, animali da compagnia e servizi tessili, quindi parleremmo con chi decide su tracciabilità, identificazione e produttività aziendale.",
+ "evidence": [
+  {
+   "claim": "Datamars opera sulla produttività animale e tessile",
+   "url": "https://datamars.com/",
+   "quote": "animal and textile productivity solutions"
+  },
+  {
+   "claim": "Offre soluzioni RFID e dati",
+   "url": "https://datamars.com/",
+   "quote": "specialised RFID and data solutions"
+  },
+  {
+   "claim": "Serve agricoltura, animali da compagnia e servizi tessili",
+   "url": "https://datamars.com/about-us",
+   "quote": "Across agriculture, companion animal and textile service industries"
+  },
+  {
+   "claim": "Offre soluzioni di identificazione",
+   "url": "https://datamars.com/",
+   "quote": "trusted identification and reunification solutions"
+  },
+  {
+   "claim": "Soluzioni RFID e dati per la produttività animale e tessile",
+   "url": "https://datamars.com/",
+   "quote": "animal and textile productivity solutions"
+  },
+  {
+   "claim": "Settori clienti dichiarati: agricoltura e servizi tessili",
+   "url": "https://datamars.com/about-us",
+   "quote": "Across agriculture, companion animal and textile service industries"
+  }
+ ],
+ "market": {
+  "count": "1.246",
+  "label": "titolari e amministratori di aziende agricole e di servizi tessili in Italia da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "agricoltura",
+   "servizi tessili"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"agriculture,farming,textiles,laundry and dry-cleaning\"}"
+ }
+}

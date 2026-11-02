@@ -1,0 +1,79 @@
+{
+ "slug": "redbox",
+ "company": "Redbox",
+ "first_name": "Diego",
+ "domain": "redbox.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Packaging innovativo e materiali per il punto vendita per i più noti brand. Ecco chi contatteremmo per Redbox.",
+ "market_note": "Redbox realizza packaging innovativo e materiali POP per i più noti brand, quindi parleremmo con chi decide su packaging, immagine del prodotto e presenza nel punto vendita.",
+ "evidence": [
+  {
+   "claim": "Realizza packaging innovativo per i più noti brand",
+   "url": "https://redbox.it/chi-siamo/",
+   "quote": "punto di riferimento per i più noti brand per la creazione di soluzioni di packaging innovativi"
+  },
+  {
+   "claim": "Realizza materiali per il punto vendita",
+   "url": "https://redbox.it/",
+   "quote": "la progettazione dei materiali promozionali e per il punto vendita"
+  },
+  {
+   "claim": "Sviluppa materiali POP per i brand",
+   "url": "https://redbox.it/chi-siamo/",
+   "quote": "per lo sviluppo di materiali POP e per la gestione di servizi di co-packing"
+  },
+  {
+   "claim": "Packaging innovativo e materiali POP per i più noti brand",
+   "url": "https://redbox.it/chi-siamo/",
+   "quote": "punto di riferimento per i più noti brand per la creazione di soluzioni di packaging innovativi"
+  },
+  {
+   "claim": "Clienti sono i grandi brand",
+   "url": "https://redbox.it/chi-siamo/",
+   "quote": "punto di riferimento per i più noti brand per la creazione di soluzioni di packaging innovativi"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di brand e aziende strutturate in tutta Italia con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "brand strutturati"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

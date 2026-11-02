@@ -1,0 +1,80 @@
+{
+ "slug": "fmc",
+ "company": "FMC",
+ "first_name": "Viviana",
+ "domain": "fmc.fichtner.de",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza aziendale per il settore dell'energia e dell'acqua. Ecco chi contatteremmo per FMC.",
+ "market_note": "FMC offre consulenza strategica, organizzativa e di transazione alle imprese dell'energia e dell'acqua, dai Stadtwerke alle grandi utility, quindi parleremmo con chi decide su strategia e trasformazione.",
+ "evidence": [
+  {
+   "claim": "FMC è specializzata nella consulenza aziendale per il settore dell'energia e dell'acqua",
+   "url": "https://www.fmc.fichtner.de/",
+   "quote": "ganzheitliche Unternehmensberatung in der Energie- und Wasserwirtschaft spezialisiert"
+  },
+  {
+   "claim": "Offre consulenza strategica, organizzativa e di transazione",
+   "url": "https://www.fmc.fichtner.de/",
+   "quote": "umfassende Beratungsleistung, darunter Strategieberatung, Organisationsberatung und Transaktionsbegleitung"
+  },
+  {
+   "claim": "Tra i clienti figurano Stadtwerke e grandi gruppi dell'energia",
+   "url": "https://www.fmc.fichtner.de/",
+   "quote": "Neben den kommunalen Stadtwerken zählen auch große internationale Energiekonzerne zu unseren Kunden."
+  },
+  {
+   "claim": "Specializzata nella consulenza per energia e acqua",
+   "url": "https://www.fmc.fichtner.de/",
+   "quote": "ganzheitliche Unternehmensberatung in der Energie- und Wasserwirtschaft spezialisiert"
+  },
+  {
+   "claim": "Settori clienti dichiarati energia e acqua",
+   "url": "https://www.fmc.fichtner.de/",
+   "quote": "ganzheitliche Unternehmensberatung in der Energie- und Wasserwirtschaft spezialisiert"
+  }
+ ],
+ "market": {
+  "count": "5.663",
+  "label": "titolari, CEO e direttori di utility e aziende dell'energia e dell'acqua in Italia oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "energia e acqua",
+   "utility"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"utilities,energy,water,renewable energy\"}"
+ }
+}

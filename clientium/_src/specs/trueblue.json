@@ -1,0 +1,75 @@
+{
+ "slug": "trueblue",
+ "company": "Trueblue",
+ "first_name": "Sergio",
+ "domain": "truebluecorp.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni AI e software di business intelligence per il settore farmaceutico e Life Science. Ecco chi contatteremmo per Trueblue.",
+ "market_note": "Trueblue sviluppa soluzioni AI e software di business intelligence per il mercato farmaceutico e Life Science, quindi parleremmo con chi guida le direzioni commerciali e IT delle aziende del settore.",
+ "evidence": [
+  {
+   "claim": "Software e business intelligence per il settore farmaceutico",
+   "url": "https://truebluecorp.com/it",
+   "quote": "Business Intelligence e Data Software per il mercato farmaceutico"
+  },
+  {
+   "claim": "Piattaforma di business intelligence per i mercati Pharma e Life Science",
+   "url": "https://truebluecorp.com/it",
+   "quote": "una piattaforma di business intelligence per i mercati Pharma & Life Science"
+  },
+  {
+   "claim": "Software di business intelligence per il mercato farmaceutico",
+   "url": "https://truebluecorp.com/it",
+   "quote": "Business Intelligence e Data Software per il mercato farmaceutico"
+  },
+  {
+   "claim": "Serve i settori Pharma e Life Science",
+   "url": "https://truebluecorp.com/it",
+   "quote": "per i mercati Pharma & Life Science"
+  }
+ ],
+ "market": {
+  "count": "3.682",
+  "label": "titolari, CEO e direttori di aziende farmaceutiche e Life Science strutturate in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "farmaceutico",
+   "life science"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"pharmaceutical,life science\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

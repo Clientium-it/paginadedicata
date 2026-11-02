@@ -1,0 +1,79 @@
+{
+ "slug": "denodo",
+ "company": "Denodo",
+ "first_name": "Paolo",
+ "domain": "denodo.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Il layer dati che connette e unifica l'intero patrimonio dati dell'azienda in tempo reale. Ecco chi contatteremmo per Denodo.",
+ "market_note": "Denodo offre la piattaforma che accelera integrazione, gestione e distribuzione dei dati per analisi e intelligenza artificiale nelle organizzazioni enterprise, quindi parleremmo con chi guida IT, dati e architetture.",
+ "evidence": [
+  {
+   "claim": "Denodo connette e unifica l'intero patrimonio dati in tempo reale",
+   "url": "https://www.denodo.com/en",
+   "quote": "Denodo connects, governs, and unifies your entire data estate in real time"
+  },
+  {
+   "claim": "La piattaforma accelera integrazione, gestione e distribuzione dei dati per AI e analisi",
+   "url": "https://www.denodo.com/en",
+   "quote": "The Denodo Platform dramatically accelerates data integration, management, and delivery for AI, analytics, and operational use cases"
+  },
+  {
+   "claim": "Focus sulle organizzazioni enterprise",
+   "url": "https://www.denodo.com/en",
+   "quote": "Active Context for the Enterprise"
+  },
+  {
+   "claim": "Governance completa sui dati",
+   "url": "https://www.denodo.com/en",
+   "quote": "Zero copy. Full governance. One layer."
+  },
+  {
+   "claim": "L'IT e' il referente che decide sui dati",
+   "url": "https://www.denodo.com/en",
+   "quote": "while IT focuses on innovation"
+  }
+ ],
+ "market": {
+  "count": "8.699",
+  "label": "CIO, CTO e responsabili IT di grandi aziende italiane oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "responsabili IT e dati"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200}"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "slug": "adesso-it",
+ "company": "adesso.it",
+ "first_name": "Alberto",
+ "domain": "adesso.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software enterprise con Agentic AI per grandi aziende e Mid Cap italiane. Ecco chi contatteremmo per adesso.it.",
+ "market_note": "adesso.it sviluppa software enterprise con l'Agentic AI e accompagna grandi aziende e Mid Cap italiane nella modernizzazione delle applicazioni, quindi parleremmo con chi guida le scelte tecnologiche e l'innovazione.",
+ "evidence": [
+  {
+   "claim": "Sviluppa software enterprise con Agentic AI",
+   "url": "https://www.adesso.it/l-azienda",
+   "quote": "sviluppa software enterprise con l'Agentic AI"
+  },
+  {
+   "claim": "Serve grandi aziende e Mid Cap italiane",
+   "url": "https://www.adesso.it/l-azienda",
+   "quote": "Accompagniamo grandi aziende e Mid Cap italiane"
+  },
+  {
+   "claim": "Sviluppa software enterprise con Agentic AI",
+   "url": "https://www.adesso.it/l-azienda",
+   "quote": "sviluppa software enterprise con l'Agentic AI"
+  },
+  {
+   "claim": "Si occupa di sviluppo e modernizzazione delle applicazioni",
+   "url": "https://www.adesso.it/l-azienda",
+   "quote": "nello sviluppo e nella modernizzazione delle applicazioni"
+  },
+  {
+   "claim": "Sviluppa software enterprise con Agentic AI per grandi aziende",
+   "url": "https://www.adesso.it/l-azienda",
+   "quote": "sviluppa software enterprise con l'Agentic AI"
+  },
+  {
+   "claim": "Clienti grandi aziende e Mid Cap italiane",
+   "url": "https://www.adesso.it/l-azienda",
+   "quote": "Accompagniamo grandi aziende e Mid Cap italiane"
+  }
+ ],
+ "market": {
+  "count": "7.840",
+  "label": "responsabili IT, CIO e CTO di grandi aziende e mid cap italiane oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "grandi aziende e mid cap"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

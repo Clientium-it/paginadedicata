@@ -1,0 +1,79 @@
+{
+ "slug": "alkemy",
+ "company": "Alkemy+",
+ "first_name": "Marco",
+ "domain": "alkemyplus.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Strategia, creatività, design, media, commerce e tecnologia per i brand. Ecco chi contatteremmo per Alkemy+.",
+ "market_note": "Alkemy+ è il cuore creativo del gruppo Alkemy e connette strategia, creatività, media e commerce per i brand, quindi parleremmo con chi guida marketing e comunicazione.",
+ "evidence": [
+  {
+   "claim": "Connette strategia, creatività, design, media, commerce e tecnologia",
+   "url": "https://alkemyplus.com/",
+   "quote": "connettere strategia, creatività, design, media, commerce e tecnologia in un unico modello operativo"
+  },
+  {
+   "claim": "È il cuore creativo del gruppo Alkemy",
+   "url": "https://alkemyplus.com/",
+   "quote": "IL CUORE CREATIVO DEL GRUPPO ALKEMY."
+  },
+  {
+   "claim": "Lavora per i brand",
+   "url": "https://alkemyplus.com/",
+   "quote": "pensato per la nuova generazione di brand"
+  },
+  {
+   "claim": "Cuore creativo del gruppo Alkemy nato all'intersezione tra creatività, dati, tecnologia e business",
+   "url": "https://alkemyplus.com/",
+   "quote": "IL CUORE CREATIVO DEL GRUPPO ALKEMY. NATO ALL'INTERSEZIONE TRA CREATIVITÀ, DATI, TECNOLOGIA E BUSINESS."
+  },
+  {
+   "claim": "Offre creatività, comunicazione e media per il business dei brand",
+   "url": "https://alkemyplus.com/",
+   "quote": "Creatività, comunicazione e produzione per trasformare le idee in risultati concreti per il business."
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "direttori marketing, CEO e titolari di aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

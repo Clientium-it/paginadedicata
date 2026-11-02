@@ -1,0 +1,74 @@
+{
+ "slug": "namirial",
+ "company": "Namirial",
+ "first_name": "Davide",
+ "domain": "namirial.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Firme elettroniche, certificati digitali e servizi fiduciari qualificati per imprese e pubbliche amministrazioni. Ecco chi contatteremmo per Namirial.",
+ "market_note": "Namirial emette firme elettroniche, certificati digitali e servizi fiduciari qualificati per imprese e pubbliche amministrazioni, quindi parleremmo con chi guida sistemi informativi, sicurezza e integrazione delle piattaforme.",
+ "evidence": [
+  {
+   "claim": "Namirial emette firme elettroniche e certificati digitali",
+   "url": "https://www.namirial.com/it/servizi-fiduciari/",
+   "quote": "Namirial emette e gestisce firme elettroniche, certificati digitali, marche temporali e dispositivi di identità, riconosciuti in tutta l’Unione Europea"
+  },
+  {
+   "claim": "serve imprese e pubbliche amministrazioni",
+   "url": "https://www.namirial.com/it/servizi-fiduciari/",
+   "quote": "per imprese, pubbliche amministrazioni e cittadini"
+  },
+  {
+   "claim": "i certificati applicano firme elettroniche semplici, avanzate o qualificate",
+   "url": "https://www.namirial.com/it/servizi-fiduciari/certificati-digitali/",
+   "quote": "applicare firme elettroniche semplici, avanzate o qualificate"
+  },
+  {
+   "claim": "soluzioni integrate nei sistemi aziendali tramite API e SDK",
+   "url": "https://www.namirial.com/it/sign/signing-web-services/",
+   "quote": "facilitando l’integrazione nei sistemi ERP, CRM e BPM"
+  }
+ ],
+ "market": {
+  "count": "7.840",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "CIO e responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "slug": "simona",
+ "company": "SIMONA",
+ "first_name": "Riccardo",
+ "domain": "simona.de",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Materiali e componenti in plastica per l'industria chimica, l'acqua e la mobilità. Ecco chi contatteremmo per SIMONA.",
+ "market_note": "SIMONA produce materiali e componenti in plastica per l'industria chimica, la gestione dell'acqua, l'agricoltura e la mobilità, quindi parleremmo con chi guida le aziende industriali che li utilizzano.",
+ "evidence": [
+  {
+   "claim": "Produce materiali in plastica",
+   "url": "https://www.simona.de/",
+   "quote": "SIMONA Werkstoffe Elektrisch leitfähige Kunststoffe"
+  },
+  {
+   "claim": "Serve l'industria chimica",
+   "url": "https://www.simona.de/",
+   "quote": "Chemische Prozessindustrie Chemieanlage Chemischer Behälter- und Apparatebau"
+  },
+  {
+   "claim": "Serve la gestione dell'acqua",
+   "url": "https://www.simona.de/",
+   "quote": "Wassermanagement Trinkwasserversorgung Wasserfassung Rohre für die Wasserfassung"
+  },
+  {
+   "claim": "Serve la mobilità",
+   "url": "https://www.simona.de/",
+   "quote": "Mobilität und Luftfahrt Flugzeug Flugzeuginnenausstattung Bahn"
+  },
+  {
+   "claim": "Serve l'agricoltura",
+   "url": "https://www.simona.de/",
+   "quote": "Agrar & Lebensmittel Vieh- und Landwirtschaft"
+  },
+  {
+   "claim": "Produce componenti",
+   "url": "https://www.simona.de/",
+   "quote": "Automobil Nutzfahrzeugteile Karosserie- & Innenraumverkleidungen"
+  },
+  {
+   "claim": "Materiali in plastica per l'industria chimica",
+   "url": "https://www.simona.de/",
+   "quote": "Chemische Prozessindustrie Chemieanlage Chemischer Behälter- und Apparatebau"
+  },
+  {
+   "claim": "Settore acqua",
+   "url": "https://www.simona.de/",
+   "quote": "Wassermanagement Trinkwasserversorgung Wasserfassung Rohre für die Wasserfassung"
+  },
+  {
+   "claim": "Settore edilizia",
+   "url": "https://www.simona.de/",
+   "quote": "Bau & Werbung Hochbau SIMONA CELPLAST Decken- und Wandelemente"
+  },
+  {
+   "claim": "Settore energia",
+   "url": "https://www.simona.de/",
+   "quote": "Energie, Umwelt & Ressourcen Data Center Deponietechnik Biogasfilter"
+  }
+ ],
+ "market": {
+  "count": "15.667",
+  "label": "direttori, titolari e responsabili di aziende industriali italiane dai 50 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "da 50 addetti",
+   "chimica",
+   "acqua",
+   "automotive",
+   "edilizia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"chemical,water,agriculture,automotive,construction,energy\"}"
+ }
+}

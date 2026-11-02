@@ -1,0 +1,76 @@
+{
+ "slug": "v-nova",
+ "company": "V-Nova",
+ "first_name": "Gianluca",
+ "domain": "v-nova.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "V-Nova sviluppa formati di dati visivi gerarchici per AI, media ed esperienze immersive. Ecco chi contatteremmo per V-Nova.",
+ "market_note": "V-Nova sviluppa formati di dati visivi gerarchici e offre servizi professionali a vendor e service provider di diversi settori, quindi parleremmo con chi guida tecnologia e prodotto.",
+ "evidence": [
+  {
+   "claim": "Sviluppa formati di dati visivi gerarchici per AI, media ed esperienze immersive",
+   "url": "https://v-nova.com/",
+   "quote": "V-Nova develops hierarchical, compute-aware data formats that transform visual information"
+  },
+  {
+   "claim": "Sviluppa formati di dati gerarchici",
+   "url": "https://v-nova.com/",
+   "quote": "V-Nova develops hierarchical, compute-aware data formats"
+  },
+  {
+   "claim": "Offre servizi professionali a vendor e service provider",
+   "url": "https://v-nova.com/services/",
+   "quote": "V-Nova offers a suite of Professional Services to help vendors and service providers"
+  },
+  {
+   "claim": "Settori serviti dalle sue tecnologie",
+   "url": "https://v-nova.com/",
+   "quote": "media and entertainment, XR, industry, defense, robotics, smart cities, automotive, and medical imaging"
+  }
+ ],
+ "market": {
+  "count": "855",
+  "label": "responsabili IT, CIO e CTO di aziende media, broadcast e tecnologiche in Italia oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "media e entertainment",
+   "automotive",
+   "broadcast"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"media and entertainment,automotive,robotics,smart cities,medical,defense and space manufacturing\"}"
+ }
+}

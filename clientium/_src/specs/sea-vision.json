@@ -1,0 +1,81 @@
+{
+ "slug": "sea-vision",
+ "company": "SEA Vision",
+ "first_name": "Alberto",
+ "domain": "seavision-group.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Sistemi di visione e software di tracciabilità per l'industria farmaceutica. Ecco chi contatteremmo per SEA Vision.",
+ "market_note": "SEA Vision sviluppa sistemi di visione e software di tracciabilità per l'industria farmaceutica e i costruttori di macchine, quindi parleremmo con chi decide su qualità, automazione e serializzazione.",
+ "evidence": [
+  {
+   "claim": "Sviluppa sistemi di visione e software di tracciabilità per il farmaceutico",
+   "url": "https://seavision-group.com/",
+   "quote": "vision systems, track and trace software for serialization and traceability, and automation solutions for the pharmaceutical industry"
+  },
+  {
+   "claim": "Vende all'industria farmaceutica e ai costruttori di macchine per il confezionamento",
+   "url": "https://seavision-group.com/",
+   "quote": "automation solutions for the pharmaceutical industry and packaging machine manufacturers (OEM)"
+  },
+  {
+   "claim": "Sviluppa software per le aziende farmaceutiche",
+   "url": "https://seavision-group.com/about-us/",
+   "quote": "we develop cutting-edge software to help pharmaceutical companies create safe and traceable products"
+  },
+  {
+   "claim": "Sede a Pavia",
+   "url": "https://seavision-group.com/contacts/",
+   "quote": "via Claudio Treves, 9 E 27100 Pavia, Italy"
+  },
+  {
+   "claim": "Clienti nell'industria farmaceutica",
+   "url": "https://seavision-group.com/",
+   "quote": "automation solutions for the pharmaceutical industry and packaging machine manufacturers (OEM)"
+  }
+ ],
+ "market": {
+  "count": "6.221",
+  "label": "titolari, CEO e direttori di aziende farmaceutiche e del packaging in Italia oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "farmaceutica",
+   "packaging",
+   "dispositivi medici"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"pharmaceutical manufacturing,medical device,cosmetics\"}"
+ }
+}

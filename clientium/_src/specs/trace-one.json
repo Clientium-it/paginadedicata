@@ -1,0 +1,76 @@
+{
+ "slug": "trace-one",
+ "company": "Trace One",
+ "first_name": "Davide",
+ "domain": "traceone.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software PLM e conformità per i marchi di food, cosmetica e chimica. Ecco chi contatteremmo per Trace One.",
+ "market_note": "Trace One fornisce software PLM e di conformità ai marchi del food and beverage, della cosmetica e della chimica, quindi parleremmo con chi guida IT e sistemi informativi.",
+ "evidence": [
+  {
+   "claim": "Software PLM e soluzioni di conformità per i marchi di food, cosmetica e chimica.",
+   "url": "https://www.traceone.com/",
+   "quote": "AI-Native PLM Software and Compliance Solutions for Food & Beverage, Cosmetics, and Chemical Brands"
+  },
+  {
+   "claim": "Sviluppa software PLM e di conformità per i marchi di food, cosmetica e chimica.",
+   "url": "https://www.traceone.com/",
+   "quote": "AI-Native PLM Software and Compliance Solutions for Food & Beverage, Cosmetics, and Chemical Brands"
+  },
+  {
+   "claim": "Fornitore globale di software PLM e di conformità normativa.",
+   "url": "https://www.traceone.com/about-us",
+   "quote": "a global provider of AI-native Product Lifecycle Management (PLM) and regulatory compliance software"
+  },
+  {
+   "claim": "Serve i settori food and beverage, cosmetica e chimica.",
+   "url": "https://www.traceone.com/about-us",
+   "quote": "for the food & beverage, cosmetics & personal care, and specialty chemical industries"
+  }
+ ],
+ "market": {
+  "count": "287",
+  "label": "responsabili IT e sistemi informativi di aziende manifatturiere di food, cosmetica e chimica con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "food and beverage",
+   "cosmetica",
+   "chimica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"food and beverage,cosmetics,chemical\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

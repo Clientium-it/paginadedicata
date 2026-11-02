@@ -1,0 +1,96 @@
+{
+ "slug": "eviso",
+ "company": "eVISO",
+ "first_name": "Andrea",
+ "domain": "eviso.ai",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Intelligenza artificiale e dati sulle materie prime, con energia e tecnologia per le aziende. Ecco chi contatteremmo per eVISO.",
+ "market_note": "eVISO vende servizi di intelligenza artificiale e fornitura di energia elettrica ad altri operatori del settore e ai reseller, quindi parleremmo con chi guida aziende dell'energia e dell'IT.",
+ "evidence": [
+  {
+   "claim": "Azienda digitale che applica intelligenza artificiale alle materie prime",
+   "url": "https://eviso.ai/",
+   "quote": "eVISO è una digital company che crea valore per gli utenti ricorrenti di materie prime"
+  },
+  {
+   "claim": "Fornisce energia e soluzioni tecnologiche alle aziende",
+   "url": "https://eviso.ai/",
+   "quote": "Fornitura di energia per tutte le tipologie di utenze, soluzioni tecnologiche e consulenza per l'efficientamento energetico delle aziende"
+  },
+  {
+   "claim": "Vende servizi AI ad altri operatori del settore elettrico",
+   "url": "https://eviso.ai/company/",
+   "quote": "vendere i nostri servizi AI ad altri operatori del settore elettrico"
+  },
+  {
+   "claim": "Fornisce energia e soluzioni ai reseller in tutta Italia",
+   "url": "https://eviso.ai/",
+   "quote": "Fornitura di energia elettrica e soluzioni tecnologiche per aiutare i Reseller a servire nel modo migliore sempre più clienti finali in tutta Italia"
+  },
+  {
+   "claim": "Tecnologia adattabile a diverse materie prime",
+   "url": "https://eviso.ai/company/",
+   "quote": "Le attività svolte dal nostro motore digitale sono rapidamente adattabili a diverse materie prime"
+  },
+  {
+   "claim": "Mercato digitale per la frutta con SmartMele",
+   "url": "https://eviso.ai/company/",
+   "quote": "produttori e commercianti di frutta possono negoziare container di mele"
+  },
+  {
+   "claim": "Serve clienti in tutta Italia",
+   "url": "https://eviso.ai/",
+   "quote": "sempre più clienti finali in tutta Italia"
+  },
+  {
+   "claim": "Clienti nel settore energia elettrica",
+   "url": "https://eviso.ai/company/",
+   "quote": "vendere i nostri servizi AI ad altri operatori del settore elettrico"
+  }
+ ],
+ "market": {
+  "count": "2.630",
+  "label": "titolari, CEO e direttori di aziende italiane dei settori energia e utility da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "energia",
+   "utility",
+   "agricoltura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"energy,utilities,agriculture\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

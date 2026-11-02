@@ -1,0 +1,76 @@
+{
+ "slug": "ipoint",
+ "company": "IPOINT",
+ "first_name": "il team",
+ "domain": "ipoint-systems.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software per gestire compliance di prodotto e performance di sostenibilità lungo le supply chain. Ecco chi contatteremmo per IPOINT.",
+ "market_note": "IPOINT offre una piattaforma software per gestire compliance di prodotto e sostenibilità ai settori manifatturiero, elettronico e automotive, quindi parleremmo con chi guida compliance e sostenibilità.",
+ "evidence": [
+  {
+   "claim": "software per gestire compliance di prodotto e sostenibilità",
+   "url": "https://www.ipoint-systems.com/",
+   "quote": "IPOINT delivers a software platform to manage your product compliance and sustainability performance."
+  },
+  {
+   "claim": "serve i settori manifatturiero, elettronico e automotive",
+   "url": "https://www.ipoint-systems.com/",
+   "quote": "Manufacturing Electronics Automotive Sourcing & Procurement"
+  },
+  {
+   "claim": "compliance e sostenibilità lungo le supply chain",
+   "url": "https://www.ipoint-systems.com/",
+   "quote": "Unite compliance and sustainability across even complex supply chains."
+  },
+  {
+   "claim": "industrie servite: manifattura, elettronica, automotive",
+   "url": "https://www.ipoint-systems.com/",
+   "quote": "Manufacturing Electronics Automotive Sourcing & Procurement"
+  }
+ ],
+ "market": {
+  "count": "18.326",
+  "label": "titolari, CEO e direttori di aziende manifatturiere, elettroniche e automotive oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "manifattura",
+   "elettronica",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"manufacturing,electronics,automotive\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

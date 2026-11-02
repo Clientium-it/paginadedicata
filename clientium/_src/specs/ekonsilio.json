@@ -1,0 +1,84 @@
+{
+ "slug": "ekonsilio",
+ "company": "eKonsilio",
+ "first_name": "Reda",
+ "domain": "ekonsilio.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Marketing conversazionale e relazione cliente su Live Chat, WhatsApp, SMS e Meta. Ecco chi contatteremmo per eKonsilio.",
+ "market_note": "eKonsilio offre ai brand una piattaforma per gestire le conversazioni e generare lead qualificati su Live Chat, WhatsApp, SMS e Meta, quindi parleremmo con chi guida marketing e relazione cliente.",
+ "evidence": [
+  {
+   "claim": "Fa marketing conversazionale e relazione cliente",
+   "url": "https://www.ekonsilio.com/it",
+   "quote": "marketing conversazionale & relazione cliente"
+  },
+  {
+   "claim": "Opera su Live Chat, WhatsApp, SMS e Meta",
+   "url": "https://www.ekonsilio.com/it",
+   "quote": "Live Chat, WhatsApp, SMS e Meta"
+  },
+  {
+   "claim": "Offre una piattaforma per gestire le conversazioni",
+   "url": "https://www.ekonsilio.com/it",
+   "quote": "Una piattaforma tutto-in-uno per gestire le tue conversazioni"
+  },
+  {
+   "claim": "Aiuta i brand a generare lead qualificati",
+   "url": "https://www.ekonsilio.com/it/soluzioni/generazione-lead",
+   "quote": "i brand dispongono di una soluzione completa ed efficace per generare lead qualificati"
+  },
+  {
+   "claim": "Centralizza gli scambi da un'unica interfaccia",
+   "url": "https://www.ekonsilio.com/it",
+   "quote": "Gestite tutti i vostri scambi da un'unica interfaccia"
+  },
+  {
+   "claim": "La piattaforma è pensata per i team marketing",
+   "url": "https://www.ekonsilio.com/it",
+   "quote": "progettata sia per i vostri team marketing che per i vostri consulenti"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "direttori marketing, CEO e titolari di aziende e brand strutturati in Italia con volumi di lead da gestire",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "marketing conversazionale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

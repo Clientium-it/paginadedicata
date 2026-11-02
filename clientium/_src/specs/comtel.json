@@ -1,0 +1,90 @@
+{
+ "slug": "comtel",
+ "company": "Comtel",
+ "first_name": "Sauro",
+ "domain": "comtelitalia.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Integrazione di sistemi ICT per rendere le aziende connesse, sicure e flessibili. Ecco chi contatteremmo per Comtel.",
+ "market_note": "Comtel integra da oltre due decenni i sistemi ICT delle aziende in Italia, dal data center alla cybersecurity, quindi parleremmo con chi decide su infrastrutture, reti e sicurezza informatica.",
+ "evidence": [
+  {
+   "claim": "Rende le aziende connesse, sicure e flessibili",
+   "url": "https://www.comtelitalia.it/chi-siamo/comtel/",
+   "quote": "Siamo specializzati nel rendere le aziende connesse, sicure e flessibili"
+  },
+  {
+   "claim": "Si occupa di integrazione di sistemi ICT",
+   "url": "https://www.comtelitalia.it/",
+   "quote": "Siamo leader nell’integrazione di sistemi ICT in Italia"
+  },
+  {
+   "claim": "Integra sistemi ICT delle aziende da oltre due decenni in Italia",
+   "url": "https://www.comtelitalia.it/chi-siamo/comtel/",
+   "quote": "Da oltre due decenni siamo leader nell’integrazione di sistemi ICT in Italia"
+  },
+  {
+   "claim": "Offre soluzioni di data center e cybersecurity",
+   "url": "https://www.comtelitalia.it/aree-di-business/servizi/",
+   "quote": "soluzioni di Cloud & IT Transformation, Data Center Solutions & Services, Cybersecurity"
+  },
+  {
+   "claim": "Punto di riferimento per le soluzioni ICT delle aziende",
+   "url": "https://www.comtelitalia.it/chi-siamo/comtel/",
+   "quote": "il punto di riferimento per le soluzioni ICT delle aziende"
+  },
+  {
+   "claim": "Leader da oltre due decenni nell'integrazione di sistemi ICT in Italia",
+   "url": "https://www.comtelitalia.it/chi-siamo/comtel/",
+   "quote": "Da oltre due decenni siamo leader nell’integrazione di sistemi ICT in Italia"
+  },
+  {
+   "claim": "Vende integrazione di sistemi ICT alle aziende in Italia",
+   "url": "https://www.comtelitalia.it/",
+   "quote": "Siamo leader nell’integrazione di sistemi ICT in Italia"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "decisori IT",
+   "integrazione ICT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

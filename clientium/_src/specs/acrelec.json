@@ -1,0 +1,86 @@
+{
+ "slug": "acrelec",
+ "company": "Acrelec",
+ "first_name": "Luca",
+ "domain": "acrelec.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Tecnologie digitali che trasformano il modo di mangiare, fare acquisti e vivere. Ecco chi contatteremmo per Acrelec.",
+ "market_note": "Acrelec sviluppa chioschi, digital signage e casse self service per i brand della ristorazione e del retail, quindi parleremmo con chi decide su esperienza cliente e tecnologia nei punti vendita.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni digitali che trasformano il modo di mangiare, fare acquisti e vivere",
+   "url": "https://acrelec.com/",
+   "quote": "Digital solutions that transform how people dine, shop and live"
+  },
+  {
+   "claim": "Reinventa l'esperienza cliente per i brand della ristorazione e del retail",
+   "url": "https://acrelec.com/about/",
+   "quote": "reinventing the customer experience for restaurant and retail brands"
+  },
+  {
+   "claim": "Realizza digital signage, chioschi e self checkout",
+   "url": "https://acrelec.com/",
+   "quote": "Digital Signage Kiosk Self-Checkout Operational Solutions"
+  },
+  {
+   "claim": "E' l'inventore dell'iconico chiosco di ordinazione",
+   "url": "https://acrelec.com/about/",
+   "quote": "the inventor of the iconic ordering kiosk"
+  },
+  {
+   "claim": "E' diventata leader globale nel settore QSR",
+   "url": "https://acrelec.com/about/",
+   "quote": "a global leader in the QSR industry"
+  },
+  {
+   "claim": "Serve i settori Food and Beverage e Retail & Leisure",
+   "url": "https://acrelec.com/",
+   "quote": "Food and Beverage Retail & Leisure"
+  }
+ ],
+ "market": {
+  "count": "11.801",
+  "label": "titolari, CEO e direttori di catene della ristorazione e del retail in Italia da oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "ristorazione",
+   "retail",
+   "leisure"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"food and beverage,restaurants,retail,leisure\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

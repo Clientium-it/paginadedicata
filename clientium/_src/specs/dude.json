@@ -1,0 +1,84 @@
+{
+ "slug": "dude",
+ "company": "DUDE",
+ "first_name": "Mirko",
+ "domain": "dude.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Pubblicità e design per dare voce ai brand. Ecco chi contatteremmo per DUDE.",
+ "market_note": "DUDE è un'agenzia di advertising e design con sedi a Milano e Londra, quindi parleremmo con chi decide su pubblicità, brand e comunicazione.",
+ "evidence": [
+  {
+   "claim": "si occupa di advertising",
+   "url": "https://dude.it/",
+   "quote": "Advertising sucks. Until it doesn't."
+  },
+  {
+   "claim": "si occupa di design",
+   "url": "https://dude.it/",
+   "quote": "Let design do the talking."
+  },
+  {
+   "claim": "lavora sui brand",
+   "url": "https://dude.it/",
+   "quote": "Unicorns don’t exist without a kick-ass brand."
+  },
+  {
+   "claim": "ha sede a Milano",
+   "url": "https://dude.it/",
+   "quote": "Via Filippo Argelati, 33 20143 Milano"
+  },
+  {
+   "claim": "ha sede a Londra",
+   "url": "https://dude.it/",
+   "quote": "25B Vyner St London E2 9DG, United Kingdom"
+  },
+  {
+   "claim": "advertising e design con sedi a Milano e Londra",
+   "url": "https://dude.it/",
+   "quote": "Let design do the talking."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori marketing di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

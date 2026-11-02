@@ -1,0 +1,82 @@
+{
+ "slug": "bid",
+ "company": "BID",
+ "first_name": "Tiziana",
+ "domain": "bidcompany.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni di Analytics e AI per trasformare i dati in insight di business. Ecco chi contatteremmo per BID.",
+ "market_note": "BID sviluppa soluzioni di Analytics e AI per aziende dei financial services, pharma, industrial, energy e retail, quindi parleremmo con chi decide su dati, analytics e innovazione.",
+ "evidence": [
+  {
+   "claim": "Trasforma i dati in insight",
+   "url": "https://www.bidcompany.it/",
+   "quote": "Trasformiamo dati in insight"
+  },
+  {
+   "claim": "Offre soluzioni di Analytics e AI",
+   "url": "https://www.bidcompany.it/industry/financial-services",
+   "quote": "soluzioni di Analytics e AI"
+  },
+  {
+   "claim": "Collabora con i settori financial services, pharma, industrial, energy e retail",
+   "url": "https://www.bidcompany.it/",
+   "quote": "Le industries con cui collaboriamo Financial Services Pharma & Healthcare Industrial Energy & Utilities Fashion & Retail"
+  },
+  {
+   "claim": "Trasforma i dati in insight per i settori serviti",
+   "url": "https://www.bidcompany.it/",
+   "quote": "Trasformiamo dati in insight"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://www.bidcompany.it/",
+   "quote": "Le industries con cui collaboriamo Financial Services Pharma & Healthcare Industrial Energy & Utilities Fashion & Retail"
+  }
+ ],
+ "market": {
+  "count": "3.208",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate dei settori finance, pharma, industrial, energy e retail",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "financial services",
+   "pharma",
+   "industrial",
+   "energy e retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"financial services,pharmaceutical,health care,industrial,energy,utilities,fashion,retail\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "slug": "adlook",
+ "company": "Adlook",
+ "first_name": "Marialuisa",
+ "domain": "adlook.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma di media buying omnicanale basata su AI per i brand. Ecco chi contatteremmo per Adlook.",
+ "market_note": "Adlook è un partner indipendente di media buying per l'open web che aiuta i brand a crescere online, quindi parleremmo con chi decide marketing e investimenti pubblicitari.",
+ "evidence": [
+  {
+   "claim": "piattaforma di media buying omnicanale",
+   "url": "https://adlook.com/",
+   "quote": "Next-Gen Omnichannel Media Buying Platform"
+  },
+  {
+   "claim": "basata su AI",
+   "url": "https://adlook.com/",
+   "quote": "Every campaign is powered by AI."
+  },
+  {
+   "claim": "partner indipendente di media buying per l'open web",
+   "url": "https://adlook.com/about-us/",
+   "quote": "We’re an independent media buying partner for the open web."
+  },
+  {
+   "claim": "aiuta i brand a crescere online",
+   "url": "https://adlook.com/about-us/",
+   "quote": "Transforming the way brands grow online"
+  },
+  {
+   "claim": "aiutate i brand a crescere online con il media buying sull'open web",
+   "url": "https://adlook.com/about-us/",
+   "quote": "We’re an independent media buying partner for the open web."
+  },
+  {
+   "claim": "serve brand e aziende che investono in pubblicità",
+   "url": "https://adlook.com/",
+   "quote": "TRUSTED BY LEADING GLOBAL BRANDS"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori marketing di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

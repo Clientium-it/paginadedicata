@@ -1,0 +1,79 @@
+{
+ "slug": "bragg",
+ "company": "Bragg",
+ "first_name": "Lorenzo",
+ "domain": "bragg.group",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Contenuti e tecnologia igaming per operatori di tutto il mondo. Ecco chi contatteremmo per Bragg.",
+ "market_note": "Bragg fornisce contenuti casino, aggregazione di giochi e piattaforme tecnologiche agli operatori igaming di tutto il mondo, quindi parleremmo con chi decide su contenuti, piattaforma e crescita del gioco online.",
+ "evidence": [
+  {
+   "claim": "Contenuti e tecnologia igaming per operatori di tutto il mondo",
+   "url": "https://bragg.group/",
+   "quote": "powering leading igaming operators worldwide"
+  },
+  {
+   "claim": "Fornisce contenuti e tecnologia agli operatori igaming",
+   "url": "https://bragg.group/",
+   "quote": "From the games players love to the technology operators rely on"
+  },
+  {
+   "claim": "Aggregazione di giochi in un unico contratto",
+   "url": "https://bragg.group/casino-games/",
+   "quote": "one contract, thousands of games"
+  },
+  {
+   "claim": "Serve operatori igaming di tutto il mondo",
+   "url": "https://bragg.group/",
+   "quote": "powering leading igaming operators worldwide"
+  },
+  {
+   "claim": "I clienti sono operatori di gioco online licenziati",
+   "url": "https://bragg.group/about-us/",
+   "quote": "crafting the ultimate igaming player experiences for licensed operators"
+  }
+ ],
+ "market": {
+  "count": "61",
+  "label": "titolari, CEO e direttori di operatori di gioco online in Italia con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "gioco online"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"gambling\"}"
+ }
+}

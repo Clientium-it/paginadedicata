@@ -1,0 +1,76 @@
+{
+ "slug": "filoblu",
+ "company": "FiloBlu",
+ "first_name": "Gabriele",
+ "domain": "filoblu.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Acceleratore digitale per i brand fashion, sportswear e lifestyle su e-commerce e marketplace. Ecco chi contatteremmo per FiloBlu.",
+ "market_note": "FiloBlu accelera la crescita digitale dei brand fashion, sportswear e lifestyle su e-commerce e marketplace, quindi parleremmo con chi guida marketing, e-commerce e digitale in azienda.",
+ "evidence": [
+  {
+   "claim": "Acceleratore digitale per i brand fashion, sportswear e lifestyle su e-commerce e marketplace",
+   "url": "https://filoblu.com/",
+   "quote": "Acceleriamo la crescita digitale dei brand fashion, sportswear e lifestyle su e-commerce e marketplace."
+  },
+  {
+   "claim": "FiloBlu accelera la crescita digitale dei brand fashion, sportswear e lifestyle su e-commerce e marketplace",
+   "url": "https://filoblu.com/",
+   "quote": "Acceleriamo la crescita digitale dei brand fashion, sportswear e lifestyle su e-commerce e marketplace."
+  },
+  {
+   "claim": "accelerate la crescita digitale dei brand fashion, sportswear e lifestyle su e-commerce e marketplace",
+   "url": "https://filoblu.com/",
+   "quote": "Acceleriamo la crescita digitale dei brand fashion, sportswear e lifestyle su e-commerce e marketplace."
+  },
+  {
+   "claim": "i clienti sono brand fashion, luxury e lifestyle",
+   "url": "https://filoblu.com/chi-siamo-filoblu/",
+   "quote": "brand Fashion, Luxury e Lifestyle"
+  }
+ ],
+ "market": {
+  "count": "6.895",
+  "label": "titolari, CEO e direttori marketing ed e-commerce di brand fashion e lifestyle strutturati",
+  "chips": [
+   "tutta Italia",
+   "oltre 20 addetti",
+   "fashion",
+   "lifestyle",
+   "luxury"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"companyIndustry\": \"fashion,retail apparel and fashion,lifestyle,retail luxury goods and jewelry\"}"
+ }
+}

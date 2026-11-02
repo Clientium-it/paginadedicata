@@ -1,0 +1,85 @@
+{
+ "slug": "dpt",
+ "company": "DPT",
+ "first_name": "Massimo",
+ "domain": "dptcorporate.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "DPT sviluppa software CAD per modellazione, disegno e visualizzazione. Ecco chi contatteremmo per DPT.",
+ "market_note": "DPT sviluppa ThinkDesign, il software CAD per le aziende di produzione meccanica, quindi parleremmo con chi decide su progettazione, sviluppo prodotto e modellazione.",
+ "evidence": [
+  {
+   "claim": "DPT sviluppa software CAD per modellazione, disegno e visualizzazione",
+   "url": "https://dptlab.com/",
+   "quote": "With powerful tools for modeling, drafting and visualization"
+  },
+  {
+   "claim": "Vende alle aziende di produzione meccanica",
+   "url": "https://dptlab.com/products/",
+   "quote": "Designed to meet the diverse needs of mechanical manufacturing companies"
+  },
+  {
+   "claim": "ThinkDesign è una soluzione CAD",
+   "url": "https://dptlab.com/",
+   "quote": "the CAD solution for design freedom"
+  },
+  {
+   "claim": "Strumenti per modellazione, disegno e visualizzazione",
+   "url": "https://dptlab.com/",
+   "quote": "With powerful tools for modeling, drafting and visualization"
+  },
+  {
+   "claim": "Settore manifatturiero meccanico tra i clienti",
+   "url": "https://dptlab.com/products/",
+   "quote": "Designed to meet the diverse needs of mechanical manufacturing companies"
+  },
+  {
+   "claim": "Settore automotive tra i clienti",
+   "url": "https://dptlab.com/products/features/",
+   "quote": "particularly useful for the automotive industry"
+  }
+ ],
+ "market": {
+  "count": "23.025",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manifattura",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,automotive,mechanical engineering\"}"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "slug": "symphonie-partners",
+ "company": "Symphonie Partners",
+ "first_name": "Giuseppe",
+ "domain": "symphoniepartners.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni software progettate per le aziende ed erogate in modalità SaaS. Ecco chi contatteremmo per Symphonie Partners.",
+ "market_note": "Symphonie Partners sviluppa soluzioni software per le aziende in modalità SaaS e servizi di digital transformation, quindi parleremmo con chi guida tecnologia e innovazione nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Soluzioni software per le aziende erogate in modalità SaaS",
+   "url": "https://symphoniepartners.com/",
+   "quote": "Software solutions designed for businesses and delivered in SaaS mode"
+  },
+  {
+   "claim": "Si occupa di digital transformation e soluzioni SaaS",
+   "url": "https://symphoniepartners.com/",
+   "quote": "Digital Transformation SaaS Solutions for Digital Growth"
+  },
+  {
+   "claim": "Offre soluzioni software per le aziende in modalità SaaS",
+   "url": "https://symphoniepartners.com/",
+   "quote": "Software solutions designed for businesses and delivered in SaaS mode"
+  },
+  {
+   "claim": "Serve il settore utility",
+   "url": "https://symphoniepartners.com/",
+   "quote": "empowers Utilities to lead their digital transformation with confidence"
+  },
+  {
+   "claim": "Serve il settore telco",
+   "url": "https://symphoniepartners.com/",
+   "quote": "The Telco industry is constantly undergoing change"
+  },
+  {
+   "claim": "Specializzata nel settore energy e utility",
+   "url": "https://symphoniepartners.com/about-symphonie-partners/",
+   "quote": "specializing in the Energy & Utility sector"
+  }
+ ],
+ "market": {
+  "count": "1.334",
+  "label": "responsabili IT, CIO e CTO di utility e aziende telco italiane strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "utility",
+   "telco",
+   "energia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"utilities,telecommunications,energy\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

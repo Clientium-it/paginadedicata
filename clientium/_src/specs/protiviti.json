@@ -1,0 +1,79 @@
+{
+ "slug": "protiviti",
+ "company": "Protiviti",
+ "first_name": "Mauro",
+ "domain": "protiviti.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza aziendale globale con know how, insight obiettivi e soluzioni su misura. Ecco chi contatteremmo per Protiviti.",
+ "market_note": "Protiviti affianca le aziende nella consulenza su IT, compliance e governance aziendale, dalla strategia all'implementazione, quindi parleremmo con chi guida tecnologia, rischio e revisione interna.",
+ "evidence": [
+  {
+   "claim": "consulenza aziendale globale con know how, insight obiettivi e soluzioni su misura",
+   "url": "https://www.protiviti.com/de-de",
+   "quote": "Protiviti bietet als globale Unternehmensberatung umfassendes Know-how, objektive Insights, maßgeschneiderte Lösungen und eine effiziente Zusammenarbeit."
+  },
+  {
+   "claim": "consulenza su IT, compliance e governance aziendale",
+   "url": "https://www.protiviti.com/de-de/servicenow-consulting-services",
+   "quote": "fundierter Fachberatung in IT, Compliance und Unternehmenssteuerung"
+  },
+  {
+   "claim": "dalla strategia all'implementazione",
+   "url": "https://www.protiviti.com/de-de",
+   "quote": "Von der Strategie bis zur Implementierung"
+  },
+  {
+   "claim": "partner elite ServiceNow che segue le aziende lungo la trasformazione",
+   "url": "https://www.protiviti.com/de-de/servicenow-consulting-services",
+   "quote": "Als ServiceNow-Elitepartner begleitet Protiviti Sie entlang des gesamten Transformationsvorhabens."
+  },
+  {
+   "claim": "serve le aziende in modo trasversale ai settori",
+   "url": "https://www.protiviti.com/de-de/artificial-intelligence-services",
+   "quote": "Branchenübergreifend setzen Unternehmen KI, intelligente Automatisierung und Advanced Analytics ein"
+  }
+ ],
+ "market": {
+  "count": "110.688",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200}"
+ }
+}

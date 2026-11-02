@@ -1,0 +1,76 @@
+{
+ "slug": "tecno-group",
+ "company": "Tecno Group",
+ "first_name": "Flavia",
+ "domain": "tecnosrl.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Guidiamo organizzazioni, grandi imprese e PMI verso la transizione digitale e sostenibile. Ecco chi contatteremmo per Tecno Group.",
+ "market_note": "Tecno Group guida grandi imprese e PMI verso la transizione digitale e sostenibile, quindi parleremmo con chi decide su strategia ESG, energia e sostenibilità.",
+ "evidence": [
+  {
+   "claim": "Guida organizzazioni, grandi imprese e PMI verso la transizione digitale e sostenibile",
+   "url": "https://www.tecno-group.eu/",
+   "quote": "Guidiamo organizzazioni, grandi imprese e PMI verso la transizione digitale e sostenibile."
+  },
+  {
+   "claim": "Vende percorsi di transizione digitale e sostenibile a grandi imprese e PMI",
+   "url": "https://www.tecno-group.eu/",
+   "quote": "grandi imprese e PMI verso la transizione digitale e sostenibile"
+  },
+  {
+   "claim": "Accompagna organizzazioni, grandi imprese e PMI nella transizione digitale e sostenibile",
+   "url": "https://www.tecno-group.eu/",
+   "quote": "organizzazioni, grandi imprese e PMI verso la transizione digitale e sostenibile"
+  },
+  {
+   "claim": "Settori clienti dichiarati nei casi studio",
+   "url": "https://www.tecno-group.eu/casi-studio/",
+   "quote": "Automotive Cosmetica e personal care Industria estrattiva Manifatturiero"
+  }
+ ],
+ "market": {
+  "count": "23.789",
+  "label": "titolari, CEO e direttori di aziende industriali e manifatturiere italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "automotive",
+   "manifatturiero",
+   "metalmeccanica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive,cosmetics,mining,manufacturing,plastics manufacturing\"}"
+ }
+}

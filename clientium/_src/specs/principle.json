@@ -1,0 +1,74 @@
+{
+ "slug": "principle",
+ "company": "Principle",
+ "first_name": "Cristian",
+ "domain": "principleglobal.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Partner globale di trasformazione del brand per i marchi leader del mondo. Ecco chi contatteremmo per Principle.",
+ "market_note": "Principle progetta e realizza soluzioni di brand per i marchi leader di diversi settori e aree geografiche, con base europea a Milano, quindi parleremmo con chi guida marketing e brand.",
+ "evidence": [
+  {
+   "claim": "partner globale di trasformazione del brand",
+   "url": "https://www.principleglobal.com/en-gb",
+   "quote": "We are an integrated global brand transformation partner that makes ideas work in the real world."
+  },
+  {
+   "claim": "soluzioni di brand per i marchi leader di diversi settori e aree geografiche",
+   "url": "https://www.principleglobal.com/en-gb/about",
+   "quote": "We design and deliver brand-led solutions for leading companies across sectors and geographies."
+  },
+  {
+   "claim": "base europea a Milano",
+   "url": "https://www.principleglobal.com/en-gb/about",
+   "quote": "regional base in Milan, Michele leads our European operations"
+  },
+  {
+   "claim": "realizzano soluzioni di brand per i marchi leader di diversi settori e aree geografiche",
+   "url": "https://www.principleglobal.com/en-gb/about",
+   "quote": "We design and deliver brand-led solutions for leading companies across sectors and geographies."
+  }
+ ],
+ "market": {
+  "count": "110.688",
+  "label": "direttori marketing, CEO e titolari di grandi aziende italiane oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "grandi aziende"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200}"
+ }
+}

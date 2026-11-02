@@ -1,0 +1,81 @@
+{
+ "slug": "wiz-team",
+ "company": "Wiz-Team",
+ "first_name": "Stefano",
+ "domain": "wiz-team.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software di gestione eventi per i grandi eventi mondiali dello sport, delle istituzioni e dell'intrattenimento. Ecco chi contatteremmo per Wiz-Team.",
+ "market_note": "Wiz-Team realizza software di gestione eventi per organizzatori sportivi, istituzioni governative, non profit e organizzazioni del turismo, quindi parleremmo con chi guida le operazioni e la tecnologia degli eventi.",
+ "evidence": [
+  {
+   "claim": "Software di gestione eventi per i grandi eventi mondiali dello sport, istituzioni e intrattenimento.",
+   "url": "https://wiz-team.com/",
+   "quote": "Wiz-Team delivers cutting-edge technology and support services to the world’s greatest events across sport, institutions, hospitality, and entertainment."
+  },
+  {
+   "claim": "Sviluppano tecnologia per i più grandi eventi mondiali dello sport e delle istituzioni.",
+   "url": "https://wiz-team.com/",
+   "quote": "Wiz-Team delivers cutting-edge technology and support services to the world’s greatest events across sport, institutions, hospitality, and entertainment."
+  },
+  {
+   "claim": "Servono istituzioni governative, non profit e organizzazioni del turismo.",
+   "url": "https://wiz-team.com/",
+   "quote": "Wiz-Team brings secure, modern, and flexible tools to the governmental, non-profit, and tourism organisations."
+  },
+  {
+   "claim": "Servono organizzazioni sportive nazionali e internazionali.",
+   "url": "https://wiz-team.com/",
+   "quote": "From national to international sport organisations, multi-sport properties, and local organising committees"
+  },
+  {
+   "claim": "Clienti nel mondo dello sport, delle istituzioni e degli eventi.",
+   "url": "https://wiz-team.com/",
+   "quote": "From national to international sport organisations, multi-sport properties, and local organising committees"
+  }
+ ],
+ "market": {
+  "count": "13.341",
+  "label": "direttori, CEO e titolari di organizzazioni sportive, istituzioni e organizzatori di eventi in Italia da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "sport",
+   "istituzioni",
+   "eventi"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"sports,government administration,non profit,tourism,events services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "mint",
+ "company": "MINT",
+ "first_name": "Martino",
+ "domain": "mint.ai",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Un sistema agentico per controllare e governare la spesa commerciale in marketing e media. Ecco chi contatteremmo per MINT.",
+ "market_note": "MINT offre un sistema agentico per governare la spesa commerciale di brand e agenzie, quindi parleremmo con chi guida marketing, media e finance nelle grandi aziende.",
+ "evidence": [
+  {
+   "claim": "sistema agentico per controllare e governare la spesa commerciale in marketing e media",
+   "url": "https://www.mint.ai/",
+   "quote": "The agentic system that connects planning, delivery, performance, and financial management for greater clarity and control over commercial spend."
+  },
+  {
+   "claim": "vende a brand e agenzie",
+   "url": "https://www.mint.ai/",
+   "quote": "to pioneer Agentic AI for brands and agencies globally."
+  },
+  {
+   "claim": "sistema agentico per la spesa commerciale",
+   "url": "https://www.mint.ai/",
+   "quote": "for greater clarity and control over commercial spend"
+  },
+  {
+   "claim": "clienti brand e agenzie",
+   "url": "https://www.mint.ai/",
+   "quote": "to pioneer Agentic AI for brands and agencies globally."
+  }
+ ],
+ "market": {
+  "count": "2.408",
+  "label": "direttori marketing, media e finance di grandi aziende e agenzie in tutta Italia oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "advertising",
+   "marketing"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"advertising,marketing\"}"
+ }
+}

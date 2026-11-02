@@ -1,0 +1,86 @@
+{
+ "slug": "mvs",
+ "company": "MVS",
+ "first_name": "Maurizio",
+ "domain": "multivendorservice.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni e servizi IT integrati per aziende e Pubblica Amministrazione in tutta Europa. Ecco chi contatteremmo per MVS.",
+ "market_note": "MVS fornisce soluzioni e servizi IT integrati a retail, banche, aziende e Pubblica Amministrazione in tutta Europa, quindi parleremmo con chi decide su infrastruttura e supporto IT.",
+ "evidence": [
+  {
+   "claim": "Fornisce soluzioni e servizi integrati",
+   "url": "https://multivendorservice.it/",
+   "quote": "specializzata nella fornitura di soluzioni e servizi integrati"
+  },
+  {
+   "claim": "Serve aziende e Pubblica Amministrazione",
+   "url": "https://multivendorservice.it/",
+   "quote": "Soluzioni per Aziende e PA"
+  },
+  {
+   "claim": "Opera in tutta Europa",
+   "url": "https://multivendorservice.it/",
+   "quote": "European IT solutions, delivered by experts, anywhere in Europe, 24/7"
+  },
+  {
+   "claim": "Serve retail, banche, aziende e PA",
+   "url": "https://multivendorservice.it/",
+   "quote": "Retail (GDO – Fashion & Luxury) Banche e Assicurazioni PMI & Enterprise Company"
+  },
+  {
+   "claim": "Unico punto di contatto per la gestione dell'infrastruttura IT",
+   "url": "https://multivendorservice.it/retail-solutions/",
+   "quote": "Unico punto di contatto per la gestione della Vs. infrastruttura I.T."
+  },
+  {
+   "claim": "Settori clienti dichiarati tra cui educational",
+   "url": "https://multivendorservice.it/",
+   "quote": "Educational – Scuole ed Università"
+  }
+ ],
+ "market": {
+  "count": "2.229",
+  "label": "responsabili IT e CIO di aziende strutturate, retail, banche e pubblica amministrazione in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "retail e GDO",
+   "banche e assicurazioni",
+   "pubblica amministrazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail,banking,insurance,government administration,education,retail apparel and fashion\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

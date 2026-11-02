@@ -1,0 +1,91 @@
+{
+ "slug": "deepki",
+ "company": "Deepki",
+ "first_name": "Andrea",
+ "domain": "deepki.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma SaaS che centralizza i dati di sostenibilità per il real estate. Ecco chi contatteremmo per Deepki.",
+ "market_note": "Deepki offre una piattaforma SaaS di sostenibilità per proprietari, investitori e istituzioni finanziarie del real estate, quindi parleremmo con chi decide su asset management e performance degli immobili.",
+ "evidence": [
+  {
+   "claim": "Centralizza i dati di sostenibilità in un unico posto",
+   "url": "https://www.deepki.com/",
+   "quote": "Deepki centralizes your sustainability data, strategy and operations in one place"
+  },
+  {
+   "claim": "È una piattaforma SaaS di sostenibilità",
+   "url": "https://www.deepki.com/",
+   "quote": "Your go-to SaaS platform to track and act on sustainability"
+  },
+  {
+   "claim": "Serve proprietari e società di investimento immobiliare",
+   "url": "https://www.deepki.com/solutions/owners/",
+   "quote": "Chosen by leading investment management firms and real estate companies"
+  },
+  {
+   "claim": "Serve istituzioni finanziarie",
+   "url": "https://www.deepki.com/solutions/finance/",
+   "quote": "Partnering with leading financial institutions"
+  },
+  {
+   "claim": "Riferimento di sostenibilità per il commercial real estate",
+   "url": "https://www.deepki.com/solutions/deepki-index/",
+   "quote": "the most trusted sustainability reference for commercial real estate"
+  },
+  {
+   "claim": "Centralizza i dati di sostenibilità per gli immobili",
+   "url": "https://www.deepki.com/",
+   "quote": "Deepki centralizes your sustainability data, strategy and operations in one place"
+  },
+  {
+   "claim": "I clienti sono asset manager e REIM del real estate",
+   "url": "https://www.deepki.com/solutions/asset-management/",
+   "quote": "Trusted by leading AMs & REIMs"
+  }
+ ],
+ "market": {
+  "count": "14.454",
+  "label": "titolari, CEO e direttori di società immobiliari e di investimento strutturate con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "real estate",
+   "investimento immobiliare",
+   "asset management"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"real estate,commercial real estate,real estate investment,asset management,financial services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

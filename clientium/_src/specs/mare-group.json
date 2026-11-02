@@ -1,0 +1,76 @@
+{
+ "slug": "mare-group",
+ "company": "Mare Group",
+ "first_name": "Antonio",
+ "domain": "maregroup.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Ingegneria ad alta tecnologia per progettare, sviluppare e produrre sistemi complessi. Ecco chi contatteremmo per Mare Group.",
+ "market_note": "Mare Group è una società di Ingegneria ad Alta Tecnologia per aerospazio, difesa, industria, trasporti e infrastrutture, quindi parleremmo con chi guida le aziende industriali più strutturate.",
+ "evidence": [
+  {
+   "claim": "Ingegneria ad alta tecnologia per progettare, sviluppare e produrre sistemi complessi",
+   "url": "https://www.maregroup.it/",
+   "quote": "Ingegneria ad alta tecnologia per progettare, sviluppare e produrre sistemi complessi"
+  },
+  {
+   "claim": "Società di Ingegneria ad Alta Tecnologia attiva in settori strategici",
+   "url": "https://www.maregroup.it/",
+   "quote": "Mare Group è una società di Ingegneria ad Alta Tecnologia attiva in settori strategici"
+  },
+  {
+   "claim": "Progetta, sviluppa e produce sistemi complessi",
+   "url": "https://www.maregroup.it/",
+   "quote": "progettare, sviluppare e produrre sistemi complessi"
+  },
+  {
+   "claim": "Settori serviti aerospazio, difesa, industria, trasporti e infrastrutture",
+   "url": "https://www.maregroup.it/",
+   "quote": "Aerospazio e Difesa, Industria e Trasporti, Infrastrutture Critiche ed Edilizia"
+  }
+ ],
+ "market": {
+  "count": "8.734",
+  "label": "titolari, CEO e direttori di aziende industriali e aerospaziali strutturate con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "aerospazio e difesa",
+   "industria e trasporti",
+   "infrastrutture"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"aerospace,defense and space manufacturing,industrial manufacturing,transportation,construction\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "shop-circle",
+ "company": "Shop Circle",
+ "first_name": "Giacomo",
+ "domain": "shopcircle.co",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Acquisiscono e fanno crescere software B2B per l'era dell'AI. Ecco chi contatteremmo per Shop Circle.",
+ "market_note": "Shop Circle acquisisce e fa crescere software B2B per l'era dell'AI, offrendo ai fondatori un'uscita equa, quindi parleremmo con chi guida aziende software pronte a valutare una cessione.",
+ "evidence": [
+  {
+   "claim": "Acquisiscono e fanno crescere software per l'era dell'AI",
+   "url": "https://shopcircle.co/",
+   "quote": "We acquire and evolve software for the AI era"
+  },
+  {
+   "claim": "Acquisisce software B2B offrendo ai fondatori un'uscita equa",
+   "url": "https://shopcircle.co/pages/contact",
+   "quote": "We acquire and scale innovative B2B software companies, providing founders with a fair exit"
+  },
+  {
+   "claim": "Acquisite software B2B dando ai fondatori un'uscita equa",
+   "url": "https://shopcircle.co/pages/contact",
+   "quote": "We acquire and scale innovative B2B software companies, providing founders with a fair exit"
+  },
+  {
+   "claim": "Cercano fondatori di aziende software e SaaS",
+   "url": "https://shopcircle.co/pages/portfolio",
+   "quote": "deep expertise in SaaS and digital products to partner with founders"
+  }
+ ],
+ "market": {
+  "count": "4.183",
+  "label": "titolari, CEO e amministratori di aziende software B2B italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "software B2B",
+   "SaaS",
+   "10 a 250 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"software,saas,b2b\"}"
+ }
+}

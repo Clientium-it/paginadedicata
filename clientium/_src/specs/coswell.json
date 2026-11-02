@@ -1,0 +1,85 @@
+{
+ "slug": "coswell",
+ "company": "Coswell",
+ "first_name": "Andrea",
+ "domain": "coswell.biz",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Produzione di prodotti Personal Care, Household, Healthfood e Profumeria. Ecco chi contatteremmo per Coswell.",
+ "market_note": "Coswell produce prodotti per la cura della casa e il benessere della persona e vende tramite grande distribuzione, farmacie e profumerie, quindi parleremmo con i responsabili acquisti delle insegne.",
+ "evidence": [
+  {
+   "claim": "Produce prodotti Personal Care, Household, Healthfood e Profumeria",
+   "url": "https://www.coswell.biz/home",
+   "quote": "produzione di prodotti Personal Care, Household, Healthfood e Profumeria"
+  },
+  {
+   "claim": "Produce prodotti per la cura della casa e il benessere della persona",
+   "url": "https://www.coswell.biz/gruppo/azienda",
+   "quote": "prodotti di largo consumo per la cura della casa e il benessere della persona"
+  },
+  {
+   "claim": "Vende tramite grande distribuzione, farmacie e profumerie",
+   "url": "https://www.coswell.biz/gruppo/azienda",
+   "quote": "La vendita copre i canali di grande distribuzione, farmacie e profumerie."
+  },
+  {
+   "claim": "Produce prodotti Personal Care, Household, Healthfood e Profumeria",
+   "url": "https://www.coswell.biz/home",
+   "quote": "produzione di prodotti Personal Care, Household, Healthfood e Profumeria"
+  },
+  {
+   "claim": "Vende tramite grande distribuzione, farmacie e profumerie",
+   "url": "https://www.coswell.biz/gruppo/azienda",
+   "quote": "La vendita copre i canali di grande distribuzione, farmacie e profumerie."
+  },
+  {
+   "claim": "I clienti sono canali retail: grande distribuzione, farmacie e profumerie",
+   "url": "https://www.coswell.biz/gruppo/azienda",
+   "quote": "La vendita copre i canali di grande distribuzione, farmacie e profumerie."
+  }
+ ],
+ "market": {
+  "count": "8.628",
+  "label": "direttori acquisti e responsabili commerciali di insegne retail e catene distributive italiane strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "retail",
+   "GDO, farmacie e profumerie"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail\"}"
+ }
+}

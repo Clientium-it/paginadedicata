@@ -1,0 +1,74 @@
+{
+ "slug": "itway",
+ "company": "Itway",
+ "first_name": "Rosario",
+ "domain": "itway.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Progetta e distribuisce tecnologie e soluzioni di Cyber Security and Resiliency. Ecco chi contatteremmo per Itway.",
+ "market_note": "Itway progetta e distribuisce tecnologie e soluzioni di Cyber Security and Resiliency per imprese ed organizzazioni, quindi parleremmo con chi decide su sicurezza informatica e infrastrutture.",
+ "evidence": [
+  {
+   "claim": "Progetta e distribuisce tecnologie e soluzioni di Cyber Security and Resiliency",
+   "url": "https://www.itway.com/chi-siamo/",
+   "quote": "design, la realizzazione e distribuzione di tecnologie e soluzioni nel comparto della Cyber Security & Resiliency"
+  },
+  {
+   "claim": "serve imprese ed organizzazioni",
+   "url": "https://www.itway.com/chi-siamo/",
+   "quote": "crescita sostenibile di imprese ed organizzazioni"
+  },
+  {
+   "claim": "progetta soluzioni nel comparto della Cyber Security & Resiliency",
+   "url": "https://www.itway.com/chi-siamo/",
+   "quote": "tecnologie e soluzioni nel comparto della Cyber Security & Resiliency"
+  },
+  {
+   "claim": "consulenza e fornitura di servizi di Cyber Security",
+   "url": "https://www.itway.com/chi-siamo/",
+   "quote": "consulenza e fornitura di servizi di Cyber Security and Resiliency"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

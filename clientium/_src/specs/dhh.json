@@ -1,0 +1,85 @@
+{
+ "slug": "dhh",
+ "company": "DHH",
+ "first_name": "Antonio",
+ "domain": "dhh.international",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Gruppo tech dell'infrastruttura internet con cloud, hosting, connettività e servizi IT gestiti per le aziende. Ecco chi contatteremmo per DHH.",
+ "market_note": "DHH offre infrastruttura internet, cloud, hosting e servizi IT gestiti alle aziende in Europa, quindi parleremmo con chi decide su cloud, hosting e gestione IT.",
+ "evidence": [
+  {
+   "claim": "DHH è un gruppo tech quotato dedicato all'infrastruttura internet",
+   "url": "https://www.dhh.international/",
+   "quote": "DHH S.p.A. is a publicly listed tech group dedicated to reshaping internet infrastructure"
+  },
+  {
+   "claim": "DHH supporta le aziende con servizi IT gestiti",
+   "url": "https://www.dhh.international/",
+   "quote": "DHH supports businesses with proactive monitoring, system administration, cybersecurity, and end-to-end IT management designed for reliability and continuity."
+  },
+  {
+   "claim": "DHH supporta le aziende con gestione IT end to end",
+   "url": "https://www.dhh.international/",
+   "quote": "DHH supports businesses with proactive monitoring, system administration, cybersecurity, and end-to-end IT management designed for reliability and continuity."
+  },
+  {
+   "claim": "DHH fa crescere il suo portfolio B2B nel mercato europeo",
+   "url": "https://www.dhh.international/",
+   "quote": "With a strong foothold in the European market for high-speed, reliable business internet access—DHH continues to grow its B2B portfolio."
+  },
+  {
+   "claim": "DHH supporta le aziende con monitoraggio proattivo e cybersecurity",
+   "url": "https://www.dhh.international/",
+   "quote": "DHH supports businesses with proactive monitoring, system administration, cybersecurity, and end-to-end IT management designed for reliability and continuity."
+  },
+  {
+   "claim": "DHH offre prodotti cloud affidabili in Italia",
+   "url": "https://www.dhh.international/",
+   "quote": "DHH offers strong coverage of regional hosting demand with trusted cloud products in Italy, Croatia, Serbia, Switzerland and Slovenia."
+  }
+ ],
+ "market": {
+  "count": "11.169",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "cloud e hosting",
+   "responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

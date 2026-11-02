@@ -1,0 +1,81 @@
+{
+ "slug": "inverto",
+ "company": "Inverto",
+ "first_name": "Giovanni",
+ "domain": "inverto.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza globale specializzata in procurement e gestione della supply chain. Ecco chi contatteremmo per Inverto.",
+ "market_note": "Inverto è una società di consulenza globale su procurement e supply chain per settori come automotive, energia e healthcare, quindi parleremmo con chi guida acquisti e operations.",
+ "evidence": [
+  {
+   "claim": "consulenza globale specializzata in procurement e supply chain",
+   "url": "https://inverto.com/en/",
+   "quote": "We are a leading global consultancy specializing in strategic procurement and supply chain management."
+  },
+  {
+   "claim": "società di consulenza globale su procurement e supply chain",
+   "url": "https://inverto.com/en/",
+   "quote": "We are a leading global consultancy specializing in strategic procurement and supply chain management."
+  },
+  {
+   "claim": "serve settori come automotive e healthcare",
+   "url": "https://inverto.com/en/industries/",
+   "quote": "from fast-evolving fields like automotive to highly regulated sectors such as healthcare"
+  },
+  {
+   "claim": "serve automotive, energia e healthcare",
+   "url": "https://inverto.com/en/industries/",
+   "quote": "Automotive & Mobility Consumer Energy Engineered Products and Machinery"
+  },
+  {
+   "claim": "settori clienti dichiarati",
+   "url": "https://inverto.com/en/industries/",
+   "quote": "Automotive & Mobility Consumer Energy Engineered Products and Machinery Financial Services & Insurances Healthcare"
+  }
+ ],
+ "market": {
+  "count": "42.559",
+  "label": "direttori acquisti, supply chain e operations di grandi aziende italiane oltre 200 addetti",
+  "chips": [
+   "Tutta Italia",
+   "Oltre 200 addetti",
+   "Automotive",
+   "Energia",
+   "Healthcare"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"automotive,consumer goods,fashion,retail,energy,health care,logistics,financial services,insurance,pharmaceutical,machinery manufacturing,telecommunications\"}"
+ }
+}

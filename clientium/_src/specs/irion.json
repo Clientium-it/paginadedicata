@@ -1,0 +1,85 @@
+{
+ "slug": "irion",
+ "company": "Irion",
+ "first_name": "Giovanni",
+ "domain": "irion-edm.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Trasforma dati e metadati in valore con una piattaforma di Data Management. Ecco chi contatteremmo per Irion.",
+ "market_note": "Irion sviluppa la piattaforma Irion EDM per il Data Management di banche e assicurazioni, quindi parleremmo con chi decide su data governance, data quality e integrazione dei dati.",
+ "evidence": [
+  {
+   "claim": "Irion trasforma dati e metadati in valore",
+   "url": "https://www.irion-edm.com/",
+   "quote": "Turn your data and metadata into value"
+  },
+  {
+   "claim": "Irion serve gruppi bancari",
+   "url": "https://www.irion-edm.com/it/soluzioni/enterprise-pec-manager/",
+   "quote": "Implementata per un primario gruppo bancario italiano"
+  },
+  {
+   "claim": "Irion serve il mondo assicurativo e riassicurativo",
+   "url": "https://www.irion-edm.com/soluzioni/stop-loss/",
+   "quote": "Stop Loss is a form of reinsurance that protects the balance sheet of an Insurance Branch"
+  },
+  {
+   "claim": "piattaforma dichiarativa Made in Italy",
+   "url": "https://www.irion-edm.com/",
+   "quote": "The only 100% Made in Italy declarative platform"
+  },
+  {
+   "claim": "clienti nel settore bancario",
+   "url": "https://www.irion-edm.com/it/soluzioni/enterprise-pec-manager/",
+   "quote": "Implementata per un primario gruppo bancario italiano"
+  },
+  {
+   "claim": "clienti nel settore assicurativo",
+   "url": "https://www.irion-edm.com/soluzioni/stop-loss/",
+   "quote": "Stop Loss is a form of reinsurance that protects the balance sheet of an Insurance Branch"
+  }
+ ],
+ "market": {
+  "count": "1.252",
+  "label": "responsabili IT, CIO e CTO di banche e assicurazioni italiane oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "banche",
+   "assicurazioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"banking,insurance\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

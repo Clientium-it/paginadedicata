@@ -1,0 +1,74 @@
+{
+ "slug": "golden-group",
+ "company": "Golden Group",
+ "first_name": "Marcello",
+ "domain": "goldengroup.biz",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Dal 1996 aiuta le imprese a ottenere contributi a fondo perduto. Ecco chi contatteremmo per Golden Group.",
+ "market_note": "Golden Group dal 1996 aiuta le imprese a ottenere contributi a fondo perduto tramite bandi di finanza agevolata, quindi parleremmo con chi guida l'azienda e decide sugli investimenti.",
+ "evidence": [
+  {
+   "claim": "Dal 1996 aiuta le imprese a ottenere contributi a fondo perduto",
+   "url": "https://www.goldengroup.biz/",
+   "quote": "Dal 1996 Golden Group supporta le aziende nel processo di accesso alle diverse opportunità offerte dalla Finanza Agevolata"
+  },
+  {
+   "claim": "Fa ottenere contributi a fondo perduto alle imprese",
+   "url": "https://www.goldengroup.biz/chi-siamo/",
+   "quote": "far ottenere contributi a fondo perduto alle imprese"
+  },
+  {
+   "claim": "Aiuta le imprese a scegliere i bandi di finanza agevolata",
+   "url": "https://www.goldengroup.biz/",
+   "quote": "i bandi di finanza agevolata più idonei per la loro azienda"
+  },
+  {
+   "claim": "Vende alle imprese che vogliono ottenere contributi",
+   "url": "https://www.goldengroup.biz/chi-siamo/",
+   "quote": "far ottenere contributi a fondo perduto alle imprese"
+  }
+ ],
+ "market": {
+  "count": "132.251",
+  "label": "titolari, CEO e amministratori di imprese italiane strutturate da 10 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "da 10 addetti",
+   "titolari e CEO"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10}"
+ }
+}

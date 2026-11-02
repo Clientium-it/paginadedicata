@@ -1,0 +1,84 @@
+{
+ "slug": "eco-certificazioni",
+ "company": "ECO Certificazioni",
+ "first_name": "Gualtiero",
+ "domain": "eco-cert.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Certificazioni, ispezioni e omologazioni per prodotti, impianti e automotive. Ecco chi contatteremmo per ECO Certificazioni.",
+ "market_note": "ECO Certificazioni accerta la conformità e la sicurezza dei veicoli per costruttori e fornitori e certifica prodotti e sistemi di gestione, quindi parleremmo con chi decide su qualità e omologazioni.",
+ "evidence": [
+  {
+   "claim": "Si occupa di certificazioni, ispezioni e omologazioni",
+   "url": "https://www.eco-cert.it/chi-siamo/",
+   "quote": "ci occupiamo di certificazioni, ispezioni e omologazioni con un approccio chiaro e vicino ai nostri clienti"
+  },
+  {
+   "claim": "Lavora su prodotti, impianti e automotive",
+   "url": "https://www.eco-cert.it/chi-siamo/",
+   "quote": "impianti, installazioni e automotive, mettendo a disposizione anche i nostri laboratori di prova"
+  },
+  {
+   "claim": "Accerta conformità e sicurezza dei veicoli per costruttori e fornitori",
+   "url": "https://www.eco-cert.it",
+   "quote": "Accertiamo la conformità e la sicurezza dei veicoli e la loro idoneità al mercato per costruttori e fornitori"
+  },
+  {
+   "claim": "Certifica prodotti e sistemi di gestione",
+   "url": "https://www.eco-cert.it",
+   "quote": "Certifichiamo prodotti, processi, servizi, persone e sistemi di gestione"
+  },
+  {
+   "claim": "Accerta conformità e sicurezza dei veicoli per costruttori e fornitori",
+   "url": "https://www.eco-cert.it",
+   "quote": "Accertiamo la conformità e la sicurezza dei veicoli e la loro idoneità al mercato per costruttori e fornitori"
+  },
+  {
+   "claim": "Ha sedi in tutta Italia",
+   "url": "https://www.eco-cert.it/chi-siamo/",
+   "quote": "Con sedi in tutta Italia e uffici internazionali a Londra, Dubai e Luoyang"
+  }
+ ],
+ "market": {
+  "count": "229.148",
+  "label": "titolari, CEO e direttori di aziende italiane dai 10 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "dai 10 addetti",
+   "titolari e direttori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10}"
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "slug": "cincom",
+ "company": "Cincom",
+ "first_name": "Federico",
+ "domain": "cincom.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni enterprise per semplificare e automatizzare i processi e ottenere risultati misurabili. Ecco chi contatteremmo per Cincom.",
+ "market_note": "Cincom sviluppa soluzioni software enterprise per produttori industriali, banche e assicurazioni, quindi parleremmo con chi decide su configurazione dei prodotti, preventivi e comunicazioni ai clienti.",
+ "evidence": [
+  {
+   "claim": "Offre una suite di soluzioni enterprise per semplificare e automatizzare i processi con risultati misurabili",
+   "url": "https://www.cincom.com/",
+   "quote": "Cincom offers a suite of enterprise solutions designed to simplify and automate processes and deliver measurable results."
+  },
+  {
+   "claim": "Serve i produttori con la configurazione e i preventivi",
+   "url": "https://www.cincom.com/",
+   "quote": "help manufacturers improve configuration accuracy, streamline quoting, and support business growth"
+  },
+  {
+   "claim": "Serve banche e assicurazioni con la gestione delle comunicazioni",
+   "url": "https://www.cincom.com/ccm/industry/financial-services-banking/",
+   "quote": "Cincom Eloquence helps banks, credit unions, mortgage lenders, and wealth management firms automate the production of accurate, audit-ready communications at scale"
+  },
+  {
+   "claim": "Aiuta i produttori a migliorare la configurazione e velocizzare i preventivi",
+   "url": "https://www.cincom.com/",
+   "quote": "help manufacturers improve configuration accuracy, streamline quoting, and support business growth"
+  },
+  {
+   "claim": "Clienti tra banche e istituzioni finanziarie",
+   "url": "https://www.cincom.com/ccm/industry/financial-services-banking/",
+   "quote": "Cincom Eloquence helps banks, credit unions, mortgage lenders, and wealth management firms automate the production of accurate, audit-ready communications at scale"
+  }
+ ],
+ "market": {
+  "count": "32.022",
+  "label": "titolari, CEO e direttori di produttori, banche e assicurazioni in Italia da oltre 100 addetti",
+  "chips": [
+   "Italia",
+   "oltre 100 addetti",
+   "manifattura",
+   "banche e assicurazioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"manufacturing,industrial manufacturing,medical device,insurance,banking,financial services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

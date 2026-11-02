@@ -1,0 +1,84 @@
+{
+ "slug": "florence-consulting-group",
+ "company": "Florence Consulting Group",
+ "first_name": "Valerio",
+ "domain": "florence-consulting.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni IT personalizzate per le aziende che investono nel digitale. Ecco chi contatteremmo per Florence Consulting Group.",
+ "market_note": "Florence Consulting Group supporta aziende italiane ed europee con progetti IT su misura su cloud, dati e sicurezza, quindi parleremmo con chi decide su infrastruttura e innovazione digitale.",
+ "evidence": [
+  {
+   "claim": "soluzioni IT personalizzate per le aziende",
+   "url": "https://www.florence-consulting.it/it",
+   "quote": "soluzioni IT personalizzate per il business"
+  },
+  {
+   "claim": "aziende che investono nel digitale",
+   "url": "https://www.florence-consulting.it/it/group/chi-siamo",
+   "quote": "Affianchiamo le imprese che investono nel digitale con soluzioni di eccellenza."
+  },
+  {
+   "claim": "supporta aziende italiane ed europee con progetti IT su misura",
+   "url": "https://www.florence-consulting.it/it/group/chi-siamo",
+   "quote": "Supportiamo aziende italiane ed europee con progetti IT su misura."
+  },
+  {
+   "claim": "cloud, dati e sicurezza",
+   "url": "https://www.florence-consulting.it/it/group/chi-siamo",
+   "quote": "Operiamo su più aree: Data & AI, Cloud Transformation, Cyber Security, Networking, DevOps e Digital Process Automation."
+  },
+  {
+   "claim": "supportate aziende italiane ed europee con progetti IT su misura",
+   "url": "https://www.florence-consulting.it/it/group/chi-siamo",
+   "quote": "Supportiamo aziende italiane ed europee con progetti IT su misura."
+  },
+  {
+   "claim": "servono aziende enterprise e strutturate",
+   "url": "https://www.florence-consulting.it/it/group/chi-siamo",
+   "quote": "Affianchiamo le imprese che investono nel digitale con soluzioni di eccellenza."
+  }
+ ],
+ "market": {
+  "count": "7.840",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

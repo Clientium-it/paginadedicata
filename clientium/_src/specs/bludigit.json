@@ -1,0 +1,75 @@
+{
+ "slug": "bludigit",
+ "company": "Bludigit",
+ "first_name": "Fabrizio",
+ "domain": "bludigit.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Partner tecnologico della transizione digitale ed energetica nella distribuzione dell’energia. Ecco chi contatteremmo per Bludigit.",
+ "market_note": "Bludigit sviluppa soluzioni digitali per gli operatori dei settori dell’energia e delle infrastrutture, quindi parleremmo con chi guida l’IT e la trasformazione digitale di questi gruppi.",
+ "evidence": [
+  {
+   "claim": "partner tecnologico della transizione digitale ed energetica nella distribuzione dell'energia",
+   "url": "https://www.bludigit.com/",
+   "quote": "il partner tecnologico della transizione digitale ed energetica nel settore della distribuzione dell’energia"
+  },
+  {
+   "claim": "soluzioni per gli operatori dei settori dell'energia e delle infrastrutture",
+   "url": "https://www.bludigit.com/chi-siamo/",
+   "quote": "offrire soluzioni all’avanguardia anche ad altri operatori nei settori dell’energia e delle infrastrutture"
+  },
+  {
+   "claim": "soluzioni digitali per gli operatori dell'energia e delle infrastrutture",
+   "url": "https://www.bludigit.com/chi-siamo/",
+   "quote": "offrire soluzioni all’avanguardia anche ad altri operatori nei settori dell’energia e delle infrastrutture"
+  },
+  {
+   "claim": "opera nei settori gas e idrico in Italia",
+   "url": "https://www.bludigit.com/",
+   "quote": "esperienza sviluppata nei settori gas e idrico, in Italia e in Grecia"
+  }
+ ],
+ "market": {
+  "count": "484",
+  "label": "responsabili IT e della trasformazione digitale di grandi operatori dell’energia e delle infrastrutture con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "energia e infrastrutture",
+   "utilities"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"utilities\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

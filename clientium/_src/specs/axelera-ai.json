@@ -1,0 +1,81 @@
+{
+ "slug": "axelera-ai",
+ "company": "Axelera AI",
+ "first_name": "Marco",
+ "domain": "axelera.ai",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Acceleratori AI e schede per inferenza embedded, edge e server. Ecco chi contatteremmo per Axelera AI.",
+ "market_note": "Axelera AI progetta acceleratori di AI e schede PCIe per inferenza che clienti e sviluppatori integrano nei loro sistemi, quindi parleremmo con chi decide su prodotti e tecnologia.",
+ "evidence": [
+  {
+   "claim": "acceleratori AI per inferenza embedded, all'edge e su server",
+   "url": "https://axelera.ai/",
+   "quote": "Compact AI for embedded systems Edge AI inference at the edge Server AI acceleration for server deployments"
+  },
+  {
+   "claim": "progetta schede PCIe per l'accelerazione dell'inferenza",
+   "url": "https://axelera.ai/axelera-products/edge",
+   "quote": "The Axelera Edge product lines offer industry-standard PCIe cards"
+  },
+  {
+   "claim": "vende a clienti e sviluppatori",
+   "url": "https://axelera.ai/axelera-products/edge",
+   "quote": "Axelera AI has created a range of PCIe accelerators for customers and developers seeking more performance"
+  },
+  {
+   "claim": "schede embedded per inferenza AI",
+   "url": "https://axelera.ai/axelera-products/embedded",
+   "quote": "Axelera® Embedded products include industry-standard M.2 cards perfectly designed for constrained devices that require high-performance AI inference."
+  },
+  {
+   "claim": "settori serviti dichiarati dal sito",
+   "url": "https://axelera.ai/",
+   "quote": "Industrial Manufacturing Quality control, automation Retail In-store insights Security Real-time video monitoring"
+  }
+ ],
+ "market": {
+  "count": "1.495",
+  "label": "CTO, CIO e responsabili IT di aziende industriali e tech italiane strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "industrial manufacturing",
+   "retail",
+   "logistics"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"industrial manufacturing,retail,security,health care,agriculture,logistics\"}"
+ }
+}

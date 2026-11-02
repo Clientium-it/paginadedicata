@@ -1,0 +1,85 @@
+{
+ "slug": "intesi-group",
+ "company": "Intesi Group",
+ "first_name": "Paolo",
+ "domain": "intesigroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Firma digitale, autenticazione forte, SPID e PEC per la trasformazione digitale delle aziende. Ecco chi contatteremmo per Intesi Group.",
+ "market_note": "Intesi Group affianca da oltre venti anni i clienti di finanza e telco nella firma digitale e nella strong authentication, quindi parleremmo con chi guida IT e digitalizzazione.",
+ "evidence": [
+  {
+   "claim": "Firma digitale, autenticazione forte, SPID e PEC",
+   "url": "https://www.intesigroup.com/it/",
+   "quote": "Firma Digitale, Strong Authentication, SPID, PEC"
+  },
+  {
+   "claim": "soluzioni pensate per la trasformazione digitale",
+   "url": "https://www.intesigroup.com/it/",
+   "quote": "pensate per la tua trasformazione digitale"
+  },
+  {
+   "claim": "opera da oltre venti anni a fianco dei clienti",
+   "url": "https://www.intesigroup.com/it/solutions/",
+   "quote": "Intesi Group da oltre 20 anni aiuta i propri Clienti"
+  },
+  {
+   "claim": "clienti nei settori finanza e telco",
+   "url": "https://www.intesigroup.com/it/solutions/",
+   "quote": "Finanza 0 % Telco 0 % Altri settori"
+  },
+  {
+   "claim": "firma digitale, SPID, PEC e strong authentication",
+   "url": "https://www.intesigroup.com/it/",
+   "quote": "Firma Digitale, Strong Authentication, SPID, PEC"
+  },
+  {
+   "claim": "settori clienti dichiarati finanza e telco",
+   "url": "https://www.intesigroup.com/it/solutions/",
+   "quote": "Finanza 0 % Telco 0 % Altri settori"
+  }
+ ],
+ "market": {
+  "count": "2.120",
+  "label": "responsabili IT, CIO e direttori della trasformazione digitale in aziende italiane strutturate dai 50 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "finance",
+   "telco"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"financial services,telecommunications\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

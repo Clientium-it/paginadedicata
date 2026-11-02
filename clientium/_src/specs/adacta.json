@@ -1,0 +1,66 @@
+{
+ "slug": "adacta",
+ "company": "Adacta",
+ "first_name": "Giovanni",
+ "domain": "adacta.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza fiscale, legale e di advisory per far crescere il business delle imprese. Ecco chi contatteremmo per Adacta.",
+ "market_note": "Adacta affianca le imprese del Nordest con consulenza Tax & Legal e Advisory, quindi parleremmo con chi guida aziende strutturate che devono gestire fisco, finanza e crescita.",
+ "evidence": [
+  {
+   "claim": "Adacta aiuta le imprese a far crescere il business",
+   "url": "https://adacta.it/",
+   "quote": "Fai crescere il business della tua impresa"
+  },
+  {
+   "claim": "Adacta opera con le divisioni Tax & Legal e Advisory",
+   "url": "https://adacta.it/chi-siamo/",
+   "quote": "Adacta opera principalmente nel Nordest attraverso due divisioni: Tax & Legal e Advisory"
+  },
+  {
+   "claim": "Adacta affronta le sfide con le imprese per farle crescere",
+   "url": "https://adacta.it/",
+   "quote": "Affrontiamo le sfide con le imprese per far crescere il business e gestire il cambiamento"
+  },
+  {
+   "claim": "Adacta opera principalmente nel Nordest con due divisioni",
+   "url": "https://adacta.it/chi-siamo/",
+   "quote": "Adacta opera principalmente nel Nordest attraverso due divisioni: Tax & Legal e Advisory"
+  },
+  {
+   "claim": "Adacta opera nel Nordest con le divisioni Tax & Legal e Advisory",
+   "url": "https://adacta.it/chi-siamo/",
+   "quote": "Adacta opera principalmente nel Nordest attraverso due divisioni: Tax & Legal e Advisory"
+  },
+  {
+   "claim": "Adacta collabora con imprenditori, manager e aziende",
+   "url": "https://adacta.it/chi-siamo/",
+   "quote": "Collaboriamo con imprenditori, manager e aziende per trasformare sfide complesse in opportunità di crescita"
+  }
+ ],
+ "market": {
+  "count": "25.967",
+  "label": "titolari, CEO e amministratori di aziende strutturate del Nordest oltre 50 addetti",
+  "chips": [
+   "Veneto",
+   "Lombardia",
+   "oltre 50 addetti"
+  ],
+  "regions": [
+   "Veneto",
+   "Lombardia"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Veneto,Lombardy\", \"minEmployees\": 50}"
+ }
+}

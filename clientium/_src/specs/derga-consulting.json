@@ -1,0 +1,81 @@
+{
+ "slug": "derga-consulting",
+ "company": "Derga Consulting",
+ "first_name": "Davide",
+ "domain": "derga.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza e servizi specialistici basati sulle principali soluzioni SAP. Ecco chi contatteremmo per Derga Consulting.",
+ "market_note": "Derga Consulting fornisce consulenza e servizi specialistici basati sulle principali soluzioni SAP alle aziende, quindi parleremmo con chi decide sui sistemi informativi e sui progetti ERP.",
+ "evidence": [
+  {
+   "claim": "consulenza e servizi specialistici basati sulle principali soluzioni SAP",
+   "url": "https://www.derga.it/",
+   "quote": "Consulenza e servizi specialistici basati sulle principali soluzioni SAP"
+  },
+  {
+   "claim": "fornisce consulenza e servizi specialistici basati sulle soluzioni SAP",
+   "url": "https://www.derga.it/",
+   "quote": "Derga Consulting fornisce consulenza e servizi specialistici basati sulle principali soluzioni SAP"
+  },
+  {
+   "claim": "consulenza e servizi specialistici basati sulle principali soluzioni SAP",
+   "url": "https://www.derga.it/company/",
+   "quote": "Forniamo consulenza e servizi specialistici basati sulle principali soluzioni SAP"
+  },
+  {
+   "claim": "settori clienti serviti dal lead",
+   "url": "https://www.derga.it/",
+   "quote": "Manufacturing Food & Beverage Consumer Product Professional Services & Utility"
+  },
+  {
+   "claim": "presenza in tutta Italia",
+   "url": "https://www.derga.it/company/",
+   "quote": "11 Filiali in tutta Italia per essere sempre vicini ai nostri Clienti"
+  }
+ ],
+ "market": {
+  "count": "2.057",
+  "label": "responsabili IT e CIO di aziende manifatturiere, del food, del largo consumo e delle utility in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manufacturing",
+   "food and beverage",
+   "utility"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,food and beverage,consumer goods,professional services,utilities\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

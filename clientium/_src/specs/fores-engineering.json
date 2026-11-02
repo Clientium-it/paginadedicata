@@ -1,0 +1,86 @@
+{
+ "slug": "fores-engineering",
+ "company": "Fores Engineering",
+ "first_name": "Pasquale",
+ "domain": "fores.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni per oil and gas, rinnovabili e carbon neutrality, dalla progettazione ai servizi tecnici. Ecco chi contatteremmo per Fores Engineering.",
+ "market_note": "Fores Engineering progetta skid, automazione e servizi tecnici per i mercati oil and gas, rinnovabili e carbon neutrality, quindi parleremmo con chi guida tecnica e operations nel settore energia.",
+ "evidence": [
+  {
+   "claim": "Opera nei mercati oil and gas, rinnovabili e carbon neutrality",
+   "url": "https://www.fores.it/",
+   "quote": "we deliver excellence through innovation across the oil & gas, renewables and carbon-neutrality markets"
+  },
+  {
+   "claim": "Progetta skid e pacchetti, automazione, telecom, EPC e servizi tecnici",
+   "url": "https://www.fores.it/",
+   "quote": "design, develop and integrate state-of-the-art and reliable skids & packages, automation, telecom, EPC and technical services"
+  },
+  {
+   "claim": "Progetta e integra skid e sistemi per i mercati energetici",
+   "url": "https://www.fores.it/",
+   "quote": "design, develop and integrate state-of-the-art and reliable skids & packages, automation, telecom, EPC and technical services"
+  },
+  {
+   "claim": "Serve i mercati oil and gas, rinnovabili e carbon neutrality",
+   "url": "https://www.fores.it/",
+   "quote": "we deliver excellence through innovation across the oil & gas, renewables and carbon-neutrality markets"
+  },
+  {
+   "claim": "Integrazione di skid per applicazioni offshore e onshore",
+   "url": "https://www.fores.it/products/",
+   "quote": "a trusted provider of skid-mounted system integration for offshore and onshore applications"
+  },
+  {
+   "claim": "Clienti nei mercati oil and gas e rinnovabili",
+   "url": "https://www.fores.it/",
+   "quote": "we deliver excellence through innovation across the oil & gas, renewables and carbon-neutrality markets"
+  }
+ ],
+ "market": {
+  "count": "5.098",
+  "label": "titolari, CEO e direttori di aziende energetiche strutturate in Italia da oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "oil and gas",
+   "energia",
+   "rinnovabili"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"oil and gas,renewable energy,energy\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

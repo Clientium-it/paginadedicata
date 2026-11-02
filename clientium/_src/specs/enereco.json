@@ -1,0 +1,81 @@
+{
+ "slug": "enereco",
+ "company": "Enereco",
+ "first_name": "Claudio",
+ "domain": "enereco.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Servizi di ingegneria, procurement e analisi per Oil & Gas e Green & Power. Ecco chi contatteremmo per Enereco.",
+ "market_note": "Enereco offre a Oil Company, Contractor e Multiutility servizi di ingegneria e procurement per Oil & Gas e Green & Power, quindi parleremmo con chi decide su impianti e forniture.",
+ "evidence": [
+  {
+   "claim": "Servizi di ingegneria, procurement e analisi per Oil & Gas e Green & Power",
+   "url": "https://www.enereco.com/",
+   "quote": "competitive services for engineering, procurement and analysis in the Oil & Gas and Green & Power industries"
+  },
+  {
+   "claim": "Offre a Oil Company, Contractor e Multiutility servizi di ingegneria e procurement",
+   "url": "https://www.enereco.com/",
+   "quote": "Enereco offers to Oil Company , Contractor and Multiutility competitive services for engineering, procurement and analysis"
+  },
+  {
+   "claim": "Offre a Oil Company, Contractor e Multiutility servizi di ingegneria e procurement per Oil & Gas",
+   "url": "https://www.enereco.com/",
+   "quote": "Enereco offers to Oil Company , Contractor and Multiutility competitive services for engineering, procurement and analysis"
+  },
+  {
+   "claim": "Clienti nei settori Oil & Gas e Green & Power",
+   "url": "https://www.enereco.com/",
+   "quote": "in the Oil & Gas and Green & Power industries"
+  },
+  {
+   "claim": "Punto di riferimento per il mercato italiano",
+   "url": "https://www.enereco.com/about-us/our-company-locations/",
+   "quote": "the main point of contact for the Italian market"
+  }
+ ],
+ "market": {
+  "count": "4.600",
+  "label": "titolari, CEO e direttori di aziende del settore oil and gas e utilities oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "oil and gas",
+   "utilities",
+   "renewable energy"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"oil and gas,utilities,renewable energy\"}"
+ }
+}

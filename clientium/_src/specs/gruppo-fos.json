@@ -1,0 +1,82 @@
+{
+ "slug": "gruppo-fos",
+ "company": "Gruppo FOS",
+ "first_name": "Enrico",
+ "domain": "gruppofos.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Progetta sistemi informatici complessi e soluzioni di automazione per industria, energia e trasporti. Ecco chi contatteremmo per Gruppo FOS.",
+ "market_note": "Gruppo FOS progetta e sviluppa sistemi informatici complessi e soluzioni di automazione per i mercati dell'energia, dell'industria e dei trasporti, quindi parleremmo con chi guida l'infrastruttura IT e la tecnologia.",
+ "evidence": [
+  {
+   "claim": "Progetta sistemi informatici complessi",
+   "url": "https://www.gruppofos.it/",
+   "quote": "Progettazione, sviluppo e manutenzione di sistemi informatici complessi."
+  },
+  {
+   "claim": "Serve i mercati dell'energia, dell'industria e dei trasporti",
+   "url": "https://www.gruppofos.it/",
+   "quote": "rivolta principalmente ai mercati dell’energia, dell’industria e dei trasporti"
+  },
+  {
+   "claim": "Sviluppa sistemi informatici complessi",
+   "url": "https://www.gruppofos.it/",
+   "quote": "Progettazione, sviluppo e manutenzione di sistemi informatici complessi."
+  },
+  {
+   "claim": "Serve i principali player delle Telecomunicazioni",
+   "url": "https://www.gruppofos.it/",
+   "quote": "per i principali player delle Telecomunicazioni"
+  },
+  {
+   "claim": "Serve i mercati dell'energia, dell'industria e dei trasporti",
+   "url": "https://www.gruppofos.it/",
+   "quote": "rivolta principalmente ai mercati dell’energia, dell’industria e dei trasporti"
+  }
+ ],
+ "market": {
+  "count": "1.744",
+  "label": "responsabili IT e CTO di aziende italiane dell'energia, industria, trasporti e telecomunicazioni oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "energia",
+   "industria",
+   "trasporti",
+   "telecomunicazioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"energy,industrial,transportation,telecommunications\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

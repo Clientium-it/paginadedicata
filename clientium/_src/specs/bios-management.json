@@ -1,0 +1,82 @@
+{
+ "slug": "bios-management",
+ "company": "Bios Management",
+ "first_name": "Fabio",
+ "domain": "biosmanagement.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Accompagna le aziende con consulenza strategica, ottimizzazione dei processi e valorizzazione dei dati. Ecco chi contatteremmo per Bios Management.",
+ "market_note": "Bios Management affianca le aziende leader con consulenza, dati e tecnologia per pianificazione e performance, quindi parleremmo con chi guida strategia, finance e operations nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Accompagna le aziende con consulenza strategica, ottimizzazione dei processi e valorizzazione dei dati",
+   "url": "https://www.biosmanagement.com/it/services",
+   "quote": "Bios Management accompagna le aziende combinando consulenza strategica, ottimizzazione dei processi e valorizzazione dei dati"
+  },
+  {
+   "claim": "Affianca aziende leader attraverso progetti concreti",
+   "url": "https://www.biosmanagement.com/it/performance-management-epm-solutions",
+   "quote": "Al fianco di aziende leader, attraverso progetti concreti"
+  },
+  {
+   "claim": "Consulenza e tecnologia per pianificare e gestire le performance aziendali",
+   "url": "https://www.biosmanagement.com/it/bpm-hcm-solutions",
+   "quote": "Pianifica, monitora e gestisci le prestazioni aziendali con la nostra consulenza, supporto e competenza software."
+  },
+  {
+   "claim": "Combina consulenza, processi e dati per le aziende",
+   "url": "https://www.biosmanagement.com/it/services",
+   "quote": "Bios Management accompagna le aziende combinando consulenza strategica, ottimizzazione dei processi e valorizzazione dei dati"
+  },
+  {
+   "claim": "Settori clienti dichiarati sul sito",
+   "url": "https://www.biosmanagement.com/it/industries",
+   "quote": "Automotive Banking & Financial Services Fashion Retail, Luxury & Beauty Food, Beverage & Consumer Goods (GDO) Healthcare Manufacturing Services Tourism & Leisure Utilities, PA & Construction"
+  }
+ ],
+ "market": {
+  "count": "62.203",
+  "label": "direttori, CEO e responsabili finance e operations di aziende italiane strutturate di diversi settori",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "banking",
+   "manufacturing",
+   "retail",
+   "healthcare"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive,banking,financial services,retail,fashion,food and beverage,health care,manufacturing,tourism,utilities,construction\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

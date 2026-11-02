@@ -1,0 +1,81 @@
+{
+ "slug": "energy-exemplar",
+ "company": "Energy Exemplar",
+ "first_name": "il team",
+ "domain": "energyexemplar.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software di simulazione e analisi per i mercati dell'energia elettrica, gas, acqua e idrogeno. Ecco chi contatteremmo per Energy Exemplar.",
+ "market_note": "Energy Exemplar fornisce software di simulazione dei mercati energetici a utility, trader e istituzioni finanziarie, quindi parleremmo con chi guida le scelte su analisi e investimenti energetici.",
+ "evidence": [
+  {
+   "claim": "Fa software di simulazione dei mercati energetici su elettricità, gas, acqua e idrogeno",
+   "url": "https://www.energyexemplar.com/solutions",
+   "quote": "Unify your market simulations across electric, gas, water and hydrogen energy systems."
+  },
+  {
+   "claim": "Vende a trader, banche d'investimento e gestori di portafoglio dei mercati energetici",
+   "url": "https://www.energyexemplar.com/financial-services",
+   "quote": "designed for energy traders, investment bankers, commercial lenders, private equity investors and portfolio managers in power, natural gas and renewables markets"
+  },
+  {
+   "claim": "Serve utility, regolatori, sviluppatori e istituzioni finanziarie",
+   "url": "https://www.energyexemplar.com/financial-services",
+   "quote": "including independent system operators, utilities, regulators, developers and financial institutions"
+  },
+  {
+   "claim": "PLEXOS unifica le simulazioni di mercato su elettricità, acqua e gas",
+   "url": "https://www.energyexemplar.com/industries/power",
+   "quote": "PLEXOS is the only solution that unifies your market simulations across electric, water, and gas energy systems"
+  },
+  {
+   "claim": "Clienti nei mercati di power, gas naturale e rinnovabili",
+   "url": "https://www.energyexemplar.com/financial-services",
+   "quote": "in power, natural gas and renewables markets"
+  }
+ ],
+ "market": {
+  "count": "15.018",
+  "label": "titolari, CEO e direttori di utility ed enti energetici strutturati oltre 200 addetti in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "utility",
+   "energia e rinnovabili",
+   "financial services"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"utilities,financial services,renewable energy,oil and gas\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

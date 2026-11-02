@@ -1,0 +1,79 @@
+{
+ "slug": "numero-blu",
+ "company": "Numero Blu",
+ "first_name": "Luca",
+ "domain": "numeroblu.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni e servizi di BPO, contact center e digital transformation per le imprese. Ecco chi contatteremmo per Numero Blu.",
+ "market_note": "Numero Blu offre soluzioni di BPO, contact center e digital transformation alle imprese su tutto il territorio nazionale, quindi parleremmo con chi guida customer care e operations nelle grandi aziende.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni di BPO, contact center, digital transformation e ricerche di mercato",
+   "url": "https://www.numeroblu.it/",
+   "quote": "Offriamo soluzioni e servizi personalizzati di BPO, Contact Center, Digital Transformation e Ricerche di Mercato"
+  },
+  {
+   "claim": "Supporta le imprese nei processi digitali",
+   "url": "https://www.numeroblu.it/digital-solutions/",
+   "quote": "Affianchiamo le imprese sia nell'adozione di nuove tecnologie"
+  },
+  {
+   "claim": "Opera su tutto il territorio nazionale con 7 sedi",
+   "url": "https://www.numeroblu.it/",
+   "quote": "dislocati in 7 sedi situate su tutto il territorio nazionale"
+  },
+  {
+   "claim": "1800 operatori distribuiti in 7 sedi",
+   "url": "https://www.numeroblu.it/",
+   "quote": "con 1800 operatori, capaci e preparati, dislocati in 7 sedi"
+  },
+  {
+   "claim": "Serve clienti su tutto il territorio nazionale",
+   "url": "https://www.numeroblu.it/",
+   "quote": "dislocati in 7 sedi situate su tutto il territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "direttori, CEO e titolari di grandi aziende italiane da 100 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "grandi aziende"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

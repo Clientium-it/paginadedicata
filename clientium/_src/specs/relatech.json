@@ -1,0 +1,80 @@
+{
+ "slug": "relatech",
+ "company": "Relatech",
+ "first_name": "Luca",
+ "domain": "relatech.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Partner strategico per l'innovazione e la trasformazione digitale delle imprese. Ecco chi contatteremmo per Relatech.",
+ "market_note": "Relatech supporta le imprese nella trasformazione digitale con advisory, dati, AI, cybersecurity e cloud, quindi parleremmo con chi decide su innovazione e tecnologia in azienda.",
+ "evidence": [
+  {
+   "claim": "Partner strategico per l'innovazione e la trasformazione digitale delle imprese",
+   "url": "https://relatech.com/chi-siamo/",
+   "quote": "il partner di riferimento per l'innovazione e l'evoluzione digitale delle imprese"
+  },
+  {
+   "claim": "Supporta le imprese nel percorso di trasformazione digitale",
+   "url": "https://relatech.com/",
+   "quote": "Supportiamo le imprese nel definire e realizzare il miglior percorso di trasformazione digitale"
+  },
+  {
+   "claim": "Offre soluzioni di AI, cybersecurity e cloud",
+   "url": "https://relatech.com/chi-siamo/",
+   "quote": "Soluzioni digitali evolute basate su AI, IoT, Cybersecurity, Cloud, Big Data"
+  },
+  {
+   "claim": "Usa dati, AI e piattaforme digitali per trasformare i processi aziendali",
+   "url": "https://relatech.com/",
+   "quote": "Dati, AI e piattaforme digitali per trasformare i processi aziendali"
+  },
+  {
+   "claim": "Opera in Italia e all'estero",
+   "url": "https://relatech.com/chi-siamo/",
+   "quote": "Con 9 sedi in Italia e 5 all'estero"
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate",
+   "ogni settore"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

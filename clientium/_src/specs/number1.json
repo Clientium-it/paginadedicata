@@ -1,0 +1,75 @@
+{
+ "slug": "number1",
+ "company": "Number1",
+ "first_name": "Renzo",
+ "domain": "number1.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Leader in Italia nella logistica per il Grocery. Ecco chi contatteremmo per Number1.",
+ "market_note": "Number1 gestisce la Supply Chain in partnership con le aziende clienti, in particolare per il settore del grocery, quindi parleremmo con chi decide su logistica e distribuzione.",
+ "evidence": [
+  {
+   "claim": "Leader in Italia nella logistica per il settore grocery",
+   "url": "https://number1.it/",
+   "quote": "Leader in Italia nella logistica per il Grocery"
+  },
+  {
+   "claim": "Gestisce la supply chain in partnership con le aziende clienti del grocery",
+   "url": "https://number1.it/",
+   "quote": "in uno stretto rapporto di partnership con le aziende clienti offrendo loro servizi personalizzati e specializzati, in particolare per il settore del grocery"
+  },
+  {
+   "claim": "Traccia ogni giorno oltre 1.000 viaggi e 6.000 consegne",
+   "url": "https://number1.it/servizi/",
+   "quote": "pianificare e tracciare ogni giorno oltre 1.000 viaggi e 6.000 consegne"
+  },
+  {
+   "claim": "Serve in particolare il settore del grocery",
+   "url": "https://number1.it/servizi/",
+   "quote": "in particolare per il settore del grocery"
+  }
+ ],
+ "market": {
+  "count": "4.236",
+  "label": "titolari, CEO e direttori di aziende del grocery e del food in tutta Italia oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "grocery",
+   "food"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail groceries,food and beverage\"}"
+ }
+}

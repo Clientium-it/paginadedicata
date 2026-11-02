@@ -1,0 +1,82 @@
+{
+ "slug": "forwood-safety",
+ "company": "Forwood Safety",
+ "first_name": "Federico",
+ "domain": "forwoodsafety.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software per la gestione della sicurezza e la prevenzione degli incidenti mortali. Ecco chi contatteremmo per Forwood Safety.",
+ "market_note": "Forwood Safety sviluppa soluzioni software per la sicurezza e la gestione del rischio nelle aziende delle industrie ad alto rischio, quindi parleremmo con chi guida sicurezza, operations e HSE.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni software SaaS per la gestione del rischio",
+   "url": "https://forwoodsafety.com/about-us/",
+   "quote": "a suite of cutting-edge SaaS solutions, each designed to streamline your risk management processes"
+  },
+  {
+   "claim": "Si occupa di prevenzione di infortuni gravi e incidenti mortali",
+   "url": "https://forwoodsafety.com/",
+   "quote": "eliminate fatalities, serious injuries and catastrophic events from the workplace"
+  },
+  {
+   "claim": "Opera nelle industrie ad alto rischio",
+   "url": "https://forwoodsafety.com/",
+   "quote": "a deep domain knowledge in high-risk industries"
+  },
+  {
+   "claim": "Previene infortuni gravi e incidenti mortali",
+   "url": "https://forwoodsafety.com/",
+   "quote": "eliminate fatalities, serious injuries and catastrophic events from the workplace"
+  },
+  {
+   "claim": "Settori clienti dichiarati dal sito",
+   "url": "https://forwoodsafety.com/",
+   "quote": "Mining & Metals Construction Energy & Utilities Manufacturing Renewables"
+  }
+ ],
+ "market": {
+  "count": "24.641",
+  "label": "direttori e responsabili di aziende industriali ad alto rischio con oltre 100 addetti, in mining, costruzioni ed energia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "mining e metalli",
+   "costruzioni",
+   "energia e utilities",
+   "manifattura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"mining,construction,energy,utilities,manufacturing,renewable energy\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

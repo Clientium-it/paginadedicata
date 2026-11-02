@@ -1,0 +1,81 @@
+{
+ "slug": "beantech",
+ "company": "beanTech",
+ "first_name": "Alessandro",
+ "domain": "beantech.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Accelera la transizione delle aziende verso il digitale grazie ai dati e alle tecnologie. Ecco chi contatteremmo per beanTech.",
+ "market_note": "beanTech affianca le aziende nella Digital Transformation con infrastrutture IT, managed services e cybersecurity, quindi parleremmo con chi decide su gestione IT, sicurezza informatica e progetti digitali.",
+ "evidence": [
+  {
+   "claim": "Accelera la transizione delle aziende verso il digitale grazie ai dati e alle tecnologie",
+   "url": "https://www.beantech.it/chi-siamo/",
+   "quote": "Accelerare la transizione delle aziende verso il digitale, aiutandole a crescere grazie alla nostra passione per i dati e le tecnologie."
+  },
+  {
+   "claim": "Affianca le aziende nella Digital Transformation",
+   "url": "https://www.beantech.it/chi-siamo/compliance/",
+   "quote": "affiancare le aziende nelle sfide della Digital Transformation e aiutarle a cogliere nuove opportunità con le tecnologie digitali"
+  },
+  {
+   "claim": "Gestisce le attività IT e la sicurezza informatica con un team di esperti",
+   "url": "https://www.beantech.it/aree-di-business/managed-services-cybersecurity/",
+   "quote": "Affida le attività IT e la tua sicurezza informatica ad un team di esperti"
+  },
+  {
+   "claim": "Serve il settore manifatturiero digitalizzando impianti e processi",
+   "url": "https://www.beantech.it/settori/",
+   "quote": "Come digitalizzare impianti, macchinari e processi operativi, monitorando produzione e asset"
+  },
+  {
+   "claim": "Serve il settore food and beverage",
+   "url": "https://www.beantech.it/settori/",
+   "quote": "supportare la produzione e/o la distribuzione dei tuoi prodotti agroalimentari"
+  }
+ ],
+ "market": {
+  "count": "2.537",
+  "label": "responsabili IT, CIO e CTO di aziende manifatturiere e strutturate in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manifatturiero",
+   "food & beverage",
+   "settore pubblico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,food and beverage,retail,utilities,government,higher education,research services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "slug": "aventa",
+ "company": "Aventa",
+ "first_name": "Roberto",
+ "domain": "aventa.fr",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Gruppo indipendente di ingegneria e consulenza per l'energia marina offshore. Ecco chi contatteremmo per Aventa.",
+ "market_note": "Aventa progetta e mette in sicurezza i sistemi che collegano l'energia offshore alla terraferma per operatori, sviluppatori e TSO, quindi parleremmo con chi decide sui progetti di energia marina.",
+ "evidence": [
+  {
+   "claim": "gruppo indipendente specializzato in energia marina offshore",
+   "url": "https://www.aventa.fr/",
+   "quote": "Aventa is an independent group specializing in marine energy and offshore transmission infrastructure."
+  },
+  {
+   "claim": "offre servizi di ingegneria",
+   "url": "https://www.aventa.fr/",
+   "quote": "Engineering expertise for offshore transmission and energy networks"
+  },
+  {
+   "claim": "offre servizi di consulenza",
+   "url": "https://www.aventa.fr/about-us/who-we-are/",
+   "quote": "Aventa provides consultancy services worldwide for Marine Energy projects"
+  },
+  {
+   "claim": "progetta e mette in sicurezza i sistemi che collegano l'energia offshore alla terraferma",
+   "url": "https://www.aventa.fr/",
+   "quote": "We design, analyse, and secure the systems that connect offshore energy to shore"
+  },
+  {
+   "claim": "serve operatori, sviluppatori e TSO",
+   "url": "https://www.aventa.fr/",
+   "quote": "Aventa supports clients (Operators, Developers, TSOs, EPCIs, Installation Contractors, Cable Manufacturers, and Technology Providers)"
+  },
+  {
+   "claim": "progetta e mette in sicurezza i sistemi che collegano l'energia offshore alla terraferma",
+   "url": "https://www.aventa.fr/",
+   "quote": "We design, analyse, and secure the systems that connect offshore energy to shore"
+  },
+  {
+   "claim": "serve offshore wind, oil & gas ed energia marina",
+   "url": "https://www.aventa.fr/",
+   "quote": "From subsea cables and interconnectors to offshore wind, hydrogen, oil & gas, and emerging marine energy systems"
+  }
+ ],
+ "market": {
+  "count": "2.793",
+  "label": "direttori e responsabili tecnici di aziende dell'energia offshore in Italia con oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "energia offshore",
+   "oil & gas",
+   "rinnovabili"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"oil and gas,renewable energy\"}"
+ }
+}

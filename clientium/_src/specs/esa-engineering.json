@@ -1,0 +1,80 @@
+{
+ "slug": "esa-engineering",
+ "company": "ESA engineering",
+ "first_name": "Mario",
+ "domain": "esa-engineering.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza ingegneristica multidisciplinare per developer e studi di architettura. Ecco chi contatteremmo per ESA engineering.",
+ "market_note": "ESA engineering offre servizi di ingegneria multidisciplinare a developer e studi di architettura su scala internazionale, quindi parleremmo con chi guida progetti e decide su consulenza e sostenibilità.",
+ "evidence": [
+  {
+   "claim": "Società di consulenza ingegneristica multidisciplinare",
+   "url": "https://esa-engineering.com/",
+   "quote": "ESA engineering is a multidisciplinary consultancy firm providing comprehensive engineering services on an international scale"
+  },
+  {
+   "claim": "Serve developer e studi di architettura",
+   "url": "https://esa-engineering.com/",
+   "quote": "delivering innovative services in support of Developers and Architecture Firms on an international scale"
+  },
+  {
+   "claim": "Servizi di ingegneria su scala internazionale",
+   "url": "https://esa-engineering.com/about-us/",
+   "quote": "ESA engineering is an engineering services company with international operations"
+  },
+  {
+   "claim": "Supporta developer e studi di architettura a livello internazionale",
+   "url": "https://esa-engineering.com/",
+   "quote": "delivering innovative services in support of Developers and Architecture Firms on an international scale"
+  },
+  {
+   "claim": "Clienti: developer e studi di architettura",
+   "url": "https://esa-engineering.com/",
+   "quote": "delivering innovative services in support of Developers and Architecture Firms on an international scale"
+  }
+ ],
+ "market": {
+  "count": "2.236",
+  "label": "titolari, CEO e amministratori di developer immobiliari e studi di architettura strutturati oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "developer immobiliari",
+   "studi di architettura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"architecture,real estate\"}"
+ }
+}

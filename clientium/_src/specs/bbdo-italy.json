@@ -1,0 +1,79 @@
+{
+ "slug": "bbdo-italy",
+ "company": "BBDO Italy",
+ "first_name": "Daniele",
+ "domain": "bbdo.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Risolve problemi di business con strategie e creatività di grande impatto. Ecco chi contatteremmo per BBDO Italy.",
+ "market_note": "BBDO Italy risolve problemi di business con strategie e creatività per brand e clienti che hanno grandi ambizioni, quindi parleremmo con chi guida marketing e comunicazione.",
+ "evidence": [
+  {
+   "claim": "Risolve problemi di business con strategie e creatività",
+   "url": "https://bbdo.it/",
+   "quote": "Risolviamo problemi di business con strategie e creatività di grande impatto."
+  },
+  {
+   "claim": "Lavora per brand e clienti con grandi ambizioni",
+   "url": "https://bbdo.it/",
+   "quote": "Lavoriamo con brand e clienti che hanno grandi ambizioni."
+  },
+  {
+   "claim": "Risolve problemi di business con strategie e creatività",
+   "url": "https://bbdo.it/",
+   "quote": "Risolviamo problemi di business con strategie e creatività di grande impatto."
+  },
+  {
+   "claim": "Ha firmato la nuova campagna di CoopVoce",
+   "url": "https://bbdo.it/",
+   "quote": "BBDO Italy firma la nuova campagna del brand"
+  },
+  {
+   "claim": "Agenzia che opera in Italia",
+   "url": "https://bbdo.it/",
+   "quote": "Agenzia Creativa in Italia"
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "direttori marketing, titolari e CEO di grandi aziende e brand in Italia oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "grandi brand"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

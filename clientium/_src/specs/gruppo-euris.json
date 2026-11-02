@@ -1,0 +1,86 @@
+{
+ "slug": "gruppo-euris",
+ "company": "Gruppo Euris",
+ "first_name": "Mauro",
+ "domain": "euris.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza e tecnologia per la digital transformation delle aziende. Ecco chi contatteremmo per Gruppo Euris.",
+ "market_note": "Gruppo Euris guida la digital transformation di aziende di automotive, banking, insurance, manufacturing e retail, quindi parleremmo con chi decide su IT service management, sicurezza e intelligenza artificiale.",
+ "evidence": [
+  {
+   "claim": "Si occupa di digital transformation",
+   "url": "https://www.euris.it/",
+   "quote": "leader nella digital transformation"
+  },
+  {
+   "claim": "Guida la digital transformation",
+   "url": "https://www.euris.it/",
+   "quote": "leader nella digital transformation"
+  },
+  {
+   "claim": "Serve settori automotive, banking, insurance, manufacturing e retail",
+   "url": "https://www.euris.it/",
+   "quote": "Automotive Banking Insurance Manufacturing Retail & Fashion"
+  },
+  {
+   "claim": "Offre IT Service Management",
+   "url": "https://www.euris.it/services/it-service-management-software/",
+   "quote": "Progettiamo, implementiamo e ottimizziamo il tuo IT Service Management"
+  },
+  {
+   "claim": "Progetta e ottimizza soluzioni ITSM",
+   "url": "https://www.euris.it/services/it-service-management-software/",
+   "quote": "Progettiamo, implementiamo e ottimizziamo il tuo IT Service Management"
+  },
+  {
+   "claim": "Serve settori verticali di imprese non IT",
+   "url": "https://www.euris.it/",
+   "quote": "Automotive Banking Insurance Manufacturing Retail & Fashion"
+  }
+ ],
+ "market": {
+  "count": "2.905",
+  "label": "CIO, CTO e responsabili IT di aziende strutturate in Italia oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "banking e insurance",
+   "manufacturing",
+   "automotive e retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"automotive,banking,insurance,manufacturing,retail,fashion\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

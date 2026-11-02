@@ -1,0 +1,87 @@
+{
+ "slug": "sygma",
+ "company": "SYGMA",
+ "first_name": "Attilio",
+ "domain": "sygma.link",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Lavori di ingegneria, delega di personale e servizi IT per progetti in tutto il mondo. Ecco chi contatteremmo per SYGMA.",
+ "market_note": "SYGMA fornisce lavori di ingegneria, delega di personale e servizi IT ad aziende di oil and gas, settore minerario, chimico e farmaceutico, quindi parleremmo con chi dirige i progetti tecnici.",
+ "evidence": [
+  {
+   "claim": "Lavori di ingegneria, delega di personale e servizi IT",
+   "url": "https://sygma.link/",
+   "quote": "We are specialized in engineering works, personnel delegation and IT services."
+  },
+  {
+   "claim": "progetti in tutto il mondo",
+   "url": "https://sygma.link/",
+   "quote": "we are present worldwide"
+  },
+  {
+   "claim": "lavori di ingegneria, delega di personale e servizi IT",
+   "url": "https://sygma.link/",
+   "quote": "We are specialized in engineering works, personnel delegation and IT services."
+  },
+  {
+   "claim": "aziende dei settori oil and gas, minerario, chimico e farmaceutico",
+   "url": "https://sygma.link/",
+   "quote": "Also specialized in Oil & Gas, mining, chemical and pharmaceutical industries"
+  },
+  {
+   "claim": "specializzati nei settori oil and gas, minerario, chimico e farmaceutico",
+   "url": "https://sygma.link/",
+   "quote": "Also specialized in Oil & Gas, mining, chemical and pharmaceutical industries"
+  },
+  {
+   "claim": "settori clienti dichiarati dal sito",
+   "url": "https://sygma.link/",
+   "quote": "Also specialized in Oil & Gas, mining, chemical and pharmaceutical industries"
+  }
+ ],
+ "market": {
+  "count": "7.899",
+  "label": "titolari, CEO e direttori di aziende dei settori oil and gas, minerario, chimico e farmaceutico con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "oil and gas",
+   "settore minerario",
+   "chimico",
+   "farmaceutico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"oil and gas,mining,chemical,pharmaceutical\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

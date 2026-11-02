@@ -1,0 +1,77 @@
+{
+ "slug": "betacom",
+ "company": "Betacom",
+ "first_name": "Nicola",
+ "domain": "betacom.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Progetta soluzioni IT scalabili e sostenibili per la trasformazione digitale. Ecco chi contatteremmo per Betacom.",
+ "market_note": "Betacom accompagna le imprese nella trasformazione digitale progettando soluzioni IT scalabili e sostenibili, quindi parleremmo con chi decide su software, sicurezza e sistemi informativi.",
+ "evidence": [
+  {
+   "claim": "Progetta soluzioni IT scalabili e sostenibili",
+   "url": "https://www.betacom.tech",
+   "quote": "progettiamo soluzioni IT scalabili e sostenibili"
+  },
+  {
+   "claim": "Accompagna le imprese nella trasformazione digitale",
+   "url": "https://www.betacom.tech",
+   "quote": "Accompagniamo le imprese nella trasformazione digitale"
+  },
+  {
+   "claim": "Ha sviluppato una piattaforma cloud per tracciare la produzione del parmigiano",
+   "url": "https://www.betacom.tech",
+   "quote": "Sviluppo di una piattaforma in cloud per tracciare ogni fase della produzione del parmigiano."
+  },
+  {
+   "claim": "Settori serviti dichiarati dal sito",
+   "url": "https://www.betacom.tech",
+   "quote": "Settori Industrial Insurance Agritech Proptech"
+  }
+ ],
+ "market": {
+  "count": "976",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate oltre 50 addetti nei settori industriale, assicurativo, agritech e proptech",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "industriale",
+   "assicurativo",
+   "agritech",
+   "proptech"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"industrial,insurance,agtech,proptech\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

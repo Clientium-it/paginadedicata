@@ -1,0 +1,80 @@
+{
+ "slug": "motork",
+ "company": "MotorK",
+ "first_name": "Marco",
+ "domain": "motork.ai",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni SaaS con AI che aiutano concessionari e case automobilistiche nella trasformazione digitale. Ecco chi contatteremmo per MotorK.",
+ "market_note": "MotorK offre una piattaforma SaaS con AI che aiuta concessionari e case automobilistiche nella trasformazione digitale, quindi parleremmo con chi guida le concessionarie e le reti di vendita.",
+ "evidence": [
+  {
+   "claim": "Soluzioni SaaS con AI per il settore automotive",
+   "url": "https://www.motork.ai/",
+   "quote": "MotorK SaaS solutions with AI for automotive"
+  },
+  {
+   "claim": "aiuta concessionari e case automobilistiche nella trasformazione digitale",
+   "url": "https://www.motork.ai/contact",
+   "quote": "MotorK helps dealers and OEMs in digital transformation with AI"
+  },
+  {
+   "claim": "aiuta i retailer automotive nella trasformazione digitale lungo tutto il percorso del cliente",
+   "url": "https://www.motork.ai/",
+   "quote": "We help automotive retailers accelerate their digital transformation, guiding every step from first contact to long-term customer loyalty"
+  },
+  {
+   "claim": "aiuta dealer e OEM nella trasformazione digitale con AI",
+   "url": "https://www.motork.ai/contact",
+   "quote": "MotorK helps dealers and OEMs in digital transformation with AI"
+  },
+  {
+   "claim": "clienti automotive: OEM e concessionari",
+   "url": "https://www.motork.ai/",
+   "quote": "MotorK SaaS solutions with AI for automotive"
+  }
+ ],
+ "market": {
+  "count": "1.707",
+  "label": "titolari, CEO e direttori di concessionarie auto in Italia da 20 a 500 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-500 addetti",
+   "automotive",
+   "concessionarie auto"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 500, \"companyIndustry\": \"automotive\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

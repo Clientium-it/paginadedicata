@@ -1,0 +1,91 @@
+{
+ "slug": "deciphex",
+ "company": "Deciphex",
+ "first_name": "Mirko",
+ "domain": "deciphex.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Patologia di precisione resa accessibile ovunque grazie a intelligenza artificiale e patologi esperti. Ecco chi contatteremmo per Deciphex.",
+ "market_note": "Deciphex offre piattaforme di patologia digitale basate su intelligenza artificiale per accelerare lo sviluppo di farmaci nelle aziende farmaceutiche, quindi parleremmo con chi guida ricerca preclinica e laboratori.",
+ "evidence": [
+  {
+   "claim": "patologia di precisione accessibile ovunque",
+   "url": "https://www.deciphex.com/",
+   "quote": "Precision pathology, accessible everywhere"
+  },
+  {
+   "claim": "rete di patologi potenziati dall'intelligenza artificiale",
+   "url": "https://www.deciphex.com/",
+   "quote": "Deciphex is building a global network of AI empowered pathologists"
+  },
+  {
+   "claim": "piattaforma digitale basata su AI per i flussi di ricerca",
+   "url": "https://www.deciphex.com/about",
+   "quote": "An AI-powered digital platform that streamlines regulated research workflows"
+  },
+  {
+   "claim": "accelera lo sviluppo di farmaci nelle aziende farmaceutiche",
+   "url": "https://www.deciphex.com/",
+   "quote": "Speeding up drug development in 9/10 top pharma companies"
+  },
+  {
+   "claim": "accelera lo sviluppo di farmaci nelle principali aziende farmaceutiche",
+   "url": "https://www.deciphex.com/",
+   "quote": "Speeding up drug development in 9/10 top pharma companies"
+  },
+  {
+   "claim": "clienti nel settore farmaceutico",
+   "url": "https://www.deciphex.com/",
+   "quote": "Speeding up drug development in 9/10 top pharma companies"
+  },
+  {
+   "claim": "integrazione con i sistemi sanitari",
+   "url": "https://www.deciphex.com/",
+   "quote": "AI-powered platform integrates directly with NHS systems"
+  }
+ ],
+ "market": {
+  "count": "10.350",
+  "label": "titolari, CEO e direttori di aziende farmaceutiche e sanitarie italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "farmaceutica",
+   "sanità",
+   "biopharma"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"pharmaceutical,biopharma,hospitals and health care\"}"
+ }
+}

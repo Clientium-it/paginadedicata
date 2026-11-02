@@ -1,0 +1,81 @@
+{
+ "slug": "brightcove",
+ "company": "Brightcove",
+ "first_name": "Luis",
+ "domain": "brightcove.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Tecnologia video per ospitare, trasmettere e monetizzare contenuti su larga scala. Ecco chi contatteremmo per Brightcove.",
+ "market_note": "Brightcove offre una piattaforma tecnologica video per ospitare, trasmettere e monetizzare contenuti, servendo broadcaster, editori e aziende media, quindi parleremmo con chi guida le scelte tecnologiche e digitali.",
+ "evidence": [
+  {
+   "claim": "Piattaforma end to end per distribuzione e monetizzazione video",
+   "url": "https://www.brightcove.com:443/",
+   "quote": "End-to-end video delivery & monetization platform"
+  },
+  {
+   "claim": "Piattaforma tecnologica video affidabile e scalabile",
+   "url": "https://www.brightcove.com:443/",
+   "quote": "The world’s most reliable, scalable, and intelligent video technology platform"
+  },
+  {
+   "claim": "Piattaforma end to end per distribuzione e monetizzazione video",
+   "url": "https://www.brightcove.com:443/",
+   "quote": "End-to-end video delivery & monetization platform"
+  },
+  {
+   "claim": "Serve broadcaster, media, editori e aziende tech",
+   "url": "https://www.brightcove.com:443/",
+   "quote": "Broadcasters Healthcare & Pharma Media Entertainment Media Networks Publishers Retail Tech Companies"
+  },
+  {
+   "claim": "Settori clienti dichiarati dal sito",
+   "url": "https://www.brightcove.com:443/",
+   "quote": "Broadcasters Healthcare & Pharma Media Entertainment Media Networks Publishers Retail Tech Companies"
+  }
+ ],
+ "market": {
+  "count": "1.040",
+  "label": "responsabili IT, CIO e CTO di aziende media, editoriali e tech italiane con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "media e broadcaster",
+   "editoria",
+   "tech"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"broadcast media production and distribution,media and entertainment,publishing,retail,health care,pharmaceutical,technology, information and internet\"}"
+ }
+}

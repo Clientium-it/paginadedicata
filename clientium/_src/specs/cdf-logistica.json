@@ -1,0 +1,80 @@
+{
+ "slug": "cdf-logistica",
+ "company": "CDF Logistica",
+ "first_name": "Luca",
+ "domain": "cdflogistica.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Servizi logistici specializzati per la Grande Distribuzione Organizzata. Ecco chi contatteremmo per CDF Logistica.",
+ "market_note": "CDF Logistica fornisce da oltre trent'anni servizi logistici specializzati alla Grande Distribuzione Organizzata su tutto il territorio nazionale, quindi parleremmo con chi decide su logistica, depositi e trasporto.",
+ "evidence": [
+  {
+   "claim": "Servizi logistici specializzati per la GDO",
+   "url": "https://www.cdflogistica.com/chi-siamo/",
+   "quote": "fornire una Logistica specializzata per la Grande Distribuzione Organizzata"
+  },
+  {
+   "claim": "Da oltre trent'anni al servizio della GDO",
+   "url": "https://www.cdflogistica.com/",
+   "quote": "Da oltre trent’anni mettiamo la nostra esperienza al servizio della Grande Distribuzione Organizzata"
+  },
+  {
+   "claim": "Servizi logistici integrati su tutto il territorio nazionale",
+   "url": "https://www.cdflogistica.com/",
+   "quote": "un pacchetto completo di servizi logistici integrati, attivi su tutto il territorio nazionale"
+  },
+  {
+   "claim": "Tra i maggiori operatori logistici del centro Italia",
+   "url": "https://www.cdflogistica.com/servizi/",
+   "quote": "Siamo tra i maggiori operatori logistici del centro Italia."
+  },
+  {
+   "claim": "Partner della Grande Distribuzione e Distribuzione Organizzata",
+   "url": "https://www.cdflogistica.com/",
+   "quote": "partner affidabile e flessibile della Grande Distribuzione e Distribuzione Organizzata"
+  }
+ ],
+ "market": {
+  "count": "7.813",
+  "label": "titolari, CEO e direttori di aziende della grande distribuzione organizzata in Italia con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "grande distribuzione",
+   "retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"retail,retail groceries,grocery\"}"
+ }
+}

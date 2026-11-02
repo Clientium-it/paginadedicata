@@ -1,0 +1,91 @@
+{
+ "slug": "xtel",
+ "company": "XTEL",
+ "first_name": "Luca",
+ "domain": "xtech.ai",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma di revenue management basata su AI per il settore dei beni di consumo. Ecco chi contatteremmo per XTEL.",
+ "market_note": "XTEL offre una piattaforma di revenue management progettata da esperti CPG per aziende di beni di consumo, quindi parleremmo con chi guida le strategie commerciali e di prezzo.",
+ "evidence": [
+  {
+   "claim": "Piattaforma di revenue management basata su AI",
+   "url": "https://xtech.ai/contact/",
+   "quote": "a mission-critical, cloud-native, and AI-first revenue management platform"
+  },
+  {
+   "claim": "per il settore dei beni di consumo",
+   "url": "https://xtech.ai/",
+   "quote": "designed by CPG experts, for CPGs"
+  },
+  {
+   "claim": "piattaforma di revenue management progettata da esperti CPG",
+   "url": "https://xtech.ai/",
+   "quote": "designed by CPG experts, for CPGs"
+  },
+  {
+   "claim": "per aziende di beni di consumo",
+   "url": "https://xtech.ai/industries/",
+   "quote": "Empowering consumer goods industries with strategic solutions."
+  },
+  {
+   "claim": "piattaforma di revenue management usata da oltre 400 mega brand del largo consumo",
+   "url": "https://xtech.ai/contact/",
+   "quote": "XTEL supports more than 400 global mega brands in the CPG sector"
+  },
+  {
+   "claim": "clienti del largo consumo",
+   "url": "https://xtech.ai/industries/",
+   "quote": "Fast moving consumer goods (FMCG)"
+  },
+  {
+   "claim": "settore beni di consumo",
+   "url": "https://xtech.ai/industries/",
+   "quote": "Empowering consumer goods industries with strategic solutions."
+  }
+ ],
+ "market": {
+  "count": "9.622",
+  "label": "direttori commerciali, CEO e direttori di aziende del largo consumo oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "largo consumo",
+   "wine & spirits",
+   "retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"fast-moving consumer goods,consumer goods,wine and spirits,retail,food and beverage manufacturing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

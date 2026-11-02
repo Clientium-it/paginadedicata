@@ -1,0 +1,76 @@
+{
+ "slug": "sync-lab",
+ "company": "Sync Lab",
+ "first_name": "Giulio",
+ "domain": "synclab.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Prodotti e soluzioni IT per sanità, industria, energia, telco, finanza e trasporti. Ecco chi contatteremmo per Sync Lab.",
+ "market_note": "Sync Lab è un system integrator che realizza prodotti e soluzioni IT per sanità, industria, energia, telco e finanza, quindi parleremmo con chi guida i sistemi informativi di aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Realizza prodotti e soluzioni per sanità, industria, energia, telco, finanza e trasporti",
+   "url": "https://synclab.it/about",
+   "quote": "realizza prodotti e soluzioni per diversi mercati quali: Sanità, Industria, Energia, Telco, Finanza e Trasporti & Logistica"
+  },
+  {
+   "claim": "È un system integrator italiano",
+   "url": "https://synclab.it/about",
+   "quote": "uno dei più importanti system integrator nel panorama italiano delle aziende ICT"
+  },
+  {
+   "claim": "Realizza soluzioni per diversi mercati tra cui sanità, industria, energia, telco e trasporti",
+   "url": "https://synclab.it/about",
+   "quote": "realizza prodotti e soluzioni per diversi mercati quali: Sanità, Industria, Energia, Telco, Finanza e Trasporti & Logistica"
+  },
+  {
+   "claim": "Serve clienti nei settori sanità, industria, energia, telco, finanza e trasporti",
+   "url": "https://synclab.it/about",
+   "quote": "realizza prodotti e soluzioni per diversi mercati quali: Sanità, Industria, Energia, Telco, Finanza e Trasporti & Logistica"
+  }
+ ],
+ "market": {
+  "count": "3.264",
+  "label": "responsabili IT e CIO di aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "sanità",
+   "finanza",
+   "industria"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"health care,manufacturing,energy,telecommunications,finance,logistics\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

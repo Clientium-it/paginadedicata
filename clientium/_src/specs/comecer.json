@@ -1,0 +1,80 @@
+{
+ "slug": "comecer",
+ "company": "Comecer",
+ "first_name": "Antonio",
+ "domain": "comecer.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Progetta e produce sistemi integrati per pharma, radiopharma e terapie avanzate. Ecco chi contatteremmo per Comecer.",
+ "market_note": "Comecer progetta e produce sistemi integrati per processing asettico, containment e radiochimica usati in istituzioni private e pubbliche nel mondo, quindi parleremmo con chi decide su produzione e qualità.",
+ "evidence": [
+  {
+   "claim": "Progetta e produce sistemi integrati per pharma, radiopharma e terapie avanzate",
+   "url": "https://www.comecer.com/",
+   "quote": "Comecer designs and manufactures integrated systems spanning aseptic processing, containment, dispensing, fill & finish, radiochemistry, nuclear medicine, radioprotection, process control, and digital technologies"
+  },
+  {
+   "claim": "sistemi integrati per processing asettico, containment e radiochimica",
+   "url": "https://www.comecer.com/",
+   "quote": "Comecer designs and manufactures integrated systems spanning aseptic processing, containment, dispensing, fill & finish, radiochemistry, nuclear medicine, radioprotection, process control, and digital technologies"
+  },
+  {
+   "claim": "usati in istituzioni private e pubbliche nel mondo",
+   "url": "https://www.comecer.com/",
+   "quote": "Our solutions have been used worldwide in both private and public institutions."
+  },
+  {
+   "claim": "progettate e producete sistemi integrati per il processing asettico e il containment",
+   "url": "https://www.comecer.com/",
+   "quote": "Comecer designs and manufactures integrated systems spanning aseptic processing, containment, dispensing, fill & finish, radiochemistry, nuclear medicine, radioprotection, process control, and digital technologies"
+  },
+  {
+   "claim": "serve il settore pharma, radiopharma e terapie avanzate",
+   "url": "https://www.comecer.com/",
+   "quote": "PHARMA, RADIOPHARMA & ADVANCED THERAPIES"
+  }
+ ],
+ "market": {
+  "count": "11.697",
+  "label": "titolari, CEO e direttori di produzione di aziende farmaceutiche e biotech italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "farmaceutico",
+   "biotech"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"pharmaceutical manufacturing,biotechnology,biopharma,hospitals and health care\"}"
+ }
+}

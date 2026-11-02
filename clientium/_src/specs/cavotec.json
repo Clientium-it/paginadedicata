@@ -1,0 +1,76 @@
+{
+ "slug": "cavotec",
+ "company": "Cavotec",
+ "first_name": "Christopher",
+ "domain": "cavotec.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni di connessione ed elettrificazione per porti, settore marittimo e industria. Ecco chi contatteremmo per Cavotec.",
+ "market_note": "Cavotec progetta soluzioni di connessione ed elettrificazione per porti, settore marittimo e applicazioni industriali, quindi parleremmo con chi guida ingegneria e operazioni nelle aziende industriali strutturate.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni di connessione ed elettrificazione per porti, marittimo e industria",
+   "url": "https://www.cavotec.com/",
+   "quote": "innovative connection and electrification solutions to enable the decarbonisation of ports, maritime and industrial applications"
+  },
+  {
+   "claim": "Vende soluzioni di connessione ed elettrificazione a porti, marittimo e applicazioni industriali",
+   "url": "https://www.cavotec.com/",
+   "quote": "innovative connection and electrification solutions to enable the decarbonisation of ports, maritime and industrial applications"
+  },
+  {
+   "claim": "Abilita la decarbonizzazione di porti e industria con elettrificazione e connessione",
+   "url": "https://www.cavotec.com/",
+   "quote": "Cavotec enables the decarbonization of ports and industry with innovative electrification and connection solutions"
+  },
+  {
+   "claim": "Serve porti, marittimo, mining, tunnelling, costruzioni e altre applicazioni industriali",
+   "url": "https://www.cavotec.com/",
+   "quote": "across ports, maritime, mining, tunnelling, construction and other industrial applications"
+  }
+ ],
+ "market": {
+  "count": "5.231",
+  "label": "titolari, CEO e direttori di aziende industriali, portuali e del mining in Italia oltre 100 addetti",
+  "chips": [
+   "Italia",
+   "oltre 100 addetti",
+   "porti e terminal",
+   "industria e mining",
+   "costruzioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"ports and harbors,maritime transportation,mining,construction\"}"
+ }
+}

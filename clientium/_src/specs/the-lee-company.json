@@ -1,0 +1,91 @@
+{
+ "slug": "the-lee-company",
+ "company": "The Lee Company",
+ "first_name": "Gianni",
+ "domain": "theleeco.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Componenti miniaturizzati di precisione per il controllo dei fluidi in applicazioni mission critical. Ecco chi contatteremmo per The Lee Company.",
+ "market_note": "The Lee Company produce componenti miniaturizzati per il controllo dei fluidi in settori come aerospazio, automotive e medicale, quindi parleremmo con chi decide progettazione e acquisti dei componenti.",
+ "evidence": [
+  {
+   "claim": "produce componenti di precisione per il controllo dei fluidi",
+   "url": "https://www.theleeco.com/",
+   "quote": "The Leading Innovator in Miniature Precision Fluid Control"
+  },
+  {
+   "claim": "i suoi prodotti sono usati in applicazioni mission critical da oltre 75 anni",
+   "url": "https://www.theleeco.com/",
+   "quote": "our products in mission-critical applications for over 75 years"
+  },
+  {
+   "claim": "serve il settore automotive e gli OEM",
+   "url": "https://www.theleeco.com/industries/automotive/",
+   "quote": "precision components and solving unique problems for major auto manufacturers and OEMs"
+  },
+  {
+   "claim": "serve il settore aerospazio e difesa",
+   "url": "https://www.theleeco.com/industries/aerospace-defense/",
+   "quote": "reliability in aerospace and defense applications"
+  },
+  {
+   "claim": "serve il settore medicale",
+   "url": "https://www.theleeco.com/industries/",
+   "quote": "designing medical equipment for treating patients"
+  },
+  {
+   "claim": "sviluppa controllo dei fluidi di precisione per applicazioni mission critical da oltre 75 anni",
+   "url": "https://www.theleeco.com/",
+   "quote": "our products in mission-critical applications for over 75 years"
+  },
+  {
+   "claim": "la filiale italiana copre l'Italia",
+   "url": "https://www.theleeco.com/about/locations/",
+   "quote": "Subsidiary for Italy, Italian-Speaking Switzerland, Romania, Greece, and the Balkans"
+  }
+ ],
+ "market": {
+  "count": "8.682",
+  "label": "titolari, CEO e direttori di aziende manifatturiere e OEM italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aerospace",
+   "automotive",
+   "medical equipment"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"aerospace,automotive,data center,medical equipment manufacturing,oil and gas,motorsports\"}"
+ }
+}

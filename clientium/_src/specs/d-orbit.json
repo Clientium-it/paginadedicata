@@ -1,0 +1,100 @@
+{
+ "slug": "d-orbit",
+ "company": "D-Orbit",
+ "first_name": "Matteo",
+ "domain": "dorbit.space",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Logistica e trasporto spaziale con veicoli orbitali proprietari. Ecco chi contatteremmo per D-Orbit.",
+ "market_note": "D-Orbit guida il mercato della logistica spaziale e serve sviluppatori di hardware spaziale e agenzie governative, quindi parleremmo con chi decide su missioni e qualità.",
+ "evidence": [
+  {
+   "claim": "logistica e trasporto spaziale",
+   "url": "https://dorbit.space/about-us/",
+   "quote": "market leader in space logistics and transportation"
+  },
+  {
+   "claim": "veicoli orbitali proprietari",
+   "url": "https://dorbit.space/about-us/",
+   "quote": "our proprietary orbital transfer vehicle ION Satellite Carrier"
+  },
+  {
+   "claim": "guida il mercato della logistica spaziale",
+   "url": "https://dorbit.space/about-us/",
+   "quote": "market leader in space logistics and transportation"
+  },
+  {
+   "claim": "serve sviluppatori di hardware spaziale",
+   "url": "https://dorbit.space/advanced-services/",
+   "quote": "enables space hardware developers to quickly get a payload to orbit"
+  },
+  {
+   "claim": "serve agenzie governative",
+   "url": "https://dorbit.space/advanced-services/",
+   "quote": "enables government agencies to access advanced Earth observation capabilities"
+  },
+  {
+   "claim": "guida il mercato della logistica spaziale",
+   "url": "https://dorbit.space/about-us/",
+   "quote": "market leader in space logistics and transportation"
+  },
+  {
+   "claim": "veicolo di trasporto orbitale proprietario ION",
+   "url": "https://dorbit.space/about-us/",
+   "quote": "our proprietary orbital transfer vehicle ION Satellite Carrier"
+  },
+  {
+   "claim": "clienti del settore spaziale e aerospaziale",
+   "url": "https://dorbit.space/about-us/",
+   "quote": "market leader in space logistics and transportation"
+  },
+  {
+   "claim": "clienti agenzie governative",
+   "url": "https://dorbit.space/advanced-services/",
+   "quote": "enables government agencies to access advanced Earth observation capabilities"
+  }
+ ],
+ "market": {
+  "count": "10.564",
+  "label": "direttori, CEO e titolari di aziende del settore spaziale e aerospaziale strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aerospace",
+   "agenzie governative"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"aerospace,defense and space manufacturing,government administration\"}"
+ }
+}

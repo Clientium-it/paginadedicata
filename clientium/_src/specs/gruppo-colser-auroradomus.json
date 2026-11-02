@@ -1,0 +1,85 @@
+{
+ "slug": "gruppo-colser-auroradomus",
+ "company": "Gruppo COLSER-Auroradomus",
+ "first_name": "Cristina",
+ "domain": "gruppocolserauroradomus.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Igiene ambientale e sanificazione per le imprese, dalla sanità all'industria. Ecco chi contatteremmo per Gruppo COLSER-Auroradomus.",
+ "market_note": "Gruppo COLSER-Auroradomus offre servizi di igiene ambientale e sanificazione alle imprese, soprattutto nel settore sanitario e industriale, quindi parleremmo con chi decide su facility e sanificazioni nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Il core business è l'igiene ambientale per le imprese",
+   "url": "https://www.gruppocolserauroradomus.com/",
+   "quote": "il core business è rappresentato dagli interventi di igiene ambientale"
+  },
+  {
+   "claim": "Eroga servizi che rispondono ai bisogni delle imprese",
+   "url": "https://www.gruppocolserauroradomus.com/",
+   "quote": "Progettare ed erogare servizi che soddisfino i bisogni delle imprese"
+  },
+  {
+   "claim": "Sanificazioni soprattutto nel settore sanitario e industriale",
+   "url": "https://www.gruppocolserauroradomus.com/",
+   "quote": "le sanificazioni specialistiche soprattutto nel settore sanitario e industriale"
+  },
+  {
+   "claim": "Interventi di igiene ambientale per le imprese nel sanitario e industriale",
+   "url": "https://www.gruppocolserauroradomus.com/",
+   "quote": "il core business è rappresentato dagli interventi di igiene ambientale"
+  },
+  {
+   "claim": "Presenza su tutto il territorio nazionale",
+   "url": "https://www.gruppocolserauroradomus.com/chi-siamo/territorio.html",
+   "quote": "è presente su tutto il territorio nazionale"
+  },
+  {
+   "claim": "Settori clienti sanitario e industriale",
+   "url": "https://www.gruppocolserauroradomus.com/",
+   "quote": "le sanificazioni specialistiche soprattutto nel settore sanitario e industriale"
+  }
+ ],
+ "market": {
+  "count": "29.621",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "sanità",
+   "industria"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"health care,manufacturing\"}"
+ }
+}

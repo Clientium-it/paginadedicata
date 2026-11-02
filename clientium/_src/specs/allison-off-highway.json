@@ -1,0 +1,82 @@
+{
+ "slug": "allison-off-highway",
+ "company": "Allison Off-Highway",
+ "first_name": "Marino",
+ "domain": "allisonoffhighway.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Sistemi di trasmissione, riduttori, alberi industriali e ingranaggi su misura per macchinari pesanti. Ecco chi contatteremmo per Allison Off-Highway.",
+ "market_note": "Allison Off-Highway produce sistemi di trasmissione, riduttori e alberi industriali per i mercati agricoltura, costruzioni, minerario e industria pesante, quindi parleremmo con chi decide gli acquisti tecnici.",
+ "evidence": [
+  {
+   "claim": "Produce riduttori, alberi di trasmissione industriali e ingranaggi su misura",
+   "url": "https://allisonoffhighway.com/",
+   "quote": "Brevini™ Gearbox and winches GWB™ Industrial driveshafts"
+  },
+  {
+   "claim": "Offre ingranaggi e trasmissioni su misura",
+   "url": "https://allisonoffhighway.com/",
+   "quote": "Fairfield™ Custom gears and drives Graziano™ Shifting solutions"
+  },
+  {
+   "claim": "Serve i mercati industriali e mobili",
+   "url": "https://allisonoffhighway.com/",
+   "quote": "Discover our industrial and mobile markets Agriculture Construction Material Handling Mining"
+  },
+  {
+   "claim": "Sviluppa sistemi di trasmissione per questi mercati",
+   "url": "https://allisonoffhighway.com/",
+   "quote": "Spicer™ Drivetrain system Brevini™ Gearbox and winches GWB™ Industrial driveshafts"
+  },
+  {
+   "claim": "Mercati clienti dichiarati",
+   "url": "https://allisonoffhighway.com/",
+   "quote": "Agriculture Construction Material Handling Mining Leisure Mining & Bulk Materials Marine & Port Heavy Industry Waste & Renewables Plastic & Rubber"
+  }
+ ],
+ "market": {
+  "count": "12.355",
+  "label": "titolari, CEO e direttori di aziende industriali italiane oltre 50 addetti nei mercati agricoltura, costruzioni, minerario e industria pesante",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "agricoltura",
+   "costruzioni",
+   "minerario",
+   "industria pesante"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"agriculture,construction,mining,plastics and rubber manufacturing,ports and harbors,waste management,renewable energy,industrial manufacturing,leisure\"}"
+ }
+}

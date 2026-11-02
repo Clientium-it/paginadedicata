@@ -1,0 +1,85 @@
+{
+ "slug": "atex",
+ "company": "Atex",
+ "first_name": "Cesare",
+ "domain": "atex.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni intelligenti per l'industria dei media, dalla redazione alla pubblicità. Ecco chi contatteremmo per Atex.",
+ "market_note": "Atex sviluppa software per editori e aziende dei media, dalla gestione dei contenuti alla pubblicità e agli abbonamenti, quindi parleremmo con chi decide su redazione, tecnologia e ricavi digitali.",
+ "evidence": [
+  {
+   "claim": "soluzioni intelligenti per l'industria dei media",
+   "url": "https://www.atex.com/",
+   "quote": "Smart solutions for the media industry"
+  },
+  {
+   "claim": "coprono gestione contenuti e pubblicità",
+   "url": "https://www.atex.com/",
+   "quote": "Content Management Advertising Audience Management"
+  },
+  {
+   "claim": "vende a editori e aziende dei media",
+   "url": "https://www.atex.com/products/cross-advertising/",
+   "quote": "designed for media companies, publishers, newsrooms, and magazines"
+  },
+  {
+   "claim": "gestione abbonamenti per giornali e riviste",
+   "url": "https://www.atex.com/",
+   "quote": "Subscription management and CRM for print and digital newspapers and magazines."
+  },
+  {
+   "claim": "soluzioni per editori e aziende dei media",
+   "url": "https://www.atex.com/products/cross-advertising/",
+   "quote": "designed for media companies, publishers, newsrooms, and magazines"
+  },
+  {
+   "claim": "clienti editori e aziende dei media",
+   "url": "https://www.atex.com/products/cross-advertising/",
+   "quote": "designed for media companies, publishers, newsrooms, and magazines"
+  }
+ ],
+ "market": {
+  "count": "2.014",
+  "label": "titolari, CEO e direttori di editori e aziende dei media in Italia oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "editoria",
+   "media"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"publishing,newspaper publishing,media and entertainment\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

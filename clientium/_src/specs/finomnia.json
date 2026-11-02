@@ -1,0 +1,80 @@
+{
+ "slug": "finomnia",
+ "company": "Finomnia",
+ "first_name": "Rosy",
+ "domain": "finomnia.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software finanziario per la trasformazione tecnologica di banche e istituti di credito. Ecco chi contatteremmo per Finomnia.",
+ "market_note": "Finomnia sviluppa software finanziario e abilita la trasformazione tecnologica di banche e istituti di credito, quindi parleremmo con chi guida le scelte tecnologiche e di sistema negli istituti bancari.",
+ "evidence": [
+  {
+   "claim": "Finomnia opera nel software finanziario",
+   "url": "https://www.finomnia.com:443/it",
+   "quote": "player leader nel software finanziario"
+  },
+  {
+   "claim": "Abilita la trasformazione tecnologica di banche e istituti di credito",
+   "url": "https://www.finomnia.com:443/it",
+   "quote": "la trasformazione tecnologica di banche e istituti di credito"
+  },
+  {
+   "claim": "Software finanziario per banche e istituti di credito",
+   "url": "https://www.finomnia.com:443/it",
+   "quote": "la trasformazione tecnologica di banche e istituti di credito"
+  },
+  {
+   "claim": "Abilita la trasformazione tecnologica di banche e istituti di credito",
+   "url": "https://www.finomnia.com:443/it",
+   "quote": "la trasformazione tecnologica di banche e istituti di credito"
+  },
+  {
+   "claim": "I clienti sono banche e istituti di credito",
+   "url": "https://www.finomnia.com:443/it",
+   "quote": "banche e istituti di credito"
+  }
+ ],
+ "market": {
+  "count": "1.482",
+  "label": "responsabili IT, CIO e CTO di banche e istituti di credito oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "banche",
+   "istituti di credito"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"banking,financial services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

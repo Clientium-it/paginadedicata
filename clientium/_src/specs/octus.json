@@ -1,0 +1,81 @@
+{
+ "slug": "octus",
+ "company": "Octus",
+ "first_name": "Sam",
+ "domain": "octus.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "La voce globale nell'intelligence e nei dati sul credito. Ecco chi contatteremmo per Octus.",
+ "market_note": "Octus offre intelligence e dati sul credito a chi gestisce portafogli, banche di investimento e studi legali, quindi parleremmo con chi guida le decisioni di credito e investimento.",
+ "evidence": [
+  {
+   "claim": "La voce globale nell'intelligence e nei dati sul credito",
+   "url": "https://octus.com/",
+   "quote": "The leading global voice in credit intelligence and data."
+  },
+  {
+   "claim": "Serve chi gestisce portafogli di credito",
+   "url": "https://octus.com/solutions/credit-portfolio/",
+   "quote": "Built for credit managers who need speed and control across every strategy."
+  },
+  {
+   "claim": "Serve le banche di investimento e i banker LevFin",
+   "url": "https://octus.com/",
+   "quote": "Equip LevFin bankers with actionable insight and analytics to design successful financing solutions."
+  },
+  {
+   "claim": "Dati e strumenti sul credito per gli studi legali",
+   "url": "https://octus.com/",
+   "quote": "Restructuring insight, proprietary data and tools built for leading law firms."
+  },
+  {
+   "claim": "Serve gli studi legali",
+   "url": "https://octus.com/",
+   "quote": "Restructuring insight, proprietary data and tools built for leading law firms."
+  }
+ ],
+ "market": {
+  "count": "14.340",
+  "label": "direttori e responsabili di banche di investimento, società di investimento e studi legali strutturati oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "banche di investimento",
+   "studi legali",
+   "società di investimento"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"investment banking,investment management,financial services,capital markets,law practice\"}"
+ }
+}

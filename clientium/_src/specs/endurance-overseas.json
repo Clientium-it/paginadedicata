@@ -1,0 +1,75 @@
+{
+ "slug": "endurance-overseas",
+ "company": "Endurance Overseas",
+ "first_name": "Roberto",
+ "domain": "enduranceoverseas.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Leader nella fusione, lavorazione meccanica e stampaggio a iniezione per la mobilità. Ecco chi contatteremmo per Endurance Overseas.",
+ "market_note": "Endurance Overseas è leader nella fusione e lavorazione di componenti per importanti Carmakers e produttori di due ruote, quindi parleremmo con chi decide gli acquisti nelle grandi case automobilistiche.",
+ "evidence": [
+  {
+   "claim": "fusione, lavorazione meccanica e stampaggio a iniezione",
+   "url": "https://www.enduranceoverseas.com/",
+   "quote": "Leader in casting, machining and injection moulding"
+  },
+  {
+   "claim": "vende ai più importanti Carmakers e produttori di due ruote",
+   "url": "https://www.enduranceoverseas.com/",
+   "quote": "working with the most important Carmakers and 2 Wheelers Producers"
+  },
+  {
+   "claim": "driveline e sistemi frenanti per cicli e motocicli",
+   "url": "https://www.enduranceoverseas.com/",
+   "quote": "Trailblazer in driveline components and braking systems for cycles and motorcycles"
+  },
+  {
+   "claim": "clienti nel settore automotive",
+   "url": "https://www.enduranceoverseas.com/company-profile/",
+   "quote": "Focus on 4 Wheelers Automotive Light and Heavy Commercial Market"
+  }
+ ],
+ "market": {
+  "count": "3.538",
+  "label": "titolari, CEO e direttori di grandi case automobilistiche e produttori di veicoli in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "automotive",
+   "motor vehicle manufacturing"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"automotive,motor vehicle manufacturing\"}"
+ }
+}

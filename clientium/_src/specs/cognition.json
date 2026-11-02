@@ -1,0 +1,79 @@
+{
+ "slug": "cognition",
+ "company": "Cognition",
+ "first_name": "Simone",
+ "domain": "cognition.ai",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Devin, il software engineer autonomo che scrive, testa e rilascia codice in produzione. Ecco chi contatteremmo per Cognition.",
+ "market_note": "Cognition realizza Devin, software engineer autonomo per le principali imprese e aziende tecnologiche del mondo, quindi parleremmo con chi decide su sviluppo software e tecnologia.",
+ "evidence": [
+  {
+   "claim": "Devin scrive, testa e rilascia codice in produzione da solo",
+   "url": "https://cognition.com/",
+   "quote": "Devin plans, writes, tests, and ships production code on its own"
+  },
+  {
+   "claim": "Cognition realizza Devin, software engineer autonomo",
+   "url": "https://cognition.com/about",
+   "quote": "Cognition operates Devin, the first autonomous software engineer."
+  },
+  {
+   "claim": "Serve imprese e aziende tecnologiche di primo piano",
+   "url": "https://cognition.com/",
+   "quote": "supporting the world's leading enterprises and technology companies"
+  },
+  {
+   "claim": "Devin è distribuito presso le più grandi e complesse istituzioni del mondo",
+   "url": "https://cognition.com/",
+   "quote": "Devin is deployed at some of the largest and most complex institutions in the world."
+  },
+  {
+   "claim": "Vende a imprese e aziende tecnologiche",
+   "url": "https://cognition.com/",
+   "quote": "supporting the world's leading enterprises and technology companies"
+  }
+ ],
+ "market": {
+  "count": "9.984",
+  "label": "responsabili IT, CTO e CIO di aziende tecnologiche e imprese strutturate oltre 100 addetti in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "imprese e aziende tech"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

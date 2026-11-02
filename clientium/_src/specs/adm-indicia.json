@@ -1,0 +1,69 @@
+{
+ "slug": "adm-indicia",
+ "company": "adm Indicia",
+ "first_name": "Florine",
+ "domain": "adm-indicia.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Agenzia globale di brand activation che trasforma gli insight in azione nel retail. Ecco chi contatteremmo per adm Indicia.",
+ "market_note": "adm Indicia è un'agenzia globale di brand activation che aiuta i brand a trasformare gli insight in azione nel retail, quindi parleremmo con chi guida marketing e sviluppo commerciale.",
+ "evidence": [
+  {
+   "claim": "Agenzia globale di brand activation che trasforma gli insight in azione nel retail",
+   "url": "https://adm-indicia.com/",
+   "quote": "adm Indicia is a global brand activation agency helping brands turn insight into action across retail, shopper and digital environments."
+  },
+  {
+   "claim": "Aiuta i brand a trasformare gli insight in azione nel retail, shopper e digitale",
+   "url": "https://adm-indicia.com/",
+   "quote": "helping brands turn insight into action across retail, shopper and digital environments"
+  },
+  {
+   "claim": "Aiutano i brand a trasformare gli insight in azione nel retail, shopper e digitale",
+   "url": "https://adm-indicia.com/",
+   "quote": "helping brands turn insight into action across retail, shopper and digital environments"
+  }
+ ],
+ "market": {
+  "count": "110.688",
+  "label": "titolari, CEO e direttori marketing di grandi aziende e brand in Italia con oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "brand e grandi aziende"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200}"
+ }
+}

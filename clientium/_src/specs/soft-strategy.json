@@ -1,0 +1,80 @@
+{
+ "slug": "soft-strategy",
+ "company": "Soft Strategy",
+ "first_name": "Matteo",
+ "domain": "softstrategy.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza, tecnologia e operations per trasformare le organizzazioni. Ecco chi contatteremmo per Soft Strategy.",
+ "market_note": "Soft Strategy accompagna le aziende nel percorso di trasformazione digitale con consulenza, tecnologia e operations, quindi parleremmo con chi guida i sistemi informativi e l'innovazione digitale nelle grandi organizzazioni.",
+ "evidence": [
+  {
+   "claim": "Fa consulenza, tecnologia e operations per le organizzazioni",
+   "url": "https://www.softstrategy.it/chi-siamo/corporate/",
+   "quote": "Consulenza, tecnologia e operations unite per offrire soluzioni end-to-end."
+  },
+  {
+   "claim": "Accompagna le aziende nel percorso di trasformazione digitale",
+   "url": "https://www.softstrategy.it/",
+   "quote": "Accompagniamo le aziende nel percorso di trasformazione digitale con soluzioni scalabili"
+  },
+  {
+   "claim": "E' partner di grandi organizzazioni",
+   "url": "https://www.softstrategy.it/chi-siamo/corporate/",
+   "quote": "da piccola realtà a partner strategico per grandi organizzazioni"
+  },
+  {
+   "claim": "Unisce consulenza, tecnologia e operations per trasformazione digitale",
+   "url": "https://www.softstrategy.it/chi-siamo/corporate/",
+   "quote": "Consulenza, tecnologia e operations unite per offrire soluzioni end-to-end."
+  },
+  {
+   "claim": "Serve i mercati Sanità, Infrastrutture e Trasporti, Energy e Utilities, Enterprise",
+   "url": "https://www.softstrategy.it/",
+   "quote": "Sanità Infrastrutture & Trasporti Energy & Utilities Enterprise"
+  }
+ ],
+ "market": {
+  "count": "891",
+  "label": "CIO, CTO e responsabili IT di grandi aziende italiane oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "energy e utilities",
+   "trasporti e logistica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"energy,utilities,transportation, logistics, supply chain and storage\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

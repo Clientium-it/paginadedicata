@@ -1,0 +1,76 @@
+{
+ "slug": "eurotech",
+ "company": "Eurotech",
+ "first_name": "Marco",
+ "domain": "eurotech.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Schede, gateway e computer edge per applicazioni mission critical e industriali. Ecco chi contatteremmo per Eurotech.",
+ "market_note": "Eurotech progetta schede e computer edge per applicazioni industriali, trasporti, difesa e sanità in tutto il mondo, quindi parleremmo con chi decide su prodotti e sistemi embedded.",
+ "evidence": [
+  {
+   "claim": "Progetta schede embedded, gateway edge e computer edge per applicazioni mission critical e Physical AI",
+   "url": "https://www.eurotech.com/",
+   "quote": "embedded boards, edge gateways, and high-performance edge computers engineered for mission-critical and Physical AI applications"
+  },
+  {
+   "claim": "Il suo hardware serve trasporti, difesa, impianti industriali, sanità e smart city nel mondo",
+   "url": "https://www.eurotech.com/",
+   "quote": "our hardware empowers transportation, defense, industrial plants and machines, healthcare, and smart city deployments around the world"
+  },
+  {
+   "claim": "Hardware costruito per operare in ambienti industriali e difficili",
+   "url": "https://www.eurotech.com/",
+   "quote": "Built to operate reliably in industrial and harsh environments"
+  },
+  {
+   "claim": "Settori clienti serviti industriale, trasporti, difesa e sanità",
+   "url": "https://www.eurotech.com/",
+   "quote": "our hardware empowers transportation, defense, industrial plants and machines, healthcare"
+  }
+ ],
+ "market": {
+  "count": "1.710",
+  "label": "CTO e responsabili IT di aziende industriali, dei trasporti, dell'energia e della difesa oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "industriale",
+   "trasporti",
+   "aerospazio e difesa"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"industrial,transportation,energy,aerospace,defense and space manufacturing,health care\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

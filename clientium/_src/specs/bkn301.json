@@ -1,0 +1,81 @@
+{
+ "slug": "bkn301",
+ "company": "BKN301",
+ "first_name": "Elena",
+ "domain": "bkn301.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Infrastruttura di dati finanziari che connette banking regolamentato, intelligenza artificiale e asset digitali. Ecco chi contatteremmo per BKN301.",
+ "market_note": "BKN301 costruisce l'infrastruttura di dati finanziari per banche, fintech e digital bank in Europa, Medio Oriente e Africa, quindi parleremmo con chi guida la tecnologia e i sistemi informativi.",
+ "evidence": [
+  {
+   "claim": "Connette banking regolamentato, AI e asset digitali",
+   "url": "https://bkn301.com/",
+   "quote": "connects regulated banking, AI and digital assets"
+  },
+  {
+   "claim": "Serve banche tradizionali, fintech e digital bank",
+   "url": "https://bkn301.com/about/",
+   "quote": "From traditional banks modernizing their systems to SMEs, fintechs, and digital banks"
+  },
+  {
+   "claim": "Opera in Europa, Medio Oriente e Africa",
+   "url": "https://bkn301.com/about/",
+   "quote": "across Europe, the Middle East and Africa"
+  },
+  {
+   "claim": "Connette banking regolamentato, AI e asset digitali in EMEA",
+   "url": "https://bkn301.com/about/",
+   "quote": "connecting regulated banking, AI and digital assets across Europe, the Middle East and Africa"
+  },
+  {
+   "claim": "Clienti sono banche, fintech e digital bank",
+   "url": "https://bkn301.com/about/",
+   "quote": "From traditional banks modernizing their systems to SMEs, fintechs, and digital banks"
+  }
+ ],
+ "market": {
+  "count": "1.569",
+  "label": "responsabili IT, CTO e CIO di banche, fintech e istituzioni finanziarie strutturate in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "banking",
+   "fintech",
+   "financial services"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"banking,financial services,fintech\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "accessiway",
+ "company": "Accessiway",
+ "first_name": "Amit",
+ "domain": "accessiway.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Accessibilità digitale e conformità continua per i siti web delle organizzazioni. Ecco chi contatteremmo per Accessiway.",
+ "market_note": "Accessiway porta accessibilità digitale e conformità alle organizzazioni che operano in Europa, quindi parleremmo con chi decide su sito, prodotto digitale e rispetto delle normative.",
+ "evidence": [
+  {
+   "claim": "Accessiway offre accessibilità digitale gestita in modo continuo con una piattaforma",
+   "url": "https://www.accessiway.com/",
+   "quote": "Accessiway moves digital accessibility from a periodic project to a continuously managed capability with a platform that combines certified expert audits and AI automations."
+  },
+  {
+   "claim": "Accessiway supporta organizzazioni che operano in piu mercati europei",
+   "url": "https://www.accessiway.com/solutions/accessibility-statement",
+   "quote": "we support organizations operating in multiple markets and regulatory environments"
+  },
+  {
+   "claim": "Accessiway nominata Leader nel Gartner Magic Quadrant 2026",
+   "url": "https://www.accessiway.com/",
+   "quote": "Named a Leader in the 2026 Gartner® Magic Quadrant™ for Digital Accessibility"
+  },
+  {
+   "claim": "settori clienti serviti dal lead",
+   "url": "https://www.accessiway.com/",
+   "quote": "Public Administration Healthcare Education Transport Telecommunications Finance and Banking E-Commerce"
+  }
+ ],
+ "market": {
+  "count": "49.433",
+  "label": "direttori, CEO e titolari di organizzazioni strutturate italiane oltre 50 addetti nei settori finanza, sanità, retail ed e-commerce",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "finanza e banche",
+   "sanità",
+   "retail e e-commerce"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"government administration,health care,education,transportation,telecommunications,financial services,banking,e-commerce,retail\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

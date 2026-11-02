@@ -1,0 +1,90 @@
+{
+ "slug": "easyvista",
+ "company": "EasyVista",
+ "first_name": "Enrico",
+ "domain": "easyvista.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma ITSM basata su AI pensata per potenziare i team IT delle aziende. Ecco chi contatteremmo per EasyVista.",
+ "market_note": "EasyVista offre una piattaforma ITSM basata su AI con service management, monitoraggio, automazione e supporto remoto per i team IT, quindi parleremmo con chi guida infrastruttura e operations IT.",
+ "evidence": [
+  {
+   "claim": "Piattaforma ITSM basata su AI per i team IT",
+   "url": "https://www.easyvista.com/",
+   "quote": "The AI-Powered ITSM Platform"
+  },
+  {
+   "claim": "i loro strumenti potenziano i team IT",
+   "url": "https://www.easyvista.com/",
+   "quote": "our tools are designed to empower IT teams and streamline operations."
+  },
+  {
+   "claim": "piattaforma unificata per service management, monitoraggio, automazione e supporto remoto",
+   "url": "https://www.easyvista.com/",
+   "quote": "A unified platform for service management, monitoring, automation, and remote support"
+  },
+  {
+   "claim": "i decisori sono CIO e responsabili di infrastruttura e operations",
+   "url": "https://www.easyvista.com/",
+   "quote": "CIOs and Leaders of Infrastructure & Operations"
+  },
+  {
+   "claim": "piattaforma ITSM AI con service management, monitoraggio e supporto remoto",
+   "url": "https://www.easyvista.com/",
+   "quote": "A unified platform for service management, monitoring, automation, and remote support"
+  },
+  {
+   "claim": "rivolto a imprese di medie e grandi dimensioni",
+   "url": "https://www.easyvista.com/products/it-monitoring/",
+   "quote": "EV Observe empowers IT and Ops teams in mid-sized to large enterprises"
+  },
+  {
+   "claim": "servono il settore manifatturiero",
+   "url": "https://www.easyvista.com/",
+   "quote": "With comprehensive, automated asset tracking, manufacturers can better manage their equipment lifecycle"
+  }
+ ],
+ "market": {
+  "count": "3.331",
+  "label": "CIO, CTO e responsabili IT di aziende strutturate in Italia da 100 addetti in su",
+  "chips": [
+   "Tutta Italia",
+   "oltre 100 addetti",
+   "CIO e responsabili IT",
+   "manifattura, retail, sanità, finanza"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"manufacturing,retail,financial services,health care,education,government\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

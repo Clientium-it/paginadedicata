@@ -1,0 +1,86 @@
+{
+ "slug": "sizebay",
+ "company": "Sizebay",
+ "first_name": "Giuliano",
+ "domain": "sizebay.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Strumenti di raccomandazione taglie e camerino virtuale per l'e-commerce moda. Ecco chi contatteremmo per Sizebay.",
+ "market_note": "Sizebay aiuta i retailer di moda online a vendere di più con raccomandazioni di taglia e camerino virtuale, quindi parleremmo con chi guida gli e-commerce fashion.",
+ "evidence": [
+  {
+   "claim": "Raccomandazione taglie per l'e-commerce moda",
+   "url": "https://sizebay.com/en/",
+   "quote": "Bring the best sizing experience to your fashion e-commerce store with the most complete size recommendation tool."
+  },
+  {
+   "claim": "Camerino virtuale per i capi",
+   "url": "https://sizebay.com/en/",
+   "quote": "Virtual try-on for clothes"
+  },
+  {
+   "claim": "Aiuta i retailer di moda online a vendere di più",
+   "url": "https://sizebay.com/en/about/",
+   "quote": "Helping online fashion retailers sell more since 2014."
+  },
+  {
+   "claim": "Aiuta i retailer di moda online a vendere di più",
+   "url": "https://sizebay.com/en/about/",
+   "quote": "Helping online fashion retailers sell more since 2014."
+  },
+  {
+   "claim": "Camerino virtuale per i capi",
+   "url": "https://sizebay.com/en/",
+   "quote": "Virtual try-on for clothes"
+  },
+  {
+   "claim": "Clienti e-commerce di moda",
+   "url": "https://sizebay.com/en/",
+   "quote": "Bring the best sizing experience to your fashion e-commerce store with the most complete size recommendation tool."
+  }
+ ],
+ "market": {
+  "count": "7.308",
+  "label": "titolari, CEO e direttori di brand di moda ed e-commerce fashion in Italia oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "moda",
+   "e-commerce",
+   "apparel"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"fashion,apparel,e-commerce,retail apparel and fashion\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

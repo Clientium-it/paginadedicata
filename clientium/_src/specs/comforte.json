@@ -1,0 +1,82 @@
+{
+ "slug": "comforte",
+ "company": "comforte",
+ "first_name": "Andrea",
+ "domain": "comforte.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma di data security per proteggere i dati sensibili nel cloud e nell'AI. Ecco chi contatteremmo per comforte.",
+ "market_note": "comforte protegge i dati sensibili delle grandi aziende come banche e payment processor su cloud e sistemi critici, quindi parleremmo con chi decide su sicurezza dei dati e compliance.",
+ "evidence": [
+  {
+   "claim": "Piattaforma di data security per dati sensibili su cloud e AI",
+   "url": "https://www.comforte.com/",
+   "quote": "TAMUNIO unifies discovery, protection, and secure use of sensitive data across cloud and on-premises environments"
+  },
+  {
+   "claim": "Serve banche, payment processor e operatori di infrastrutture critiche",
+   "url": "https://www.comforte.com/",
+   "quote": "Trusted by leading banks, global payment processors, and critical infrastructure operators."
+  },
+  {
+   "claim": "Protegge banche e payment processor",
+   "url": "https://www.comforte.com/",
+   "quote": "Trusted by leading banks, global payment processors, and critical infrastructure operators."
+  },
+  {
+   "claim": "Protezione dei dati sensibili su cloud",
+   "url": "https://www.comforte.com/",
+   "quote": "TAMUNIO unifies discovery, protection, and secure use of sensitive data across cloud and on-premises environments"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://www.comforte.com/",
+   "quote": "By Industry Banking Payments Insurance Retail Healthcare"
+  }
+ ],
+ "market": {
+  "count": "2.019",
+  "label": "responsabili IT e della sicurezza di grandi aziende italiane dei settori banking, pagamenti, assicurazioni e retail oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "banking",
+   "pagamenti",
+   "assicurazioni",
+   "retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"banking,payments,insurance,retail,health care\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

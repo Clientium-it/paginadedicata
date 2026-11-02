@@ -1,0 +1,96 @@
+{
+ "slug": "cmi",
+ "company": "CMI",
+ "first_name": "Parsa",
+ "domain": "cmi-strategies.fr",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza di strategia e trasformazione per dirigenti e investitori. Ecco chi contatteremmo per CMI.",
+ "market_note": "CMI è una società di consulenza in strategia e trasformazione per dirigenti e investitori, con expertise in Private Equity, quindi parleremmo con chi guida aziende strutturate e operazioni di investimento.",
+ "evidence": [
+  {
+   "claim": "consulenza in strategia e trasformazione",
+   "url": "https://cmi-strategies.com/",
+   "quote": "notre cabinet de conseil en stratégie et transformations"
+  },
+  {
+   "claim": "per dirigenti e investitori",
+   "url": "https://cmi-strategies.com/nos-expertises/services-financiers/",
+   "quote": "nos clients dirigeants et investisseurs"
+  },
+  {
+   "claim": "consulenza in strategia e trasformazione",
+   "url": "https://cmi-strategies.com/",
+   "quote": "notre cabinet de conseil en stratégie et transformations"
+  },
+  {
+   "claim": "per dirigenti e investitori",
+   "url": "https://cmi-strategies.com/nos-expertises/services-financiers/",
+   "quote": "nos clients dirigeants et investisseurs"
+  },
+  {
+   "claim": "expertise in Private Equity",
+   "url": "https://cmi-strategies.com/",
+   "quote": "CMI conducts the strategic due diligence of CXG"
+  },
+  {
+   "claim": "dirigenti e investitori",
+   "url": "https://cmi-strategies.com/nos-expertises/services-financiers/",
+   "quote": "nos clients dirigeants et investisseurs"
+  },
+  {
+   "claim": "operazioni di Private Equity",
+   "url": "https://cmi-strategies.com/",
+   "quote": "CMI conducts the strategic due diligence of CXG"
+  },
+  {
+   "claim": "settori di intervento dichiarati",
+   "url": "https://cmi-strategies.com/",
+   "quote": "Santé CPG & Retail Secteur public Private Equity Telecom Technologies Energie et environnement Services Financiers"
+  }
+ ],
+ "market": {
+  "count": "24.439",
+  "label": "titolari, CEO e amministratori di aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "strategia e trasformazione",
+   "Private Equity",
+   "servizi finanziari"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"health care,government administration,telecommunications,energy,environmental services,information technology,financial services,construction,real estate,consumer goods,retail,venture capital and private equity principals\"}"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "slug": "eskimoz",
+ "company": "Eskimoz",
+ "first_name": "Agostino",
+ "domain": "eskimoz.fr",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Agenzia di acquisizione digitale che accompagna marche di rilievo su ogni leva digitale. Ecco chi contatteremmo per Eskimoz.",
+ "market_note": "Eskimoz è un'agenzia di acquisizione digitale che accompagna marche di rilievo su ogni leva di acquisizione, quindi parleremmo con chi guida marketing e comunicazione nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "accompagna marche di rilievo su ogni leva digitale",
+   "url": "https://www.eskimoz.fr/",
+   "quote": "Nous accompagnons des marques de renom sur l'ensemble de leurs leviers d'acquisition digitale."
+  },
+  {
+   "claim": "agenzia di acquisizione digitale",
+   "url": "https://www.eskimoz.fr/",
+   "quote": "notre agence de marketing digital adapte son accompagnement à chacun de leurs enjeux."
+  },
+  {
+   "claim": "accompagna marche di rilievo su ogni leva di acquisizione",
+   "url": "https://www.eskimoz.fr/",
+   "quote": "Nous accompagnons des marques de renom sur l'ensemble de leurs leviers d'acquisition digitale."
+  },
+  {
+   "claim": "accompagnate marche di rilievo su tutta l'acquisizione digitale",
+   "url": "https://www.eskimoz.fr/",
+   "quote": "Nous accompagnons des marques de renom sur l'ensemble de leurs leviers d'acquisition digitale."
+  },
+  {
+   "claim": "con un ufficio a Milano",
+   "url": "https://www.eskimoz.fr/",
+   "quote": "Paris Lyon Bordeaux Lille Düsseldorf Milan Madrid Londres"
+  },
+  {
+   "claim": "settori clienti serviti",
+   "url": "https://www.eskimoz.fr/",
+   "quote": "Tourisme Santé Luxe Logiciel SaaS E-commerce Banque & Assurance Automobile International Énergie Prêt-à-porter"
+  }
+ ],
+ "market": {
+  "count": "38.314",
+  "label": "titolari, CEO e direttori marketing di aziende italiane strutturate da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "e-commerce",
+   "luxury",
+   "banca e assicurazioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"tourism,health care,retail luxury goods and jewelry,saas,e-commerce,banking,insurance,automotive,energy,retail apparel and fashion\"}"
+ }
+}

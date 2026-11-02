@@ -1,0 +1,81 @@
+{
+ "slug": "chainalysis",
+ "company": "Chainalysis",
+ "first_name": "Andrea",
+ "domain": "chainalysis.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Chainalysis è la piattaforma di dati blockchain per investigazioni e compliance sulle criptovalute. Ecco chi contatteremmo per Chainalysis.",
+ "market_note": "Chainalysis fornisce dati e software a exchange, istituzioni finanziarie e aziende di cybersecurity in oltre settanta Paesi, quindi parleremmo con chi decide su compliance e sicurezza.",
+ "evidence": [
+  {
+   "claim": "Chainalysis è la piattaforma di dati blockchain",
+   "url": "https://www.chainalysis.com/company/",
+   "quote": "Chainalysis is the blockchain data platform"
+  },
+  {
+   "claim": "i loro dati e agenti AI alimentano investigazioni e compliance",
+   "url": "https://www.chainalysis.com/company/",
+   "quote": "Our data and AI agents power investigation, compliance, and market intelligence solutions"
+  },
+  {
+   "claim": "forniscono dati e software a exchange, istituzioni finanziarie e aziende di cybersecurity in oltre 70 Paesi",
+   "url": "https://www.chainalysis.com/company/",
+   "quote": "We provide data, AI-powered software, services, and research to government agencies, exchanges, financial institutions, and cybersecurity companies in over 70 countries."
+  },
+  {
+   "claim": "forniscono dati e software a exchange e istituzioni finanziarie in oltre 70 Paesi",
+   "url": "https://www.chainalysis.com/company/",
+   "quote": "We provide data, AI-powered software, services, and research to government agencies, exchanges, financial institutions, and cybersecurity companies in over 70 countries."
+  },
+  {
+   "claim": "clienti sono exchange, istituzioni finanziarie e aziende di cybersecurity",
+   "url": "https://www.chainalysis.com/company/",
+   "quote": "We provide data, AI-powered software, services, and research to government agencies, exchanges, financial institutions, and cybersecurity companies in over 70 countries."
+  }
+ ],
+ "market": {
+  "count": "1.894",
+  "label": "responsabili IT, CIO e CTO di istituzioni finanziarie, exchange e aziende di cybersecurity oltre i cento addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "istituzioni finanziarie",
+   "cybersecurity",
+   "exchange crypto"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"financial services,banking,cyber security,cryptocurrency\"}"
+ }
+}

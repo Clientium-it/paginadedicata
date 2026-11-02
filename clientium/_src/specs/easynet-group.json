@@ -1,0 +1,79 @@
+{
+ "slug": "easynet-group",
+ "company": "Easynet Group",
+ "first_name": "Claudio",
+ "domain": "easynet.group",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Partner specializzato in grado di rispondere a tutte le esigenze nel settore IT. Ecco chi contatteremmo per Easynet Group.",
+ "market_note": "Easynet Group è un partner specializzato nel settore IT per le aziende, dalla cybersecurity al Device as a Service e alla connettività, quindi parleremmo con chi decide sull'infrastruttura IT aziendale.",
+ "evidence": [
+  {
+   "claim": "Partner specializzato per tutte le esigenze nel settore IT",
+   "url": "https://www.easynet.group/",
+   "quote": "Un unico partner altamente specializzato in grado di rispondere a tutte le esigenze nel settore IT"
+  },
+  {
+   "claim": "Offre soluzioni di connettività e cybersecurity alle aziende",
+   "url": "https://www.easynet.group/monitora-le-vulnerabilita-aziendali-con-securitycare",
+   "quote": "soluzioni informatiche, connettività, cybersecurity, sviluppo software, siti internet e applicazioni, vendita di hardware"
+  },
+  {
+   "claim": "Offre il Device as a Service con gestione del lifecycle",
+   "url": "https://www.easynet.group/quanto-vale-un-dispositivo-aziendale",
+   "quote": "il Device as a Service consente di combinare pianificazione, servizi e gestione strutturata del lifecycle"
+  },
+  {
+   "claim": "Ghost³ cerca credenziali compromesse tra oltre 32.000 data leak",
+   "url": "https://www.easynet.group/ghost3-per-la-gestione-del-rischio-aziendale",
+   "quote": "tra più di 32.000 data leak su Internet e più di 150 fonti nel Deep e Dark Web, le password compromesse degli account aziendali"
+  },
+  {
+   "claim": "Serve piccole e medie imprese con infrastruttura IT",
+   "url": "https://www.easynet.group/soluzioni-cisco-easynet-pmi",
+   "quote": "le piccole e medie imprese devono gestire sfide sempre più complesse"
+  }
+ ],
+ "market": {
+  "count": "2.941",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

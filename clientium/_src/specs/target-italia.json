@@ -1,0 +1,74 @@
+{
+ "slug": "target-italia",
+ "company": "Target Italia",
+ "first_name": "Valerio",
+ "domain": "targetitalia.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Agenzia di Shopper Marketing con competenze integrate nel trade marketing e nelle vendite. Ecco chi contatteremmo per Target Italia.",
+ "market_note": "Target Italia è un'agenzia di Shopper Marketing specializzata nello sviluppo del canale distributivo, quindi parleremmo con chi guida marketing e vendite delle aziende che vendono nel retail.",
+ "evidence": [
+  {
+   "claim": "agenzia con competenze integrate nel trade marketing e nelle vendite",
+   "url": "https://www.targetitalia.eu/",
+   "quote": "Offriamo competenze integrate nell’ambito del trade marketing e delle vendite."
+  },
+  {
+   "claim": "specializzata nello sviluppo del canale distributivo",
+   "url": "https://www.targetitalia.eu/",
+   "quote": "Siamo specializzati nello sviluppo del canale distributivo con attività strategiche e tattiche, garantendo professionalità e risultati."
+  },
+  {
+   "claim": "offre competenze integrate nel trade marketing e nelle vendite",
+   "url": "https://www.targetitalia.eu/",
+   "quote": "Offriamo competenze integrate nell’ambito del trade marketing e delle vendite."
+  },
+  {
+   "claim": "agenzia di Shopper Marketing con sede a Milano",
+   "url": "https://www.targetitalia.eu/chi-siamo/",
+   "quote": "Target Italia è un’agenzia di Shopper Marketing con sede a Milano."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori marketing e vendite di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "marketing e vendite"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

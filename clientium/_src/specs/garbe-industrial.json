@@ -1,0 +1,81 @@
+{
+ "slug": "garbe-industrial",
+ "company": "GARBE Industrial",
+ "first_name": "Marco",
+ "domain": "garbe-industrial.de",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Immobili per logistica, industria e commercio in Germania e in Europa. Ecco chi contatteremmo per GARBE Industrial.",
+ "market_note": "GARBE Industrial sviluppa e gestisce immobili per logistica e industria in Germania e in Europa, come partner di operatori logistici, commercio e produzione, quindi parleremmo con chi cerca nuovi spazi.",
+ "evidence": [
+  {
+   "claim": "Immobili per logistica, industria e commercio in Germania e in Europa",
+   "url": "https://www.garbe-industrial.de/",
+   "quote": "Ihr Experte für Logistik-, Industrie- und Gewerbeimmobilien in Deutschland und Europa"
+  },
+  {
+   "claim": "sviluppa e gestisce immobili per logistica e industria",
+   "url": "https://www.garbe-industrial.de/",
+   "quote": "Von der Projektentwicklung über das Real Estate Management bis hin zum Investment- und Portfoliomanagement"
+  },
+  {
+   "claim": "come partner di operatori logistici, commercio e produzione",
+   "url": "https://www.garbe-industrial.de/",
+   "quote": "einer der führenden und unabhängigen Partner für Transport- und Logistikdienstleister, Handel sowie das produzierende Gewerbe"
+  },
+  {
+   "claim": "sviluppate e gestite immobili per logistica e industria in Germania e in Europa",
+   "url": "https://www.garbe-industrial.de/",
+   "quote": "Ihr Experte für Logistik-, Industrie- und Gewerbeimmobilien in Deutschland und Europa"
+  },
+  {
+   "claim": "settori clienti serviti logistica, commercio e produzione",
+   "url": "https://www.garbe-industrial.de/",
+   "quote": "einer der führenden und unabhängigen Partner für Transport- und Logistikdienstleister, Handel sowie das produzierende Gewerbe"
+  }
+ ],
+ "market": {
+  "count": "30.732",
+  "label": "titolari, CEO e direttori di aziende di logistica, commercio e produzione in Italia da oltre 50 addetti",
+  "chips": [
+   "Italia",
+   "oltre 50 addetti",
+   "logistica",
+   "commercio",
+   "produzione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"logistics,warehousing and storage,retail,manufacturing\"}"
+ }
+}

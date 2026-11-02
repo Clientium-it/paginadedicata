@@ -1,0 +1,81 @@
+{
+ "slug": "brandart",
+ "company": "Brandart",
+ "first_name": "Raffaella",
+ "domain": "brandart.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Esperienze retail e unboxing per i brand premium e luxury. Ecco chi contatteremmo per Brandart.",
+ "market_note": "Brandart crea esperienze retail, ambienti e packaging per i brand premium e luxury in tutto il mondo, quindi parleremmo con chi decide su retail, visual e packaging.",
+ "evidence": [
+  {
+   "claim": "esperienze retail e unboxing",
+   "url": "https://www.brandart.com/",
+   "quote": "Retail Experiences & Brand Environments Gifting & Unboxing Experiences"
+  },
+  {
+   "claim": "brand premium e luxury",
+   "url": "https://www.brandart.com/",
+   "quote": "We support premium and luxury brands throughout the entire consumer journey."
+  },
+  {
+   "claim": "brand premium e luxury in tutto il mondo",
+   "url": "https://www.brandart.com/",
+   "quote": "Born in Italy, operating globally."
+  },
+  {
+   "claim": "supportate i brand premium e luxury lungo tutto il percorso di consumo",
+   "url": "https://www.brandart.com/",
+   "quote": "We support premium and luxury brands throughout the entire consumer journey."
+  },
+  {
+   "claim": "settori clienti serviti",
+   "url": "https://www.brandart.com/",
+   "quote": "Fashion Retail Hospitality & Yachting Beauty Eyewear Jewellery & Watches Wines & Spirits Automotive Tech"
+  }
+ ],
+ "market": {
+  "count": "12.358",
+  "label": "direttori, CEO e titolari di brand premium e luxury in Italia da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "moda e lusso",
+   "beauty",
+   "gioielli e orologi"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"fashion,beauty,jewelry,eyewear,wine and spirits,automotive,hospitality\"}"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "lmm-logistics",
+ "company": "LMM Logistics",
+ "first_name": "Massimiliano",
+ "domain": "lmmlogistics.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Specialisti della logistica del retail che progettano e gestiscono i processi dei clienti. Ecco chi contatteremmo per LMM Logistics.",
+ "market_note": "LMM Logistics progetta e gestisce la logistica dei clienti del retail su tutto il territorio nazionale, quindi parleremmo con chi guida le operations e la supply chain in aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "progettano e gestiscono i processi logistici dei clienti",
+   "url": "https://lmmlogistics.com/",
+   "quote": "LMM Logistics progetta e gestisce la Logistica dei propri Clienti"
+  },
+  {
+   "claim": "specialisti della logistica del retail",
+   "url": "https://lmmlogistics.com/",
+   "quote": "Affidarsi a LMM Logistics significa rivolgersi a professionisti della logistica del RETAIL."
+  },
+  {
+   "claim": "operano su tutto il territorio nazionale",
+   "url": "https://lmmlogistics.com/",
+   "quote": "in tutto il territorio nazionale"
+  },
+  {
+   "claim": "gestiscono la logistica dei clienti del retail",
+   "url": "https://lmmlogistics.com/",
+   "quote": "LMM Logistics progetta e gestisce la Logistica dei propri Clienti"
+  },
+  {
+   "claim": "servono clienti del retail",
+   "url": "https://lmmlogistics.com/",
+   "quote": "Affidarsi a LMM Logistics significa rivolgersi a professionisti della logistica del RETAIL."
+  }
+ ],
+ "market": {
+  "count": "8.628",
+  "label": "titolari, CEO e direttori operations di aziende retail strutturate su tutto il territorio nazionale",
+  "chips": [
+   "tutta Italia",
+   "retail",
+   "oltre 50 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail\"}"
+ }
+}

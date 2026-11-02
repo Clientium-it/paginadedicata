@@ -1,0 +1,76 @@
+{
+ "slug": "wiit",
+ "company": "WIIT",
+ "first_name": "Leonardo",
+ "domain": "wiit.cloud",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Servizi Cloud e CyberSecurity per ambienti complessi e critici delle imprese. Ecco chi contatteremmo per WIIT.",
+ "market_note": "WIIT eroga servizi Cloud e CyberSecurity per la gestione di ambienti complessi e critici delle imprese europee, quindi parleremmo con chi decide su cloud, sicurezza e infrastruttura IT.",
+ "evidence": [
+  {
+   "claim": "Eroga servizi Cloud e CyberSecurity per ambienti complessi e critici",
+   "url": "https://www.wiit.cloud/",
+   "quote": "Siamo leader nell’erogazione di servizi Cloud e CyberSecurity con una forte focalizzazione nella gestione di ambienti complessi e critici."
+  },
+  {
+   "claim": "Leader nei servizi Cloud e CyberSecurity",
+   "url": "https://www.wiit.cloud/",
+   "quote": "Siamo leader nell’erogazione di servizi Cloud e CyberSecurity con una forte focalizzazione nella gestione di ambienti complessi e critici."
+  },
+  {
+   "claim": "Si rivolge alle imprese europee",
+   "url": "https://www.wiit.cloud/",
+   "quote": "per le imprese europee"
+  },
+  {
+   "claim": "Settori serviti dichiarati",
+   "url": "https://www.wiit.cloud/",
+   "quote": "Industries Fashion & Luxury Manufacturing Professional Services CPG & Retail Pharma & Healthcare Financial services Energy & Utility Telco & Media Food & Beverage"
+  }
+ ],
+ "market": {
+  "count": "3.895",
+  "label": "CIO, CTO e responsabili IT di grandi imprese italiane con ambienti IT complessi e critici",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "manifattura",
+   "pharma e healthcare",
+   "financial services"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"manufacturing,professional services,pharmaceutical,financial services,energy,utilities,telecommunications,food and beverage,fashion,retail\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

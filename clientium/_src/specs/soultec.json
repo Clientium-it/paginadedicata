@@ -1,0 +1,69 @@
+{
+ "slug": "soultec",
+ "company": "Soultec",
+ "first_name": "Jacopo",
+ "domain": "iscsconsulting.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenti IT pronti a integrarsi nel suo team per accelerare i progetti. Ecco chi contatteremmo per Soultec.",
+ "market_note": "Soultec mette a disposizione consulenti IT che si integrano nei team delle aziende per accelerare i progetti IT, quindi parleremmo con chi guida le scelte tecnologiche e lo sviluppo software.",
+ "evidence": [
+  {
+   "claim": "Fornisce consulenti IT che si integrano nei team dei clienti",
+   "url": "https://soultec.it/",
+   "quote": "consulenti pronti a integrarsi nel tuo team"
+  },
+  {
+   "claim": "Mette a disposizione consulenti per accelerare i progetti IT delle aziende",
+   "url": "https://soultec.it/",
+   "quote": "Accelera i tuoi progetti IT con consulenti pronti a integrarsi nel tuo team."
+  },
+  {
+   "claim": "I profili sono validati da technical leader e testati su progetti reali",
+   "url": "https://soultec.it/",
+   "quote": "Ogni profilo è validato da technical leader e testato su progetti reali"
+  }
+ ],
+ "market": {
+  "count": "11.169",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "CIO e CTO"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

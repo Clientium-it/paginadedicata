@@ -1,0 +1,74 @@
+{
+ "slug": "digital-value",
+ "company": "Digital Value",
+ "first_name": "Monia",
+ "domain": "digitalvalue.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Infrastrutture digitali e servizi IT per grandi aziende e Pubbliche Amministrazioni. Ecco chi contatteremmo per Digital Value.",
+ "market_note": "Digital Value è un Gruppo ICT italiano specializzato in infrastrutture digitali e servizi IT per grandi aziende e Pubbliche Amministrazioni, quindi parleremmo con chi guida l'IT e le infrastrutture tecnologiche.",
+ "evidence": [
+  {
+   "claim": "Offre infrastrutture digitali e servizi IT a grandi aziende e Pubbliche Amministrazioni",
+   "url": "https://www.digitalvalue.it/chi-siamo/",
+   "quote": "infrastrutture digitali, servizi IT e soluzioni tecnologiche per grandi aziende e Pubbliche Amministrazioni"
+  },
+  {
+   "claim": "Gruppo ICT italiano specializzato in infrastrutture digitali e servizi IT",
+   "url": "https://www.digitalvalue.it/chi-siamo/",
+   "quote": "Gruppo ICT italiano specializzato in infrastrutture digitali, servizi IT e soluzioni tecnologiche per grandi aziende e Pubbliche Amministrazioni"
+  },
+  {
+   "claim": "Specializzata in infrastrutture digitali e servizi IT per grandi aziende e PA",
+   "url": "https://www.digitalvalue.it/chi-siamo/",
+   "quote": "infrastrutture digitali, servizi IT e soluzioni tecnologiche per grandi aziende e Pubbliche Amministrazioni"
+  },
+  {
+   "claim": "Vende a grandi aziende e Pubbliche Amministrazioni",
+   "url": "https://www.digitalvalue.it/chi-siamo/",
+   "quote": "soluzioni tecnologiche per grandi aziende e Pubbliche Amministrazioni"
+  }
+ ],
+ "market": {
+  "count": "6.944",
+  "label": "responsabili IT e CIO di grandi aziende italiane oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "grandi aziende e PA"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

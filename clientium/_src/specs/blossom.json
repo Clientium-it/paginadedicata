@@ -1,0 +1,85 @@
+{
+ "slug": "blossom",
+ "company": "Blossom",
+ "first_name": "Giacomo",
+ "domain": "blossom.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Creatività e campagne per far crescere i brand che la scelgono. Ecco chi contatteremmo per Blossom.",
+ "market_note": "Blossom sviluppa creatività, comunicazioni e campagne cross-mediali per i brand che la scelgono, quindi parleremmo con chi guida marketing e comunicazione nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Creatività e campagne per far crescere i brand",
+   "url": "https://blossom.it/",
+   "quote": "una creatività capace di far crescere il brand"
+  },
+  {
+   "claim": "Sviluppa campagne per i brand",
+   "url": "https://blossom.it/",
+   "quote": "sviluppiamo comunicazioni e campagne dinamiche, rilevanti e cross-mediali"
+  },
+  {
+   "claim": "Sviluppa comunicazioni e campagne cross-mediali",
+   "url": "https://blossom.it/",
+   "quote": "sviluppiamo comunicazioni e campagne dinamiche, rilevanti e cross-mediali"
+  },
+  {
+   "claim": "Lavora per i brand che la scelgono",
+   "url": "https://blossom.it/",
+   "quote": "ai brand che ci scelgono, per aiutarli a vedere nuove possibilità"
+  },
+  {
+   "claim": "Sette anni con Ducati per raccontare le moto",
+   "url": "https://blossom.it/",
+   "quote": "Un viaggio lungo sette anni con Ducati, per cambiare il modo di raccontare le moto."
+  },
+  {
+   "claim": "I clienti sono brand e aziende",
+   "url": "https://blossom.it/",
+   "quote": "ai brand che ci scelgono, per aiutarli a vedere nuove possibilità"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori marketing di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "direzione marketing",
+   "brand strutturati"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "gattinoni",
+ "company": "Gattinoni",
+ "first_name": "Elisa",
+ "domain": "gattinoni.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Eventi corporate e privati, convention e lanci di prodotto per le aziende. Ecco chi contatteremmo per Gattinoni.",
+ "market_note": "Gattinoni realizza eventi corporate, convention e lanci di prodotto oltre a viaggi aziendali, quindi parleremmo con chi in azienda decide su eventi e trasferte di lavoro.",
+ "evidence": [
+  {
+   "claim": "Realizza eventi corporate e privati, convention e lanci di prodotto",
+   "url": "https://gattinoni.it/",
+   "quote": "indimenticabili eventi corporate e privati, attività di team building, convention e lanci di prodotto"
+  },
+  {
+   "claim": "Realizza eventi corporate, convention e lanci di prodotto",
+   "url": "https://gattinoni.it/",
+   "quote": "indimenticabili eventi corporate e privati, attività di team building, convention e lanci di prodotto"
+  },
+  {
+   "claim": "Offre viaggi aziendali alle imprese",
+   "url": "https://gattinoni.it/",
+   "quote": "Business Travel Per i vostri viaggi aziendali"
+  },
+  {
+   "claim": "Vende viaggi aziendali alle aziende",
+   "url": "https://gattinoni.it/",
+   "quote": "Business Travel Per i vostri viaggi aziendali"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "eventi e convention",
+   "business travel"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

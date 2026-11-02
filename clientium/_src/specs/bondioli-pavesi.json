@@ -1,0 +1,74 @@
+{
+ "slug": "bondioli-pavesi",
+ "company": "Bondioli & Pavesi",
+ "first_name": "Paolo",
+ "domain": "bondioli-pavesi.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Sistemi integrati di trasmissione di potenza, controllo oleodinamico e scambio termico. Ecco chi contatteremmo per Bondioli & Pavesi.",
+ "market_note": "Bondioli & Pavesi progetta sistemi integrati di trasmissione di potenza, controllo e scambio termico, quindi parleremmo con chi guida le aziende che li montano sui propri macchinari.",
+ "evidence": [
+  {
+   "claim": "Si occupa di trasmissione di potenza, controllo e scambio termico",
+   "url": "https://bondioli-pavesi.com/it/trasmissione-di-potenza/motori-orbitali-prodotti-bondioli-pavesi",
+   "quote": "Trasmissione di potenza Controllo Scambio termico"
+  },
+  {
+   "claim": "Realizza sistemi di potenza integrati",
+   "url": "https://bondioli-pavesi.com/it/node",
+   "quote": "Intelligent Integrated Power Systems"
+  },
+  {
+   "claim": "Trasmissione di potenza, controllo e scambio termico",
+   "url": "https://bondioli-pavesi.com/it/prodotti",
+   "quote": "Trasmissioni di potenza Alberi Cardanici Scatole ingranaggi Standard"
+  },
+  {
+   "claim": "Prodotti per applicazioni oleodinamiche sui macchinari",
+   "url": "https://bondioli-pavesi.com/it/trasmissione-di-potenza/motori-orbitali-prodotti-bondioli-pavesi",
+   "quote": "Applicazioni Oleodinamica Motori Gerotor Leggi tutto"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "macchinari"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

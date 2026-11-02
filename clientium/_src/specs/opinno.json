@@ -1,0 +1,79 @@
+{
+ "slug": "opinno",
+ "company": "Opinno",
+ "first_name": "Tommaso",
+ "domain": "opinno.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza per l'innovazione per grandi imprese, governi e istituzioni. Ecco chi contatteremmo per Opinno.",
+ "market_note": "Opinno è una società di consulenza per l'innovazione che segue grandi imprese, governi e istituzioni in 11 paesi, quindi parleremmo con chi guida innovazione e trasformazione.",
+ "evidence": [
+  {
+   "claim": "società di consulenza per l'innovazione",
+   "url": "https://opinno.com/it",
+   "quote": "Società Globale di Consulenza per l'Innovazione"
+  },
+  {
+   "claim": "serve grandi imprese, governi e istituzioni",
+   "url": "https://opinno.com/it",
+   "quote": "Grandi imprese, governi e istituzioni in 11 paesi."
+  },
+  {
+   "claim": "segue grandi imprese, governi e istituzioni in 11 paesi",
+   "url": "https://opinno.com/it",
+   "quote": "Grandi imprese, governi e istituzioni in 11 paesi."
+  },
+  {
+   "claim": "segue grandi imprese, governi e istituzioni in 11 paesi",
+   "url": "https://opinno.com/it",
+   "quote": "Grandi imprese, governi e istituzioni in 11 paesi."
+  },
+  {
+   "claim": "clienti sono grandi imprese e istituzioni",
+   "url": "https://opinno.com/it",
+   "quote": "Grandi imprese, governi e istituzioni in 11 paesi."
+  }
+ ],
+ "market": {
+  "count": "110.688",
+  "label": "titolari, CEO e direttori di grandi imprese italiane oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "grandi imprese"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200}"
+ }
+}

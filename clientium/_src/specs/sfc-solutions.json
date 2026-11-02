@@ -1,0 +1,84 @@
+{
+ "slug": "sfc-solutions",
+ "company": "SFC Solutions",
+ "first_name": "Rosa",
+ "domain": "sfc-solutions.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Sealing e sistemi di trasferimento fluidi per l'industria automotive. Ecco chi contatteremmo per SFC Solutions.",
+ "market_note": "SFC Solutions fornisce sealing, sistemi di trasferimento fluidi e mescole in gomma ai costruttori automobilistici, quindi parleremmo con chi decide gli acquisti di componenti in gomma.",
+ "evidence": [
+  {
+   "claim": "Fornisce sealing per il mercato automotive",
+   "url": "https://sfc-solutions.com/",
+   "quote": "A European Top 3 sealing supplier to the automotive, industrial and speciality vehicle markets (ISG)"
+  },
+  {
+   "claim": "Produce sistemi di trasferimento fluidi",
+   "url": "https://sfc-solutions.com/",
+   "quote": "Fluid Transfer System and Fuel & Brake Delivery Systems"
+  },
+  {
+   "claim": "Produce mescole in gomma",
+   "url": "https://sfc-solutions.com/",
+   "quote": "Rubber-compound production | Delivering inhouse & external tailored solutions"
+  },
+  {
+   "claim": "Vende ai costruttori di veicoli",
+   "url": "https://sfc-solutions.com/about-us/",
+   "quote": "The customers are global vehicle manufacturers, including BMW, Tesla, Benteler, Citroen, Audi, Opel, Bentley, Porsche, Jaguar and Volkswagen."
+  },
+  {
+   "claim": "Produce sealing, FTS e mescole per l'automotive",
+   "url": "https://sfc-solutions.com/about-us/",
+   "quote": "automotive and industrial sealings are produced in the plant"
+  },
+  {
+   "claim": "Clienti costruttori di veicoli, settore automotive",
+   "url": "https://sfc-solutions.com/about-us/",
+   "quote": "The customers are global vehicle manufacturers, including BMW, Tesla, Benteler, Citroen, Audi, Opel, Bentley, Porsche, Jaguar and Volkswagen."
+  }
+ ],
+ "market": {
+  "count": "3.538",
+  "label": "titolari, CEO e direttori di aziende automotive in Italia oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"automotive,motor vehicle manufacturing\"}"
+ }
+}

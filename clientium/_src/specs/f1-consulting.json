@@ -1,0 +1,91 @@
+{
+ "slug": "f1-consulting",
+ "company": "F1 Consulting",
+ "first_name": "Antonio",
+ "domain": "f1consultingservices.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza informatica su Microsoft Dynamics 365 e compliance chimica per le aziende. Ecco chi contatteremmo per F1 Consulting.",
+ "market_note": "F1 Consulting affianca da Milano aziende manifatturiere, chimiche e farmaceutiche su ERP, CRM e compliance, quindi parleremmo con chi guida il reparto IT e i progetti digitali.",
+ "evidence": [
+  {
+   "claim": "consulenza su Microsoft Dynamics 365 e servizi informatici",
+   "url": "https://f1consultingservices.it",
+   "quote": "Microsoft Dynamics 365 per ERP e CRM e servizi professionali per progetti ad hoc"
+  },
+  {
+   "claim": "suite dedicata alla compliance chimica",
+   "url": "https://f1consultingservices.it",
+   "quote": "Chemilla è la piattaforma cloud per la gestione della compliance chimica"
+  },
+  {
+   "claim": "sede a Milano",
+   "url": "https://f1consultingservices.it",
+   "quote": "HQ: Via Legnone, 4, 20158 Milano"
+  },
+  {
+   "claim": "serve manifatturiero, chimico e farmaceutico",
+   "url": "https://f1consultingservices.it",
+   "quote": "Collaboriamo con realtà del manifatturiero, chimico, farmaceutico, retail e servizi professionali"
+  },
+  {
+   "claim": "ERP, CRM e compliance chimica per i settori citati",
+   "url": "https://f1consultingservices.it",
+   "quote": "Implementazione, migrazione e integrazione di Microsoft Dynamics 365 per la gestione di vendite, produzione, logistica e analisi dati"
+  },
+  {
+   "claim": "settori clienti dichiarati",
+   "url": "https://f1consultingservices.it",
+   "quote": "Collaboriamo con realtà del manifatturiero, chimico, farmaceutico, retail e servizi professionali"
+  },
+  {
+   "claim": "si rivolge a chi gestisce i sistemi IT",
+   "url": "https://f1consultingservices.it/servizi-professionali/",
+   "quote": "più supporto concreto a chi gestisce sistemi e persone ogni giorno"
+  }
+ ],
+ "market": {
+  "count": "1.875",
+  "label": "responsabili IT, CIO e CTO di aziende italiane manifatturiere, chimiche e farmaceutiche oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manifatturiero",
+   "chimico",
+   "farmaceutico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,chemical,pharmaceutical,retail,professional services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

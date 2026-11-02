@@ -1,0 +1,82 @@
+{
+ "slug": "domino",
+ "company": "Domino",
+ "first_name": "Giovanni",
+ "domain": "domino.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Progettano le decisioni che muovono l'azienda e costruiscono i sistemi digitali per realizzarle. Ecco chi contatteremmo per Domino.",
+ "market_note": "Domino è CX Transformation Partner per aziende dell'automotive, del B2B e dei beni industriali, del turismo e della salute, quindi parleremmo con chi decide marketing e comunicazione.",
+ "evidence": [
+  {
+   "claim": "Domino progetta le decisioni dell'azienda e costruisce i sistemi digitali per realizzarle",
+   "url": "https://www.domino.it/it",
+   "quote": "Progettiamo le decisioni che fanno muovere l'azienda e costruiamo i sistemi digitali per realizzarle."
+  },
+  {
+   "claim": "Domino si presenta come CX Transformation Partner",
+   "url": "https://www.domino.it/it",
+   "quote": "Il tuo CX Transformation Partner"
+  },
+  {
+   "claim": "Domino lavora per automotive, B2B e beni industriali, turismo e cultura, salute e bellezza",
+   "url": "https://www.domino.it/it",
+   "quote": "Automotive B2B e Beni Industriali Turismo e cultura Salute e bellezza"
+  },
+  {
+   "claim": "Domino progetta le decisioni e costruisce i sistemi digitali per realizzarle",
+   "url": "https://www.domino.it/it",
+   "quote": "Progettiamo le decisioni che fanno muovere l'azienda e costruiamo i sistemi digitali per realizzarle."
+  },
+  {
+   "claim": "Domino fa lead generation per il B2B",
+   "url": "https://www.domino.it/it",
+   "quote": "Lead generation per il B2B"
+  }
+ ],
+ "market": {
+  "count": "24.914",
+  "label": "titolari, CEO e direttori di aziende strutturate italiane dai 50 addetti in su, nell'automotive, nei beni industriali, nel turismo e nella salute",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "automotive",
+   "beni industriali",
+   "turismo",
+   "salute e bellezza"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive,manufacturing,tourism,beauty\"}"
+ }
+}

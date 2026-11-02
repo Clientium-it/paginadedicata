@@ -1,0 +1,85 @@
+{
+ "slug": "xfarm",
+ "company": "xFarm",
+ "first_name": "Alexandra",
+ "domain": "xfarm.ag",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Un software per gestire tutta l'azienda agricola da un'unica app. Ecco chi contatteremmo per xFarm.",
+ "market_note": "xFarm sviluppa software per la digitalizzazione del settore agroalimentare e oggi supporta il lavoro di 630.000 aziende agricole, quindi parleremmo con titolari e amministratori di aziende agricole e agroalimentari.",
+ "evidence": [
+  {
+   "claim": "xFarm offre un software per gestire l'azienda agricola da un'unica app",
+   "url": "https://www.xfarm.ag/gestione-dellazienda",
+   "quote": "Gestisci tutta la tua azienda da un’unica app"
+  },
+  {
+   "claim": "xFarm punta alla digitalizzazione del settore agroalimentare",
+   "url": "https://www.xfarm.ag/l-azienda",
+   "quote": "punta alla digitalizzazione del settore agroalimentare"
+  },
+  {
+   "claim": "xFarm supporta 630.000 aziende agricole",
+   "url": "https://www.xfarm.ag/l-azienda",
+   "quote": "supporta il lavoro di 630.000 aziende agricole"
+  },
+  {
+   "claim": "xFarm supporta 630.000 aziende agricole",
+   "url": "https://www.xfarm.ag/l-azienda",
+   "quote": "supporta il lavoro di 630.000 aziende agricole"
+  },
+  {
+   "claim": "xFarm è presente in oltre 100 Paesi",
+   "url": "https://www.xfarm.ag/l-azienda",
+   "quote": "in oltre 100 Paesi del mondo"
+  },
+  {
+   "claim": "xFarm affianca gli imprenditori agricoli nella gestione delle aziende",
+   "url": "https://www.xfarm.ag/l-azienda",
+   "quote": "fornendo strumenti innovativi che possono affiancare gli imprenditori agricoli e gli stakeholders nella gestione delle loro aziende"
+  }
+ ],
+ "market": {
+  "count": "2.201",
+  "label": "titolari e amministratori di aziende agricole e agroalimentari italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "agricoltura",
+   "agroalimentare"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"agriculture,food and beverage\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

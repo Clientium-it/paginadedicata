@@ -1,0 +1,79 @@
+{
+ "slug": "readspeaker",
+ "company": "ReadSpeaker",
+ "first_name": "Riccardo",
+ "domain": "readspeaker.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Tecnologia vocale che trasforma qualsiasi testo in voce naturale dentro prodotti e call center. Ecco chi contatteremmo per ReadSpeaker.",
+ "market_note": "ReadSpeaker porta qualsiasi testo in voce naturale dentro i prodotti, i call center e i siti di aziende e istituzioni, quindi parleremmo con chi guida prodotto e tecnologia.",
+ "evidence": [
+  {
+   "claim": "Trasforma qualsiasi testo in voce naturale dentro prodotti e call center",
+   "url": "https://www.readspeaker.com/",
+   "quote": "Turn any text into a natural voice inside your product, your call center, or your brand, at the scale you sell at."
+  },
+  {
+   "claim": "Serve un gran numero di organizzazioni",
+   "url": "https://www.readspeaker.com/",
+   "quote": "12,000+ organizations trust ReadSpeaker"
+  },
+  {
+   "claim": "Sviluppa tecnologia vocale dal 1999",
+   "url": "https://www.readspeaker.com/",
+   "quote": "Pioneering voice technology since 1999."
+  },
+  {
+   "claim": "Trasforma qualsiasi testo in voce naturale dentro prodotti e call center",
+   "url": "https://www.readspeaker.com/",
+   "quote": "Turn any text into a natural voice inside your product, your call center, or your brand, at the scale you sell at."
+  },
+  {
+   "claim": "Clienti in molti settori e paesi",
+   "url": "https://www.readspeaker.com/products/webreader/",
+   "quote": "12,000+ organizations in education, business and non-profits across 70+ countries"
+  }
+ ],
+ "market": {
+  "count": "9.984",
+  "label": "responsabili IT, CTO e CIO di aziende strutturate italiane oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "responsabili IT e CTO"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

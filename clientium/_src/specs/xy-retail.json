@@ -1,0 +1,76 @@
+{
+ "slug": "xy-retail",
+ "company": "XY Retail",
+ "first_name": "Fabio",
+ "domain": "xyretail.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Una piattaforma unificata per il commercio al dettaglio dei grandi marchi. Ecco chi contatteremmo per XY Retail.",
+ "market_note": "XY Retail offre una piattaforma di unified commerce ai marchi del lusso, della moda e dei cosmetici, quindi parleremmo con chi guida la trasformazione digitale e i sistemi retail.",
+ "evidence": [
+  {
+   "claim": "Piattaforma di unified commerce usata da grandi marchi",
+   "url": "https://www.xyretail.com/",
+   "quote": "Unified Commerce Platform used by Giorgio Armani, Golden Goose"
+  },
+  {
+   "claim": "Serve settori dal lusso e moda al consumer electronics",
+   "url": "https://www.xyretail.com/",
+   "quote": "From luxury fashion to consumer electronics, XY Retail adapts to your vertical"
+  },
+  {
+   "claim": "Attiva nel retail globale del lusso per marchi come Armani e Golden Goose",
+   "url": "https://www.xyretail.com/",
+   "quote": "Live across global luxury retail operations"
+  },
+  {
+   "claim": "Settori clienti dichiarati: lusso e moda, beauty e cosmetici, consumer electronics",
+   "url": "https://www.xyretail.com/",
+   "quote": "Luxury & Fashion Beauty & Cosmetics Consumer Electronics"
+  }
+ ],
+ "market": {
+  "count": "609",
+  "label": "responsabili IT e della trasformazione digitale di grandi marchi del retail e della moda",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "moda e lusso",
+   "cosmetici",
+   "consumer electronics"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"retail luxury goods and jewelry,retail apparel and fashion,cosmetics,consumer electronics,retail\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

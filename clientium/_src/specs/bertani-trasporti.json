@@ -1,0 +1,79 @@
+{
+ "slug": "bertani-trasporti",
+ "company": "Bertani Trasporti",
+ "first_name": "Corrado",
+ "domain": "bertanitrasporti.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni logistiche per il settore automobilistico e la distribuzione dei ricambi auto. Ecco chi contatteremmo per Bertani Trasporti.",
+ "market_note": "Bertani Trasporti sviluppa soluzioni logistiche per il settore automobilistico e distribuisce ricambi auto per dealer e noleggiatori, quindi parleremmo con chi decide su logistica e trasporti.",
+ "evidence": [
+  {
+   "claim": "Sviluppa soluzioni logistiche per il settore automobilistico",
+   "url": "https://bertanitrasporti.it/",
+   "quote": "Sviluppiamo soluzioni logistiche dedicate al settore automobilistico."
+  },
+  {
+   "claim": "Si occupa della distribuzione dei ricambi auto",
+   "url": "https://bertanitrasporti.it/",
+   "quote": "Progettiamo soluzioni ottimizzate dedicate alla distribuzione dei ricambi auto."
+  },
+  {
+   "claim": "Lavora a beneficio di dealer e noleggiatori",
+   "url": "https://bertanitrasporti.it/",
+   "quote": "a beneficio di dealer e noleggiatori"
+  },
+  {
+   "claim": "Sviluppa soluzioni logistiche per il settore automobilistico",
+   "url": "https://bertanitrasporti.it/",
+   "quote": "Sviluppiamo soluzioni logistiche dedicate al settore automobilistico."
+  },
+  {
+   "claim": "Serve i settori automotive e moto",
+   "url": "https://bertanitrasporti.it/ricambi-servizi/",
+   "quote": "Distribuiamo i ricambi per i settori automotive e moto in tempi rapidissimi"
+  }
+ ],
+ "market": {
+  "count": "3.481",
+  "label": "direttori, CEO e titolari di aziende automotive strutturate in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive\"}"
+ }
+}

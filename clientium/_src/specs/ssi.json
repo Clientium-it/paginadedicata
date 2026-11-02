@@ -1,0 +1,80 @@
+{
+ "slug": "ssi",
+ "company": "SSI",
+ "first_name": "Jan",
+ "domain": "ssi-corporate.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software ed expertise per il business della cantieristica navale. Ecco chi contatteremmo per SSI.",
+ "market_note": "SSI sviluppa software per la cantieristica navale usato da cantieri, marine militari e studi di progettazione nel mondo, quindi parleremmo con chi guida progettazione e ingegneria nei cantieri.",
+ "evidence": [
+  {
+   "claim": "software ed expertise per la cantieristica navale",
+   "url": "https://www.ssi-corporate.com/",
+   "quote": "SSI provides software and expertise for shipbuilding and sustainment"
+  },
+  {
+   "claim": "software usato da cantieri, marine militari e studi di progettazione",
+   "url": "https://www.ssi-corporate.com/",
+   "quote": "navies, designers, and shipyards worldwide have relied on our tools"
+  },
+  {
+   "claim": "progettazione e costruzione di navi",
+   "url": "https://www.ssi-corporate.com/",
+   "quote": "Trusted by navies and global shipbuilders to design, build, and maintain complex vessels."
+  },
+  {
+   "claim": "software esclusivamente per la cantieristica navale",
+   "url": "https://www.ssi-corporate.com/",
+   "quote": "SSI builds software exclusively for shipbuilding."
+  },
+  {
+   "claim": "clienti cantieri navali e studi di progettazione",
+   "url": "https://www.ssi-corporate.com/",
+   "quote": "navies, designers, and shipyards worldwide have relied on our tools"
+  }
+ ],
+ "market": {
+  "count": "305",
+  "label": "titolari, CEO e direttori di cantieri navali e studi di progettazione oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "cantieristica navale",
+   "studi di progettazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"shipbuilding\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

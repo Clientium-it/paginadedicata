@@ -1,0 +1,90 @@
+{
+ "slug": "adform",
+ "company": "Adform",
+ "first_name": "Alessandra",
+ "domain": "adform.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma di media buying sicura e potente per inserzionisti e agenzie. Ecco chi contatteremmo per Adform.",
+ "market_note": "Adform offre una piattaforma di media buying sicura e potente a inserzionisti e agenzie, quindi parleremmo con chi decide su advertising e strategie di marketing.",
+ "evidence": [
+  {
+   "claim": "piattaforma di media buying sicura e potente",
+   "url": "https://site.adform.com/",
+   "quote": "the most powerful and safe media buying platform"
+  },
+  {
+   "claim": "serve inserzionisti e agenzie",
+   "url": "https://site.adform.com/solutions/identity/",
+   "quote": "Trusted by some of the world’s leading advertisers and agencies"
+  },
+  {
+   "claim": "piattaforma di media buying sicura e potente",
+   "url": "https://site.adform.com/",
+   "quote": "the most powerful and safe media buying platform"
+  },
+  {
+   "claim": "a inserzionisti e agenzie",
+   "url": "https://site.adform.com/solutions/identity/",
+   "quote": "Trusted by some of the world’s leading advertisers and agencies"
+  },
+  {
+   "claim": "riunite DSP, ad server e DMP in un'unica piattaforma",
+   "url": "https://site.adform.com/solutions/adform-flow/",
+   "quote": "DSP, Ad Server, and DMP all in one seamless platform"
+  },
+  {
+   "claim": "clienti inserzionisti e agenzie",
+   "url": "https://site.adform.com/solutions/identity/",
+   "quote": "Trusted by some of the world’s leading advertisers and agencies"
+  },
+  {
+   "claim": "settori clienti advertising e publishing",
+   "url": "https://site.adform.com/",
+   "quote": "For Advertisers For Publishers"
+  }
+ ],
+ "market": {
+  "count": "3.671",
+  "label": "titolari, CEO e direttori marketing di aziende e agenzie strutturate in Italia oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "advertising",
+   "marketing"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"advertising,marketing\"}"
+ }
+}

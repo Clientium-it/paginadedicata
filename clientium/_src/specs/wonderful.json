@@ -1,0 +1,76 @@
+{
+ "slug": "wonderful",
+ "company": "Wonderful",
+ "first_name": "Carlo",
+ "domain": "wonderful.ai",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Una piattaforma AI per le grandi imprese che vogliono portare l'intelligenza artificiale in produzione. Ecco chi contatteremmo per Wonderful.",
+ "market_note": "Wonderful porta l'intelligenza artificiale in produzione per grandi imprese di banche, telco, sanità e utilities, quindi parleremmo con chi decide su adozione AI e trasformazione dei processi.",
+ "evidence": [
+  {
+   "claim": "Wonderful aiuta le imprese ad adottare l'AI per il loro pieno potenziale",
+   "url": "https://www.wonderful.ai/",
+   "quote": "Wonderful helps enterprises drive AI adoption to unlock their full potential."
+  },
+  {
+   "claim": "serve settori regolati come banche, telecomunicazioni, sanità, utilities, assicurazioni, retail e aviazione",
+   "url": "https://www.wonderful.ai/",
+   "quote": "Deep in regulated, mission-critical industries Banking Telecommunications Healthcare Retail Utilities Insurance Airlines"
+  },
+  {
+   "claim": "porta i workflow critici delle imprese in produzione",
+   "url": "https://www.wonderful.ai/about-us",
+   "quote": "We take your most critical workflows into production across the enterprise, in weeks, not months."
+  },
+  {
+   "claim": "settori clienti dichiarati dal lead",
+   "url": "https://www.wonderful.ai/",
+   "quote": "Deep in regulated, mission-critical industries Banking Telecommunications Healthcare Retail Utilities Insurance Airlines"
+  }
+ ],
+ "market": {
+  "count": "2.967",
+  "label": "responsabili IT, CIO e CTO di grandi imprese italiane con oltre 200 addetti nei settori bancario, telco e assicurativo",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "banche e telco",
+   "sanità e utilities",
+   "assicurazioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"banking,telecommunications,health care,utilities,insurance,retail,airlines and aviation\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "smi-group",
+ "company": "SMI Group",
+ "first_name": "Cinzia",
+ "domain": "smi-group.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Service integration, progettazione di infrastrutture IT, cyber security e servizi cloud. Ecco chi contatteremmo per SMI Group.",
+ "market_note": "SMI Group offre service integration, infrastrutture IT e cyber security, anche alla Pubblica Amministrazione tramite accordo quadro Consip, quindi parleremmo con chi decide su sistemi informativi e sicurezza.",
+ "evidence": [
+  {
+   "claim": "offre service integration, progettazione di infrastrutture IT, cyber security e servizi cloud",
+   "url": "https://www.smi-group.it/",
+   "quote": "Service Integration Progettazione di Infrastrutture IT Service Desk Cyber Security Servizi Cloud"
+  },
+  {
+   "claim": "serve la Pubblica Amministrazione tramite accordo quadro Consip",
+   "url": "https://www.smi-group.it/accordo-quadro-consip-per-servizi-crm-e-marketing-per-la-pubblica-amministrazione/",
+   "quote": "Accordo quadro Consip per servizi CRM e marketing per la Pubblica Amministrazione"
+  },
+  {
+   "claim": "accordo quadro Consip per la Pubblica Amministrazione",
+   "url": "https://www.smi-group.it/accordo-quadro-consip-per-servizi-crm-e-marketing-per-la-pubblica-amministrazione/",
+   "quote": "Accordo quadro Consip per servizi CRM e marketing per la Pubblica Amministrazione"
+  },
+  {
+   "claim": "azienda di servizi e consulenza IT con infrastrutture, service desk e sicurezza",
+   "url": "https://www.smi-group.it/",
+   "quote": "Service Integration Progettazione di Infrastrutture IT Service Desk Cyber Security Servizi Cloud"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "sinelec",
+ "company": "Sinelec",
+ "first_name": "Giuseppe",
+ "domain": "sinelec.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Sistemi e impianti tecnologici avanzati per le infrastrutture e la mobilità. Ecco chi contatteremmo per Sinelec.",
+ "market_note": "Sinelec sviluppa sistemi e impianti tecnologici avanzati per le infrastrutture, i trasporti e la mobilità, quindi parleremmo con chi decide su tecnologia, impianti e infrastrutture nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Sviluppa sistemi e impianti tecnologici avanzati per le infrastrutture",
+   "url": "https://www.sinelec.it/",
+   "quote": "SVILUPPA SISTEMI E IMPIANTI TECNOLOGICI AVANZATI PER LE INFRASTRUTTURE"
+  },
+  {
+   "claim": "Sviluppa sistemi e impianti tecnologici avanzati per le infrastrutture",
+   "url": "https://www.sinelec.it/",
+   "quote": "SVILUPPA SISTEMI E IMPIANTI TECNOLOGICI AVANZATI PER LE INFRASTRUTTURE"
+  },
+  {
+   "claim": "Tecnologia per mobilità e trasporti",
+   "url": "https://www.sinelec.it/",
+   "quote": "Tecnologia per mobilità e trasporti"
+  },
+  {
+   "claim": "Sviluppa sistemi e impianti tecnologici avanzati per le infrastrutture",
+   "url": "https://www.sinelec.it/",
+   "quote": "SVILUPPA SISTEMI E IMPIANTI TECNOLOGICI AVANZATI PER LE INFRASTRUTTURE"
+  },
+  {
+   "claim": "Opera nella tecnologia per mobilità e trasporti",
+   "url": "https://www.sinelec.it/",
+   "quote": "Tecnologia per mobilità e trasporti"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate dai 50 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "dai 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

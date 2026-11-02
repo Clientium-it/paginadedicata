@@ -1,0 +1,80 @@
+{
+ "slug": "tesisquare",
+ "company": "Tesisquare",
+ "first_name": "Lorenzo",
+ "domain": "tesisquare.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni software per la visibilità e il controllo dell'intera supply chain. Ecco chi contatteremmo per Tesisquare.",
+ "market_note": "Tesisquare offre soluzioni software per la supply chain ad aziende di manufacturing, retail e fashion, quindi parleremmo con chi guida logistica, acquisti e sistemi informativi.",
+ "evidence": [
+  {
+   "claim": "visibilità e controllo dell'intera supply chain",
+   "url": "https://www.tesisquare.com/it/",
+   "quote": "Visibilità e controllo dell'intera Supply Chain"
+  },
+  {
+   "claim": "offre soluzioni dedicate alla supply chain",
+   "url": "https://www.tesisquare.com/it/",
+   "quote": "offriamo soluzioni dedicate alla Supply Chain"
+  },
+  {
+   "claim": "settori logistici serviti retail food fashion",
+   "url": "https://www.tesisquare.com/it/",
+   "quote": "una profonda conoscenza dei processi logistici di industry come Retail, Food, Fashion & Luxury"
+  },
+  {
+   "claim": "inclusa nel Gartner Magic Quadrant 2026 per il TMS",
+   "url": "https://www.tesisquare.com/it/",
+   "quote": "Tesisquare inclusa nel Gartner® Magic Quadrant™ 2026 per il Transportation Management System"
+  },
+  {
+   "claim": "settori clienti serviti",
+   "url": "https://www.tesisquare.com/it/",
+   "quote": "una profonda conoscenza dei processi logistici di industry come Retail, Food, Fashion & Luxury"
+  }
+ ],
+ "market": {
+  "count": "33.747",
+  "label": "direttori supply chain, logistica e sistemi informativi di aziende manifatturiere e retail italiane strutturate",
+  "chips": [
+   "tutta Italia",
+   "manifatturiero e retail",
+   "fashion & luxury",
+   "oltre 100 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"manufacturing,retail,fashion,food and beverage,health care\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

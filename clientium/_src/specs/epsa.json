@@ -1,0 +1,74 @@
+{
+ "slug": "epsa",
+ "company": "EPSA",
+ "first_name": "Safaa",
+ "domain": "epsa.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Ottimizza i risultati finanziari, operativi e sostenibili dei suoi clienti. Ecco chi contatteremmo per EPSA.",
+ "market_note": "EPSA è un gruppo europeo specializzato nella performance che ottimizza i risultati finanziari, operativi e sostenibili dei suoi clienti, quindi parleremmo con chi decide su costi e performance.",
+ "evidence": [
+  {
+   "claim": "ottimizza i risultati finanziari, operativi e sostenibili dei clienti",
+   "url": "https://www.epsa.com/fr/",
+   "quote": "optimise les résultats financiers, opérationnels et durables de ses clients"
+  },
+  {
+   "claim": "gruppo europeo specialista della performance",
+   "url": "https://www.epsa.com/fr/",
+   "quote": "Le Groupe EPSA est un acteur européen, spécialiste de la performance"
+  },
+  {
+   "claim": "ottimizza i risultati finanziari, operativi e sostenibili dei clienti",
+   "url": "https://www.epsa.com/fr/",
+   "quote": "optimise les résultats financiers, opérationnels et durables de ses clients"
+  },
+  {
+   "claim": "serve clienti di ogni dimensione e settore",
+   "url": "https://www.epsa.com/fr/",
+   "quote": "Toutes tailles et tous secteurs d'activités"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane con oltre cinquanta addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "tutti i settori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

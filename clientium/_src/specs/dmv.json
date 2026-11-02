@@ -1,0 +1,76 @@
+{
+ "slug": "dmv",
+ "company": "DMV",
+ "first_name": "Mariano",
+ "domain": "dmv-tubes.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "DMV produce tubi senza saldatura in acciaio inossidabile e leghe di nichel. Ecco chi contatteremmo per DMV.",
+ "market_note": "DMV produce tubi senza saldatura in acciaio inossidabile e leghe di nichel per mercati come oil and gas, aerospace e nucleare, quindi parleremmo con chi guida acquisti e direzione tecnica.",
+ "evidence": [
+  {
+   "claim": "DMV produce tubi senza saldatura in acciaio inossidabile e leghe di nichel",
+   "url": "https://dmvtubes.com/en/home",
+   "quote": "seamless stainless steel and nickel based alloy tubes and pipes"
+  },
+  {
+   "claim": "DMV serve mercati come oil and gas, aerospace e nucleare",
+   "url": "https://dmvtubes.com/en/home",
+   "quote": "Oil & Gas Onshore Oil & Gas Offshore Powergen & Nuclear Chemical Medical Mechanical General Marine Distribution Automotive Aerospace"
+  },
+  {
+   "claim": "DMV produce tubi senza saldatura in acciaio inossidabile e leghe di nichel",
+   "url": "https://dmvtubes.com/en/home",
+   "quote": "leading global manufacturers of seamless stainless steel and nickel based alloy tubes and pipes"
+  },
+  {
+   "claim": "I mercati serviti includono oil and gas, aerospace, chimico, medicale e automotive",
+   "url": "https://dmvtubes.com/en/home",
+   "quote": "Oil & Gas Onshore Oil & Gas Offshore Powergen & Nuclear Chemical Medical Mechanical General Marine Distribution Automotive Aerospace"
+  }
+ ],
+ "market": {
+  "count": "12.078",
+  "label": "direttori, titolari e CEO di aziende industriali italiane strutturate di oil and gas, aerospace e chimico oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "oil and gas",
+   "aerospace",
+   "chimico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"oil and gas,aerospace,chemical,medical,automotive,nuclear\"}"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "ns12",
+ "company": "NS12",
+ "first_name": "Marco",
+ "domain": "ns12.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni tecnologiche innovative e system integration per grandi aziende del settore pubblico e privato. Ecco chi contatteremmo per NS12.",
+ "market_note": "NS12 sviluppa soluzioni tecnologiche in ambito Java e Microsoft per grandi aziende del settore pubblico e privato, quindi parleremmo con chi decide su sistemi informativi e digitalizzazione.",
+ "evidence": [
+  {
+   "claim": "NS12 è una system integration company",
+   "url": "https://ns12.it/",
+   "quote": "Top System Integration Company"
+  },
+  {
+   "claim": "serve grandi aziende del settore pubblico e privato",
+   "url": "https://ns12.it/",
+   "quote": "le grandi aziende del settore pubblico e privato affrontano nel profondo processo di rinnovamento informatico"
+  },
+  {
+   "claim": "sviluppa soluzioni in ambito Java e Microsoft",
+   "url": "https://ns12.it/chi-siamo/",
+   "quote": "Operiamo nel campo IT con una forte specializzazione nello sviluppo di soluzioni tecnologiche innovative in ambito Java e Microsoft"
+  },
+  {
+   "claim": "soluzioni tecnologiche innovative in ambito Java e Microsoft",
+   "url": "https://ns12.it/chi-siamo/",
+   "quote": "Operiamo nel campo IT con una forte specializzazione nello sviluppo di soluzioni tecnologiche innovative in ambito Java e Microsoft"
+  },
+  {
+   "claim": "settori serviti: pubblica amministrazione, telecomunicazioni e pubblica utilità",
+   "url": "https://ns12.it/chi-siamo/",
+   "quote": "investe nell’ area dei progetti per le grandi aziende, pubblica amministrazione, telecomunicazioni e pubblica utilità"
+  }
+ ],
+ "market": {
+  "count": "1.355",
+  "label": "responsabili IT, CIO e CTO di grandi aziende del settore pubblico e privato in tutta Italia oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "pubblica amministrazione",
+   "telecomunicazioni",
+   "pubblica utilità"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"government administration,telecommunications,utilities\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

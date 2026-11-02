@@ -1,0 +1,81 @@
+{
+ "slug": "enginium",
+ "company": "Enginium",
+ "first_name": "Marco",
+ "domain": "enginium.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Servizi di consulenza, progettazione e sviluppo alle aziende con forte contenuto tecnologico. Ecco chi contatteremmo per Enginium.",
+ "market_note": "Enginium fornisce servizi di consulenza, progettazione e sviluppo alle aziende con competenze dal forte contenuto tecnologico, quindi parleremmo con chi guida tecnologia e sviluppo prodotto.",
+ "evidence": [
+  {
+   "claim": "Fornisce consulenza, progettazione e sviluppo alle aziende",
+   "url": "https://www.enginium.eu/",
+   "quote": "servizi di consulenza, progettazione e sviluppo alle aziende"
+  },
+  {
+   "claim": "Competenze dal forte contenuto tecnologico",
+   "url": "https://www.enginium.eu/",
+   "quote": "competenze dal forte contenuto tecnologico"
+  },
+  {
+   "claim": "Aiuta le aziende in ricerca, innovazione e sviluppo prodotti",
+   "url": "https://www.enginium.eu/",
+   "quote": "aiutiamo le aziende nella ricerca e innovazione, nello sviluppo dei loro prodotti e servizi"
+  },
+  {
+   "claim": "Settori clienti serviti",
+   "url": "https://www.enginium.eu/chi-siamo/",
+   "quote": "Automotive Telecommunications Banking & Finance Transportation Aerospace & Defence Industries Pharma & Medical Devices"
+  },
+  {
+   "claim": "Opera a livello nazionale e internazionale",
+   "url": "https://www.enginium.eu/chi-siamo/perche-affidarti-a-noi/",
+   "quote": "Gestiamo progetti in ambito nazionale ed internazionale"
+  }
+ ],
+ "market": {
+  "count": "2.253",
+  "label": "CIO, CTO e responsabili IT di grandi aziende italiane con oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "automotive",
+   "banking",
+   "aerospace"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"automotive,banking,telecommunications,transportation,aerospace,pharmaceutical,medical device\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

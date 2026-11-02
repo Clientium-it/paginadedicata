@@ -1,0 +1,80 @@
+{
+ "slug": "archiproducts",
+ "company": "Archiproducts",
+ "first_name": "Marilde",
+ "domain": "archiproducts.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Arredamento, design e illuminazione con oltre un milione di prodotti, materiali e brand. Ecco chi contatteremmo per Archiproducts.",
+ "market_note": "Archiproducts raccoglie arredamento, design e illuminazione dove i brand pubblicano i loro prodotti, quindi parleremmo con chi guida marketing e vendite nelle aziende dell'arredo.",
+ "evidence": [
+  {
+   "claim": "arredamento, design e illuminazione",
+   "url": "https://www.archiproducts.com/",
+   "quote": "Arredamento, Design e Illuminazione"
+  },
+  {
+   "claim": "oltre un milione di prodotti, materiali e brand",
+   "url": "https://www.archiproducts.com/",
+   "quote": "Cerca oltre 1 MLN di Prodotti, Materiali, Brand"
+  },
+  {
+   "claim": "i brand pubblicano i loro prodotti sulla piattaforma",
+   "url": "https://www.archiproducts.com/",
+   "quote": "Pubblica prodotti Per rivenditori Trade & Professionals Design Service"
+  },
+  {
+   "claim": "oltre un milione di prodotti, materiali e brand",
+   "url": "https://www.archiproducts.com/",
+   "quote": "Cerca oltre 1 MLN di Prodotti, Materiali, Brand"
+  },
+  {
+   "claim": "settori serviti arredamento, design e illuminazione",
+   "url": "https://www.archiproducts.com/",
+   "quote": "Arredamento, Design e Illuminazione"
+  }
+ ],
+ "market": {
+  "count": "2.139",
+  "label": "titolari, CEO e direttori di brand italiani di arredamento, design e illuminazione da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "arredamento e design",
+   "illuminazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"furniture and home furnishings manufacturing,lighting\"}"
+ }
+}

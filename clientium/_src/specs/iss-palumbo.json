@@ -1,0 +1,76 @@
+{
+ "slug": "iss-palumbo",
+ "company": "ISS Palumbo",
+ "first_name": "Anders",
+ "domain": "iss-palumbo.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Spedizioni internazionali e logistica integrata con specializzazione nel settore Oil & Gas. Ecco chi contatteremmo per ISS Palumbo.",
+ "market_note": "ISS Palumbo gestisce spedizioni internazionali e logistica integrata per grandi progetti industriali in campo energetico, quindi parleremmo con chi decide su trasporti e logistica nelle grandi aziende industriali.",
+ "evidence": [
+  {
+   "claim": "Spedizioni internazionali e logistica integrata con specializzazione nel settore Oil & Gas",
+   "url": "https://www.iss-palumbo.com",
+   "quote": "leader nel campo delle spedizioni internazionali con specializzazione nel settore Oil & Gas e nella logistica integrata"
+  },
+  {
+   "claim": "Gestisce grandi progetti industriali in campo energetico",
+   "url": "https://www.iss-palumbo.com/azienda/chi-siamo/",
+   "quote": "specializzandosi nella gestione di grandi progetti industriali in campo energetico"
+  },
+  {
+   "claim": "Trasporta moduli industriali e gru portali fino a 1000 tonnellate",
+   "url": "https://www.iss-palumbo.com/servizi/project-and-freight-forwarding/",
+   "quote": "da grandi macchinari a moduli industriali e gru portali fino a 1000 tonnellate di peso ciascuna"
+  },
+  {
+   "claim": "Specializzazione nel settore Oil & Gas",
+   "url": "https://www.iss-palumbo.com",
+   "quote": "specializzazione nel settore Oil & Gas"
+  }
+ ],
+ "market": {
+  "count": "5.720",
+  "label": "titolari, CEO e direttori di aziende industriali ed energetiche italiane da 50 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "50+ addetti",
+   "Oil & Gas",
+   "energia",
+   "industria"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"oil and gas,energy\"}"
+ }
+}

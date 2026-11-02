@@ -1,0 +1,74 @@
+{
+ "slug": "datlas",
+ "company": "Datlas",
+ "first_name": "Veronica",
+ "domain": "datlas.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Tecnologie digitali, AI e capacità operative per trasformare processi complessi. Ecco chi contatteremmo per Datlas.",
+ "market_note": "Datlas unisce tecnologia, competenze specialistiche e capacità industriali per trasformare e gestire processi operativi complessi, quindi parleremmo con chi guida tecnologia, customer operations e marketing nelle grandi aziende.",
+ "evidence": [
+  {
+   "claim": "Datlas offre tecnologie digitali, AI e capacità operative per trasformare processi complessi.",
+   "url": "https://www.datlas.it/",
+   "quote": "Tecnologie digitali, AI e capacità operative per trasformare processi complessi"
+  },
+  {
+   "claim": "Datlas unisce tecnologia, competenze e capacità industriali per trasformare e gestire processi operativi complessi.",
+   "url": "https://www.datlas.it/chi-siamo/",
+   "quote": "Datlas unisce tecnologia, competenze specialistiche e capacità industriali per trasformare e gestire processi operativi complessi"
+  },
+  {
+   "claim": "Progetta soluzioni proprietarie che uniscono AI, competenze verticali e capacità operative.",
+   "url": "https://www.datlas.it/",
+   "quote": "soluzioni proprietarie che uniscono AI, competenze verticali e capacità operative per generare valore su scala"
+  },
+  {
+   "claim": "Serve clienti enterprise.",
+   "url": "https://www.datlas.it/",
+   "quote": "+200 Clienti enterprise attivi"
+  }
+ ],
+ "market": {
+  "count": "100.009",
+  "label": "titolari, CEO e direttori di grandi aziende italiane oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "aziende enterprise"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

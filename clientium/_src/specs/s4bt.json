@@ -1,0 +1,74 @@
+{
+ "slug": "s4bt",
+ "company": "S4BT",
+ "first_name": "Ziad",
+ "domain": "sforbt.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni tecnologiche per i viaggi d'affari delle aziende in tutta Europa. Ecco chi contatteremmo per S4BT.",
+ "market_note": "S4BT è un provider europeo di soluzioni tecnologiche per i viaggi d'affari e lavora con TMC e aziende clienti, quindi parleremmo con chi decide su trasferte e spese di viaggio.",
+ "evidence": [
+  {
+   "claim": "Soluzioni tecnologiche per i viaggi d'affari in Europa",
+   "url": "https://sforbt.com/",
+   "quote": "S4BT is a major European provider of business travel technology solutions."
+  },
+  {
+   "claim": "Lavora con TMC e aziende clienti",
+   "url": "https://sforbt.com/",
+   "quote": "connecting TMCs and corporate clients to an extensive hotel network"
+  },
+  {
+   "claim": "Provider europeo di soluzioni per i viaggi d'affari",
+   "url": "https://sforbt.com/",
+   "quote": "S4BT is a major European provider of business travel technology solutions."
+  },
+  {
+   "claim": "Decisori acquisti, finance e travel",
+   "url": "https://sforbt.com/hotel-sourcing-solutions/",
+   "quote": "Procurement Directors Cost control, rate optimization, and reliable contract execution"
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 100 addetti e trasferte frequenti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "trasferte aziendali"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

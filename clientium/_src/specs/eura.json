@@ -1,0 +1,76 @@
+{
+ "slug": "eura",
+ "company": "EurA",
+ "first_name": "Mauricio",
+ "domain": "eura-ag.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza internazionale su innovazione e tecnologia per aiutare le imprese a realizzare i loro progetti. Ecco chi contatteremmo per EurA.",
+ "market_note": "EurA affianca imprese, enti di ricerca e committenti pubblici di ogni dimensione nel realizzare innovazioni tecniche, quindi parleremmo con chi guida innovazione e sviluppo prodotto nelle aziende.",
+ "evidence": [
+  {
+   "claim": "Consulenza internazionale su innovazione e tecnologia",
+   "url": "https://www.eura-ag.com",
+   "quote": "internationales Beratungsunternehmen für Innovation und Technologie"
+  },
+  {
+   "claim": "Affianca imprese, enti di ricerca e committenti pubblici di ogni dimensione nel realizzare innovazioni tecniche",
+   "url": "https://www.eura-ag.com",
+   "quote": "Unternehmen, Forschungseinrichtungen und öffentliche Auftraggeber jeder Größe dabei, technische Innovationen zu ermöglichen"
+  },
+  {
+   "claim": "Gestione di oltre 70 ecosistemi di innovazione in Europa",
+   "url": "https://www.eura-ag.com/innovationsberatung/corporate-innovation-services",
+   "quote": "Verwaltung von über 70 Innovationsökosystemen in ganz Europa"
+  },
+  {
+   "claim": "Settori serviti dichiarati tra Agrifood, IKT, Life Science e aerospazio",
+   "url": "https://www.eura-ag.com",
+   "quote": "Agrifood Bioökonomie IKT Life Science Luft- und Raumfahrt"
+  }
+ ],
+ "market": {
+  "count": "3.113",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti nei settori tecnologici e industriali",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "life science",
+   "aerospazio",
+   "ICT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"aerospace,life science,information and communications technology (ict),agriculture\"}"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "tinexta-innovation-hub",
+ "company": "Tinexta Innovation Hub",
+ "first_name": "Luca",
+ "domain": "tinextainnovationhub.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni integrate di Finanza, Consulenza e Tecnologia per lo sviluppo d'impresa. Ecco chi contatteremmo per Tinexta Innovation Hub.",
+ "market_note": "Tinexta Innovation Hub affianca le imprese con soluzioni di Finanza, Consulenza e Tecnologia nel manifatturiero, nella logistica e nei servizi finanziari, quindi parleremmo con chi guida innovazione e crescita in azienda.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni integrate di finanza, consulenza e tecnologia",
+   "url": "https://www.tinextainnovationhub.com/",
+   "quote": "soluzioni integrate di Finanza, Consulenza e Tecnologia"
+  },
+  {
+   "claim": "Serve settori come manifatturiero, logistica e servizi finanziari",
+   "url": "https://www.tinextainnovationhub.com/",
+   "quote": "Operiamo con successo nel manifatturiero, automobilistico, commercio & GDO, logistica e servizi finanziari"
+  },
+  {
+   "claim": "Sviluppa soluzioni digitali su misura per le aziende",
+   "url": "https://www.tinextainnovationhub.com/soluzioni-custom/",
+   "quote": "sviluppiamo soluzioni digitali su misura per trasformare il business delle aziende"
+  },
+  {
+   "claim": "Clienti PMI e grandi aziende in tutta Italia",
+   "url": "https://www.tinextainnovationhub.com/",
+   "quote": "PMI e grandi aziende, in tutta Italia"
+  }
+ ],
+ "market": {
+  "count": "62.203",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate del manifatturiero, della logistica e dei servizi finanziari",
+  "chips": [
+   "Italia",
+   "20+ addetti",
+   "manifatturiero",
+   "logistica",
+   "servizi finanziari"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"companyIndustry\": \"manufacturing,automotive,retail,logistics,financial services,electronics,chemical,pharmaceutical,food and beverage manufacturing,consumer goods,energy\"}"
+ }
+}

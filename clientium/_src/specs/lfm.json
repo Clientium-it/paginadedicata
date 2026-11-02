@@ -1,0 +1,80 @@
+{
+ "slug": "lfm",
+ "company": "LFM",
+ "first_name": "Giuliano",
+ "domain": "lfmspa.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Supporta i brand con team qualificati e presenti sul territorio. Ecco chi contatteremmo per LFM.",
+ "market_note": "LFM affianca i brand con soluzioni di retail, eventi e field marketing sul territorio, quindi parleremmo con chi guida marketing e vendite nelle aziende che investono sul punto vendita.",
+ "evidence": [
+  {
+   "claim": "Supporta i brand con team sul territorio",
+   "url": "https://www.lfmspa.it/business/soluzioni-retail",
+   "quote": "LFM supporta i brand con team qualificati e presenti sul territorio"
+  },
+  {
+   "claim": "Gestisce attività retail, promozionali e field per i brand",
+   "url": "https://www.lfmspa.it/business/soluzioni-retail",
+   "quote": "LFM affianca i brand nella gestione delle attività retail, promozionali e field"
+  },
+  {
+   "claim": "Accompagna i brand su retail, sales, field marketing ed eventi",
+   "url": "https://www.lfmspa.it/about",
+   "quote": "accompagnano i brand dalla fase di ideazione fino all’esecuzione di progetti nel retail, nel sales, nel field marketing, negli eventi, nella formazione e AI"
+  },
+  {
+   "claim": "Promoter, brand ambassador e merchandiser sul punto vendita",
+   "url": "https://www.lfmspa.it/business/soluzioni-retail",
+   "quote": "Promoter, brand ambassador, merchandiser, trainer e area manager lavorano insieme per migliorare visibilità, customer experience e sell-out"
+  },
+  {
+   "claim": "Opera in Italia, Europa e mercati globali",
+   "url": "https://www.lfmspa.it/",
+   "quote": "Operiamo in Italia, Europa e mercati globali con un’unica regia."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "direttori marketing, commerciali e titolari di aziende e brand strutturati attivi in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "brand e produttori",
+   "retail e field marketing"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

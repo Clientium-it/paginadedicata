@@ -1,0 +1,80 @@
+{
+ "slug": "stink",
+ "company": "Stink",
+ "first_name": "Luca",
+ "domain": "stinkfilms.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Produzione di contenuti visivi per agenzie pubblicitarie e brand. Ecco chi contatteremmo per Stink.",
+ "market_note": "Stink è una casa di produzione che crea contenuti visivi per le principali agenzie pubblicitarie e i brand, quindi parleremmo con chi decide gli investimenti in produzione e comunicazione.",
+ "evidence": [
+  {
+   "claim": "Produzione di contenuti visivi per agenzie pubblicitarie e brand",
+   "url": "https://stinkfilms.com/about/",
+   "quote": "Working with the world’s leading advertising agencies and brands, we create award-winning visual content."
+  },
+  {
+   "claim": "casa di produzione che crea contenuti visivi",
+   "url": "https://stinkfilms.com/about/",
+   "quote": "Stink is a creatively driven, global production company."
+  },
+  {
+   "claim": "per le principali agenzie pubblicitarie e i brand",
+   "url": "https://stinkfilms.com/about/",
+   "quote": "Working with the world’s leading advertising agencies and brands, we create award-winning visual content."
+  },
+  {
+   "claim": "lavorate con agenzie pubblicitarie e brand per creare contenuti visivi premiati",
+   "url": "https://stinkfilms.com/about/",
+   "quote": "Working with the world’s leading advertising agencies and brands, we create award-winning visual content."
+  },
+  {
+   "claim": "clienti sono agenzie pubblicitarie e brand",
+   "url": "https://stinkfilms.com/about/",
+   "quote": "Working with the world’s leading advertising agencies and brands, we create award-winning visual content."
+  }
+ ],
+ "market": {
+  "count": "3.671",
+  "label": "direttori marketing, titolari e CEO di agenzie pubblicitarie e brand in Italia oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "agenzie pubblicitarie",
+   "brand"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"advertising,marketing\"}"
+ }
+}

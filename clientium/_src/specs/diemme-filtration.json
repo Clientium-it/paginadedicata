@@ -1,0 +1,76 @@
+{
+ "slug": "diemme-filtration",
+ "company": "Diemme Filtration",
+ "first_name": "Davide",
+ "domain": "diemmefiltration.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Presse filtranti e ispessitori per la separazione solido liquido nei processi industriali. Ecco chi contatteremmo per Diemme Filtration.",
+ "market_note": "Diemme Filtration produce presse filtranti e ispessitori per la separazione solido liquido nei processi industriali di molti settori, quindi parleremmo con chi guida le direzioni tecniche e gli acquisti.",
+ "evidence": [
+  {
+   "claim": "Produce presse filtranti e ispessitori personalizzabili",
+   "url": "https://www.diemmefiltration.com/",
+   "quote": "We manufacture a wide range of filter presses and thickeners of various sizes and features"
+  },
+  {
+   "claim": "Specialista nella separazione solido liquido per i processi industriali",
+   "url": "https://www.diemmefiltration.com/",
+   "quote": "one of the leading specialists in the field of solid-liquid separation for industrial processes"
+  },
+  {
+   "claim": "Presse filtranti e ispessitori per ogni tipo di applicazione e settore",
+   "url": "https://www.diemmefiltration.com/",
+   "quote": "filter presses and thickeners of various sizes and features that can be customised for any type of application and sector"
+  },
+  {
+   "claim": "Settori industriali serviti dal lead",
+   "url": "https://www.diemmefiltration.com/",
+   "quote": "Chemical & Pharmaceutical Dredging & Soil Remediation Food & Beverage Mining & Metals Oil & Gas Power Industry Quarrying & Recycling Red Mud Second-generation Bioethanol Wastewater Treatment"
+  }
+ ],
+ "market": {
+  "count": "12.408",
+  "label": "titolari, CEO e direttori tecnici di aziende industriali con oltre 50 addetti in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "mining e metalli",
+   "oil and gas",
+   "chimico e farmaceutico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"chemical,pharmaceutical,food and beverage,mining,oil and gas,recycling\"}"
+ }
+}

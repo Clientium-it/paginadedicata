@@ -1,0 +1,76 @@
+{
+ "slug": "boldrocchi",
+ "company": "Boldrocchi",
+ "first_name": "Ruben",
+ "domain": "boldrocchigroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Ingegneria, produzione e progetti chiavi in mano per l'industria pesante e la generazione di energia. Ecco chi contatteremmo per Boldrocchi.",
+ "market_note": "Boldrocchi progetta e produce ventilatori, scambiatori di calore e sistemi di controllo delle emissioni per l'industria pesante e la generazione di energia, quindi parleremmo con chi decide sugli impianti.",
+ "evidence": [
+  {
+   "claim": "Opera nell'ingegneria, produzione e progetti chiavi in mano per l'industria pesante e l'energia",
+   "url": "https://www.boldrocchigroup.com/",
+   "quote": "integrated solutions to the heavy industry and power generation sectors"
+  },
+  {
+   "claim": "Produce ventilatori, scambiatori e sistemi ambientali per industria pesante ed energia",
+   "url": "https://www.boldrocchigroup.com/",
+   "quote": "integrated solutions to the heavy industry and power generation sectors that includes fans, blowers & compressors"
+  },
+  {
+   "claim": "Progetti in 140 paesi",
+   "url": "https://www.boldrocchigroup.com/",
+   "quote": "Projects in 140 countries, offices in 8"
+  },
+  {
+   "claim": "Settori clienti dichiarati: oil and gas, chimico, metalli, energia, mining, shipbuilding",
+   "url": "https://www.boldrocchigroup.com/",
+   "quote": "Cement & Lime Oil & Gas Fertilizer & Chemical Iron, Steel & Non-Ferrous Metals Power, Waste-to-Energy & Biomass Gas Turbine Power Offshore, Marine & Shipbuilding Mining"
+  }
+ ],
+ "market": {
+  "count": "9.238",
+  "label": "titolari, CEO e direttori di aziende industriali italiane con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "oil and gas",
+   "mining",
+   "chemical"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"oil and gas,mining,chemical,shipbuilding,energy,utilities\"}"
+ }
+}

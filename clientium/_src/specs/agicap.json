@@ -1,0 +1,79 @@
+{
+ "slug": "agicap",
+ "company": "Agicap",
+ "first_name": "Brendan",
+ "domain": "agicap.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma di tesoreria e gestione della liquidità per PMI e aziende di media dimensione. Ecco chi contatteremmo per Agicap.",
+ "market_note": "Agicap offre una piattaforma di tesoreria e gestione della liquidità per PMI e aziende di media dimensione, quindi parleremmo con chi guida la direzione finanziaria e amministrativa.",
+ "evidence": [
+  {
+   "claim": "Agicap offre un sistema di tesoreria per aziende di media dimensione",
+   "url": "https://agicap.com/de/",
+   "quote": "Treasury-Management-System für den Mittelstand"
+  },
+  {
+   "claim": "serve PMI e aziende di media dimensione",
+   "url": "https://agicap.com/de/",
+   "quote": "8000+ Finanzabteilungen von KMUs und mittelständischen Unternehmen nutzen Agicap"
+  },
+  {
+   "claim": "piattaforma pensata per il cash management quotidiano",
+   "url": "https://agicap.com/de/",
+   "quote": "ist Agicap für das tägliche Cash Management gemacht"
+  },
+  {
+   "claim": "sistema di tesoreria per piccole e medie imprese e media impresa",
+   "url": "https://agicap.com/de/",
+   "quote": "8000+ Finanzabteilungen von KMUs und mittelständischen Unternehmen nutzen Agicap"
+  },
+  {
+   "claim": "le decisioni finanziarie spettano al CFO o alla direzione amministrativa",
+   "url": "https://agicap.com/de/",
+   "quote": "liegt die Verantwortung für diese Aufgaben typischerweise beim CFO oder der kaufmännischen Leitung"
+  }
+ ],
+ "market": {
+  "count": "85.871",
+  "label": "titolari, CEO e direttori di aziende italiane da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "PMI e media impresa"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250}"
+ }
+}

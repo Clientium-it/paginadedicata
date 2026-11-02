@@ -1,0 +1,74 @@
+{
+ "slug": "net-engineering",
+ "company": "NET Engineering",
+ "first_name": "Silvia",
+ "domain": "net-italia.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Progettano sistemi e soluzioni di ingegneria e architettura per mobilità, rigenerazione urbana e industria. Ecco chi contatteremmo per NET Engineering.",
+ "market_note": "NET Engineering progetta infrastrutture di trasporto, rigenerazione urbana e servizi di ingegneria per l'industria, quindi parleremmo con chi decide gli investimenti in opere e progettazione.",
+ "evidence": [
+  {
+   "claim": "Progettano sistemi e soluzioni di ingegneria e architettura per mobilità, rigenerazione urbana e industria",
+   "url": "https://net-italia.com/it/about/manifesto/",
+   "quote": "Progettiamo sistemi e soluzioni di ingegneria e architettura d’eccellenza per la mobilità, la rigenerazione urbana e l’industria"
+  },
+  {
+   "claim": "servizi di ingegneria per infrastrutture di trasporto, rigenerazione urbana e industria",
+   "url": "https://net-italia.com/it/about/manifesto/",
+   "quote": "Progettiamo sistemi e soluzioni di ingegneria e architettura d’eccellenza per la mobilità, la rigenerazione urbana e l’industria"
+  },
+  {
+   "claim": "servizi di ingegneria per l'industria",
+   "url": "https://net-italia.com/",
+   "quote": "Servizi di ingegneria per l’industria"
+  },
+  {
+   "claim": "opera su tutta Italia con più sedi operative",
+   "url": "https://net-italia.com/",
+   "quote": "Sedi operative: Milano - Roma - Bologna"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "dekra",
+ "company": "DEKRA",
+ "first_name": "Leonardo",
+ "domain": "dekra.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Servizi specialistici, competenze di settore e soluzioni su misura per le aziende. Ecco chi contatteremmo per DEKRA.",
+ "market_note": "DEKRA affianca le aziende con servizi di ispezione, certificazione, consulenza per la sicurezza e formazione, quindi parleremmo con chi decide su sicurezza, qualità e conformità in azienda.",
+ "evidence": [
+  {
+   "claim": "Affianca le aziende con servizi specialistici, competenze di settore e soluzioni su misura.",
+   "url": "https://www.dekra.it/it/clienti-business/",
+   "quote": "affianchiamo le aziende con servizi specialistici, competenze di settore e soluzioni su misura"
+  },
+  {
+   "claim": "Offre consulenza per la sicurezza e certificazioni di prodotti e sistemi.",
+   "url": "https://www.dekra.it/it/servizi-alle-imprese/",
+   "quote": "della consulenza per la sicurezza, delle prove e certificazioni di prodotti e sistemi"
+  },
+  {
+   "claim": "Offre servizi di consulenza tecnica indipendenti nelle ispezioni e perizie sui veicoli.",
+   "url": "https://www.dekra.it/it/servizi-alle-imprese/",
+   "quote": "servizi di consulenza tecnica qualificati e indipendenti nei settori delle ispezioni e delle perizie sui veicoli"
+  },
+  {
+   "claim": "Vende servizi alle aziende.",
+   "url": "https://www.dekra.it/it/clienti-business/",
+   "quote": "affianchiamo le aziende con servizi specialistici, competenze di settore e soluzioni su misura"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "titolari e direttori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

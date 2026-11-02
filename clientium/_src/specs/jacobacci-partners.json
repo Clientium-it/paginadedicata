@@ -1,0 +1,80 @@
+{
+ "slug": "jacobacci-partners",
+ "company": "Jacobacci & Partners",
+ "first_name": "Andrea",
+ "domain": "jacobacci.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Tutela della proprietà intellettuale con marchi, brevetti e design. Ecco chi contatteremmo per Jacobacci & Partners.",
+ "market_note": "Jacobacci & Partners tutela la proprietà intellettuale di oltre 10.000 clienti di ogni dimensione, settore e area geografica, quindi parleremmo con chi guida aziende che vogliono proteggere marchi, brevetti e design.",
+ "evidence": [
+  {
+   "claim": "Tutelano la proprietà intellettuale, tra le principali realtà europee del settore",
+   "url": "https://www.jacobacci.com/chi-siamo",
+   "quote": "una delle principali realtà europee nell’ambito della tutela della proprietà intellettuale"
+  },
+  {
+   "claim": "Servono oltre 10.000 clienti di ogni dimensione, settore e area geografica",
+   "url": "https://www.jacobacci.com/chi-siamo",
+   "quote": "oltre 10.000 clienti di ogni dimensione, settore e area geografica"
+  },
+  {
+   "claim": "Hanno inaugurato l'ottava sede italiana ad Alba",
+   "url": "https://www.jacobacci.com/",
+   "quote": "inaugura il suo ottavo ufficio ad Alba, in Via Roma 4."
+  },
+  {
+   "claim": "La sede di Alba serve le imprese delle Langhe e del Piemonte",
+   "url": "https://www.jacobacci.com/pubblicazioni/jacobacci-partners-apre-ad-alba-la-tutela-dell-innovazione-al-servizio-delle-imprese-locali",
+   "quote": "al tessuto imprenditoriale delle Langhe e del territorio piemontese."
+  },
+  {
+   "claim": "Clienti di ogni dimensione e settore, rete che lavora in tutto il mondo",
+   "url": "https://www.jacobacci.com/",
+   "quote": "La nostra rete internazionale di mandatari marchi e brevetti lavora in tutto il mondo"
+  }
+ ],
+ "market": {
+  "count": "132.251",
+  "label": "titolari, CEO e amministratori di aziende italiane con innovazione, marchi o brevetti da tutelare",
+  "chips": [
+   "tutta Italia",
+   "da 10 addetti in su",
+   "titolari e CEO",
+   "marchi, brevetti e design"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10}"
+ }
+}

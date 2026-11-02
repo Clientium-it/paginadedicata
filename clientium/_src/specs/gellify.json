@@ -1,0 +1,86 @@
+{
+ "slug": "gellify",
+ "company": "GELLIFY",
+ "first_name": "Andrea",
+ "domain": "gellify.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Progettano sistemi di innovazione guidati dall'intelligenza artificiale che connettono strategia, tecnologia ed esecuzione. Ecco chi contatteremmo per GELLIFY.",
+ "market_note": "GELLIFY progetta sistemi di innovazione guidati dall'intelligenza artificiale per aziende di energia, servizi finanziari, manifattura e retail, quindi parleremmo con chi guida innovazione, tecnologia e trasformazione digitale.",
+ "evidence": [
+  {
+   "claim": "Progetta sistemi di innovazione guidati dall'IA che connettono strategia, tecnologia ed esecuzione",
+   "url": "https://gellify.com/",
+   "quote": "We design AI-driven innovation systems that connect strategy, technology and execution"
+  },
+  {
+   "claim": "Serve il settore dei servizi finanziari",
+   "url": "https://gellify.com/",
+   "quote": "Agentic AI in commercial processes, compliance architecture."
+  },
+  {
+   "claim": "Serve retail e consumer goods",
+   "url": "https://gellify.com/",
+   "quote": "GELLIFY supplies new technologies and tools to thrive in the Retail and Consumer Goods sector."
+  },
+  {
+   "claim": "Serve il manufacturing",
+   "url": "https://gellify.com/",
+   "quote": "Predictive maintenance, AI quality control, knowledge management."
+  },
+  {
+   "claim": "Serve energy e utilities",
+   "url": "https://gellify.com/",
+   "quote": "From customer care AI to energy trading optimization."
+  },
+  {
+   "claim": "Ha aiutato ARPAL Liguria a portare Claude nel lavoro quotidiano",
+   "url": "https://gellify.com/service/digital-products/",
+   "quote": "Con GELLIFY, ARPAL Liguria porta Claude nel lavoro quotidiano"
+  }
+ ],
+ "market": {
+  "count": "57.501",
+  "label": "direttori, CEO e responsabili innovazione di grandi aziende italiane oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "financial services",
+   "manufacturing",
+   "energy"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"financial services,manufacturing,energy,utilities,retail,health care,construction,government administration\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "slug": "colt-dcs",
+ "company": "Colt DCS",
+ "first_name": "Elizabeth",
+ "domain": "coltdatacentres.net",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Progetta, costruisce e gestisce data centre per hyperscaler globali e grandi aziende. Ecco chi contatteremmo per Colt DCS.",
+ "market_note": "Colt DCS progetta, costruisce e gestisce data centre per hyperscaler globali e grandi aziende, con soluzioni di colocation e connettività, quindi parleremmo con chi guida le infrastrutture digitali.",
+ "evidence": [
+  {
+   "claim": "Progetta, costruisce e gestisce data centre per hyperscaler globali e grandi aziende",
+   "url": "https://www.coltdatacentres.net/en-GB",
+   "quote": "Colt DCS designs, builds and operates data centres for global hyperscalers and large enterprises."
+  },
+  {
+   "claim": "Progetta, costruisce e gestisce data centre per hyperscaler globali e grandi aziende",
+   "url": "https://www.coltdatacentres.net/en-GB",
+   "quote": "Colt DCS designs, builds and operates data centres for global hyperscalers and large enterprises."
+  },
+  {
+   "claim": "Offre soluzioni di colocation",
+   "url": "https://www.coltdatacentres.net/en-GB/enterprise/colocation-solutions",
+   "quote": "We offer a wide range of colocation services"
+  },
+  {
+   "claim": "Offre soluzioni di connettività",
+   "url": "https://www.coltdatacentres.net/en-GB/enterprise/connectivity-solutions",
+   "quote": "Our connectivity is 100% carrier, cloud and IX neutral"
+  },
+  {
+   "claim": "Progetta, costruisce e gestisce data centre per hyperscaler globali e grandi aziende",
+   "url": "https://www.coltdatacentres.net/en-GB",
+   "quote": "Colt DCS designs, builds and operates data centres for global hyperscalers and large enterprises."
+  },
+  {
+   "claim": "Serve grandi aziende",
+   "url": "https://www.coltdatacentres.net/en-GB",
+   "quote": "Colt DCS designs, builds and operates data centres for global hyperscalers and large enterprises."
+  }
+ ],
+ "market": {
+  "count": "9.984",
+  "label": "CIO, CTO e responsabili IT di grandi aziende italiane oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "responsabili IT",
+   "grandi aziende"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

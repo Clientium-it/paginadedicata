@@ -1,0 +1,75 @@
+{
+ "slug": "audienceproject",
+ "company": "AudienceProject",
+ "first_name": "Alessandro",
+ "domain": "audienceproject.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma indipendente di misurazione delle audience per campagne su più canali. Ecco chi contatteremmo per AudienceProject.",
+ "market_note": "AudienceProject offre una piattaforma di misurazione delle audience ad advertiser, agenzie ed editori, quindi parleremmo con chi decide gli investimenti pubblicitari e il media mix.",
+ "evidence": [
+  {
+   "claim": "Piattaforma indipendente di misurazione delle audience",
+   "url": "https://audienceproject.com/",
+   "quote": "AudienceProject is an independent audience measurement platform"
+  },
+  {
+   "claim": "piattaforma indipendente di misurazione delle audience per le campagne multicanale",
+   "url": "https://audienceproject.com/",
+   "quote": "independent audience measurement platform with everything you need to create effective multichannel campaigns"
+  },
+  {
+   "claim": "offre la piattaforma ad advertiser, agenzie ed editori",
+   "url": "https://audienceproject.com/company/",
+   "quote": "a thriving ecosystem amongst publishers, agencies, and advertisers"
+  },
+  {
+   "claim": "clienti advertiser, agenzie ed editori",
+   "url": "https://audienceproject.com/company/",
+   "quote": "a thriving ecosystem amongst publishers, agencies, and advertisers"
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "direttori, CEO e titolari di aziende italiane strutturate con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "advertiser",
+   "agenzie ed editori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

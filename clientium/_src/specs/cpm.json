@@ -1,0 +1,86 @@
+{
+ "slug": "cpm",
+ "company": "CPM",
+ "first_name": "Luciano",
+ "domain": "cpm-int.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Agenzia internazionale di sales outsourcing e customer experience per i marchi. Ecco chi contatteremmo per CPM.",
+ "market_note": "CPM è un'agenzia internazionale di sales outsourcing e customer experience per marchi di largo consumo, tecnologia ed elettronica, quindi parleremmo con chi guida vendite e sviluppo commerciale.",
+ "evidence": [
+  {
+   "claim": "Agenzia internazionale di sales outsourcing e customer experience",
+   "url": "https://www.cpm-int.com/",
+   "quote": "CPM is an international sales outsourcing and customer experience agency"
+  },
+  {
+   "claim": "Agenzia internazionale di sales outsourcing e customer experience",
+   "url": "https://www.cpm-int.com/",
+   "quote": "CPM is an international sales outsourcing and customer experience agency"
+  },
+  {
+   "claim": "Serve marchi di largo consumo, tecnologia ed elettronica",
+   "url": "https://www.cpm-int.com/",
+   "quote": "FMCG/food and drink, technology, consumer electronics, healthcare and beauty, banking, luxury and more."
+  },
+  {
+   "claim": "Lavora con Samsung",
+   "url": "https://www.cpm-int.com/about-us/case-studies",
+   "quote": "We have a long-lasting relationship with Samsung"
+  },
+  {
+   "claim": "Lavora con Diageo",
+   "url": "https://www.cpm-int.com/about-us/case-studies",
+   "quote": "Our relationship with Diageo covers 4 markets"
+  },
+  {
+   "claim": "Lavora con PepsiCo",
+   "url": "https://www.cpm-int.com/about-us/case-studies",
+   "quote": "Our work with PepsiCo expands over 3 markets"
+  }
+ ],
+ "market": {
+  "count": "24.380",
+  "label": "titolari, CEO e direttori vendite di marchi e aziende strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "largo consumo",
+   "tecnologia",
+   "banking"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"fast-moving consumer goods,food and beverage,consumer electronics,banking,beauty,health care,retail luxury goods and jewelry,technology, information and internet\"}"
+ }
+}

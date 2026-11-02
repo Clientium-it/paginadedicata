@@ -1,0 +1,69 @@
+{
+ "slug": "fmts-group",
+ "company": "FMTS Group",
+ "first_name": "Andrea",
+ "domain": "fmtsgroup.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Un network di imprese per formazione, consulenza e sviluppo digitale. Ecco chi contatteremmo per FMTS Group.",
+ "market_note": "FMTS Group è un network di imprese che opera nella formazione, nella consulenza e nello sviluppo digitale, quindi parleremmo con chi guida formazione, consulenza e innovazione nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "network di imprese che opera in formazione, consulenza e sviluppo digitale",
+   "url": "https://www.fmtsgroup.it/",
+   "quote": "Siamo un network di imprese che opera nel campo della formazione, dei servizi per il lavoro e per la PA, della mobilità transnazionale, della consulenza e dello sviluppo digitale."
+  },
+  {
+   "claim": "opera nella formazione, nella consulenza e nello sviluppo digitale",
+   "url": "https://www.fmtsgroup.it/",
+   "quote": "Siamo un network di imprese che opera nel campo della formazione, dei servizi per il lavoro e per la PA, della mobilità transnazionale, della consulenza e dello sviluppo digitale."
+  },
+  {
+   "claim": "formazione, consulenza e sviluppo digitale come network di imprese",
+   "url": "https://www.fmtsgroup.it/",
+   "quote": "Siamo un network di imprese che opera nel campo della formazione, dei servizi per il lavoro e per la PA, della mobilità transnazionale, della consulenza e dello sviluppo digitale."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "adiacent",
+ "company": "Adiacent",
+ "first_name": "Paola",
+ "domain": "adiacent.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza strategica che affianca le aziende nella realizzazione di soluzioni tecnologiche innovative. Ecco chi contatteremmo per Adiacent.",
+ "market_note": "Adiacent è una società di consulenza strategica che affianca le aziende nella realizzazione di soluzioni tecnologiche innovative, quindi parleremmo con chi guida innovazione e strategia digitale in azienda.",
+ "evidence": [
+  {
+   "claim": "Consulenza strategica che affianca le aziende nella realizzazione di soluzioni tecnologiche innovative",
+   "url": "https://www.adiacent.com/",
+   "quote": "società di consulenza strategica che affianca le aziende nella progettazione e nella realizzazione di soluzioni tecnologiche innovative"
+  },
+  {
+   "claim": "Società di consulenza strategica che affianca le aziende nella realizzazione di soluzioni tecnologiche innovative",
+   "url": "https://www.adiacent.com/",
+   "quote": "società di consulenza strategica che affianca le aziende nella progettazione e nella realizzazione di soluzioni tecnologiche innovative"
+  },
+  {
+   "claim": "Affiancano le aziende nella realizzazione di soluzioni tecnologiche innovative integrando intelligenza artificiale e creatività",
+   "url": "https://www.adiacent.com/",
+   "quote": "affianca le aziende nella progettazione e nella realizzazione di soluzioni tecnologiche innovative, integrando intelligenza artificiale e creatività"
+  },
+  {
+   "claim": "Presenza su tutto il territorio italiano con nove sedi",
+   "url": "https://www.adiacent.com/about/",
+   "quote": "9 sedi in Italia e 3 sedi all’estero"
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

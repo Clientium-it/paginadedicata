@@ -1,0 +1,76 @@
+{
+ "slug": "vivaticket",
+ "company": "Vivaticket",
+ "first_name": "Davide",
+ "domain": "corporate.vivaticket.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Sistemi e servizi integrati per la gestione di eventi e venue. Ecco chi contatteremmo per Vivaticket.",
+ "market_note": "Vivaticket fornisce sistemi e servizi di ticketing a gestori di venue e organizzatori di eventi, quindi parleremmo con chi decide su biglietteria e controllo accessi.",
+ "evidence": [
+  {
+   "claim": "sistemi e servizi integrati per la gestione di eventi e venue",
+   "url": "https://corporate.vivaticket.com/",
+   "quote": "Vivaticket offers a package of integrated systems and services which are essential for the management of your events and venues"
+  },
+  {
+   "claim": "partner di gestori di venue e organizzatori di eventi con soluzioni tecnologiche e servizi",
+   "url": "https://corporate.vivaticket.com/about/",
+   "quote": "being the strategic partner of every venue manager or event organizer, providing both technological solutions and services"
+  },
+  {
+   "claim": "sistemi e servizi integrati per la gestione di eventi e venue",
+   "url": "https://corporate.vivaticket.com/",
+   "quote": "integrated systems and services which are essential for the management of your events and venues"
+  },
+  {
+   "claim": "serve organizzatori di eventi sportivi, spettacoli dal vivo, fiere, parchi e teatri",
+   "url": "https://corporate.vivaticket.com/about/",
+   "quote": "the main organisers of sporting events, live shows, trade fair bodies, theme parks, theatres and cultural events"
+  }
+ ],
+ "market": {
+  "count": "2.741",
+  "label": "direttori, CEO e titolari di venue e organizzatori di eventi nei settori sport, cultura, spettacolo e fiere",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "sport e cultura",
+   "spettacolo dal vivo",
+   "fiere ed expo"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"events services,entertainment providers,spectator sports,performing arts,trade shows,amusement park and arcade\"}"
+ }
+}

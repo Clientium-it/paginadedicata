@@ -1,0 +1,74 @@
+{
+ "slug": "chaberton-professionals",
+ "company": "Chaberton Professionals",
+ "first_name": "Davide",
+ "domain": "chabertonpartners.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Ricerca e selezione di middle e senior management con un approccio consulenziale. Ecco chi contatteremmo per Chaberton Professionals.",
+ "market_note": "Chaberton Professionals ricerca middle e senior management per aziende che vanno dalle piccole realtà in crescita alle multinazionali, quindi parleremmo con chi decide su crescita e organizzazione dei team.",
+ "evidence": [
+  {
+   "claim": "ricerca di middle e senior management",
+   "url": "https://chabertonpartners.com/en",
+   "quote": "Middle and Senior management Search"
+  },
+  {
+   "claim": "approccio consulenziale per la ricerca di manager",
+   "url": "https://chabertonpartners.com/en",
+   "quote": "offers a unique consultative approach, combining executive search methodologies"
+  },
+  {
+   "claim": "serve dalle piccole aziende alle multinazionali",
+   "url": "https://chabertonpartners.com/en/about-us/who-we-are",
+   "quote": "From small companies seeking growth to multinational corporations"
+  },
+  {
+   "claim": "clienti aziende che apprezzano approccio e specializzazione",
+   "url": "https://chabertonpartners.com/en/about-us/who-we-are",
+   "quote": "our clients value our consultative approach, deep specialisation, and expertise"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori HR di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "direzione e HR"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

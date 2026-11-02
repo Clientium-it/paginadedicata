@@ -1,0 +1,77 @@
+{
+ "slug": "dba-group",
+ "company": "DBA Group",
+ "first_name": "Angelo",
+ "domain": "dbagroup.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Consulenza, Architettura, Ingegneria, Project Management e soluzioni ICT per opere e infrastrutture. Ecco chi contatteremmo per DBA Group.",
+ "market_note": "DBA Group è una holding indipendente specializzata in Consulenza, Architettura, Ingegneria, Project Management e soluzioni ICT per opere e infrastrutture, quindi parleremmo con chi decide su progetti e investimenti industriali.",
+ "evidence": [
+  {
+   "claim": "Offre servizi di Consulenza, Architettura, Ingegneria, Project Management e ICT",
+   "url": "https://www.dbagroup.it/",
+   "quote": "servizi di Consulenza, Architettura, Ingegneria, Project Management e soluzioni ICT"
+  },
+  {
+   "claim": "È una holding indipendente specializzata in questi servizi",
+   "url": "https://www.dbagroup.it/",
+   "quote": "DBA Group è una holding indipendente specializzata"
+  },
+  {
+   "claim": "Segue il ciclo di vita dei data center",
+   "url": "https://www.dbagroup.it/",
+   "quote": "la gestione del ciclo di vita dei data center"
+  },
+  {
+   "claim": "Serve settori come Real Estate, Healthcare e Industrial",
+   "url": "https://www.dbagroup.it/who-we-are/profilo-aziendale/la-storia",
+   "quote": "grandi player del settore Real Estate e ingresso nei mercati Healthcare e Industrial"
+  }
+ ],
+ "market": {
+  "count": "23.963",
+  "label": "titolari, CEO e direttori di aziende strutturate italiane in real estate, data center, energia e industria",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "real estate",
+   "data center",
+   "energia",
+   "industria"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"real estate,data center,energy,telecommunications,pharmaceutical,transportation, logistics, supply chain and storage,health care,industrial manufacturing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

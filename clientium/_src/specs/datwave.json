@@ -1,0 +1,79 @@
+{
+ "slug": "datwave",
+ "company": "Datwave",
+ "first_name": "Ambra",
+ "domain": "datwave.ai",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni di AI, dati e cloud su tecnologia Google Cloud. Ecco chi contatteremmo per Datwave.",
+ "market_note": "Datwave progetta soluzioni di AI, dati, cloud e MarTech su tecnologia Google Cloud per le imprese, quindi parleremmo con chi decide su intelligenza artificiale, dati e migrazione al cloud.",
+ "evidence": [
+  {
+   "claim": "Lavora su AI, dati, cloud e MarTech con tecnologia Google Cloud",
+   "url": "https://datwave.ai/",
+   "quote": "AI, Data, MarTech and Google Cloud Technology."
+  },
+  {
+   "claim": "Progetta innovazione di business con AI, dati, MarTech e Google Cloud",
+   "url": "https://datwave.ai/",
+   "quote": "We design and build the next wave of your business innovation with the full potential of AI, Data, MarTech and Google Cloud Technology."
+  },
+  {
+   "claim": "Serve le imprese clienti",
+   "url": "https://datwave.ai/",
+   "quote": "for our clients' enterprises."
+  },
+  {
+   "claim": "Sfrutta AI, dati, MarTech e Google Cloud per le imprese",
+   "url": "https://datwave.ai/",
+   "quote": "with the full potential of AI, Data, MarTech and Google Cloud Technology."
+  },
+  {
+   "claim": "Premier Google Cloud Partner che vende tecnologia AI e cloud",
+   "url": "https://datwave.ai/",
+   "quote": "we are proud Premier Google Cloud Partner"
+  }
+ ],
+ "market": {
+  "count": "7.840",
+  "label": "responsabili IT, CIO e CTO di imprese strutturate italiane oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "AI, dati e cloud"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

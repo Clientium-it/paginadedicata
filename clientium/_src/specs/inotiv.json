@@ -1,0 +1,75 @@
+{
+ "slug": "inotiv",
+ "company": "Inotiv",
+ "first_name": "Massimiliano",
+ "domain": "envigo.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Servizi non clinici e analitici dalla scoperta allo sviluppo clinico dei farmaci. Ecco chi contatteremmo per Inotiv.",
+ "market_note": "Inotiv offre modelli di ricerca e servizi non clinici alle aziende farmaceutiche e biotech, quindi parleremmo con chi decide su ricerca preclinica e sviluppo dei farmaci.",
+ "evidence": [
+  {
+   "claim": "Offre servizi non clinici e analitici dalla scoperta allo sviluppo clinico",
+   "url": "https://www.inotiv.com/",
+   "quote": "Inotiv delivers a broad array of nonclinical and analytical services from discovery through clinical development."
+  },
+  {
+   "claim": "Vende modelli di ricerca e servizi correlati ad aziende farmaceutiche e biotech",
+   "url": "https://www.inotiv.com/",
+   "quote": "the broadest range of research models and related services to pharmaceutical and biotech companies"
+  },
+  {
+   "claim": "Fornisce modelli di ricerca e servizi correlati ad aziende farmaceutiche e biotech",
+   "url": "https://www.inotiv.com/",
+   "quote": "the broadest range of research models and related services to pharmaceutical and biotech companies"
+  },
+  {
+   "claim": "I clienti sono aziende farmaceutiche e biotech",
+   "url": "https://www.inotiv.com/",
+   "quote": "research models and related services to pharmaceutical and biotech companies"
+  }
+ ],
+ "market": {
+  "count": "4.827",
+  "label": "titolari, CEO e direttori di aziende farmaceutiche e biotech italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "farmaceutico",
+   "biotech"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"pharmaceutical,biotechnology\"}"
+ }
+}

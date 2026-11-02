@@ -1,0 +1,82 @@
+{
+ "slug": "nativa",
+ "company": "NATIVA",
+ "first_name": "Riccardo",
+ "domain": "nativalab.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Strategie e trasformazioni ESG, green building, comunicazione e formazione sulla sostenibilità. Ecco chi contatteremmo per NATIVA.",
+ "market_note": "NATIVA affianca le aziende nei percorsi di sostenibilità, dalla strategia ESG alla formazione fino al green building, quindi parleremmo con founder, CEO e responsabili che decidono sugli investimenti in sostenibilità.",
+ "evidence": [
+  {
+   "claim": "Nativa si occupa di green building, comunicazione e formazione sulla sostenibilità",
+   "url": "https://nativalab.com/",
+   "quote": "green building, comunicazione e formazione sulla sostenibilità"
+  },
+  {
+   "claim": "Nativa offre consulenza dalla strategia ESG alla formazione fino al green building",
+   "url": "https://nativalab.com/",
+   "quote": "dalla strategia ESG alla formazione, dalla comunicazione fino al green building"
+  },
+  {
+   "claim": "Nativa affianca founder, C-level e responsabili di sostenibilità",
+   "url": "https://nativalab.com/",
+   "quote": "NATIVA affianca founder, C-level e responsabili di sostenibilità in questo percorso di evoluzione aziendale"
+  },
+  {
+   "claim": "Nativa accompagna le aziende dalla strategia ESG fino al green building",
+   "url": "https://nativalab.com/",
+   "quote": "dalla strategia ESG alla formazione, dalla comunicazione fino al green building"
+  },
+  {
+   "claim": "Nativa serve clienti in agroalimentare, finanza, manifattura, moda, salute, sport ed eventi",
+   "url": "https://nativalab.com/i-nostri-clienti",
+   "quote": "Agroalimentare Finanza Manifattura e beni di consumo Moda Salute e cura della persona Sport ed eventi"
+  }
+ ],
+ "market": {
+  "count": "42.320",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 50 addetti nei settori agroalimentare, finanza, manifattura, moda e sport",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "agroalimentare",
+   "finanza",
+   "manifattura",
+   "moda"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"food and beverage,financial services,manufacturing,consumer goods,fashion,sports\"}"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "dxc-technology",
+ "company": "DXC Technology",
+ "first_name": "Bianca",
+ "domain": "dxc.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Partner di tecnologia e innovazione per grandi aziende e settore pubblico. Ecco chi contatteremmo per DXC Technology.",
+ "market_note": "DXC Technology fornisce software, servizi e soluzioni a grandi aziende e organizzazioni del settore pubblico, quindi parleremmo con chi guida le scelte tecnologiche e i sistemi critici dell'azienda.",
+ "evidence": [
+  {
+   "claim": "Partner di tecnologia e innovazione per grandi aziende e settore pubblico",
+   "url": "https://dxc.com/about-us",
+   "quote": "DXC is an enterprise technology and innovation partner that helps global enterprises and public sector organizations"
+  },
+  {
+   "claim": "Fornisce software, servizi e soluzioni a grandi aziende e settore pubblico",
+   "url": "https://dxc.com/contact-dxc",
+   "quote": "delivering software, services, and solutions to global enterprises and public sector organizations"
+  },
+  {
+   "claim": "Fornisce software, servizi e soluzioni a grandi aziende e settore pubblico",
+   "url": "https://dxc.com/contact-dxc",
+   "quote": "delivering software, services, and solutions to global enterprises and public sector organizations"
+  },
+  {
+   "claim": "Partner tecnologico di aziende in molti settori chiave",
+   "url": "https://dxc.com/industries",
+   "quote": "We are the trusted technology partner to companies across key industries"
+  }
+ ],
+ "market": {
+  "count": "4.274",
+  "label": "responsabili IT, CIO e CTO di grandi aziende e organizzazioni del settore pubblico oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "financial services",
+   "manufacturing",
+   "settore pubblico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"financial services,insurance,banking,manufacturing,automotive,aerospace,health care,life science,mining,travel,transportation,utilities,telecommunications\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

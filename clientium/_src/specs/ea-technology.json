@@ -1,0 +1,101 @@
+{
+ "slug": "ea-technology",
+ "company": "EA Technology",
+ "first_name": "Zhao",
+ "domain": "eatechnology.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Strumenti diagnostici, software e consulenza per reti elettriche più sicure. Ecco chi contatteremmo per EA Technology.",
+ "market_note": "EA Technology fornisce strumenti diagnostici, software e consulenza per la gestione degli asset a operatori di rete e aziende elettriche, quindi parleremmo con chi decide su reti e manutenzione.",
+ "evidence": [
+  {
+   "claim": "strumenti diagnostici, formazione, servizi tecnici e consulenza",
+   "url": "https://eatechnology.com/",
+   "quote": "award-winning diagnostic instruments, skills training, technical services and expert consultancy"
+  },
+  {
+   "claim": "offrono software per la gestione degli asset",
+   "url": "https://eatechnology.com/services/",
+   "quote": "Our software helps our customers to manage their assets"
+  },
+  {
+   "claim": "reti più sicure",
+   "url": "https://eatechnology.com/",
+   "quote": "Smarter, stronger, safer networks"
+  },
+  {
+   "claim": "vendono ad aziende di generazione, trasmissione e distribuzione elettrica",
+   "url": "https://eatechnology.com/services/",
+   "quote": "electricity generation, transmission and distribution companies manage their assets"
+  },
+  {
+   "claim": "consulenza e software di asset management",
+   "url": "https://eatechnology.com/services/asset-management/",
+   "quote": "strategic asset management advice and asset management software"
+  },
+  {
+   "claim": "aiutano le aziende elettriche a gestire i loro asset",
+   "url": "https://eatechnology.com/services/",
+   "quote": "electricity generation, transmission and distribution companies manage their assets"
+  },
+  {
+   "claim": "aiutano a prioritizzare e ottimizzare gli investimenti sugli asset",
+   "url": "https://eatechnology.com/services/asset-management/",
+   "quote": "prioritise and optimise asset investments"
+  },
+  {
+   "claim": "servono i settori energia, utilities e infrastrutture",
+   "url": "https://eatechnology.com/",
+   "quote": "across the energy, utilities, infrastructure and associated sectors"
+  },
+  {
+   "claim": "soluzioni per le rinnovabili e l'energia",
+   "url": "https://eatechnology.com/",
+   "quote": "Solutions for Renewables & Energy"
+  }
+ ],
+ "market": {
+  "count": "4.974",
+  "label": "direttori, CEO e responsabili di aziende elettriche e utilities in Italia con oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "utilities",
+   "energia",
+   "rinnovabili"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"utilities,energy,renewable energy\"}"
+ }
+}

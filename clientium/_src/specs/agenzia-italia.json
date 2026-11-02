@@ -1,0 +1,76 @@
+{
+ "slug": "agenzia-italia",
+ "company": "Agenzia Italia",
+ "first_name": "Alessio",
+ "domain": "agita.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Business Process Outsourcing per l'automotive e il finance. Ecco chi contatteremmo per Agenzia Italia.",
+ "market_note": "Agenzia Italia gestisce servizi di Business Process Outsourcing nelle industry automotive e finance per società di leasing, noleggio e case costruttrici, quindi parleremmo con chi guida queste realtà.",
+ "evidence": [
+  {
+   "claim": "Fa Business Process Outsourcing nelle industry automotive e finance",
+   "url": "https://www.agita.it/it/chi-siamo/agenzia-italia",
+   "quote": "leader nazionali nella gestione di servizi di Business Process Outsourcing (BPO) nelle industry automotive e finance"
+  },
+  {
+   "claim": "Leader nazionale nel BPO per automotive e finance, sede a Conegliano",
+   "url": "https://www.agita.it/it/chi-siamo/agenzia-italia",
+   "quote": "leader nazionali nella gestione di servizi di Business Process Outsourcing (BPO) nelle industry automotive e finance"
+  },
+  {
+   "claim": "Serve società di leasing, noleggio, finanziarie, banche e case costruttrici",
+   "url": "https://www.agita.it/it/chi-siamo/agenzia-italia",
+   "quote": "dalle società di leasing e istituti bancari, alle società di noleggio e finanziarie, fino alle case costruttrici (OEM) e ai concessionari"
+  },
+  {
+   "claim": "Settori clienti automotive e finance",
+   "url": "https://www.agita.it/it/chi-siamo/agenzia-italia",
+   "quote": "leader nazionali nella gestione di servizi di Business Process Outsourcing (BPO) nelle industry automotive e finance"
+  }
+ ],
+ "market": {
+  "count": "15.780",
+  "label": "direttori, titolari e amministratori di società di leasing, banche, noleggio e case costruttrici in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "automotive",
+   "finance",
+   "leasing"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"automotive,financial services,banking,leasing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

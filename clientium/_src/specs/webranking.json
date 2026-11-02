@@ -1,0 +1,84 @@
+{
+ "slug": "webranking",
+ "company": "Webranking",
+ "first_name": "Nereo",
+ "domain": "webranking.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "La più grande agenzia digitale italiana tra strategia, media e tecnologia. Ecco chi contatteremmo per Webranking.",
+ "market_note": "Webranking affianca le aziende sui mercati di tutto il mondo con strategia, media e tecnologia digitale, quindi parleremmo con chi decide su marketing e comunicazione nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "È la più grande agenzia digitale italiana",
+   "url": "https://webranking.it/",
+   "quote": "la più grande agenzia digitale italiana"
+  },
+  {
+   "claim": "Affianca le aziende sui mercati di tutto il mondo",
+   "url": "https://webranking.it/chi-siamo/",
+   "quote": "Affianchiamo le aziende sui mercati di tutto il mondo"
+  },
+  {
+   "claim": "Offre strategia, media e tecnologia per i brand",
+   "url": "https://webranking.it/servizi/",
+   "quote": "Connettiamo visione e realizzazione attraverso tecnologia e consulenza"
+  },
+  {
+   "claim": "Affianca le aziende sui mercati di tutto il mondo",
+   "url": "https://webranking.it/chi-siamo/",
+   "quote": "Affianchiamo le aziende sui mercati di tutto il mondo"
+  },
+  {
+   "claim": "È la più grande agenzia digitale italiana",
+   "url": "https://webranking.it/chi-siamo/",
+   "quote": "Siamo la più grande agenzia digitale italiana"
+  },
+  {
+   "claim": "Serve aziende sui mercati di tutto il mondo",
+   "url": "https://webranking.it/chi-siamo/",
+   "quote": "Affianchiamo le aziende sui mercati di tutto il mondo"
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "direttori marketing, CEO e titolari di aziende italiane strutturate oltre cento addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "marketing e pubblicità"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

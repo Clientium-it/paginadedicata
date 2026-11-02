@@ -1,0 +1,74 @@
+{
+ "slug": "armando-testa",
+ "company": "Armando Testa",
+ "first_name": "Valentino",
+ "domain": "armandotesta.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Il più grande gruppo italiano di comunicazione che fa innamorare delle marche. Ecco chi contatteremmo per Armando Testa.",
+ "market_note": "Armando Testa crea piattaforme di comunicazione integrate e misurabili per le marche, quindi parleremmo con chi decide su marketing e comunicazione in azienda.",
+ "evidence": [
+  {
+   "claim": "Il più grande gruppo italiano di comunicazione che fa innamorare delle marche",
+   "url": "https://www.armandotesta.it/",
+   "quote": "Armando Testa is the biggest Italian Communication Group that makes people fall in love with brands."
+  },
+  {
+   "claim": "Crea piattaforme di comunicazione integrate e misurabili per i clienti",
+   "url": "https://www.armandotesta.it/",
+   "quote": "to create integrated and measurable communication platforms, working together with our clients"
+  },
+  {
+   "claim": "Fanno innamorare delle marche come gruppo italiano di comunicazione",
+   "url": "https://www.armandotesta.it/",
+   "quote": "the biggest Italian Communication Group that makes people fall in love with brands"
+  },
+  {
+   "claim": "Gruppo italiano di comunicazione per le marche",
+   "url": "https://www.armandotesta.it/",
+   "quote": "biggest Italian Communication Group that makes people fall in love with brands"
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "direttori marketing, CEO e titolari di aziende e marche italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "marche e aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

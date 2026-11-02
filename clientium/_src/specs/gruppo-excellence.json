@@ -1,0 +1,75 @@
+{
+ "slug": "gruppo-excellence",
+ "company": "Gruppo Excellence",
+ "first_name": "Giammaria",
+ "domain": "gruppoexcellence.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Partner strategico che guida l'innovazione dei modelli di business nei servizi finanziari. Ecco chi contatteremmo per Gruppo Excellence.",
+ "market_note": "Gruppo Excellence supporta l'Alta Direzione di istituzioni finanziarie, fondi di investimento e aziende con consulenza strategica, pagamenti e risk management, quindi parleremmo con chi guida banche e assicurazioni.",
+ "evidence": [
+  {
+   "claim": "Guida l'innovazione dei modelli di business nei servizi finanziari",
+   "url": "https://gruppoexcellence.com/",
+   "quote": "guida l’innovazione dei modelli di business nei servizi finanziari"
+  },
+  {
+   "claim": "Supporta Alta Direzione di istituzioni finanziarie, fondi e aziende",
+   "url": "https://gruppoexcellence.com/about-us",
+   "quote": "supporta l’ Alta Direzione di istituzioni finanziarie, fondi di investimento e aziende"
+  },
+  {
+   "claim": "Integra AI e data analytics nei servizi finanziari",
+   "url": "https://gruppoexcellence.com/",
+   "quote": "integrando AI , Data Analytics e tecnologie avanzate"
+  },
+  {
+   "claim": "Opera nel Marketing e Sales assicurativo e bancario",
+   "url": "https://gruppoexcellence.com/marketing-e-prodotti",
+   "quote": "aree più critiche del Marketing&Sales assicurativo e bancario"
+  }
+ ],
+ "market": {
+  "count": "15.373",
+  "label": "titolari, CEO e direttori di banche, assicurazioni e istituzioni finanziarie in Italia oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "banche e assicurazioni",
+   "istituzioni finanziarie"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"banking,financial services,insurance\"}"
+ }
+}

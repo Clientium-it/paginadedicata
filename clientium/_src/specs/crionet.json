@@ -1,0 +1,80 @@
+{
+ "slug": "crionet",
+ "company": "Crionet",
+ "first_name": "Clemente",
+ "domain": "crionet.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Ecosistemi digitali integrati per lo sport, dai dati live alla produzione broadcast. Ecco chi contatteremmo per Crionet.",
+ "market_note": "Crionet sviluppa ecosistemi digitali per lo sport e supporta federazioni, associazioni, agenzie e club sportivi, quindi parleremmo con chi decide su dati, broadcast e piattaforme per gli eventi.",
+ "evidence": [
+  {
+   "claim": "Crionet sviluppa ecosistemi digitali integrati per lo sport",
+   "url": "https://www.crionet.com/",
+   "quote": "Crionet develops integrated digital ecosystems that connect athletes, venues, organizers and fans"
+  },
+  {
+   "claim": "Supporta le federazioni con piattaforme digitali",
+   "url": "https://www.crionet.com/",
+   "quote": "Federations are supported with digital platforms to manage competitions, data, media, and operations."
+  },
+  {
+   "claim": "Serve federazioni, associazioni, agenzie e club sportivi",
+   "url": "https://www.crionet.com/",
+   "quote": "Federations Associations Media & Sport Agencies Sports Clubs & Academies"
+  },
+  {
+   "claim": "Ha curato la show production delle Davis Cup Finals 2025",
+   "url": "https://www.crionet.com/",
+   "quote": "Crionet contributes to the Show Production of the Davis Cup Finals 2025"
+  },
+  {
+   "claim": "I clienti sono federazioni, agenzie e club sportivi",
+   "url": "https://www.crionet.com/",
+   "quote": "Federations Associations Media & Sport Agencies Sports Clubs & Academies"
+  }
+ ],
+ "market": {
+  "count": "1.969",
+  "label": "direttori e responsabili di federazioni, club e organizzazioni sportive strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "sport e federazioni",
+   "club sportivi"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"spectator sports,sports leagues and teams,sports\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

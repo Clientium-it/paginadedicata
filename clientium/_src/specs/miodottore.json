@@ -1,0 +1,85 @@
+{
+ "slug": "miodottore",
+ "company": "MioDottore",
+ "first_name": "Eugenio",
+ "domain": "pro.miodottore.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Aiuta i pazienti a trovare e prenotare medici su una piattaforma leader nel settore sanitario. Ecco chi contatteremmo per MioDottore.",
+ "market_note": "MioDottore è la piattaforma leader in Italia dedicata alla sanità privata e pubblica per professionisti e centri medici, quindi parleremmo con chi dirige centri medici, poliambulatori e strutture sanitarie.",
+ "evidence": [
+  {
+   "claim": "Aiuta i pazienti a trovare e prenotare medici",
+   "url": "https://pro.miodottore.it/",
+   "quote": "Aiuta i pazienti a trovarti e a prenotare facilmente su un portale affidabile"
+  },
+  {
+   "claim": "piattaforma leader nel settore sanitario",
+   "url": "https://pro.miodottore.it/",
+   "quote": "la piattaforma leader nel settore sanitario"
+  },
+  {
+   "claim": "piattaforma leader in Italia per la sanità privata e pubblica",
+   "url": "https://pro.miodottore.it/chi-siamo-cosa-facciamo",
+   "quote": "MioDottore è la piattaforma leader in Italia dedicata alla sanità privata e pubblica"
+  },
+  {
+   "claim": "serve specialisti, medici di base, centri medici e ospedali",
+   "url": "https://pro.miodottore.it/chi-siamo-cosa-facciamo",
+   "quote": "La nostra piattaforma aiuta i pazienti a connettersi con medici specialisti, medici di medicina generale, centri medici e ospedali"
+  },
+  {
+   "claim": "collaborano con oltre 65.000 professionisti della salute in tutta Italia",
+   "url": "https://pro.miodottore.it/",
+   "quote": "Collaboriamo con oltre 65.000 professionisti della salute in tutta Italia"
+  },
+  {
+   "claim": "clienti sono centri medici, studi dentistici e ospedali",
+   "url": "https://pro.miodottore.it/chi-siamo-cosa-facciamo",
+   "quote": "La nostra piattaforma aiuta i pazienti a connettersi con medici specialisti, medici di medicina generale, centri medici e ospedali"
+  }
+ ],
+ "market": {
+  "count": "2.514",
+  "label": "direttori, titolari e CEO di centri medici e strutture sanitarie italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "centri medici e cliniche",
+   "sanità privata e pubblica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"hospitals and health care,medical practices,dental\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

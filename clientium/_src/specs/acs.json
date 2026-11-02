@@ -1,0 +1,63 @@
+{
+ "slug": "acs",
+ "company": "ACS",
+ "first_name": "Martin",
+ "domain": "acs.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "IT Service Provider leader nel Triveneto per cybersecurity, infrastruttura cloud e lavoro moderno. Ecco chi contatteremmo per ACS.",
+ "market_note": "ACS è l'IT Service Provider leader nel Triveneto e protegge rete e dati delle aziende con cybersecurity gestita, quindi parleremmo con chi decide sull'IT e la sicurezza.",
+ "evidence": [
+  {
+   "claim": "ACS è IT Service Provider leader nel Triveneto",
+   "url": "https://www.acs.it/it/",
+   "quote": "Siamo l’ IT Service Provider leader nel Triveneto"
+  },
+  {
+   "claim": "gestisce infrastruttura e dati delle aziende",
+   "url": "https://www.acs.it/it/",
+   "quote": "Gestisci infrastruttura, dati e processi della tua azienda"
+  },
+  {
+   "claim": "protegge rete e dati dalle minacce",
+   "url": "https://www.acs.it/it/",
+   "quote": "Proteggi la tua rete e i tuoi dati dalle minacce"
+  },
+  {
+   "claim": "oltre 3.000 clienti in Triveneto",
+   "url": "https://www.acs.it/it/",
+   "quote": "La fiducia di oltre 3.000 clienti in Triveneto"
+  },
+  {
+   "claim": "opera nel Triveneto",
+   "url": "https://www.acs.it/it/",
+   "quote": "La fiducia di oltre 3.000 clienti in Triveneto"
+  }
+ ],
+ "market": {
+  "count": "351",
+  "label": "responsabili IT, CIO e CTO di aziende del Triveneto da 20 a 250 addetti",
+  "chips": [
+   "Veneto",
+   "Trentino-Alto Adige",
+   "Friuli Venezia Giulia",
+   "20-250 addetti"
+  ],
+  "regions": [
+   "Veneto",
+   "Trentino-Alto Adige",
+   "Friuli Venezia Giulia"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Veneto,Trentino-South Tyrol,Friuli–Venezia Giulia\", \"minEmployees\": 20, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

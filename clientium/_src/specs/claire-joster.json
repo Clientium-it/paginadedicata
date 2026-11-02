@@ -1,0 +1,74 @@
+{
+ "slug": "claire-joster",
+ "company": "Claire Joster",
+ "first_name": "Elisabetta",
+ "domain": "clairejoster.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Selezionano i professionisti che guideranno le aziende e promuovono nuovi stili di leadership. Ecco chi contatteremmo per Claire Joster.",
+ "market_note": "Claire Joster seleziona professionisti e leader per le aziende a livello nazionale e internazionale, quindi parleremmo con chi decide su ricerca e selezione del personale.",
+ "evidence": [
+  {
+   "claim": "Selezionano i professionisti che guideranno le aziende e promuovono nuovi stili di leadership",
+   "url": "https://www.clairejoster.com/it/it/",
+   "quote": "Selezioniamo i professionisti che guideranno la tua azienda e promuoviamo nuovi stili di leadership adatti al presente"
+  },
+  {
+   "claim": "Operano a livello nazionale e internazionale per le aziende",
+   "url": "https://www.clairejoster.com/it/it/",
+   "quote": "Siamo presenti a livello nazionale e internazionale per trovare i leader che porteranno avanti la tua azienda."
+  },
+  {
+   "claim": "Selezionano i professionisti che guideranno le aziende con nuovi stili di leadership",
+   "url": "https://www.clairejoster.com/it/it/",
+   "quote": "Selezioniamo i professionisti che guideranno la tua azienda e promuoviamo nuovi stili di leadership adatti al presente"
+  },
+  {
+   "claim": "Aziende servite a livello nazionale e internazionale",
+   "url": "https://www.clairejoster.com/it/it/",
+   "quote": "Siamo presenti a livello nazionale e internazionale per trovare i leader che porteranno avanti la tua azienda."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

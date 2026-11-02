@@ -1,0 +1,75 @@
+{
+ "slug": "adtraction",
+ "company": "Adtraction",
+ "first_name": "Laura",
+ "domain": "adtraction.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Collegano i brand con partner che generano vendite pagati solo a risultato. Ecco chi contatteremmo per Adtraction.",
+ "market_note": "Adtraction è una piattaforma di marketing che aiuta i brand in Europa ad aumentare le vendite a un costo prevedibile, quindi parleremmo con chi guida marketing ed e-commerce.",
+ "evidence": [
+  {
+   "claim": "Collega i brand con partner che generano vendite, pagati solo a risultato",
+   "url": "https://adtraction.com/",
+   "quote": "We connect you with partners who drive sales and only get paid when you get a sale."
+  },
+  {
+   "claim": "Piattaforma di marketing che aiuta i brand in Europa ad aumentare le vendite a costo prevedibile",
+   "url": "https://adtraction.com/about/",
+   "quote": "Adtraction is a leading marketing platform that helps brands across Europe increase their sales at a predictable cost."
+  },
+  {
+   "claim": "Collega i brand con partner che generano vendite, pagati solo quando arriva una vendita",
+   "url": "https://adtraction.com/",
+   "quote": "We connect you with partners who drive sales and only get paid when you get a sale."
+  },
+  {
+   "claim": "Clienti nei settori finance ed e-commerce",
+   "url": "https://adtraction.com/about/",
+   "quote": "we have seen strong growth in both the finance and e-commerce verticals"
+  }
+ ],
+ "market": {
+  "count": "9.335",
+  "label": "titolari, CEO e direttori di aziende italiane con vendite online da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "e-commerce",
+   "finance"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"e-commerce,finance\"}"
+ }
+}

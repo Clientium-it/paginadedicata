@@ -1,0 +1,74 @@
+{
+ "slug": "sorint-lab",
+ "company": "SORINT.lab",
+ "first_name": "Luca",
+ "domain": "sorint.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "System Integrator, DevOps e Consulenza IT per le IT Operations delle organizzazioni. Ecco chi contatteremmo per SORINT.lab.",
+ "market_note": "SORINT.lab è il partner di fiducia di oltre 100 organizzazioni in Europa, Stati Uniti e Africa, quindi parleremmo con chi decide su infrastruttura, cloud e sicurezza IT.",
+ "evidence": [
+  {
+   "claim": "System Integrator, DevOps e Consulenza IT",
+   "url": "https://sorint.com/",
+   "quote": "System Integrator, DevOps e Consulenza IT"
+  },
+  {
+   "claim": "partner di oltre 100 organizzazioni in Europa, Stati Uniti e Africa",
+   "url": "https://sorint.com/",
+   "quote": "partner di fiducia di oltre 100 organizzazioni di rilievo in Europa, negli Stati Uniti e in Africa"
+  },
+  {
+   "claim": "partner di oltre 100 organizzazioni in Europa, Stati Uniti e Africa",
+   "url": "https://sorint.com/",
+   "quote": "partner di fiducia di oltre 100 organizzazioni di rilievo in Europa, negli Stati Uniti e in Africa"
+  },
+  {
+   "claim": "vende servizi e consulenza IT alle organizzazioni",
+   "url": "https://sorint.com/",
+   "quote": "un approccio strategico all’outsourcing dinamico delle attività IT"
+  }
+ ],
+ "market": {
+  "count": "7.840",
+  "label": "CIO, CTO e responsabili IT di aziende strutturate oltre i 100 addetti in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

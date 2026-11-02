@@ -1,0 +1,85 @@
+{
+ "slug": "contship",
+ "company": "Contship",
+ "first_name": "Claudio",
+ "domain": "contshipitalia.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Logistica container integrata con soluzioni intermodali porta a porta e terminal marittimi. Ecco chi contatteremmo per Contship.",
+ "market_note": "Contship integra logistica portuale e trasporto intermodale per carriers, shippers e forwarders, quindi parleremmo con chi decide su trasporti, supply chain e flussi import export.",
+ "evidence": [
+  {
+   "claim": "Integratore di logistica container con soluzioni porta a porta",
+   "url": "https://contshipitalia.com/en/",
+   "quote": "We are integrators of containerised logistics, offering intelligent and sustainable port-to-door solutions"
+  },
+  {
+   "claim": "Offerta integrata di soluzioni intermodali, truck e ferroviarie",
+   "url": "https://contshipitalia.com/en/",
+   "quote": "An integrated offer of intermodal, truck, and rail solutions to ensure speed of delivery, flexibility, and sustainability"
+  },
+  {
+   "claim": "Vende logistica portuale e trasporto intermodale integrati",
+   "url": "https://contshipitalia.com/en/integrated-solutions/",
+   "quote": "integrated port logistics and intermodal transport services"
+  },
+  {
+   "claim": "Serve carriers, shippers e forwarders",
+   "url": "https://contshipitalia.com/en/integrated-solutions/",
+   "quote": "carriers, shippers, and forwarders with one-stop-shop solutions to efficiently manage logistics risk"
+  },
+  {
+   "claim": "Collega i mercati globali integrando servizi di logistica container",
+   "url": "https://contshipitalia.com/en/",
+   "quote": "We connect global markets by integrating containerized logistics services"
+  },
+  {
+   "claim": "Serve i settori industriale, manifatturiero e distribuzione",
+   "url": "https://contshipitalia.com/en/solutions/intermodal-solutions/",
+   "quote": "for the main industrial, manufacturing, and distribution sectors"
+  }
+ ],
+ "market": {
+  "count": "22.758",
+  "label": "direttori supply chain, responsabili logistica e titolari di aziende industriali e manifatturiere con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "industria e manifattura",
+   "supply chain e logistica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,industrial\"}"
+ }
+}

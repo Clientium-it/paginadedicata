@@ -1,0 +1,79 @@
+{
+ "slug": "equativ",
+ "company": "Equativ",
+ "first_name": "Federico",
+ "domain": "equativ.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma pubblicitaria end to end per advertiser, publisher e retailer. Ecco chi contatteremmo per Equativ.",
+ "market_note": "Equativ è la piattaforma pubblicitaria end to end che lavora con advertiser, publisher e retailer in tutto il mondo, quindi parleremmo con chi guida marketing e comunicazione nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "piattaforma pubblicitaria end to end",
+   "url": "https://www.equativ.com/",
+   "quote": "The End-to-End Media Platform Powering Attention Quality Outcomes"
+  },
+  {
+   "claim": "lavora con advertiser e publisher",
+   "url": "https://www.equativ.com/company",
+   "quote": "Working alongside advertisers, publishers, broadcasters, and rights owners for the last two decades"
+  },
+  {
+   "claim": "lavora anche con i retailer",
+   "url": "https://www.equativ.com/",
+   "quote": "Unlock the full potential of retail media with Equativ Retail Media solutions"
+  },
+  {
+   "claim": "piattaforma pubblicitaria globale basata su tecnologia, ricerca e dati",
+   "url": "https://www.equativ.com/",
+   "quote": "Equativ's global ad platform brings together advanced technology, consumer research, and data intelligence"
+  },
+  {
+   "claim": "unisce tecnologia avanzata, ricerca sui consumatori e data intelligence",
+   "url": "https://www.equativ.com/",
+   "quote": "advanced technology, consumer research, and data intelligence"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori marketing di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

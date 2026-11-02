@@ -1,0 +1,85 @@
+{
+ "slug": "tekne",
+ "company": "TEKNE",
+ "first_name": "Stefano",
+ "domain": "teknespa.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "TEKNE sviluppa progetti di ingegneria, architettura e costruzioni per edifici di ogni settore. Ecco chi contatteremmo per TEKNE.",
+ "market_note": "TEKNE progetta ingegneria, architettura e costruzioni per aziende dei settori industriale e terziario, da Milano, quindi parleremmo con chi decide su nuove sedi, stabilimenti e progetti immobiliari.",
+ "evidence": [
+  {
+   "claim": "Sviluppa progetti di ingegneria e architettura",
+   "url": "https://www.teknespa.it/about-tekne",
+   "quote": "TEKNE develops and plans construction engineering, technical architecture and technical-economic feasibility projects"
+  },
+  {
+   "claim": "Opera in tutti i settori delle costruzioni",
+   "url": "https://www.teknespa.it/about-tekne",
+   "quote": "a 150-year history of experience in all construction sectors"
+  },
+  {
+   "claim": "Clienti dal settore industriale al terziario",
+   "url": "https://www.teknespa.it/clients",
+   "quote": "Our expertise spans from the industrial sector to the tertiary sector"
+  },
+  {
+   "claim": "Sede a Milano",
+   "url": "https://www.teknespa.it/contact",
+   "quote": "VIA ADELE MARTIGNONI, 25, 20124, MILANO"
+  },
+  {
+   "claim": "Sviluppa ingegneria e architettura per edifici",
+   "url": "https://www.teknespa.it/about-tekne",
+   "quote": "TEKNE develops and plans construction engineering, technical architecture and technical-economic feasibility projects"
+  },
+  {
+   "claim": "Opera in Italia e all'estero",
+   "url": "https://www.teknespa.it/",
+   "quote": "creating advanced projects in Italy and abroad"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "industria",
+   "terziario"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

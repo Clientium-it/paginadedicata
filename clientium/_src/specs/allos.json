@@ -1,0 +1,87 @@
+{
+ "slug": "allos",
+ "company": "Allos",
+ "first_name": "Rosario",
+ "domain": "allos.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Trasformazione digitale di HR ed ERP come SAP Gold Partner. Ecco chi contatteremmo per Allos.",
+ "market_note": "Allos accompagna le aziende nella trasformazione digitale di HR ed ERP nei settori Pharma, Banking, Manufacturing e Retail, quindi parleremmo con chi decide su HR e sistemi gestionali.",
+ "evidence": [
+  {
+   "claim": "Allos è SAP Gold Partner",
+   "url": "https://allos.it/",
+   "quote": "Siamo SAP Gold Partner dal 2015"
+  },
+  {
+   "claim": "Accompagna le aziende nella trasformazione digitale",
+   "url": "https://allos.it/",
+   "quote": "Ti accompagniamo nel tuo percorso di trasformazione digitale"
+  },
+  {
+   "claim": "Lavora sulla transizione verso sistemi ERP",
+   "url": "https://allos.it/",
+   "quote": "la transizione verso sistemi ERP Cloud è indispensabile per raggiungere l'efficienza operativa"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://allos.it/",
+   "quote": "Industries Pharma Banking / Insurance Manufacturing Retail"
+  },
+  {
+   "claim": "SAP Gold Partner dal 2015",
+   "url": "https://allos.it/",
+   "quote": "Siamo SAP Gold Partner dal 2015"
+  },
+  {
+   "claim": "Settori serviti",
+   "url": "https://allos.it/",
+   "quote": "Industries Pharma Banking / Insurance Manufacturing Retail"
+  }
+ ],
+ "market": {
+  "count": "35.299",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "Italia",
+   "oltre 100 addetti",
+   "Pharma",
+   "Banking",
+   "Manufacturing",
+   "Retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"pharmaceutical,banking,insurance,manufacturing,retail\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

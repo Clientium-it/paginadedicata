@@ -1,0 +1,86 @@
+{
+ "slug": "board",
+ "company": "Board",
+ "first_name": "Giorgio",
+ "domain": "board.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Piattaforma di pianificazione per le decisioni finanziarie e operative delle grandi aziende. Ecco chi contatteremmo per Board.",
+ "market_note": "Board offre una piattaforma di pianificazione agentica che unisce finanza e operations per le grandi imprese, quindi parleremmo con chi guida la pianificazione finanziaria e il controllo di gestione.",
+ "evidence": [
+  {
+   "claim": "Piattaforma di pianificazione",
+   "url": "https://www.board.com/",
+   "quote": "The Agentic Planning Platform"
+  },
+  {
+   "claim": "decisioni finanziarie e operative",
+   "url": "https://www.board.com/",
+   "quote": "financial and operational teams can sense change"
+  },
+  {
+   "claim": "serve le grandi imprese",
+   "url": "https://www.board.com/about-us",
+   "quote": "We help enterprises make confident decisions"
+  },
+  {
+   "claim": "unisce finanza e operations",
+   "url": "https://www.board.com/",
+   "quote": "planning excellence that unifies finance and operations"
+  },
+  {
+   "claim": "un'unica piattaforma per allineare le decisioni",
+   "url": "https://www.board.com/",
+   "quote": "One unified platform for aligned enterprise decisions"
+  },
+  {
+   "claim": "settori clienti serviti",
+   "url": "https://www.board.com/",
+   "quote": "Manufacturing CPG Financial Services"
+  }
+ ],
+ "market": {
+  "count": "31.124",
+  "label": "direttori finanziari, CEO e responsabili della pianificazione di grandi aziende italiane oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "retail",
+   "manifattura",
+   "financial services"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"retail,manufacturing,financial services\"}"
+ }
+}

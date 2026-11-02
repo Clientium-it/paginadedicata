@@ -1,0 +1,82 @@
+{
+ "slug": "lippert",
+ "company": "Lippert",
+ "first_name": "Michele",
+ "domain": "lippertcomponents.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Componenti ingegnerizzati per i produttori leader di caravan e camper. Ecco chi contatteremmo per Lippert.",
+ "market_note": "Lippert progetta e produce componenti ingegnerizzati per i produttori leader di caravan e camper, quindi parleremmo con chi guida le direzioni tecniche e acquisti.",
+ "evidence": [
+  {
+   "claim": "componenti ingegnerizzati",
+   "url": "https://lipperteurope.com/",
+   "quote": "global manufacturer and supplier of highly engineered products and customized solutions"
+  },
+  {
+   "claim": "produttori leader di caravan e camper",
+   "url": "https://lipperteurope.com/",
+   "quote": "Trusted by the world's leading caravan and motorhome manufacturers"
+  },
+  {
+   "claim": "progetta e produce le soluzioni",
+   "url": "https://lipperteurope.com/",
+   "quote": "Lippert designs and manufactures the solutions that turn a vehicle into a home"
+  },
+  {
+   "claim": "progettate e producete le soluzioni per i produttori leader",
+   "url": "https://lipperteurope.com/",
+   "quote": "Lippert designs and manufactures the solutions that turn a vehicle into a home"
+  },
+  {
+   "claim": "settori clienti serviti",
+   "url": "https://lipperteurope.com/",
+   "quote": "shaping, growing and bettering the RV, marine, automotive, commercial vehicle and building products industries"
+  }
+ ],
+ "market": {
+  "count": "12.107",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane strutturate oltre 50 addetti nei settori veicoli, ferroviario e retail",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "veicoli ricreazionali",
+   "automotive",
+   "ferroviario",
+   "retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"recreational vehicles,automotive,railroad,retail\"}"
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "slug": "fincantieri-nextech",
+ "company": "Fincantieri NexTech",
+ "first_name": "Rinaldo",
+ "domain": "fincantierinextech.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni innovative, intelligenti, sicure e sostenibili per i mercati navali, difesa e cybersecurity. Ecco chi contatteremmo per Fincantieri NexTech.",
+ "market_note": "Fincantieri NexTech fornisce soluzioni per il mercato civile e militare e infrastrutture tecnologiche per la Pubblica Amministrazione e i Large Account, quindi parleremmo con chi decide su sicurezza informatica.",
+ "evidence": [
+  {
+   "claim": "soluzioni innovative, intelligenti, sicure e sostenibili",
+   "url": "https://www.fincantierinextech.com/",
+   "quote": "Realizziamo soluzioni innovative, intelligenti, sicure e sostenibili"
+  },
+  {
+   "claim": "mercati navali, difesa e cybersecurity",
+   "url": "https://www.fincantierinextech.com/",
+   "quote": "prodotti e servizi per i mercati Navali, Difesa & Sicurezza, delle Infrastrutture Digitali e della Cybersecurity"
+  },
+  {
+   "claim": "mercato civile e militare",
+   "url": "https://www.fincantierinextech.com/",
+   "quote": "soluzioni altamente specialistiche per il mercato civile e militare"
+  },
+  {
+   "claim": "clienti Pubblica Amministrazione, Telecomunicazioni e Large Account",
+   "url": "https://www.fincantierinextech.com/digital_solutions/",
+   "quote": "per i mercati della Pubblica Amministrazione centrale e locale, le aziende di Telecomunicazione ed i Large Account."
+  },
+  {
+   "claim": "soluzioni digitali per il monitoraggio di infrastrutture e asset critici",
+   "url": "https://www.fincantierinextech.com/digital_solutions/",
+   "quote": "soluzioni digitali per il monitoraggio di infrastrutture e asset critici in ambito civile"
+  }
+ ],
+ "market": {
+  "count": "980",
+  "label": "responsabili IT e CIO di grandi aziende e pubbliche amministrazioni italiane strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "Pubblica Amministrazione",
+   "Telecomunicazioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"government administration,telecommunications,transportation\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "digitalplatforms",
+ "company": "DigitalPlatforms",
+ "first_name": "Raffaele",
+ "domain": "dplatforms.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni integrate per la trasformazione digitale di difesa, PA e infrastrutture critiche. Ecco chi contatteremmo per DigitalPlatforms.",
+ "market_note": "DigitalPlatforms fornisce soluzioni e tecnologie Internet of Things e Cyber alla Difesa, alla Pubblica Amministrazione e alle aziende delle infrastrutture critiche, quindi parleremmo con chi decide su tecnologia e sicurezza.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni integrate per la trasformazione digitale",
+   "url": "https://www.dplatforms.it/",
+   "quote": "Soluzioni integrate per la trasformazione digitale"
+  },
+  {
+   "claim": "Fornisce tecnologie IoT e Cyber a Difesa, PA e aziende con infrastrutture critiche",
+   "url": "https://www.dplatforms.it/chi-siamo/",
+   "quote": "tecnologie Internet of Things e Cyber alla Difesa, alla Pubblica Amministrazione e alle principali aziende che gestiscono le infrastrutture critiche"
+  },
+  {
+   "claim": "Fornisce soluzioni e tecnologie IoT e Cyber a Difesa e Pubblica Amministrazione",
+   "url": "https://www.dplatforms.it/chi-siamo/",
+   "quote": "soluzioni end-to-end e tecnologie Internet of Things e Cyber alla Difesa, alla Pubblica Amministrazione"
+  },
+  {
+   "claim": "Serve i settori energia/utilities, trasporti e telecomunicazioni",
+   "url": "https://www.dplatforms.it/chi-siamo/",
+   "quote": "infrastrutture critiche nei settori energia/utilities, trasporti, telecomunicazioni"
+  }
+ ],
+ "market": {
+  "count": "2.915",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate di difesa, pubblica amministrazione, energia, trasporti e telecomunicazioni",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "energia e utilities",
+   "telecomunicazioni",
+   "PA e difesa"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"defense and space manufacturing,government administration,energy,utilities,transportation,telecommunications,manufacturing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

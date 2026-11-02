@@ -1,0 +1,80 @@
+{
+ "slug": "meb-elettroforniture",
+ "company": "MEB Elettroforniture",
+ "first_name": "Carlo",
+ "domain": "mebelettroforniture.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Distribuzione di materiale elettrico civile e industriale con consulenza tecnica specializzata. Ecco chi contatteremmo per MEB Elettroforniture.",
+ "market_note": "MEB Elettroforniture distribuisce materiale elettrico civile e industriale a professionisti e aziende del settore elettrico, quindi parleremmo con chi guida le imprese di installazione nel Triveneto e in Lombardia.",
+ "evidence": [
+  {
+   "claim": "Distribuisce materiale elettrico civile e industriale",
+   "url": "https://www.mebelettroforniture.it/la-nostra-storia",
+   "quote": "materiale elettrico civile e industriale"
+  },
+  {
+   "claim": "Offre consulenza tecnica specializzata",
+   "url": "https://www.mebelettroforniture.it/la-nostra-storia",
+   "quote": "consulenza tecnica specializzata e reperibilità immediata di materiale elettrico"
+  },
+  {
+   "claim": "Vende materiale elettrico civile e industriale",
+   "url": "https://www.mebelettroforniture.it/la-nostra-storia",
+   "quote": "materiale elettrico civile e industriale"
+  },
+  {
+   "claim": "Si rivolge a professionisti e aziende del settore elettrico",
+   "url": "https://www.mebelettroforniture.it/i-nostri-servizi",
+   "quote": "professionisti e aziende del settore elettrico"
+  },
+  {
+   "claim": "Serve clienti di Veneto, Friuli, Trentino Alto Adige e Lombardia",
+   "url": "https://www.mebelettroforniture.it/la-nostra-storia",
+   "quote": "del Veneto, Friuli, Trentino Alto Adige e Lombardia"
+  },
+  {
+   "claim": "Distribuisce materiale elettrico civile e industriale",
+   "url": "https://www.mebelettroforniture.it/la-nostra-storia",
+   "quote": "materiale elettrico civile e industriale"
+  },
+  {
+   "claim": "Si rivolge a professionisti e aziende del settore elettrico",
+   "url": "https://www.mebelettroforniture.it/i-nostri-servizi",
+   "quote": "professionisti e aziende del settore elettrico"
+  },
+  {
+   "claim": "Serve clienti di Veneto, Friuli, Trentino Alto Adige e Lombardia",
+   "url": "https://www.mebelettroforniture.it/la-nostra-storia",
+   "quote": "del Veneto, Friuli, Trentino Alto Adige e Lombardia"
+  }
+ ],
+ "market": {
+  "count": "34.994",
+  "label": "titolari e amministratori di imprese di installazione elettrica del Triveneto e della Lombardia da 10 a 250 addetti",
+  "chips": [
+   "Veneto",
+   "Trentino-Alto Adige",
+   "Friuli Venezia Giulia",
+   "Lombardia",
+   "10-250 addetti"
+  ],
+  "regions": [
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Trentino-Alto Adige",
+   "Lombardia"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Veneto,Friuli–Venezia Giulia,Trentino-South Tyrol,Lombardy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

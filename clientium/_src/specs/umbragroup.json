@@ -1,0 +1,85 @@
+{
+ "slug": "umbragroup",
+ "company": "UMBRAGROUP",
+ "first_name": "Fabrizio",
+ "domain": "umbragroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Sistemi di movimento ad alta precisione per i settori aerospaziale, difesa e industriale. Ecco chi contatteremmo per UMBRAGROUP.",
+ "market_note": "UMBRAGROUP produce viti a ricircolo di sfere e componenti di alta precisione per costruttori di aeromobili e di macchine utensili, quindi parleremmo con chi guida produzione e acquisti tecnici.",
+ "evidence": [
+  {
+   "claim": "Sistemi ad alta precisione per aerospaziale, difesa e industriale",
+   "url": "https://www.umbragroup.com/",
+   "quote": "high-precision motion systems, offering cutting-edge solutions for the aerospace, defense and industrial sectors"
+  },
+  {
+   "claim": "Produce componenti di alta precisione per il mercato aerospaziale",
+   "url": "https://www.umbragroup.com/company/27/umbragroup",
+   "quote": "high precision mechanical and mechatronic components for the aerospace market"
+  },
+  {
+   "claim": "Serve costruttori di aeromobili e di macchine utensili",
+   "url": "https://www.umbragroup.com/company",
+   "quote": "Aircraft manufacturers; Integrated systems manufacturers; Airlines; Machine tool manufacturers"
+  },
+  {
+   "claim": "Produce viti a ricircolo di sfere nel settore aeronautico",
+   "url": "https://www.umbragroup.com/company",
+   "quote": "the world leader in the manufacture of ball screws in the aeronautics sector"
+  },
+  {
+   "claim": "Componenti critici per il volo",
+   "url": "https://www.umbragroup.com/company/27/umbragroup",
+   "quote": "high precision mechanical and mechatronic components for the aerospace market, critical for flight"
+  },
+  {
+   "claim": "Gruppo italiano con presenza mondiale",
+   "url": "https://www.umbragroup.com/company/27/umbragroup",
+   "quote": "A group born in Italy with a worldwide presence"
+  }
+ ],
+ "market": {
+  "count": "4.907",
+  "label": "direttori, CEO e titolari di aziende aerospaziali, della difesa e manifatturiere con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "aerospazio e difesa",
+   "macchine utensili"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"aviation and aerospace component manufacturing,airlines and aviation,defense and space manufacturing,machinery manufacturing\"}"
+ }
+}

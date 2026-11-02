@@ -1,0 +1,75 @@
+{
+ "slug": "system-logistics",
+ "company": "System Logistics",
+ "first_name": "Massimo",
+ "domain": "systemlogistics.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni di intralogistica e material handling per magazzini e centri di distribuzione. Ecco chi contatteremmo per System Logistics.",
+ "market_note": "System Logistics sviluppa soluzioni di intralogistica e material handling per magazzini, centri di distribuzione e stabilimenti produttivi, quindi parleremmo con chi guida logistica e operations nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni di intralogistica e material handling",
+   "url": "https://www.systemlogistics.com/ita/azienda/chi-siamo",
+   "quote": "soluzioni innovative di intralogistica e material handling per l'ottimizzazione della supply chain"
+  },
+  {
+   "claim": "Soluzioni per magazzini, centri di distribuzione e stabilimenti produttivi",
+   "url": "https://www.systemlogistics.com/ita/azienda/chi-siamo",
+   "quote": "all'interno di magazzini, centri di distribuzione e stabilimenti produttivi in tutto il mondo"
+  },
+  {
+   "claim": "Sviluppa soluzioni per lo stoccaggio e il picking automatizzati",
+   "url": "https://www.systemlogistics.com/ita/azienda/chi-siamo",
+   "quote": "sviluppa soluzioni su misura per lo stoccaggio e il picking automatizzati"
+  },
+  {
+   "claim": "Clienti principali nel Food & Beverage e Grande Distribuzione",
+   "url": "https://www.systemlogistics.com/ita/azienda/chi-siamo",
+   "quote": "Con un'attenzione particolare al settore Food & Beverage e Grande Distribuzione"
+  }
+ ],
+ "market": {
+  "count": "10.657",
+  "label": "titolari, CEO e direttori di aziende food, beverage e grande distribuzione in Italia oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "food & beverage",
+   "grande distribuzione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"food and beverage,beverage manufacturing,grocery,retail\"}"
+ }
+}

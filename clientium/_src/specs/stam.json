@@ -1,0 +1,75 @@
+{
+ "slug": "stam",
+ "company": "STAM",
+ "first_name": "Fabio",
+ "domain": "stamtech.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Società di ingegneria e consulenza tecnologica per aziende e enti. Ecco chi contatteremmo per STAM.",
+ "market_note": "STAM è una società di ingegneria e consulenza tecnologica che progetta sistemi meccatronici per l'automazione industriale, quindi parleremmo con chi guida le aziende manifatturiere che vogliono innovare.",
+ "evidence": [
+  {
+   "claim": "società di ingegneria e consulenza tecnologica",
+   "url": "https://www.stamtech.com/about-us/",
+   "quote": "STAM is an engineering and technology consulting company."
+  },
+  {
+   "claim": "progetta sistemi meccatronici per l'automazione industriale",
+   "url": "https://www.stamtech.com/",
+   "quote": "design and manufacturing of innovative mechatronic systems for industrial automation"
+  },
+  {
+   "claim": "realizza sistemi meccatronici per l'automazione industriale",
+   "url": "https://www.stamtech.com/",
+   "quote": "design and manufacturing of innovative mechatronic systems for industrial automation"
+  },
+  {
+   "claim": "aiuta aziende ed enti ad affrontare le sfide tecnologiche",
+   "url": "https://www.stamtech.com/",
+   "quote": "help companies and entities address the challenges of the 21st century"
+  }
+ ],
+ "market": {
+  "count": "21.689",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane con oltre 50 addetti",
+  "chips": [
+   "Italia",
+   "oltre 50 addetti",
+   "manifatturiero",
+   "automazione industriale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,industrial automation\"}"
+ }
+}

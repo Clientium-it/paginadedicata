@@ -1,0 +1,89 @@
+{
+ "slug": "videoworks",
+ "company": "Videoworks",
+ "first_name": "Francesco",
+ "domain": "videoworksgroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Sistemi AV, IT e sicurezza su misura per superyacht e settore business. Ecco chi contatteremmo per Videoworks.",
+ "market_note": "Videoworks progetta e integra sistemi audio video, IT e sicurezza per superyacht insieme ai cantieri navali, quindi parleremmo con chi guida i cantieri e le aziende del settore nautico.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni per il settore Yachting e per il settore Business",
+   "url": "https://www.videoworksgroup.com/",
+   "quote": "Scopri le nostre soluzioni per il settore Yachting o per il settore Business"
+  },
+  {
+   "claim": "Sistemi AV, IT e sicurezza per superyacht",
+   "url": "https://www.videoworksgroup.com/company/yacht-system-integrator/",
+   "quote": "providing fully integrated AV, IT, connectivity, and security solutions for superyachts and luxury vessels"
+  },
+  {
+   "claim": "Progetta sistemi su misura senza outsourcing",
+   "url": "https://www.videoworksgroup.com/",
+   "quote": "Without resorting to outsourcing, Videoworks designs and builds custom-made systems"
+  },
+  {
+   "claim": "Soluzioni AV, IT e sicurezza per superyacht",
+   "url": "https://www.videoworksgroup.com/company/yacht-system-integrator/",
+   "quote": "providing fully integrated AV, IT, connectivity, and security solutions for superyachts and luxury vessels"
+  },
+  {
+   "claim": "System integrator nel settore yachting",
+   "url": "https://www.videoworksgroup.com/company/yacht-system-integrator/",
+   "quote": "Videoworks is a premier system integrator in the yachting industry"
+  },
+  {
+   "claim": "Lavora con cantieri e armatori",
+   "url": "https://www.videoworksgroup.com/company/yacht-system-integrator/",
+   "quote": "Videoworks works closely with shipyards, interior designers, captains, and yacht owners"
+  },
+  {
+   "claim": "I clienti sono cantieri e armatori",
+   "url": "https://www.videoworksgroup.com/company/yacht-system-integrator/",
+   "quote": "Videoworks works closely with shipyards, interior designers, captains, and yacht owners"
+  }
+ ],
+ "market": {
+  "count": "305",
+  "label": "titolari, CEO e direttori di cantieri e aziende del settore nautico in Italia oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "cantieri navali"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"shipbuilding\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

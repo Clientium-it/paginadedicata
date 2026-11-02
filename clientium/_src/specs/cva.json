@@ -1,0 +1,86 @@
+{
+ "slug": "cva",
+ "company": "CVA",
+ "first_name": "Eleonora",
+ "domain": "corporate-value.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Boutique di strategia globale che ridisegna i modelli di business delle grandi aziende. Ecco chi contatteremmo per CVA.",
+ "market_note": "CVA è una boutique di strategia globale che affianca i CEO delle grandi aziende nel ridisegnare i loro modelli di business, quindi parleremmo con chi guida la direzione strategica.",
+ "evidence": [
+  {
+   "claim": "boutique di strategia globale che ridisegna i modelli di business",
+   "url": "https://www.corporate-value.com/",
+   "quote": "global strategy boutique with 35 years experience serving as the architects of future-proof business models"
+  },
+  {
+   "claim": "boutique di strategia globale",
+   "url": "https://www.corporate-value.com/",
+   "quote": "global strategy boutique with 35 years experience serving as the architects of future-proof business models"
+  },
+  {
+   "claim": "affianca i CEO nel ridisegnare la strategia",
+   "url": "https://www.corporate-value.com/about",
+   "quote": "CVA supports CEOs in designing their strategy"
+  },
+  {
+   "claim": "ridisegna i modelli di business nei settori energia, auto-mobility e mining",
+   "url": "https://www.corporate-value.com/",
+   "quote": "reshaping entire ecosystems in Agri-Food, Auto-Mobility, Construction, Energy, Finance, Healthcare, Mining & Commodities"
+  },
+  {
+   "claim": "settori clienti dichiarati",
+   "url": "https://www.corporate-value.com/",
+   "quote": "reshaping entire ecosystems in Agri-Food, Auto-Mobility, Construction, Energy, Finance, Healthcare, Mining & Commodities"
+  },
+  {
+   "claim": "vende a decisori e CEO",
+   "url": "https://www.corporate-value.com/about",
+   "quote": "Our LEAD methodology assists decision-makers end-to-end from defining building blocks of strategy to actionable measures"
+  }
+ ],
+ "market": {
+  "count": "11.892",
+  "label": "titolari, CEO e amministratori di grandi aziende italiane oltre 200 addetti nei settori energia, automotive, finanza e salute",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "energia",
+   "automotive",
+   "mining"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"agriculture,automotive,construction,energy,financial services,health care,mining\"}"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "project-informatica",
+ "company": "Project Informatica",
+ "first_name": "Gianluca",
+ "domain": "weareproject.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Competenze e soluzioni IT per l'evoluzione tecnologica e la competitività delle aziende. Ecco chi contatteremmo per Project Informatica.",
+ "market_note": "Project Informatica supporta le aziende migliorando competitività, scalabilità e flessibilità con soluzioni IT e servizi gestiti, quindi parleremmo con chi decide su infrastruttura, cloud e sicurezza.",
+ "evidence": [
+  {
+   "claim": "Opera per l'evoluzione tecnologica e la competitività delle aziende",
+   "url": "https://www.weareproject.com/",
+   "quote": "Al servizio dell’evoluzione tecnologica e della competitività della tua azienda"
+  },
+  {
+   "claim": "Supporta le aziende con servizi gestiti migliorando competitività, scalabilità e flessibilità",
+   "url": "https://www.weareproject.com/managed-services/",
+   "quote": "Supportiamo le aziende migliorando competitività, scalabilità e flessibilità"
+  },
+  {
+   "claim": "Gestisce infrastruttura IT, sicurezza e cloud dei clienti",
+   "url": "https://www.weareproject.com/managed-services/",
+   "quote": "lasciando a noi le gestione della loro infrastruttura IT, della sicurezza e del cloud"
+  },
+  {
+   "claim": "Settori clienti dichiarati: telco, financial & insurance, PA, industrial",
+   "url": "https://www.weareproject.com/",
+   "quote": "Telco 13 % Financial & Insurance 33 % PA 52 % Industrial"
+  },
+  {
+   "claim": "Copertura nazionale",
+   "url": "https://www.weareproject.com/company-news/",
+   "quote": "consolida la presenza in tutta Italia"
+  }
+ ],
+ "market": {
+  "count": "2.709",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 50 addetti, nei settori industriale, finanziario, assicurativo, telco e pubblica amministrazione",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "industriale",
+   "financial & insurance",
+   "PA"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"telecommunications,financial services,insurance,government administration,industrial manufacturing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

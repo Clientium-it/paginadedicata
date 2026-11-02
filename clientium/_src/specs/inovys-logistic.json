@@ -1,0 +1,86 @@
+{
+ "slug": "inovys-logistic",
+ "company": "Inovys Logistic",
+ "first_name": "Mond",
+ "domain": "inovyslogistic.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Gestione logistica integrata, trasporto della merce e soluzioni su misura. Ecco chi contatteremmo per Inovys Logistic.",
+ "market_note": "Inovys Logistic gestisce la logistica in outsourcing e il magazzino per conto terzi di aziende di diversi settori merceologici, quindi parleremmo con chi decide su logistica, magazzino e trasporti.",
+ "evidence": [
+  {
+   "claim": "Offre gestione logistica integrata, trasporto merce e soluzioni su misura",
+   "url": "https://www.inovyslogistic.com/contatti/",
+   "quote": "gestione logistica integrata, trasporto della merce e soluzioni su misura"
+  },
+  {
+   "claim": "Serve aziende di diversi settori merceologici",
+   "url": "https://www.inovyslogistic.com/settori-in-cui-operiamo/",
+   "quote": "serviamo aziende di diversi settori per le quali siamo il miglior partner"
+  },
+  {
+   "claim": "Gestisce magazzini per conto terzi",
+   "url": "https://www.inovyslogistic.com/servizi-logistici-in-outsourcing/gestione-magazzino/",
+   "quote": "organizzare da zero e riorganizzare magazzini per conto terzi"
+  },
+  {
+   "claim": "Gestisce più di 60 siti in Italia",
+   "url": "https://www.inovyslogistic.com/",
+   "quote": "la gestione di più di 60 siti in Italia"
+  },
+  {
+   "claim": "Logistica in outsourcing",
+   "url": "https://www.inovyslogistic.com/settori-in-cui-operiamo/",
+   "quote": "partner per la logistica in outsourcing"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://www.inovyslogistic.com/settori-in-cui-operiamo/",
+   "quote": "sono i settori principali per i quali lavoriamo"
+  }
+ ],
+ "market": {
+  "count": "24.358",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti nei settori automotive, industrial, retail e pharma",
+  "chips": [
+   "Italia",
+   "oltre 50 addetti",
+   "automotive",
+   "retail",
+   "pharma"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive,industrial,retail,consumer goods,transportation,pharmaceutical\"}"
+ }
+}

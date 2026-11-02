@@ -1,0 +1,91 @@
+{
+ "slug": "precis",
+ "company": "Precis",
+ "first_name": "Gianluca",
+ "domain": "precis.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Media, creative, tech e data che lavorano come una cosa sola. Ecco chi contatteremmo per Precis.",
+ "market_note": "Precis è un'agenzia di marketing che affianca i CMO di brand e-commerce, aziende B2B in crescita e piattaforme tech, quindi parleremmo con chi guida il marketing e la crescita.",
+ "evidence": [
+  {
+   "claim": "Offre servizi di media, creative, tech e data integrati",
+   "url": "https://www.precis.com/",
+   "quote": "Media, Creative, Tech & Data services that work as one."
+  },
+  {
+   "claim": "È un'agenzia di marketing",
+   "url": "https://www.precis.com/about",
+   "quote": "Precis is a modern, tech-powered marketing agency founded in 2012."
+  },
+  {
+   "claim": "Affianca CMO di brand e-commerce, aziende B2B e piattaforme tech",
+   "url": "https://www.precis.com/about",
+   "quote": "We partner with CMOs at ambitious e-commerce brands, scaling B2B companies, and advanced tech platforms"
+  },
+  {
+   "claim": "Affianca CMO di brand e-commerce, aziende B2B e piattaforme tech",
+   "url": "https://www.precis.com/about",
+   "quote": "We partner with CMOs at ambitious e-commerce brands, scaling B2B companies, and advanced tech platforms"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://www.precis.com/",
+   "quote": "B2B E-Commerce Retail App"
+  },
+  {
+   "claim": "Lavora con aziende enterprise e mid-market",
+   "url": "https://www.precis.com/about",
+   "quote": "Managing enterprise and mid-market media budgets."
+  },
+  {
+   "claim": "Opera a livello globale senza limitare la zona",
+   "url": "https://www.precis.com/about",
+   "quote": "Global campaigns from our Nordic, European, UK & US hubs."
+  }
+ ],
+ "market": {
+  "count": "11.009",
+  "label": "direttori marketing, CMO e titolari di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "e-commerce",
+   "retail",
+   "b2b"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"e-commerce,retail,b2b\"}"
+ }
+}

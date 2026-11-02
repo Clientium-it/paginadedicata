@@ -1,0 +1,86 @@
+{
+ "slug": "gruppo-selini",
+ "company": "Gruppo Selini",
+ "first_name": "Carlo",
+ "domain": "selinigroup.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Mezzi, noleggio e assistenza per la movimentazione logistica e industriale. Ecco chi contatteremmo per Gruppo Selini.",
+ "market_note": "Gruppo Selini vende e noleggia carrelli elevatori e piattaforme aeree per la movimentazione logistica e industriale, quindi parleremmo con chi decide su flotta, magazzino e intralogistica.",
+ "evidence": [
+  {
+   "claim": "Si occupa di movimentazione logistica e industriale",
+   "url": "https://www.grupposelini.it/",
+   "quote": "Gruppo indipendente più importante in Italia per la movimentazione logistica e industriale"
+  },
+  {
+   "claim": "Offre soluzioni di noleggio",
+   "url": "https://www.grupposelini.it/",
+   "quote": "Soluzioni di noleggio per ogni esigenza"
+  },
+  {
+   "claim": "Offre carrelli elevatori e soluzioni di intralogistica",
+   "url": "https://www.grupposelini.it/",
+   "quote": "dai carrelli elevatori alle più avanzate soluzioni di intralogistica"
+  },
+  {
+   "claim": "Gruppo indipendente più importante in Italia per la movimentazione",
+   "url": "https://www.grupposelini.it/",
+   "quote": "Gruppo indipendente più importante in Italia per la movimentazione logistica e industriale"
+  },
+  {
+   "claim": "I mezzi sono impiegati in settori come logistica, trasporto ed edilizia",
+   "url": "https://www.grupposelini.it/gamma-prodotti/",
+   "quote": "vengono impiegati in diversi settori come logistica, trasporto ed edilizia"
+  },
+  {
+   "claim": "Opera in tutta Italia",
+   "url": "https://www.grupposelini.it/",
+   "quote": "top dealer per l’usato in Italia"
+  }
+ ],
+ "market": {
+  "count": "8.145",
+  "label": "titolari, CEO e direttori di aziende italiane della logistica, del trasporto e dell'edilizia con magazzino",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "logistica",
+   "trasporto",
+   "edilizia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"logistics,transportation,construction,warehousing\"}"
+ }
+}

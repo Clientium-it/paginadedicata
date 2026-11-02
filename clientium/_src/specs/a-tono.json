@@ -1,0 +1,80 @@
+{
+ "slug": "a-tono",
+ "company": "A-Tono",
+ "first_name": "Sergio",
+ "domain": "a-tono.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Marketing, pagamenti e tecnologia integrati in un unico ecosistema di soluzioni. Ecco chi contatteremmo per A-Tono.",
+ "market_note": "A-Tono offre marketing digitale, servizi di pagamento e tecnologia a brand, banche e istituzioni finanziarie, quindi parleremmo con chi guida marketing e sistemi di pagamento nelle aziende.",
+ "evidence": [
+  {
+   "claim": "Integra marketing, pagamenti e tecnologia in un unico ecosistema di soluzioni",
+   "url": "https://www.a-tono.com/it",
+   "quote": "che integra le competenze di un Technology Lab , la solidità di un Istituto di Pagamento , la strategia e creatività di una agenzia di Digital Marketing"
+  },
+  {
+   "claim": "Vende soluzioni a brand, banche e istituzioni finanziarie",
+   "url": "https://www.a-tono.com/it/servizi-di-pagamento",
+   "quote": "alle soluzioni business per Esercenti, Brand, Banche e Istituzioni Finanziarie, Pubblica Amministrazione, Developers e Indipendent Software Vendors"
+  },
+  {
+   "claim": "Offre marketing, pagamenti e tecnologia",
+   "url": "https://www.a-tono.com/it",
+   "quote": "che integra le competenze di un Technology Lab , la solidità di un Istituto di Pagamento , la strategia e creatività di una agenzia di Digital Marketing"
+  },
+  {
+   "claim": "Integra Technology Lab, Istituto di Pagamento e agenzia di Digital Marketing",
+   "url": "https://www.a-tono.com/it",
+   "quote": "che integra le competenze di un Technology Lab , la solidità di un Istituto di Pagamento , la strategia e creatività di una agenzia di Digital Marketing"
+  },
+  {
+   "claim": "Opera in tutta Italia",
+   "url": "https://www.a-tono.com/it/servizi-di-pagamento-business",
+   "quote": "oggi oltre 10.000 in tutta Italia"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "food e manufacturing",
+   "lusso e mass market"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

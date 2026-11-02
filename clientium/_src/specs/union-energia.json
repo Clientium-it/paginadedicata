@@ -1,0 +1,74 @@
+{
+ "slug": "union-energia",
+ "company": "Union Energia",
+ "first_name": "Emmanuelle",
+ "domain": "unionenergia.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Luce, gas e fotovoltaico per PMI, professionisti e condomini. Ecco chi contatteremmo per Union Energia.",
+ "market_note": "Union Energia fornisce luce, gas e fotovoltaico per PMI, professionisti e condomini, quindi parleremmo con i titolari che decidono su forniture di energia e impianti.",
+ "evidence": [
+  {
+   "claim": "Offre luce, gas e fotovoltaico per PMI, professionisti e condomini",
+   "url": "https://www.unionenergia.it/",
+   "quote": "Luce, gas e fotovoltaico per PMI, professionisti e condomini"
+  },
+  {
+   "claim": "Vende luce, gas e fotovoltaico alle imprese",
+   "url": "https://www.unionenergia.it/",
+   "quote": "Luce, gas e fotovoltaico per PMI, professionisti e condomini"
+  },
+  {
+   "claim": "Offre energia e fotovoltaico a PMI, professionisti e condomini",
+   "url": "https://www.unionenergia.it/",
+   "quote": "Luce, gas e fotovoltaico per PMI, professionisti e condomini"
+  },
+  {
+   "claim": "Clienti business sono PMI, professionisti e condomini",
+   "url": "https://www.unionenergia.it/",
+   "quote": "Luce, gas e fotovoltaico per PMI, professionisti e condomini"
+  }
+ ],
+ "market": {
+  "count": "86.964",
+  "label": "titolari e amministratori di PMI italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "PMI, professionisti e condomini"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

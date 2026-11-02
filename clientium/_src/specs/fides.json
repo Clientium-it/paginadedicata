@@ -1,0 +1,84 @@
+{
+ "slug": "fides",
+ "company": "Fides",
+ "first_name": "Antonio",
+ "domain": "fidesgroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Tecnologie su misura per la trasformazione digitale e l'adozione dell'intelligenza artificiale in azienda. Ecco chi contatteremmo per Fides.",
+ "market_note": "Fides accompagna le organizzazioni nella trasformazione digitale, nel cloud AWS e nell'adozione dell'intelligenza artificiale, quindi parleremmo con chi decide su infrastrutture, modernizzazione dei sistemi e progetti tecnologici.",
+ "evidence": [
+  {
+   "claim": "Sviluppa tecnologie su misura per il cliente",
+   "url": "https://www.fidesgroup.com/",
+   "quote": "We develop cutting-edge technologies, tailored to the customer, to drive business evolution."
+  },
+  {
+   "claim": "Supporta le aziende nell'adozione dell'intelligenza artificiale",
+   "url": "https://www.fidesgroup.com/",
+   "quote": "We support companies in adopting artificial intelligence to improve operational efficiency and support informed decision-making."
+  },
+  {
+   "claim": "Aiuta le organizzazioni a evolvere la propria infrastruttura digitale",
+   "url": "https://www.fidesgroup.com/",
+   "quote": "We help organizations evolve their digital infrastructure, processes, and customer touchpoints."
+  },
+  {
+   "claim": "Partner AWS certificato per migrare e modernizzare le infrastrutture digitali",
+   "url": "https://www.fidesgroup.com/",
+   "quote": "As a certified Amazon Web Services (AWS) partner, Fides supports organizations in designing, migrating, and modernizing digital infrastructures using cloud-native technologies."
+  },
+  {
+   "claim": "Modernizza e sostituisce i sistemi legacy",
+   "url": "https://www.fidesgroup.com/",
+   "quote": "We guide businesses in updating or replacing legacy systems through structured migration and refactoring projects."
+  },
+  {
+   "claim": "Vende servizi digitali ad aziende e organizzazioni",
+   "url": "https://www.fidesgroup.com/",
+   "quote": "We help organizations evolve their digital infrastructure, processes, and customer touchpoints."
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "dot-beyond",
+ "company": "Dot Beyond",
+ "first_name": "Roberto",
+ "domain": "dotbeyond.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Esperienze immersive 3D, gaming e realtà virtuale per brand e istituzioni culturali. Ecco chi contatteremmo per Dot Beyond.",
+ "market_note": "Dot Beyond crea esperienze immersive e soluzioni digitali per brand di moda e lusso e istituzioni culturali, quindi parleremmo con chi guida marketing, innovazione e progetti digitali.",
+ "evidence": [
+  {
+   "claim": "esperienze immersive 3D, gaming e realtà virtuale per brand e istituzioni culturali",
+   "url": "https://www.dotbeyond.it/company",
+   "quote": "from pure gaming to VR, MR, and AR experiences for scientific research and cultural institutions."
+  },
+  {
+   "claim": "soluzioni per brand di moda e lusso e istituzioni culturali",
+   "url": "https://www.dotbeyond.it/company",
+   "quote": "immersive 3D environments for fashion and luxury brands"
+  },
+  {
+   "claim": "esperienze immersive 3D per brand di moda e lusso",
+   "url": "https://www.dotbeyond.it/company",
+   "quote": "immersive 3D environments for fashion and luxury brands"
+  },
+  {
+   "claim": "settori moda, lusso e cultura",
+   "url": "https://www.dotbeyond.it/company",
+   "quote": "immersive 3D environments for fashion and luxury brands"
+  }
+ ],
+ "market": {
+  "count": "3.973",
+  "label": "titolari, CEO e direttori di brand e istituzioni culturali strutturate in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "moda e lusso",
+   "cultura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"fashion,museums and historical sites\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

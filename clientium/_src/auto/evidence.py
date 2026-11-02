@@ -10,7 +10,7 @@ def norm(s):
     return re.sub(r'\s+', ' ', s).strip().lower()
 def page(url, cache={}):
     if url not in cache:
-        r = subprocess.run(['curl', '-sL', '--max-time', '40', '-A', 'Mozilla/5.0', url], capture_output=True)
+        r = subprocess.run(['curl', '-sL', '--max-time', '40', '-A', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 Chrome/124 Safari/537.36', '-H', 'Accept-Language: it-IT,it;q=0.9', url], capture_output=True)
         t = r.stdout.decode('utf-8', 'ignore')
         t = re.sub(r'(?s)<(script|style)\b.*?</\1>', ' ', t); t = re.sub(r'<[^>]+>', ' ', t)
         cache[url] = norm(t)

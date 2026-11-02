@@ -1,0 +1,81 @@
+{
+ "slug": "auticon",
+ "company": "auticon",
+ "first_name": "Imma",
+ "domain": "auticon.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Servizi tecnologici su AI, dati, software e cybersecurity con tecnologi autistici e neurodivergenti. Ecco chi contatteremmo per auticon.",
+ "market_note": "auticon aiuta le organizzazioni a progettare e migliorare sistemi tecnologici su AI, dati, software e cybersecurity, quindi parleremmo con chi guida le scelte IT e tecnologiche.",
+ "evidence": [
+  {
+   "claim": "Offre servizi tecnologici su AI, dati, sviluppo software, QA e cybersecurity",
+   "url": "https://auticon.com/",
+   "quote": "We help organisations solve complex technology challenges through AI, data, software development, quality assurance and cybersecurity services"
+  },
+  {
+   "claim": "Servizi erogati da tecnologi autistici e neurodivergenti",
+   "url": "https://auticon.com/",
+   "quote": "delivered by highly skilled autistic and neurodivergent technologists"
+  },
+  {
+   "claim": "Aiuta le organizzazioni su AI, dati, software e cybersecurity",
+   "url": "https://auticon.com/technology-services/",
+   "quote": "We help organisations design, build and improve technology systems across AI, data, software and cybersecurity"
+  },
+  {
+   "claim": "Sviluppa servizi tecnologici con tecnologi autistici e neurodivergenti",
+   "url": "https://auticon.com/",
+   "quote": "delivered by highly skilled autistic and neurodivergent technologists"
+  },
+  {
+   "claim": "Settori serviti dai team tecnologici",
+   "url": "https://auticon.com/",
+   "quote": "Financial Services Energy & Utilities Healthcare & Life Sciences Retail & Consumer Goods Telecommunications Public Sector Technology & Software Aviation & Transport"
+  }
+ ],
+ "market": {
+  "count": "4.395",
+  "label": "CIO, CTO e responsabili IT di aziende strutturate con oltre 100 addetti in diversi settori",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "financial services",
+   "telecommunications",
+   "health care"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"financial services,utilities,health care,life science,retail,telecommunications,government,software,transportation\"}"
+ }
+}

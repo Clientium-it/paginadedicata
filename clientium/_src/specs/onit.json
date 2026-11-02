@@ -1,0 +1,79 @@
+{
+ "slug": "onit",
+ "company": "Onit",
+ "first_name": "Matteo",
+ "domain": "onit.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Software e competenze per accompagnare le aziende nella digitalizzazione dei processi. Ecco chi contatteremmo per Onit.",
+ "market_note": "Onit accompagna le aziende nella digitalizzazione con software, business analytics e soluzioni di cybersecurity e infrastruttura IT, quindi parleremmo con chi decide su sistemi informativi e innovazione digitale.",
+ "evidence": [
+  {
+   "claim": "Onit accompagna le aziende nella digitalizzazione con i propri software e competenze",
+   "url": "https://onit.it/it/",
+   "quote": "Con i nostri software e le nostre competenze accompagniamo le aziende nel percorso di digitalizzazione"
+  },
+  {
+   "claim": "Onit offre piattaforme di business analytics",
+   "url": "https://onit.it/it/",
+   "quote": "Piattaforme di analisi dati per decisioni aziendali strategiche."
+  },
+  {
+   "claim": "Onit offre soluzioni di cybersecurity e infrastruttura IT",
+   "url": "https://onit.it/it/",
+   "quote": "Soluzioni di Cybersecurity, Networking, Datacenter e Cloud per un'infrastruttura IT sicura ed efficiente."
+  },
+  {
+   "claim": "Onit sviluppa soluzioni di cybersecurity, networking, datacenter e cloud",
+   "url": "https://onit.it/it/",
+   "quote": "Soluzioni di Cybersecurity, Networking, Datacenter e Cloud per un'infrastruttura IT sicura ed efficiente."
+  },
+  {
+   "claim": "Onit realizza progetti di digitalizzazione per ogni tipo di azienda",
+   "url": "https://onit.it/it/expertise/soluzioni-personalizzate",
+   "quote": "efficientare i processi, semplificare il lavoro e ridurre gli sprechi di ogni tipo di azienda"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "IT e digitalizzazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

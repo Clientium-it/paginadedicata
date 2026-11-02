@@ -1,0 +1,86 @@
+{
+ "slug": "eddyfi-technologies",
+ "company": "Eddyfi Technologies",
+ "first_name": "Gianfranco",
+ "domain": "eddyfitechnologies.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Tecnologie di controllo non distruttivo con sensori, software e soluzioni robotiche per asset critici. Ecco chi contatteremmo per Eddyfi Technologies.",
+ "market_note": "Eddyfi Technologies offre sensori, software e soluzioni robotiche per OEM e proprietari di asset in settori come energia, mining e trasporti, quindi parleremmo con chi decide su ispezioni e manutenzione.",
+ "evidence": [
+  {
+   "claim": "Eddyfi fa controllo non distruttivo",
+   "url": "https://www.eddyfi.com/en/aboutus",
+   "quote": "We deliver the highest performance Non-Destructive Testing (NDT) inspection technologies in the world."
+  },
+  {
+   "claim": "Offre sensori, software e soluzioni robotiche per asset critici",
+   "url": "https://www.eddyfi.com/en/aboutus",
+   "quote": "sensors, software, and robotic solutions for the inspection of critical components and assets"
+  },
+  {
+   "claim": "Sensori, software e soluzioni robotiche per asset critici",
+   "url": "https://www.eddyfi.com/en/aboutus",
+   "quote": "sensors, software, and robotic solutions for the inspection of critical components and assets"
+  },
+  {
+   "claim": "Serve OEM, proprietari di asset e società di servizi",
+   "url": "https://www.eddyfi.com/en/aboutus",
+   "quote": "This enables us to support OEMs, asset owners and service companies in boosting productivity, saving lives, and protecting the environment."
+  },
+  {
+   "claim": "Settori serviti energia, mining, trasporti",
+   "url": "https://www.eddyfi.com/en/aboutus",
+   "quote": "key industries such as aerospace, energy, mining, power generation, and transportation"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://www.eddyfi.com/en/aboutus",
+   "quote": "key industries such as aerospace, energy, mining, power generation, and transportation"
+  }
+ ],
+ "market": {
+  "count": "10.436",
+  "label": "direttori, CEO e titolari di aziende industriali oltre 50 addetti in energia, mining e aerospazio",
+  "chips": [
+   "Italia",
+   "oltre 50 addetti",
+   "energia",
+   "mining",
+   "aerospazio"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"aerospace,energy,mining,transportation,oil and gas\"}"
+ }
+}

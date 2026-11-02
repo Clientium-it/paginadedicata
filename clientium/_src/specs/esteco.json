@@ -1,0 +1,79 @@
+{
+ "slug": "esteco",
+ "company": "ESTECO",
+ "first_name": "Chiara",
+ "domain": "esteco.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "cover_note": "Soluzioni software di ingegneria digitale per innovare più velocemente. Ecco chi contatteremmo per ESTECO.",
+ "market_note": "ESTECO sviluppa software di simulazione e ottimizzazione del design per innovatori di molti settori industriali, quindi parleremmo con chi decide su sviluppo prodotto e tecnologie digitali.",
+ "evidence": [
+  {
+   "claim": "ESTECO offre soluzioni di ingegneria digitale per innovare più velocemente",
+   "url": "https://www.esteco.com/",
+   "quote": "Digital engineering solutions to innovate faster"
+  },
+  {
+   "claim": "vende software per simulazione e ottimizzazione del design",
+   "url": "https://www.esteco.com/",
+   "quote": "The leading software solution for simulation process automation and design optimization"
+  },
+  {
+   "claim": "serve innovatori in molti settori industriali",
+   "url": "https://www.esteco.com/",
+   "quote": "across a wide range of industries"
+  },
+  {
+   "claim": "25 anni di esperienza al servizio degli innovatori",
+   "url": "https://www.esteco.com/",
+   "quote": "25 years of experience enabling innovators"
+  },
+  {
+   "claim": "azienda software indipendente",
+   "url": "https://www.esteco.com/",
+   "quote": "As an independent software company"
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "titolari, CEO e direttori di aziende strutturate italiane oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "direttori e CEO"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}
