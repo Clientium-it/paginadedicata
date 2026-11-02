@@ -101,6 +101,8 @@ def render(sp, prefix='../', fallback=False):
     """prefix = path from the deck folder to the repo root ('../' for <slug>/index.html, '/' for 404.html)."""
     for k in REQUIRED:
         assert sp.get(k) not in (None, '', []), f'{sp.get("slug")}: missing {k}'
+    if sp.get('cover_note') or sp.get('market_note'):   # rule Steven 02/11: a claim about the lead goes on the page only with url + quote from its site (check: auto/evidence.py)
+        assert sp.get('evidence') and all(e.get('claim') and e.get('url') and e.get('quote') for e in sp['evidence']), f'{sp["slug"]}: lead claims without evidence'
     mk = sp.get('market') or {}
     B = {**globals()['B'], **(globals()['B'].get('lei', {}) if sp.get('register') == 'lei' else {})}   # spec.register = 'lei': formal copy from brand.json lei
     pf = os.path.join(HERE, 'sectors', (mk.get('sector') or '_') + '.json')

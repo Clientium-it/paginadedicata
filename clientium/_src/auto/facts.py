@@ -2,6 +2,7 @@
 """facts.py: lead website -> fact sheet (runs/<slug>/facts.txt) + facts.json, screenshot and logo on the way.
 Usage: python3 facts.py <slug> "<First Last>" "<Company>" <url>
 No model involved. Everything the model may say must be a line here; every number it writes is checked against this file.
+Truth rule (Steven 02/11): a claim about the lead reaches the page only with url + verbatim quote from its site, stored in spec.evidence and checked by auto/evidence.py; unsourced claims are dropped.
 The point selection (CHECKS) is where you encode YOUR offer: a condition on the facts and a fixed score, top 4 win.
 """
 import asyncio, json, os, re, sys

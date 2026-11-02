@@ -25,8 +25,45 @@
   "regions": [
    "Toscana"
   ],
-  "source": "AI-ARK people_search 02/11/2026: location Tuscany, seniority owner/founder/c_suite, employees 10-250, esclusi it services/software/network security",
+  "source": "AI-ARK people_search 02/11/2026: location Tuscany, seniority owner/founder/c_suite, employees 10-250, esclusi it services/software/network security. Toscana = area servita dichiarata su /azienda-consulenza-informatica/. Fascia addetti e esclusione IT sono scelte nostre",
   "sector": ""
  },
- "register": "lei"
+ "register": "lei",
+ "evidence": [
+  {
+   "claim": "assistenza",
+   "url": "https://iptech.it/",
+   "quote": "Offriamo servizi di assistenza informatica completi"
+  },
+  {
+   "claim": "VoIP",
+   "url": "https://iptech.it/",
+   "quote": "Soluzioni avanzate di VoIP e connettività"
+  },
+  {
+   "claim": "reti e sicurezza",
+   "url": "https://iptech.it/",
+   "quote": "RETI E SICUREZZA"
+  },
+  {
+   "claim": "cloud",
+   "url": "https://iptech.it/",
+   "quote": "Gamma completa di servizi cloud"
+  },
+  {
+   "claim": "sede a Empoli e lavora su tutta la Toscana",
+   "url": "https://iptech.it/azienda-consulenza-informatica/",
+   "quote": "Siamo a Empoli (FI), in Viale IV Novembre, 133, e siamo conosciuti sul territorio empolese, ma lavoriamo su tutto il territorio toscano e oltre."
+  },
+  {
+   "claim": "segue l'infrastruttura IT delle aziende",
+   "url": "https://iptech.it/azienda-consulenza-informatica/",
+   "quote": "progettazione, realizzazione, adeguamento e mantenimento dei sistemi e architetture IT aziendali"
+  },
+  {
+   "claim": "decide su assistenza, sicurezza e telefonia = i loro servizi",
+   "url": "https://iptech.it/",
+   "quote": "Offriamo soluzioni per garantire che la tua infrastruttura IT sia sempre protetta e performante"
+  }
+ ]
 }

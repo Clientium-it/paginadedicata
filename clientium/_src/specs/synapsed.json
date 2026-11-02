@@ -12,17 +12,15 @@
  "cases_first": "Planetica",
  "campaign": "C16",
  "cover_note": "Per chi porta l'AI in produzione e deve dimostrare che è affidabile, ecco chi contatteremmo per Synapsed.",
- "market_note": "Synapsed rende affidabili i sistemi AI con ricerca applicata, framework di governance e test ripetibili, quindi parleremmo con chi risponde dell'AI in banche, assicurazioni e telco.",
+ "market_note": "Synapsed aiuta a costruire prodotti AI affidabili con ricerca applicata, framework di governance e test ripetibili, quindi parleremmo con chi guida l'IT nelle aziende con oltre 200 addetti.",
  "market": {
-  "count": "4.447",
-  "label": "CTO, CIO e responsabili tecnici di banche, assicurazioni, telco e aziende software con oltre 200 addetti",
+  "count": "8.699",
+  "label": "CIO, CTO e responsabili IT di aziende con oltre 200 addetti in Italia",
   "chips": [
    "tutta Italia",
    "oltre 200 addetti",
-   "banche",
-   "assicurazioni",
-   "telecomunicazioni",
-   "software"
+   "CIO e CTO",
+   "responsabili IT"
   ],
   "regions": [
    "Piemonte",
@@ -46,8 +44,30 @@
    "Sicilia",
    "Sardegna"
   ],
-  "source": "AI-ARK people_search 02/11/2026: location Italy, department information_technology+engineering, seniority c_suite/vp/director/head, minEmployees 200, industry banking/insurance/financial services/software/enterprise software/software development/telecommunications",
+  "source": "AI-ARK people_search 02/11/2026: location Italy, department information_technology, seniority c_suite/vp/director/head, minEmployees 200, nessun settore (il sito non dichiara settori clienti). 'oltre 200 addetti' e' una scelta di targeting nostra",
   "sector": ""
  },
- "register": "lei"
+ "register": "lei",
+ "evidence": [
+  {
+   "claim": "aiuta a creare prodotti AI affidabili con ricerca applicata, framework e assurance",
+   "url": "https://synapsed.ai/",
+   "quote": "We help you create trustworthy AI products through applied research, practical frameworks and evidence-based assurance."
+  },
+  {
+   "claim": "test ripetibili su applicazioni AI",
+   "url": "https://synapsed.ai/",
+   "quote": "Assess LLM, RAG and agentic applications with repeatable tests"
+  },
+  {
+   "claim": "framework di governance",
+   "url": "https://synapsed.ai/",
+   "quote": "Connect roles, lifecycle activities, technical controls and evidence across an AI system"
+  },
+  {
+   "claim": "lavora con team che portano l'AI in produzione",
+   "url": "https://synapsed.ai/",
+   "quote": "We work with teams establishing governance, developing AI applications"
+  }
+ ]
 }

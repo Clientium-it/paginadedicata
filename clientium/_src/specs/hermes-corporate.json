@@ -15,15 +15,14 @@
  "market_note": "Hermes affianca in outsourcing aziende dell'aerospazio, dell'ingegneria industriale, della moda e del petrolchimico, quindi parleremmo con chi guida aziende così con oltre 50 addetti.",
  "market": {
   "count": "15.573",
-  "label": "titolari, CEO e direttori di aziende con oltre 50 addetti in aerospazio, ingegneria industriale, moda, oil and gas e chimica",
+  "label": "titolari, CEO e direttori di aziende con oltre 50 addetti in aerospazio, ingegneria industriale, moda e petrolchimico",
   "chips": [
    "tutta Italia",
    "oltre 50 addetti",
    "aerospazio",
    "ingegneria industriale",
    "moda",
-   "oil and gas",
-   "chimica"
+   "petrolchimico"
   ],
   "regions": [
    "Piemonte",
@@ -47,8 +46,30 @@
    "Sicilia",
    "Sardegna"
   ],
-  "source": "AI-ARK people_search 02/11/2026: location Italy, seniority owner/founder/c_suite/director, minEmployees 50, industry aerospace/aviation and aerospace component/defense and space/industrial engineering/industrial machinery/mechanical engineering/apparel/fashion/retail apparel and fashion/oil and gas/chemical manufacturing",
+  "source": "AI-ARK people_search 02/11/2026: location Italy, seniority owner/founder/c_suite/director, minEmployees 50, industry aerospace/aviation and aerospace component/defense and space/industrial engineering/industrial machinery/mechanical engineering/apparel/fashion/retail apparel and fashion/oil and gas/chemical manufacturing (petrolchimico = oil and gas + chemical manufacturing). Settori dai clienti dichiarati su /azienda. 'oltre 50 addetti' e' una scelta nostra",
   "sector": ""
  },
- "register": "lei"
+ "register": "lei",
+ "evidence": [
+  {
+   "claim": "slogan Talenti con le ali",
+   "url": "https://hermescorporate.it/",
+   "quote": "Talenti con le ali"
+  },
+  {
+   "claim": "progetti digitali e gestionali",
+   "url": "https://hermescorporate.it/azienda",
+   "quote": "seleziona e forma talenti per supportare progetti in ambito digitale e gestionale"
+  },
+  {
+   "claim": "consulenza in outsourcing",
+   "url": "https://hermescorporate.it/azienda",
+   "quote": "Hermes è l’azienda italiana di consulenza in outsourcing"
+  },
+  {
+   "claim": "clienti in aerospazio, ingegneria industriale, moda, petrolchimico",
+   "url": "https://hermescorporate.it/azienda",
+   "quote": "clienti internazionali nei settori aerospaziale, ingegneria industriale, moda, petrolchimico"
+  }
+ ]
 }

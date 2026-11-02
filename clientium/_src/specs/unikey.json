@@ -11,23 +11,60 @@
  ],
  "cases_first": "Planetica",
  "campaign": "C16",
- "cover_note": "Dal cloud agli agenti AI di Zendata, ecco chi contatteremmo per Unikey e come lavoreremmo.",
- "market_note": "Unikey affianca le imprese con professionisti su cloud, sicurezza e AI, quindi parleremmo con chi guida l'IT nelle aziende con oltre 100 addetti.",
+ "cover_note": "Dal cloud agli agenti AI di Zendata, ecco chi contatteremmo per Unikey.",
+ "market_note": "Unikey fornisce professionisti qualificati ai system integrator e ai clienti finali, quindi parleremmo con chi guida l'IT nelle aziende con oltre 100 addetti.",
  "market": {
-  "count": "2.877",
+  "count": "3.589",
   "label": "CIO, CTO e responsabili IT di aziende con oltre 100 addetti nel Lazio e in Lombardia",
   "chips": [
    "Lazio",
    "Lombardia",
    "oltre 100 addetti",
-   "escluse le aziende IT"
+   "system integrator compresi"
   ],
   "regions": [
    "Lazio",
    "Lombardia"
   ],
-  "source": "AI-ARK people_search 02/11/2026: location Lazio+Lombardy, department information_technology, seniority c_suite/vp/director/head, minEmployees 100, esclusi it services/software/network security",
+  "source": "AI-ARK people_search 02/11/2026: location Lazio+Lombardy, department information_technology, seniority c_suite/vp/director/head, minEmployees 100, nessuna esclusione di settore (il sito dice che i clienti principali sono system integrator). 'oltre 100 addetti' e' una scelta di targeting nostra, non un'affermazione su Unikey",
   "sector": ""
  },
- "register": "lei"
+ "register": "lei",
+ "evidence": [
+  {
+   "claim": "lavora sul cloud",
+   "url": "https://unikey.it/services",
+   "quote": "Cloud Progettazione, implementazione e gestione di soluzioni tecnologiche complete (E2E)"
+  },
+  {
+   "claim": "lavora sull'AI",
+   "url": "https://unikey.it/services",
+   "quote": "Sviluppo di soluzioni innovative basate sull'intelligenza artificiale generativa"
+  },
+  {
+   "claim": "Zendata fa agenti AI ed e' del gruppo Unikey",
+   "url": "https://unikey.it/",
+   "quote": "Zendata AI (ZenData s.r.l.) è la società del gruppo Unikey, con sede a Roma, che progetta e mette in produzione agenti AI"
+  },
+  {
+   "claim": "fornisce professionisti qualificati alle aziende clienti",
+   "url": "https://unikey.it/services",
+   "quote": "Unikey fornisce alle aziende clienti professionisti qualificati"
+  },
+  {
+   "claim": "clienti: system integrator",
+   "url": "https://unikey.it/partners",
+   "quote": "principali System Integrator, divenuti clienti"
+  },
+  {
+   "claim": "clienti: clienti finali",
+   "url": "https://unikey.it/partners",
+   "quote": "apprezzati anche dai clienti finali"
+  },
+  {
+   "claim": "sedi a Roma e Milano (regioni Lazio e Lombardia)",
+   "url": "https://unikey.it/",
+   "quote": "Via Papiria, 50 Roma (RM) Via Mario Bianchini, 51 Roma (RM) Via Libero Temolo, 4 Milano (MI)"
+  }
+ ]
 }
