@@ -41,10 +41,11 @@
  ],
  "market": {
   "count": "124.079",
-  "label": "titolari, CEO e direttori di aziende italiane da 10 a 250 addetti",
+  "label": "titolari, CEO e direttori di aziende industriali italiane da 10 a 250 addetti",
   "chips": [
    "tutta Italia",
-   "10-250 addetti"
+   "10-250 addetti",
+   "industria elettrotecnica"
   ],
   "regions": [
    "Piemonte",
