@@ -48,7 +48,13 @@
     "alimentare",
     "impianti",
     "energia"
-   ]
+   ],
+   "img": "assets/cases/effepi.webp",
+   "logo_img": "assets/cases/logo-effepi.png",
+   "stat2": "1.158 risposte da 12.453 aziende industriali contattate",
+   "reached": "SCM Group, Newlat, Prima Electro, Fantinel, Conceria Zonta",
+   "facts_source": "https://clientium.it/casi-studio/effepie/",
+   "logo_class": "sq"
   },
   {
    "name": "Neven",
@@ -62,7 +68,12 @@
     "edilizia",
     "energia",
     "industria"
-   ]
+   ],
+   "img": "assets/cases/neven.webp",
+   "logo_img": "",
+   "stat2": "138 risposte su 1.011 studi contattati",
+   "reached": "",
+   "facts_source": "https://clientium.it/casi-studio/neven/"
   },
   {
    "name": "Publy Team",
@@ -75,7 +86,12 @@
     "industria",
     "manifatturiero",
     "servizi"
-   ]
+   ],
+   "img": "assets/cases/publyteam.webp",
+   "logo_img": "assets/cases/logo-publyteam.png",
+   "stat2": "",
+   "reached": "Banca d'Italia, InfoCamere, Luxury Living Group",
+   "facts_source": "https://clientium.it/casi-studio/publy-team/"
   },
   {
    "name": "Blogger Italia",
@@ -101,7 +117,12 @@
     "software",
     "consulenza",
     "ict"
-   ]
+   ],
+   "img": "assets/cases/planetica.webp",
+   "logo_img": "assets/cases/logo-planetica.png",
+   "stat2": "62 nuove opportunità commerciali",
+   "reached": "Unicredit, Allianz, Leonardo, SAP, Microsoft, BMW, TIM",
+   "facts_source": "https://clientium.it/casi-studio/planetica/"
   },
   {
    "name": "ICT Group",
@@ -126,7 +147,12 @@
     "retail",
     "gdo",
     "marketing"
-   ]
+   ],
+   "img": "assets/cases/cube-proemotion.webp",
+   "logo_img": "assets/cases/logo-cube-proemotion.svg",
+   "stat2": "aperto il mercato GDO, impenetrabile per due decenni",
+   "reached": "",
+   "facts_source": "https://clientium.it/casi-studio/cube-proemotion/"
   }
  ],
  "trusted_logos": [

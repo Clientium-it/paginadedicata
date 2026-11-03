@@ -238,6 +238,27 @@ html.phone .mgrid.solo .big{font-size:64px;line-height:1}html.phone .mgrid.solo 
 .vc .vis .kpi.long{font-size:.72em}html.phone .vc .vis .kpi.long{font-size:22px}
 @media (max-height:760px){html.phone .mgrid.solo .chips{display:none}html.phone .mgrid.solo .big{font-size:56px}html.phone .mgrid.solo .bigl{font-size:16px}}
 @media (max-height:700px){html.phone .vc .tag{display:none}html.phone .vc .vis{aspect-ratio:auto;height:78px}html.phone .vc{grid-template-columns:96px 1fr}html.phone .src{display:none}html.phone .talk .contact{display:none}}
+
+/* v7 case cards: image on top, client logo, verified numbers */
+.vc.img{gap:0;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:var(--card)}
+.vc.img .vis{aspect-ratio:16/8;border:0;border-radius:0;background-size:cover;background-position:center}
+.vc.img .cb{display:flex;flex-direction:column;gap:7px;padding:14px 16px 16px}
+.vc.img .clogo{height:24px;width:auto;max-width:150px;object-fit:contain;object-position:left center;filter:brightness(0) invert(1);opacity:.92}
+.vc.img .clogo.sq{height:46px}html.phone .vc.img .clogo.sq{height:28px}
+.vc.img .cname{font-size:18px;font-weight:800;letter-spacing:-.01em;line-height:24px}
+.vc.img .kl{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.vc.img .k2{display:inline;font-size:34px}
+.vc.img .lb{font-size:14px;color:var(--fg);line-height:1.3;flex:1;min-width:120px}
+.vc.img .s2{font-size:13px;color:var(--fg);opacity:.85;line-height:1.35}
+.vc.img .rc{font-size:11.5px;color:var(--mute);line-height:1.4}
+html.phone .vc.img{display:grid;grid-template-columns:92px 1fr;column-gap:12px;align-items:stretch;border-radius:12px}
+html.phone .vc.img .vis{grid-row:auto;aspect-ratio:auto;height:100%;min-height:92px;padding:0;border-radius:0}
+html.phone .vc.img .cb{padding:9px 10px 9px 0;gap:3px}
+html.phone .vc.img .clogo{height:16px;max-width:110px}html.phone .vc.img .cname{font-size:14px;line-height:16px}
+html.phone .vc.img .k2{font-size:20px}html.phone .vc.img .lb{font-size:11.5px;min-width:0}
+html.phone .vc.img .s2{font-size:10.5px}html.phone .vc.img .rc{font-size:9.5px;line-height:1.3}
+@media (max-height:760px){html.phone .vc.img{grid-template-columns:64px 1fr}html.phone .vc.img .vis{min-height:64px}html.phone .vc.img .cb{padding:7px 8px 7px 0}html.phone .vc.img .k2{font-size:18px}}
+@media (max-height:680px){html.phone .vc.img{grid-template-columns:52px 1fr}html.phone .vc.img .s2{font-size:10px}html.phone .vcards{gap:7px}}
 </style>
 </head>
 <body>
@@ -276,7 +297,7 @@ html.phone .mgrid.solo .big{font-size:64px;line-height:1}html.phone .mgrid.solo 
 <section data-i="4" aria-label="Aziende come la sua, già in agenda"><div class="s proof">
   <div class="eyebrow in">Risultati</div>
   <h2 class="in">Aziende come la sua, già in agenda</h2>
-  <div class="vcards"><a class="vc" href="https://clientium.it/casi-studio/planetica/" target="_blank" rel="noopener"><div class="vis"><span class="kpi cu">33</span></div><span class="tag">Data analytics</span><h3>Planetica</h3><span class="k2">33</span><span class="lb">Appuntamenti corporate in meno di 90 giorni</span></a><a class="vc" href="https://clientium.it/casi-studio/effepie/" target="_blank" rel="noopener"><div class="vis"><span class="kpi cu">28+</span></div><span class="tag">Consulenza industriale 4.0 e 5.0</span><h3>EffePi Engineering</h3><span class="k2">28+</span><span class="lb">Meeting nel primo mese</span></a><a class="vc" href="https://clientium.it/casi-studio/neven/" target="_blank" rel="noopener"><div class="vis"><span class="kpi cu">44</span></div><span class="tag">Domotica luxury e home automation</span><h3>Neven</h3><span class="k2">44</span><span class="lb">Appuntamenti in 3 settimane</span></a></div>
+  <div class="vcards"><a class="vc img" href="https://clientium.it/casi-studio/planetica/" target="_blank" rel="noopener"><div class="vis" role="img" aria-label="Planetica" style="background-image:url(../assets/cases/planetica.webp)"></div><div class="cb"><img class="clogo " src="../assets/cases/logo-planetica.png" alt="Planetica" loading="lazy"><div class="kl"><span class="k2 cu">33</span><span class="lb">appuntamenti corporate in meno di 90 giorni</span></div><span class="s2">62 nuove opportunità commerciali</span><span class="rc">Raggiunte: Unicredit, Allianz, Leonardo, SAP, Microsoft, BMW, TIM</span></div></a><a class="vc img" href="https://clientium.it/casi-studio/effepie/" target="_blank" rel="noopener"><div class="vis" role="img" aria-label="EffePi Engineering" style="background-image:url(../assets/cases/effepi.webp)"></div><div class="cb"><img class="clogo sq" src="../assets/cases/logo-effepi.png" alt="EffePi Engineering" loading="lazy"><div class="kl"><span class="k2 cu">28+</span><span class="lb">meeting nel primo mese</span></div><span class="s2">1.158 risposte da 12.453 aziende industriali contattate</span><span class="rc">Raggiunte: SCM Group, Newlat, Prima Electro, Fantinel, Conceria Zonta</span></div></a><a class="vc img" href="https://clientium.it/casi-studio/neven/" target="_blank" rel="noopener"><div class="vis" role="img" aria-label="Neven" style="background-image:url(../assets/cases/neven.webp)"></div><div class="cb"><span class="cname">Neven</span><div class="kl"><span class="k2 cu">44</span><span class="lb">appuntamenti in 3 settimane</span></div><span class="s2">138 risposte su 1.011 studi contattati</span></div></a></div>
   <div class="marquee in" aria-label="Hanno scelto Clientium"><div class="track"><img src="../assets/refs/satispay.svg" alt=""><img src="../assets/refs/generali.svg" alt=""><img src="../assets/refs/finecobank.svg" alt=""><img src="../assets/refs/zucchetti.svg" alt=""><img src="../assets/refs/tiscali.svg" alt=""><img src="../assets/refs/server-it.svg" alt=""><img src="../assets/refs/myes.svg" alt=""><img src="../assets/refs/tesya.svg" alt=""><img src="../assets/refs/wetech.svg" alt=""><img src="../assets/refs/girardini.png" alt=""><img src="../assets/refs/samec.png" alt=""><img src="../assets/refs/scotwork.png" alt=""><img src="../assets/refs/satispay.svg" alt=""><img src="../assets/refs/generali.svg" alt=""><img src="../assets/refs/finecobank.svg" alt=""><img src="../assets/refs/zucchetti.svg" alt=""><img src="../assets/refs/tiscali.svg" alt=""><img src="../assets/refs/server-it.svg" alt=""><img src="../assets/refs/myes.svg" alt=""><img src="../assets/refs/tesya.svg" alt=""><img src="../assets/refs/wetech.svg" alt=""><img src="../assets/refs/girardini.png" alt=""><img src="../assets/refs/samec.png" alt=""><img src="../assets/refs/scotwork.png" alt=""></div></div>
 </div></section>
 
