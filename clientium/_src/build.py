@@ -101,6 +101,7 @@ def logos_html(prefix):
 def render(sp, prefix='../', fallback=False):
     """prefix = path from the deck folder to the repo root ('../' for <slug>/index.html, '/' for 404.html)."""
     for k in REQUIRED:
+        if k == 'domain' and sp.get('level') == 2: continue   # level 2: no verified site, so no domain
         assert sp.get(k) not in (None, '', []), f'{sp.get("slug")}: missing {k}'
     if sp.get('cover_note') or sp.get('market_note'):   # rule Steven 02/11: a claim about the lead goes on the page only with url + quote from its site (check: auto/evidence.py)
         assert sp.get('evidence') and all(e.get('claim') and e.get('url') and e.get('quote') for e in sp['evidence']), f'{sp["slug"]}: lead claims without evidence'
@@ -132,11 +133,11 @@ def render(sp, prefix='../', fallback=False):
         'TALK_HEAD': E(B['talk_head'].replace('{company}', co)), 'TALK_TEXT': E(B['talk_text']), 'BOOKING_URL': E(B['booking_url']), 'BOOKING_HOST': E(B['booking_host']),
         'SENDER_NAME': E(B['sender_name']), 'SENDER_TITLE': E(B['sender_title']), 'TEAM_PHOTO': prefix + E(B['team_photo']),
         'TRACK_URL': E(B['track_url']), 'SLUG': E(sp['slug']),
-        'COVER_NOTE': E(sp.get('cover_note', '')), 'MARKET_NOTE': E(sp.get('market_note', '')),
+        'COVER_NOTE': E(sp.get('cover_note') or sp.get('base_note', '')), 'MARKET_NOTE': E(sp.get('market_note') or sp.get('base_market_note', '')),   # base_*: our plan only, no claim about the lead (level 2, no site)
     }
     out = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
-    if not sp.get('cover_note'): out = re.sub(r'\s*<!--CNOTE-->.*?<!--/CNOTE-->', '', out, flags=re.S)
-    if not sp.get('market_note'): out = re.sub(r'\s*<!--MNOTE-->.*?<!--/MNOTE-->', '', out, flags=re.S)
+    if not (sp.get('cover_note') or sp.get('base_note')): out = re.sub(r'\s*<!--CNOTE-->.*?<!--/CNOTE-->', '', out, flags=re.S)
+    if not (sp.get('market_note') or sp.get('base_market_note')): out = re.sub(r'\s*<!--MNOTE-->.*?<!--/MNOTE-->', '', out, flags=re.S)
     if not mk.get('count'):                            # no verified market number: no market slide, no map, never a placeholder
         out = re.sub(r'<!--MARKET-->.*?<!--/MARKET-->', '', out, flags=re.S)
     elif not pk.get('insights'):                       # market known, sector data not yet: the number alone
