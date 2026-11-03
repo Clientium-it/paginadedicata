@@ -1,0 +1,92 @@
+{
+ "slug": "spiagge-it",
+ "company": "Spiagge.it",
+ "first_name": "Andrea",
+ "domain": "spiagge.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Il gestionale per chi guida una spiaggia, una piscina o un locale sul mare. Ecco chi contatteremmo per Spiagge.it.",
+ "market_note": "Spiagge.it offre da Rimini il gestionale per stabilimenti balneari, piscine e locali sul mare, quindi parleremmo con titolari e gestori che decidono come gestire lo stabilimento.",
+ "evidence": [
+  {
+   "claim": "Il gestionale si rivolge ai gestori di spiagge, piscine e locali sul mare",
+   "url": "https://www.spiagge.it:443/",
+   "quote": "Sei il gestore di una spiaggia, piscina o locale sul mare?"
+  },
+  {
+   "claim": "Spiagge.it vende un gestionale",
+   "url": "https://www.spiagge.it:443/",
+   "quote": "Il gestionale numero 1 in Italia"
+  },
+  {
+   "claim": "La sede è a Rimini",
+   "url": "https://www.spiagge.it:443/",
+   "quote": "Sede legale: Via Flaminia 180, 47924 Rimini (RN), IT"
+  },
+  {
+   "claim": "Il gestionale serve a gestire lo stabilimento e aumentare le prenotazioni",
+   "url": "https://www.spiagge.it:443/",
+   "quote": "Aumenta le prenotazioni e gestisci il tuo stabilimento in modo semplice e veloce!"
+  },
+  {
+   "claim": "Ci sono le prenotazioni online del posto in spiaggia",
+   "url": "https://www.spiagge.it:443/",
+   "quote": "Spiagge.it: prenota online un ombrellone nella tua spiaggia preferita!"
+  },
+  {
+   "claim": "Il prodotto è proposto su tutto il territorio italiano",
+   "url": "https://www.spiagge.it:443/",
+   "quote": "Il gestionale numero 1 in Italia"
+  },
+  {
+   "claim": "Il cliente tipo è il gestore di spiagge, piscine e locali sul mare",
+   "url": "https://www.spiagge.it:443/",
+   "quote": "Sei il gestore di una spiaggia, piscina o locale sul mare?"
+  }
+ ],
+ "market": {
+  "count": "2.426",
+  "label": "titolari e gestori di stabilimenti balneari, piscine e locali sul mare in tutta Italia da 2 a 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "stabilimenti balneari",
+   "piscine",
+   "locali sul mare",
+   "da 2 a 50 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 2, \"maxEmployees\": 50, \"companyIndustry\": \"recreational facilities,leisure,hospitality,tourism\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

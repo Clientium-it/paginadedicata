@@ -1,0 +1,93 @@
+{
+ "slug": "tesmec",
+ "company": "Tesmec",
+ "first_name": "Caterina",
+ "domain": "tesmec.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni integrate per costruzione, manutenzione ed efficienza delle infrastrutture di energia e dati. Ecco chi contatteremmo per Tesmec.",
+ "market_note": "Tesmec progetta e produce tecnologie per reti elettriche, telecomunicazioni e ferrovie, quindi parleremmo con titolari e direttori delle imprese che costruiscono e mantengono queste infrastrutture.",
+ "evidence": [
+  {
+   "claim": "Soluzioni integrate per costruzione, manutenzione ed efficienza delle infrastrutture di energia e dati",
+   "url": "https://www.tesmec.com/about-us",
+   "quote": "integrated solutions for the construction, maintenance and efficiency of infrastructures related to the transport and distribution of energy, data and material"
+  },
+  {
+   "claim": "Tesmec progetta e produce tecnologie",
+   "url": "https://www.tesmec.com/about-us",
+   "quote": "Tesmec designs, manufactures and sells products, technologies and integrated solutions"
+  },
+  {
+   "claim": "Tecnologie per reti elettriche",
+   "url": "https://www.tesmec.com/",
+   "quote": "Leading edge stringing solutions for overhead and underground power networks construction and maintenance/refurbishment"
+  },
+  {
+   "claim": "Tecnologie per le ferrovie",
+   "url": "https://www.tesmec.com/",
+   "quote": "Technological solutions for electrification, maintenance and diagnostics of the railway infrastructure"
+  },
+  {
+   "claim": "Soluzioni di scavo per la posa di reti telecom e cavi energia",
+   "url": "https://www.tesmec.com/",
+   "quote": "Clean, fast and safe digging solutions for telecom networks and energy cables laying"
+  },
+  {
+   "claim": "Settori serviti: energia, telecomunicazioni, miniere, petrolio e gas, ferrovie, costruzione di reti",
+   "url": "https://www.tesmec.com/",
+   "quote": "surface mining, bulk excavation, oil & gas pipelines"
+  },
+  {
+   "claim": "Mercato delle infrastrutture per il trasporto di energia, dati e materiali",
+   "url": "https://www.tesmec.com/about-us",
+   "quote": "operate in the market of infrastructure for the transport of energy, data and material"
+  }
+ ],
+ "market": {
+  "count": "15.794",
+  "label": "titolari, CEO e direttori di imprese italiane oltre 50 addetti in costruzioni, energia, telecomunicazioni e ferrovie",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "costruzioni",
+   "energia e utility",
+   "telecomunicazioni",
+   "ferrovie"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"construction,utilities,energy,telecommunications,railroad,oil and gas,mining\"}"
+ }
+}

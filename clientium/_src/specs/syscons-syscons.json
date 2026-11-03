@@ -1,0 +1,88 @@
+{
+ "slug": "syscons-syscons",
+ "company": "Syscons",
+ "first_name": "Silvia",
+ "domain": "syscons.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progetti digitali su misura per la supply chain e l'ERP delle imprese. Ecco chi contatteremmo per Syscons.",
+ "market_note": "Syscons digitalizza supply chain ed ERP per aziende di automotive, beni di consumo, manifattura industriale, life science e retail, quindi parleremmo con titolari, CEO e direttori operativi.",
+ "evidence": [
+  {
+   "claim": "Crea progetti digitali su misura per le aziende",
+   "url": "https://www.syscons.it/",
+   "quote": "Creiamo progetti digitali su misura che introducono innovazione e ottimizzano l'efficienza operativa"
+  },
+  {
+   "claim": "Offre soluzioni ERP",
+   "url": "https://www.syscons.it/servizi",
+   "quote": "Gestisci il tuo business con la giusta soluzione ERP"
+  },
+  {
+   "claim": "Digitalizza e integra la supply chain delle imprese",
+   "url": "https://www.syscons.it/servizi/digital-supply-chain",
+   "quote": "aiutiamo le imprese a digitalizzare e integrare la loro supply chain, eliminando operazioni manuali"
+  },
+  {
+   "claim": "Settori serviti dichiarati",
+   "url": "https://www.syscons.it/",
+   "quote": "Automotive Beni di consumo Industrial manufacturing Life Science and Healthcare Retail"
+  },
+  {
+   "claim": "Da oltre 20 anni aiuta le imprese a digitalizzare e integrare la supply chain",
+   "url": "https://www.syscons.it/servizi/digital-supply-chain",
+   "quote": "Da oltre 20 anni, aiutiamo le imprese a digitalizzare e integrare la loro supply chain"
+  },
+  {
+   "claim": "Settori clienti automotive, beni di consumo, manifattura industriale, life science, retail",
+   "url": "https://www.syscons.it/",
+   "quote": "Automotive Beni di consumo Industrial manufacturing Life Science and Healthcare Retail"
+  }
+ ],
+ "market": {
+  "count": "13.090",
+  "label": "titolari, CEO e direttori di aziende italiane di manifattura, automotive, beni di consumo e retail oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "automotive",
+   "manifattura industriale",
+   "beni di consumo",
+   "life science e retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"automotive,consumer goods,industrial manufacturing,life science,retail\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "smau",
+ "company": "SMAU",
+ "first_name": "Pierantonio",
+ "domain": "smau.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Una piattaforma di relazione che collega le aziende all'intero ecosistema dell'innovazione. Ecco chi contatteremmo per SMAU.",
+ "market_note": "SMAU raccoglie con il Roadshow imprese, startup e big player dell'innovazione, quindi parleremmo con titolari e direttori delle aziende che vendono tecnologia alle imprese.",
+ "evidence": [
+  {
+   "claim": "SMAU è una piattaforma di relazione che collega le aziende all'ecosistema dell'innovazione",
+   "url": "https://www.smau.it/chi-siamo",
+   "quote": "diventando una piattaforma di relazione che collega le aziende all'intero ecosistema dell'innovazione"
+  },
+  {
+   "claim": "Con il Roadshow SMAU raccoglie imprese, startup e big player",
+   "url": "https://www.smau.it/chi-siamo",
+   "quote": "grazie ai suoi tanti eventi, primo fra tutti il Roadshow, raccoglie attorno a sé imprese, startup e big player"
+  },
+  {
+   "claim": "Il Roadshow internazionale tocca Londra, Parigi, Stoccolma, New York e Milano",
+   "url": "https://www.smau.it/",
+   "quote": "SMAU International: Londra, Parigi, Stoccolma, New York e Milano"
+  },
+  {
+   "claim": "Nell'area espositiva ci sono fornitori di tecnologie e soluzioni",
+   "url": "https://www.smau.it/",
+   "quote": "Nell’area espositiva incontra i migliori fornitori di tecnologie e soluzioni abilitanti l’industria 4.0"
+  },
+  {
+   "claim": "Si rivolge alle aziende italiane senza limiti di zona",
+   "url": "https://www.smau.it/",
+   "quote": "supportare la crescita delle aziende italiane"
+  }
+ ],
+ "market": {
+  "count": "14.962",
+  "label": "titolari, CEO e direttori di aziende italiane di tecnologia oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "information technology",
+   "software"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"information technology,software,it services and it consulting\"}"
+ }
+}

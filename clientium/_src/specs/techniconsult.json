@@ -1,0 +1,108 @@
+{
+ "slug": "techniconsult",
+ "company": "Techniconsult",
+ "first_name": "Pier",
+ "domain": "tcfirenze.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Un unico partner per l’intero ciclo di vita dell’impianto Life Sciences. Ecco chi contatteremmo per Techniconsult.",
+ "market_note": "Techniconsult progetta, costruisce e mantiene impianti per aziende farmaceutiche, biotech e chimiche, quindi parleremmo con chi decide su nuovi stabilimenti, revamping e qualifiche.",
+ "evidence": [
+  {
+   "claim": "Unico partner per l'intero ciclo di vita dell'impianto nel settore Life Sciences",
+   "url": "https://tcfirenze.com/",
+   "quote": "Un unico partner per l’intero ciclo di vita dell’impianto nel settore Life Sciences"
+  },
+  {
+   "claim": "Progetta, costruisce e fa manutenzione",
+   "url": "https://tcfirenze.com/",
+   "quote": "Dall’ingegneria alla costruzione, dalla manutenzione all’eccellenza."
+  },
+  {
+   "claim": "Serve aziende farmaceutiche e chimiche",
+   "url": "https://tcfirenze.com/i-nostri-servizi/containment-monitoring/",
+   "quote": "Il nostro gruppo fornisce inoltre servizi e analisi per aziende chimiche e farmaceutiche"
+  },
+  {
+   "claim": "Lavora su impianti biotech",
+   "url": "https://tcfirenze.com/i-nostri-servizi/process-engineering/",
+   "quote": "relativamente ad impianti farmaceutici primari, secondari, API Bulk e Biotech."
+  },
+  {
+   "claim": "Revamping e nuove costruzioni",
+   "url": "https://tcfirenze.com/i-nostri-servizi/consultancy-engineering/",
+   "quote": "Siamo in grado di offrire servizi EPCM e EPC sia per revamping che per nuove costruzioni."
+  },
+  {
+   "claim": "Qualifiche",
+   "url": "https://tcfirenze.com/i-nostri-servizi/commissioning-qualification/",
+   "quote": "Proponiamo servizi integrati per tarature e qualifiche routinarie"
+  },
+  {
+   "claim": "Business Unit dedicata ai test di contenimento e monitoraggio",
+   "url": "https://tcfirenze.com/i-nostri-servizi/containment-monitoring/",
+   "quote": "Una Business Unit dedicata ai test di contenimento e al monitoraggio"
+  },
+  {
+   "claim": "Settori serviti dichiarati",
+   "url": "https://tcfirenze.com/",
+   "quote": "Nutraceutico, cosmetico, food&beverage, elettronico, sono settori che richiedono ambienti puliti"
+  },
+  {
+   "claim": "Settore Life Sciences",
+   "url": "https://tcfirenze.com/",
+   "quote": "offrendo soluzioni specializzate per il settore Life Sciences."
+  },
+  {
+   "claim": "Sede in Italia",
+   "url": "https://tcfirenze.com/",
+   "quote": "Maintenance Based in Italy 1986"
+  }
+ ],
+ "market": {
+  "count": "10.087",
+  "label": "titolari, CEO e direttori di aziende farmaceutiche, biotech e chimiche italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "farmaceutico",
+   "biotecnologico",
+   "chimico",
+   "nutraceutico e cosmetico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"pharmaceutical manufacturing,biotechnology,chemical manufacturing,nutraceutical,cosmetics,food and beverage manufacturing\"}"
+ }
+}

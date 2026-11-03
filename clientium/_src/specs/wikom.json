@@ -1,0 +1,91 @@
+{
+ "slug": "wikom",
+ "company": "Wikom",
+ "first_name": "Dino",
+ "domain": "wikom.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Una PSIM made in Italy per centrali operative e control room. Ecco chi contatteremmo per Wikom.",
+ "market_note": "Wikom integra da Roma sicurezza, video e allarmi in una piattaforma per centrali operative e control room, quindi parleremmo con chi guida servizi di security, safety e facility.",
+ "evidence": [
+  {
+   "claim": "Offre una PSIM made in Italy",
+   "url": "https://www.wikom.it/",
+   "quote": "Con la nostra PSIM made in Italy"
+  },
+  {
+   "claim": "Si rivolge a centrali operative e control room",
+   "url": "https://www.wikom.it/",
+   "quote": "Un intero ecosistema per le centrali operative e le control room"
+  },
+  {
+   "claim": "Ha sede a Roma",
+   "url": "https://www.wikom.it/contatti/",
+   "quote": "Via Remo Pannain, 15 - 00165 Roma"
+  },
+  {
+   "claim": "È un system integrator",
+   "url": "https://www.wikom.it/",
+   "quote": "Wikom è il System Integrator che ti offre la vera libertà di scelta"
+  },
+  {
+   "claim": "Lavora nei mercati security, safety e facilities",
+   "url": "https://www.wikom.it/",
+   "quote": "Da anni lavoriamo nei mercati di Security, Safety e Facilities"
+  },
+  {
+   "claim": "Il prodotto Lizzy gestisce la ricezione e il monitoraggio degli allarmi",
+   "url": "https://www.wikom.it/",
+   "quote": "Con Lizzy gestisci la ricezione e il monitoraggio degli allarmi"
+  },
+  {
+   "claim": "I clienti di Wikom offrono servizi di safety e security ai clienti finali",
+   "url": "https://www.wikom.it/asset-aziendale/",
+   "quote": "al cliente primario vengono offerti i servizi di Safety & Security da parte del cliente di Wikom"
+  }
+ ],
+ "market": {
+  "count": "1.533",
+  "label": "titolari, CEO e direttori di aziende italiane di security, safety e facility oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "security",
+   "safety e facility"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"security and investigations,facilities services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

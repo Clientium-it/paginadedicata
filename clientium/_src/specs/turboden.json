@@ -1,0 +1,98 @@
+{
+ "slug": "turboden",
+ "company": "Turboden",
+ "first_name": "Gabriele",
+ "domain": "turboden.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Impianti ORC, espansori a gas e grandi pompe di calore per energia pulita. Ecco chi contatteremmo per Turboden.",
+ "market_note": "Turboden progetta e produce impianti ORC che recuperano il calore di scarto industriale, quindi parleremmo con i direttori di cementifici, vetrerie, aziende del legno e del trattamento rifiuti.",
+ "evidence": [
+  {
+   "claim": "Turboden progetta, produce e mantiene impianti ORC",
+   "url": "https://www.turboden.com/",
+   "quote": "Turboden is an Italian firm and a global leader in the design, manufacture and maintenance of Organic Rankine Cycle (ORC) systems"
+  },
+  {
+   "claim": "Turboden offre anche espansori a gas e grandi pompe di calore",
+   "url": "https://www.turboden.com/",
+   "quote": "Today Turboden expands its solutions with gas expanders and large heat pumps"
+  },
+  {
+   "claim": "Il fine è creare sistemi di energia affidabili e pulita",
+   "url": "https://www.turboden.com/",
+   "quote": "by creating reliable and clean energy systems"
+  },
+  {
+   "claim": "Gli impianti ORC sfruttano il calore di scarto dei processi industriali",
+   "url": "https://www.turboden.com/",
+   "quote": "waste heat from industrial processes, waste incinerators, engines or gas turbines"
+  },
+  {
+   "claim": "Gli utenti tipici sono cementifici, vetrerie, industria del legno e gestione rifiuti",
+   "url": "https://www.turboden.com/",
+   "quote": "Typical Users Waste Management Company Wood Industry Pellet Production Cement Production Glass Production Datacenters"
+  },
+  {
+   "claim": "Gli impianti ORC producono energia dal calore di scarto industriale",
+   "url": "https://www.turboden.com/company/30/since-1980",
+   "quote": "ORC systems can generate electric and thermal power exploiting multiple sources"
+  },
+  {
+   "claim": "Turboden vende soluzioni a industrie e utility",
+   "url": "https://www.turboden.com/company/4510/turboden-america",
+   "quote": "The company provides technological solutions for power generation and heat electrification to industries and to utilities."
+  },
+  {
+   "claim": "Sede a Brescia",
+   "url": "https://www.turboden.com/",
+   "quote": "Via Cernaia 10 25124 Brescia - Italy"
+  }
+ ],
+ "market": {
+  "count": "3.083",
+  "label": "titolari, CEO e direttori di aziende industriali italiane oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "cemento e vetro",
+   "industria del legno",
+   "gestione rifiuti",
+   "datacenter"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"waste management,wood processing,glass, ceramics and concrete manufacturing,data center,utilities\"}"
+ }
+}

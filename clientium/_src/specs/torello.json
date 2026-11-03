@@ -1,0 +1,118 @@
+{
+ "slug": "torello",
+ "company": "Torello",
+ "first_name": "Umberto",
+ "domain": "tntorello.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Trasporti su strada e soluzioni di logistica integrata per le aziende. Ecco chi contatteremmo per Torello.",
+ "market_note": "Torello offre trasporto, magazzino e distribuzione alle aziende di GDO, alimentare, fashion, industria e commercio elettronico, quindi parleremmo con chi decide su supply chain e logistica.",
+ "evidence": [
+  {
+   "claim": "Fa trasporti su strada e logistica integrata",
+   "url": "https://tntorello.com/",
+   "quote": "Trasporti su strada e soluzioni di logistica integrata"
+  },
+  {
+   "claim": "Lavora per le aziende",
+   "url": "https://tntorello.com/",
+   "quote": "Torello è il partner logistico ideale per le aziende che mirano alla crescita"
+  },
+  {
+   "claim": "Offre trasporto, magazzino e distribuzione",
+   "url": "https://tntorello.com/chi-siamo/",
+   "quote": "servizi che coprono trasporto, logistica di magazzino e distribuzione last-mile"
+  },
+  {
+   "claim": "Serve la GDO",
+   "url": "https://tntorello.com/settori-serviti/",
+   "quote": "Torello integra trasporto, magazzino e distribuzione in un’unica governance"
+  },
+  {
+   "claim": "Serve retail di ogni dimensione",
+   "url": "https://tntorello.com/settori-serviti/",
+   "quote": "Torello fornisce servizi ai retailer di ogni dimensione e settore"
+  },
+  {
+   "claim": "Serve il settore industriale",
+   "url": "https://tntorello.com/settori-serviti/",
+   "quote": "Nel settore industriale intere linee di produzione possono bloccarsi"
+  },
+  {
+   "claim": "Serve il fashion",
+   "url": "https://tntorello.com/settori-serviti/",
+   "quote": "La complessità del mercato fashion necessita di partner preparati"
+  },
+  {
+   "claim": "Serve l'e-commerce",
+   "url": "https://tntorello.com/settori-serviti/",
+   "quote": "Torello è presente dall’ordine alla consegna"
+  },
+  {
+   "claim": "Progetto di logistica integrata con Decathlon diventato partnership",
+   "url": "https://tntorello.com/",
+   "quote": "Il progetto di logistica integrata diventato una partnership che si ispira alla sostenibilità"
+  },
+  {
+   "claim": "Servizi nazionali e internazionali",
+   "url": "https://tntorello.com/",
+   "quote": "I servizi di trasporto e distribuzione last-mile – nazionali e internazionali"
+  },
+  {
+   "claim": "Settori serviti dichiarati",
+   "url": "https://tntorello.com/settori-serviti/",
+   "quote": "Logistica per tutti i business, settori, segmenti di mercato"
+  },
+  {
+   "claim": "Cantieristica navale tra i settori",
+   "url": "https://tntorello.com/settori-serviti/",
+   "quote": "in mare o a terra, dall’impianto di produzione direttamente a bordo"
+  }
+ ],
+ "market": {
+  "count": "16.452",
+  "label": "titolari, CEO e direttori di aziende italiane con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "GDO e retail",
+   "alimentare",
+   "fashion",
+   "industriale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail,food and beverage manufacturing,fashion,industrial manufacturing,shipbuilding,e-commerce\"}"
+ }
+}

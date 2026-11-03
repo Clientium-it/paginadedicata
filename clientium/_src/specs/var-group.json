@@ -1,0 +1,98 @@
+{
+ "slug": "var-group",
+ "company": "Var Group",
+ "first_name": "Mirko",
+ "domain": "vargroup.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Var Group affianca le imprese nel loro percorso di evoluzione digitale. Ecco chi contatteremmo per Var Group.",
+ "market_note": "Var Group segue da Empoli l'evoluzione digitale delle imprese italiane, dall'ERP alla cybersecurity, quindi parleremmo con chi decide su gestionali, sicurezza e infrastruttura IT.",
+ "evidence": [
+  {
+   "claim": "Var Group accompagna le imprese nell'evoluzione digitale",
+   "url": "https://www.vargroup.com/it-IT",
+   "quote": "Var Group affianca le imprese nel loro percorso di evoluzione digitale"
+  },
+  {
+   "claim": "Sede a Empoli",
+   "url": "https://www.vargroup.com/it-IT",
+   "quote": "Via della Piovola, 138 - 50053 Empoli FI"
+  },
+  {
+   "claim": "Si rivolge alle aziende italiane",
+   "url": "https://www.vargroup.com/it-IT",
+   "quote": "per le aziende italiane è il momento di costruire, insieme a un partner digitale"
+  },
+  {
+   "claim": "Offre ERP e business application",
+   "url": "https://www.vargroup.com/it-IT/Services/Business_Applications",
+   "quote": "Business Applications ERP, soluzioni e piattaforme"
+  },
+  {
+   "claim": "Offre servizi di cybersecurity",
+   "url": "https://www.vargroup.com/it-IT/Services/Cyber_Security",
+   "quote": "La sicurezza informatica che supporta il business, oggi e nel futuro"
+  },
+  {
+   "claim": "Egyda è la piattaforma proprietaria che porta AI e automazione nel SOC",
+   "url": "https://www.vargroup.com/it-IT/Services/Cyber_Security",
+   "quote": "Egyda è la piattaforma proprietaria che porta intelligenza artificiale e automazione nel SOC"
+  },
+  {
+   "claim": "Settori industriali serviti",
+   "url": "https://www.vargroup.com/it-IT/Services/Industry_Solutions",
+   "quote": "Manufacturing Food & Beverage Retail & Distribution Furniture Fashion & Luxury Pharma Automotive"
+  },
+  {
+   "claim": "Opera in Italia e nel mondo",
+   "url": "https://www.vargroup.com/it-IT",
+   "quote": "sviluppando modelli di business che ne esaltano l'eccellenza in Italia e nel mondo"
+  }
+ ],
+ "market": {
+  "count": "2.156",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manifattura",
+   "food and beverage",
+   "fashion",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,food and beverage,retail,furniture,fashion,pharmaceutical,automotive,consumer goods,professional services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

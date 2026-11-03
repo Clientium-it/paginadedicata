@@ -1,0 +1,97 @@
+{
+ "slug": "uniconfort",
+ "company": "Uniconfort",
+ "first_name": "Davis",
+ "domain": "uniconfort.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Valore alla biomassa e agli scarti industriali e agricoli, convertiti in energia pulita. Ecco chi contatteremmo per Uniconfort.",
+ "market_note": "Uniconfort progetta caldaie e impianti a biomassa chiavi in mano per chi usa i propri scarti come energia, quindi parleremmo con titolari e direttori di stabilimento.",
+ "evidence": [
+  {
+   "claim": "Danno valore a biomassa e scarti industriali e agricoli convertendoli in energia pulita",
+   "url": "https://www.uniconfort.com/azienda/perche-scegliere-uniconfort.html",
+   "quote": "La nostra Mission è dare valore alla Biomassa e agli Scarti di processi industriali e agricoli, convertendoli in Energia Pulita."
+  },
+  {
+   "claim": "Progettano e costruiscono caldaie a biomassa",
+   "url": "https://www.uniconfort.com/azienda/",
+   "quote": "Progettazione e Costruzione Caldaie a Biomassa"
+  },
+  {
+   "claim": "Impianti a biomassa chiavi in mano",
+   "url": "https://www.uniconfort.com/azienda/",
+   "quote": "Impianti di Cogenerazione a Biomassa “chiavi in mano”"
+  },
+  {
+   "claim": "I clienti usano i propri scarti per produrre energia",
+   "url": "https://www.uniconfort.com/azienda/centro-ricerca.html",
+   "quote": "utilizzare i propri scarti per produrre energia"
+  },
+  {
+   "claim": "Hanno in sede un impianto per test di combustione",
+   "url": "https://www.uniconfort.com/azienda/perche-scegliere-uniconfort.html",
+   "quote": "abbiamo a disposizione un impianto in sede per eseguire test di combustione"
+  },
+  {
+   "claim": "I test riguardano lo scarto del processo produttivo del cliente",
+   "url": "https://www.uniconfort.com/azienda/centro-ricerca.html",
+   "quote": "quando il cliente ha la possibilità di utilizzare come combustibile lo scarto ottenuto dal proprio processo produttivo"
+  },
+  {
+   "claim": "Settori di provenienza della biomassa: legno, agricoltura, alimentare",
+   "url": "https://www.uniconfort.com/azienda/",
+   "quote": "proveniente dall’industria forestale e della lavorazione del legno, dall’agricoltura, dal settore della lavorazione di prodotti alimentari"
+  },
+  {
+   "claim": "Operano in tutto il mondo, zona non limitata",
+   "url": "https://www.uniconfort.com/azienda/perche-scegliere-uniconfort.html",
+   "quote": "3000 IMPIANTI IN TUTTO IL MONDO"
+  }
+ ],
+ "market": {
+  "count": "2.459",
+  "label": "titolari, CEO e direttori di aziende italiane del legno, agricole e alimentari oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "lavorazione del legno",
+   "alimentare",
+   "agricoltura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"wood processing,food processing,agriculture\"}"
+ }
+}

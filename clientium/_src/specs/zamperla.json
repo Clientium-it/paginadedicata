@@ -1,0 +1,106 @@
+{
+ "slug": "zamperla",
+ "company": "Zamperla",
+ "first_name": "Antonio",
+ "domain": "zamperla.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Tecnologia, creatività e artigianalità per attrazioni dalle giostre per bambini ai roller coaster. Ecco chi contatteremmo per Zamperla.",
+ "market_note": "Zamperla progetta da Altavilla Vicentina attrazioni per parchi divertimento e centri di intrattenimento, quindi parleremmo con titolari e direttori di parchi e strutture per il tempo libero.",
+ "evidence": [
+  {
+   "claim": "Unisce tecnologia, creatività e artigianalità",
+   "url": "https://www.zamperla.com/",
+   "quote": "Welcome to Zamperla, where technology, creativity, and craftsmanship unite to deliver pure fun, and lasting memories all over the world."
+  },
+  {
+   "claim": "Offre una gamma completa di attrazioni",
+   "url": "https://www.zamperla.com/",
+   "quote": "Only Zamperla can offer a complete set of attractions"
+  },
+  {
+   "claim": "Arriva fino ai roller coaster più estremi",
+   "url": "https://www.zamperla.com/",
+   "quote": "to the most extreme roller coasters"
+  },
+  {
+   "claim": "Sede ad Altavilla Vicentina",
+   "url": "https://www.zamperla.com/all-products",
+   "quote": "Via M.te Grappa 15/17 36077 Altavilla Vicentina, Italy"
+  },
+  {
+   "claim": "Clienti tipo sono parchi, FEC e operatori",
+   "url": "https://www.zamperla.com/contacts",
+   "quote": "Park Design Company Fec Supplier Municipality"
+  },
+  {
+   "claim": "Attrazioni per parchi di ogni dimensione",
+   "url": "https://www.zamperla.com/products/flat",
+   "quote": "perfect for parks of any size"
+  },
+  {
+   "claim": "Attrazioni a Gardaland",
+   "url": "https://www.zamperla.com/",
+   "quote": "Gardaland Italy Gomelskij Park"
+  },
+  {
+   "claim": "Attrazioni a Mirabilandia",
+   "url": "https://www.zamperla.com/",
+   "quote": "Mirabilandia Italy Miramagica Italy"
+  },
+  {
+   "claim": "Attrazioni a Etnaland",
+   "url": "https://www.zamperla.com/",
+   "quote": "Etnaland Italy Europa Park Germany"
+  },
+  {
+   "claim": "Compratori sono parchi e centri di intrattenimento",
+   "url": "https://www.zamperla.com/contacts",
+   "quote": "Park Design Company Fec Supplier Municipality"
+  }
+ ],
+ "market": {
+  "count": "199",
+  "label": "titolari, CEO e direttori di parchi divertimento e strutture per il tempo libero in Italia",
+  "chips": [
+   "tutta Italia",
+   "da 10 addetti in su",
+   "parchi divertimento",
+   "strutture per il tempo libero"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"companyIndustry\": \"amusement park and arcade,recreational facilities\"}"
+ }
+}

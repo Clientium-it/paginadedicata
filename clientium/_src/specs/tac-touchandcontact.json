@@ -1,0 +1,85 @@
+{
+ "slug": "tac-touchandcontact",
+ "company": "TAC",
+ "first_name": "Aron",
+ "domain": "touchandcontact.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Raccogliere, qualificare e attivare i contatti nati dalle relazioni, fino al CRM. Ecco chi contatteremmo per TAC.",
+ "market_note": "TAC offre ai team sales una piattaforma per qualificare i contatti nati da eventi e incontri, quindi parleremmo con direttori commerciali e marketing di aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "TAC raccoglie, qualifica e attiva i contatti generati dalle relazioni integrandoli nel CRM",
+   "url": "https://tac.business/",
+   "quote": "Raccogli, qualifica e attiva i contatti generati dalle relazioni, integrandoli nei processi commerciali e nel CRM."
+  },
+  {
+   "claim": "Offre ai team sales strumenti per qualificare i contatti",
+   "url": "https://tac.business/about-us/",
+   "quote": "Per i team sales Mettiamo a disposizione strumenti commerciali avanzati per qualificare i contatti e tracciare ogni interazione."
+  },
+  {
+   "claim": "Gestisce contatti nati da eventi e incontri",
+   "url": "https://tac.business/",
+   "quote": "Tutte le relazioni nate da eventi, scambio di email o contatti o Linkedin confluiscono automaticamente in TAC"
+  },
+  {
+   "claim": "Lo scanner universale digitalizza i contatti cartacei in dati strutturati",
+   "url": "https://tac.business/",
+   "quote": "Lo scanner universale usa l’AI per digitalizzare qualsiasi contatto cartaceo e trasformarlo in dati strutturati"
+  },
+  {
+   "claim": "Vende anche ai reparti marketing delle aziende",
+   "url": "https://tac.business/about-us/",
+   "quote": "Marketing Monitora le perfomance del network aziendale e cura l’immagine dei dipendenti."
+  },
+  {
+   "claim": "Sede a Roma",
+   "url": "https://tac.business/",
+   "quote": "Via Adriano Olivetti n.24 00131 Roma"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori commerciali e marketing di aziende italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "direttori commerciali e marketing"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

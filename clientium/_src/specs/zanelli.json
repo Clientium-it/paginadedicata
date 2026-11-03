@@ -1,0 +1,108 @@
+{
+ "slug": "zanelli",
+ "company": "Zanelli",
+ "first_name": "Alberto",
+ "domain": "zanelli.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Miscelatori, dispersori ed estrusori industriali progettati e costruiti a Collecchio. Ecco chi contatteremmo per Zanelli.",
+ "market_note": "Zanelli costruisce da Collecchio miscelatori ed estrusori per chi produce adesivi, sigillanti, cosmetica e materie plastiche, quindi parleremmo con titolari e direttori di produzione e ricerca e sviluppo.",
+ "evidence": [
+  {
+   "claim": "Zanelli progetta e realizza macchine di processo e impianti",
+   "url": "https://www.zanelli.com/",
+   "quote": "Le Officine meccaniche Zanelli, progettano, realizzano e coordinano attraverso le differenti divisioni produttive"
+  },
+  {
+   "claim": "Produce dispersori e mescolatori industriali",
+   "url": "https://www.zanelli.com/",
+   "quote": "Dispersori e Mescolatori Industriali Dispersori industriali ad alta efficienza."
+  },
+  {
+   "claim": "Produce estrusori nelle proprie officine",
+   "url": "https://www.zanelli.com/",
+   "quote": "La linea di estrusori costruiti interamente ed internamente nelle officine meccaniche ZANELLI"
+  },
+  {
+   "claim": "Sede a Collecchio",
+   "url": "https://www.zanelli.com/",
+   "quote": "Via Giuseppe di Vittorio, 4/6 43044 Collecchio (PR) ITALIA"
+  },
+  {
+   "claim": "Si rivolge ad aziende che producono adesivi e sigillanti",
+   "url": "https://www.zanelli.com/",
+   "quote": "Come si attrezza il laboratorio R&D di un'azienda che produce adesivi e sigillanti"
+  },
+  {
+   "claim": "Settori clienti tra cui cosmetica e materie plastiche",
+   "url": "https://www.zanelli.com/contatti/",
+   "quote": "Seleziona il tuo settore di appartenenza Automotive Edilizia Cosmetica Grassi Industriali Materie Plastiche Tessile Batterie Aerospaziale Inchiostri Elettronica"
+  },
+  {
+   "claim": "Il laboratorio testa le macchine sui prodotti specifici del cliente di bassa e altissima viscosità",
+   "url": "https://www.zanelli.com/",
+   "quote": "testare l’efficacia delle macchine nella lavorazione dei prodotti specifici di bassa, media, alta ed altissima viscosità"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://www.zanelli.com/contatti/",
+   "quote": "Seleziona il tuo settore di appartenenza Automotive Edilizia Cosmetica Grassi Industriali Materie Plastiche Tessile Batterie Aerospaziale Inchiostri Elettronica"
+  },
+  {
+   "claim": "Specializzazione in impianti per il settore chimico",
+   "url": "https://www.zanelli.com/azienda/",
+   "quote": "specializzandosi nella progettazione e costruzione di impianti per il settore chimico."
+  },
+  {
+   "claim": "Mercato non limitato a una zona",
+   "url": "https://www.zanelli.com/",
+   "quote": "fanno della Zanelli un sicuro riferimento per i mercati internazionali."
+  }
+ ],
+ "market": {
+  "count": "15.766",
+  "label": "titolari, CEO e direttori di aziende chimiche e manifatturiere italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "chimica",
+   "cosmetica",
+   "materie plastiche",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"chemical manufacturing,cosmetics,plastics manufacturing,automotive,construction,textile manufacturing,battery,aviation and aerospace component manufacturing,electronics\"}"
+ }
+}

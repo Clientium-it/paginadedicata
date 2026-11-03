@@ -1,0 +1,95 @@
+{
+ "slug": "spoki",
+ "company": "Spoki",
+ "first_name": "Cosimo",
+ "domain": "spoki.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Conversazioni su WhatsApp che ricordano, vendono e fidelizzano i clienti. Ecco chi contatteremmo per Spoki.",
+ "market_note": "Spoki porta da San Vito dei Normanni WhatsApp, voce e AI nelle vendite e nell'assistenza delle aziende, quindi parleremmo con chi decide su marketing, vendite e customer care.",
+ "evidence": [
+  {
+   "claim": "Conversazioni che ricordano, vendono e fidelizzano",
+   "url": "https://spoki.com/en/about",
+   "quote": "replace tickets and forms with conversations that remember, sell and retain."
+  },
+  {
+   "claim": "Sede a San Vito dei Normanni, software house italiana",
+   "url": "https://spoki.com/en/about",
+   "quote": "an Italian software company founded in 2021, headquartered in San Vito dei Normanni with an office in Barcelona."
+  },
+  {
+   "claim": "Aiuta le aziende a comunicare con le persone",
+   "url": "https://spoki.com/en/about",
+   "quote": "We help businesses talk to people in a simple, direct, and human way."
+  },
+  {
+   "claim": "Vendite e customer care su WhatsApp",
+   "url": "https://spoki.com/en/about",
+   "quote": "To become the global standard for sales and customer care on WhatsApp."
+  },
+  {
+   "claim": "WhatsApp, chatbot AI, CRM e Voice AI in un'unica piattaforma",
+   "url": "https://spoki.com/de",
+   "quote": "Sie vereint KI-Chatbots, Marketing-Automation, Broadcasts, ein konversationelles CRM und Voice AI in einer Oberfläche"
+  },
+  {
+   "claim": "Agente vocale AI che risponde e qualifica",
+   "url": "https://spoki.com/de",
+   "quote": "Der KI-Sprachagent , der antwortet, qualifiziert und das Gespräch über jeden Kanal fortsetzt."
+  },
+  {
+   "claim": "Qualifica i contatti e conferma gli appuntamenti",
+   "url": "https://spoki.com/de",
+   "quote": "Die KI stellt die richtigen Fragen, qualifiziert Kontakte und bestätigt freie Termine, bevor an den Vertrieb übergeben wird."
+  },
+  {
+   "claim": "Mercato principale in Italia",
+   "url": "https://spoki.com/en/about",
+   "quote": "We consolidated our leadership in Italy"
+  }
+ ],
+ "market": {
+  "count": "124.079",
+  "label": "titolari, CEO e direttori di aziende italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10 a 250 addetti",
+   "titolari e direttori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

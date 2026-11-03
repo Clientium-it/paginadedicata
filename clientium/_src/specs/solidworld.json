@@ -1,0 +1,96 @@
+{
+ "slug": "solidworld",
+ "company": "SolidWorld",
+ "first_name": "Piero",
+ "domain": "solidworldgroup.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Tutta l'innovazione del mondo 3D riunita in un solo gruppo. Ecco chi contatteremmo per SolidWorld.",
+ "market_note": "SolidWorld porta software CAD, scansione e stampa 3D nei reparti di progettazione e produzione delle aziende industriali in tutta Italia, quindi parleremmo con titolari e direttori tecnici e di produzione.",
+ "evidence": [
+  {
+   "claim": "Riunisce l'innovazione del mondo 3D in un solo gruppo",
+   "url": "https://solidworldgroup.it/",
+   "quote": "innovazione del mondo 3D riunita in un solo gruppo"
+  },
+  {
+   "claim": "Vende software CAD ai clienti",
+   "url": "https://solidworldgroup.it/soluzioni-integrate-smart-manufacturing/",
+   "quote": "Supporta i propri clienti con la migliore tecnologia digitale CAD, CAM, PDM/PLM"
+  },
+  {
+   "claim": "Fornisce scanner e stampanti 3D",
+   "url": "https://solidworldgroup.it/soluzioni-integrate-smart-manufacturing/",
+   "quote": "con scanner professionali e stampanti 3D dei migliori brand internazionali"
+  },
+  {
+   "claim": "Si rivolge ai reparti di progettazione e produzione delle realtà industriali",
+   "url": "https://solidworldgroup.it/soluzioni-integrate-smart-manufacturing/",
+   "quote": "indirizzate ai dipartimenti di progettazione e produzione di grandi e piccole realtà industriali e studi di progettazione"
+  },
+  {
+   "claim": "Opera su tutto il territorio nazionale",
+   "url": "https://solidworldgroup.it/soluzioni-integrate-smart-manufacturing/",
+   "quote": "accompagniamo le aziende su tutto il territorio nazionale"
+  },
+  {
+   "claim": "Unico centro di formazione autorizzato in Italia da Stratasys",
+   "url": "https://solidworldgroup.it/soluzioni-integrate-smart-manufacturing/",
+   "quote": "unico centro di formazione autorizzato in Italia da Stratasys"
+  },
+  {
+   "claim": "Clienti sono industrie e studi di progettazione",
+   "url": "https://solidworldgroup.it/soluzioni-integrate-smart-manufacturing/",
+   "quote": "tecnologia digitale 3D per le industrie e studi di progettazione"
+  },
+  {
+   "claim": "Copertura nazionale",
+   "url": "https://solidworldgroup.it/soluzioni-integrate-smart-manufacturing/",
+   "quote": "accompagniamo le aziende su tutto il territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "11.301",
+  "label": "titolari, CEO e direttori tecnici di aziende industriali e studi di progettazione da 10 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "da 10 addetti",
+   "aziende industriali",
+   "studi di progettazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"companyIndustry\": \"industrial manufacturing,machinery manufacturing,industrial engineering\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

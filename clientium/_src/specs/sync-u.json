@@ -1,0 +1,85 @@
+{
+ "slug": "sync-u",
+ "company": "Sync-U",
+ "first_name": "Ciro",
+ "domain": "syncu.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Integrano Salesforce e Microsoft Dynamics 365 con ERP, BI e cloud Azure. Ecco chi contatteremmo per Sync-U.",
+ "market_note": "Sync-U implementa da Magenta Salesforce e Dynamics 365 per vendite, marketing e customer service delle aziende, quindi parleremmo con chi decide su CRM, processi commerciali e dati.",
+ "evidence": [
+  {
+   "claim": "Integrano Salesforce e Microsoft Dynamics 365 con ERP, BI e cloud Azure",
+   "url": "https://www.syncu.it/",
+   "quote": "Integriamo Salesforce e Microsoft Dynamics 365 con ERP, e-commerce, BI e cloud come Azure."
+  },
+  {
+   "claim": "Implementa Salesforce e Dynamics 365 per vendite, marketing e customer service",
+   "url": "https://www.syncu.it/servizi/crm-consulting/",
+   "quote": "Potenzia vendite, marketing e customer service con un CRM davvero funzionale per i tuoi processi"
+  },
+  {
+   "claim": "Sede a Magenta",
+   "url": "https://www.syncu.it/",
+   "quote": "Via Garibaldi , 84 - 20013 Magenta (MI) Sede Operativa"
+  },
+  {
+   "claim": "Pacchetti IT a canone fisso con Sync-U Flex",
+   "url": "https://www.syncu.it/",
+   "quote": "Pacchetti IT a canone fisso: come uscire dal Time & Material con Sync-U Flex"
+  },
+  {
+   "claim": "Implementazione Salesforce e Dynamics 365",
+   "url": "https://www.syncu.it/servizi/",
+   "quote": "implementazione e personalizzazione di Salesforce e Dynamics 365"
+  },
+  {
+   "claim": "Vende ad aziende per migliorare vendite e operatività, senza limiti di zona dichiarati",
+   "url": "https://www.syncu.it/",
+   "quote": "Pronto a migliorare vendite e operatività?"
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "titolari e direttori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

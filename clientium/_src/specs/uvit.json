@@ -1,0 +1,103 @@
+{
+ "slug": "uvit",
+ "company": "UVIT",
+ "first_name": "Piero",
+ "domain": "uvit.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Attrezzature professionali di serraggio e manutenzione industriale, vendita, noleggio e tarature. Ecco chi contatteremmo per UVIT.",
+ "market_note": "UVIT vende e noleggia da Peschiera Borromeo attrezzature di serraggio alle aziende di energia, eolico, petrolchimico e costruzioni, quindi parleremmo con chi dirige manutenzione e produzione.",
+ "evidence": [
+  {
+   "claim": "UVIT opera nelle attrezzature professionali di serraggio e manutenzione industriale",
+   "url": "https://www.uvit.it/",
+   "quote": "UVIT è leader in Italia nel settore delle attrezzature professionali di serraggio e manutenzione industriale"
+  },
+  {
+   "claim": "Offre vendita, noleggio e taratura degli strumenti",
+   "url": "https://www.uvit.it/",
+   "quote": "si affidano a UVIT per la vendita, il noleggio di attrezzature, la calibrazione e la taratura degli strumenti di serraggio"
+  },
+  {
+   "claim": "UVIT noleggia e vende soluzioni per montaggi e manutenzione",
+   "url": "https://www.uvit.it/",
+   "quote": "UVIT noleggia e vende soluzioni applicate ai montaggi e alla manutenzione di qualsiasi tipo di equipaggiamento o impianto"
+  },
+  {
+   "claim": "Sede a Peschiera Borromeo",
+   "url": "https://www.uvit.it/servizi/riparazioni-e-manutenzioni/",
+   "quote": "UVIT effettua manutenzioni e riparazioni sia presso la propria sede di Peschiera Borromeo"
+  },
+  {
+   "claim": "Clienti nei settori energia, eolico, petrolchimico, costruzioni",
+   "url": "https://www.uvit.it/",
+   "quote": "destinati principalmente alle aziende dei settori energia, eolico, petrolchimico, costruzioni, mezzi di trasporto, ingegneria meccanica"
+  },
+  {
+   "claim": "Laboratorio mobile per tarature presso la sede del cliente",
+   "url": "https://www.uvit.it/servizi/certificazioni-e-tarature/",
+   "quote": "Il servizio viene effettuato sia in sede presso il proprio laboratorio sia presso la sede del cliente grazie a un laboratorio mobile"
+  },
+  {
+   "claim": "Il laboratorio mobile tara chiavi dinamometriche presso le sedi dei clienti",
+   "url": "https://www.uvit.it/servizi/laboratorio-mobile/",
+   "quote": "calibrazioni, tarature, manutenzioni e riparazioni chiavi dinamometriche, avvitatori dinamometrici, trasduttori di coppia e chiavi idrauliche direttamente presso le vostre sedi"
+  },
+  {
+   "claim": "Servizio disponibile in tutta Italia",
+   "url": "https://www.uvit.it/servizi/laboratorio-mobile/",
+   "quote": "Il servizio è disponibile in Italia per attrezzature di qualsiasi marca"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://www.uvit.it/",
+   "quote": "destinati principalmente alle aziende dei settori energia, eolico, petrolchimico, costruzioni, mezzi di trasporto, ingegneria meccanica"
+  }
+ ],
+ "market": {
+  "count": "12.330",
+  "label": "titolari, CEO e direttori di aziende italiane di energia, eolico, petrolchimico e costruzioni oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "energia ed eolico",
+   "petrolchimico",
+   "costruzioni",
+   "ingegneria meccanica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"energy,wind energy,oil and gas,construction,mechanical engineering\"}"
+ }
+}

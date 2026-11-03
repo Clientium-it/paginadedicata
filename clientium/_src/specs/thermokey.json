@@ -1,0 +1,87 @@
+{
+ "slug": "thermokey",
+ "company": "ThermoKey",
+ "first_name": "Giuseppe",
+ "domain": "thermokey.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Scambiatori di calore su misura e standard per applicazioni commerciali e industriali. Ecco chi contatteremmo per ThermoKey.",
+ "market_note": "ThermoKey produce scambiatori di calore per condizionamento, refrigerazione e data center per costruttori e installatori, quindi parleremmo con titolari e direttori tecnici di aziende impiantistiche e OEM.",
+ "evidence": [
+  {
+   "claim": "Soluzioni di scambio termico su misura e standard per applicazioni commerciali e industriali",
+   "url": "https://www.thermokey.com/en/",
+   "quote": "TAILOR MADE AND STANDARD HEAT EXCHANGE SOLUTIONS FOR COMMERCIAL AND INDUSTRIAL APPLICATIONS"
+  },
+  {
+   "claim": "Produce scambiatori di calore per condizionamento, refrigerazione e raffreddamento dei data center",
+   "url": "https://www.thermokey.com/en/about-thermokey/",
+   "quote": "production of heat exchangers for air conditioning, refrigeration, data center cooling, and industrial process cooling applications"
+  },
+  {
+   "claim": "Lavora con costruttori e installatori",
+   "url": "https://www.thermokey.com/en/about-thermokey/",
+   "quote": "we collaborate with the largest manufacturers and installers worldwide"
+  },
+  {
+   "claim": "Primo produttore europeo con scambiatori a microcanali in alluminio",
+   "url": "https://www.thermokey.com/en/about-thermokey/",
+   "quote": "ThermoKey is the first European manufacturer of heat exchangers and fan units using aluminium microchannel heat exchangers"
+  },
+  {
+   "claim": "Settori serviti HVAC, data center, energia e processo, refrigerazione, OEM",
+   "url": "https://www.thermokey.com/en/",
+   "quote": "HVAC Data Center Energy & Process Industrial Refrigeration Commercial Refrigeration OEM"
+  },
+  {
+   "claim": "Sede nel Nord Est d'Italia",
+   "url": "https://www.thermokey.com/en/about-thermokey/",
+   "quote": "manufactured in-house at our headquarters in Northeastern Italy"
+  }
+ ],
+ "market": {
+  "count": "4.809",
+  "label": "titolari, CEO e direttori di costruttori e installatori di impianti con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "HVAC",
+   "data center",
+   "energia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"heating, ventilation, and air conditioning (hvac),data center,energy\"}"
+ }
+}

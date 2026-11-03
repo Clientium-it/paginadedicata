@@ -1,0 +1,92 @@
+{
+ "slug": "uattzy",
+ "company": "Uattzy",
+ "first_name": "Stefania",
+ "domain": "uattzy.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni di ricarica chiavi in mano per accompagnare le aziende nella transizione elettrica. Ecco chi contatteremmo per Uattzy.",
+ "market_note": "Uattzy progetta e gestisce infrastrutture di ricarica per centri commerciali, hotel, parcheggi, flotte e hub logistici in tutta Italia, quindi parleremmo con chi decide su spazi, energia e flotte aziendali.",
+ "evidence": [
+  {
+   "claim": "Soluzioni di ricarica su misura e chiavi in mano per accompagnare le aziende nella transizione elettrica",
+   "url": "https://www.uattzy.com/",
+   "quote": "Progettiamo soluzioni di ricarica su misura, con un servizio chiavi in mano pensato per generare valore e accompagnare le aziende nella transizione elettrica."
+  },
+  {
+   "claim": "Progetta, installa e gestisce infrastrutture di ricarica per il mondo B2B",
+   "url": "https://www.uattzy.com/",
+   "quote": "Siamo specializzati nella progettazione, installazione e gestione di infrastrutture di ricarica per il mondo B2B."
+  },
+  {
+   "claim": "Segmenti aziendali serviti, cioè centri commerciali e GDO, hotel, parcheggi, flotte aziendali, magazzini e hub logistici",
+   "url": "https://www.uattzy.com/",
+   "quote": "Centri commerciali e GDO Hotel e strutture ricettive Parcheggi pubblici e privati Flotte aziendali Magazzini e hub logistici"
+  },
+  {
+   "claim": "Rete diffusa in tutta Italia",
+   "url": "https://www.uattzy.com/",
+   "quote": "Stiamo creando una delle reti di ricarica più estese e capillari d’Italia"
+  },
+  {
+   "claim": "Ricarica per centri commerciali, hotel e hub logistici",
+   "url": "https://www.uattzy.com/per-aziende/flotte-aziendali/",
+   "quote": "Centri commerciali e GDO Hotel e strutture ricettive Parcheggi pubblici e privati Flotte aziendali Magazzini e hub logistici"
+  },
+  {
+   "claim": "Copertura nazionale da nord a sud",
+   "url": "https://www.uattzy.com/",
+   "quote": "Da nord a sud, nelle grandi città, nei piccoli comuni e lungo le principali direttrici la nostra rete cresce senza sosta."
+  },
+  {
+   "claim": "Partner dichiarati tra imprese, GDO e retail, HORECA, hub logistici e flotte",
+   "url": "https://www.uattzy.com/chi-siamo/",
+   "quote": "Imprese Aeroporti e stazioni Centri sportivi Ospedali GDO & Retail HORECA Hub logistici Flotte aziendali"
+  }
+ ],
+ "market": {
+  "count": "14.949",
+  "label": "titolari, CEO e direttori di centri commerciali, hotel, parcheggi e aziende logistiche italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "GDO e centri commerciali",
+   "hotel e strutture ricettive",
+   "logistica e flotte"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail,shopping mall,hospitality,hotel,parking,logistics,warehousing and storage,fleet management\"}"
+ }
+}

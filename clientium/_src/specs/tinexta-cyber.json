@@ -1,0 +1,85 @@
+{
+ "slug": "tinexta-cyber",
+ "company": "Tinexta Cyber",
+ "first_name": "Marco",
+ "domain": "tinextacyber.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Costruiamo un digitale sicuro, insieme, tra cybersecurity e system integration. Ecco chi contatteremmo per Tinexta Cyber.",
+ "market_note": "Tinexta Cyber porta cybersecurity e system integration a imprese e istituzioni, quindi parleremmo con CIO, CTO e responsabili IT e della sicurezza di aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Il claim del lead è costruire un digitale sicuro insieme",
+   "url": "https://www.tinextacyber.com/",
+   "quote": "Costruiamo un digitale sicuro, insieme."
+  },
+  {
+   "claim": "Opera nella cybersecurity e nella system integration",
+   "url": "https://www.tinextacyber.com/",
+   "quote": "Tinexta Cyber è una delle principali realtà italiane nel campo della cybersecurity e della system integration"
+  },
+  {
+   "claim": "Si rivolge a imprese e istituzioni",
+   "url": "https://www.tinextacyber.com/",
+   "quote": "supporta imprese e istituzioni nel costruire ecosistemi digitali sicuri, resilienti e performanti"
+  },
+  {
+   "claim": "Offre vulnerability assessment",
+   "url": "https://www.tinextacyber.com/servizi/",
+   "quote": "Offensive Security Vulnerability Assessment Cyber Security Advisory"
+  },
+  {
+   "claim": "Offre servizi di gestione delle crisi cyber",
+   "url": "https://www.tinextacyber.com/servizi/",
+   "quote": "Servizi avanzati per la gestione delle crisi, la risposta agli incidenti"
+  },
+  {
+   "claim": "Il target sono aziende che cercano soluzioni di sicurezza avanzate",
+   "url": "https://www.tinextacyber.com/chi-siamo/",
+   "quote": "Un punto di riferimento per le aziende che cercano soluzioni avanzate e sicure"
+  }
+ ],
+ "market": {
+  "count": "7.840",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "CIO e responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

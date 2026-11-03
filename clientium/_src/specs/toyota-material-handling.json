@@ -1,0 +1,98 @@
+{
+ "slug": "toyota-material-handling",
+ "company": "Toyota Material Handling",
+ "first_name": "Stefano",
+ "domain": "toyota-forklifts.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Carrelli elevatori, noleggio, scaffalature e automazione per la movimentazione delle merci. Ecco chi contatteremmo per Toyota Material Handling.",
+ "market_note": "Toyota Material Handling fornisce carrelli, automazione e soluzioni logistiche a magazzini, centri logistici e siti produttivi in Italia, quindi parleremmo con chi decide su logistica, magazzino e produzione.",
+ "evidence": [
+  {
+   "claim": "Vende carrelli elevatori",
+   "url": "https://toyota-forklifts.it/",
+   "quote": "siamo orgogliosi di essere leader nella produzione di attrezzature di qualità per la movimentazione delle merci"
+  },
+  {
+   "claim": "Offre noleggio carrelli per la movimentazione delle merci",
+   "url": "https://toyota-forklifts.it/soluzioni-di-noleggio/",
+   "quote": "Il noleggio carrelli Toyota è la soluzione ideale per ottimizzare la movimentazione delle merci"
+  },
+  {
+   "claim": "Offre scaffalature e soluzioni logistiche",
+   "url": "https://toyota-forklifts.it/",
+   "quote": "Scopri le nostre scaffalature industriali e le nostre soluzioni logistiche"
+  },
+  {
+   "claim": "Serve centri logistici e siti produttivi",
+   "url": "https://toyota-forklifts.it/soluzioni-automatiche/",
+   "quote": "Che si tratti di un centro logistico o di un sito produttivo"
+  },
+  {
+   "claim": "Opera in Italia",
+   "url": "https://toyota-forklifts.it/servizio-clienti/servizio-clienti/",
+   "quote": "Abbiamo depositi locali in Italia"
+  },
+  {
+   "claim": "Swarm Automation è una soluzione completa di automazione",
+   "url": "https://toyota-forklifts.it/soluzioni-automatiche/",
+   "quote": "Swarm Automation non riguarda solo singoli prodotti, ma una soluzione completa"
+  },
+  {
+   "claim": "AGV e persone lavorano insieme",
+   "url": "https://toyota-forklifts.it/soluzioni-automatiche/",
+   "quote": "affinché persone e AGV (veicoli a guida automatica) possano lavorare in armonia"
+  },
+  {
+   "claim": "Settori serviti alimentare, manifatturiero e retail",
+   "url": "https://toyota-forklifts.it/soluzioni-automatiche/",
+   "quote": "Soluzioni per tutti i settori, come industria alimentare, manifatturiera e retail"
+  }
+ ],
+ "market": {
+  "count": "32.327",
+  "label": "titolari, CEO e direttori di aziende italiane con magazzino o produzione oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manifattura",
+   "industria alimentare",
+   "retail",
+   "logistica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,food and beverage manufacturing,retail,logistics,warehousing\"}"
+ }
+}

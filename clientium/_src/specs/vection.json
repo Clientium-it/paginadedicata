@@ -1,0 +1,98 @@
+{
+ "slug": "vection",
+ "company": "Vection",
+ "first_name": "Marianna",
+ "domain": "vection-technologies.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Intelligenza Artificiale e Spatial Computing per digitalizzare le operazioni e automatizzare i processi aziendali. Ecco chi contatteremmo per Vection.",
+ "market_note": "Vection porta Agenti AI e soluzioni XR alle imprese di manifattura, logistica e sanità, quindi parleremmo con titolari, CEO e direttori che decidono su processi e innovazione.",
+ "evidence": [
+  {
+   "claim": "Integra AI e Spatial Computing per digitalizzare le operazioni e automatizzare i processi",
+   "url": "https://vection-technologies.com/",
+   "quote": "Vection Technologies integrates Artificial Intelligence and Spatial Computing to digitize operations, automate processes, and accelerate enterprise innovation, beyond reality."
+  },
+  {
+   "claim": "Offre un ecosistema unico di AI e XR",
+   "url": "https://vection-technologies.com/",
+   "quote": "A unified Ecosystem for AI and XR"
+  },
+  {
+   "claim": "Agenti AI per l'automazione",
+   "url": "https://vection-technologies.com/about-us/",
+   "quote": "Added Artificial Intelligence solutions enabling autonomous, conversational AI Agents for intelligent automation."
+  },
+  {
+   "claim": "Settori serviti manifattura, logistica e sanità",
+   "url": "https://vection-technologies.com/about-us/",
+   "quote": "designed to meet the needs of complex sectors including manufacturing, logistics, healthcare, and public administration"
+  },
+  {
+   "claim": "I chioschi JMC Group sono progettati e ingegnerizzati in Italia",
+   "url": "https://vection-technologies.com/jmc-group-solutions/",
+   "quote": "JMC Group delivers integrated kiosk solutions designed and engineered in Italy"
+  },
+  {
+   "claim": "Gruppo globale senza limiti di zona, con sede in Italia",
+   "url": "https://vection-technologies.com/about-us/",
+   "quote": "Vection Technologies is a global enterprise technology group pioneering the convergence of Artificial Intelligence and Immersive Reality."
+  },
+  {
+   "claim": "Sede italiana a Milano",
+   "url": "https://vection-technologies.com/contact-us/",
+   "quote": "Milano, Italy Via Leonardo da Vinci 155"
+  },
+  {
+   "claim": "Casi d'uso in settore industriale, sanità e retail",
+   "url": "https://vection-technologies.com/",
+   "quote": "Proven use cases in industrial, healthcare, retail, and public sectors."
+  }
+ ],
+ "market": {
+  "count": "31.924",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "manifattura",
+   "logistica",
+   "sanità",
+   "retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"manufacturing,logistics,hospitals and health care,retail\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

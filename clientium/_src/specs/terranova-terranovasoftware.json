@@ -1,0 +1,88 @@
+{
+ "slug": "terranova-terranovasoftware",
+ "company": "Terranova",
+ "first_name": "Lucio",
+ "domain": "terranovasoftware.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Software per utility sostenibili e innovative, dall'acqua ai rifiuti. Ecco chi contatteremmo per Terranova.",
+ "market_note": "Terranova sviluppa software per le utility del gas, dell'energia elettrica, dell'acqua e dei rifiuti, quindi parleremmo con chi guida e dirige aziende di distribuzione, vendita e servizi ambientali.",
+ "evidence": [
+  {
+   "claim": "Software per utility sostenibili e innovative",
+   "url": "https://www.terranovasoftware.eu/",
+   "quote": "Software per Utilities sostenibili e innovative"
+  },
+  {
+   "claim": "Software anche per la gestione dei rifiuti",
+   "url": "https://www.terranovasoftware.eu/soluzioni",
+   "quote": "Soluzioni software per tutte le esigenze della filiera della gestione dei rifiuti"
+  },
+  {
+   "claim": "Software per utility di gas, acqua ed energia elettrica",
+   "url": "https://www.terranovasoftware.eu/soluzioni/smart-network",
+   "quote": "Costruita per le Utilities dei settori gas, acqua ed energia elettrica"
+  },
+  {
+   "claim": "Copre distribuzione, vendita, servizio idrico e processi ambientali",
+   "url": "https://www.terranovasoftware.eu/soluzioni",
+   "quote": "dalla distribuzione di gas, elettricità e acqua, alla vendita gas & power, fino alla gestione del Sistema Idrico Integrato e dei processi ambientali"
+  },
+  {
+   "claim": "La piattaforma di smart metering supporta oltre 170 modelli di smart meter",
+   "url": "https://www.terranovasoftware.eu/soluzioni/smart-network",
+   "quote": "Supportando oltre 170 modelli di smart meter, abilita ogni gestore a scegliere il proprio mix di dispositivi e tecnologie."
+  },
+  {
+   "claim": "I clienti sono le utility",
+   "url": "https://www.terranovasoftware.eu/soluzioni",
+   "quote": "Le soluzioni del gruppo Terranova nascono per accompagnare le utility in tutte le attività che caratterizzano il loro lavoro quotidiano"
+  }
+ ],
+ "market": {
+  "count": "6.002",
+  "label": "titolari, CEO e direttori di utility italiane di acqua, energia, gas e rifiuti oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "utility",
+   "servizio idrico",
+   "gestione rifiuti",
+   "gas e energia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"utilities,water,waste management,energy\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

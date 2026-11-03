@@ -1,0 +1,88 @@
+{
+ "slug": "technowrapp",
+ "company": "Technowrapp",
+ "first_name": "Denis",
+ "domain": "technowrapp.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Avvolgitori automatici e sistemi di movimentazione e tracciamento pallet. Ecco chi contatteremmo per Technowrapp.",
+ "market_note": "Technowrapp progetta avvolgitori automatici e soluzioni per l'intralogistica per aziende di logistica, pet food, tissue, chimica, alimentare e farmaceutica, quindi parleremmo con titolari e direttori di produzione e logistica.",
+ "evidence": [
+  {
+   "claim": "Progetta e realizza avvolgitori automatici e sistemi di movimentazione e tracciamento pallet",
+   "url": "https://www.technowrapp.com/",
+   "quote": "Progettiamo e realizziamo avvolgitori automatici e sistemi di movimentazione e tracciamento pallet."
+  },
+  {
+   "claim": "Opera su avvolgimento automatico e soluzioni per l'intralogistica",
+   "url": "https://www.technowrapp.com/",
+   "quote": "Avvolgitori automatici e soluzioni per l’intralogistica"
+  },
+  {
+   "claim": "Clienti in logistica, pet food, tissue, chimico, food, pharma",
+   "url": "https://www.technowrapp.com/azienda/",
+   "quote": "clienti nei settori più diversi, in prima battuta: logistics, pet food, tissue, chimico, food, pharma."
+  },
+  {
+   "claim": "Impianti installati in 70 paesi",
+   "url": "https://www.technowrapp.com/azienda/",
+   "quote": "con impianti installati in 70 paesi e clienti nei settori più diversi"
+  },
+  {
+   "claim": "Presidio del settore farmaceutico",
+   "url": "https://www.technowrapp.com/",
+   "quote": "Nel settore farmaceutico la movimentazione è parte rilevante del processo produttivo"
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://www.technowrapp.com/azienda/",
+   "quote": "clienti nei settori più diversi, in prima battuta: logistics, pet food, tissue, chimico, food, pharma."
+  }
+ ],
+ "market": {
+  "count": "11.167",
+  "label": "titolari, CEO e direttori di aziende produttive e logistiche italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "food e pet food",
+   "pharma",
+   "chimico e tissue",
+   "logistica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"logistics,food and beverage manufacturing,pet,paper and forest product manufacturing,chemical manufacturing,pharmaceutical manufacturing\"}"
+ }
+}

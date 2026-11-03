@@ -1,0 +1,108 @@
+{
+ "slug": "var-prime",
+ "company": "Var Prime",
+ "first_name": "Alessandro",
+ "domain": "varprime.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progetti di digital transformation basati su tecnologia Microsoft. Ecco chi contatteremmo per Var Prime.",
+ "market_note": "Var Prime porta Microsoft Dynamics alla piccola e media impresa, con soluzioni per moda, tessile, retail e manifattura, quindi parleremmo con chi decide su gestionale ERP e CRM.",
+ "evidence": [
+  {
+   "claim": "Var Prime sviluppa progetti di digital transformation basati su tecnologia Microsoft",
+   "url": "https://varprime.com/chi-siamo/",
+   "quote": "il competence center di Var Group interamente dedicato allo sviluppo di progetti di digital transformation basati su tecnologia Microsoft"
+  },
+  {
+   "claim": "Var Prime offre servizi Microsoft Dynamics alla piccola e media impresa",
+   "url": "https://varprime.com/chi-siamo/",
+   "quote": "specializzata in servizi su Microsoft Dynamics dedicati alla piccola e media impresa e gruppi internazionali"
+  },
+  {
+   "claim": "Soluzioni per le aziende della moda",
+   "url": "https://varprime.com/industries/fashion/",
+   "quote": "disegnati per le aziende della moda e del lusso"
+  },
+  {
+   "claim": "Soluzioni per i settori moda e tessile",
+   "url": "https://varprime.com/industries/textile/",
+   "quote": "PRIME365 Textile è la soluzione per i settori moda e tessile sviluppata su piattaforma Microsoft Dynamics 365 Business Central"
+  },
+  {
+   "claim": "Soluzioni per le aziende del retail",
+   "url": "https://varprime.com/industries/retail/",
+   "quote": "studiati per accompagnare le aziende del settore retail nel percorso di trasformazione digitale"
+  },
+  {
+   "claim": "Soluzioni per le aziende manifatturiere",
+   "url": "https://varprime.com/industries/manufacturing/",
+   "quote": "Il target delle nostre soluzioni sono le aziende manifatturiere che operano in contesti nazionali ed internazionali"
+  },
+  {
+   "claim": "PRIME365 Textile è sviluppato su Business Central",
+   "url": "https://varprime.com/industries/textile/",
+   "quote": "PRIME365 Textile è la soluzione per i settori moda e tessile sviluppata su piattaforma Microsoft Dynamics 365 Business Central"
+  },
+  {
+   "claim": "La soluzione gestisce orditura, tessitura, tintura e finissaggio",
+   "url": "https://varprime.com/industries/textile/",
+   "quote": "Gestire ordini di orditura e tessitura e di tintura e finissaggio"
+  },
+  {
+   "claim": "Settori serviti dichiarati",
+   "url": "https://varprime.com/",
+   "quote": "Industries Fashion Textile Retail Manufacturing Distribution Professional Services Financials Travel"
+  },
+  {
+   "claim": "Clienti in contesti nazionali e internazionali, nessun limite di zona",
+   "url": "https://varprime.com/industries/textile/",
+   "quote": "le società di moda e tessili che operano in contesti nazionali ed internazionali"
+  }
+ ],
+ "market": {
+  "count": "19.228",
+  "label": "titolari, CEO e direttori di aziende italiane di moda, tessile, retail e manifattura da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "da 20 a 250 addetti",
+   "moda e tessile",
+   "retail",
+   "manifattura",
+   "distribuzione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"companyIndustry\": \"fashion,apparel,retail apparel and fashion,textile manufacturing,textiles,retail,manufacturing,wholesale\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

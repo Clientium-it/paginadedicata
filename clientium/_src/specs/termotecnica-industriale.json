@@ -1,0 +1,98 @@
+{
+ "slug": "termotecnica-industriale",
+ "company": "Termotecnica Industriale",
+ "first_name": "Massimo",
+ "domain": "termotecnica.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Caldaie industriali, generatori di vapore a recupero e bruciatori a basse emissioni. Ecco chi contatteremmo per Termotecnica Industriale.",
+ "market_note": "Termotecnica Industriale progetta e costruisce generatori di vapore per aziende di oil and gas, carta, alimentare, vetro e chimica, quindi parleremmo con titolari e direttori tecnici e di stabilimento.",
+ "evidence": [
+  {
+   "claim": "Produce caldaie industriali",
+   "url": "https://termotecnica.it/",
+   "quote": "Industrial Boilers Gas and Oil fired."
+  },
+  {
+   "claim": "Generatori di vapore a recupero di calore",
+   "url": "https://termotecnica.it/",
+   "quote": "HRSG Simple recovery, post firing, fresh air."
+  },
+  {
+   "claim": "Bruciatori a basse emissioni",
+   "url": "https://termotecnica.it/",
+   "quote": "Burners Ultra-Low NOx."
+  },
+  {
+   "claim": "Progetta e costruisce generatori di vapore",
+   "url": "https://termotecnica.it/products/",
+   "quote": "Termotecnica Industriale designs and manufactures a wide range of steam generators"
+  },
+  {
+   "claim": "Settori serviti oil and gas, carta, alimentare, vetro, chimica",
+   "url": "https://termotecnica.it/company/",
+   "quote": "Serving various industries such as oil & gas, paper, food & beverage, laundries, glass, district heating, cogeneration, chemical, petrochemical, and mechanical sectors"
+  },
+  {
+   "claim": "Copre progettazione, produzione, installazione e manutenzione",
+   "url": "https://termotecnica.it/company/",
+   "quote": "including basic design, detailed engineering, manufacturing in its workshops, site installation, commissioning and maintenance services"
+  },
+  {
+   "claim": "Clienti sono impianti industriali e di generazione elettrica",
+   "url": "https://termotecnica.it/",
+   "quote": "customised solutions for energy systems in industrial and power generation plants"
+  },
+  {
+   "claim": "EPC contractor con sede a Magenta",
+   "url": "https://termotecnica.it/company/",
+   "quote": "engineering, procurement and construction contractor for steam generator units, with headquarters located in Magenta (MI)"
+  }
+ ],
+ "market": {
+  "count": "6.606",
+  "label": "titolari, CEO e direttori tecnici di stabilimenti industriali italiani oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "oil and gas",
+   "carta",
+   "alimentare",
+   "chimica e vetro"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"oil and gas,paper manufacturing,food and beverage manufacturing,glass, ceramics and concrete manufacturing,chemical manufacturing,laundry and dry-cleaning\"}"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "slug": "tecnauto",
+ "company": "Tecnauto",
+ "first_name": "Danilo",
+ "domain": "mastertecnauto.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Master Agent nazionale per energia elettrica, gas e telefonia. Ecco chi contatteremmo per Tecnauto.",
+ "market_note": "Tecnauto porta energia, gas e telefonia di IREN e HERACOMM in tutta Italia tramite una rete di partner, quindi parleremmo con i titolari che possono aprire un energy point.",
+ "evidence": [
+  {
+   "claim": "Master Agent nazionale per energia elettrica e gas",
+   "url": "https://mastertecnauto.com/",
+   "quote": "opera come Master Agent Nazionale nel settore dell’energia elettrica e del gas naturale"
+  },
+  {
+   "claim": "Opera in energia, telefonia e servizi digitali",
+   "url": "https://mastertecnauto.com/",
+   "quote": "Unisciti a un network vincente nei settori energia, telefonia e servizi digitali"
+  },
+  {
+   "claim": "Distribuisce brand come IREN e HERACOMM tramite partner",
+   "url": "https://mastertecnauto.com/",
+   "quote": "Distribuisci prodotti e servizi di brand come SEV IREN, IREN, HERACOMM, Sisal"
+  },
+  {
+   "claim": "Opera in tutta Italia",
+   "url": "https://mastertecnauto.com/",
+   "quote": "Una struttura solida, flessibile e capillare, al servizio di clienti e partner in tutta Italia."
+  },
+  {
+   "claim": "I partner aprono un energy point",
+   "url": "https://mastertecnauto.com/",
+   "quote": "Avvia il tuo energy point con il massimo supporto."
+  },
+  {
+   "claim": "Rappresenta IREN, SEV IREN e HERACOMM a livello nazionale",
+   "url": "https://mastertecnauto.com/",
+   "quote": "Rappresenta nazionalmente brand leader come IREN Mercato S.p.A., SEV IREN. ed HERACOMM S.p.a!"
+  },
+  {
+   "claim": "Gestisce reti commerciali B2B",
+   "url": "https://mastertecnauto.com/",
+   "quote": "capacità di creare valore nella gestione di reti commerciali B2B e B2C"
+  },
+  {
+   "claim": "I partner sono attività con punto vendita",
+   "url": "https://mastertecnauto.com/",
+   "quote": "Ti forniremo tutto il materiale pubblicitario e digitale per il tuo punto vendita"
+  }
+ ],
+ "market": {
+  "count": "152.949",
+  "label": "titolari e amministratori di piccole attività in tutta Italia da 2 a 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "2 a 50 addetti",
+   "titolari",
+   "punti vendita"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 2, \"maxEmployees\": 50}"
+ }
+}

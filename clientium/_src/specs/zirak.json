@@ -1,0 +1,107 @@
+{
+ "slug": "zirak",
+ "company": "Zirak",
+ "first_name": "Davide",
+ "domain": "zirak.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Sviluppo software, soluzioni embedded per l'automotive e piattaforme IoT e Machine Learning. Ecco chi contatteremmo per Zirak.",
+ "market_note": "Zirak sviluppa da Mondovì software embedded per costruttori e Tier1 automotive e soluzioni di intelligenza artificiale per industria e logistica, quindi parleremmo con chi guida ricerca, sviluppo e innovazione.",
+ "evidence": [
+  {
+   "claim": "Soluzioni embedded per l'automotive",
+   "url": "https://www.zirak.it/en/zirak-information-technology-engineering/",
+   "quote": "Zirak Automotive Embedded solutions for automotive"
+  },
+  {
+   "claim": "Piattaforme IoT e Machine Learning",
+   "url": "https://www.zirak.it/en/zirak-information-technology-engineering/",
+   "quote": "leveraging Big Data and Machine Learning techniques"
+  },
+  {
+   "claim": "Sviluppo software",
+   "url": "https://www.zirak.it/en/zirak-information-technology-engineering/",
+   "quote": "ZIRAK Software deals with the programming of standalone or client/server applications"
+  },
+  {
+   "claim": "Sede a Mondovì",
+   "url": "https://www.zirak.it/en/zirak-information-technology-engineering/",
+   "quote": "Via Sant'Agostino 6/A, Mondovì (CN), Italy"
+  },
+  {
+   "claim": "Lavora con costruttori e Tier1 automotive",
+   "url": "https://www.zirak.it/en/zirak-information-technology-engineering/",
+   "quote": "ZIRAK Automotive has a long and successful track record of working with leading national and international Tier1 car manufacturers."
+  },
+  {
+   "claim": "AI per l'industria",
+   "url": "https://www.zirak.it/en/zirak-information-technology-engineering/",
+   "quote": "Artificial Intelligence-based Predictive Analytics for Industry 4.0"
+  },
+  {
+   "claim": "AI per la logistica",
+   "url": "https://www.zirak.it/en/zirak-information-technology-engineering/",
+   "quote": "Smart Logistics Platform for Industry 4.0"
+  },
+  {
+   "claim": "Piattaforma di manutenzione predittiva basata su AI",
+   "url": "https://www.zirak.it/en/zirak-information-technology-engineering/",
+   "quote": "the AI-based predictive maintenance platform developed by ZIRAK"
+  },
+  {
+   "claim": "Applicata ai cuscinetti a rulli",
+   "url": "https://www.zirak.it/en/zirak-information-technology-engineering/",
+   "quote": "applied to a roller bearing diagnostic environment"
+  },
+  {
+   "claim": "Settori serviti automotive, industria e logistica",
+   "url": "https://www.zirak.it/en/zirak-information-technology-engineering/",
+   "quote": "Automotive Infotainment Telematics Cluster ADAS Engine Validation EV Charging Artificial Intelligence Environment Mobility Industry 4.0 Logistics"
+  }
+ ],
+ "market": {
+  "count": "8.772",
+  "label": "titolari, CEO e direttori di aziende automotive, industriali e logistiche italiane con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "automotive",
+   "industria 4.0",
+   "logistica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive,motor vehicle manufacturing,logistics,industrial automation\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

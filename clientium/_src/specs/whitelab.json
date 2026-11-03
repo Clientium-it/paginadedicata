@@ -1,0 +1,98 @@
+{
+ "slug": "whitelab",
+ "company": "Whitelab",
+ "first_name": "Gianfrancesco",
+ "domain": "whitelab.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Laboratori di analisi ambientali, testing e consulenza alle imprese. Ecco chi contatteremmo per Whitelab.",
+ "market_note": "Whitelab porta test e consulenza alle aziende alimentari, medicali, automotive e dei beni di consumo, quindi parleremmo con chi decide su qualità e conformità.",
+ "evidence": [
+  {
+   "claim": "Whitelab è un laboratorio di analisi ambientali, testing e consulenza alle imprese",
+   "url": "https://whitelab.it/it/",
+   "quote": "Laboratori di analisi ambientali, testing e consulenza alle imprese"
+  },
+  {
+   "claim": "Offre test e consulenza alle aziende in ambito alimentare, medicale, beni di consumo e automotive",
+   "url": "https://whitelab.it/it/chi-siamo/",
+   "quote": "ai servizi di consulenza per aziende in ambito alimentare, ambientale, medicale, dei beni di consumo, ingegneristico e automotive"
+  },
+  {
+   "claim": "Si occupa di conformità dei prodotti alle normative",
+   "url": "https://whitelab.it/it/services/reach-rohs/",
+   "quote": "Con Whitelab puoi verificare la conformità dei prodotti al Regolamento REACH e alla Direttiva RoHS"
+  },
+  {
+   "claim": "Ha un pacchetto integrato dedicato alle aziende del settore conciario",
+   "url": "https://whitelab.it/it/industries/analisi-e-servizi-per-il-settore-conciario/",
+   "quote": "Whitelab ha studiato, per le aziende che operano nel settore conciario, un pacchetto integrato di analisi, consulenza e servizi dedicato"
+  },
+  {
+   "claim": "Rete di laboratori su scala italiana",
+   "url": "https://whitelab.it/it/chi-siamo/",
+   "quote": "Whitelab nasce dalla volontà di creare il più grande network di laboratori a livello italiano"
+  },
+  {
+   "claim": "Serve i settori automotive, marine e aerospace",
+   "url": "https://whitelab.it/it/industries/automotive-marine-aerospace/",
+   "quote": "Whitelab offre test e consulenze avanzate per i settori automotive, marine e aerospace"
+  },
+  {
+   "claim": "Serve i produttori di dispositivi medici",
+   "url": "https://whitelab.it/it/",
+   "quote": "garantire l’idoneità e la sicurezza dei dispositivi medici immessi sul mercato"
+  },
+  {
+   "claim": "Serve le aziende con materiali a contatto con alimenti",
+   "url": "https://whitelab.it/it/services/moca/",
+   "quote": "verificare la conformità dei tuoi articoli MOCA alle normative vigenti"
+  }
+ ],
+ "market": {
+  "count": "10.620",
+  "label": "titolari, CEO e direttori di aziende produttive italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "alimentare",
+   "automotive e aerospace",
+   "dispositivi medici",
+   "beni di consumo"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"food and beverage manufacturing,automotive,aviation and aerospace component manufacturing,medical device,consumer goods,appliances, electrical, and electronics manufacturing\"}"
+ }
+}

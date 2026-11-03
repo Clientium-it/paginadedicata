@@ -1,0 +1,110 @@
+{
+ "slug": "synesthesia",
+ "company": "Synesthesia",
+ "first_name": "Francesco",
+ "domain": "synesthesia.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Digital experience company, human driven e AI powered, tra marketing e tecnologia. Ecco chi contatteremmo per Synesthesia.",
+ "market_note": "Synesthesia segue da Torino app, siti, eCommerce, marketing e AI per aziende come Reale Group e Riso Gallo, quindi parleremmo con titolari e direttori che decidono sul digitale.",
+ "evidence": [
+  {
+   "claim": "Si definisce digital experience company, human driven e AI powered",
+   "url": "https://synesthesia.it/",
+   "quote": "la tua digital experience company . Human driven , AI powered"
+  },
+  {
+   "claim": "Lavora sia sul marketing sia sulla tecnologia",
+   "url": "https://synesthesia.it/chi-siamo/",
+   "quote": "in tutti gli step sia sul fronte del marketing sia sul fronte della tecnologia"
+  },
+  {
+   "claim": "Sede a Torino",
+   "url": "https://synesthesia.it/chi-siamo/",
+   "quote": "A Torino nasce Synesthesia"
+  },
+  {
+   "claim": "Sviluppa app mobile e siti",
+   "url": "https://synesthesia.it/",
+   "quote": "technologies Mobile App Website Metaverso, AR/VR Machine learning e IOT"
+  },
+  {
+   "claim": "Divisione eCommerce",
+   "url": "https://synesthesia.it/",
+   "quote": "Scopri la divisione dedicata ai progetti e-commerce"
+  },
+  {
+   "claim": "Divisione AI",
+   "url": "https://synesthesia.it/",
+   "quote": "Synesthesia AI, scopri la nostra divisione dedicata all’Intelligenza Artificiale"
+  },
+  {
+   "claim": "Clienti Reale Group e Riso Gallo",
+   "url": "https://synesthesia.it/",
+   "quote": "Reale Group sviluppo app mobile Riso Gallo SEO"
+  },
+  {
+   "claim": "Ha partecipato alle app B2C di Reale Mutua e Italiana Assicurazioni",
+   "url": "https://synesthesia.it/case-study/reale-group/",
+   "quote": "Abbiamo preso parte alla realizzazione delle applicazioni B2C per Reale Mutua Assicurazioni e Italiana Assicurazioni"
+  },
+  {
+   "claim": "Tecnologia React Native",
+   "url": "https://synesthesia.it/case-study/reale-group/",
+   "quote": "Tecnologia utilizzata React Native"
+  },
+  {
+   "claim": "Lavora con aziende e organizzazioni",
+   "url": "https://synesthesia.it/chi-siamo/",
+   "quote": "sia verso le aziende e organizzazioni con cui lavoriamo"
+  },
+  {
+   "claim": "Sedi in più regioni italiane, zona non limitata",
+   "url": "https://synesthesia.it/chi-siamo/",
+   "quote": "tre sedi attive in Italia e una crescita esponenziale"
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "titolari e direttori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

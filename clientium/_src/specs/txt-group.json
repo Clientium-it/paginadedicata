@@ -1,0 +1,83 @@
+{
+ "slug": "txt-group",
+ "company": "TXT Group",
+ "first_name": "Mario",
+ "domain": "txtgroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Innovazione digitale per i sistemi critici di aerospazio, industria, finanza e telco. Ecco chi contatteremmo per TXT Group.",
+ "market_note": "TXT Group porta da Milano l'evoluzione digitale con l'AI nelle industrie critiche, dall'aerospazio alla finanza e alle telco, quindi parleremmo con CEO e direttori delle grandi aziende di questi settori.",
+ "evidence": [
+  {
+   "claim": "Supporta le industrie mission e safety critical nell'innovare e mantenere sistemi complessi",
+   "url": "https://www.txtgroup.com/",
+   "quote": "we support mission and safety-critical industries in innovating and maintaining complex systems"
+  },
+  {
+   "claim": "Evoluzione digitale con AI per aerospazio e difesa, industria, finanza digitale, telco, settore pubblico e martech",
+   "url": "https://www.txtgroup.com/about-us/sustainability",
+   "quote": "driving AI-powered digital evolution across mission and safety-critical industries such as Aerospace & Defence, Industrial, Digital Finance, Telco, Public Sector and MarTech"
+  },
+  {
+   "claim": "Sede a Milano",
+   "url": "https://www.txtgroup.com/about-us/contacts",
+   "quote": "Headquartered in Milan, the Group has subsidiaries in Italy, Germany"
+  },
+  {
+   "claim": "Flight Plan Optimizer aiuta i piloti a ottimizzare i voli in tempo reale",
+   "url": "https://www.txtgroup.com/what-we-do/business-areas/smart-solutions",
+   "quote": "HELPING PILOTS OPTIMIZE FLIGHTS IN REAL TIME, CUTTING FUEL USE, EMISSIONS, AND OPERATING COSTS"
+  },
+  {
+   "claim": "Settori serviti dichiarati",
+   "url": "https://www.txtgroup.com/about-us/sustainability",
+   "quote": "driving AI-powered digital evolution across mission and safety-critical industries such as Aerospace & Defence, Industrial, Digital Finance, Telco, Public Sector and MarTech"
+  }
+ ],
+ "market": {
+  "count": "16.051",
+  "label": "titolari, CEO e direttori di grandi aziende italiane oltre 200 addetti in aerospazio, industria, finanza e telco",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "aerospazio e difesa",
+   "industria",
+   "finanza digitale",
+   "telco"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"aerospace,defense and space manufacturing,industrial manufacturing,financial services,banking,telecommunications\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}
