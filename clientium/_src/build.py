@@ -43,12 +43,11 @@ def cases_html(sectors=None, prefix='../', first='', allow=None):
     """case cards: a video plays in place when the case has one (case.video = YouTube id or assets/...mp4, case.thumb = image), otherwise the number is the picture"""
     out = []
     for c in pick_cases(sectors, first=first, allow=allow):
-        if c.get('img') and not c.get('video'):   # v7 card: image, client logo, verified numbers from clientium.it/casi-studio
-            logo = (f'<img class="clogo {E(c.get("logo_class", ""))}" src="{prefix}{E(c["logo_img"])}" alt="{E(c["name"])}" loading="lazy">' if c.get('logo_img') else f'<span class="cname">{E(c["name"])}</span>')
-            s2 = f'<span class="s2">{E(c["stat2"])}</span>' if c.get('stat2') else ''
-            rc = f'<span class="rc">Raggiunte: {E(c["reached"])}</span>' if c.get('reached') else ''
+        if c.get('img') and not c.get('video'):   # v7 card: rows on a subgrid, so logo, number and lines align across cards
+            logo = (f'<img class="clogo" src="{prefix}{E(c["logo_img"])}" alt="{E(c["name"])}" style="--lh:{int(c.get("logo_h", 32))}px" loading="lazy">' if c.get('logo_img') else f'<span class="cname">{E(c["name"])}</span>')
             out.append(f'<a class="vc img" href="{E(c["url"])}" target="_blank" rel="noopener"><div class="vis" role="img" aria-label="{E(c["name"])}" style="background-image:url({prefix}{E(c["img"])})"></div>'
-                       f'<div class="cb">{logo}<div class="kl"><span class="k2 cu{" long" if len(c["kpi"]) > 6 else ""}">{E(c["kpi"])}</span><span class="lb">{E(c["label"])}</span></div>{s2}{rc}</div></a>')
+                       f'<span class="lrow">{logo}</span><span class="kl"><span class="k2 cu{" long" if len(c["kpi"]) > 6 else ""}">{E(c["kpi"])}</span><span class="lb">{E(c["label"])}</span></span>'
+                       f'<span class="s2">{E(c.get("stat2", ""))}</span><span class="rc">{"Raggiunte: " + E(c["reached"]) if c.get("reached") else ""}</span></a>')
             continue
         v = c.get('video', '')
         src = prefix + v if v.endswith('.mp4') else v

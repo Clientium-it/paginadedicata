@@ -54,7 +54,7 @@
    "stat2": "1.158 risposte da 12.453 aziende industriali contattate",
    "reached": "SCM Group, Newlat, Prima Electro, Fantinel, Conceria Zonta",
    "facts_source": "https://clientium.it/casi-studio/effepie/",
-   "logo_class": "sq"
+   "logo_h": 48
   },
   {
    "name": "Neven",
@@ -91,7 +91,8 @@
    "logo_img": "assets/cases/logo-publyteam.png",
    "stat2": "",
    "reached": "Banca d'Italia, InfoCamere, Luxury Living Group",
-   "facts_source": "https://clientium.it/casi-studio/publy-team/"
+   "facts_source": "https://clientium.it/casi-studio/publy-team/",
+   "logo_h": 36
   },
   {
    "name": "Blogger Italia",
@@ -122,7 +123,8 @@
    "logo_img": "assets/cases/logo-planetica.png",
    "stat2": "62 nuove opportunità commerciali",
    "reached": "Unicredit, Allianz, Leonardo, SAP, Microsoft, BMW, TIM",
-   "facts_source": "https://clientium.it/casi-studio/planetica/"
+   "facts_source": "https://clientium.it/casi-studio/planetica/",
+   "logo_h": 30
   },
   {
    "name": "ICT Group",
@@ -152,7 +154,8 @@
    "logo_img": "assets/cases/logo-cube-proemotion.svg",
    "stat2": "aperto il mercato GDO, impenetrabile per due decenni",
    "reached": "",
-   "facts_source": "https://clientium.it/casi-studio/cube-proemotion/"
+   "facts_source": "https://clientium.it/casi-studio/cube-proemotion/",
+   "logo_h": 42
   }
  ],
  "trusted_logos": [
