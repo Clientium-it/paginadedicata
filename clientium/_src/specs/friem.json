@@ -1,0 +1,82 @@
+{
+ "slug": "friem",
+ "company": "FRIEM",
+ "first_name": "Filippo",
+ "domain": "friem.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Convertitori e raddrizzatori di corrente ad alta potenza per la grande industria. Ecco chi contatteremmo per FRIEM.",
+ "market_note": "FRIEM progetta e produce convertitori di elevata potenza per l'industria elettrochimica e della raffinazione dei metalli, quindi parleremmo con chi decide sugli impianti di grandi potenze.",
+ "evidence": [
+  {
+   "claim": "Produce raddrizzatori di corrente per la grande industria",
+   "url": "https://friem.com/",
+   "quote": "raddrizzatori di corrente per la grande industria"
+  },
+  {
+   "claim": "Realizza soluzioni per la conversione di energia ad alta potenza",
+   "url": "https://friem.com/azienda/il-gruppo/",
+   "quote": "la conversione dell’energia ad alta potenza"
+  },
+  {
+   "claim": "Progetta e produce convertitori per industria elettrochimica e raffinazione dei metalli",
+   "url": "https://friem.com/azienda/",
+   "quote": "convertitori di elevata potenza per l’industria elettrochimica e della raffinazione dei metalli"
+  },
+  {
+   "claim": "Realizza convertitori per la produzione elettrolitica dell'idrogeno",
+   "url": "https://friem.com/",
+   "quote": "convertitori di alta qualità su misura, per i processi di produzione elettrolitica dell’idrogeno"
+  },
+  {
+   "claim": "Serve industria chimica, mineraria e dell'elettrolisi",
+   "url": "https://friem.com/attivita/industria/soluzioni-industria/",
+   "quote": "industria chimica, mineraria e dell’elettrolisi"
+  }
+ ],
+ "market": {
+  "count": "2.460",
+  "label": "titolari, CEO e direttori di aziende industriali italiane strutturate nei settori chimico, minerario e delle rinnovabili",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "chimico",
+   "minerario",
+   "rinnovabili"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"chemical,mining,renewable energy\"}"
+ }
+}

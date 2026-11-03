@@ -1,0 +1,75 @@
+{
+ "slug": "ronda",
+ "company": "Ronda",
+ "first_name": "Giovanni",
+ "domain": "ronda.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Componenti in acciaio inox per l'arredamento di bar e ristorazione professionale. Ecco chi contatteremmo per Ronda.",
+ "market_note": "Ronda produce dal 1967 componenti in acciaio inox per l'arredo di bar e ristoranti, quindi parleremmo con chi decide gli acquisti nelle aziende che arredano la ristorazione professionale.",
+ "evidence": [
+  {
+   "claim": "Produce componenti in acciaio inox per l'arredamento di bar e ristorazione professionale",
+   "url": "https://www.ronda.it/",
+   "quote": "Ronda è azienda leader nella produzione di componenti in acciaio inox per l’arredamento di bar e strutture di ristorazione professionale."
+  },
+  {
+   "claim": "Dal 1967 partner di progettisti e aziende per componenti in acciaio inox per arredo bar e ristoranti",
+   "url": "https://www.ronda.it/",
+   "quote": "Dal 1967 siamo partner di progettisti e aziende che necessitano di componenti in acciaio Aisi inox 304 per l’arredo bar e ristoranti di qualità sartoriale su scala industriale."
+  },
+  {
+   "claim": "Dal 1967 produce componenti in acciaio inox per arredo bar e ristoranti",
+   "url": "https://www.ronda.it/azienda",
+   "quote": "Dal 1967 siamo partner d’eccezione di progettisti e aziende che necessitano di componenti in acciaio inox per l’arredo bar e ristoranti."
+  },
+  {
+   "claim": "Serve il mercato italiano e i principali mercati europei",
+   "url": "https://www.ronda.it/",
+   "quote": "La produzione dell’azienda ha conquistato il mercato italiano e i principali mercati europei"
+  }
+ ],
+ "market": {
+  "count": "1.116",
+  "label": "titolari, CEO e direttori di aziende italiane dell'arredo per bar e ristorazione da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "arredo bar e ristorazione professionale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"companyIndustry\": \"furniture and home furnishings manufacturing\"}"
+ }
+}

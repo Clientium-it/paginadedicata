@@ -1,0 +1,80 @@
+{
+ "slug": "pts",
+ "company": "PTS",
+ "first_name": "Ciro",
+ "domain": "ptsclas.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza finanziaria, operativa e strategica al fianco di chi guida imprese e organizzazioni. Ecco chi contatteremmo per PTS.",
+ "market_note": "PTS offre consulenza finanziaria, operativa e strategica a imprese e investitori, al fianco di chi guida imprese e organizzazioni, quindi parleremmo con chi decide su strategia, finanza e sviluppo.",
+ "evidence": [
+  {
+   "claim": "consulenza finanziaria, operativa e strategica",
+   "url": "https://pts-spa.com/chi-siamo/",
+   "quote": "operiamo nella consulenza finanziaria, operativa e strategica"
+  },
+  {
+   "claim": "al fianco di chi guida imprese e organizzazioni",
+   "url": "https://pts-spa.com/",
+   "quote": "al fianco di chi guida imprese e organizzazioni"
+  },
+  {
+   "claim": "serve imprese e investitori nelle decisioni strategiche, finanziarie e operative",
+   "url": "https://pts-spa.com/chi-siamo/",
+   "quote": "PTS Consulting supporta imprese e investitori nelle decisioni strategiche, finanziarie e operative"
+  },
+  {
+   "claim": "opera nella consulenza finanziaria, operativa e strategica",
+   "url": "https://pts-spa.com/chi-siamo/",
+   "quote": "operiamo nella consulenza finanziaria, operativa e strategica"
+  },
+  {
+   "claim": "clienti nazionali e internazionali",
+   "url": "https://pts-spa.com/",
+   "quote": "Clienti nazionali e internazionali"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di imprese italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "consulenza e advisory"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

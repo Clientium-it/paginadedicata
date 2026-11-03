@@ -1,0 +1,97 @@
+{
+ "slug": "powy",
+ "company": "Powy",
+ "first_name": "Marco",
+ "domain": "powy.energy",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Fanno crescere la mobilità elettrica dove conta davvero, con energia rinnovabile. Ecco chi contatteremmo per Powy.",
+ "market_note": "Powy sviluppa e gestisce infrastrutture di ricarica per veicoli elettrici presso aziende ed enti con una location strategica, quindi parleremmo con chi guida hotel, centri commerciali e parcheggi.",
+ "evidence": [
+  {
+   "claim": "Fa crescere la mobilità elettrica dove conta davvero con energia rinnovabile",
+   "url": "https://powy.energy/",
+   "quote": "Facciamo crescere la mobilità elettrica dove conta davvero: nelle città, nei luoghi di lavoro e nei punti strategici del territorio, con energia rinnovabile."
+  },
+  {
+   "claim": "Sviluppa e gestisce infrastrutture di ricarica per veicoli elettrici",
+   "url": "https://powy.energy/casi-di-successo/",
+   "quote": "specializzato nello sviluppo e nella gestione di infrastrutture di ricarica per veicoli elettrici"
+  },
+  {
+   "claim": "Si rivolge ad aziende ed enti con una location strategica",
+   "url": "https://powy.energy/",
+   "quote": "Sei un'azienda o un ente con una location strategica?"
+  },
+  {
+   "claim": "Sviluppa e gestisce infrastrutture di ricarica con sedi in Italia e Spagna",
+   "url": "https://powy.energy/casi-di-successo/fspark/",
+   "quote": "nello sviluppo e nella gestione di infrastrutture di ricarica per veicoli elettrici, con sedi in Italia e Spagna"
+  },
+  {
+   "claim": "Serve centri commerciali e GDO",
+   "url": "https://powy.energy/",
+   "quote": "Colonnine di ricarica per Centri Commerciali e GDO"
+  },
+  {
+   "claim": "Serve hotel e strutture ricettive",
+   "url": "https://powy.energy/",
+   "quote": "Hotel e Strutture Ricettive"
+  },
+  {
+   "claim": "Serve parcheggi pubblici e privati",
+   "url": "https://powy.energy/",
+   "quote": "Parcheggi pubblici e privati"
+  },
+  {
+   "claim": "Opera in Italia",
+   "url": "https://powy.energy/contatti/",
+   "quote": "Powy opera in Italia e Spagna con sedi strategiche"
+  }
+ ],
+ "market": {
+  "count": "6.997",
+  "label": "titolari, CEO e amministratori di hotel, centri commerciali e parcheggi in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "hotel",
+   "centri commerciali",
+   "parcheggi",
+   "da 20 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 20, \"companyIndustry\": \"hospitality,hotel,retail,parking\"}"
+ }
+}

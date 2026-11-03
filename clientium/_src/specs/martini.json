@@ -1,0 +1,75 @@
+{
+ "slug": "martini",
+ "company": "Martini",
+ "first_name": "Michela",
+ "domain": "martinisrl.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Confezionamento e pesatura di prodotti alimentari con macchine costruite su misura. Ecco chi contatteremmo per Martini.",
+ "market_note": "Martini è specializzata nel confezionamento e pesatura di prodotti alimentari da oltre quarant'anni, quindi parleremmo con chi guida le aziende alimentari che devono confezionare i propri prodotti.",
+ "evidence": [
+  {
+   "claim": "Si occupa di confezionamento e pesatura di prodotti alimentari",
+   "url": "https://www.martinisrl.com/",
+   "quote": "Martini srl è specializzata nel confezionamento e pesatura di prodotti alimentari."
+  },
+  {
+   "claim": "Opera da oltre quarant'anni nel confezionamento",
+   "url": "https://www.martinisrl.com/",
+   "quote": "con oltre quarant’anni di storia"
+  },
+  {
+   "claim": "Confeziona prodotti alimentari dalla pasta secca ai prodotti da forno",
+   "url": "https://www.martinisrl.com/prodotti/",
+   "quote": "spaziando dalla pasta secca ai prodotti da forno."
+  },
+  {
+   "claim": "I suoi clienti sono produttori di alimenti",
+   "url": "https://www.martinisrl.com/prodotti/",
+   "quote": "Martini srl è specializzata nel confezionamento e pesatura di prodotti alimentari spaziando dalla pasta secca ai prodotti da forno."
+  }
+ ],
+ "market": {
+  "count": "1.612",
+  "label": "titolari e direttori di aziende alimentari italiane da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "aziende alimentari"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"companyIndustry\": \"food and beverage manufacturing\"}"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "m-c",
+ "company": "M&C",
+ "first_name": "Paolo",
+ "domain": "man-con.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza e servizi nel settore dell'Information Technology per le imprese. Ecco chi contatteremmo per M&C.",
+ "market_note": "M&C è una società di consulenza nel settore dell'Information Technology che affianca le imprese su tutto il territorio nazionale, quindi parleremmo con chi decide su infrastrutture e supporto specialistico.",
+ "evidence": [
+  {
+   "claim": "Consulenza e servizi nel settore dell'Information Technology",
+   "url": "https://www.man-con.com/",
+   "quote": "società di consulenza e servizi operante nel settore dell’Information Technology"
+  },
+  {
+   "claim": "Opera su tutto il territorio nazionale",
+   "url": "https://www.man-con.com/azienda/centri-di-competenza/",
+   "quote": "I team operano sia in modalità centralizzata che presso le sedi di ogni cliente, su tutto il territorio nazionale"
+  },
+  {
+   "claim": "Si occupa di infrastrutture e supporto specialistico",
+   "url": "https://www.man-con.com/",
+   "quote": "supporto specialistico di alto livello per la gestione e la manutenzione di infrastrutture informatiche"
+  },
+  {
+   "claim": "Offre supporto specialistico su infrastrutture informatiche",
+   "url": "https://www.man-con.com/",
+   "quote": "supporto specialistico di alto livello per la gestione e la manutenzione di infrastrutture informatiche"
+  }
+ ],
+ "market": {
+  "count": "1.974",
+  "label": "responsabili IT e dei sistemi informativi di aziende italiane da 50 a 250 addetti",
+  "chips": [
+   "Tutta Italia",
+   "da 50 a 250 addetti",
+   "responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

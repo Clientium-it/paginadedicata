@@ -1,0 +1,82 @@
+{
+ "slug": "dvp",
+ "company": "DVP",
+ "first_name": "Roberto",
+ "domain": "dvppumps.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Pompe per il vuoto e compressori per svariati settori industriali. Ecco chi contatteremmo per DVP.",
+ "market_note": "DVP produce pompe per il vuoto e compressori per gli OEM utilizzatori di pompe per vuoto industriali, quindi parleremmo con chi guida la produzione e gli acquisti tecnici in azienda.",
+ "evidence": [
+  {
+   "claim": "Produce pompe per il vuoto e compressori per diversi settori industriali",
+   "url": "https://www.dvppumps.com/",
+   "quote": "pompe per il vuoto e compressori che trovano applicazione in svariati settori industriali"
+  },
+  {
+   "claim": "Produce pompe per il vuoto e compressori",
+   "url": "https://www.dvppumps.com/",
+   "quote": "pompe per il vuoto e compressori che trovano applicazione in svariati settori industriali"
+  },
+  {
+   "claim": "Si rivolge agli OEM utilizzatori di pompe per vuoto industriali e compressori a bassa pressione",
+   "url": "https://www.dvppumps.com/chi-siamo/",
+   "quote": "un consulente, fedele e competente per gli OEM utilizzatori di pompe per vuoto industriali e compressori a bassa pressione"
+  },
+  {
+   "claim": "Produce pompe e compressori per svariati settori industriali come packaging e chimica",
+   "url": "https://www.dvppumps.com/chi-siamo/",
+   "quote": "packaging, ambiente, chimica, sanità e molti altri"
+  },
+  {
+   "claim": "Settori applicativi serviti dichiarati dal sito",
+   "url": "https://www.dvppumps.com/chi-siamo/",
+   "quote": "packaging, ambiente, chimica, sanità e molti altri"
+  }
+ ],
+ "market": {
+  "count": "3.722",
+  "label": "titolari, CEO e direttori di aziende industriali italiane da 20 a 250 addetti nei settori packaging, chimica e medicale",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "packaging",
+   "chimica",
+   "medicale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"companyIndustry\": \"packaging and containers manufacturing,chemical manufacturing,environmental services,medical equipment manufacturing\"}"
+ }
+}

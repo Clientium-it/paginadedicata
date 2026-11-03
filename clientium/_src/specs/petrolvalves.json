@@ -1,0 +1,77 @@
+{
+ "slug": "petrolvalves",
+ "company": "PetrolValves",
+ "first_name": "Gabriele",
+ "domain": "petrolvalves.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Valvole, attuatori e sistemi ad alta integrità per l'industria dell'energia. Ecco chi contatteremmo per PetrolValves.",
+ "market_note": "PetrolValves progetta e produce valvole e sistemi ad alta integrità per l'industria dell'energia, quindi parleremmo con chi guida ingegneria e acquisti nei progetti energetici critici.",
+ "evidence": [
+  {
+   "claim": "Valvole, attuatori e sistemi ad alta integrità",
+   "url": "https://www.petrolvalves.com/",
+   "quote": "high-quality valves, actuators, and advanced systems"
+  },
+  {
+   "claim": "Fornitore di soluzioni di flusso per l'industria dell'energia",
+   "url": "https://www.petrolvalves.com/about-us/",
+   "quote": "We are a leading flow solutions provider for the Energy industry"
+  },
+  {
+   "claim": "Progetta e produce soluzioni di flusso ad alta integrità per gli ambienti più difficili al mondo",
+   "url": "https://www.petrolvalves.com/",
+   "quote": "We engineer and manufacture high-integrity flow solutions built for the world’s toughest, high-pressure environments"
+  },
+  {
+   "claim": "Settori clienti serviti dalle valvole",
+   "url": "https://www.petrolvalves.com/vsi-control-valves-and-engineered-solutions/",
+   "quote": "Oil & Gas Power Generation Steel Production Water Treatment"
+  }
+ ],
+ "market": {
+  "count": "3.566",
+  "label": "direttori, CEO e responsabili tecnici di grandi aziende dell'energia oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "oil and gas",
+   "power generation",
+   "water treatment"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"oil and gas,utilities,water\"}"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "omis",
+ "company": "OMIS",
+ "first_name": "Laura",
+ "domain": "omis.net",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Gru, carroponti e paranchi per sollevare ogni carico, in ogni settore. Ecco chi contatteremmo per OMIS.",
+ "market_note": "OMIS è un produttore di gru, carroponti e paranchi per la movimentazione industriale, quindi parleremmo con chi decide su impianti di sollevamento negli stabilimenti.",
+ "evidence": [
+  {
+   "claim": "Produce gru, carroponti e paranchi per sollevare ogni carico in ogni settore",
+   "url": "https://www.omis.net/it-it/",
+   "quote": "Solleviamo ogni carico, in ogni settore con gru, carroponti e paranchi"
+  },
+  {
+   "claim": "È un produttore",
+   "url": "https://www.omis.net/it-it/",
+   "quote": "OMIS è un produttore di eccellenza, un partner sicuro e affidabile"
+  },
+  {
+   "claim": "Opera nella movimentazione industriale",
+   "url": "https://www.omis.net/it-it/referenze/",
+   "quote": "specializzato in soluzioni per la movimentazione industriale"
+  },
+  {
+   "claim": "Produce gru, carroponti e paranchi per ogni settore",
+   "url": "https://www.omis.net/it-it/",
+   "quote": "Solleviamo ogni carico, in ogni settore con gru, carroponti e paranchi"
+  },
+  {
+   "claim": "Settori serviti dichiarati",
+   "url": "https://www.omis.net/it-it/referenze/",
+   "quote": "Settore siderurgico Movimentazione rifiuti Industria cartaria"
+  },
+  {
+   "claim": "Serve anche il settore aerospace",
+   "url": "https://www.omis.net/it-it/referenze/",
+   "quote": "Carriponte e gru a bandiera per l’aerospace"
+  }
+ ],
+ "market": {
+  "count": "1.882",
+  "label": "titolari, CEO e direttori di aziende manifatturiere e industriali italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "siderurgia",
+   "aerospace",
+   "cartaria"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"aerospace,paper manufacturing,waste management\"}"
+ }
+}

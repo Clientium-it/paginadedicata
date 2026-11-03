@@ -1,0 +1,80 @@
+{
+ "slug": "mv-consulting",
+ "company": "MV Consulting",
+ "first_name": "Marco",
+ "domain": "mv-consulting.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Software su misura, DPO e adeguamento alla NIS 2 per le aziende. Ecco chi contatteremmo per MV Consulting.",
+ "market_note": "MV Consulting costruisce software su misura e ricopre il ruolo di DPO per aziende di ogni dimensione, quindi parleremmo con chi guida i processi e la trasformazione digitale.",
+ "evidence": [
+  {
+   "claim": "Costruisce software e gestionali su misura attorno al processo aziendale",
+   "url": "https://www.mv-consulting.it/",
+   "quote": "Quando il processo non entra in un prodotto standard, costruiamo il gestionale attorno al processo."
+  },
+  {
+   "claim": "Ricopre il ruolo di DPO e segue l'adeguamento alla NIS 2",
+   "url": "https://www.mv-consulting.it/",
+   "quote": "Ricopriamo il ruolo di Data Protection Officer per aziende di ogni dimensione, incluse multinazionali, e accompagniamo l'adeguamento alla NIS 2."
+  },
+  {
+   "claim": "Fa DPO per aziende di ogni dimensione",
+   "url": "https://www.mv-consulting.it/",
+   "quote": "Ricopriamo il ruolo di Data Protection Officer per aziende di ogni dimensione, incluse multinazionali, e accompagniamo l'adeguamento alla NIS 2."
+  },
+  {
+   "claim": "Costruisce il gestionale attorno al processo reale dell'azienda",
+   "url": "https://www.mv-consulting.it/",
+   "quote": "Quando il processo non entra in un prodotto standard, costruiamo il gestionale attorno al processo."
+  },
+  {
+   "claim": "Serve aziende di ogni dimensione senza vincolo di settore",
+   "url": "https://www.mv-consulting.it/",
+   "quote": "Ricopriamo il ruolo di Data Protection Officer per aziende di ogni dimensione, incluse multinazionali, e accompagniamo l'adeguamento alla NIS 2."
+  }
+ ],
+ "market": {
+  "count": "110.089",
+  "label": "titolari, CEO e direttori di PMI italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "PMI"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "omt",
+ "company": "OMT",
+ "first_name": "Marco",
+ "domain": "omt-torino.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Attrezzature di iniezione di precisione per i costruttori di grandi motori diesel. Ecco chi contatteremmo per OMT.",
+ "market_note": "OMT produce attrezzature di iniezione per i costruttori di motori nei mercati navale, della generazione di energia e della trazione ferroviaria, quindi parleremmo con chi guida tecnica e produzione.",
+ "evidence": [
+  {
+   "claim": "Produce attrezzature di iniezione di precisione per i costruttori di grandi motori diesel.",
+   "url": "https://omt-torino.com/def/en/about_us.php",
+   "quote": "OMT has served engine builders with dependable, high precision fuel injection equipment since the early days of large diesel engine development"
+  },
+  {
+   "claim": "Serve i mercati navale, della generazione di energia e della trazione ferroviaria.",
+   "url": "https://omt-torino.com/def/en/about_us.php",
+   "quote": "serving the global markets for marine propulsion, power generation and rail traction"
+  },
+  {
+   "claim": "Partner dei costruttori di motori per quei mercati.",
+   "url": "https://omt-torino.com/def/en/about_us.php",
+   "quote": "reliable partner of engine builders serving the global markets for marine propulsion, power generation and rail traction"
+  },
+  {
+   "claim": "Offre attrezzature di iniezione personalizzate per i motori dei clienti.",
+   "url": "https://omt-torino.com/def/en/prodotti.php",
+   "quote": "OMT offers a wide range of customized fuel injection equipment"
+  }
+ ],
+ "market": {
+  "count": "5.414",
+  "label": "titolari, CEO e direttori di costruttori di motori per i mercati navale, energia e ferroviario, da 100 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "100+ addetti",
+   "navale",
+   "energia",
+   "ferroviario"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"maritime transportation,utilities,railroad,industrial machinery manufacturing\"}"
+ }
+}

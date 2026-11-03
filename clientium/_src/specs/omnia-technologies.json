@@ -1,0 +1,82 @@
+{
+ "slug": "omnia-technologies",
+ "company": "Omnia Technologies",
+ "first_name": "Marco",
+ "domain": "omniatechnologiesgroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni automatizzate per il mondo del beverage e delle life sciences. Ecco chi contatteremmo per Omnia Technologies.",
+ "market_note": "Omnia Technologies riunisce specialisti in tecnologie per il beverage e le life sciences, con linee complete per chi produce, quindi parleremmo con chi guida produzione e stabilimenti del settore.",
+ "evidence": [
+  {
+   "claim": "Soluzioni automatizzate per food, beverage e pharma",
+   "url": "https://www.omniatechnologiesgroup.com",
+   "quote": "Automated solutions for Food, Beverage and Pharma"
+  },
+  {
+   "claim": "Specialisti in tecnologie per il beverage e le life sciences",
+   "url": "https://www.omniatechnologiesgroup.com",
+   "quote": "Our Group brings together the expertise of leading specialists in technologies for the Beverage and Life Sciences industries."
+  },
+  {
+   "claim": "Linee complete dal processo al packaging",
+   "url": "https://www.omniatechnologiesgroup.com/macroproducts/",
+   "quote": "We are a team of specialists, designing fully engineered solutions from processing to end-of-the line packaging."
+  },
+  {
+   "claim": "Clienti nel farmaceutico e nutraceutico",
+   "url": "https://www.omniatechnologiesgroup.com/macroproducts/",
+   "quote": "designed for the automated cartoning of primary packaged products in pharmaceutical and nutraceutical applications"
+  },
+  {
+   "claim": "Clienti nel food e beverage",
+   "url": "https://www.omniatechnologiesgroup.com",
+   "quote": "Automated solutions for Food, Beverage and Pharma"
+  }
+ ],
+ "market": {
+  "count": "6.019",
+  "label": "titolari, CEO e direttori di produttori farmaceutici, alimentari e nutraceutici strutturati in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "farmaceutico",
+   "alimentare e beverage",
+   "nutraceutico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"pharmaceutical manufacturing,food and beverage manufacturing,nutraceutical\"}"
+ }
+}

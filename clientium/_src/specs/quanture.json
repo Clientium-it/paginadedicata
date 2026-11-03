@@ -1,0 +1,80 @@
+{
+ "slug": "quanture",
+ "company": "Quanture",
+ "first_name": "Mirko",
+ "domain": "quanture.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Servizi gestiti e soluzioni innovative per potenziare il business, dall'infrastruttura al cloud alla sicurezza. Ecco chi contatteremmo per Quanture.",
+ "market_note": "Quanture offre servizi gestiti e soluzioni IT alle aziende, dalla cyber security al cloud Microsoft fino all'infrastruttura, quindi parleremmo con chi decide su sistemi, sicurezza e continuità operativa.",
+ "evidence": [
+  {
+   "claim": "Offre servizi gestiti e soluzioni innovative per il business delle aziende",
+   "url": "https://quanture.com/",
+   "quote": "Offriamo servizi gestiti e soluzioni innovative per potenziare il tuo business"
+  },
+  {
+   "claim": "Fa cyber security per le aziende",
+   "url": "https://quanture.com/",
+   "quote": "Proteggi i tuoi asset digitali e garantisci la sicurezza dei dati e la continuità operativa della tua azienda."
+  },
+  {
+   "claim": "Lavora sul cloud e sulla suite Microsoft M365",
+   "url": "https://quanture.com/",
+   "quote": "Tutto il potenziale del Cloud e della suite M365 al servizio del tuo business."
+  },
+  {
+   "claim": "Ha raddoppiato il data center di Ceramica Rondine",
+   "url": "https://quanture.com/case-studies/",
+   "quote": "Ceramica Rondine raddoppia il data center con Quanture"
+  },
+  {
+   "claim": "Si rivolge a figure come CIO e CISO",
+   "url": "https://quanture.com/",
+   "quote": "ciclo di webinar dedicato a CIO e CISO"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "CIO e responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

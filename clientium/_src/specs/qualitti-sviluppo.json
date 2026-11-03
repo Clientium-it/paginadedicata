@@ -1,0 +1,82 @@
+{
+ "slug": "qualitti-sviluppo",
+ "company": "Qualitti Sviluppo",
+ "first_name": "Jose",
+ "domain": "qualitti.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza italiana di innovazione tecnologica con AI e iperautomazione per aziende europee. Ecco chi contatteremmo per Qualitti Sviluppo.",
+ "market_note": "Qualitti Sviluppo è una società di consulenza con sede a Trento, specializzata in iperautomazione e intelligenza artificiale, quindi parleremmo con chi guida tecnologia e innovazione nelle aziende.",
+ "evidence": [
+  {
+   "claim": "Consulenza italiana di innovazione tecnologica per aziende europee",
+   "url": "https://qualitti.it/",
+   "quote": "Consulenza italiana di innovazione tecnologica per aziende europee"
+  },
+  {
+   "claim": "Società di consulenza con sede a Trento specializzata in iperautomazione e intelligenza artificiale",
+   "url": "https://qualitti.it/",
+   "quote": "società di consulenza con sede a Trento, specializzata in trasformazione digitale basata su iperautomazione e intelligenza artificiale"
+  },
+  {
+   "claim": "Sviluppa soluzioni di intelligenza artificiale e analisi dei dati",
+   "url": "https://qualitti.it/servizi/intelligenza-artificiale-analytics/",
+   "quote": "soluzioni di intelligenza artificiale e analisi dei dati"
+  },
+  {
+   "claim": "Lavora con grandi aziende e PMI",
+   "url": "https://qualitti.it/",
+   "quote": "Lavoriamo con grandi aziende e PMI in Italia, Portogallo e Regno Unito."
+  },
+  {
+   "claim": "Opera in settori come energia, industria e logistica",
+   "url": "https://qualitti.it/casi-di-successo/",
+   "quote": "settori complessi come energia, industria, logistica e mobilità"
+  }
+ ],
+ "market": {
+  "count": "1.960",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate da oltre 50 addetti nei settori industria, logistica ed energia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "industria",
+   "logistica",
+   "energia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,logistics,ports and harbors,utilities\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

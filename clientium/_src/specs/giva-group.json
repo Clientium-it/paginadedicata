@@ -1,0 +1,77 @@
+{
+ "slug": "giva-group",
+ "company": "GIVA Group",
+ "first_name": "Riccardo",
+ "domain": "givagroup.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Leader mondiale nella produzione di acciaio, tra lingotti, forgiati, valvole e attuatori. Ecco chi contatteremmo per GIVA Group.",
+ "market_note": "GIVA Group produce acciaio, forgiati, valvole e attuatori per settori come nuclear, oil and gas, petrolchimico e cantieristica, quindi parleremmo con chi decide su forniture e componenti industriali.",
+ "evidence": [
+  {
+   "claim": "Leader mondiale nella produzione di acciaio tra lingotti, forgiati, valvole e attuatori",
+   "url": "https://www.givagroup.it/",
+   "quote": "worldwide leader in manufacturing of steel products including ingots, forging, valves and actuators"
+  },
+  {
+   "claim": "Serve settori come nuclear, oil and gas, petrolchimico e cantieristica",
+   "url": "https://www.givagroup.it/",
+   "quote": "power gen nuclear oil & gas petrochemical mechanical engineering shipbuilding"
+  },
+  {
+   "claim": "E leader mondiale nella produzione di acciaio con lingotti, forgiati, valvole e attuatori",
+   "url": "https://www.givagroup.it/",
+   "quote": "worldwide leader in manufacturing of steel products including ingots, forging, valves and actuators"
+  },
+  {
+   "claim": "Settori clienti dichiarati tra power gen, nuclear, oil and gas, petrochemical, mechanical engineering e shipbuilding",
+   "url": "https://www.givagroup.it/",
+   "quote": "power gen nuclear oil & gas petrochemical mechanical engineering shipbuilding"
+  }
+ ],
+ "market": {
+  "count": "3.511",
+  "label": "direttori, titolari e responsabili acquisti di aziende industriali strutturate nei settori energia, oil and gas e cantieristica",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "oil and gas",
+   "nuclear",
+   "cantieristica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"oil and gas,nuclear,shipbuilding,mechanical engineering\"}"
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "slug": "gruppo-progress",
+ "company": "Gruppo Progress",
+ "first_name": "Paolo",
+ "domain": "progress.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni HR ed ERP e i migliori software gestionali d'Italia per aziende e studi. Ecco chi contatteremmo per Gruppo Progress.",
+ "market_note": "Gruppo Progress porta software gestionali ERP e HR Zucchetti alle aziende e agli studi professionali, quindi parleremmo con chi decide su gestione del personale, contabilità e digitalizzazione dei processi.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni HR ed ERP",
+   "url": "https://www.progress.it/",
+   "quote": "Soluzioni HR & ERP per guidare l’innovazione"
+  },
+  {
+   "claim": "Fornisce i migliori software gestionali d'Italia",
+   "url": "https://www.progress.it/",
+   "quote": "i migliori software gestionali d’Italia"
+  },
+  {
+   "claim": "Offre software gestionali alle aziende",
+   "url": "https://www.progress.it/servizi/aziende/",
+   "quote": "Per le aziende, offriamo software gestionali completi e scalabili"
+  },
+  {
+   "claim": "Propone soluzioni ERP Zucchetti",
+   "url": "https://www.progress.it/servizi/aziende/",
+   "quote": "Le soluzioni ERP Zucchetti sono programmi gestionali altamente personalizzabili, modulari e flessibili"
+  },
+  {
+   "claim": "Serve consulenti del lavoro, commercialisti e imprese",
+   "url": "https://www.progress.it/servizi-editoriali/",
+   "quote": "Servizi in abbonamento per consulenti del lavoro, commercialisti e imprese"
+  },
+  {
+   "claim": "Porta nelle aziende le soluzioni Zucchetti",
+   "url": "https://www.progress.it/",
+   "quote": "Con le soluzioni Zucchetti portiamo nelle aziende"
+  },
+  {
+   "claim": "Personalizzazione completa e supporto costante",
+   "url": "https://www.progress.it/",
+   "quote": "Strumenti all’avanguardia Personalizzazione completa Supporto costante"
+  },
+  {
+   "claim": "Serve aziende di qualsiasi dimensione e settore",
+   "url": "https://www.progress.it/servizi/aziende/",
+   "quote": "la suite completa per le aziende di qualsiasi dimensione e settore"
+  }
+ ],
+ "market": {
+  "count": "110.089",
+  "label": "titolari, CEO e direttori di aziende e studi professionali italiani da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "PMI",
+   "10-250 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

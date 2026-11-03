@@ -1,0 +1,77 @@
+{
+ "slug": "movex",
+ "company": "Movex",
+ "first_name": "Sergio",
+ "domain": "movexii.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progetta e produce componenti per i settori beverage, food, logistics e automation. Ecco chi contatteremmo per Movex.",
+ "market_note": "Movex progetta e produce componenti per beverage, food e logistics venduti a OEM, costruttori di trasportatori e distributori, quindi parleremmo con chi guida la produzione industriale.",
+ "evidence": [
+  {
+   "claim": "Progetta e produce componenti per i settori beverage, food, logistics e automation",
+   "url": "https://movexii.com/en",
+   "quote": "We design and manufacture high-quality components for the beverage, packaging, food, logistics, automotive and automation industries."
+  },
+  {
+   "claim": "Vende a OEM, costruttori di trasportatori, system integrator e distributori",
+   "url": "https://movexii.com/en/company",
+   "quote": "Our loyal customers include OEMs, conveyor manufacturers, system integrators, distributors and demanding end-users"
+  },
+  {
+   "claim": "Progetta e produce componenti per beverage, food, logistics e automation",
+   "url": "https://movexii.com/en",
+   "quote": "We design and manufacture high-quality components for the beverage, packaging, food, logistics, automotive and automation industries."
+  },
+  {
+   "claim": "Settori clienti serviti: beverage, packaging, food, logistics, automotive e automation",
+   "url": "https://movexii.com/en",
+   "quote": "We design and manufacture high-quality components for the beverage, packaging, food, logistics, automotive and automation industries."
+  }
+ ],
+ "market": {
+  "count": "11.620",
+  "label": "titolari, CEO e direttori di aziende manifatturiere e industriali italiane oltre i 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "beverage e food",
+   "logistics",
+   "automotive e automazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"beverage manufacturing,food and beverage manufacturing,packaging and containers manufacturing,logistics,automotive,industrial automation\"}"
+ }
+}

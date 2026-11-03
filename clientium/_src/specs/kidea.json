@@ -1,0 +1,57 @@
+{
+ "slug": "kidea",
+ "company": "Kidea",
+ "first_name": "Luciana",
+ "domain": "kidea.net",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Creatività, strategia, media ed experience per progetti che lasciano un'impronta unica. Ecco chi contatteremmo per Kidea.",
+ "market_note": "Kidea è un'agenzia di comunicazione e pubblicità tra Napoli e Roma, quindi parleremmo con i titolari e i direttori che decidono su brand, campagne e comunicazione.",
+ "evidence": [
+  {
+   "claim": "progetti che lasciano un'impronta unica",
+   "url": "https://www.kidea.net/",
+   "quote": "progetti che lasciano un’impronta unica"
+  },
+  {
+   "claim": "creatività, strategia, media ed experience",
+   "url": "https://www.kidea.net/",
+   "quote": "Creatività, strategia, media ed experience"
+  },
+  {
+   "claim": "agenzia di comunicazione e pubblicità a Napoli e Roma",
+   "url": "https://www.kidea.net/",
+   "quote": "Agenzia di Comunicazione e Pubblicità Napoli e Roma"
+  },
+  {
+   "claim": "sedi a Napoli e Roma",
+   "url": "https://www.kidea.net/about",
+   "quote": "I nostri playground creativi nel cuore di Napoli e Roma."
+  }
+ ],
+ "market": {
+  "count": "7.791",
+  "label": "titolari, CEO e direttori di aziende strutturate di Campania e Lazio oltre 50 addetti",
+  "chips": [
+   "Campania",
+   "Lazio",
+   "oltre 50 addetti"
+  ],
+  "regions": [
+   "Campania",
+   "Lazio"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Campania,Lazio\", \"minEmployees\": 50}"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "syscons",
+ "company": "Syscons",
+ "first_name": "Gianni",
+ "domain": "syscons.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progetti digitali su misura per la supply chain delle imprese. Ecco chi contatteremmo per Syscons.",
+ "market_note": "Syscons digitalizza e integra la supply chain delle imprese del manifatturiero, dei beni di consumo e del retail, quindi parleremmo con chi guida la trasformazione digitale e la supply chain.",
+ "evidence": [
+  {
+   "claim": "Realizza progetti digitali su misura per le imprese",
+   "url": "https://www.syscons.it/",
+   "quote": "Creiamo progetti digitali su misura che introducono innovazione e ottimizzano l'efficienza operativa"
+  },
+  {
+   "claim": "Digitalizza e integra la supply chain delle imprese",
+   "url": "https://www.syscons.it/servizi/digital-supply-chain",
+   "quote": "Da oltre 20 anni, aiutiamo le imprese a digitalizzare e integrare la loro supply chain"
+  },
+  {
+   "claim": "Serve i settori automotive, beni di consumo, manifatturiero e retail",
+   "url": "https://www.syscons.it/",
+   "quote": "Automotive Beni di consumo Industrial manufacturing Life Science and Healthcare Retail"
+  },
+  {
+   "claim": "Da oltre vent'anni digitalizza e integra la supply chain",
+   "url": "https://www.syscons.it/servizi/digital-supply-chain",
+   "quote": "Da oltre 20 anni, aiutiamo le imprese a digitalizzare e integrare la loro supply chain"
+  },
+  {
+   "claim": "Settori clienti dichiarati dal sito",
+   "url": "https://www.syscons.it/",
+   "quote": "Automotive Beni di consumo Industrial manufacturing Life Science and Healthcare Retail"
+  }
+ ],
+ "market": {
+  "count": "21.955",
+  "label": "direttori, CEO e titolari di aziende manifatturiere, di beni di consumo e retail, strutturate da oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "manifatturiero",
+   "beni di consumo",
+   "retail",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"automotive,consumer goods,industrial manufacturing,life science,health care,retail\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

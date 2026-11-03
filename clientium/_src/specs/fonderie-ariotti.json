@@ -1,0 +1,82 @@
+{
+ "slug": "fonderie-ariotti",
+ "company": "Fonderie Ariotti",
+ "first_name": "Roberto",
+ "domain": "fonderieariotti.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Fusioni strutturali in ghisa per l'industria delle macchine e dell'energia. Ecco chi contatteremmo per Fonderie Ariotti.",
+ "market_note": "Fonderie Ariotti produce componenti speciali in ghisa per i settori dell'energia, delle macchine utensili, delle presse e delle infrastrutture, quindi parleremmo con chi decide gli acquisti tecnici in quelle aziende.",
+ "evidence": [
+  {
+   "claim": "Produce fusioni strutturali in ghisa per l'industria delle macchine e dell'energia",
+   "url": "https://www.fonderieariotti.com/",
+   "quote": "Fusioni strutturali in ghisa per l'industria delle macchine e dell'energia"
+  },
+  {
+   "claim": "Produce componenti speciali in ghisa per energia, macchine utensili, presse e infrastrutture",
+   "url": "https://www.fonderieariotti.com/",
+   "quote": "componenti speciali in ghisa per i settori dell'energia, delle macchine utensili, delle presse e delle infrastrutture"
+  },
+  {
+   "claim": "Fusioni strutturali in ghisa per l'industria delle macchine e dell'energia",
+   "url": "https://www.fonderieariotti.com/",
+   "quote": "Fusioni strutturali in ghisa per l'industria delle macchine e dell'energia"
+  },
+  {
+   "claim": "Prodotti destinati a macchine e impianti industriali dei settori energia, macchine utensili, presse e infrastrutture",
+   "url": "https://www.fonderieariotti.com/settori-di-riferimento/",
+   "quote": "destinati a macchine e impianti industriali per i settori dell'energia, delle macchine utensili, delle presse e delle infrastrutture"
+  },
+  {
+   "claim": "Core business nei settori eolico e idroelettrico",
+   "url": "https://www.fonderieariotti.com/settori-di-riferimento/",
+   "quote": "i settori eolico e idroelettrico rappresentano il nostro core business"
+  }
+ ],
+ "market": {
+  "count": "10.773",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane strutturate dei settori energia, macchine utensili e presse",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "energia e rinnovabili",
+   "macchine utensili e presse",
+   "manifattura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"renewable energy,wind energy,hydroelectric,oil and gas,machinery manufacturing,industrial machinery manufacturing\"}"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "mahac",
+ "company": "MAHAC",
+ "first_name": "Giovanni",
+ "domain": "mahac.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Chimica e tecnologie innovative per il settore delle costruzioni e dei conglomerati bituminosi. Ecco chi contatteremmo per MAHAC.",
+ "market_note": "MAHAC sviluppa chimica e tecnologie per le costruzioni e affianca produttori di additivi e malte, imprese di costruzioni e prefabbricatori, quindi parleremmo con chi guida queste aziende.",
+ "evidence": [
+  {
+   "claim": "Opera nel settore delle costruzioni e dei conglomerati bituminosi",
+   "url": "https://www.mahac.it/chi-siamo/",
+   "quote": "Operiamo in una prospettiva di economia circolare nel settore del calcestruzzo preconfezionato, del cemento armato, delle murature e dei conglomerati bituminosi."
+  },
+  {
+   "claim": "Affianca produttori di additivi e malte, imprese di costruzioni e prefabbricatori",
+   "url": "https://www.mahac.it/chi-siamo/",
+   "quote": "dei produttori di additivi e malte, dei progettisti, dei tecnologi, delle imprese di costruzioni, dei prefabbricatori, dei general contractors"
+  },
+  {
+   "claim": "Affianca produttori di additivi e malte, imprese di costruzioni e prefabbricatori",
+   "url": "https://www.mahac.it/chi-siamo/",
+   "quote": "dei produttori di additivi e malte, dei progettisti, dei tecnologi, delle imprese di costruzioni, dei prefabbricatori, dei general contractors"
+  },
+  {
+   "claim": "I clienti sono aziende delle costruzioni e dei materiali da costruzione",
+   "url": "https://www.mahac.it/chi-siamo/",
+   "quote": "dei produttori di additivi e malte, dei progettisti, dei tecnologi, delle imprese di costruzioni, dei prefabbricatori, dei general contractors"
+  }
+ ],
+ "market": {
+  "count": "4.516",
+  "label": "titolari, CEO e direttori tecnici di aziende delle costruzioni e dei materiali da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "costruzioni",
+   "materiali da costruzione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"companyIndustry\": \"construction,building material\"}"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "slug": "deda",
+ "company": "Deda",
+ "first_name": "Emanuele",
+ "domain": "deda.group",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Deda aiuta le organizzazioni a cogliere le opportunità offerte dall'evoluzione tecnologica. Ecco chi contatteremmo per Deda.",
+ "market_note": "Deda accompagna banche, imprese e istituzioni nella trasformazione digitale con software, cloud e cybersecurity, quindi parleremmo con chi guida tecnologia e sistemi informativi nelle grandi aziende italiane.",
+ "evidence": [
+  {
+   "claim": "Deda aiuta le organizzazioni a cogliere le opportunità offerte dall'evoluzione tecnologica",
+   "url": "https://www.deda.com/home",
+   "quote": "Deda aiuta le organizzazioni a cogliere le opportunità di crescita e sviluppo offerte dall’evoluzione tecnologica."
+  },
+  {
+   "claim": "Offre a imprese pubbliche e private e istituzioni finanziarie strumenti, servizi e consulenza",
+   "url": "https://www.deda.com/markets-solutions",
+   "quote": "Offriamo alle imprese pubbliche e private e alle istituzioni finanziarie gli strumenti, i servizi, la consulenza e il supporto strategico"
+  },
+  {
+   "claim": "Fornisce servizi e software per l'innovazione digitale delle imprese",
+   "url": "https://www.deda.com/markets-solutions",
+   "quote": "Aiutiamo le imprese a fare crescere il proprio business attraverso servizi e software che accelerano l’innovazione digitale."
+  },
+  {
+   "claim": "Costruisce un ecosistema di servizi IT, Cloud e sicurezza informatica",
+   "url": "https://www.deda.com/markets-solutions",
+   "quote": "Costruiamo un ecosistema di servizi nel campo dell’IT, del Cloud e della sicurezza informatica."
+  },
+  {
+   "claim": "Aiuta le amministrazioni e le aziende di pubblico servizio",
+   "url": "https://www.deda.com/home",
+   "quote": "Aiutiamo le amministrazioni, le aziende di pubblico servizio, gli operatori dell’energy a progettare soluzioni per i cittadini e le imprese."
+  },
+  {
+   "claim": "Accompagna le imprese Life Science & Pharma",
+   "url": "https://www.deda.com/markets-solutions",
+   "quote": "Accompagniamo le imprese Life Science & Pharma nella trasformazione digitale e normativa"
+  },
+  {
+   "claim": "Accompagna gli operatori Telco nella trasformazione digitale",
+   "url": "https://www.deda.com/markets-solutions",
+   "quote": "Accompagniamo gli operatori Telco nella trasformazione digitale"
+  }
+ ],
+ "market": {
+  "count": "3.859",
+  "label": "responsabili IT, CIO e CTO di grandi aziende italiane nei settori finanza, moda, manifattura e servizi pubblici",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "finanza",
+   "moda e retail",
+   "manifattura",
+   "servizi pubblici"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"financial services,banking,insurance,fashion,retail,manufacturing,government administration,pharmaceutical,telecommunications\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

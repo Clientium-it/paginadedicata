@@ -1,0 +1,85 @@
+{
+ "slug": "goon",
+ "company": "GOON",
+ "first_name": "Fabio",
+ "domain": "goonitalia.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progettano e realizzano esperienze integrate che uniscono creatività, tecnologia e strategia. Ecco chi contatteremmo per GOON.",
+ "market_note": "GOON progetta e realizza esperienze integrate di comunicazione, tecnologia e marketing per i brand, quindi parleremmo con chi decide su comunicazione, immagine e campagne nelle aziende.",
+ "evidence": [
+  {
+   "claim": "Progettano e realizzano esperienze integrate",
+   "url": "https://goonitalia.it/",
+   "quote": "Progettiamo e realizziamo esperienze integrate che superino il concetto di"
+  },
+  {
+   "claim": "Uniscono creatività, tecnologia e strategia",
+   "url": "https://goonitalia.it/",
+   "quote": "Uniamo creatività, tecnologia e strategia con una visione sistemica"
+  },
+  {
+   "claim": "Realizza esperienze integrate di comunicazione, tecnologia e marketing per i brand",
+   "url": "https://goonitalia.it/",
+   "quote": "Progettiamo e realizziamo esperienze integrate che superino il concetto di"
+  },
+  {
+   "claim": "Azienda di brand experience",
+   "url": "https://goonitalia.it/",
+   "quote": "The Brand Experience Company"
+  },
+  {
+   "claim": "Esperienze integrate di comunicazione, tecnologia e strategia",
+   "url": "https://goonitalia.it/",
+   "quote": "Uniamo creatività, tecnologia e strategia con una visione sistemica"
+  },
+  {
+   "claim": "Azienda di comunicazione e brand experience che serve i brand",
+   "url": "https://goonitalia.it/",
+   "quote": "The Brand Experience Company"
+  }
+ ],
+ "market": {
+  "count": "124.079",
+  "label": "titolari, CEO e direttori di aziende italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "marketing e comunicazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "esri-italia",
+ "company": "Esri Italia",
+ "first_name": "Michele",
+ "domain": "esriitalia.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Software di mappatura GIS, location intelligence e analisi spaziale. Ecco chi contatteremmo per Esri Italia.",
+ "market_note": "Esri Italia offre software di mappatura GIS, location intelligence e analisi spaziale per l'ambito aziendale e le grandi organizzazioni, quindi parleremmo con chi guida sistemi informativi e dati.",
+ "evidence": [
+  {
+   "claim": "software di mappatura GIS, location intelligence e analisi spaziale",
+   "url": "https://www.esriitalia.it/it-it/home",
+   "quote": "Software di mappatura GIS, location intelligence e analisi spaziale"
+  },
+  {
+   "claim": "offrono software di mappatura GIS, location intelligence e analisi spaziale",
+   "url": "https://www.esriitalia.it/it-it/home",
+   "quote": "Software di mappatura GIS, location intelligence e analisi spaziale"
+  },
+  {
+   "claim": "per l'ambito aziendale e le grandi organizzazioni",
+   "url": "https://www.esriitalia.it/it-it/arcgis/products/arcgis-online/overview",
+   "quote": "perfetto per l'ambito aziendale, poiché soddisfa le esigenze di sicurezza, autenticazione, privacy e gestione utenti delle grandi organizzazioni"
+  },
+  {
+   "claim": "soluzione geospaziale per le grandi organizzazioni",
+   "url": "https://www.esriitalia.it/it-it/arcgis/products/arcgis-online/overview",
+   "quote": "perfetto per l'ambito aziendale, poiché soddisfa le esigenze di sicurezza, autenticazione, privacy e gestione utenti delle grandi organizzazioni"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "CIO, CTO e responsabili IT di organizzazioni italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "CIO e responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "slug": "reflexallen",
+ "company": "Reflexallen",
+ "first_name": "Alessandro",
+ "domain": "reflexallen.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Componenti automotive come fornitore Tier one per costruttori di auto, camion e rimorchi. Ecco chi contatteremmo per Reflexallen.",
+ "market_note": "Reflexallen produce componenti metallici, plastici, elettrici e in carbonio come fornitore Tier one per costruttori di auto, camion e rimorchi, quindi parleremmo con chi guida aziende manifatturiere strutturate.",
+ "evidence": [
+  {
+   "claim": "Produttore di componenti automotive",
+   "url": "https://www.reflexallen.com/",
+   "quote": "Tier One automotive components manufacturer"
+  },
+  {
+   "claim": "Fornitore Tier one per costruttori di auto, camion e rimorchi",
+   "url": "https://www.reflexallen.com/about",
+   "quote": "As a Tier one supplier for car, truck, and trailer manufacturers"
+  },
+  {
+   "claim": "Produce componenti metallici, plastici, elettrici e in carbonio",
+   "url": "https://www.reflexallen.com/about",
+   "quote": "Reflexallen produces metal, plastic, rubber, silicone, electrical, and carbon components"
+  },
+  {
+   "claim": "Fornitore Tier one per costruttori di auto, camion e rimorchi",
+   "url": "https://www.reflexallen.com/about",
+   "quote": "As a Tier one supplier for car, truck, and trailer manufacturers"
+  },
+  {
+   "claim": "Serve settori dall automotive all aerospace, dal racing all energy management",
+   "url": "https://www.reflexallen.com/",
+   "quote": "From automotive to aerospace, from racing to energy management"
+  }
+ ],
+ "market": {
+  "count": "11.517",
+  "label": "direttori, CEO e titolari di aziende manifatturiere strutturate oltre 100 addetti nei settori automotive e industriali",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "automotive",
+   "aerospace e difesa",
+   "racing e industria"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"automotive,motor vehicle manufacturing,aerospace,defense and space manufacturing,railroad,farming,construction,motorsports,industrial manufacturing\"}"
+ }
+}

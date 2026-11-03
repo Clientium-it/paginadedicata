@@ -1,0 +1,88 @@
+{
+ "slug": "stante",
+ "company": "Stante",
+ "first_name": "Marco",
+ "domain": "stante.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Spedizioni internazionali e logistica di magazzino al servizio delle imprese. Ecco chi contatteremmo per Stante.",
+ "market_note": "Stante segue dal 1973 spedizioni internazionali e logistica di magazzino per le aziende, quindi parleremmo con titolari e direttori che decidono su export e trasporti.",
+ "evidence": [
+  {
+   "claim": "Stante fa spedizioni internazionali e logistica di magazzino per le imprese",
+   "url": "https://stante.it/chi-siamo/",
+   "quote": "Spedizionieri internazionali e operatori di logistica di magazzino al servizio delle imprese."
+  },
+  {
+   "claim": "Attiva dal 1973 in spedizioni internazionali e logistica di magazzino",
+   "url": "https://stante.it/",
+   "quote": "Dal 1973 ci occupiamo di spedizioni internazionali e logistica di magazzino."
+  },
+  {
+   "claim": "Lavora con le aziende in tutte le fasi del trasporto",
+   "url": "https://stante.it/",
+   "quote": "accompagnare il business delle aziende in tutte le fasi del trasporto"
+  },
+  {
+   "claim": "Usa una piattaforma proprietaria e brevettata di Carrier Management",
+   "url": "https://stante.it/servizi/spedizioni-camion-completi-e-lotti/",
+   "quote": "ci affidiamo a una piattaforma proprietaria e brevettata di Carrier Management ed e-procurement"
+  },
+  {
+   "claim": "Copertura in tutta Italia",
+   "url": "https://stante.it/",
+   "quote": "Servizi di raccolta e distribuzione in tutta Italia"
+  },
+  {
+   "claim": "Merci gestite di settori chimico, farmaceutico, tessile, meccanico e automotive",
+   "url": "https://stante.it/servizi/spedizioni-terra-groupage/",
+   "quote": "prodotti chimici ADR, farmaceutici, tessili, meccanici e prodotti del settore automotive"
+  }
+ ],
+ "market": {
+  "count": "10.014",
+  "label": "titolari, CEO e direttori di aziende produttrici italiane da 20 a 500 addetti",
+  "chips": [
+   "tutta Italia",
+   "da 20 a 500 addetti",
+   "chimico",
+   "farmaceutico",
+   "tessile",
+   "meccanica e automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 500, \"companyIndustry\": \"chemical manufacturing,pharmaceutical manufacturing,textile manufacturing,machinery manufacturing,automotive\"}"
+ }
+}

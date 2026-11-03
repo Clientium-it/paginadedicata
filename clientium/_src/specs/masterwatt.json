@@ -1,0 +1,80 @@
+{
+ "slug": "masterwatt",
+ "company": "Masterwatt",
+ "first_name": "Davide",
+ "domain": "masterwatt.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni per il riscaldamento elettrico industriale su misura per le esigenze del cliente. Ecco chi contatteremmo per Masterwatt.",
+ "market_note": "Masterwatt produce e progetta riscaldatori elettrici industriali per numerosi mercati a livello mondiale, quindi parleremmo con chi guida direzione e sviluppo nelle aziende industriali.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni di riscaldamento elettrico industriale",
+   "url": "https://masterwatt.it/",
+   "quote": "soluzioni per il riscaldamento elettrico industriale"
+  },
+  {
+   "claim": "Prodotti personalizzati sulle esigenze del cliente",
+   "url": "https://masterwatt.it/azienda-riscaldamento-elettrico-industriale/",
+   "quote": "Prodotti interamente customizzati in base alle esigenze del cliente"
+  },
+  {
+   "claim": "Produce e progetta riscaldatori industriali per numerosi mercati",
+   "url": "https://masterwatt.it/",
+   "quote": "Masterwatt produce e progetta riscaldatori industriali all’avanguardia per numerosi mercati"
+  },
+  {
+   "claim": "Riscaldatori industriali all'avanguardia per numerosi mercati",
+   "url": "https://masterwatt.it/",
+   "quote": "riscaldatori industriali all’avanguardia per numerosi mercati"
+  },
+  {
+   "claim": "Opera a livello mondiale senza limitare la zona",
+   "url": "https://masterwatt.it/",
+   "quote": "consolidata presenza sul mercato globale"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende industriali italiane con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende industriali"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

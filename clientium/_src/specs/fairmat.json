@@ -1,0 +1,86 @@
+{
+ "slug": "fairmat",
+ "company": "Fairmat",
+ "first_name": "Franca",
+ "domain": "fairmat.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni software per gli adempimenti normativi del mercato assicurativo e bancario. Ecco chi contatteremmo per Fairmat.",
+ "market_note": "Fairmat fornisce soluzioni software per gli adempimenti normativi di banche, compagnie assicurative e asset manager, quindi parleremmo con chi guida compliance, funzioni attuariali e sistemi informativi.",
+ "evidence": [
+  {
+   "claim": "Fairmat fornisce soluzioni e servizi per il mercato assicurativo e bancario",
+   "url": "https://www.fairmat.com/",
+   "quote": "soluzioni e servizi per il mercato assicurativo e bancario"
+  },
+  {
+   "claim": "L'obiettivo è ridurre l'impatto degli adempimenti normativi",
+   "url": "https://www.fairmat.com/",
+   "quote": "minimizzare l’impatto di adempimenti normativi nei processi aziendali"
+  },
+  {
+   "claim": "I clienti sono banche, assicurazioni e asset manager",
+   "url": "https://www.fairmat.com/soluzioni/fairmat-for-kids/",
+   "quote": "Banche, Assicurazioni, Asset Managers"
+  },
+  {
+   "claim": "Automatizza e governa il ciclo di vita dei KID",
+   "url": "https://www.fairmat.com/soluzioni/fairmat-for-kids/",
+   "quote": "Automatizza e governa il ciclo di vita dei tuoi KID"
+  },
+  {
+   "claim": "Scelta da oltre 100 emittenti tra banche e compagnie assicurative",
+   "url": "https://www.fairmat.com/soluzioni/fairmat-for-kids/",
+   "quote": "Fairmat for KIDs è stata scelta da più di 100 Emittenti (tra Banche, Compagnie Assicurative e Fondi)"
+  },
+  {
+   "claim": "Opera sul mercato italiano",
+   "url": "https://www.fairmat.com/",
+   "quote": "la soluzione leader sul mercato Italiano"
+  }
+ ],
+ "market": {
+  "count": "10.696",
+  "label": "titolari, CEO e direttori di banche, compagnie assicurative e asset manager in Italia",
+  "chips": [
+   "tutta Italia",
+   "banche e assicurazioni",
+   "asset manager",
+   "oltre 100 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"banking,insurance,asset management\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

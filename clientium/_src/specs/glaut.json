@@ -1,0 +1,77 @@
+{
+ "slug": "glaut",
+ "company": "Glaut",
+ "first_name": "Matteo",
+ "domain": "glaut.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Piattaforma di ricerca di mercato basata su AI per i team di ricerca. Ecco chi contatteremmo per Glaut.",
+ "market_note": "Glaut offre una piattaforma di ricerca di mercato a societa di ricerca, team interni e scaleup, quindi parleremmo con chi guida le funzioni insight e ricerca.",
+ "evidence": [
+  {
+   "claim": "Glaut e una piattaforma di ricerca di mercato basata su AI",
+   "url": "https://glaut.com/",
+   "quote": "The AI-native market research platform for fast, in-depth insights"
+  },
+  {
+   "claim": "Vende a societa di ricerca, team interni e scaleup",
+   "url": "https://glaut.com/",
+   "quote": "Research firms, in-house teams and scaleups trust Glaut to understand people at scale."
+  },
+  {
+   "claim": "Interviste moderate dall'AI in oltre 50 lingue",
+   "url": "https://glaut.com/use-cases/experience",
+   "quote": "Collect high-quality customer insights at scale with open-ended, AI-moderated interviews in 50+ languages."
+  },
+  {
+   "claim": "I clienti sono societa di ricerca e team di ricerca interni",
+   "url": "https://glaut.com/",
+   "quote": "Research firms, in-house teams and scaleups trust Glaut to understand people at scale."
+  }
+ ],
+ "market": {
+  "count": "650",
+  "label": "direttori, titolari e CEO di societa di ricerca e team interni in aziende strutturate da oltre 50 addetti in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "societa di ricerca",
+   "team di ricerca interni",
+   "market research"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"market research\"}"
+ }
+}

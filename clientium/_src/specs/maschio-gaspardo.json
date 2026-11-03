@@ -1,0 +1,90 @@
+{
+ "slug": "maschio-gaspardo",
+ "company": "Maschio Gaspardo",
+ "first_name": "Giovanni",
+ "domain": "maschiogaspardo.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Attrezzature agricole per la lavorazione del terreno, la semina e la protezione delle colture. Ecco chi contatteremmo per Maschio Gaspardo.",
+ "market_note": "Maschio Gaspardo produce attrezzature agricole per la lavorazione del terreno, la semina e la protezione delle colture, quindi parleremmo con chi guida le aziende agricole che acquistano questi mezzi.",
+ "evidence": [
+  {
+   "claim": "produce attrezzature agricole",
+   "url": "https://www.maschiogaspardo.com/",
+   "quote": "AGRIMACHINE: Controllo digitale attrezzature agricole"
+  },
+  {
+   "claim": "attrezzature per la lavorazione del terreno",
+   "url": "https://www.maschiogaspardo.com/",
+   "quote": "Lavorazione del terreno Aratri"
+  },
+  {
+   "claim": "tecnologia di semina",
+   "url": "https://www.maschiogaspardo.com/",
+   "quote": "Tecnologia di semina ad alta velocità"
+  },
+  {
+   "claim": "protezione delle colture",
+   "url": "https://www.maschiogaspardo.com/",
+   "quote": "Tecniche per la protezione delle colture"
+  },
+  {
+   "claim": "attrezzature agricole",
+   "url": "https://www.maschiogaspardo.com/",
+   "quote": "AGRIMACHINE: Controllo digitale attrezzature agricole"
+  },
+  {
+   "claim": "lavorazione del terreno, semina e protezione delle colture",
+   "url": "https://www.maschiogaspardo.com/",
+   "quote": "Lavorazione del terreno Aratri"
+  },
+  {
+   "claim": "settore agricolo servito",
+   "url": "https://www.maschiogaspardo.com/",
+   "quote": "AGRIMACHINE: Controllo digitale attrezzature agricole"
+  }
+ ],
+ "market": {
+  "count": "726",
+  "label": "titolari e amministratori di aziende agricole italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "agricoltura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"agriculture,farming\"}"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "leaf",
+ "company": "LEAF",
+ "first_name": "Fabio",
+ "domain": "leafsrls.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Tecnologie emergenti e intelligenza artificiale portate dalla ricerca alle imprese. Ecco chi contatteremmo per LEAF.",
+ "market_note": "LEAF porta alle imprese le tecnologie emergenti e l'intelligenza artificiale nate dalla ricerca, dalla manifattura all'energia, quindi parleremmo con chi guida aziende che sanno che il settore sta cambiando.",
+ "evidence": [
+  {
+   "claim": "LEAF è un'azienda di AI e tecnologie emergenti nata dalla ricerca",
+   "url": "https://leafsrls.com/",
+   "quote": "LEAF is an AI and emerging-technology company founded by university lecturers and researchers who build products."
+  },
+  {
+   "claim": "serve aziende dalla manifattura all'energia",
+   "url": "https://leafsrls.com/",
+   "quote": "Established companies navigating transformation in manufacturing, healthcare, fintech, agritech, and energy."
+  },
+  {
+   "claim": "le aziende clienti sanno che il loro settore sta cambiando",
+   "url": "https://leafsrls.com/",
+   "quote": "they know their industry is about to change, and they want someone who can show them where to look."
+  },
+  {
+   "claim": "trasformano la ricerca accademica di frontiera in sistemi usabili subito dalle aziende",
+   "url": "https://leafsrls.com/",
+   "quote": "We turn frontier academic research into systems businesses can use now"
+  },
+  {
+   "claim": "settori clienti dichiarati dal sito",
+   "url": "https://leafsrls.com/",
+   "quote": "Established companies navigating transformation in manufacturing, healthcare, fintech, agritech, and energy."
+  }
+ ],
+ "market": {
+  "count": "33.418",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre i 50 addetti nei settori manifattura, sanità, fintech, agritech ed energia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manifattura",
+   "sanità",
+   "fintech",
+   "energia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,health care,fintech,agtech,energy\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

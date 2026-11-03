@@ -1,0 +1,76 @@
+{
+ "slug": "gz-log",
+ "company": "GZ Log",
+ "first_name": "Alessandro",
+ "domain": "gzlog.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni di trasporto e logistica innovative e sicure per le PMI. Ecco chi contatteremmo per GZ Log.",
+ "market_note": "GZ Log offre soluzioni di trasporto e logistica per le PMI del territorio, dai trasporti espresso ai trasporti ADR, quindi parleremmo con chi decide su spedizioni e logistica in azienda.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni di trasporto e logistica innovative e sicure",
+   "url": "https://gzlog.it/",
+   "quote": "soluzioni di trasporto e logistica innovative e sicure"
+  },
+  {
+   "claim": "Offre soluzioni di trasporto e logistica",
+   "url": "https://gzlog.it/",
+   "quote": "GZ Log offre soluzioni di trasporto e logistica"
+  },
+  {
+   "claim": "Si rivolge alle PMI del territorio",
+   "url": "https://gzlog.it/azienda/",
+   "quote": "il partner di riferimento per tutte le esigenze logistiche delle PMI del territorio"
+  },
+  {
+   "claim": "Fa trasporti ADR di merci pericolose",
+   "url": "https://gzlog.it/servizi/",
+   "quote": "Specializzati nel trasporto di merci pericolose, in conformità alle normative."
+  },
+  {
+   "claim": "Garantisce la consegna in giornata",
+   "url": "https://gzlog.it/servizi-espresso-24h/",
+   "quote": "GZ Log garantisce la consegna in giornata"
+  },
+  {
+   "claim": "Gestisce urgenze oggi su oggi",
+   "url": "https://gzlog.it/servizi-espresso-24h/",
+   "quote": "urgenze oggi su oggi"
+  },
+  {
+   "claim": "Sede in Emilia-Romagna, a Castelvetro",
+   "url": "https://gzlog.it/contatti/",
+   "quote": "Via San Eusebio, 4/F, 41014 Castelvetro (MO)"
+  },
+  {
+   "claim": "Vende alle aziende",
+   "url": "https://gzlog.it/servizi-espresso-24h/",
+   "quote": "pensato per le aziende che necessitano di consegne rapide e affidabili"
+  }
+ ],
+ "market": {
+  "count": "7.817",
+  "label": "titolari, CEO e amministratori di PMI emiliane da 10 a 250 addetti",
+  "chips": [
+   "Emilia-Romagna",
+   "10-250 addetti",
+   "PMI del territorio"
+  ],
+  "regions": [
+   "Emilia-Romagna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Emilia-Romagna\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

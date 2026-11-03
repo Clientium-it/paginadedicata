@@ -1,0 +1,90 @@
+{
+ "slug": "hextra",
+ "company": "Hextra",
+ "first_name": "Cristiano",
+ "domain": "hextra.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Hosting e cloud professionale per aziende su rete globale. Ecco chi contatteremmo per Hextra.",
+ "market_note": "Hextra offre hosting e cloud professionale su Amazon Web Services alle aziende, quindi parleremmo con chi decide su infrastrutture, hosting e sicurezza informatica.",
+ "evidence": [
+  {
+   "claim": "hosting e cloud professionale per aziende",
+   "url": "https://www.hextra.it/",
+   "quote": "Hosting AWS professionale per aziende"
+  },
+  {
+   "claim": "su rete globale",
+   "url": "https://www.hextra.it/",
+   "quote": "Per aziende su rete globale"
+  },
+  {
+   "claim": "vende hosting e cloud ad aziende",
+   "url": "https://www.hextra.it/",
+   "quote": "Più di 2000 aziende ci hanno scelto"
+  },
+  {
+   "claim": "consulenza e infrastrutture AWS come partner certificati",
+   "url": "https://www.hextra.it/",
+   "quote": "GestioneAWS è il servizio, fornito come partner certificati, di consulenza su Amazon Web Services."
+  },
+  {
+   "claim": "partner certificati Amazon Web Services",
+   "url": "https://www.hextra.it/",
+   "quote": "GestioneAWS è il servizio, fornito come partner certificati, di consulenza su Amazon Web Services."
+  },
+  {
+   "claim": "per aziende su rete globale",
+   "url": "https://www.hextra.it/",
+   "quote": "Per aziende su rete globale"
+  },
+  {
+   "claim": "servizi rivolti ad aziende su scala nazionale",
+   "url": "https://www.hextra.it/",
+   "quote": "Più di 2000 aziende ci hanno scelto"
+  }
+ ],
+ "market": {
+  "count": "3.521",
+  "label": "responsabili IT, CIO e CTO di aziende italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "PMI"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

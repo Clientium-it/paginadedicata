@@ -1,0 +1,86 @@
+{
+ "slug": "orion-valves-orionvalves",
+ "company": "Orion Valves",
+ "first_name": "Luca",
+ "domain": "orionvalves.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Grandi valvole industriali per impianti petrolchimici, vendute a società di ingegneria e utilizzatori finali. Ecco chi contatteremmo per Orion Valves.",
+ "market_note": "Orion Valves produce a Trieste grandi valvole in acciaio per l'industria petrolchimica e le vende a società di ingegneria e utilizzatori finali, quindi parleremmo con chi decide gli acquisti tecnici.",
+ "evidence": [
+  {
+   "claim": "Grandi valvole industriali per impianti petrolchimici",
+   "url": "https://www.orionvalves.com/",
+   "quote": "Large industrial valves for petrochemical plants"
+  },
+  {
+   "claim": "vende a società di ingegneria e utilizzatori finali",
+   "url": "https://www.orionvalves.com/company/company-profile",
+   "quote": "sells its products both to engineering companies and to end users"
+  },
+  {
+   "claim": "produce valvole in acciaio per l'industria petrolchimica",
+   "url": "https://www.orionvalves.com/company/company-profile",
+   "quote": "specially engineered to meet the exacting demands and requirements of the petrochemical industry"
+  },
+  {
+   "claim": "azienda con sede a Trieste",
+   "url": "https://www.orionvalves.com/company/company-profile/orion-valves-guinness-world-record-largest-wedge-gate-valve",
+   "quote": "the Trieste-based company’s successful completion of a valve"
+  },
+  {
+   "claim": "ha costruito la più grande valvola a saracinesca a cuneo del mondo",
+   "url": "https://www.orionvalves.com/",
+   "quote": "we successfully built the largest Wedge Gate Valve in the world"
+  },
+  {
+   "claim": "serve il settore petrolifero e chimico",
+   "url": "https://www.orionvalves.com/",
+   "quote": "the exacting demands and requirements of the petroleum and chemical industries"
+  }
+ ],
+ "market": {
+  "count": "3.311",
+  "label": "titolari, CEO e direttori di aziende italiane dei settori oil and gas e chimico oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "oil and gas",
+   "chimico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"oil and gas,chemical\"}"
+ }
+}

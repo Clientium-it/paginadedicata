@@ -1,0 +1,77 @@
+{
+ "slug": "ecor-international",
+ "company": "Ecor International",
+ "first_name": "Umberto",
+ "domain": "ecor-international.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progettano e realizzano componenti ad elevata criticità funzionale in acciaio e leghe speciali. Ecco chi contatteremmo per Ecor International.",
+ "market_note": "Ecor International progetta componenti critici in acciaio e leghe speciali per aziende e multinazionali dei settori Food, Pharma, Advanced Mechanics e Aerospace, quindi parleremmo con chi guida produzione e acquisti.",
+ "evidence": [
+  {
+   "claim": "progettano e realizzano componenti ad elevata criticità funzionale in acciaio e leghe speciali",
+   "url": "https://www.ecor-international.com/",
+   "quote": "Progettiamo e realizziamo componenti ad elevata criticità funzionale in acciaio inossidabile, leghe leggere, superleghe e leghe speciali"
+  },
+  {
+   "claim": "progettano componenti ad elevata criticità funzionale in acciaio e leghe speciali",
+   "url": "https://www.ecor-international.com/",
+   "quote": "Progettiamo e realizziamo componenti ad elevata criticità funzionale in acciaio inossidabile, leghe leggere, superleghe e leghe speciali"
+  },
+  {
+   "claim": "si rivolge ad aziende e multinazionali dei settori Food, Pharma, Advanced Mechanics e Aerospace",
+   "url": "https://www.ecor-international.com/",
+   "quote": "ad aziende e multinazionali internazionali dei settori Food, Pharma, Advanced Mechanics, Aerospace e Industrial Research"
+  },
+  {
+   "claim": "clienti nei settori Food, Pharma, Advanced Mechanics, Aerospace",
+   "url": "https://www.ecor-international.com/",
+   "quote": "ad aziende e multinazionali internazionali dei settori Food, Pharma, Advanced Mechanics, Aerospace e Industrial Research"
+  }
+ ],
+ "market": {
+  "count": "9.700",
+  "label": "direttori, titolari e CEO di aziende manifatturiere strutturate nei settori food, pharma, aerospace e meccanica avanzata",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "food e pharma",
+   "aerospace",
+   "meccanica avanzata"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"pharmaceutical manufacturing,aerospace,food and beverage manufacturing,automation machinery manufacturing,industrial machinery manufacturing\"}"
+ }
+}

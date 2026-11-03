@@ -1,0 +1,85 @@
+{
+ "slug": "simonelli-group",
+ "company": "Simonelli Group",
+ "first_name": "Mauro",
+ "domain": "simonelligroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Macchine da caffè professionali dal 1936, dalle Marche al resto del mondo. Ecco chi contatteremmo per Simonelli Group.",
+ "market_note": "Simonelli Group progetta dalle Marche macchine da caffè e macinacaffè professionali in oltre 130 paesi, quindi parleremmo con titolari e direttori delle aziende del caffè.",
+ "evidence": [
+  {
+   "claim": "Produce macchine da caffè professionali dal 1936",
+   "url": "https://simonelligroup.com/",
+   "quote": "Macchine da Caffè Professionali dal 1936"
+  },
+  {
+   "claim": "Opera dalle Marche verso il resto del mondo",
+   "url": "https://simonelligroup.com/company/",
+   "quote": "Dalle Marche al resto del mondo, per portare ovunque la cultura del caffè."
+  },
+  {
+   "claim": "Realizza macchine da caffè e macinacaffè",
+   "url": "https://simonelligroup.com/company/",
+   "quote": "macchine da caffè e macinacaffè all’avanguardia"
+  },
+  {
+   "claim": "È presente in oltre 130 paesi",
+   "url": "https://simonelligroup.com/company/",
+   "quote": "Operiamo in oltre 130 paesi"
+  },
+  {
+   "claim": "Ha presentato Science Driven Coffee Cup con l'Università di Camerino",
+   "url": "https://simonelligroup.com/",
+   "quote": "Simonelli Group e Università di Camerino presentano"
+  },
+  {
+   "claim": "Lavora per l'industria del caffè",
+   "url": "https://simonelligroup.com/company/",
+   "quote": "innalzare gli standard qualitativi dell’industria del caffè"
+  }
+ ],
+ "market": {
+  "count": "130",
+  "label": "titolari, CEO e direttori di aziende italiane del caffè da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10 a 250 addetti",
+   "settore caffè"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"coffee\"}"
+ }
+}

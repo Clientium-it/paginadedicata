@@ -1,0 +1,82 @@
+{
+ "slug": "dromontgroup",
+ "company": "DromontGroup",
+ "first_name": "Luca",
+ "domain": "dromontgroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Sistemi avanzati di dispersione, macinazione, riempimento e tintometria per il settore coating e chimico. Ecco chi contatteremmo per DromontGroup.",
+ "market_note": "DromontGroup progetta sistemi di dispersione, macinazione e riempimento per aziende del coating, chimico, food, pharma e cosmetica in oltre 50 paesi, quindi parleremmo con chi guida produzione e investimenti.",
+ "evidence": [
+  {
+   "claim": "Sistemi avanzati di dispersione, macinazione, riempimento e tintometria",
+   "url": "https://dromontgroup.com/",
+   "quote": "A Global Leader in Advanced Dispersing, Milling, Filling, and Tinting Systems"
+  },
+  {
+   "claim": "Serve il settore coating e chimico",
+   "url": "https://dromontgroup.com/company/",
+   "quote": "operating in over 50 countries worldwide in the Coating, Chemical, Food, Pharma and Cosmetics sectors"
+  },
+  {
+   "claim": "Progetta sistemi per coating, chimico, food, pharma e cosmetica in oltre 50 paesi",
+   "url": "https://dromontgroup.com/company/",
+   "quote": "operating in over 50 countries worldwide in the Coating, Chemical, Food, Pharma and Cosmetics sectors"
+  },
+  {
+   "claim": "Sistemi avanzati di dispersione, macinazione e riempimento per il coating",
+   "url": "https://dromontgroup.com/",
+   "quote": "A Global Leader in Advanced Dispersing, Milling, Filling, and Tinting Systems"
+  },
+  {
+   "claim": "Clienti nei settori chimico, food, pharma e cosmetica",
+   "url": "https://dromontgroup.com/company/",
+   "quote": "operating in over 50 countries worldwide in the Coating, Chemical, Food, Pharma and Cosmetics sectors"
+  }
+ ],
+ "market": {
+  "count": "9.150",
+  "label": "titolari, CEO e direttori di produttori chimici, cosmetici, farmaceutici e alimentari in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "chimica",
+   "cosmetica",
+   "alimentare"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"chemical,chemical manufacturing,cosmetics,pharmaceutical manufacturing,food and beverage manufacturing\"}"
+ }
+}

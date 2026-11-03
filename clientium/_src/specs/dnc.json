@@ -1,0 +1,86 @@
+{
+ "slug": "dnc",
+ "company": "DNC",
+ "first_name": "Antonella",
+ "domain": "dncsrl.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Dal 2006 pianificano il futuro digitale delle aziende sulla piattaforma SAP. Ecco chi contatteremmo per DNC.",
+ "market_note": "DNC dal 2006 offre consulenza informatica alle imprese sulla piattaforma SAP, quindi parleremmo con chi decide su ERP, sicurezza applicativa e supply chain.",
+ "evidence": [
+  {
+   "claim": "Dal 2006 pianificano il futuro digitale delle aziende",
+   "url": "https://dncsrl.com/",
+   "quote": "pianifichiamo il futuro digitale delle aziende per renderle più efficienti, gestibili e semplici"
+  },
+  {
+   "claim": "Lavorano sulla piattaforma SAP",
+   "url": "https://dncsrl.com/",
+   "quote": "Sfruttiamo la piattaforma SAP per creare imprese intelligenti di successo."
+  },
+  {
+   "claim": "Offrono consulenza informatica alle imprese",
+   "url": "https://dncsrl.com/about-us",
+   "quote": "offriamo servizi di consulenza informatica alla imprese"
+  },
+  {
+   "claim": "Sfruttano la piattaforma SAP per creare imprese intelligenti",
+   "url": "https://dncsrl.com/",
+   "quote": "Sfruttiamo la piattaforma SAP per creare imprese intelligenti di successo."
+  },
+  {
+   "claim": "Servono il settore Food",
+   "url": "https://dncsrl.com/",
+   "quote": "Perfetto per il Food, flessibile per tutti gli altri."
+  },
+  {
+   "claim": "Servono aziende che digitalizzano la produzione",
+   "url": "https://dncsrl.com/",
+   "quote": "Digitalizza la produzione: aumenta efficienza e qualità operativa"
+  }
+ ],
+ "market": {
+  "count": "1.224",
+  "label": "responsabili IT, CIO e CTO di aziende manifatturiere italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "manifattura",
+   "food"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"manufacturing,food and beverage\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

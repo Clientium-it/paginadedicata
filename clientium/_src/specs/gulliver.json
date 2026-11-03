@@ -1,0 +1,80 @@
+{
+ "slug": "gulliver",
+ "company": "Gulliver",
+ "first_name": "Giuseppe",
+ "domain": "gullivernet.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Software house che realizza app e console amministrative per semplificare le attività lavorative in azienda. Ecco chi contatteremmo per Gulliver.",
+ "market_note": "Gulliver è una software house di Brescia che realizza software per oltre 250 grandi aziende e 1000 PMI, quindi parleremmo con chi decide su HR, trasporti e vendite.",
+ "evidence": [
+  {
+   "claim": "È una software house che realizza app e console amministrative per semplificare il lavoro in azienda.",
+   "url": "https://www.gullivernet.com/software-per-azienda/",
+   "quote": "siamo una software house ovvero realizziamo software, principalmente app e console amministrative, per semplificare le attività lavorative in azienda"
+  },
+  {
+   "claim": "Serve oltre 250 grandi aziende e 1000 PMI.",
+   "url": "https://www.gullivernet.com/",
+   "quote": "ad oltre 250 grandi aziende e 1000 PMI"
+  },
+  {
+   "claim": "È leader nei settori trasporti, HR e vendite.",
+   "url": "https://www.gullivernet.com/best-case/brivio-vigano/",
+   "quote": "leader nel settore trasporti, HR e sales"
+  },
+  {
+   "claim": "Porta la propria tecnologia AI a bordo dei robot.",
+   "url": "https://www.gullivernet.com/",
+   "quote": "portano la nostra tecnologia a bordo dei robot"
+  },
+  {
+   "claim": "Ha una base clienti ampia di grandi aziende e PMI.",
+   "url": "https://www.gullivernet.com/",
+   "quote": "ad oltre 250 grandi aziende e 1000 PMI"
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "titolari, CEO e direttori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

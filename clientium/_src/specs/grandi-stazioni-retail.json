@@ -1,0 +1,80 @@
+{
+ "slug": "grandi-stazioni-retail",
+ "company": "Grandi Stazioni Retail",
+ "first_name": "Gerardo",
+ "domain": "gsretail.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Spazi commerciali, pubblicità ed eventi nelle 14 più grandi stazioni italiane. Ecco chi contatteremmo per Grandi Stazioni Retail.",
+ "market_note": "Grandi Stazioni Retail offre a brand e partner commerciali spazi, campagne pubblicitarie e temporary store nelle principali stazioni italiane, quindi parleremmo con chi decide marketing e sviluppo commerciale.",
+ "evidence": [
+  {
+   "claim": "Gestisce in esclusiva lo sfruttamento commerciale e pubblicitario delle 14 più grandi stazioni ferroviarie",
+   "url": "https://www.gsretail.it/it/chi-siamo/",
+   "quote": "le 14 più grandi stazioni ferroviarie, con il diritto esclusivo di sfruttamento commerciale e pubblicitario."
+  },
+  {
+   "claim": "Offre locazione, campagne pubblicitarie e attività temporary",
+   "url": "https://www.gsretail.it/it/",
+   "quote": "Il ventaglio di possibilità comprende la locazione tradizionale del punto vendita, le campagne pubblicitarie e le attività temporary"
+  },
+  {
+   "claim": "Ha un'offerta dedicata ai partner commerciali",
+   "url": "https://www.gsretail.it/it/",
+   "quote": "L’offerta per i partner commerciali è a tutto tondo e garantisce una copertura integrale dei flussi principali dei visitatori in stazione"
+  },
+  {
+   "claim": "Sfruttamento commerciale e pubblicitario delle 14 grandi stazioni",
+   "url": "https://www.gsretail.it/it/chi-siamo/",
+   "quote": "le 14 più grandi stazioni ferroviarie, con il diritto esclusivo di sfruttamento commerciale e pubblicitario."
+  },
+  {
+   "claim": "Presente nelle principali città italiane",
+   "url": "https://www.gsretail.it/it/",
+   "quote": "14 monumenti nel cuore delle 11 principali città italiane"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "direttori marketing, CEO e titolari di aziende e brand strutturati in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "brand e aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

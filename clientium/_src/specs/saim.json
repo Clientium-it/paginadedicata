@@ -1,0 +1,80 @@
+{
+ "slug": "saim",
+ "company": "SAIM",
+ "first_name": "Massimo",
+ "domain": "saim-group.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Componenti marini e industriali, dalle eliche di manovra ai gruppi elettrogeni diesel. Ecco chi contatteremmo per SAIM.",
+ "market_note": "SAIM propone prodotti per il marine e per l'industriale, dalle eliche di manovra ai gruppi elettrogeni diesel, quindi parleremmo con i titolari e i direttori che scelgono questi componenti.",
+ "evidence": [
+  {
+   "claim": "Offre eliche di manovra per il settore marine",
+   "url": "https://www.saim-group.com/it/home/",
+   "quote": "TRAC Eliche di manovra idrauliche"
+  },
+  {
+   "claim": "Offre gruppi elettrogeni diesel",
+   "url": "https://www.saim-group.com/it/home/",
+   "quote": "Gruppi elettrogeni diesel 5 - 9 kW"
+  },
+  {
+   "claim": "Ha una divisione industrial con motori Kubota",
+   "url": "https://www.saim-group.com/it/home/",
+   "quote": "Industrial KUBOTA Motori Diesel Motori Benzina/GPL/Metano"
+  },
+  {
+   "claim": "Gamma marine con stabilizzatori e componenti",
+   "url": "https://www.saim-group.com/it/home/",
+   "quote": "Marine ABT-TRAC TRAC stabilizzatori di posizione"
+  },
+  {
+   "claim": "Prodotti per i settori marine e industrial",
+   "url": "https://www.saim-group.com/it/home/",
+   "quote": "Marine ABT-TRAC TRAC stabilizzatori di posizione"
+  }
+ ],
+ "market": {
+  "count": "85.871",
+  "label": "titolari, CEO e direttori di aziende italiane da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "marine e industriale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250}"
+ }
+}

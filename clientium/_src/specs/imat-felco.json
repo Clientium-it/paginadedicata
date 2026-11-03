@@ -1,0 +1,61 @@
+{
+ "slug": "imat-felco",
+ "company": "Imat Felco",
+ "first_name": "Elena",
+ "domain": "imatfelco.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Distributore specializzato in elettroforniture in ambito civile, industriale e terziario. Ecco chi contatteremmo per Imat Felco.",
+ "market_note": "Imat Felco distribuisce elettroforniture a installatori, progettisti e architetti in Lombardia, quindi parleremmo con chi guida le imprese di installazione che acquistano materiale elettrico.",
+ "evidence": [
+  {
+   "claim": "Distributore specializzato in elettroforniture in ambito civile, industriale e terziario",
+   "url": "https://imatfelco.it/",
+   "quote": "distributore specializzato in elettroforniture in ambito civile, industriale e terziario"
+  },
+  {
+   "claim": "Si rivolge a installatori, progettisti e architetti",
+   "url": "https://imatfelco.it/",
+   "quote": "un installatore , un progettista o un architetto"
+  },
+  {
+   "claim": "Opera con sedi in Lombardia",
+   "url": "https://imatfelco.it/chi-siamo/",
+   "quote": "presso tutte le sue sedi in Lombardia"
+  },
+  {
+   "claim": "Distribuisce elettroforniture in ambito civile, industriale e terziario",
+   "url": "https://imatfelco.it/",
+   "quote": "distributore specializzato in elettroforniture in ambito civile, industriale e terziario"
+  },
+  {
+   "claim": "Opera con sedi in Lombardia",
+   "url": "https://imatfelco.it/chi-siamo/",
+   "quote": "presso tutte le sue sedi in Lombardia"
+  }
+ ],
+ "market": {
+  "count": "24.680",
+  "label": "titolari di imprese di installazione e aziende elettriche lombarde da 10 a 250 addetti",
+  "chips": [
+   "Lombardia",
+   "10-250 addetti",
+   "imprese di installazione"
+  ],
+  "regions": [
+   "Lombardia"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Lombardy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

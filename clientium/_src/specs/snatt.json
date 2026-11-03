@@ -1,0 +1,92 @@
+{
+ "slug": "snatt",
+ "company": "Snatt",
+ "first_name": "Fabrizio",
+ "domain": "snatt.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Logistica conto terzi per brand di moda, lusso e lifestyle. Ecco chi contatteremmo per Snatt.",
+ "market_note": "Snatt gestisce da Campegine la logistica dei brand di moda, lusso e lifestyle su ogni canale, quindi parleremmo con titolari e direttori di aziende della moda e del lusso.",
+ "evidence": [
+  {
+   "claim": "Snatt è un partner 3PL per moda, lusso e lifestyle",
+   "url": "https://snatt.eu/",
+   "quote": "A leading 3PL partner in fashion, luxury & lifestyle"
+  },
+  {
+   "claim": "La sede è a Campegine",
+   "url": "https://snatt.eu/",
+   "quote": "Headquartered in Campegine, Italy"
+  },
+  {
+   "claim": "Gestisce la distribuzione su tutti i canali di vendita",
+   "url": "https://snatt.eu/",
+   "quote": "One central system across retail, wholesale, e-commerce and marketplace"
+  },
+  {
+   "claim": "WMS proprietario sviluppato internamente da oltre 30 anni",
+   "url": "https://snatt.eu/",
+   "quote": "Our proprietary Warehouse Management System, developed in-house for over 30 years"
+  },
+  {
+   "claim": "Il WMS si chiama Logistica.Net",
+   "url": "https://snatt.eu/",
+   "quote": "all built on our proprietary Logistica.Net WMS"
+  },
+  {
+   "claim": "I clienti sono brand di abbigliamento, calzature e lusso",
+   "url": "https://snatt.eu/services/core-contract-logistics/",
+   "quote": "end-to-end 3PL for apparel, footwear and luxury goods"
+  },
+  {
+   "claim": "Servizi rivolti a brand di moda, lusso e lifestyle",
+   "url": "https://snatt.eu/services/",
+   "quote": "we offer an integrated ecosystem of services for fashion, luxury and lifestyle brands"
+  }
+ ],
+ "market": {
+  "count": "5.658",
+  "label": "titolari, CEO e direttori di brand italiani di moda, lusso e lifestyle oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "moda",
+   "lusso",
+   "calzature"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"apparel,fashion,retail apparel and fashion,retail luxury goods and jewelry,shoes\"}"
+ }
+}

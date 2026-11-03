@@ -1,0 +1,75 @@
+{
+ "slug": "interlogica",
+ "company": "Interlogica",
+ "first_name": "Giorgio",
+ "domain": "interlogica.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progettano e sviluppano software su misura per le aziende dal 1995. Ecco chi contatteremmo per Interlogica.",
+ "market_note": "Interlogica progetta e sviluppa software su misura per le aziende, dai portali ai sistemi gestionali, quindi parleremmo con chi guida i sistemi informativi e i progetti digitali.",
+ "evidence": [
+  {
+   "claim": "Sviluppano software su misura per le aziende dal 1995",
+   "url": "https://interlogica.it/",
+   "quote": "Software su misura per le aziende, dal 1995"
+  },
+  {
+   "claim": "Progettano e sviluppano software per le aziende",
+   "url": "https://interlogica.it/",
+   "quote": "Progettiamo e sviluppiamo software per le aziende"
+  },
+  {
+   "claim": "Dal 2001 costruiscono il software del noleggio a lungo termine con i maggiori player del mercato",
+   "url": "https://interlogica.it/",
+   "quote": "Dal 2001 costruiamo il software del noleggio a lungo termine con i maggiori player del mercato"
+  },
+  {
+   "claim": "Sviluppano software per le aziende",
+   "url": "https://interlogica.it/",
+   "quote": "Progettiamo e sviluppiamo software per le aziende"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT e sistemi informativi di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "petrone-group",
+ "company": "Petrone Group",
+ "first_name": "Giulio",
+ "domain": "petronegroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Distribuzione all'ingrosso di farmaci di marca ed equivalenti per le aziende partner. Ecco chi contatteremmo per Petrone Group.",
+ "market_note": "Petrone Group si occupa di import/export e distribuzione di ogni tipologia di prodotto farmaceutico e parafarmaceutico, quindi parleremmo con chi decide gli acquisti in farmacie, GDO e aziende sanitarie.",
+ "evidence": [
+  {
+   "claim": "Petrone Group distribuisce farmaci di marca ed equivalenti",
+   "url": "https://www.petronegroup.com/prodotti-farmaceutici/",
+   "quote": "offrire una vasta gamma di farmaci di marca (branded) ed equivalenti (generici)"
+  },
+  {
+   "claim": "Si occupa di import/export e distribuzione di prodotti farmaceutici e parafarmaceutici",
+   "url": "https://www.petronegroup.com/",
+   "quote": "Il Gruppo Petrone si occupa di import/export e distribuzione di ogni tipologia di prodotto farmaceutico e parafarmaceutico"
+  },
+  {
+   "claim": "Distribuisce prodotti senza glutine a farmacie, GDO e negozi specializzati",
+   "url": "https://www.petronegroup.com/distribuzione-prodotti-per-celiaci-e-gluten-free/",
+   "quote": "distribuzione di prodotti senza glutine a ristoranti, pizzerie, supermercati, GDO, farmacie e negozi specializzati"
+  },
+  {
+   "claim": "Serve imprese farmaceutiche, healthcare, veterinarie, cosmetiche e alimentari",
+   "url": "https://www.petronegroup.com/",
+   "quote": "logistica orientata alle imprese farmaceutiche, healthcare, veterinarie, cosmetiche e alimentari"
+  }
+ ],
+ "market": {
+  "count": "6.791",
+  "label": "titolari, CEO e direttori di aziende farmaceutiche, healthcare e alimentari in Italia da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "farmaceutico",
+   "healthcare",
+   "alimentare"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"pharmaceutical,health care,veterinary,cosmetics,food and beverage\"}"
+ }
+}

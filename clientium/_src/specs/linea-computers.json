@@ -1,0 +1,95 @@
+{
+ "slug": "linea-computers",
+ "company": "Linea Computers",
+ "first_name": "Maurizio",
+ "domain": "lineacomputers.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Software gestionale ERP, raccolta ordini e cyber security per le imprese. Ecco chi contatteremmo per Linea Computers.",
+ "market_note": "Linea Computers sviluppa software gestionale ERP e app per raccolta ordini e tentata vendita su tutto il territorio italiano, quindi parleremmo con chi decide su gestionale, forza vendita e sicurezza.",
+ "evidence": [
+  {
+   "claim": "Software e hardware per le imprese",
+   "url": "https://www.lineacomputers.com/",
+   "quote": "società informatica fondata nel 1982, si occupa di Software e Hardware"
+  },
+  {
+   "claim": "Software gestionale ERP",
+   "url": "https://www.lineacomputers.com/",
+   "quote": "Il Software ERP che ti segue passo."
+  },
+  {
+   "claim": "Cyber security per le aziende",
+   "url": "https://www.lineacomputers.com/",
+   "quote": "La protezione del tuo business prima di tutto"
+  },
+  {
+   "claim": "Supporto alla trasformazione digitale delle imprese",
+   "url": "https://www.lineacomputers.com/",
+   "quote": "supportare la trasformazione digitale delle imprese a 360 gradi"
+  },
+  {
+   "claim": "Raccolta ordini e tentata vendita su tutto il territorio italiano",
+   "url": "https://www.lineacomputers.com/prodotti-servizi/software-raccolta-ordini-tentata-vendita-zippy/",
+   "quote": "opera nei settori come la Raccolta ordini, Tentata vendita, Prevendita, Picking, B2B e CRM su tutto il territorio italiano"
+  },
+  {
+   "claim": "Software gestionale ERP",
+   "url": "https://www.lineacomputers.com/",
+   "quote": "Il Software ERP che ti segue passo."
+  },
+  {
+   "claim": "ERP, raccolta ordini e tentata vendita sul territorio italiano",
+   "url": "https://www.lineacomputers.com/prodotti-servizi/software-raccolta-ordini-tentata-vendita-zippy/",
+   "quote": "opera nei settori come la Raccolta ordini, Tentata vendita, Prevendita, Picking, B2B e CRM su tutto il territorio italiano"
+  },
+  {
+   "claim": "Opera su tutto il territorio italiano",
+   "url": "https://www.lineacomputers.com/prodotti-servizi/software-raccolta-ordini-tentata-vendita-zippy/",
+   "quote": "opera nei settori come la Raccolta ordini, Tentata vendita, Prevendita, Picking, B2B e CRM su tutto il territorio italiano"
+  }
+ ],
+ "market": {
+  "count": "110.089",
+  "label": "titolari, CEO e direttori di aziende italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "PMI e aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

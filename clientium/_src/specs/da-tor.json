@@ -1,0 +1,86 @@
+{
+ "slug": "da-tor",
+ "company": "DA-TOR",
+ "first_name": "Nicola",
+ "domain": "da-tor.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Specialisti nello stampaggio a freddo di dadi e particolari custom made in acciaio. Ecco chi contatteremmo per DA-TOR.",
+ "market_note": "DA-TOR produce a Verderio dadi e particolari stampati a freddo per il mercato automobilistico e per l'oleodinamica, quindi parleremmo con chi guida le aziende manifatturiere che montano questi componenti.",
+ "evidence": [
+  {
+   "claim": "stampaggio a freddo di dadi e particolari custom made in acciaio",
+   "url": "https://www.da-tor.it/it/",
+   "quote": "sviluppiamo e produciamo particolari custom made stampati a freddo, elementi di fissaggi, dadi e boccole in acciaio e acciaio inossidabile"
+  },
+  {
+   "claim": "produce a Verderio",
+   "url": "https://www.da-tor.it/it/",
+   "quote": "Via Provinciale 2 – 23879 Verderio (LC) – Italy"
+  },
+  {
+   "claim": "per il mercato automobilistico",
+   "url": "https://www.da-tor.it/it/",
+   "quote": "Soluzioni per l’industria automobilistica, particolari che fissano per far muovere"
+  },
+  {
+   "claim": "per l'oleodinamica",
+   "url": "https://www.da-tor.it/it/",
+   "quote": "Soluzioni per fluidodinamica, oleodinamica, pneumatica, gas e idraulica"
+  },
+  {
+   "claim": "trasformate ogni giorno tonnellate di acciaio in milioni di particolari",
+   "url": "https://www.da-tor.it/it/",
+   "quote": "Ogni giorno trasformiamo tonnellate di acciaio in milioni di particolari"
+  },
+  {
+   "claim": "settore automotive servito",
+   "url": "https://www.da-tor.it/it/prodotti/automotive/",
+   "quote": "produzione di componenti automotive di alto livello"
+  }
+ ],
+ "market": {
+  "count": "3.481",
+  "label": "titolari, CEO e direttori di aziende manifatturiere del settore automotive con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "automotive",
+   "manifattura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive\"}"
+ }
+}

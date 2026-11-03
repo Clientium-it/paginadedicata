@@ -1,0 +1,82 @@
+{
+ "slug": "gruppo-fervo",
+ "company": "Gruppo Fervo",
+ "first_name": "Daniele",
+ "domain": "fervogroup.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Technical ed Energy Management per gli asset immobiliari verso il Net Zero Carbon. Ecco chi contatteremmo per Gruppo Fervo.",
+ "market_note": "Gruppo Fervo accompagna proprietari e gestori di immobili con soluzioni integrate di Technical ed Energy Management, quindi parleremmo con chi decide su efficientamento energetico, impianti e sostenibilità degli asset.",
+ "evidence": [
+  {
+   "claim": "Accompagna proprietari e gestori di immobili con Technical ed Energy Management",
+   "url": "https://www.fervogroup.eu/",
+   "quote": "Accompagniamo proprietari e gestori lungo l'intero ciclo di vita degli immobili con soluzioni integrate di Technical & Energy Management"
+  },
+  {
+   "claim": "Guida gli asset immobiliari verso il Net Zero Carbon",
+   "url": "https://www.fervogroup.eu/",
+   "quote": "con l'obiettivo di guidarli verso un futuro Net Zero Carbon"
+  },
+  {
+   "claim": "Offre soluzioni integrate di Technical ed Energy Management",
+   "url": "https://www.fervogroup.eu/",
+   "quote": "con soluzioni integrate di Technical & Energy Management"
+  },
+  {
+   "claim": "Settori clienti dichiarati dal sito",
+   "url": "https://www.fervogroup.eu/servizi",
+   "quote": "Real Estate Logistica e trasporti GDO e Retail Assicurativo e finanziario Chimico-farmaceutico"
+  },
+  {
+   "claim": "Opera a livello nazionale",
+   "url": "https://www.fervogroup.eu/",
+   "quote": "solido piano di sviluppo sul territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "33.223",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate di real estate, logistica, retail, finanza e farmaceutica",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "real estate",
+   "logistica",
+   "GDO e retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"real estate,logistics,retail,insurance,financial services,pharmaceutical,chemical\"}"
+ }
+}

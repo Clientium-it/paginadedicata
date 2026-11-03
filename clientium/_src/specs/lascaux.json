@@ -1,0 +1,83 @@
+{
+ "slug": "lascaux",
+ "company": "Lascaux",
+ "first_name": "Lorenzo",
+ "domain": "lascaux.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Partner IT e ingegneria del software per i processi di trasformazione digitale. Ecco chi contatteremmo per Lascaux.",
+ "market_note": "Lascaux guida processi di trasformazione digitale ed è partner IT per aziende di Digital & Utilities, Fintech, Industry e Public Administration, quindi parleremmo con chi decide su software e innovazione.",
+ "evidence": [
+  {
+   "claim": "partner IT per i processi di trasformazione digitale",
+   "url": "https://www.lascaux.it/",
+   "quote": "Guidiamo processi di trasformazione digitale e siamo partner IT per tutte le realtà"
+  },
+  {
+   "claim": "ingegneria del software",
+   "url": "https://www.lascaux.it/chi-siamo/",
+   "quote": "Siamo un’eccellenza nell’ingegneria del software"
+  },
+  {
+   "claim": "settori clienti serviti",
+   "url": "https://www.lascaux.it/",
+   "quote": "Digital & Utilities Fintech Industry Public Administration"
+  },
+  {
+   "claim": "Askme piattaforma di Business Process Automation per l'era dell'AI",
+   "url": "https://www.lascaux.it/",
+   "quote": "Askme è la prima piattaforma di Business Process Automation progettata per l’era dell’intelligenza artificiale."
+  },
+  {
+   "claim": "settori clienti dichiarati",
+   "url": "https://www.lascaux.it/",
+   "quote": "Digital & Utilities Fintech Industry Public Administration"
+  }
+ ],
+ "market": {
+  "count": "2.153",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "Fintech",
+   "Utilities",
+   "Industry",
+   "PA"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"utilities,fintech,manufacturing,government administration\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

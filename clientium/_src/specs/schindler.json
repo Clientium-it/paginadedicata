@@ -1,0 +1,91 @@
+{
+ "slug": "schindler",
+ "company": "Schindler",
+ "first_name": "Matteo",
+ "domain": "schindler.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Ascensori, scale mobili e tappeti mobili dai contesti residenziali ai grattacieli più moderni. Ecco chi contatteremmo per Schindler.",
+ "market_note": "Schindler progetta e modernizza ascensori, scale mobili e tappeti mobili per uffici, centri commerciali e ospedali, quindi parleremmo con chi decide su nuovi impianti, manutenzione e modernizzazioni.",
+ "evidence": [
+  {
+   "claim": "Produce ascensori, scale mobili e tappeti mobili",
+   "url": "https://www.schindler.it/it.html",
+   "quote": "Ascensori, scale mobili e tappeti mobili"
+  },
+  {
+   "claim": "Serve edifici dai contesti residenziali ai grattacieli",
+   "url": "https://www.schindler.it/it.html",
+   "quote": "Dai piccoli contesti residenziali ai grattacieli più moderni"
+  },
+  {
+   "claim": "Soluzioni di mobilità verticale per uffici ed edifici commerciali",
+   "url": "https://www.schindler.it/it.html",
+   "quote": "pensate appositamente per servire al meglio uffici ed edifici commerciali"
+  },
+  {
+   "claim": "Gamma dedicata a ospedali e strutture sanitarie",
+   "url": "https://www.schindler.it/it.html",
+   "quote": "Una gamma completa pensata per ospedali, cliniche e strutture sanitarie"
+  },
+  {
+   "claim": "Offre soluzioni di modernizzazione degli ascensori",
+   "url": "https://www.schindler.it/it.html",
+   "quote": "soluzioni per la modernizzazione degli ascensori"
+  },
+  {
+   "claim": "Gamma pensata per ospedali, cliniche e strutture sanitarie",
+   "url": "https://www.schindler.it/it.html",
+   "quote": "Una gamma completa pensata per ospedali, cliniche e strutture sanitarie"
+  },
+  {
+   "claim": "Serve uffici ed edifici commerciali",
+   "url": "https://www.schindler.it/it.html",
+   "quote": "pensate appositamente per servire al meglio uffici ed edifici commerciali"
+  }
+ ],
+ "market": {
+  "count": "5.987",
+  "label": "titolari, CEO e direttori di imprese di costruzioni e società immobiliari in tutta Italia con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "costruzioni",
+   "immobiliare"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"construction,commercial real estate\"}"
+ }
+}

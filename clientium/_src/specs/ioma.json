@@ -1,0 +1,82 @@
+{
+ "slug": "ioma",
+ "company": "IOMA",
+ "first_name": "Stefano",
+ "domain": "ioma.ai",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Automazione industriale e integrazione IT/OT per fabbriche e linee di produzione. Ecco chi contatteremmo per IOMA.",
+ "market_note": "IOMA integra macchine, PLC, MES/SCADA e linee per aziende manifatturiere di automotive, food e packaging, quindi parleremmo con chi decide su automazione, dati di produzione e integrazione IT/OT.",
+ "evidence": [
+  {
+   "claim": "Fa automazione industriale e integrazione IT/OT",
+   "url": "https://ioma.ai/",
+   "quote": "Automazione industriale e integrazione IT/OT"
+  },
+  {
+   "claim": "Integra macchine, PLC, MES/SCADA e linee con i sistemi aziendali",
+   "url": "https://ioma.ai/",
+   "quote": "Integriamo macchine, PLC, MES/SCADA e WMS con i sistemi aziendali."
+  },
+  {
+   "claim": "Serve aziende di automotive, manifatturiero, food e packaging",
+   "url": "https://ioma.ai/contatti",
+   "quote": "Lavoriamo prevalentemente con automotive, manifatturiero, food e packaging"
+  },
+  {
+   "claim": "Integra macchine, PLC, MES/SCADA e WMS con i sistemi aziendali",
+   "url": "https://ioma.ai/",
+   "quote": "Integriamo macchine, PLC, MES/SCADA e WMS con i sistemi aziendali."
+  },
+  {
+   "claim": "Lavora su tutta Italia",
+   "url": "https://ioma.ai/contatti",
+   "quote": "lavoriamo su tutta Italia"
+  }
+ ],
+ "market": {
+  "count": "23.848",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane strutturate di automotive, food e packaging",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "automotive",
+   "food e packaging",
+   "manifatturiero"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive,manufacturing,food and beverage manufacturing,packaging and containers manufacturing,electric vehicle\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "durst-group",
+ "company": "Durst Group",
+ "first_name": "Massimo",
+ "domain": "durst-group.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Software e soluzioni pensate per la stampa digitale delle aziende. Ecco chi contatteremmo per Durst Group.",
+ "market_note": "Durst Group offre soluzioni software per ottimizzare il processo di stampa delle aziende del settore, quindi parleremmo con chi decide su produzione e nuove tecnologie di stampa.",
+ "evidence": [
+  {
+   "claim": "soluzioni software per la stampa digitale",
+   "url": "https://www.durst-group.com/en/software-solutions",
+   "quote": "especially tailored for digital printing"
+  },
+  {
+   "claim": "software per ottimizzare il processo di stampa",
+   "url": "https://www.durst-group.com/en/software-solutions",
+   "quote": "software solutions to optimize the printing process"
+  },
+  {
+   "claim": "software per ottimizzare il processo di stampa delle aziende",
+   "url": "https://www.durst-group.com/en/software-solutions",
+   "quote": "software solutions to optimize the printing process"
+  },
+  {
+   "claim": "soluzioni pensate per la stampa digitale",
+   "url": "https://www.durst-group.com/en/software-solutions",
+   "quote": "especially tailored for digital printing"
+  },
+  {
+   "claim": "serve il settore della stampa",
+   "url": "https://www.durst-group.com/en/software-solutions",
+   "quote": "software solutions to optimize the printing process"
+  }
+ ],
+ "market": {
+  "count": "1.864",
+  "label": "titolari, CEO e direttori di aziende italiane della stampa e del packaging",
+  "chips": [
+   "tutta Italia",
+   "10 a 250 addetti",
+   "stampa",
+   "packaging"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"printing,printing services,packaging and containers manufacturing\"}"
+ }
+}

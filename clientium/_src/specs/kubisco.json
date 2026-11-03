@@ -1,0 +1,80 @@
+{
+ "slug": "kubisco",
+ "company": "kubisco",
+ "first_name": "Francesco",
+ "domain": "kubisco.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Un laboratorio permanente sui dati e sull'azienda, con formazione e consulenza. Ecco chi contatteremmo per kubisco.",
+ "market_note": "kubisco è un laboratorio permanente che guarda al mondo dei dati e dell'azienda, con formazione e consulenza, quindi parleremmo con chi guida aziende che vogliono leggere meglio i propri dati.",
+ "evidence": [
+  {
+   "claim": "laboratorio permanente sui dati e sull'azienda",
+   "url": "https://kubisco.com/",
+   "quote": "un laboratorio permanente che guarda al mondo dei dati e dell'azienda con curiosità e passione"
+  },
+  {
+   "claim": "offre formazione e consulenza",
+   "url": "https://kubisco.com/",
+   "quote": "Formazione FlatDAX Power By Step By Step Bundle Consulenza"
+  },
+  {
+   "claim": "laboratorio sui dati e sull'azienda",
+   "url": "https://kubisco.com/",
+   "quote": "un laboratorio permanente che guarda al mondo dei dati e dell'azienda con curiosità e passione"
+  },
+  {
+   "claim": "laboratorio permanente sul mondo dei dati e dell'azienda",
+   "url": "https://kubisco.com/",
+   "quote": "un laboratorio permanente che guarda al mondo dei dati e dell'azienda con curiosità e passione"
+  },
+  {
+   "claim": "azienda dedicata al mondo dei dati e dell'azienda",
+   "url": "https://kubisco.com/",
+   "quote": "un laboratorio permanente che guarda al mondo dei dati e dell'azienda con curiosità e passione"
+  }
+ ],
+ "market": {
+  "count": "76.489",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "titolari e direttori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

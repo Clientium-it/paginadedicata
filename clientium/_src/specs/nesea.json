@@ -1,0 +1,77 @@
+{
+ "slug": "nesea",
+ "company": "nesea",
+ "first_name": "Marco",
+ "domain": "nesea.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni smart e digital transformation per infrastrutture IT, dati e processi. Ecco chi contatteremmo per nesea.",
+ "market_note": "nesea sviluppa soluzioni smart e di digital transformation per il manifatturiero, le costruzioni e la green tech, quindi parleremmo con chi decide su infrastrutture IT, dati e processi.",
+ "evidence": [
+  {
+   "claim": "nesea trasforma infrastrutture IT, dati e processi con la digital transformation",
+   "url": "https://www.nesea.it/",
+   "quote": "Esplora i case study di digital transformation di nesea e scopri come le Smart Solution trasformano infrastrutture IT, dati e processi in vantaggi competitivi concreti."
+  },
+  {
+   "claim": "nesea ha industry expertise in manifatturiero, costruzioni, green tech e digital entertainment",
+   "url": "https://www.nesea.it/",
+   "quote": "Manufacturing Smart Construction Green Tech Digital Entertainment Funding Consultancy"
+  },
+  {
+   "claim": "le smart solution trasformano infrastrutture IT, dati e processi in vantaggi competitivi",
+   "url": "https://www.nesea.it/",
+   "quote": "le Smart Solution trasformano infrastrutture IT, dati e processi in vantaggi competitivi concreti"
+  },
+  {
+   "claim": "nesea vende soluzioni alle aziende",
+   "url": "https://www.nesea.it/smart-solutions/digital-customer-experience/ia/",
+   "quote": "progettate per trasformare radicalmente il modo in cui le aziende operano e innovano"
+  }
+ ],
+ "market": {
+  "count": "1.533",
+  "label": "responsabili IT, CIO e CTO di aziende manifatturiere, delle costruzioni e green tech strutturate in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manifatturiero",
+   "green tech",
+   "digital entertainment"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,construction,greentech,digital entertainment\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

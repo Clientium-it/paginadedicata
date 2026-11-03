@@ -1,0 +1,86 @@
+{
+ "slug": "poste-air-cargo",
+ "company": "Poste Air Cargo",
+ "first_name": "Giuseppe",
+ "domain": "posteaircargo.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Supporta le più grandi filiere logistiche del sistema produttivo e gli spedizionieri italiani. Ecco chi contatteremmo per Poste Air Cargo.",
+ "market_note": "Poste Air Cargo supporta le più grandi filiere logistiche del sistema produttivo e gli spedizionieri italiani, quindi parleremmo con chi guida logistica e operazioni nelle aziende più strutturate.",
+ "evidence": [
+  {
+   "claim": "Supporta le filiere logistiche del sistema produttivo",
+   "url": "https://www.poste.it/posteaircargo/",
+   "quote": "Supporta le più grandi filiere logistiche del sistema produttivo"
+  },
+  {
+   "claim": "Partner per gli spedizionieri italiani",
+   "url": "https://www.poste.it/posteaircargo/",
+   "quote": "rappresenta un solido partner per gli spedizionieri italiani"
+  },
+  {
+   "claim": "Supporta le filiere logistiche del sistema produttivo",
+   "url": "https://www.poste.it/posteaircargo/",
+   "quote": "Supporta le più grandi filiere logistiche del sistema produttivo"
+  },
+  {
+   "claim": "Partner per gli spedizionieri italiani",
+   "url": "https://www.poste.it/posteaircargo/",
+   "quote": "rappresenta un solido partner per gli spedizionieri italiani"
+  },
+  {
+   "claim": "Supporta le filiere logistiche e gli spedizionieri",
+   "url": "https://www.poste.it/posteaircargo/",
+   "quote": "rappresenta un solido partner per gli spedizionieri italiani"
+  },
+  {
+   "claim": "Clienti nel mondo logistica e spedizioni",
+   "url": "https://www.poste.it/posteaircargo/",
+   "quote": "Supporta le più grandi filiere logistiche del sistema produttivo"
+  }
+ ],
+ "market": {
+  "count": "5.387",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate del settore logistica e spedizioni",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "logistica",
+   "spedizioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"logistics,transportation, logistics, supply chain and storage\"}"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "servizi-cgn",
+ "company": "Servizi CGN",
+ "first_name": "Simone",
+ "domain": "cgn.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Software, consulenza e strumenti digitali per commercialisti, consulenti del lavoro e imprese. Ecco chi contatteremmo per Servizi CGN.",
+ "market_note": "Servizi CGN è il principale service provider italiano dei Professionisti del settore fiscale e del lavoro, quindi parleremmo con i titolari degli studi di commercialisti e consulenti del lavoro.",
+ "evidence": [
+  {
+   "claim": "Offre software, consulenza e strumenti digitali per commercialisti, consulenti del lavoro e imprese",
+   "url": "https://www.cgn.it/tutti-i-servizi",
+   "quote": "Software, consulenza e strumenti digitali per commercialisti, consulenti del lavoro e imprese."
+  },
+  {
+   "claim": "È il principale service provider dei Professionisti del settore fiscale e del lavoro",
+   "url": "https://www.cgn.it/",
+   "quote": "il principale service provider italiano dei Professionisti del settore fiscale e del lavoro"
+  },
+  {
+   "claim": "Realizza software con un team di 70 specialisti",
+   "url": "https://www.cgn.it/",
+   "quote": "Un team di 70 specialisti che realizzano software con approccio agile"
+  },
+  {
+   "claim": "Serve studi di Dottori Commercialisti, Esperti Contabili e Consulenti del Lavoro",
+   "url": "https://www.cgn.it/",
+   "quote": "Dottori Commercialisti, Esperti Contabili e Consulenti del Lavoro"
+  },
+  {
+   "claim": "Opera su tutto il territorio nazionale",
+   "url": "https://www.cgn.it/",
+   "quote": "una squadra di consulenti CGN su tutto il territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "316",
+  "label": "titolari e amministratori di studi di commercialisti e consulenti del lavoro in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "commercialisti",
+   "consulenti del lavoro"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"accounting,bookkeeping and payroll\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

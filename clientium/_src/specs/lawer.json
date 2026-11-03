@@ -1,0 +1,82 @@
+{
+ "slug": "lawer",
+ "company": "Lawer",
+ "first_name": "Filippo",
+ "domain": "lawer.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Sistemi di dosaggio ed erogazione industriale per prodotti in polvere e liquidi. Ecco chi contatteremmo per Lawer.",
+ "market_note": "Lawer fornisce all'industria sistemi di dosaggio ed erogazione di polveri e liquidi per settori come tessile, gomma e pneumatici, quindi parleremmo con chi decide sugli impianti di produzione.",
+ "evidence": [
+  {
+   "claim": "Lawer realizza sistemi di dosaggio ed erogazione industriale",
+   "url": "https://lawer.com/",
+   "quote": "siamo specializzati in sistemi di dosaggio ed erogazione industriale"
+  },
+  {
+   "claim": "Dosa prodotti in polvere e liquidi",
+   "url": "https://lawer.com/",
+   "quote": "dosatura automatica di prodotti in polvere e liquidi"
+  },
+  {
+   "claim": "Fornisce soluzioni di dosaggio all'industria",
+   "url": "https://lawer.com/",
+   "quote": "Lawer fornisce prodotti, soluzioni e servizi all'industria"
+  },
+  {
+   "claim": "Serve i settori tessile, gomma, pneumatici, masterbatch, alimentare, cosmetica e vernici",
+   "url": "https://lawer.com/",
+   "quote": "Tessile Gomma tecnica Pneumatici Color Master Batch Alimentare Cosmetica Vernici"
+  },
+  {
+   "claim": "Dal 1970 specializzata in sistemi di dosaggio ed erogazione industriale",
+   "url": "https://lawer.com/",
+   "quote": "Dal 1970, siamo specializzati in sistemi di dosaggio ed erogazione industriale"
+  }
+ ],
+ "market": {
+  "count": "6.250",
+  "label": "direttori, titolari e CEO di aziende manifatturiere italiane strutturate oltre 50 addetti nei settori tessile, gomma e alimentare",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "tessile e gomma",
+   "alimentare e cosmetica",
+   "manifattura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"textile manufacturing,plastics and rubber manufacturing,plastics manufacturing,food and beverage manufacturing,cosmetics,chemical manufacturing\"}"
+ }
+}

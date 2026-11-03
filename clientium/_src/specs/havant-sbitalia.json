@@ -1,0 +1,82 @@
+{
+ "slug": "havant-sbitalia",
+ "company": "Havant",
+ "first_name": "Tony",
+ "domain": "sbitalia.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni integrate che ottimizzano processi, dati e operatività per aziende e PA. Ecco chi contatteremmo per Havant.",
+ "market_note": "Havant affianca aziende e pubblica amministrazione nei percorsi di trasformazione digitale, con ERP, cybersecurity e gestione dei dati, quindi parleremmo con chi guida i sistemi informativi e l'IT.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni integrate che ottimizzano processi, dati e operatività per aziende e PA",
+   "url": "https://www.havant.com/",
+   "quote": "Affianchiamo aziende e PA con soluzioni integrate che ottimizzano processi, dati e operatività quotidiana."
+  },
+  {
+   "claim": "Affianca aziende e pubblica amministrazione nella trasformazione digitale",
+   "url": "https://www.havant.com/chi-siamo/",
+   "quote": "affianca aziende e pubblica amministrazione nei percorsi di trasformazione digitale."
+  },
+  {
+   "claim": "Offre ERP, governo dei dati, analytics, cybersecurity e IT",
+   "url": "https://www.havant.com/chi-siamo/profilo/",
+   "quote": "fino a ERP, governo dei dati, analytics, cybersecurity e IT system management."
+  },
+  {
+   "claim": "Affianca aziende e PA con soluzioni integrate",
+   "url": "https://www.havant.com/",
+   "quote": "Affianchiamo aziende e PA con soluzioni integrate che ottimizzano processi, dati e operatività quotidiana."
+  },
+  {
+   "claim": "Settori clienti dichiarati",
+   "url": "https://www.havant.com/",
+   "quote": "Financial Services Government & Public Sector Healthcare, Pharma & Lifescience Hospitality Industrial Manufacturing Professional Services Real Estate"
+  }
+ ],
+ "market": {
+  "count": "4.079",
+  "label": "CIO, CTO e responsabili IT di aziende e pubblica amministrazione strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "financial services",
+   "industrial manufacturing",
+   "pubblica amministrazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"financial services,government,health care,pharmaceutical,hospitality,industrial manufacturing,professional services,real estate,retail,wholesale,telecommunications,media and entertainment,technology, information and internet,transportation, logistics, supply chain and storage\"}"
+ }
+}

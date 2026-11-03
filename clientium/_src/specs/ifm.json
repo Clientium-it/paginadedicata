@@ -1,0 +1,80 @@
+{
+ "slug": "ifm",
+ "company": "IFM",
+ "first_name": "Giuseppe",
+ "domain": "ifmspa.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Servizi integrati per la gestione di edifici, spazi e persone. Ecco chi contatteremmo per IFM.",
+ "market_note": "IFM fornisce servizi integrati per la gestione di edifici, spazi e persone in strutture pubbliche e private, quindi parleremmo con chi decide su facility management, pulizie e servizio energia.",
+ "evidence": [
+  {
+   "claim": "IFM fornisce servizi integrati per la gestione di edifici, spazi e persone",
+   "url": "https://www.ifmspa.eu/",
+   "quote": "servizi integrati per la gestione di edifici, spazi e persone"
+  },
+  {
+   "claim": "IFM fornisce servizi integrati per la gestione di edifici, spazi e persone",
+   "url": "https://www.ifmspa.eu/",
+   "quote": "servizi integrati per la gestione di edifici, spazi e persone"
+  },
+  {
+   "claim": "Eroga i servizi in strutture pubbliche e private",
+   "url": "https://www.ifmspa.eu/servizi",
+   "quote": "erogabili in strutture pubbliche e private"
+  },
+  {
+   "claim": "Porta avanti progetti di qualità dal Trentino alla Sicilia",
+   "url": "https://www.ifmspa.eu/",
+   "quote": "progetti di qualità dal Trentino alla Sicilia"
+  },
+  {
+   "claim": "Presenza capillare sul territorio nazionale",
+   "url": "https://www.ifmspa.eu/chi-siamo",
+   "quote": "presenza capillare sul territorio italiano"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende strutturate e strutture pubbliche con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "pubblico e privato"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

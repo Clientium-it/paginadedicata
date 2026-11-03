@@ -1,0 +1,76 @@
+{
+ "slug": "lincotek-surface-solutions",
+ "company": "Lincotek Surface Solutions",
+ "first_name": "Angelo",
+ "domain": "turbocoating.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Trattamenti di superficie e componenti per turbine per clienti OEM industriali. Ecco chi contatteremmo per Lincotek Surface Solutions.",
+ "market_note": "Lincotek Surface Solutions supporta le richieste dei clienti OEM nei settori industriali e migliora i componenti per turbine, quindi parleremmo con chi decide su forniture e processi produttivi.",
+ "evidence": [
+  {
+   "claim": "migliora i componenti per turbine per clienti OEM",
+   "url": "https://www.lincotek.com/surfacesolutions/why-partner-with-us/",
+   "quote": "enhance turbine components and offer a full-range of services to OEM customers"
+  },
+  {
+   "claim": "supporta i clienti OEM nei settori industriali",
+   "url": "https://www.lincotek.com/surfacesolutions/why-partner-with-us/",
+   "quote": "closely support OEM demands in the industrial sectors"
+  },
+  {
+   "claim": "supporta i clienti OEM nei settori industriali con componenti per turbine",
+   "url": "https://www.lincotek.com/surfacesolutions/why-partner-with-us/",
+   "quote": "closely support OEM demands in the industrial sectors"
+  },
+  {
+   "claim": "settori clienti aerospazio ed energia",
+   "url": "https://www.lincotek.com/",
+   "quote": "medical , aerospace and energy sectors"
+  }
+ ],
+ "market": {
+  "count": "4.871",
+  "label": "titolari, CEO e direttori di aziende OEM in aerospazio ed energia con oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "aerospazio",
+   "energia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"aerospace,energy\"}"
+ }
+}

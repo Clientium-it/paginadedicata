@@ -1,0 +1,77 @@
+{
+ "slug": "fhoster",
+ "company": "Fhoster",
+ "first_name": "Antonio",
+ "domain": "fhoster.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Software su misura generato per le esigenze delle aziende. Ecco chi contatteremmo per Fhoster.",
+ "market_note": "Fhoster genera applicazioni su misura per clienti in un ampio spettro di settori, quindi parleremmo con chi decide sui gestionali e sui processi aziendali da digitalizzare.",
+ "evidence": [
+  {
+   "claim": "software generato su misura per il cliente",
+   "url": "https://www.fhoster.com/",
+   "quote": "Il software che cercavi, generato su misura per te."
+  },
+  {
+   "claim": "generano applicazioni per clienti in molti settori diversi",
+   "url": "https://www.fhoster.com/",
+   "quote": "Abbiamo generato applicazioni per clienti in un ampio spettro di settori"
+  },
+  {
+   "claim": "generano applicazioni per clienti in un ampio spettro di settori",
+   "url": "https://www.fhoster.com/",
+   "quote": "Abbiamo generato applicazioni per clienti in un ampio spettro di settori"
+  },
+  {
+   "claim": "settori dei clienti dichiarati sul sito",
+   "url": "https://www.fhoster.com/clienti",
+   "quote": "Pubblica Amministrazione Integrazione di sistemi Industria Servizi Ricerca Clinica"
+  }
+ ],
+ "market": {
+  "count": "2.970",
+  "label": "titolari, CEO e direttori di aziende italiane da 10 a 250 addetti nei settori pubblico, industria e ricerca clinica",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "pubblica amministrazione",
+   "industria",
+   "ricerca clinica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"government administration,industrial manufacturing,clinical trials\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

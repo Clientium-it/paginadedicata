@@ -1,0 +1,85 @@
+{
+ "slug": "schonhaut-advisory",
+ "company": "Schonhaut Advisory",
+ "first_name": "Marco",
+ "domain": "schonhautadvisory.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Un mentore unico per la trasformazione digitale di piccole imprese e aziende strutturate. Ecco chi contatteremmo per Schonhaut Advisory.",
+ "market_note": "Schonhaut Advisory accompagna piccole imprese e aziende strutturate nella trasformazione digitale, quindi parleremmo con titolari e direttori che decidono su strategia, innovazione e progetti digitali.",
+ "evidence": [
+  {
+   "claim": "Offre un mentore unico per i progetti digitali",
+   "url": "https://schonhautadvisory.com/",
+   "quote": "Un unico mentore consente loro di prendere in mano in modo gestibile tutti gli aspetti necessari a far prosperare i progetti digitali."
+  },
+  {
+   "claim": "Si rivolge ad aziende strutturate con dipartimenti",
+   "url": "https://schonhautadvisory.com/soluzioni-aziende-strutturate/",
+   "quote": "Società dove esistono dipartimenti dedicati ai diversi ambiti d’azienda"
+  },
+  {
+   "claim": "Avvia e gestisce percorsi di trasformazione digitale",
+   "url": "https://schonhautadvisory.com/soluzioni-aziende-strutturate/",
+   "quote": "Avviare e gestire un percorso di Trasformazione Digitale"
+  },
+  {
+   "claim": "Serve piccole imprese con innovazione digitale",
+   "url": "https://schonhautadvisory.com/soluzioni-piccole-medie-imprese/",
+   "quote": "L’innovazione digitale serve loro per efficientare l’azienda al massimo e per differenziarsi nel mercato sempre più aggressivo."
+  },
+  {
+   "claim": "Guida percorsi di trasformazione digitale",
+   "url": "https://schonhautadvisory.com/soluzioni-aziende-strutturate/",
+   "quote": "Avviare e gestire un percorso di Trasformazione Digitale"
+  },
+  {
+   "claim": "Clienti con dipartimenti vendite, IT, marketing, produzione",
+   "url": "https://schonhautadvisory.com/soluzioni-aziende-strutturate/",
+   "quote": "Società dove esistono dipartimenti dedicati ai diversi ambiti d’azienda"
+  }
+ ],
+ "market": {
+  "count": "124.079",
+  "label": "titolari, CEO e direttori di piccole imprese e aziende strutturate italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "da 10 a 250 addetti",
+   "PMI strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

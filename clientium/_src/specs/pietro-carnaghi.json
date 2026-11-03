@@ -1,0 +1,87 @@
+{
+ "slug": "pietro-carnaghi",
+ "company": "Pietro Carnaghi",
+ "first_name": "Giuliano",
+ "domain": "pietrocarnaghi.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Macchine utensili Pietro Carnaghi, torni verticali e fresatrici a portale. Ecco chi contatteremmo per Pietro Carnaghi.",
+ "market_note": "Pietro Carnaghi produce torni verticali e fresatrici a portale per i settori energia, aerospazio e oil and gas, quindi parleremmo con chi decide gli investimenti in produzione.",
+ "evidence": [
+  {
+   "claim": "produce torni verticali e fresatrici a portale",
+   "url": "https://www.pietrocarnaghi.it/about-us/",
+   "quote": "medium and large vertical lathes and gantry milling machines"
+  },
+  {
+   "claim": "produce torni verticali e fresatrici a portale",
+   "url": "https://www.pietrocarnaghi.it/about-us/",
+   "quote": "medium and large vertical lathes and gantry milling machines"
+  },
+  {
+   "claim": "serve i settori energia, aerospazio e oil and gas",
+   "url": "https://www.pietrocarnaghi.it/",
+   "quote": "Energy Aerospace Forging Mining Defense Bearings Aeronautics Oil-Gas"
+  },
+  {
+   "claim": "produce torni verticali e fresatrici a portale",
+   "url": "https://www.pietrocarnaghi.it/about-us/",
+   "quote": "medium and large vertical lathes and gantry milling machines"
+  },
+  {
+   "claim": "serve i settori energia, aerospazio e oil and gas",
+   "url": "https://www.pietrocarnaghi.it/",
+   "quote": "Energy Aerospace Forging Mining Defense Bearings Aeronautics Oil-Gas"
+  },
+  {
+   "claim": "settori clienti dichiarati",
+   "url": "https://www.pietrocarnaghi.it/",
+   "quote": "Energy Aerospace Forging Mining Defense Bearings Aeronautics Oil-Gas"
+  }
+ ],
+ "market": {
+  "count": "6.349",
+  "label": "direttori di produzione, titolari e CEO di grandi aziende industriali in energia, aerospazio e oil and gas",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "energia",
+   "aerospazio",
+   "oil and gas"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"energy,aerospace,oil and gas,mining,defense and space manufacturing\"}"
+ }
+}

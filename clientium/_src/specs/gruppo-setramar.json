@@ -1,0 +1,82 @@
+{
+ "slug": "gruppo-setramar",
+ "company": "Gruppo Setramar",
+ "first_name": "Annagiulia",
+ "domain": "grupposetramar.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Logistica portuale e movimentazione merci per le filiere industriali a Ravenna. Ecco chi contatteremmo per Gruppo Setramar.",
+ "market_note": "Gruppo Setramar è il principale operatore privato italiano nel dry bulk e serve le filiere industriali dal porto di Ravenna, quindi parleremmo con chi decide su logistica e trasporti.",
+ "evidence": [
+  {
+   "claim": "Supporta l'industria italiana con servizi di movimentazione e stoccaggio merci",
+   "url": "https://grupposetramar.it/",
+   "quote": "Supportiamo la competitività dell’industria italiana attraverso soluzioni affidabili per movimentazione, stoccaggio e gestione delle merci"
+  },
+  {
+   "claim": "Principale operatore privato italiano nel segmento dry bulk",
+   "url": "https://grupposetramar.it/",
+   "quote": "il principale operatore privato italiano nel segmento dry bulk"
+  },
+  {
+   "claim": "Serve le filiere industriali italiane",
+   "url": "https://grupposetramar.it/",
+   "quote": "supporta le principali filiere industriali italiane nella gestione dei traffici"
+  },
+  {
+   "claim": "Principale operatore privato italiano nel segmento dry bulk",
+   "url": "https://grupposetramar.it/",
+   "quote": "il principale operatore privato italiano nel segmento dry bulk"
+  },
+  {
+   "claim": "Gestisce merci delle filiere agricola, chimica, mineraria e siderurgica",
+   "url": "https://grupposetramar.it/",
+   "quote": "specializzato nella gestione di cereali, semi, sfarinati, minerali, fertilizzanti, inerti e carbone"
+  }
+ ],
+ "market": {
+  "count": "22.177",
+  "label": "titolari, CEO e direttori di aziende industriali italiane con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "agricoltura",
+   "chimica e fertilizzanti",
+   "siderurgia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"agriculture,chemical,mining,manufacturing\"}"
+ }
+}

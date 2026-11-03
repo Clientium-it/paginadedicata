@@ -1,0 +1,80 @@
+{
+ "slug": "intent",
+ "company": "Intent",
+ "first_name": "Massimiliano",
+ "domain": "gruppointent.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni di ERP SAP, business intelligence, governance, cybersecurity e sviluppo per le aziende. Ecco chi contatteremmo per Intent.",
+ "market_note": "Intent porta soluzioni di ERP SAP, business intelligence, governance e cybersecurity alle aziende, quindi parleremmo con chi decide sui sistemi informativi e sugli investimenti tecnologici.",
+ "evidence": [
+  {
+   "claim": "Intent offre soluzioni di ERP SAP, business intelligence e governance",
+   "url": "https://gruppointent.com/soluzioni/",
+   "quote": "ERP SAP Business Intelligence Governance"
+  },
+  {
+   "claim": "Intent si occupa anche di cybersecurity e sviluppo",
+   "url": "https://gruppointent.com/soluzioni/",
+   "quote": "TECH AI Cybersecurity Development"
+  },
+  {
+   "claim": "Intent propone soluzioni ERP SAP, business intelligence e governance",
+   "url": "https://gruppointent.com/soluzioni/",
+   "quote": "ERP SAP Business Intelligence Governance"
+  },
+  {
+   "claim": "Intent sviluppa soluzioni tecnologiche tra cui cybersecurity e development",
+   "url": "https://gruppointent.com/soluzioni/",
+   "quote": "TECH AI Cybersecurity Development"
+  },
+  {
+   "claim": "Intent vende soluzioni IT e tecnologiche alle aziende",
+   "url": "https://gruppointent.com/soluzioni/",
+   "quote": "ERP SAP Business Intelligence Governance"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "CIO e CTO"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "macoev",
+ "company": "Macoev",
+ "first_name": "Stefano",
+ "domain": "macoev.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza, design e sviluppo di soluzioni di trasformazione digitale per le aziende. Ecco chi contatteremmo per Macoev.",
+ "market_note": "Macoev supporta le aziende di tutti i settori nella trasformazione digitale di processi ed esperienze, quindi parleremmo con chi guida innovazione, tecnologia e processi in azienda.",
+ "evidence": [
+  {
+   "claim": "Macoev si occupa di consulenza, design e sviluppo di soluzioni di trasformazione digitale",
+   "url": "https://macoev.com/",
+   "quote": "Consulting, design, and development of digital transformation solutions"
+  },
+  {
+   "claim": "Macoev supporta aziende di tutti i settori nella trasformazione digitale",
+   "url": "https://macoev.com/",
+   "quote": "Macoev is a solution provider that supports companies in all sectors, anywhere in the world"
+  },
+  {
+   "claim": "Macoev supporta le aziende nella trasformazione digitale in tutti i settori",
+   "url": "https://macoev.com/",
+   "quote": "supports companies in all sectors, anywhere in the world, in implementing digital transformation technologies"
+  },
+  {
+   "claim": "Macoev serve il settore manifatturiero",
+   "url": "https://macoev.com/",
+   "quote": "In a complex production environment like manufacturing, Macoev supports companies in the digital transformation of processes"
+  },
+  {
+   "claim": "Macoev serve il settore sanitario",
+   "url": "https://macoev.com/",
+   "quote": "In the healthcare sector, Macoev offers a dedicated suite of solutions designed to improve efficiency, safety, and traceability"
+  }
+ ],
+ "market": {
+  "count": "28.879",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti, nel manifatturiero e nella sanità",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manifatturiero",
+   "sanità"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,health care\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

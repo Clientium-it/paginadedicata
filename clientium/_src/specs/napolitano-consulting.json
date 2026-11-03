@@ -1,0 +1,91 @@
+{
+ "slug": "napolitano-consulting",
+ "company": "Napolitano Consulting",
+ "first_name": "Mario",
+ "domain": "napolitano.consulting",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza BIM e divulgazione digitale per le realtà del settore delle costruzioni. Ecco chi contatteremmo per Napolitano Consulting.",
+ "market_note": "Napolitano Consulting offre consulenza BIM alle realtà del settore delle costruzioni, quindi parleremmo con i titolari di studi di progettazione e imprese di costruzione che vogliono digitalizzare i processi.",
+ "evidence": [
+  {
+   "claim": "Offre consulenza e divulgazione digitale nel settore dell'architettura",
+   "url": "https://napolitano.consulting/",
+   "quote": "Consulenza d’eccellenza e divulgazione digitale al servizio dell’architettura del futuro"
+  },
+  {
+   "claim": "I servizi BIM sono rivolti alle realtà del settore delle costruzioni",
+   "url": "https://napolitano.consulting/servizi/",
+   "quote": "I nostri servizi BIM sono pensati per accompagnare tutte le realtà del settore delle costruzioni"
+  },
+  {
+   "claim": "Collabora con studi di progettazione",
+   "url": "https://napolitano.consulting/servizi/",
+   "quote": "Studi di progettazione Per ottimizzare processi, flussi informativi e tempi di consegna."
+  },
+  {
+   "claim": "Collabora con imprese di costruzione",
+   "url": "https://napolitano.consulting/servizi/",
+   "quote": "Imprese di costruzione Per integrare il BIM nei processi produttivi e gestionali."
+  },
+  {
+   "claim": "Sviluppa template, database e traduttori IFC per l'adozione aziendale del BIM",
+   "url": "https://napolitano.consulting/",
+   "quote": "Sviluppiamo template, database e traduttori IFC, offrendo formazione e manuali per un’efficace adozione aziendale."
+  },
+  {
+   "claim": "Opera a livello nazionale",
+   "url": "https://napolitano.consulting/servizi/",
+   "quote": "oltre 100 progetti BIM seguiti a livello nazionale e internazionale."
+  },
+  {
+   "claim": "Settore clienti: costruzioni",
+   "url": "https://napolitano.consulting/servizi/",
+   "quote": "I nostri servizi BIM sono pensati per accompagnare tutte le realtà del settore delle costruzioni"
+  }
+ ],
+ "market": {
+  "count": "4.567",
+  "label": "titolari di studi di progettazione e imprese di costruzione in Italia da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "costruzioni",
+   "studi di progettazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"architecture and planning,construction\"}"
+ }
+}

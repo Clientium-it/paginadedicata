@@ -1,0 +1,81 @@
+{
+ "slug": "maurizio-vitagliano",
+ "company": "Maurizio Vitagliano",
+ "first_name": "Giorgio",
+ "domain": "mauriziovitagliano.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Grossista di gioielli con montature, semilavorati e diamanti da tre generazioni. Ecco chi contatteremmo per Maurizio Vitagliano.",
+ "market_note": "Maurizio Vitagliano è grossista di gioielli, montature e semilavorati riconosciuto dalle gioiellerie e dai laboratori orafi in tutta Italia, quindi parleremmo con chi guida queste attività.",
+ "evidence": [
+  {
+   "claim": "Grossista di gioielli da tre generazioni",
+   "url": "https://mauriziovitagliano.com/",
+   "quote": "Grossista di Gioielli da 3 Generazioni"
+  },
+  {
+   "claim": "Offre montature, semilavorati e diamanti",
+   "url": "https://mauriziovitagliano.com/",
+   "quote": "Che siano Montature, Semilavorati, Diamanti o Gioielli Finiti"
+  },
+  {
+   "claim": "Riconosciuto dalle gioiellerie e dai laboratori orafi in tutta Italia",
+   "url": "https://mauriziovitagliano.com/",
+   "quote": "+1500 gioiellerie e laboratori orafi in tutta Italia e non solo"
+  },
+  {
+   "claim": "Produzione affidata agli artigiani dei laboratori al Centro Orafo Il Tarì",
+   "url": "https://mauriziovitagliano.com/",
+   "quote": "il processo di produzione è interamente affidato agli artigiani dei nostri laboratori al Centro Orafo Il Tarì"
+  },
+  {
+   "claim": "Clienti sono gioiellerie e laboratori orafi",
+   "url": "https://mauriziovitagliano.com/",
+   "quote": "+1500 gioiellerie e laboratori orafi in tutta Italia e non solo"
+  }
+ ],
+ "market": {
+  "count": "1.151",
+  "label": "titolari di gioiellerie e laboratori orafi in tutta Italia fino a cinquanta addetti",
+  "chips": [
+   "tutta Italia",
+   "fino a 50 addetti",
+   "gioiellerie",
+   "laboratori orafi"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"maxEmployees\": 50, \"companyIndustry\": \"jewelry,retail luxury goods and jewelry\"}"
+ }
+}

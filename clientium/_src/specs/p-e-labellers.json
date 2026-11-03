@@ -1,0 +1,70 @@
+{
+ "slug": "p-e-labellers",
+ "company": "P.E. Labellers",
+ "first_name": "Nicola",
+ "domain": "pelabellers.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Macchine etichettatrici automatiche flessibili e personalizzabili per le aziende. Ecco chi contatteremmo per P.E. Labellers.",
+ "market_note": "P.E. Labellers produce macchine etichettatrici automatiche flessibili e personalizzabili con diverse tecnologie sulla stessa macchina, quindi parleremmo con chi guida produzione e stabilimenti nelle aziende che confezionano prodotti.",
+ "evidence": [
+  {
+   "claim": "produce macchine etichettatrici automatiche flessibili e personalizzabili",
+   "url": "https://www.pelabellers.com/",
+   "quote": "Flexible & Customizable Automatic Labeling Machines"
+  },
+  {
+   "claim": "macchine con diverse tecnologie sulla stessa macchina",
+   "url": "https://www.pelabellers.com/",
+   "quote": "Solutions for applications with different technologies on the same machine."
+  },
+  {
+   "claim": "sviluppano macchine etichettatrici automatiche flessibili e personalizzabili",
+   "url": "https://www.pelabellers.com/",
+   "quote": "Flexible & Customizable Automatic Labeling Machines"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende manifatturiere"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

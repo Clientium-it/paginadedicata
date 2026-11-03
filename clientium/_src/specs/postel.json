@@ -1,0 +1,77 @@
+{
+ "slug": "postel",
+ "company": "Postel",
+ "first_name": "Vito",
+ "domain": "postel.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni integrate per l'ottimizzazione dei processi documentali e le comunicazioni multicanale. Ecco chi contatteremmo per Postel.",
+ "market_note": "Postel offre soluzioni integrate per l'ottimizzazione dei processi documentali e le comunicazioni multicanale ad imprese, professionisti e Pubbliche Amministrazioni, quindi parleremmo con chi guida finanza e organizzazione nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Postel ottimizza i processi documentali e le comunicazioni multicanale",
+   "url": "https://www.postel.it/chisiamo",
+   "quote": "l'ottimizzazione dei processi documentali e per le comunicazioni multicanale"
+  },
+  {
+   "claim": "Si rivolge a imprese, professionisti e Pubbliche Amministrazioni",
+   "url": "https://www.postel.it/chisiamo",
+   "quote": "ad imprese, professionisti e Pubbliche Amministrazioni"
+  },
+  {
+   "claim": "Archivia e conserva digitalmente oltre cinque miliardi di documenti",
+   "url": "https://www.postel.it/chisiamo",
+   "quote": "archivia digitalmente e conserva oltre 5 miliardi di documenti"
+  },
+  {
+   "claim": "Settori serviti dichiarati dal sito",
+   "url": "https://www.postel.it/chisiamo",
+   "quote": "PA e Sanità Utility Assicurazioni Istituti bancari"
+  }
+ ],
+ "market": {
+  "count": "25.725",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti nei settori banche, assicurazioni e utility",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "banche e assicurazioni",
+   "utility",
+   "PA e sanità"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"banking,insurance,utilities,government,health care\"}"
+ }
+}

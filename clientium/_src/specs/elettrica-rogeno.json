@@ -1,0 +1,63 @@
+{
+ "slug": "elettrica-rogeno",
+ "company": "Elettrica Rogeno",
+ "first_name": "Cristian",
+ "domain": "elettricarogeno.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progetta e installa impianti fotovoltaici per privati, aziende ed enti pubblici. Ecco chi contatteremmo per Elettrica Rogeno.",
+ "market_note": "Elettrica Rogeno progetta e installa impianti fotovoltaici per aziende, privati ed enti pubblici in Lombardia e in altre regioni, quindi parleremmo con chi decide su energia e costi in azienda.",
+ "evidence": [
+  {
+   "claim": "Progetta e installa impianti fotovoltaici per privati, aziende ed enti pubblici",
+   "url": "https://www.elettricarogeno.it/chi-siamo/",
+   "quote": "progetta e realizza impianti fotovoltaici e tecnologici per privati, enti pubblici e aziende"
+  },
+  {
+   "claim": "Vende impianti fotovoltaici alle aziende di ogni dimensione per ridurre i costi",
+   "url": "https://www.elettricarogeno.it/servizi/",
+   "quote": "Supportiamo aziende di tutte le dimensioni nella transizione energetica, progettando impianti fotovoltaici capaci di ridurre i costi operativi e aumentare la competitività"
+  },
+  {
+   "claim": "Elite Partner SunPower tra i principali installatori in Italia",
+   "url": "https://www.elettricarogeno.it/chi-siamo/",
+   "quote": "ovvero tra i principali installatori SunPower sul territorio italiano"
+  },
+  {
+   "claim": "Opera in Lombardia e in altre regioni italiane",
+   "url": "https://www.elettricarogeno.it/chi-siamo/",
+   "quote": "Piemonte , Emilia Romagna , Veneto , Sardegna , Liguria"
+  }
+ ],
+ "market": {
+  "count": "49.781",
+  "label": "titolari, CEO e amministratori di piccole e medie imprese da 10 a 250 addetti",
+  "chips": [
+   "Lombardia",
+   "Piemonte",
+   "Veneto",
+   "Sardegna",
+   "10-250 addetti"
+  ],
+  "regions": [
+   "Lombardia",
+   "Piemonte",
+   "Emilia-Romagna",
+   "Veneto",
+   "Sardegna",
+   "Liguria"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Lombardy,Piedmont,Emilia-Romagna,Veneto,Sardinia,Liguria\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

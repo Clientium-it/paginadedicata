@@ -1,0 +1,92 @@
+{
+ "slug": "present-blog",
+ "company": "Present",
+ "first_name": "Mauro",
+ "domain": "blog.it-present.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Servizi gestiti, SAP e governance dell'infrastruttura IT per le imprese. Ecco chi contatteremmo per Present.",
+ "market_note": "Present, società del gruppo Exprivia, offre servizi gestiti e governance dei sistemi SAP alle imprese, quindi parleremmo con chi guida sistemi informativi e infrastruttura IT.",
+ "evidence": [
+  {
+   "claim": "servizi gestiti sull'ecosistema IT",
+   "url": "https://blog.it-present.com/tag/managed-services",
+   "quote": "managed service outsourcing per la gestione dell'ecosistema IT"
+  },
+  {
+   "claim": "competenze SAP come società del gruppo Exprivia",
+   "url": "https://magazine.exprivia.it/ottimizzazione-e-governance-dei-sistemi-sap-il-valore-dei-servizi-ams",
+   "quote": "Competence Center SAP integrato di Present, società del gruppo Exprivia"
+  },
+  {
+   "claim": "valore strategico dell'infrastruttura IT",
+   "url": "https://blog.it-present.com/tag/managed-services",
+   "quote": "Il monitoraggio dell'infrastruttura IT oggi assume un valore strategico per le aziende."
+  },
+  {
+   "claim": "società del gruppo Exprivia",
+   "url": "https://magazine.exprivia.it/ottimizzazione-e-governance-dei-sistemi-sap-il-valore-dei-servizi-ams",
+   "quote": "Competence Center SAP integrato di Present, società del gruppo Exprivia"
+  },
+  {
+   "claim": "governance dei sistemi SAP",
+   "url": "https://magazine.exprivia.it/ottimizzazione-e-governance-dei-sistemi-sap-il-valore-dei-servizi-ams",
+   "quote": "mantenendo il pieno controllo sulla governance dei sistemi"
+  },
+  {
+   "claim": "Competence Center SAP del gruppo Exprivia",
+   "url": "https://magazine.exprivia.it/ottimizzazione-e-governance-dei-sistemi-sap-il-valore-dei-servizi-ams",
+   "quote": "Competence Center SAP integrato di Present, società del gruppo Exprivia"
+  },
+  {
+   "claim": "settori serviti",
+   "url": "https://blog.it-present.com/",
+   "quote": "Manufacturing Finance Pubblica Amministrazione Transportation Energy & Utilities Telco & Media"
+  }
+ ],
+ "market": {
+  "count": "3.379",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 100 addetti nel manifatturiero, finance e pubblica amministrazione",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "manifattura",
+   "finance",
+   "PA"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"manufacturing,finance,government administration,transportation,utilities,energy,telecommunications,media and entertainment\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

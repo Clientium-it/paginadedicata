@@ -1,0 +1,96 @@
+{
+ "slug": "seas",
+ "company": "SEAS",
+ "first_name": "Alessandro",
+ "domain": "seas-italy.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Manutenzione di aeromobili con basi da Torino a Catania. Ecco chi contatteremmo per SEAS.",
+ "market_note": "SEAS cura la manutenzione di aeromobili per operatori del mercato low cost in oltre 20 sedi europee, quindi parleremmo con chi guida le compagnie aeree e la loro operatività.",
+ "evidence": [
+  {
+   "claim": "Manutenzione di aeromobili",
+   "url": "https://www.seas-italy.it/",
+   "quote": "a distinguished provider of aviation services, with a particular focus on Aircraft Maintenance"
+  },
+  {
+   "claim": "basi da Torino a Catania",
+   "url": "https://www.seas-italy.it/",
+   "quote": "with operational bases spanning from Turin to Catania, as well as other key European hubs"
+  },
+  {
+   "claim": "manutenzione di una flotta di aeromobili",
+   "url": "https://www.seas-italy.it/",
+   "quote": "contribute to the airworthiness of a fleet of 150 aircraft"
+  },
+  {
+   "claim": "operatori del mercato low cost",
+   "url": "https://www.seas-italy.it/",
+   "quote": "Operating in the challenging world of the low-cost market"
+  },
+  {
+   "claim": "oltre 20 sedi europee",
+   "url": "https://www.seas-italy.it/",
+   "quote": "over 20 European locations"
+  },
+  {
+   "claim": "flotta di 150 aeromobili",
+   "url": "https://www.seas-italy.it/",
+   "quote": "contribute to the airworthiness of a fleet of 150 aircraft"
+  },
+  {
+   "claim": "oltre 20 sedi europee",
+   "url": "https://www.seas-italy.it/",
+   "quote": "over 20 European locations"
+  },
+  {
+   "claim": "clienti nel mercato low cost delle compagnie aeree",
+   "url": "https://www.seas-italy.it/",
+   "quote": "Operating in the challenging world of the low-cost market"
+  }
+ ],
+ "market": {
+  "count": "453",
+  "label": "titolari, CEO e direttori di compagnie aeree e operatori aeronautici strutturati in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "compagnie aeree",
+   "aviazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"airlines and aviation\"}"
+ }
+}

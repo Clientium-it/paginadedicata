@@ -1,0 +1,75 @@
+{
+ "slug": "qtnova",
+ "company": "QTNOVA",
+ "first_name": "Alessandro",
+ "domain": "qtnova.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni ERP, AI e Data Analysis per far crescere le aziende. Ecco chi contatteremmo per QTNOVA.",
+ "market_note": "QTNOVA è una società di consulenza informatica di Milano che porta gestionale Odoo e AI nelle PMI italiane, quindi parleremmo con chi decide su processi, gestionale e automazione.",
+ "evidence": [
+  {
+   "claim": "Offre ERP, AI e Data Analysis come partner per far crescere le aziende",
+   "url": "https://qtnova.it/chi-siamo",
+   "quote": "ERP, AI e Data Analysis. Un partner per far crescere la tua azienda."
+  },
+  {
+   "claim": "È una società di consulenza informatica con sede a Milano",
+   "url": "https://qtnova.it/chi-siamo",
+   "quote": "una società di consulenza informatica con sede a Milano"
+  },
+  {
+   "claim": "Serve le PMI italiane con gestionale e AI",
+   "url": "https://qtnova.it/casi-studio",
+   "quote": "Come le PMI italiane hanno tolto Excel dai processi critici con il gestionale e l'AI di QTNOVA."
+  },
+  {
+   "claim": "Aiuta le PMI italiane a togliere Excel dai processi critici con gestionale e AI",
+   "url": "https://qtnova.it/casi-studio",
+   "quote": "Come le PMI italiane hanno tolto Excel dai processi critici con il gestionale e l'AI di QTNOVA."
+  }
+ ],
+ "market": {
+  "count": "110.089",
+  "label": "titolari, CEO e direttori di PMI italiane dai 10 ai 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "PMI italiane"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "maia-management",
+ "company": "Maia Management",
+ "first_name": "Davide",
+ "domain": "maiamanagement.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Il partner digitale delle PMI industriali, dal gestionale Odoo ai configuratori 3D. Ecco chi contatteremmo per Maia Management.",
+ "market_note": "Maia Management è il partner digitale delle PMI industriali, con gestionale Odoo, siti, marketing e configuratori 3D, quindi parleremmo con i titolari che decidono sulla digitalizzazione dell'azienda.",
+ "evidence": [
+  {
+   "claim": "È il partner digitale delle PMI industriali",
+   "url": "https://maiamanagement.it/",
+   "quote": "Il partner digitale delle PMI industriali."
+  },
+  {
+   "claim": "Offre gestionale Odoo e configuratori 3D",
+   "url": "https://maiamanagement.it/",
+   "quote": "Gestionale Odoo per produzione e magazzino, sito web e SEO, marketing B2B, configuratori 3D e automazione."
+  },
+  {
+   "claim": "Partner digitale delle PMI industriali",
+   "url": "https://maiamanagement.it/",
+   "quote": "Il partner digitale delle PMI industriali."
+  },
+  {
+   "claim": "Gestionale Odoo e configuratori 3D per le PMI industriali",
+   "url": "https://maiamanagement.it/",
+   "quote": "Gestionale Odoo per produzione e magazzino, sito web e SEO, marketing B2B, configuratori 3D e automazione."
+  },
+  {
+   "claim": "Lavora con PMI di tutta Italia",
+   "url": "https://maiamanagement.it/chi-siamo/",
+   "quote": "Lavoriamo con PMI di tutta Italia"
+  },
+  {
+   "claim": "Settori clienti dichiarati, manifatturiero, macchinari, packaging, tessile",
+   "url": "https://maiamanagement.it/chi-siamo/",
+   "quote": "costruttori di macchine, aziende di packaging, tessile, etichettatura, servizi tecnici per gli stabilimenti."
+  }
+ ],
+ "market": {
+  "count": "13.483",
+  "label": "titolari, CEO e amministratori di PMI industriali e manifatturiere italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "manifatturiero",
+   "macchinari",
+   "packaging"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"manufacturing,industrial machinery manufacturing,packaging and containers manufacturing,textile manufacturing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

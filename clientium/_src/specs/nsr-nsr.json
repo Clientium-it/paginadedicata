@@ -1,0 +1,75 @@
+{
+ "slug": "nsr-nsr",
+ "company": "NSR",
+ "first_name": "Antonio",
+ "domain": "nsr.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni di cybersecurity e data protection per aziende e organizzazioni. Ecco chi contatteremmo per NSR.",
+ "market_note": "NSR è un technology advisor e system integrator italiano specializzato in cybersecurity e data protection, quindi parleremmo con chi decide su sicurezza informatica e protezione dei dati.",
+ "evidence": [
+  {
+   "claim": "NSR fornisce soluzioni di cybersecurity e data protection",
+   "url": "https://www.nsr.it/",
+   "quote": "soluzioni di Cybersecurity e Data Protection innovative e affidabili"
+  },
+  {
+   "claim": "NSR è technology advisor e system integrator specializzato in cybersecurity e data protection",
+   "url": "https://www.nsr.it/company/",
+   "quote": "NSR è un Technology Advisor e System Integrator italiano a capitale privato, specializzato in cybersecurity e data protection"
+  },
+  {
+   "claim": "NSR supporta aziende e organizzazioni nella protezione degli asset digitali",
+   "url": "https://www.nsr.it/company/",
+   "quote": "supportare aziende e organizzazioni nella protezione dei loro asset digitali"
+  },
+  {
+   "claim": "NSR serve clienti in ogni segmento di mercato",
+   "url": "https://www.nsr.it/",
+   "quote": "Un portafoglio di oltre 80 clienti fidelizzati in ogni segmento di mercato"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate oltre i 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

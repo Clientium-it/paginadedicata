@@ -1,0 +1,75 @@
+{
+ "slug": "esperienza",
+ "company": "Esperienza",
+ "first_name": "Matteo",
+ "domain": "esperienza.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Le eccellenze del territorio diventano protagoniste di eventi originali e multisensoriali. Ecco chi contatteremmo per Esperienza.",
+ "market_note": "Esperienza crea e organizza per aziende e privati eventi e format che celebrano le eccellenze italiane, quindi parleremmo con chi decide eventi aziendali e team building.",
+ "evidence": [
+  {
+   "claim": "Trasforma le eccellenze del territorio in eventi multisensoriali",
+   "url": "https://esperienza.com/",
+   "quote": "Le eccellenze del territorio diventano protagoniste di eventi originali e multisensoriali"
+  },
+  {
+   "claim": "Crea e organizza eventi per aziende e privati celebrando le eccellenze italiane",
+   "url": "https://esperienza.com/chi-siamo/",
+   "quote": "eventi creati e organizzati per aziende e privati da Esperienza srl"
+  },
+  {
+   "claim": "Propone team building aziendale fuori dagli schemi",
+   "url": "https://esperienza.com/",
+   "quote": "Un team building fuori dagli schemi per stimolare il vostro gruppo di lavoro."
+  },
+  {
+   "claim": "Porta eventi in tutta Italia",
+   "url": "https://esperienza.com/chi-siamo/",
+   "quote": "un Roadshow di eventi in tutta Italia"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate sopra i 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "eventi aziendali e team building"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

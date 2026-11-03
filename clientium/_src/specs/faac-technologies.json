@@ -1,0 +1,85 @@
+{
+ "slug": "faac-technologies",
+ "company": "FAAC Technologies",
+ "first_name": "Renato",
+ "domain": "faactechnologies.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Automazione e controllo accessi veicolare e pedonale, con soluzioni per il settore dei parcheggi. Ecco chi contatteremmo per FAAC Technologies.",
+ "market_note": "FAAC Technologies sviluppa soluzioni di automazione e controllo accessi per alberghi, uffici, aziende e industrie, quindi parleremmo con chi decide su accessi, sicurezza e parcheggi.",
+ "evidence": [
+  {
+   "claim": "automazione e controllo accessi veicolare e pedonale",
+   "url": "https://faactechnologies.com/",
+   "quote": "gruppo internazionale leader nel settore dell’automazione e del controllo accessi ad uso veicolare e pedonale per applicazioni residenziali e industriali"
+  },
+  {
+   "claim": "soluzioni per il settore dei parcheggi",
+   "url": "https://faactechnologies.com/soluzioni/",
+   "quote": "50+ ANNI DI ECCELLENZA NEL SETTORE DEI PARCHEGGI"
+  },
+  {
+   "claim": "serve alberghi, uffici, aziende e industrie",
+   "url": "https://faactechnologies.com/soluzioni/",
+   "quote": "per applicazioni residenziali, uffici, alberghi, aziende e industrie"
+  },
+  {
+   "claim": "automazione e controllo accessi veicolare e pedonale",
+   "url": "https://faactechnologies.com/",
+   "quote": "gruppo internazionale leader nel settore dell’automazione e del controllo accessi ad uso veicolare e pedonale per applicazioni residenziali e industriali"
+  },
+  {
+   "claim": "settore dei parcheggi",
+   "url": "https://faactechnologies.com/soluzioni/",
+   "quote": "50+ ANNI DI ECCELLENZA NEL SETTORE DEI PARCHEGGI"
+  },
+  {
+   "claim": "clienti tra aziende e industrie",
+   "url": "https://faactechnologies.com/soluzioni/",
+   "quote": "per applicazioni residenziali, uffici, alberghi, aziende e industrie"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre cinquanta addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende e industrie"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

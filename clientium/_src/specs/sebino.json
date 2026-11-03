@@ -1,0 +1,81 @@
+{
+ "slug": "sebino",
+ "company": "Sebino",
+ "first_name": "Walter",
+ "domain": "sebino.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progettazione, installazione e manutenzione di sistemi integrati per la rivelazione e l'estinzione di incendi. Ecco chi contatteremmo per Sebino.",
+ "market_note": "Sebino progetta, installa e mantiene impianti antincendio a protezione di complessi industriali, depositi logistici, centri commerciali, banche e ospedali, quindi parleremmo con chi guida queste strutture.",
+ "evidence": [
+  {
+   "claim": "Sebino progetta, installa e mantiene sistemi integrati antincendio",
+   "url": "https://www.sebino.eu/azienda/storia/",
+   "quote": "progettazione, installazione e manutenzione di sistemi integrati per la rivelazione e l’estinzione di incendi"
+  },
+  {
+   "claim": "Protegge complessi industriali, depositi logistici e centri commerciali",
+   "url": "https://www.sebino.eu/azienda/le-nostre-referenze/",
+   "quote": "impianti antincendio a protezione di complessi industriali, depositi logistici, centri commerciali"
+  },
+  {
+   "claim": "Serve anche banche, aeroporti e ospedali",
+   "url": "https://www.sebino.eu/azienda/le-nostre-referenze/",
+   "quote": "banche ed istituti di credito, aeroporti, ospedali"
+  },
+  {
+   "claim": "Impianti antincendio a protezione di complessi industriali e depositi logistici",
+   "url": "https://www.sebino.eu/azienda/le-nostre-referenze/",
+   "quote": "impianti antincendio a protezione di complessi industriali, depositi logistici"
+  },
+  {
+   "claim": "Opera su tutto il territorio nazionale",
+   "url": "https://www.sebino.eu/azienda/storia/",
+   "quote": "L’azienda opera sul territorio nazionale ma anche a livello internazionale"
+  }
+ ],
+ "market": {
+  "count": "29.747",
+  "label": "titolari, CEO e direttori di aziende strutturate in tutta Italia da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "industria e logistica",
+   "banche e ospedali"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"industrial,logistics,warehousing,retail,banking,hospital,utilities,air transportation\"}"
+ }
+}

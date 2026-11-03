@@ -1,0 +1,90 @@
+{
+ "slug": "poltrona-frau",
+ "company": "Poltrona Frau",
+ "first_name": "Massimiliano",
+ "domain": "poltronafrau.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Poltrone, divani e arredi di design in pelle con grande artigianato. Ecco chi contatteremmo per Poltrona Frau.",
+ "market_note": "Poltrona Frau produce sedute e arredi di design in pelle e firma progetti contract su misura per hotel di lusso, quindi parleremmo con chi decide questi arredi di prestigio.",
+ "evidence": [
+  {
+   "claim": "poltrone, divani e arredi di design in pelle",
+   "url": "https://www.poltronafrau.com/de/de/products/products.87.html",
+   "quote": "Sessel und Sofas aus Leder, aber auch Lampen, Bücherregale, Betten"
+  },
+  {
+   "claim": "grande artigianato",
+   "url": "https://www.poltronafrau.com/de/de.html",
+   "quote": "Zeitlose Handwerkskunst, Kulturerbe, Nachhaltigkeit"
+  },
+  {
+   "claim": "sedute e arredi di design",
+   "url": "https://www.poltronafrau.com/de/de/products/seating.90.html",
+   "quote": "Heute verfügt Poltrona Frau über einen umfangreichen Katalog an Designersesseln, modularen Sofas und Ecksofas sowie Stühlen"
+  },
+  {
+   "claim": "progetti contract su misura",
+   "url": "https://www.poltronafrau.com/de/de.html",
+   "quote": "Palazzo Tirso CUSTOM INTERIORS - CONTRACT PROJECT"
+  },
+  {
+   "claim": "hotel di lusso",
+   "url": "https://www.poltronafrau.com/de/de.html",
+   "quote": "GASTGEWERBE LUXUSHOTELS GASTSTÄTTEN LUXUSWOHNUNGEN"
+  },
+  {
+   "claim": "progetti contract per hotel di lusso",
+   "url": "https://www.poltronafrau.com/de/de.html",
+   "quote": "Palazzo Tirso CUSTOM INTERIORS - CONTRACT PROJECT"
+  },
+  {
+   "claim": "clienti nell'ospitalità e hotel di lusso",
+   "url": "https://www.poltronafrau.com/de/de.html",
+   "quote": "GASTGEWERBE LUXUSHOTELS GASTSTÄTTEN LUXUSWOHNUNGEN"
+  }
+ ],
+ "market": {
+  "count": "2.993",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate dell'ospitalità da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "ospitalità"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"hospitality\"}"
+ }
+}

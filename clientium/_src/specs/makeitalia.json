@@ -1,0 +1,78 @@
+{
+ "slug": "makeitalia",
+ "company": "Makeitalia",
+ "first_name": "Roberto",
+ "domain": "makeitalia.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Gestiscono e migliorano la catena di fornitura delle aziende clienti. Ecco chi contatteremmo per Makeitalia.",
+ "market_note": "Makeitalia gestisce e migliora la Supply Chain delle aziende dei principali settori industriali, quindi parleremmo con chi decide su acquisti, pianificazione, logistica e operations.",
+ "evidence": [
+  {
+   "claim": "Gestiscono e migliorano la catena di fornitura delle aziende clienti",
+   "url": "https://www.makeitalia.com/",
+   "quote": "Gestire e migliorare la catena di fornitura dei nostri clienti."
+  },
+  {
+   "claim": "Serve le aziende dei principali settori industriali",
+   "url": "https://www.makeitalia.com/servizi/",
+   "quote": "Supportiamo le aziende dei principali settori industriali"
+  },
+  {
+   "claim": "Unica azienda italiana che fa della Supply Chain il proprio core business",
+   "url": "https://www.makeitalia.com/chi-siamo/",
+   "quote": "Makeitalia è l’unica azienda italiana che fa della Supply Chain il proprio core business."
+  },
+  {
+   "claim": "Settori clienti dichiarati dal sito",
+   "url": "https://www.makeitalia.com/servizi/",
+   "quote": "La nostra esperienza abbraccia numerosi settori: agricoltura, automazione e macchine automatiche, automotive, cosmetica & bellezza"
+  }
+ ],
+ "market": {
+  "count": "43.486",
+  "label": "titolari, CEO e direttori di aziende industriali italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "manifatturiero",
+   "automotive",
+   "farmaceutico e medicale",
+   "logistica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"manufacturing,automotive,logistics,pharmaceutical,medical,cosmetics,fashion,construction,agriculture,shipbuilding,industrial automation,defense and space manufacturing,utilities\"}"
+ }
+}

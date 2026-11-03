@@ -1,0 +1,81 @@
+{
+ "slug": "steriline",
+ "company": "Steriline",
+ "first_name": "Federico",
+ "domain": "steriline.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Linee complete per il processo asettico dei farmaci iniettabili. Ecco chi contatteremmo per Steriline.",
+ "market_note": "Steriline produce da Como linee asettiche per farmaci iniettabili destinate alle aziende farmaceutiche di tutto il mondo, quindi parleremmo con chi decide su produzione e impianti.",
+ "evidence": [
+  {
+   "claim": "Steriline produce linee complete per il processo asettico dei prodotti iniettabili",
+   "url": "https://www.steriline.it/en/about-us/",
+   "quote": "complete lines for the aseptic processing of injectable products"
+  },
+  {
+   "claim": "Le linee sono fornite alle aziende farmaceutiche di tutto il mondo",
+   "url": "https://www.steriline.it/en/about-us/",
+   "quote": "which we supply to pharmaceutical companies worldwide"
+  },
+  {
+   "claim": "La sede e gli stabilimenti sono nell'area di Como",
+   "url": "https://www.steriline.it/en/about-us/company-profile/",
+   "quote": "Steriline was founded in 1989 in the Lake Como area (Italy), where its headquarters and manufacturing facilities are still based."
+  },
+  {
+   "claim": "Nel 2014 Steriline è stata la prima a introdurre nel processo asettico un'applicazione robotica senza parti di formato",
+   "url": "https://www.steriline.it/en/about-us/company-profile/",
+   "quote": "in 2014 Steriline took on a pioneering role by introducing, as first in the aseptic processing market, a robotic application with no need of format parts"
+  },
+  {
+   "claim": "I clienti di Steriline sono le aziende farmaceutiche che producono farmaci iniettabili",
+   "url": "https://www.steriline.it/en/about-us/company-profile/",
+   "quote": "to further help injectable drug manufacturers face the new global challenges effectively"
+  }
+ ],
+ "market": {
+  "count": "5.038",
+  "label": "titolari, CEO e direttori di aziende farmaceutiche italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "industria farmaceutica",
+   "farmaci iniettabili"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"pharmaceutical manufacturing,pharmaceutical\"}"
+ }
+}

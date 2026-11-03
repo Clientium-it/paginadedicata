@@ -1,0 +1,92 @@
+{
+ "slug": "ncv",
+ "company": "NCV",
+ "first_name": "Mirco",
+ "domain": "ncv.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Logistica integrata e servizi di trasporto per aziende su tutto il territorio nazionale. Ecco chi contatteremmo per NCV.",
+ "market_note": "NCV offre logistica integrata e trasporti su tutto il territorio nazionale alle aziende, quindi parleremmo con chi decide su magazzino, distribuzione e trasporti.",
+ "evidence": [
+  {
+   "claim": "NCV opera nella logistica integrata e nei servizi di supporto",
+   "url": "https://ncv.it/",
+   "quote": "Siamo leader nei settori della logistica integrata e nei servizi di supporto."
+  },
+  {
+   "claim": "Copre tutto il territorio nazionale",
+   "url": "https://ncv.it/",
+   "quote": "Copriamo tutto il territorio nazionale con tempi di consegna garantiti."
+  },
+  {
+   "claim": "Gestisce la logistica FMCG di Deichmann",
+   "url": "https://ncv.it/azienda/storia.html",
+   "quote": "punto strategico per la logistica nazionale dedita alla logistica FMCG di Deichmann"
+  },
+  {
+   "claim": "Nuovo polo logistico di Valsamoggia",
+   "url": "https://ncv.it/azienda/storia.html",
+   "quote": "Inaugurazione nuovo Polo Logistico Valsamoggia"
+  },
+  {
+   "claim": "Serve il settore food",
+   "url": "https://ncv.it/azienda/storia.html",
+   "quote": "dedicata principalmente al settore food."
+  },
+  {
+   "claim": "Offre distribuzione alimentare e farmaceutica",
+   "url": "https://ncv.it/",
+   "quote": "Distribuzione alimentare Distribuzione farmaceutica Trasporti speciali e fuori sagoma"
+  },
+  {
+   "claim": "Raggiunge tutto il territorio italiano",
+   "url": "https://ncv.it/azienda/sedi.html",
+   "quote": "raggiungiamo con i nostri servizi di logistica tutto il territorio italiano."
+  }
+ ],
+ "market": {
+  "count": "11.526",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 50 addetti nei settori largo consumo, alimentare e farmaceutico",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "largo consumo",
+   "alimentare",
+   "farmaceutico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"fast-moving consumer goods,food and beverage,pharmaceutical,e-commerce\"}"
+ }
+}

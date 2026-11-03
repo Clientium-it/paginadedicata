@@ -1,0 +1,85 @@
+{
+ "slug": "m-cube",
+ "company": "M-Cube",
+ "first_name": "Luigi",
+ "domain": "mcubedigital.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Specialisti di soluzioni digitali per il retail che creano esperienze immersive nei punti vendita. Ecco chi contatteremmo per M-Cube.",
+ "market_note": "M-Cube sviluppa soluzioni digitali per il retail come digital signage e sound design per i brand, quindi parleremmo con chi guida operations e marketing dei retailer.",
+ "evidence": [
+  {
+   "claim": "Specialisti di soluzioni digitali per il retail",
+   "url": "https://mcubedigital.com/",
+   "quote": "We are end-to-end specialists in strategic and innovative retail digital solutions"
+  },
+  {
+   "claim": "Creano esperienze immersive per il retail",
+   "url": "https://mcubedigital.com/",
+   "quote": "Create wow effect with immersive retail experiences"
+  },
+  {
+   "claim": "Sviluppa digital signage, sound design e altre soluzioni per il retail",
+   "url": "https://mcubedigital.com/",
+   "quote": "We combine Digital Signage, Sound Design, Omnichannel Retail and Content Creation with the latest technologies"
+  },
+  {
+   "claim": "Lavora con i brand del retail",
+   "url": "https://mcubedigital.com/",
+   "quote": "we help brands to devise impactful stories and sensory experiences"
+  },
+  {
+   "claim": "Combina digital signage, sound design, omnichannel e content creation",
+   "url": "https://mcubedigital.com/",
+   "quote": "We combine Digital Signage, Sound Design, Omnichannel Retail and Content Creation with the latest technologies"
+  },
+  {
+   "claim": "Clienti nel settore retail",
+   "url": "https://mcubedigital.com/",
+   "quote": "We are end-to-end specialists in strategic and innovative retail digital solutions"
+  }
+ ],
+ "market": {
+  "count": "8.628",
+  "label": "direttori, CEO e titolari di catene retail e brand strutturati in Italia",
+  "chips": [
+   "tutta Italia",
+   "da 50 addetti",
+   "retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"retail\"}"
+ }
+}

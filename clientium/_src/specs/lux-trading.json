@@ -1,0 +1,87 @@
+{
+ "slug": "lux-trading",
+ "company": "Lux Trading",
+ "first_name": "Matteo",
+ "domain": "luxtrading.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Agenzia di vendita di carne da produttori esteri per clienti italiani. Ecco chi contatteremmo per Lux Trading.",
+ "market_note": "Lux Trading è un'agenzia di vendita di carne da produttori esteri per GDO, grossisti, macellerie e ristoranti, quindi parleremmo con chi decide gli acquisti di carne.",
+ "evidence": [
+  {
+   "claim": "agenzia di vendita di carne da produttori esteri per clienti italiani",
+   "url": "https://luxtrading.it/",
+   "quote": "un servizio di agenzia di vendita per aziende produttrici di carne estere e clienti italiani"
+  },
+  {
+   "claim": "offerta di carne bovina, ovina, suina e avicunicola da produttori selezionati",
+   "url": "https://luxtrading.it/",
+   "quote": "un’offerta commerciale di carne bovina, ovina, suina e avicunicola da selezionati produttori"
+  },
+  {
+   "claim": "clienti GDO, grossisti, macellerie e ristoranti",
+   "url": "https://luxtrading.it/3/prodotti.html",
+   "quote": "GDO Grossisti Grossisti Macellerie Privati Ristoranti Ho.Re.Ca."
+  },
+  {
+   "claim": "ufficio commerciale di una realtà leader mondiale",
+   "url": "https://luxtrading.it/1/chi-siamo.html",
+   "quote": "l'ufficio commerciale di una realtà leader a livello mondiale"
+  },
+  {
+   "claim": "Gutrei Galicia prima azienda spagnola di carne galiziana",
+   "url": "https://luxtrading.it/1/chi-siamo.html",
+   "quote": "prima azienda Spagnola di Carne Galiziana 100%"
+  },
+  {
+   "claim": "vende a clienti italiani",
+   "url": "https://luxtrading.it/",
+   "quote": "aziende produttrici di carne estere e clienti italiani"
+  }
+ ],
+ "market": {
+  "count": "11.955",
+  "label": "titolari, CEO e direttori acquisti di GDO, grossisti, macellerie e ristoranti in tutta Italia da 10 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "da 10 addetti",
+   "GDO e grossisti",
+   "ristoranti e Ho.Re.Ca.",
+   "macellerie"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"companyIndustry\": \"food and beverage,retail groceries,wholesale,restaurants\"}"
+ }
+}

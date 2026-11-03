@@ -1,0 +1,75 @@
+{
+ "slug": "negg-group",
+ "company": "negg Group",
+ "first_name": "Morena",
+ "domain": "negg.group",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni di cyber security e cyber intelligence per aziende e istituzioni. Ecco chi contatteremmo per negg Group.",
+ "market_note": "negg Group sviluppa soluzioni di cyber security e servizi di cyber intelligence per imprese e istituzioni, quindi parleremmo con chi decide su sicurezza informatica, incident response e protezione dei dati.",
+ "evidence": [
+  {
+   "claim": "Fa cyber security e cyber intelligence per aziende e istituzioni",
+   "url": "https://negg.group/",
+   "quote": "Cyber Intelligence & Cyber Security solutions for Companies and Governments"
+  },
+  {
+   "claim": "Fornisce prodotti e soluzioni a imprese e istituzioni nel mondo",
+   "url": "https://negg.group/",
+   "quote": "We provide high-quality products and solutions to enterprises and institutions worldwide through leading ICT innovation."
+  },
+  {
+   "claim": "Soluzioni per imprese e istituzioni di tutto il mondo",
+   "url": "https://negg.group/",
+   "quote": "We provide high-quality products and solutions to enterprises and institutions worldwide"
+  },
+  {
+   "claim": "La sicurezza riguarda imprese e istituzioni di ogni settore",
+   "url": "https://negg.group/solutions/cyber-intelligence/overview",
+   "quote": "Cyber threats affect all sectors, making security a top priority."
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

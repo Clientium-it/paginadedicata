@@ -1,0 +1,75 @@
+{
+ "slug": "gunpowder",
+ "company": "Gunpowder",
+ "first_name": "Gabriele",
+ "domain": "gunpowder.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Tech consultancy e software house B2B per intelligenza artificiale, Salesforce, dati e customer experience. Ecco chi contatteremmo per Gunpowder.",
+ "market_note": "Gunpowder progetta soluzioni digitali su misura di CRM, intelligenza artificiale e dati per le imprese, quindi parleremmo con chi guida sistemi informativi e trasformazione digitale.",
+ "evidence": [
+  {
+   "claim": "tech consultancy e software house B2B su AI, Salesforce, dati e customer experience",
+   "url": "https://www.gunpowder.eu/",
+   "quote": "Gunpowder è una tech consultancy e software house B2B specializzata in Intelligenza Artificiale, Salesforce, Data e Customer Experience."
+  },
+  {
+   "claim": "progetta soluzioni digitali su misura",
+   "url": "https://www.gunpowder.eu/",
+   "quote": "Progettiamo soluzioni digitali su misura per generare efficienza, innovazione e valore concreto."
+  },
+  {
+   "claim": "Salesforce Partner certificato dal 2017 per progetti di CRM, AI e cloud",
+   "url": "https://www.gunpowder.eu/crm/",
+   "quote": "Dal 2017, Gunpowder è Salesforce Partner certificato e un punto di riferimento per progetti di CRM, Intelligenza Artificiale, data management e soluzioni cloud."
+  },
+  {
+   "claim": "lavora su architetture IT e sistemi aziendali delle imprese",
+   "url": "https://www.gunpowder.eu/chi-siamo/",
+   "quote": "integrazione dei dati e modernizzazione delle architetture IT"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

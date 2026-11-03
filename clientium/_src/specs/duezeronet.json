@@ -1,0 +1,56 @@
+{
+ "slug": "duezeronet",
+ "company": "Duezeronet",
+ "first_name": "Ivan",
+ "domain": "duezeronet.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni ICT e TLC su misura per aziende e Pubbliche Amministrazioni. Ecco chi contatteremmo per Duezeronet.",
+ "market_note": "Duezeronet progetta e realizza infrastrutture ICT e sicurezza per aziende e Pubbliche Amministrazioni, quindi parleremmo con chi decide su reti, cybersecurity e continuità operativa.",
+ "evidence": [
+  {
+   "claim": "offre soluzioni ICT e TLC su misura per aziende e Pubbliche Amministrazioni",
+   "url": "https://www.duezeronet.it/",
+   "quote": "aziende e Pubbliche Amministrazioni con soluzioni ICT e TLC su misura"
+  },
+  {
+   "claim": "progetta e realizza infrastrutture ICT",
+   "url": "https://www.duezeronet.it/azienda/chi-siamo/",
+   "quote": "progettiamo e realizziamo infrastrutture ICT che fanno circolare le informazioni in modo affidabile e sicuro"
+  },
+  {
+   "claim": "realizza infrastrutture ICT affidabili e sicure",
+   "url": "https://www.duezeronet.it/azienda/chi-siamo/",
+   "quote": "infrastrutture ICT che fanno circolare le informazioni in modo affidabile e sicuro"
+  },
+  {
+   "claim": "si rivolge ad aziende e Pubbliche Amministrazioni",
+   "url": "https://www.duezeronet.it/",
+   "quote": "aziende e Pubbliche Amministrazioni con soluzioni ICT e TLC su misura"
+  }
+ ],
+ "market": {
+  "count": "294",
+  "label": "responsabili IT, CIO e CTO di aziende venete da 20 a 250 addetti",
+  "chips": [
+   "Veneto",
+   "20-250 addetti",
+   "aziende e PA"
+  ],
+  "regions": [
+   "Veneto"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Veneto\", \"minEmployees\": 20, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

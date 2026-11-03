@@ -1,0 +1,91 @@
+{
+ "slug": "inhertzweb",
+ "company": "Inhertzweb",
+ "first_name": "Manuel",
+ "domain": "inhertzweb.agency",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Marketing per hotel e B&B per far crescere le prenotazioni dirette. Ecco chi contatteremmo per Inhertzweb.",
+ "market_note": "Inhertzweb è l'agenzia di marketing per hotel specializzata in disintermediazione OTA e lavora con hotel, resort e B&B, quindi parleremmo con chi gestisce la struttura e decide su sito, prenotazioni dirette e visibilità.",
+ "evidence": [
+  {
+   "claim": "Marketing per hotel e B&B",
+   "url": "https://inhertzweb.agency/",
+   "quote": "Marketing per Hotel e B&B"
+  },
+  {
+   "claim": "prenotazioni dirette senza commissioni",
+   "url": "https://inhertzweb.agency/",
+   "quote": "prenotazioni dirette senza commissioni"
+  },
+  {
+   "claim": "agenzia di marketing per hotel specializzata in disintermediazione OTA",
+   "url": "https://inhertzweb.agency/chi-siamo/",
+   "quote": "l'Agenzia di Marketing per Hotel Specializzata in Disintermediazione OTA"
+  },
+  {
+   "claim": "lavora con hotel, resort e B&B",
+   "url": "https://inhertzweb.agency/chi-siamo/",
+   "quote": "Lavoriamo esclusivamente con hotel, resort e B&B"
+  },
+  {
+   "claim": "lavorano esclusivamente con hotel, resort e B&B",
+   "url": "https://inhertzweb.agency/chi-siamo/",
+   "quote": "Lavoriamo esclusivamente con hotel, resort e B&B"
+  },
+  {
+   "claim": "riduce la dipendenza da Booking.com",
+   "url": "https://inhertzweb.agency/chi-siamo/",
+   "quote": "riduce la dipendenza da Booking.com"
+  },
+  {
+   "claim": "settori clienti hotel e hospitality",
+   "url": "https://inhertzweb.agency/chi-siamo/",
+   "quote": "Lavoriamo esclusivamente con hotel, resort e B&B"
+  }
+ ],
+ "market": {
+  "count": "1.228",
+  "label": "titolari, CEO e amministratori di hotel, resort e B&B in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "hotel e B&B",
+   "hospitality"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"hospitality,hotel\"}"
+ }
+}

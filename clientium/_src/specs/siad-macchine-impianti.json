@@ -1,0 +1,108 @@
+{
+ "slug": "siad-macchine-impianti",
+ "company": "SIAD Macchine Impianti",
+ "first_name": "Sandeep",
+ "domain": "siadmi.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Compressori alternativi, impianti di separazione dell'aria e Smart LNG. Ecco chi contatteremmo per SIAD Macchine Impianti.",
+ "market_note": "SIAD Macchine Impianti progetta da Bergamo compressori e impianti di trattamento gas per chimica, petrolchimico, energia e cemento, quindi parleremmo con titolari e direttori di produzione e stabilimento.",
+ "evidence": [
+  {
+   "claim": "Produce compressori alternativi per gas di processo e aria",
+   "url": "https://www.siadmi.com/products",
+   "quote": "Reciprocating compressors for process gas and air"
+  },
+  {
+   "claim": "Fornisce impianti di separazione dell'aria",
+   "url": "https://www.siadmi.com/",
+   "quote": "SIAD Macchine Impianti supplies Air Separation Units to the highest quality standards"
+  },
+  {
+   "claim": "Offre impianti Smart LNG",
+   "url": "https://www.siadmi.com/",
+   "quote": "Smart LNG Natural Gas Liquefaction plant."
+  },
+  {
+   "claim": "Sede a Bergamo",
+   "url": "https://www.siadmi.com/contact-us",
+   "quote": "Via Canovine, 2/4 24126 Bergamo, ITALY"
+  },
+  {
+   "claim": "Progetta e realizza macchine e impianti per i clienti",
+   "url": "https://www.siadmi.com/industries",
+   "quote": "a valuable ally of its clients in the design, realization, installation and start-up of machines and systems"
+  },
+  {
+   "claim": "Serve cemento, chimica ed energia",
+   "url": "https://www.siadmi.com/industries",
+   "quote": "Cement Chemical Cold gases transport & storage Electronics Energy & Power Generation"
+  },
+  {
+   "claim": "Serve petrolchimico e raffinerie",
+   "url": "https://www.siadmi.com/industries",
+   "quote": "Oil & Gas Exploration and Production Petrochemical Pulp & Paper Refinery"
+  },
+  {
+   "claim": "Compressori oil free per soffiaggio di bottiglie rPET e PLA",
+   "url": "https://www.siadmi.com/",
+   "quote": "Oil-free piston air compressors for blow molding rPET and PLA bottles"
+  },
+  {
+   "claim": "Opera su scala internazionale, zona non limitata",
+   "url": "https://www.siadmi.com/products",
+   "quote": "SIAD Macchine Impianti conducts business worldwide"
+  },
+  {
+   "claim": "Settori clienti dichiarati vetro, alimentare, metallurgia, miniere",
+   "url": "https://www.siadmi.com/industries",
+   "quote": "Food and beverage Glass Industrial Gases Metal Production Mining"
+  }
+ ],
+ "market": {
+  "count": "8.998",
+  "label": "titolari, CEO e direttori di aziende industriali italiane di processo oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "chimica e petrolchimico",
+   "oil e gas ed energia",
+   "vetro e cemento",
+   "alimentare"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"chemical manufacturing,oil and gas,energy,glass, ceramics and concrete manufacturing,food and beverage manufacturing,mining,paper and forest product manufacturing\"}"
+ }
+}

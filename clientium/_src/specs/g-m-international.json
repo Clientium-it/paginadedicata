@@ -1,0 +1,77 @@
+{
+ "slug": "g-m-international",
+ "company": "G.M. International",
+ "first_name": "Paolo",
+ "domain": "gminternational.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Barriere a sicurezza intrinseca, relè di sicurezza e isolatori per aree pericolose. Ecco chi contatteremmo per G.M. International.",
+ "market_note": "G.M. International produce barriere a sicurezza intrinseca e isolatori per i settori chimico, oil and gas e farmaceutico, quindi parleremmo con chi decide sulla strumentazione in area pericolosa.",
+ "evidence": [
+  {
+   "claim": "Produce barriere a sicurezza intrinseca, relè di sicurezza e isolatori",
+   "url": "https://gminternational.com/",
+   "quote": "Intrinsically Safe Barriers, Safety Relays & Isolators"
+  },
+  {
+   "claim": "Serve i settori chimico, oil and gas e farmaceutico",
+   "url": "https://gminternational.com/",
+   "quote": "CHEMICAL MARINE & OFFSHORE OIL & GAS FOOD & BEVERAGE HYDROGEN RENEWABLES MINING NUCLEAR PHARMACEUTICAL"
+  },
+  {
+   "claim": "Sviluppa barriere e isolatori per i settori industriali citati",
+   "url": "https://gminternational.com/",
+   "quote": "Intrinsically Safe Barriers, Safety Relays & Isolators"
+  },
+  {
+   "claim": "Settori clienti dichiarati sul sito",
+   "url": "https://gminternational.com/",
+   "quote": "CHEMICAL MARINE & OFFSHORE OIL & GAS FOOD & BEVERAGE HYDROGEN RENEWABLES MINING NUCLEAR PHARMACEUTICAL"
+  }
+ ],
+ "market": {
+  "count": "13.297",
+  "label": "direttori tecnici, CEO e responsabili di aziende dei settori chimico, oil and gas e farmaceutico oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "chimico",
+   "oil and gas",
+   "farmaceutico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"chemical,oil and gas,food and beverage,mining,nuclear,pharmaceutical,renewable energy\"}"
+ }
+}

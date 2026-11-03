@@ -1,0 +1,87 @@
+{
+ "slug": "fattorie-garofalo",
+ "company": "Fattorie Garofalo",
+ "first_name": "Luigi",
+ "domain": "fattoriegarofalo.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Specialità di latte di bufala distribuite in Italia e all'estero. Ecco chi contatteremmo per Fattorie Garofalo.",
+ "market_note": "Fattorie Garofalo produce Mozzarella di Bufala Campana DOP per ristoratori e trasformatori di prodotto, quindi parleremmo con chi decide gli acquisti nella ristorazione e nella distribuzione.",
+ "evidence": [
+  {
+   "claim": "Produce specialità di latte di bufala",
+   "url": "https://www.fattoriegarofalo.it/prodotti-fattorie-garofalo/",
+   "quote": "Le specialità di latte di bufala"
+  },
+  {
+   "claim": "Distribuisce i prodotti in Italia e all'estero",
+   "url": "https://www.fattoriegarofalo.it/",
+   "quote": "Distribuiamo i nostri prodotti in Italia e all'estero"
+  },
+  {
+   "claim": "Produce Mozzarella di Bufala Campana DOP",
+   "url": "https://www.fattoriegarofalo.it/prodotti-fattorie-garofalo/",
+   "quote": "Il gruppo produce con il proprio brand il prodotto Mozzarella di Bufala Campana DOP"
+  },
+  {
+   "claim": "Serve ristoratori e trasformatori di prodotto",
+   "url": "https://www.fattoriegarofalo.it/prodotti-fattorie-garofalo/",
+   "quote": "dal consumo domestico ai bisogni di ristoratori e trasformatori di prodotto"
+  },
+  {
+   "claim": "Dal 1962 ambasciatori della mozzarella di bufala nel mondo",
+   "url": "https://www.fattoriegarofalo.it/",
+   "quote": "Dal 1962 siamo ambasciatori della mozzarella di bufala nel mondo"
+  },
+  {
+   "claim": "Partner della grande distribuzione",
+   "url": "https://www.fattoriegarofalo.it/",
+   "quote": "partner strategici di importanti brand della grande distribuzione"
+  }
+ ],
+ "market": {
+  "count": "5.441",
+  "label": "titolari, CEO e direttori acquisti di ristoranti, trasformatori alimentari e insegne della grande distribuzione in Italia",
+  "chips": [
+   "tutta Italia",
+   "da 10 addetti",
+   "ristorazione",
+   "trasformatori alimentari",
+   "grande distribuzione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"companyIndustry\": \"restaurants,food and beverage manufacturing,retail groceries\"}"
+ }
+}

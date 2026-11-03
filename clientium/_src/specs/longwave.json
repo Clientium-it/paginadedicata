@@ -1,0 +1,76 @@
+{
+ "slug": "longwave",
+ "company": "Longwave",
+ "first_name": "Francesco",
+ "domain": "longwave.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza IT su misura per cybersecurity, networking e cloud delle aziende. Ecco chi contatteremmo per Longwave.",
+ "market_note": "Longwave accompagna le aziende nella scelta delle soluzioni tecnologiche in ambito cybersecurity, networking e cloud, quindi parleremmo con chi decide su sicurezza e infrastruttura IT.",
+ "evidence": [
+  {
+   "claim": "Longwave offre consulenza IT in ambito cybersecurity, networking e cloud alle aziende",
+   "url": "https://www.longwave.it/chi-siamo/",
+   "quote": "soluzioni tecnologiche più innovative, sicure, integrabili e performanti nell'ambito Security & Cybersecurity, Networking, IT & Cloud"
+  },
+  {
+   "claim": "Longwave accompagna le aziende nella scelta delle soluzioni tecnologiche",
+   "url": "https://www.longwave.it/chi-siamo/",
+   "quote": "accompagnarvi nella scelta delle soluzioni tecnologiche più innovative, sicure, integrabili e performanti"
+  },
+  {
+   "claim": "Longwave progetta soluzioni in ambito cybersecurity, networking, IT e cloud",
+   "url": "https://www.longwave.it/chi-siamo/",
+   "quote": "nell'ambito Security & Cybersecurity, Networking, IT & Cloud, Collaboration & AV Integration, Communication e Software Development"
+  },
+  {
+   "claim": "Longwave opera su tutto il territorio nazionale",
+   "url": "https://www.longwave.it/soluzioni/",
+   "quote": "Con un'organizzazione capillare sul territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate dai 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "dai 50 addetti",
+   "responsabili IT",
+   "cybersecurity e cloud"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

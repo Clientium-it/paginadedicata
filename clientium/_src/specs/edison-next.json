@@ -1,0 +1,77 @@
+{
+ "slug": "edison-next",
+ "company": "Edison NEXT",
+ "first_name": "Marco",
+ "domain": "edisonnext.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Accompagna aziende e territori nel percorso di transizione ecologica e decarbonizzazione. Ecco chi contatteremmo per Edison NEXT.",
+ "market_note": "Edison NEXT accompagna aziende e pubbliche amministrazioni nel percorso di transizione energetica, quindi parleremmo con chi guida le scelte energetiche e di decarbonizzazione in aziende industriali strutturate.",
+ "evidence": [
+  {
+   "claim": "Accompagna clienti e territori nella transizione ecologica e decarbonizzazione",
+   "url": "https://www.edisonnext.it:443/",
+   "quote": "Accompagniamo clienti e territori nel percorso di transizione ecologica e decarbonizzazione"
+  },
+  {
+   "claim": "Accompagna aziende e pubbliche amministrazioni nella transizione energetica",
+   "url": "https://www.edisonnext.it:443/it/servizi/autoproduzione-sostenibile/fotovoltaico-aziende/",
+   "quote": "accompagna aziende e pubbliche amministrazioni nel percorso di transizione energetica"
+  },
+  {
+   "claim": "Affianca le aziende nel percorso di decarbonizzazione riducendo emissioni e consumi",
+   "url": "https://www.edisonnext.it:443/",
+   "quote": "Affianchiamo le aziende nel percorso di decarbonizzazione, aiutandole a ridurre emissioni e consumi"
+  },
+  {
+   "claim": "Il sito dichiara soluzioni per il settore chimico-pharma",
+   "url": "https://www.edisonnext.it:443/it/servizi/autoproduzione-energetica/",
+   "quote": "Soluzioni per il settore chimico-pharma"
+  }
+ ],
+ "market": {
+  "count": "13.918",
+  "label": "direttori, CEO e titolari di aziende industriali italiane strutturate nei settori chimico-pharma, GDO e acciaio",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "chimico-pharma",
+   "GDO",
+   "acciaio"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"chemical,pharmaceutical manufacturing,retail,industrial manufacturing,data center\"}"
+ }
+}

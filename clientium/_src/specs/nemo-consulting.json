@@ -1,0 +1,80 @@
+{
+ "slug": "nemo-consulting",
+ "company": "Nemo Consulting",
+ "first_name": "Marco",
+ "domain": "nemoconsulting.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza in ambito procurement e compliance per aziende private e pubbliche. Ecco chi contatteremmo per Nemo Consulting.",
+ "market_note": "Nemo Consulting gestisce da oltre 20 anni progetti di consulenza in ambito procurement per committenti privati e pubblici, quindi parleremmo con chi guida gli acquisti e la direzione.",
+ "evidence": [
+  {
+   "claim": "consulenza in ambito procurement",
+   "url": "https://www.nemoconsulting.it/",
+   "quote": "centinaia di progetti di consulenza in ambito procurement."
+  },
+  {
+   "claim": "serve committenti privati e pubblici",
+   "url": "https://www.nemoconsulting.it/",
+   "quote": "Nel settore costruzioni e Real Estate abbiamo supportato committenti privati e pubblici nella gestione dei processi di acquisto"
+  },
+  {
+   "claim": "oltre 20 anni di progetti di consulenza procurement",
+   "url": "https://www.nemoconsulting.it/",
+   "quote": "ha gestito, in più di 20 anni, centinaia di progetti di consulenza in ambito procurement."
+  },
+  {
+   "claim": "supporto a committenti privati e pubblici nel settore costruzioni e Real Estate",
+   "url": "https://www.nemoconsulting.it/",
+   "quote": "Nel settore costruzioni e Real Estate abbiamo supportato committenti privati e pubblici nella gestione dei processi di acquisto"
+  },
+  {
+   "claim": "opera in Italia",
+   "url": "https://www.nemoconsulting.it/chi-siamo-1",
+   "quote": "introdurre e sviluppare l'e-procurement in Italia."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, direttori acquisti e responsabili della direzione di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "procurement e compliance"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

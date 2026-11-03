@@ -1,0 +1,87 @@
+{
+ "slug": "rtt",
+ "company": "RTT",
+ "first_name": "Duilio",
+ "domain": "rtt.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Leader nella consulenza su tecnologia Oracle e nella digital transformation per le imprese. Ecco chi contatteremmo per RTT.",
+ "market_note": "RTT guida le aziende nella consulenza su tecnologia Oracle e nei sistemi informativi, con focus su Fashion, Hospitality e Food and Beverage, quindi parleremmo con i responsabili IT.",
+ "evidence": [
+  {
+   "claim": "RTT è leader nella consulenza su tecnologia Oracle per le imprese",
+   "url": "https://www.rtt.it/",
+   "quote": "RTT è leader nella consulenza per le imprese su tecnologia Oracle, in particolare JD Edwards, NetSuite e Stealth."
+  },
+  {
+   "claim": "RTT opera nella digital transformation",
+   "url": "https://www.rtt.it/",
+   "quote": "System Integrator & Digital Transformation Experts"
+  },
+  {
+   "claim": "RTT gestisce i sistemi informativi dei clienti",
+   "url": "https://www.rtt.it/chi-siamo/",
+   "quote": "affianchiamo i nostri clienti nello sviluppo del business attraverso l’implementazione e la gestione dei sistemi informativi"
+  },
+  {
+   "claim": "Focus su Fashion, Hospitality e Food & Beverage",
+   "url": "https://www.rtt.it/chi-siamo/",
+   "quote": "con una spiccata focalizzazione ed expertise su alcuni mercati di eccellenza quali il Fashion"
+  },
+  {
+   "claim": "Leader nella consulenza Oracle JDE NetSuite e Stealth",
+   "url": "https://www.rtt.it/",
+   "quote": "RTT è leader nella consulenza per le imprese su tecnologia Oracle, in particolare JD Edwards, NetSuite e Stealth."
+  },
+  {
+   "claim": "Settori clienti serviti dichiarati",
+   "url": "https://www.rtt.it/prodotti/netsuite/",
+   "quote": "Fashion & Retail Professional Services Discrete Manufacturing Food & Beverage Hospitality"
+  }
+ ],
+ "market": {
+  "count": "1.964",
+  "label": "responsabili IT e CIO di aziende italiane strutturate oltre 50 addetti nel fashion, hospitality e food and beverage",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "fashion",
+   "hospitality",
+   "food and beverage"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"fashion,retail,professional services,manufacturing,food and beverage,hospitality\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "slug": "duferco-energia",
+ "company": "Duferco Energia",
+ "first_name": "Luca",
+ "domain": "dufercoenergia.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Vendita di energia elettrica e gas da fonti rinnovabili a case, aziende e condomini. Ecco chi contatteremmo per Duferco Energia.",
+ "market_note": "Duferco Energia vende energia elettrica e gas a grandi aziende e gruppi industriali, quindi parleremmo con chi decide su forniture e approvvigionamento energetico.",
+ "evidence": [
+  {
+   "claim": "vende energia elettrica e gas a tutti i segmenti",
+   "url": "https://dufercoenergia.com/chi-siamo/",
+   "quote": "vendita di energia elettrica e gas per tutti i segmenti di mercato"
+  },
+  {
+   "claim": "fornisce energia a case, aziende e condomini",
+   "url": "https://dufercoenergia.com/chi-siamo/",
+   "quote": "forniamo energia a case, aziende e condomini"
+  },
+  {
+   "claim": "energia da fonti rinnovabili e gas",
+   "url": "https://dufercoenergia.com/",
+   "quote": "Energia 100% da fonti rinnovabili e gas"
+  },
+  {
+   "claim": "serve grandi aziende e gruppi industriali",
+   "url": "https://dufercoenergia.com/luce-gas/grandi-clienti/",
+   "quote": "partner ideale per grandi aziende e gruppi industriali"
+  },
+  {
+   "claim": "fornitura energetica per grandi clienti",
+   "url": "https://dufercoenergia.com/luce-gas/grandi-clienti/",
+   "quote": "Fornitura energetica per grandi clienti"
+  },
+  {
+   "claim": "key account manager dedicato per i grandi clienti",
+   "url": "https://dufercoenergia.com/luce-gas/grandi-clienti/",
+   "quote": "Key Account Manager dedicato"
+  },
+  {
+   "claim": "si rivolge a grandi aziende e gruppi industriali",
+   "url": "https://dufercoenergia.com/luce-gas/grandi-clienti/",
+   "quote": "partner ideale per grandi aziende e gruppi industriali"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "grandi aziende e gruppi industriali"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

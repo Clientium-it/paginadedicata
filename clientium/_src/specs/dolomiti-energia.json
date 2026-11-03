@@ -1,0 +1,75 @@
+{
+ "slug": "dolomiti-energia",
+ "company": "Dolomiti Energia",
+ "first_name": "Mauro",
+ "domain": "gruppodolomitienergia.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Produce, gestisce e fornisce energia da fonti rinnovabili in tutta Italia. Ecco chi contatteremmo per Dolomiti Energia.",
+ "market_note": "Dolomiti Energia progetta, realizza e manutiene impianti fotovoltaici chiavi in mano per imprese e Pubbliche Amministrazioni, quindi parleremmo con chi decide su energia e consumi in azienda.",
+ "evidence": [
+  {
+   "claim": "Produce, gestisce e fornisce energia da fonti rinnovabili in tutta Italia",
+   "url": "https://www.gruppodolomitienergia.it/it",
+   "quote": "produce, gestisce e fornisce energia da fonti rinnovabili in tutta Italia"
+  },
+  {
+   "claim": "Realizza impianti fotovoltaici per imprese e Pubbliche Amministrazioni",
+   "url": "https://www.gruppodolomitienergia.it/it/attivita/offerte-e-servizi.html",
+   "quote": "impianti fotovoltaici chiavi in mano e su misura per imprese e Pubbliche Amministrazioni"
+  },
+  {
+   "claim": "Progetta, realizza e manutiene impianti fotovoltaici chiavi in mano",
+   "url": "https://www.gruppodolomitienergia.it/it/attivita/offerte-e-servizi.html",
+   "quote": "Progettiamo, realizziamo e manuteniamo impianti fotovoltaici chiavi in mano"
+  },
+  {
+   "claim": "Serve imprese in tutta Italia con soluzioni energetiche",
+   "url": "https://www.gruppodolomitienergia.it/it",
+   "quote": "Forniamo a persone e imprese in tutta Italia soluzioni energetiche integrate"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "fotovoltaico ed efficienza energetica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

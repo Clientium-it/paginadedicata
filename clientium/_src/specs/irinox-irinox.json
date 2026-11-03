@@ -1,0 +1,75 @@
+{
+ "slug": "irinox-irinox",
+ "company": "Irinox",
+ "first_name": "Auri",
+ "domain": "irinox.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Specialista nella produzione di abbattitori rapidi di temperatura e quadri elettrici in acciaio inox. Ecco chi contatteremmo per Irinox.",
+ "market_note": "Irinox produce abbattitori rapidi di temperatura e quadri elettrici in acciaio inox per il settore professionale e domestico, quindi parleremmo con chi guida acquisti e produzione nelle aziende industriali.",
+ "evidence": [
+  {
+   "claim": "Irinox produce abbattitori rapidi di temperatura, sistemi di conservazione e quadri elettrici in acciaio inox",
+   "url": "https://www.irinox.com/ita/",
+   "quote": "specialista nella produzione di abbattitori rapidi di temperatura e di sistemi di conservazione di alta qualità per il settore professionale e domestico e di quadri elettrici in acciaio inox"
+  },
+  {
+   "claim": "Vende per il settore professionale e domestico",
+   "url": "https://www.irinox.com/ita/azienda/storia",
+   "quote": "specialista nella produzione di abbattitori rapidi di temperatura e di sistemi di conservazione di alta qualità per il settore professionale e domestico e di quadri elettrici in acciaio inox"
+  },
+  {
+   "claim": "Produzione realizzata alle porte di Treviso",
+   "url": "https://www.irinox.com/ita/",
+   "quote": "La produzione, Made in Italy, è interamente realizzata presso i propri stabilimenti alle porte di Treviso."
+  },
+  {
+   "claim": "Prodotti per il settore professionale e domestico",
+   "url": "https://www.irinox.com/ita/azienda/siamo-b-corp",
+   "quote": "specialista nella produzione di abbattitori rapidi di temperatura e di sistemi di conservazione di alta qualità per il settore professionale e domestico e di quadri elettrici in acciaio inox"
+  }
+ ],
+ "market": {
+  "count": "124.079",
+  "label": "titolari, CEO e direttori di aziende italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10 a 250 addetti",
+   "settore professionale e domestico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

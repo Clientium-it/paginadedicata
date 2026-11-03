@@ -1,0 +1,97 @@
+{
+ "slug": "sit",
+ "company": "SIT",
+ "first_name": "Alessandro",
+ "domain": "sitbrush.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Spazzole industriali e tecniche per la finitura delle superfici, dal 1908. Ecco chi contatteremmo per SIT.",
+ "market_note": "SIT produce da Bologna spazzole industriali per laminatoi, fonderie, lavorazione del legno e fotovoltaico, quindi parleremmo con titolari e direttori di produzione delle aziende manifatturiere.",
+ "evidence": [
+  {
+   "claim": "Produce spazzole industriali e tecniche",
+   "url": "https://sitbrush.com/contact-us/about-us/",
+   "quote": "a wide range of industrial and technical brushes we create"
+  },
+  {
+   "claim": "Soluzioni per la finitura delle superfici",
+   "url": "https://sitbrush.com/contact-us/about-us/",
+   "quote": "We develop best possible solutions for surface finishing"
+  },
+  {
+   "claim": "Attiva dal 1908",
+   "url": "https://sitbrush.com/contact-us/about-us/",
+   "quote": "About us An Italian story, since 1908"
+  },
+  {
+   "claim": "Sede a Bologna",
+   "url": "https://sitbrush.com/",
+   "quote": "Via Porrettana 453 Casalecchio di Reno 40033 Bologna, Italy."
+  },
+  {
+   "claim": "Spazzole per laminatoi e lavorazione del legno",
+   "url": "https://sitbrush.com/",
+   "quote": "Brushes for rolling mills Brushing Units for conveyor belts Brushes for tyre retreading industry Brushes for woodworking"
+  },
+  {
+   "claim": "Spazzole per fonderie e pannelli fotovoltaici",
+   "url": "https://sitbrush.com/",
+   "quote": "Brushes for pipe deburring Brushes for the pipeline industry Brushes for foundry industry Brush for photovoltaic and solar panels"
+  },
+  {
+   "claim": "Leader sul mercato italiano nelle spazzole per uso industriale",
+   "url": "https://sitbrush.com/contact-us/about-us/",
+   "quote": "has steered us to a leadership position on the Italian market"
+  },
+  {
+   "claim": "Spazzole per uso industriale e fai da te",
+   "url": "https://sitbrush.com/contact-us/",
+   "quote": "SIT has been the leader in the production of brushes for industrial use and for D.I.Y for over 50 years"
+  }
+ ],
+ "market": {
+  "count": "2.467",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "fonderie",
+   "lavorazione del legno",
+   "fotovoltaico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"industrial manufacturing,foundries,wood processing,solar\"}"
+ }
+}

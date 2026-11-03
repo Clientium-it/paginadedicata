@@ -1,0 +1,77 @@
+{
+ "slug": "prima-power",
+ "company": "Prima Power",
+ "first_name": "Giovanni",
+ "domain": "primapower.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Macchine ad alte prestazioni per la lavorazione della lamiera. Ecco chi contatteremmo per Prima Power.",
+ "market_note": "Prima Power fornisce macchine e soluzioni automatizzate per la lavorazione della lamiera ai settori ad alta tecnologia, quindi parleremmo con chi decide su produzione e nuovi impianti.",
+ "evidence": [
+  {
+   "claim": "macchine ad alte prestazioni per la lavorazione della lamiera",
+   "url": "https://www.primapower.com/it",
+   "quote": "macchine ad alte prestazioni e soluzioni automatizzate mirate che migliorano la produttività nella lavorazione della lamiera"
+  },
+  {
+   "claim": "al servizio dei settori ad alta tecnologia",
+   "url": "https://www.primapower.com/it/settori",
+   "quote": "Al servizio dei settori ad alta tecnologia con conoscenze specializzate"
+  },
+  {
+   "claim": "prima macchina laser per il taglio di componenti di carrozzeria nel 1979",
+   "url": "https://www.primapower.com/it/settori/automotive",
+   "quote": "La nostra prima macchina laser per il taglio di componenti di carrozzeria risale al 1979"
+  },
+  {
+   "claim": "serve una vasta gamma di settori industriali",
+   "url": "https://www.primapower.com/it/settori",
+   "quote": "Prima Power offre soluzioni che soddisfano una vasta gamma di settori industriali"
+  }
+ ],
+ "market": {
+  "count": "28.527",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "automotive",
+   "aerospaziale",
+   "meccanica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive,aerospace,machinery manufacturing,heating, ventilation, and air conditioning (hvac),energy,manufacturing\"}"
+ }
+}

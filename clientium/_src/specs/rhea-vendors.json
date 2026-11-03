@@ -1,0 +1,80 @@
+{
+ "slug": "rhea-vendors",
+ "company": "Rhea Vendors",
+ "first_name": "Andrea",
+ "domain": "rheavendors.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Macchine da caffè Made in Italy dal 1960. Ecco chi contatteremmo per Rhea Vendors.",
+ "market_note": "Rhea Vendors produce macchine da caffè Made in Italy per contesti come uffici e business lounge, quindi parleremmo con chi decide gli acquisti e i servizi per questi spazi.",
+ "evidence": [
+  {
+   "claim": "Macchine da caffè dal 1960",
+   "url": "https://www.rheavendors.com/en/",
+   "quote": "Coffee machines and not only, since 1960."
+  },
+  {
+   "claim": "Macchine su misura Made in Italy",
+   "url": "https://www.rheavendors.com/en/about/tailor-made/",
+   "quote": "Rhea is committed to supplying custom machines, proudly Made in Italy"
+  },
+  {
+   "claim": "Contesti serviti come uffici e business lounge",
+   "url": "https://www.rheavendors.com/en/about/tailor-made/",
+   "quote": "CO-WORKING SPACES | EXECUTIVE OFFICES | BUSINESS LOUNGES"
+  },
+  {
+   "claim": "Macchine su misura Made in Italy dal 1960",
+   "url": "https://www.rheavendors.com/en/about/tailor-made/",
+   "quote": "Rhea is committed to supplying custom machines, proudly Made in Italy"
+  },
+  {
+   "claim": "Esportano nel mondo, zona non limitata",
+   "url": "https://www.rheavendors.com/en/",
+   "quote": "We export Italian manufacturing excellence and coffee culture to the world"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

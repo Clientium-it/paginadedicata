@@ -1,0 +1,77 @@
+{
+ "slug": "iseo",
+ "company": "ISEO",
+ "first_name": "Alessandro",
+ "domain": "iseo.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Sistemi meccanici ed elettronici per il controllo degli accessi. Ecco chi contatteremmo per ISEO.",
+ "market_note": "ISEO porta i suoi sistemi di controllo accessi nel real estate, negli edifici pubblici e nelle utilities, quindi parleremmo con chi guida sicurezza e operazioni nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Produce sistemi meccanici ed elettronici per il controllo degli accessi",
+   "url": "https://iseo.com/it",
+   "quote": "sistemi meccanici ed elettronici per il controllo degli accessi"
+  },
+  {
+   "claim": "Fornisce sistemi di controllo accessi per real estate, edifici pubblici e utilities",
+   "url": "https://iseo.com/it/prodotti/connected/connected-systems/dispositivi",
+   "quote": "Sistemi di controllo accessi per il real estate, gli edifici pubblici e le utilities."
+  },
+  {
+   "claim": "Sistemi di controllo accessi per real estate, edifici pubblici e utilities",
+   "url": "https://iseo.com/it/prodotti/connected/connected-systems/dispositivi",
+   "quote": "Sistemi di controllo accessi per il real estate, gli edifici pubblici e le utilities."
+  },
+  {
+   "claim": "Serve settori come banche, healthcare, istruzione, telecomunicazioni e trasporti",
+   "url": "https://iseo.com/it",
+   "quote": "Banche Coliving Coworking Energia elettrica Energia solare ed eolica Healthcare Istruzione"
+  }
+ ],
+ "market": {
+  "count": "34.532",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre i 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "real estate",
+   "utilities",
+   "banche e healthcare"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"real estate,utilities,banking,health care,education,oil and gas,telecommunications,transportation,renewable energy,coworking\"}"
+ }
+}

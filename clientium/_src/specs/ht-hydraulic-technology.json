@@ -1,0 +1,92 @@
+{
+ "slug": "ht-hydraulic-technology",
+ "company": "HT Hydraulic Technology",
+ "first_name": "Arianna",
+ "domain": "ht-hydraulic.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Sistemi oleodinamici su misura per ogni cliente industriale, dalla siderurgia all'alimentare. Ecco chi contatteremmo per HT Hydraulic Technology.",
+ "market_note": "HT Hydraulic Technology progetta e realizza sistemi oleodinamici su misura per le aziende industriali, dalla siderurgia all'alimentare, quindi parleremmo con chi decide su impianti e manutenzione.",
+ "evidence": [
+  {
+   "claim": "Progetta e realizza sistemi oleodinamici su misura per ogni cliente finale",
+   "url": "https://www.ht-hydraulic.net/",
+   "quote": "progettiamo e realizziamo sistemi oleodinamici per soddisfare le esigenze specifiche di ogni cliente finale"
+  },
+  {
+   "claim": "Serve settori dall'industria siderurgica a quella alimentare",
+   "url": "https://www.ht-hydraulic.net/",
+   "quote": "Dall’industria siderurgica a quella alimentare"
+  },
+  {
+   "claim": "Progetta e realizza sistemi oleodinamici personalizzati",
+   "url": "https://www.ht-hydraulic.net/chi-siamo/",
+   "quote": "progettiamo e realizziamo sistemi oleodinamici personalizzati"
+  },
+  {
+   "claim": "Affianca le aziende sugli impianti oleodinamici",
+   "url": "https://www.ht-hydraulic.net/i-servizi/",
+   "quote": "affianchiamo le aziende con servizi tecnici specializzati per la gestione, la manutenzione e l’evoluzione degli impianti oleodinamici"
+  },
+  {
+   "claim": "Progetta e realizza centrali e blocchi oleodinamici su misura",
+   "url": "https://www.ht-hydraulic.net/i-prodotti/",
+   "quote": "progettazione e realizzazione di centrali e blocchi oleodinamici su misura"
+  },
+  {
+   "claim": "Destinati a una vasta gamma di applicazioni industriali",
+   "url": "https://www.ht-hydraulic.net/i-prodotti/",
+   "quote": "destinati a una vasta gamma di applicazioni industriali"
+  },
+  {
+   "claim": "Settori clienti dall'industria siderurgica a quella alimentare",
+   "url": "https://www.ht-hydraulic.net/",
+   "quote": "Dall’industria siderurgica a quella alimentare"
+  }
+ ],
+ "market": {
+  "count": "8.839",
+  "label": "titolari, CEO e direttori tecnici di aziende industriali italiane da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "aziende industriali",
+   "macchinari",
+   "alimentare"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"companyIndustry\": \"industrial machinery manufacturing,machinery manufacturing,plastics manufacturing,food and beverage manufacturing,hydroelectric\"}"
+ }
+}

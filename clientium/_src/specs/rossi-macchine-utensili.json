@@ -1,0 +1,85 @@
+{
+ "slug": "rossi-macchine-utensili",
+ "company": "Rossi Macchine Utensili",
+ "first_name": "Giuseppe",
+ "domain": "rossimacchine.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Importatore esclusivo dei torni Muratec con soluzioni chiavi in mano. Ecco chi contatteremmo per Rossi Macchine Utensili.",
+ "market_note": "Rossi Macchine Utensili importa in esclusiva per l'Italia i torni Muratec e installa impianti chiavi in mano, quindi parleremmo con chi guida le aziende meccaniche che lavorano con il tornio.",
+ "evidence": [
+  {
+   "claim": "Importatore esclusivo dei torni Muratec",
+   "url": "https://www.rossimacchine.it/azienda/",
+   "quote": "importatore esclusivo per l’ Italia dei torni bimandrino robotizzati costruiti dalla Muratec Machinery co.jp."
+  },
+  {
+   "claim": "soluzioni chiavi in mano",
+   "url": "https://www.rossimacchine.it/azienda/",
+   "quote": "soluzioni chiavi in mano con elevata personalizzazione"
+  },
+  {
+   "claim": "importa in esclusiva per l'Italia i torni Muratec",
+   "url": "https://www.rossimacchine.it/azienda/",
+   "quote": "importatore esclusivo per l’ Italia dei torni bimandrino robotizzati costruiti dalla Muratec Machinery co.jp."
+  },
+  {
+   "claim": "installa impianti chiavi in mano",
+   "url": "https://www.rossimacchine.it/azienda/",
+   "quote": "soluzioni chiavi in mano con elevata personalizzazione"
+  },
+  {
+   "claim": "importa in esclusiva i torni bimandrino robotizzati Muratec",
+   "url": "https://www.rossimacchine.it/azienda/",
+   "quote": "importatore esclusivo per l’ Italia dei torni bimandrino robotizzati costruiti dalla Muratec Machinery co.jp."
+  },
+  {
+   "claim": "importatore per l'Italia, mercato nazionale",
+   "url": "https://www.rossimacchine.it/azienda/",
+   "quote": "importatore esclusivo per l’ Italia dei torni bimandrino robotizzati costruiti dalla Muratec Machinery co.jp."
+  }
+ ],
+ "market": {
+  "count": "85.871",
+  "label": "titolari, CEO e direttori di aziende meccaniche e manifatturiere italiane da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "aziende meccaniche"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250}"
+ }
+}

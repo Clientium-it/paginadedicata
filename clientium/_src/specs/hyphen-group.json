@@ -1,0 +1,77 @@
+{
+ "slug": "hyphen-group",
+ "company": "Hyphen-Group",
+ "first_name": "Alessio",
+ "domain": "hyphen-group.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "La fabbrica di contenuti digitali per i brand del lusso e della moda. Ecco chi contatteremmo per Hyphen-Group.",
+ "market_note": "Hyphen-Group supporta i brand globali del lusso e del retail nell'ottimizzazione dei processi di produzione e distribuzione dei contenuti, quindi parleremmo con chi guida tecnologia, marketing ed e-commerce.",
+ "evidence": [
+  {
+   "claim": "Fabbrica di contenuti digitali per lusso e moda",
+   "url": "https://www.hyphen-group.com/",
+   "quote": "La Fabbrica di Contenuti Digitali per Lusso e Moda"
+  },
+  {
+   "claim": "Supporta i brand globali del lusso e del retail",
+   "url": "https://www.hyphen-group.com/chi-siamo/",
+   "quote": "Dal 1998 supportiamo brand globali del lusso e del retail"
+  },
+  {
+   "claim": "Supporta i brand globali del lusso e del retail",
+   "url": "https://www.hyphen-group.com/chi-siamo/",
+   "quote": "Dal 1998 supportiamo brand globali del lusso e del retail"
+  },
+  {
+   "claim": "Settori clienti dichiarati: moda, lusso, retail, FMCG, publisher",
+   "url": "https://www.hyphen-group.com/",
+   "quote": "Fashion & Luxury Retail & FMCG General Industry Publisher & Agency"
+  }
+ ],
+ "market": {
+  "count": "11.366",
+  "label": "titolari, CEO e direttori di brand del lusso, moda e retail da oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "lusso e moda",
+   "retail e FMCG",
+   "publisher"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"retail apparel and fashion,retail luxury goods and jewelry,retail,fast-moving consumer goods,publishing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

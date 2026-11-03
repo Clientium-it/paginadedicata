@@ -1,0 +1,76 @@
+{
+ "slug": "phse",
+ "company": "PHSE",
+ "first_name": "Fabio",
+ "domain": "phse.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Leader nella logistica farmaceutica a temperatura controllata per ospedali e ricerca clinica. Ecco chi contatteremmo per PHSE.",
+ "market_note": "PHSE gestisce il trasporto a temperatura controllata di farmaci e campioni biologici per ospedali e ricerca clinica, quindi parleremmo con chi decide la supply chain in aziende farmaceutiche e biotech.",
+ "evidence": [
+  {
+   "claim": "Leader nella logistica farmaceutica a temperatura controllata per ospedali e ricerca clinica",
+   "url": "https://phse.com/about-us/",
+   "quote": "PHSE is today a leader in the temperature-controlled transport of pharmaceuticals, biotech, clinical trials and biological samples serving the hospital, home and clinical research channels."
+  },
+  {
+   "claim": "trasporto a temperatura controllata di farmaci, biotech e campioni biologici per ospedali e ricerca clinica",
+   "url": "https://phse.com/about-us/",
+   "quote": "PHSE is today a leader in the temperature-controlled transport of pharmaceuticals, biotech, clinical trials and biological samples serving the hospital, home and clinical research channels."
+  },
+  {
+   "claim": "serve ospedali, home care e ricerca clinica",
+   "url": "https://phse.com/about-us/",
+   "quote": "PHSE is today a leader in the temperature-controlled transport of pharmaceuticals, biotech, clinical trials and biological samples serving the hospital, home and clinical research channels."
+  },
+  {
+   "claim": "opera in Italia nel trasporto e distribuzione di farmaci",
+   "url": "https://phse.com/drug-delivery-services/",
+   "quote": "PHSE is now a leading company in Italy in the transport and distribution of commercial and investigational drugs for hospital channels"
+  }
+ ],
+ "market": {
+  "count": "4.827",
+  "label": "titolari, CEO e direttori di aziende farmaceutiche e biotech in Italia con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "farmaceutico",
+   "biotech"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"pharmaceutical,biotechnology\"}"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "mattei",
+ "company": "Mattei",
+ "first_name": "Christophe",
+ "domain": "matteigroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Compressori rotativi a palette per tutte le industrie. Ecco chi contatteremmo per Mattei.",
+ "market_note": "Mattei produce compressori rotativi a palette per settori come manifattura, automotive e alimentare, quindi parleremmo con chi decide gli investimenti in aria compressa e impianti di produzione.",
+ "evidence": [
+  {
+   "claim": "Mattei produce compressori rotativi a palette per tutte le industrie",
+   "url": "https://www.matteigroup.com/",
+   "quote": "rotary vane compressors for all industries"
+  },
+  {
+   "claim": "serve settori come manifattura, automotive, trasporto, agricoltura e alimentare",
+   "url": "https://www.matteigroup.com/",
+   "quote": "MANUFACTURING AUTOMOTIVE PEOPLE AND GOODS TRANSPORT AGRICULTURE FOOD"
+  },
+  {
+   "claim": "produce compressori rotativi a palette",
+   "url": "https://www.matteigroup.com/",
+   "quote": "Mattei has been manufacturing rotary vane compressors since the 1950s"
+  },
+  {
+   "claim": "dichiara settori clienti tra cui farmaceutico e chimico",
+   "url": "https://www.matteigroup.com/",
+   "quote": "HEALTHCARE - PHARMACEUTICAL EARTHMOVING - CONSTRUCTION CHEMICAL - PETROCHEMICAL"
+  }
+ ],
+ "market": {
+  "count": "10.381",
+  "label": "titolari, CEO e direttori di aziende industriali italiane da 50 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "50-250 addetti",
+   "manifattura",
+   "automotive",
+   "alimentare"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"maxEmployees\": 250, \"companyIndustry\": \"manufacturing,automotive,food and beverage,pharmaceutical,agriculture,chemical\"}"
+ }
+}

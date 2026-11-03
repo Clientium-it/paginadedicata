@@ -1,0 +1,75 @@
+{
+ "slug": "jet-hr",
+ "company": "Jet HR",
+ "first_name": "Walter",
+ "domain": "jethr.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Software HR per assumere, gestire e pagare i dipendenti in un unico sistema. Ecco chi contatteremmo per Jet HR.",
+ "market_note": "Jet HR offre un software per assumere, gestire e pagare il personale delle aziende italiane, quindi parleremmo con chi guida impresa e risorse umane.",
+ "evidence": [
+  {
+   "claim": "Jet HR offre un software per assumere, gestire e pagare i dipendenti in un unico sistema",
+   "url": "https://www.jethr.com/",
+   "quote": "Assumi, gestisci e paga i dipendenti con un unico software HR"
+  },
+  {
+   "claim": "aiuta le aziende a gestire e pagare il personale con un unico software HR",
+   "url": "https://www.jethr.com/",
+   "quote": "Assumi, gestisci e paga i dipendenti con un unico software HR"
+  },
+  {
+   "claim": "gestisce assunzione e paga del personale delle aziende",
+   "url": "https://www.jethr.com/",
+   "quote": "assumi, gestisci e paghi il personale"
+  },
+  {
+   "claim": "si rivolge alle aziende italiane su tutto il territorio nazionale",
+   "url": "https://www.jethr.com/",
+   "quote": "ogni azienda italiana può risparmiare in media"
+  }
+ ],
+ "market": {
+  "count": "86.964",
+  "label": "titolari, CEO e amministratori di aziende italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "titolari, CEO e amministratori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

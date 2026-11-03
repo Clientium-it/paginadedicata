@@ -1,0 +1,83 @@
+{
+ "slug": "retelit",
+ "company": "Retelit",
+ "first_name": "Gianluca",
+ "domain": "retelit.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Connettività, data center, cloud e cybersecurity per il mercato B2B italiano. Ecco chi contatteremmo per Retelit.",
+ "market_note": "Retelit è leader in Italia nelle telecomunicazioni e lavora sul mercato B2B con connettività, data center, cloud e cybersecurity, quindi parleremmo con chi guida le scelte IT.",
+ "evidence": [
+  {
+   "claim": "Offre connettività, data center e cloud per il B2B",
+   "url": "https://retelit.it/it/",
+   "quote": "Connettività, data center e cloud B2B"
+  },
+  {
+   "claim": "Leader nelle telecomunicazioni focalizzato sul mercato B2B",
+   "url": "https://retelit.it/it/",
+   "quote": "Leader in Italia nelle telecomunicazioni, focalizzati sul mercato B2B"
+  },
+  {
+   "claim": "Leader nelle telecomunicazioni focalizzato sul mercato B2B",
+   "url": "https://retelit.it/it/",
+   "quote": "Leader in Italia nelle telecomunicazioni, focalizzati sul mercato B2B"
+  },
+  {
+   "claim": "Serve il settore finanziario con data center e cybersecurity",
+   "url": "https://retelit.it/it/",
+   "quote": "Bassa latenza, data center sicuri e cybersecurity gestita per il settore finanziario, in linea con DORA e NIS2."
+  },
+  {
+   "claim": "Rete che collega l'Italia a livello internazionale",
+   "url": "https://retelit.it/it/",
+   "quote": "connettere l’Italia con Europa, Asia, Middle East e Africa"
+  }
+ ],
+ "market": {
+  "count": "5.650",
+  "label": "CIO, CTO e responsabili IT di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "banche e fintech",
+   "sanità e utility",
+   "manifatturiero",
+   "media e retail"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"banking,insurance,fintech,health care,utilities,manufacturing,media and entertainment,retail,transportation, logistics, supply chain and storage,information technology\"}"
+ }
+}

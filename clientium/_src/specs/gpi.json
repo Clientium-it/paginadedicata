@@ -1,0 +1,80 @@
+{
+ "slug": "gpi",
+ "company": "GPI",
+ "first_name": "Vincenzo",
+ "domain": "gpigroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni software e servizi per la trasformazione tecnologica e sostenibile della Sanita. Ecco chi contatteremmo per GPI.",
+ "market_note": "GPI realizza e fornisce a livello globale soluzioni software e servizi per la trasformazione tecnologica e sostenibile della Sanita, quindi parleremmo con chi guida i sistemi informativi delle organizzazioni sanitarie.",
+ "evidence": [
+  {
+   "claim": "soluzioni software e servizi",
+   "url": "https://www.gpigroup.com/",
+   "quote": "Realizziamo e forniamo a livello globale soluzioni software e servizi, in modalità open innovation."
+  },
+  {
+   "claim": "trasformazione tecnologica e sostenibile della Sanita",
+   "url": "https://www.gpigroup.com/",
+   "quote": "facilita il percorso di trasformazione tecnologica e sostenibile della Sanità"
+  },
+  {
+   "claim": "soluzioni software e servizi a livello globale",
+   "url": "https://www.gpigroup.com/",
+   "quote": "Realizziamo e forniamo a livello globale soluzioni software e servizi, in modalità open innovation."
+  },
+  {
+   "claim": "soluzioni software e servizi per la Sanita",
+   "url": "https://www.gpigroup.com/",
+   "quote": "facilita il percorso di trasformazione tecnologica e sostenibile della Sanità"
+  },
+  {
+   "claim": "settore servito: Sanita",
+   "url": "https://www.gpigroup.com/",
+   "quote": "facilita il percorso di trasformazione tecnologica e sostenibile della Sanità"
+  }
+ ],
+ "market": {
+  "count": "215",
+  "label": "responsabili IT e CTO di organizzazioni sanitarie italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "sanita"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"hospitals and health care\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

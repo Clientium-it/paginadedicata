@@ -1,0 +1,87 @@
+{
+ "slug": "frigoveneta",
+ "company": "Frigoveneta",
+ "first_name": "Marco",
+ "domain": "frigoveneta.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progettazione e realizzazione di sistemi di refrigerazione industriale e impianti frigoriferi. Ecco chi contatteremmo per Frigoveneta.",
+ "market_note": "Frigoveneta progetta e realizza impianti frigoriferi per la Grande Distribuzione, le cantine e le industrie alimentari, quindi parleremmo con chi guida queste aziende e decide sugli impianti di refrigerazione.",
+ "evidence": [
+  {
+   "claim": "Progetta e realizza sistemi di refrigerazione industriale e impianti frigoriferi",
+   "url": "https://www.frigoveneta.it/",
+   "quote": "progettazione e realizzazione di sistemi di refrigerazione industriale"
+  },
+  {
+   "claim": "Specializzata nella refrigerazione industriale dal 1980",
+   "url": "https://www.frigoveneta.it/",
+   "quote": "Dal 1980 la nostra azienda è specializzata nella progettazione e realizzazione di sistemi di refrigerazione industriale"
+  },
+  {
+   "claim": "Serve la Grande Distribuzione",
+   "url": "https://www.frigoveneta.it/it/settori/supermercati",
+   "quote": "Al servizio della Grande Distribuzione abbiamo messo a punto una gamma di macchine compatte, silenziose ed efficienti."
+  },
+  {
+   "claim": "Serve le cantine vinicole",
+   "url": "https://www.frigoveneta.it/it/settori/cantine",
+   "quote": "Al servizio della vinificazione impianti completi ed efficienti per un risultato ottimale in tutte le fasi"
+  },
+  {
+   "claim": "Settori serviti dagli impianti frigoriferi",
+   "url": "https://www.frigoveneta.it/",
+   "quote": "Supermercati Cantine Ortofrutta Maturazione banane Surgelati Centri distributivi Applicazioni speciali Industrie alimentari"
+  },
+  {
+   "claim": "Assistenza in tutta Italia",
+   "url": "https://www.frigoveneta.it/it/settori/supermercati",
+   "quote": "interventi tempestivi in tutta Italia grazie alla rete di collaboratori selezionati e formati"
+  }
+ ],
+ "market": {
+  "count": "3.708",
+  "label": "titolari, CEO e direttori di aziende agroalimentari, supermercati e cantine in tutta Italia oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "industrie alimentari",
+   "supermercati",
+   "cantine"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"food and beverage manufacturing,retail groceries,winery,agriculture,warehousing\"}"
+ }
+}

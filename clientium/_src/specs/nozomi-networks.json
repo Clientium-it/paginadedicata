@@ -1,0 +1,82 @@
+{
+ "slug": "nozomi-networks",
+ "company": "Nozomi Networks",
+ "first_name": "Fabio",
+ "domain": "nozominetworks.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Cybersecurity per ambienti OT e IoT nelle infrastrutture critiche e industriali. Ecco chi contatteremmo per Nozomi Networks.",
+ "market_note": "Nozomi Networks protegge gli ambienti OT e IoT delle infrastrutture critiche e delle operazioni industriali nei settori più esigenti, quindi parleremmo con chi guida sicurezza e tecnologia operativa.",
+ "evidence": [
+  {
+   "claim": "Rende resilienti le infrastrutture critiche e la tecnologia operativa",
+   "url": "https://www.nozominetworks.com/",
+   "quote": "We keep critical infrastructure and operational technology cyber resilient."
+  },
+  {
+   "claim": "Protegge ambienti OT e IoT nei settori più esigenti",
+   "url": "https://www.nozominetworks.com/solutions/iot-ot-asset-inventory-management",
+   "quote": "Nozomi Networks protects OT and IoT environments in the world's most demanding sectors."
+  },
+  {
+   "claim": "Si rivolge a infrastrutture critiche e team di sicurezza industriale",
+   "url": "https://www.nozominetworks.com/solutions/threat-detection-and-response",
+   "quote": "Threat Detection & Response for Critical Infrastructure and Industrial Security Teams"
+  },
+  {
+   "claim": "Protegge ambienti OT e IoT nei settori più esigenti",
+   "url": "https://www.nozominetworks.com/solutions/iot-ot-asset-inventory-management",
+   "quote": "Nozomi Networks protects OT and IoT environments in the world's most demanding sectors."
+  },
+  {
+   "claim": "Settori clienti serviti dichiarati dal sito",
+   "url": "https://www.nozominetworks.com/",
+   "quote": "Airports Electric Utilities Healthcare Manufacturing Maritime Mining Oil & Gas Pharmaceutical Rail Retail Smart Cities Stadiums & Arenas Water & Wastewater"
+  }
+ ],
+ "market": {
+  "count": "2.161",
+  "label": "responsabili IT e sicurezza di aziende industriali e infrastrutture critiche in Italia con oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "manifattura",
+   "energia e utility",
+   "oil and gas"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"manufacturing,oil and gas,mining,pharmaceutical,retail,utilities,health care,maritime transportation,railroad\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

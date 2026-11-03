@@ -1,0 +1,88 @@
+{
+ "slug": "stm",
+ "company": "STM",
+ "first_name": "Luigi",
+ "domain": "stmspa.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Riduttori e motoriduttori per la trasmissione di potenza nel settore industriale. Ecco chi contatteremmo per STM.",
+ "market_note": "STM produce da Calderara di Reno riduttori e motoriduttori per l'industria pesante, dal chimico al sollevamento, quindi parleremmo con titolari e direttori tecnici di aziende manifatturiere.",
+ "evidence": [
+  {
+   "claim": "STM fa riduttori e motoriduttori per la trasmissione di potenza nel settore industriale",
+   "url": "https://www.stmspa.com/",
+   "quote": "Soluzioni innovative per la trasmissione di potenza nel settore industriale"
+  },
+  {
+   "claim": "Sede a Calderara di Reno",
+   "url": "https://www.stmspa.com/",
+   "quote": "Via del Maccabreccia, 39 40012 Lippo di Calderara di Reno (BO)"
+  },
+  {
+   "claim": "Riduttori per l'industria medio pesante e pesante",
+   "url": "https://www.stmspa.com/it/prodotti/riduttori-paralleli-sr-13",
+   "quote": "esigenze di trasmissione di potenza dell’industria medio-pesante e pesante"
+  },
+  {
+   "claim": "Settori serviti chimico, trasportatori, sollevamento",
+   "url": "https://www.stmspa.com/",
+   "quote": "I settori nei quali operiamo Chimico Efficienza in movimento"
+  },
+  {
+   "claim": "Riduttori pendolari per nastri trasportatori, all'aperto e nell'industria mineraria",
+   "url": "https://www.stmspa.com/it/prodotti/riduttori-pendolari-sr-2",
+   "quote": "particolarmente adatti nell’azionamento di nastri trasportatori, soprattutto nelle installazioni all’aperto e nell’industria mineraria"
+  },
+  {
+   "claim": "Riduttori anche per miniere, estrusori e torri di raffreddamento",
+   "url": "https://www.stmspa.com/it/prodotti/riduttori-ortogonali-sr-3",
+   "quote": "per estrusori monovite RXO-V-EST/700-800 e per miniere RXMaster"
+  }
+ ],
+ "market": {
+  "count": "5.392",
+  "label": "titolari, CEO e direttori di aziende industriali italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "chimico",
+   "trasportatori",
+   "sollevamento",
+   "minerario"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"chemical,mining,industrial machinery manufacturing\"}"
+ }
+}

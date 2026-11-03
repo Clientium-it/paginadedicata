@@ -1,0 +1,85 @@
+{
+ "slug": "greenergy",
+ "company": "Greenergy",
+ "first_name": "Mariangela",
+ "domain": "greenergy.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progettazione, costruzione e gestione di impianti fotovoltaici per aziende e pubbliche amministrazioni. Ecco chi contatteremmo per Greenergy.",
+ "market_note": "Greenergy progetta e costruisce impianti fotovoltaici per imprese e pubbliche amministrazioni in tutta Italia, quindi parleremmo con chi decide su efficienza energetica e investimenti in rinnovabili.",
+ "evidence": [
+  {
+   "claim": "Progetta, costruisce e gestisce impianti fotovoltaici",
+   "url": "https://www.greenergy.it/",
+   "quote": "progettazione, costruzione e gestione di impianti fotovoltaici"
+  },
+  {
+   "claim": "Lavora con aziende e pubbliche amministrazioni",
+   "url": "https://www.greenergy.it/chi-siamo",
+   "quote": "Greenergy lavora con aziende, organizzazioni e pubbliche amministrazioni"
+  },
+  {
+   "claim": "Partner per imprese e pubbliche amministrazioni",
+   "url": "https://www.greenergy.it/servizi",
+   "quote": "partner specializzato per le imprese e le pubbliche amministrazioni"
+  },
+  {
+   "claim": "Opera su tutto il territorio nazionale",
+   "url": "https://www.greenergy.it/chi-siamo",
+   "quote": "ha esteso la propria attività su tutto il territorio nazionale"
+  },
+  {
+   "claim": "Costruisce impianti fotovoltaici da anni",
+   "url": "https://www.greenergy.it/servizi",
+   "quote": "Realizziamo da anni impianti fotovoltaici di diverse dimensioni e in contesti molto differenti tra loro"
+  },
+  {
+   "claim": "Clienti imprese e pubbliche amministrazioni",
+   "url": "https://www.greenergy.it/servizi",
+   "quote": "partner specializzato per le imprese e le pubbliche amministrazioni"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "imprese e pubbliche amministrazioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "datapizza",
+ "company": "Datapizza",
+ "first_name": "Pierpaolo",
+ "domain": "datapizza.tech",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Strumenti AI governabili e progetti su misura per portare l'intelligenza artificiale nelle aziende. Ecco chi contatteremmo per Datapizza.",
+ "market_note": "Datapizza porta l'AI nelle aziende con strumenti governabili, percorsi di upskilling e progetti tech su misura, quindi parleremmo con chi guida innovazione e trasformazione digitale in azienda.",
+ "evidence": [
+  {
+   "claim": "Costruisce strumenti AI governabili e integrabili nelle aziende",
+   "url": "https://datapizza.tech/it/",
+   "quote": "Costruiamo strumenti AI governabili, trasparenti e progettati per essere integrati nelle aziende pronte ad evolversi."
+  },
+  {
+   "claim": "Porta l'AI nelle aziende con upskilling e progetti tech su misura",
+   "url": "https://datapizza.tech/it/",
+   "quote": "Portiamo l'AI nella tua azienda tramite percorsi di upskilling e progetti tech su misura"
+  },
+  {
+   "claim": "Costruisce strumenti AI governabili e trasparenti da integrare in azienda",
+   "url": "https://datapizza.tech/it/",
+   "quote": "Costruiamo strumenti AI governabili, trasparenti e progettati per essere integrati nelle aziende pronte ad evolversi."
+  },
+  {
+   "claim": "Progetta soluzioni AI su misura per ogni azienda",
+   "url": "https://datapizza.tech/it/",
+   "quote": "Progettiamo soluzioni AI su misura per rispondere alle esigenze uniche di ogni azienda"
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "titolari, CEO e direttori di grandi aziende italiane oltre 100 addetti pronte ad adottare l'AI",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

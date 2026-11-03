@@ -1,0 +1,82 @@
+{
+ "slug": "fulmine-group",
+ "company": "Fulmine Group",
+ "first_name": "Renato",
+ "domain": "fulminegroup.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Primo operatore privato del mercato postale con recapito tracciato in tutta Italia. Ecco chi contatteremmo per Fulmine Group.",
+ "market_note": "Fulmine Group recapita corrispondenza e pacchi per aziende, professionisti e pubblica amministrazione in tutta Italia, quindi parleremmo con chi decide su spedizioni, stampa e notifiche.",
+ "evidence": [
+  {
+   "claim": "È il primo operatore privato del mercato postale nazionale",
+   "url": "https://fulminegroup.it/",
+   "quote": "Primo Operatore Privato del Mercato Postale Nazionale"
+  },
+  {
+   "claim": "Il recapito copre circa il 70% della popolazione italiana",
+   "url": "https://fulminegroup.it/servizi/",
+   "quote": "coprendo circa il 70% della popolazione italiana"
+  },
+  {
+   "claim": "Si rivolge ad aziende, professionisti e pubblica amministrazione",
+   "url": "https://fulminegroup.it/servizio-doc/",
+   "quote": "Ideale per aziende, professionisti, piccole e medie imprese, pubblica amministrazione"
+  },
+  {
+   "claim": "Copre circa il 70% della popolazione italiana con recapito tracciato",
+   "url": "https://fulminegroup.it/servizi/",
+   "quote": "coprendo circa il 70% della popolazione italiana"
+  },
+  {
+   "claim": "Serve comuni, finance, multiutility e aziende",
+   "url": "https://fulminegroup.it/",
+   "quote": "Comuni Professionisti Finance Multiutility Aziende Cittadini"
+  }
+ ],
+ "market": {
+  "count": "25.354",
+  "label": "direttori, titolari e CEO di aziende strutturate italiane nei settori finance, utility e pubblica amministrazione",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "finance",
+   "utility",
+   "pubblica amministrazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"financial services,utilities,government administration\"}"
+ }
+}

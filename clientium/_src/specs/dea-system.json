@@ -1,0 +1,75 @@
+{
+ "slug": "dea-system",
+ "company": "DEA System",
+ "first_name": "Massimo",
+ "domain": "deasystem.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Automazione per cancelli, porte e basculanti. Ecco chi contatteremmo per DEA System.",
+ "market_note": "DEA System produce automazioni per cancelli e portoni e si rivolge esclusivamente ai professionisti dell'installazione, quindi parleremmo con chi guida le aziende di installazione e i rivenditori.",
+ "evidence": [
+  {
+   "claim": "Produce automazioni per cancelli, porte e basculanti",
+   "url": "https://www.deasystem.com/it/",
+   "quote": "Automazione per cancelli, porte e basculanti"
+  },
+  {
+   "claim": "Si rivolge esclusivamente ai professionisti dell'installazione",
+   "url": "https://www.deasystem.com/it/",
+   "quote": "rivolta esclusivamente ai professionisti dell'installazione"
+  },
+  {
+   "claim": "Produzione italiana sicura e testata",
+   "url": "https://www.deasystem.com/it/",
+   "quote": "Produzione italiana sicura e testata."
+  },
+  {
+   "claim": "Vende ai professionisti dell'installazione e automazione",
+   "url": "https://www.deasystem.com/it/",
+   "quote": "rivolti ai professionisti dell'automazione come te"
+  }
+ ],
+ "market": {
+  "count": "86.964",
+  "label": "titolari e amministratori di aziende di installazione e rivenditori in tutta Italia da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "installatori e rivenditori"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "slug": "r1-group-r1group",
+ "company": "R1 Group",
+ "first_name": "Luca",
+ "domain": "r1group.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "System Integrator che supporta le aziende italiane con soluzioni digitali innovative e su misura. Ecco chi contatteremmo per R1 Group.",
+ "market_note": "R1 Group è un System Integrator che si rivolge a imprese ed enti di ogni dimensione, quindi parleremmo con chi guida i progetti IT e la trasformazione digitale.",
+ "evidence": [
+  {
+   "claim": "supporta le aziende italiane con soluzioni digitali innovative e su misura",
+   "url": "https://r1group.it/",
+   "quote": "supporta le aziende italiane con soluzioni digitali innovative e su misura"
+  },
+  {
+   "claim": "è un System Integrator",
+   "url": "https://r1group.it/",
+   "quote": "R1 Group è un System Integrator con un’esperienza trentennale nel settore IT."
+  },
+  {
+   "claim": "si rivolge a imprese ed enti di ogni dimensione",
+   "url": "https://r1group.it/",
+   "quote": "si rivolge a imprese, enti pubblici e privati e aziende di ogni dimensione"
+  },
+  {
+   "claim": "da oltre 32 anni supporta le aziende italiane",
+   "url": "https://r1group.it/",
+   "quote": "da oltre 32 anni supporta le aziende italiane con soluzioni digitali innovative e su misura"
+  },
+  {
+   "claim": "opera in quasi tutto il territorio italiano",
+   "url": "https://r1group.it/",
+   "quote": "la realtà R1 Group in quasi tutto il territorio italiano"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "CIO e responsabili IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

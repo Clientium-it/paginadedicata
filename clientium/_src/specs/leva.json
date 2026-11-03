@@ -1,0 +1,80 @@
+{
+ "slug": "leva",
+ "company": "Leva",
+ "first_name": "Matteo",
+ "domain": "leva.io",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Installazioni cinetiche su misura e exhibit interattivi per esperienze nello spazio. Ecco chi contatteremmo per Leva.",
+ "market_note": "Leva progetta e realizza da Torino installazioni cinetiche su misura e exhibit interattivi per brand, musei e parchi a tema, quindi parleremmo con chi decide marketing ed esperienze di marca.",
+ "evidence": [
+  {
+   "claim": "installazioni cinetiche su misura e exhibit interattivi",
+   "url": "https://leva.io/",
+   "quote": "bespoke kinetic installations and interactive exhibits for experience centers, trade shows, museums and theme parks"
+  },
+  {
+   "claim": "installazioni cinetiche su misura e exhibit interattivi per fiere, musei e parchi a tema",
+   "url": "https://leva.io/",
+   "quote": "bespoke kinetic installations and interactive exhibits for experience centers, trade shows, museums and theme parks"
+  },
+  {
+   "claim": "progetta e realizza da Torino installazioni e mechatronics",
+   "url": "https://leva.io/about",
+   "quote": "From our studio in Turin, Italy, we envision, design and manufacture mechatronics and interactive installations"
+  },
+  {
+   "claim": "per brand, musei e parchi a tema",
+   "url": "https://leva.io/contact",
+   "quote": "we design, engineer and manufacture complex kinetic installations and interactive exhibits for exhibitions, airports, museums, brand spaces and theme parks"
+  },
+  {
+   "claim": "lavora senza limiti di zona, consegna in tutto il mondo",
+   "url": "https://leva.io/contact",
+   "quote": "ENGINEERED IN ITALY. DEPLOYED WORLDWIDE."
+  }
+ ],
+ "market": {
+  "count": "129.988",
+  "label": "titolari, CEO e direttori marketing di aziende strutturate in Italia con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "marketing e brand experience"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100}"
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "malpensa-intermodale",
+ "company": "Malpensa Intermodale",
+ "first_name": "Umberto",
+ "domain": "malpensaintermodale.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Servizi terminalistici per il trasporto intermodale al servizio della logistica del Nord Ovest. Ecco chi contatteremmo per Malpensa Intermodale.",
+ "market_note": "Malpensa Intermodale offre servizi terminalistici per il trasporto intermodale al servizio della logistica del Nord Ovest, quindi parleremmo con chi guida operatori logistici e imprese di trasporto del territorio.",
+ "evidence": [
+  {
+   "claim": "Offre servizi terminalistici per il trasporto intermodale",
+   "url": "https://www.malpensaintermodale.it/",
+   "quote": "Servizi terminalistici per il trasporto intermodale"
+  },
+  {
+   "claim": "Al servizio della logistica del Nord Ovest",
+   "url": "https://www.malpensaintermodale.it/",
+   "quote": "Al servizio della logistica del Nord Ovest"
+  },
+  {
+   "claim": "Riceve e gestisce treni completi per il trasporto intermodale",
+   "url": "https://www.malpensaintermodale.it/servizi/trasporto-intermodale/",
+   "quote": "Treni completi per il trasporto intermodale"
+  },
+  {
+   "claim": "Serve le imprese del territorio con servizi di spedizione",
+   "url": "https://www.malpensaintermodale.it/servizi/trasporto-convenzionale/",
+   "quote": "svolge attività a servizio delle imprese del territorio che richiedono servizi di spedizione specifici"
+  },
+  {
+   "claim": "Opera al servizio della logistica del Nord Ovest",
+   "url": "https://www.malpensaintermodale.it/",
+   "quote": "Al servizio della logistica del Nord Ovest"
+  }
+ ],
+ "market": {
+  "count": "2.155",
+  "label": "direttori, titolari e CEO di operatori logistici e imprese di trasporto del nord ovest strutturate",
+  "chips": [
+   "Nord Ovest",
+   "trasporto e logistica",
+   "operatori logistici",
+   "oltre 20 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Piedmont,Aosta Valley,Liguria,Lombardy\", \"minEmployees\": 20, \"companyIndustry\": \"transportation, logistics, supply chain and storage\"}"
+ }
+}

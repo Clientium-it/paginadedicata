@@ -1,0 +1,91 @@
+{
+ "slug": "man",
+ "company": "MAN",
+ "first_name": "Marc",
+ "domain": "man.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Camion, autobus, furgoni e servizi per la gestione delle flotte delle aziende. Ecco chi contatteremmo per MAN.",
+ "market_note": "MAN produce camion, autobus e furgoni con servizi per la gestione delle flotte aziendali, quindi parleremmo con chi decide su mezzi e manutenzione nelle imprese di trasporto e logistica.",
+ "evidence": [
+  {
+   "claim": "camion, autobus, furgoni e servizi",
+   "url": "https://www.man.eu/de/de/homepage.html",
+   "quote": "MAN Lkw, Busse, Transporter und Services"
+  },
+  {
+   "claim": "servizi per la gestione delle flotte",
+   "url": "https://www.man.eu/de/de/services-zubehoer/serviceuebersicht.html",
+   "quote": "für eine erhöhte Fahrzeugverfügbarkeit und ein effizientes Flottenmanagement"
+  },
+  {
+   "claim": "camion, autobus e furgoni",
+   "url": "https://www.man.eu/de/de/homepage.html",
+   "quote": "MAN Lkw, Busse, Transporter und Services"
+  },
+  {
+   "claim": "vende a imprese di trasporto, logistica e costruzioni",
+   "url": "https://www.man.eu/de/de/services-zubehoer/serviceuebersicht/services-fuer-lkw.html",
+   "quote": "Egal ob Transport- und Logistikbranche, im Bauwesen oder Verteilerverkehr"
+  },
+  {
+   "claim": "camion, autobus e furgoni con servizi",
+   "url": "https://www.man.eu/de/de/homepage.html",
+   "quote": "MAN Lkw, Busse, Transporter und Services"
+  },
+  {
+   "claim": "servizi per la gestione delle flotte",
+   "url": "https://www.man.eu/de/de/services-zubehoer/serviceuebersicht/services-fuer-lkw.html",
+   "quote": "Vielfältige, intelligent vernetzte Dienstleistungen für Lkw"
+  },
+  {
+   "claim": "settori serviti: trasporto, logistica, costruzioni",
+   "url": "https://www.man.eu/de/de/services-zubehoer/serviceuebersicht/services-fuer-lkw.html",
+   "quote": "Egal ob Transport- und Logistikbranche, im Bauwesen oder Verteilerverkehr"
+  }
+ ],
+ "market": {
+  "count": "5.767",
+  "label": "titolari, CEO e direttori di aziende di trasporto, logistica e costruzioni da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "trasporto e logistica",
+   "costruzioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"companyIndustry\": \"logistics,transportation,construction\"}"
+ }
+}

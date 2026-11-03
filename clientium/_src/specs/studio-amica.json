@@ -1,0 +1,80 @@
+{
+ "slug": "studio-amica",
+ "company": "Studio Amica",
+ "first_name": "Antonio",
+ "domain": "studioamica.net",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza fiscale, societaria e strategica per società e partite iva. Ecco chi contatteremmo per Studio Amica.",
+ "market_note": "Studio Amica offre a società e partite iva consulenza fiscale, del lavoro, societaria e direzionale, quindi parleremmo con i titolari e gli amministratori che scelgono il commercialista.",
+ "evidence": [
+  {
+   "claim": "Offre consulenza societaria, fiscale e strategica",
+   "url": "https://www.studioamica.net/chi-siamo/",
+   "quote": "una consulenza societaria, fiscale e strategica a 360 gradi"
+  },
+  {
+   "claim": "Si rivolge a società e partite iva",
+   "url": "https://www.studioamica.net/",
+   "quote": "Sei una società o hai una partita iva oppure vorresti iniziare un'attività"
+  },
+  {
+   "claim": "Fornisce consulenza fiscale, del lavoro, societaria e direzionale",
+   "url": "https://www.studioamica.net/",
+   "quote": "fiscale e del lavoro societaria direzionale"
+  },
+  {
+   "claim": "Usa l'Intelligenza Artificiale per ottimizzare la gestione dei dati",
+   "url": "https://www.studioamica.net/chi-siamo/",
+   "quote": "ottimizzano la gestione dei dati e l'efficienza operativa"
+  },
+  {
+   "claim": "Clienti sono società e partite iva",
+   "url": "https://www.studioamica.net/",
+   "quote": "Sei una società o hai una partita iva oppure vorresti iniziare un'attività"
+  }
+ ],
+ "market": {
+  "count": "86.964",
+  "label": "titolari, CEO e amministratori di piccole e medie imprese italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "PMI",
+   "10 a 250 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

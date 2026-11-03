@@ -1,0 +1,82 @@
+{
+ "slug": "masco-group",
+ "company": "Masco Group",
+ "first_name": "Filippo",
+ "domain": "mascogroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Ingegneria e soluzioni integrate per la produzione nel life science. Ecco chi contatteremmo per Masco Group.",
+ "market_note": "Masco Group progetta soluzioni di ingegneria e automazione per le aziende del settore farmaceutico e biotech, quindi parleremmo con chi guida le scelte commerciali e tecniche degli stabilimenti produttivi.",
+ "evidence": [
+  {
+   "claim": "Fa ingegneria e soluzioni per la produzione nel life science",
+   "url": "https://www.mascogroup.com/",
+   "quote": "We help life science companies master the manufacturing process and stay ahead of industry challenges."
+  },
+  {
+   "claim": "Offre ingegneria, progettazione, consulenza, manifattura e assistenza",
+   "url": "https://www.mascogroup.com/",
+   "quote": "a dynamic combination of engineering, design, consulting, manufacturing and servicing"
+  },
+  {
+   "claim": "Vende ad aziende farmaceutiche e biotech",
+   "url": "https://www.mascogroup.com/our-customers",
+   "quote": "over 10,000 units installed at our clients' pharma and biotech facilities"
+  },
+  {
+   "claim": "Aiuta le aziende life science nel processo produttivo e nelle sfide del settore",
+   "url": "https://www.mascogroup.com/",
+   "quote": "We help life science companies master the manufacturing process and stay ahead of industry challenges."
+  },
+  {
+   "claim": "Settori clienti dichiarati: pharma, biotech, cosmetici, food & beverage",
+   "url": "https://www.mascogroup.com/our-customers",
+   "quote": "over 10,000 units installed at our clients' pharma and biotech facilities"
+  }
+ ],
+ "market": {
+  "count": "8.587",
+  "label": "titolari, CEO e direttori di aziende farmaceutiche, biotech e cosmetiche strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "farmaceutico",
+   "biotech",
+   "cosmetica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"pharmaceutical manufacturing,biotechnology,cosmetics,food and beverage manufacturing\"}"
+ }
+}

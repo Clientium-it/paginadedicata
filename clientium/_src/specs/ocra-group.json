@@ -1,0 +1,77 @@
+{
+ "slug": "ocra-group",
+ "company": "Ocra Group",
+ "first_name": "Pietro",
+ "domain": "ocragroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "SAP Gold Partner e AI al fianco delle aziende del Fashion e Retail. Ecco chi contatteremmo per Ocra Group.",
+ "market_note": "Ocra Group porta SAP e intelligenza artificiale nelle aziende del Fashion, Retail e GDO, quindi parleremmo con chi decide su ERP, dati e progetti digitali.",
+ "evidence": [
+  {
+   "claim": "SAP Gold Partner e AI per Fashion e Retail",
+   "url": "https://ocragroup.com/",
+   "quote": "SAP Gold Partner e AI per Fashion & Retail"
+  },
+  {
+   "claim": "Soluzioni enterprise per Fashion, Retail e GDO",
+   "url": "https://ocragroup.com/",
+   "quote": "Soluzioni in produzione su scenari enterprise Fashion, Retail e GDO."
+  },
+  {
+   "claim": "Specialisti SAP e AI generativa",
+   "url": "https://ocragroup.com/",
+   "quote": "Specialisti SAP S/4HANA, AI generativa e data engineering."
+  },
+  {
+   "claim": "Clienti nel Fashion, GDO e Manufacturing",
+   "url": "https://ocragroup.com/",
+   "quote": "Casi enterprise multi-paese in Fashion, GDO e Manufacturing."
+  }
+ ],
+ "market": {
+  "count": "24.096",
+  "label": "titolari, CEO e direttori di aziende fashion, retail e gdo strutturate oltre 100 addetti in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "fashion",
+   "retail",
+   "gdo"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"fashion,retail,manufacturing\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "slug": "eu-wings",
+ "company": "EU Wings",
+ "first_name": "Vincenzo",
+ "domain": "euwings.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Manutenzione aeronautica e supporto AOG per compagnie aeree e proprietari di aeromobili. Ecco chi contatteremmo per EU Wings.",
+ "market_note": "EU Wings da Sommacampagna offre manutenzione di linea e supporto AOG ad Airlines, Lessors e proprietari di aeromobili, quindi parleremmo con chi guida le compagnie aeree.",
+ "evidence": [
+  {
+   "claim": "EU Wings è un'organizzazione di manutenzione aeronautica",
+   "url": "https://www.euwings.it/",
+   "quote": "EU Wings is an aircraft Approved Maintenance Organization"
+  },
+  {
+   "claim": "supporto ad Airlines, Lessors e proprietari di aeromobili",
+   "url": "https://www.euwings.it/about-us/",
+   "quote": "we drive our support towards the Aviation World such as, but not limited to, Airlines, Lessors or simply, aircraft Owners in the need of technical assistance"
+  },
+  {
+   "claim": "fornisce manutenzione di linea",
+   "url": "https://www.euwings.it/services/",
+   "quote": "We provide Line Maintenance tasks up to the A Check"
+  },
+  {
+   "claim": "supporto AOG",
+   "url": "https://www.euwings.it/services/",
+   "quote": "We perform Night-Stop Assistance, AOG Support (24/7), Daily & Weekly Checks-Up to A Checks"
+  },
+  {
+   "claim": "sede a Sommacampagna",
+   "url": "https://www.euwings.it/",
+   "quote": "Via Osteria Grande n.59 37066 – Sommacampagna (VR) – Italy"
+  },
+  {
+   "claim": "assiste le compagnie aeree in situazione AOG in Italia e all'estero",
+   "url": "https://www.euwings.it/services/",
+   "quote": "EU Wings is capable of assisting any Airline in an AOG situation at any of its approved Line Stations and abroad, throughout Italy."
+  },
+  {
+   "claim": "clienti del settore aviazione e compagnie aeree",
+   "url": "https://www.euwings.it/about-us/",
+   "quote": "we drive our support towards the Aviation World such as, but not limited to, Airlines, Lessors or simply, aircraft Owners in the need of technical assistance"
+  }
+ ],
+ "market": {
+  "count": "486",
+  "label": "titolari, CEO e direttori di compagnie aeree e aziende aeronautiche italiane oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "compagnie aeree",
+   "aviazione",
+   "oltre 50 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"airlines and aviation\"}"
+ }
+}

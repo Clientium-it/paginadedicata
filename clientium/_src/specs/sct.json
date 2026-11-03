@@ -1,0 +1,68 @@
+{
+ "slug": "sct",
+ "company": "SCT",
+ "first_name": "Michele",
+ "domain": "salernocontainerterminal.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Terminal container nel porto di Salerno, gateway marittimo per il Centro Sud Italia. Ecco chi contatteremmo per SCT.",
+ "market_note": "SCT offre servizi di terminal container a compagnie di navigazione, spedizionieri, importatori ed esportatori del Centro Sud Italia, quindi parleremmo con chi decide su spedizioni, import ed export.",
+ "evidence": [
+  {
+   "claim": "Gateway marittimo per il Centro Sud Italia",
+   "url": "https://www.salernocontainerterminal.com/",
+   "quote": "serves as a strategic maritime gateway linking international container shipping services with the import and export markets of Southern and Central Italy"
+  },
+  {
+   "claim": "Offre servizi di terminal container a compagnie di navigazione, spedizionieri, importatori ed esportatori",
+   "url": "https://www.salernocontainerterminal.com/container-terminal-services/",
+   "quote": "provides a comprehensive range of container terminal services designed to support shipping lines, freight forwarders, importers and exporters"
+  },
+  {
+   "claim": "Collega i servizi di navigazione internazionali con i mercati import ed export",
+   "url": "https://www.salernocontainerterminal.com/",
+   "quote": "linking international container shipping services with the import and export markets of Southern and Central Italy"
+  },
+  {
+   "claim": "I clienti sono compagnie di navigazione, spedizionieri, importatori ed esportatori",
+   "url": "https://www.salernocontainerterminal.com/container-terminal-services/",
+   "quote": "designed to support shipping lines, freight forwarders, importers and exporters"
+  }
+ ],
+ "market": {
+  "count": "1.064",
+  "label": "direttori, CEO e titolari di aziende di spedizioni, import ed export del Centro Sud Italia da 20 addetti",
+  "chips": [
+   "Centro Sud Italia",
+   "spedizioni e logistica",
+   "import export",
+   "oltre 20 addetti"
+  ],
+  "regions": [
+   "Toscana",
+   "Umbria",
+   "Marche",
+   "Lazio",
+   "Abruzzo",
+   "Molise",
+   "Campania",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Tuscany,Umbria,Marche,Lazio,Abruzzo,Molise,Campania,Apulia,Basilicata,Calabria,Sicily,Sardinia\", \"minEmployees\": 20, \"companyIndustry\": \"logistics,freight service,maritime transportation,shipping,wholesale import and export\"}"
+ }
+}

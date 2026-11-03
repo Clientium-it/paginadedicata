@@ -1,0 +1,86 @@
+{
+ "slug": "fbk",
+ "company": "FBK",
+ "first_name": "Matteo",
+ "domain": "fbk.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Piattaforma AI che automatizza ogni fase delle gare per Life Sciences e Healthcare. Ecco chi contatteremmo per FBK.",
+ "market_note": "FBK costruisce strumenti AI che aiutano le aziende a trovare, valutare e vincere gare pubbliche, quindi parleremmo con chi guida ufficio gare e direzione commerciale.",
+ "evidence": [
+  {
+   "claim": "Piattaforma AI che automatizza ogni fase delle gare",
+   "url": "https://fbk.it/",
+   "quote": "The AI-Powered platform that automates processes, enhances efficiency, and drives smarter decisions across every stage of tendering"
+  },
+  {
+   "claim": "per Life Sciences e Healthcare",
+   "url": "https://fbk.it/solutions/document-intelligence",
+   "quote": "Transform tender documents into actionable insights with AI-powered analysis tailored for Life Sciences & Healthcare organizations."
+  },
+  {
+   "claim": "aiuta le aziende a trovare, valutare e vincere gare pubbliche",
+   "url": "https://fbk.it/about",
+   "quote": "FBK builds AI-powered tools that help companies find, evaluate, and win public tenders"
+  },
+  {
+   "claim": "automatizzate la ricerca, la valutazione e la vittoria delle gare pubbliche",
+   "url": "https://fbk.it/about",
+   "quote": "FBK builds AI-powered tools that help companies find, evaluate, and win public tenders"
+  },
+  {
+   "claim": "per Life Sciences e Healthcare",
+   "url": "https://fbk.it/solutions/document-intelligence",
+   "quote": "Transform tender documents into actionable insights with AI-powered analysis tailored for Life Sciences & Healthcare organizations."
+  },
+  {
+   "claim": "settori clienti Life Sciences e Healthcare",
+   "url": "https://fbk.it/solutions/document-intelligence",
+   "quote": "Transform tender documents into actionable insights with AI-powered analysis tailored for Life Sciences & Healthcare organizations."
+  }
+ ],
+ "market": {
+  "count": "10.586",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate del life sciences e healthcare oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "life sciences",
+   "healthcare"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"life science,health care\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

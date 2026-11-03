@@ -1,0 +1,61 @@
+{
+ "slug": "saet-sicilia",
+ "company": "Saet Sicilia",
+ "first_name": "Enzo",
+ "domain": "saetsicilia.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Unico interlocutore per tutti i sistemi di sicurezza e informatici dal 1976. Ecco chi contatteremmo per Saet Sicilia.",
+ "market_note": "Saet Sicilia gestisce sicurezza, reti e infrastruttura IT di aziende e strutture, con soluzioni pensate per professionisti e piccole e medie imprese, quindi parleremmo con chi decide su protezione e sistemi informatici.",
+ "evidence": [
+  {
+   "claim": "Unico interlocutore per sistemi di sicurezza e informatici dal 1976",
+   "url": "https://saetsicilia.it/",
+   "quote": "Unico interlocutore per tutti i sistemi di sicurezza e informatici dal 1976"
+  },
+  {
+   "claim": "Gestisce l'infrastruttura IT di aziende e strutture",
+   "url": "https://saetsicilia.it/categoria-servizi/sicurezza-informatica/",
+   "quote": "Accompagniamo aziende e strutture nella gestione completa dell’infrastruttura IT"
+  },
+  {
+   "claim": "Vende a professionisti e piccole e medie imprese",
+   "url": "https://saetsicilia.it/azienda/",
+   "quote": "Le nostre soluzioni informatiche e di sicurezza sono pensate per professionisti, piccole e medie imprese"
+  },
+  {
+   "claim": "Offre soluzioni informatiche e di sicurezza per PMI",
+   "url": "https://saetsicilia.it/azienda/",
+   "quote": "Le nostre soluzioni informatiche e di sicurezza sono pensate per professionisti, piccole e medie imprese"
+  },
+  {
+   "claim": "Clienti tipo professionisti e piccole e medie imprese",
+   "url": "https://saetsicilia.it/azienda/",
+   "quote": "Le nostre soluzioni informatiche e di sicurezza sono pensate per professionisti, piccole e medie imprese"
+  }
+ ],
+ "market": {
+  "count": "2.233",
+  "label": "titolari, CEO e amministratori di piccole e medie imprese siciliane",
+  "chips": [
+   "Sicilia",
+   "10-250 addetti",
+   "sicurezza e IT"
+  ],
+  "regions": [
+   "Sicilia"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Sicily\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

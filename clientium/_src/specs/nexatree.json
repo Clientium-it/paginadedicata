@@ -1,0 +1,77 @@
+{
+ "slug": "nexatree",
+ "company": "NexaTree",
+ "first_name": "Simone",
+ "domain": "nexatree.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Gestione intelligente del ciclo di vita di infrastrutture critiche come porti, aeroporti, strade e ferrovie. Ecco chi contatteremmo per NexaTree.",
+ "market_note": "NexaTree gestisce il ciclo di vita delle infrastrutture critiche come porti, aeroporti, strade e ferrovie, quindi parleremmo con chi dirige gli operatori di trasporti, energia e utilities.",
+ "evidence": [
+  {
+   "claim": "NexaTree gestisce in modo intelligente il ciclo di vita di infrastrutture critiche",
+   "url": "https://nexatree.it/",
+   "quote": "specializzata nella gestione intelligente del ciclo di vita di infrastrutture critiche"
+  },
+  {
+   "claim": "I settori serviti sono porti, aeroporti, strade, ferrovie e utilities",
+   "url": "https://nexatree.it/",
+   "quote": "porti, aeroporti, strade, ferrovie ed utilities"
+  },
+  {
+   "claim": "Serve operatori infrastrutturali che gestiscono risorse critiche",
+   "url": "https://nexatree.it/",
+   "quote": "gli operatori infrastrutturali possono monitorare in tempo reale le proprie risorse critiche"
+  },
+  {
+   "claim": "I clienti sono operatori di porti, aeroporti, strade, ferrovie e utilities",
+   "url": "https://nexatree.it/",
+   "quote": "porti, aeroporti, strade, ferrovie ed utilities"
+  }
+ ],
+ "market": {
+  "count": "5.274",
+  "label": "direttori, CEO e responsabili di operatori di infrastrutture critiche in Italia con oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "porti e aeroporti",
+   "strade e ferrovie",
+   "utilities"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"ports and harbors,air transportation,railroad,utilities,transportation\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

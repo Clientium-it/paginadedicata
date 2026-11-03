@@ -1,0 +1,75 @@
+{
+ "slug": "piovan",
+ "company": "Piovan",
+ "first_name": "Filippo",
+ "domain": "piovan.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Sistemi di automazione per lo stoccaggio, il trasporto e il trattamento di polimeri e plastica. Ecco chi contatteremmo per Piovan.",
+ "market_note": "Piovan progetta sistemi di automazione industriale per l'industria della plastica e alimentare, quindi parleremmo con chi guida produzione e stabilimenti nelle aziende manifatturiere.",
+ "evidence": [
+  {
+   "claim": "Sistemi di automazione per lo stoccaggio, il trasporto e il trattamento di polimeri e plastica",
+   "url": "https://www.piovan.com/",
+   "quote": "systems for the automation of production processes for the storage, transport and treatment of polymers, plastic and food powders"
+  },
+  {
+   "claim": "Automazione per l'industria della plastica e alimentare",
+   "url": "https://www.piovan.com/",
+   "quote": "Automation for the plastics and food industries"
+  },
+  {
+   "claim": "Hanno sviluppato Winfactory 4.0, software di controllo e gestione del processo produttivo",
+   "url": "https://www.piovan.com/plastic/medical-solutions/",
+   "quote": "developed Winfactory 4.0 , the control and management software of the production process"
+  },
+  {
+   "claim": "Serve clienti dell'industria della plastica e alimentare",
+   "url": "https://www.piovan.com/",
+   "quote": "Automation for the plastics and food industries"
+  }
+ ],
+ "market": {
+  "count": "3.481",
+  "label": "titolari, CEO e direttori di aziende manifatturiere della plastica e alimentari in Italia oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "manifattura plastica e alimentare",
+   "oltre 50 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"plastics manufacturing,food and beverage manufacturing,packaging and containers manufacturing\"}"
+ }
+}

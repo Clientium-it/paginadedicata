@@ -1,0 +1,77 @@
+{
+ "slug": "espe",
+ "company": "ESPE",
+ "first_name": "Fabio",
+ "domain": "espe.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Partner in Italia per le energie rinnovabili, dal fotovoltaico ai sistemi di accumulo. Ecco chi contatteremmo per ESPE.",
+ "market_note": "ESPE realizza da oltre 50 anni impianti fotovoltaici, sistemi di accumulo e impianti elettrici per aziende e grandi industrie produttive, quindi parleremmo con chi decide sugli investimenti in efficienza energetica.",
+ "evidence": [
+  {
+   "claim": "Partner in Italia per le energie rinnovabili",
+   "url": "https://www.espe.it/it/",
+   "quote": "Punto di riferimento in Italia per le energie rinnovabili"
+  },
+  {
+   "claim": "Realizza impianti elettrici per grandi industrie produttive",
+   "url": "https://www.espe.it/it/soluzioni/system-integrator/",
+   "quote": "impianti elettrici complessi per grandi industrie produttive"
+  },
+  {
+   "claim": "Produce aerogeneratori minieolici nelle proprie officine",
+   "url": "https://www.espe.it/it/soluzioni/mini-eolico/",
+   "quote": "una linea di aerogeneratori interamente sviluppati e prodotti nelle nostre officine"
+  },
+  {
+   "claim": "Settori produttivi serviti dichiarati dal sito",
+   "url": "https://www.espe.it/it/soluzioni/system-integrator/",
+   "quote": "alimentare, tessile, meccanico, plastico, cartario e molti altri"
+  }
+ ],
+ "market": {
+  "count": "7.919",
+  "label": "titolari, CEO e direttori di aziende industriali italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "alimentare",
+   "tessile",
+   "meccanico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"food and beverage manufacturing,textile manufacturing,machinery manufacturing,plastics manufacturing,paper manufacturing\"}"
+ }
+}

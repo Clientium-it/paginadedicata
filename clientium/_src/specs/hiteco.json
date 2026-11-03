@@ -1,0 +1,81 @@
+{
+ "slug": "hiteco",
+ "company": "Hiteco",
+ "first_name": "Giuseppe",
+ "domain": "hiteco.net",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Componenti ad alta tecnologia per produttori di macchine utensili. Ecco chi contatteremmo per Hiteco.",
+ "market_note": "Hiteco progetta e realizza componenti ad alta tecnologia per produttori di macchine utensili, quindi parleremmo con i titolari e i direttori che scelgono elettromandrini e teste birotative.",
+ "evidence": [
+  {
+   "claim": "Hiteco produce componenti ad alta tecnologia per produttori di macchine utensili",
+   "url": "https://www.hiteco.net/it",
+   "quote": "componenti ad alta tecnologia per produttori di macchine utensili"
+  },
+  {
+   "claim": "Hiteco progetta e realizza questi componenti per produttori di macchine utensili",
+   "url": "https://www.hiteco.net/it",
+   "quote": "progettazione e realizzazione di componenti ad alta tecnologia per produttori di macchine utensili"
+  },
+  {
+   "claim": "Realizza elettromandrini e teste birotative",
+   "url": "https://www.hiteco.net/it",
+   "quote": "Elettromandrini ATC, elettromandrini MTC, teste birotative, teste di foratura ed aggregati."
+  },
+  {
+   "claim": "Progetta e realizza componenti ad alta tecnologia per produttori di macchine utensili",
+   "url": "https://www.hiteco.net/it",
+   "quote": "componenti ad alta tecnologia per produttori di macchine utensili"
+  },
+  {
+   "claim": "I clienti sono produttori di macchine utensili",
+   "url": "https://www.hiteco.net/it",
+   "quote": "componenti ad alta tecnologia per produttori di macchine utensili"
+  }
+ ],
+ "market": {
+  "count": "7.281",
+  "label": "titolari, CEO e direttori di aziende produttrici di macchine utensili in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "produttori di macchine utensili",
+   "macchinari industriali"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"industrial machinery manufacturing,machinery manufacturing\"}"
+ }
+}

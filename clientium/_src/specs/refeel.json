@@ -1,0 +1,75 @@
+{
+ "slug": "refeel",
+ "company": "ReFeel",
+ "first_name": "Carlo",
+ "domain": "refeel.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Impianti per l'autogenerazione energetica che aiutano le aziende a diventare più efficienti. Ecco chi contatteremmo per ReFeel.",
+ "market_note": "ReFeel sviluppa e investe in grandi impianti fotovoltaici e costruisce impianti per l'autogenerazione energetica per le aziende, quindi parleremmo con chi decide su efficienza ed investimenti in energia rinnovabile.",
+ "evidence": [
+  {
+   "claim": "Realizza impianti per l'autogenerazione energetica che rendono le aziende più efficienti",
+   "url": "https://refeel.eu/it/",
+   "quote": "costruiamo impianti per l'autogenerazione energetica, aiutando le aziende e le comunità a diventare più efficienti ed ecologiche"
+  },
+  {
+   "claim": "Sviluppa e investe in grandi impianti fotovoltaici connessi alla rete",
+   "url": "https://refeel.eu/it/",
+   "quote": "Sviluppiamo e investiamo in grandi impianti fotovoltaici che alimentano la rete elettrica"
+  },
+  {
+   "claim": "Costruisce impianti per l'autogenerazione energetica per le aziende",
+   "url": "https://refeel.eu/it/",
+   "quote": "costruiamo impianti per l'autogenerazione energetica, aiutando le aziende e le comunità a diventare più efficienti ed ecologiche"
+  },
+  {
+   "claim": "Fornisce soluzioni personalizzate per esigenze diverse dei clienti aziendali",
+   "url": "https://refeel.eu/it/",
+   "quote": "fornendo soluzioni personalizzate per varie dimensioni ed esigenze dei clienti."
+  }
+ ],
+ "market": {
+  "count": "73.207",
+  "label": "titolari, CEO e amministratori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "slug": "fenice",
+ "company": "Fenice",
+ "first_name": "Daniele",
+ "domain": "lafenicegs.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Montaggi industriali, software di automazione e tornitura di precisione per l'industria. Ecco chi contatteremmo per Fenice.",
+ "market_note": "Fenice monta e mantiene impianti industriali per i costruttori di macchine industriali, in Italia e all'estero, quindi parleremmo con chi guida produzione e manutenzione nelle aziende manifatturiere strutturate.",
+ "evidence": [
+  {
+   "claim": "Fa montaggi industriali",
+   "url": "https://lafeniceglobalservice.com/",
+   "quote": "We specialize in the assembly of industrial plants and machinery"
+  },
+  {
+   "claim": "Fornisce software per l'automazione industriale",
+   "url": "https://lafeniceglobalservice.com/",
+   "quote": "We provide custom software solutions to support industrial automation."
+  },
+  {
+   "claim": "Fa tornitura e lavorazioni di precisione",
+   "url": "https://lafeniceglobalservice.com/",
+   "quote": "We provide high-precision mechanical machining for components and complete systems."
+  },
+  {
+   "claim": "Partner per montaggio e manutenzione di impianti industriali",
+   "url": "https://lafeniceglobalservice.com/",
+   "quote": "Fenice is a trusted partner for the assembly, maintenance, and technical support of industrial plants."
+  },
+  {
+   "claim": "Serve i costruttori di macchine industriali",
+   "url": "https://lafeniceglobalservice.com/",
+   "quote": "a trusted partner for leading industrial machinery manufacturers"
+  },
+  {
+   "claim": "Opera in Italia e all'estero",
+   "url": "https://lafeniceglobalservice.com/",
+   "quote": "operating both in Italy and abroad across multiple sectors"
+  },
+  {
+   "claim": "Montaggio e manutenzione impianti dei costruttori di macchine",
+   "url": "https://lafeniceglobalservice.com/",
+   "quote": "Fenice is a trusted partner for the assembly, maintenance, and technical support of industrial plants."
+  },
+  {
+   "claim": "Attività in Italia e all'estero",
+   "url": "https://lafeniceglobalservice.com/",
+   "quote": "operating both in Italy and abroad across multiple sectors"
+  },
+  {
+   "claim": "Clienti sono costruttori di macchine industriali in piu settori",
+   "url": "https://lafeniceglobalservice.com/about/",
+   "quote": "We are active in complex and high-tech industries: Tissue, Converting, Textile, Nonwoven, Packaging, Pharmaceutical, Automotive, Railway, and Naval."
+  }
+ ],
+ "market": {
+  "count": "16.930",
+  "label": "titolari, CEO e direttori di aziende manifatturiere e costruttori di macchine industriali, in Italia, strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "costruttori di macchine",
+   "manifatturiero",
+   "packaging e tissue"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"industrial machinery manufacturing,machinery manufacturing,automation machinery manufacturing,packaging and containers manufacturing,textile manufacturing,pharmaceutical manufacturing,plastics manufacturing,automotive\"}"
+ }
+}

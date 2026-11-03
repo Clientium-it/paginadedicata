@@ -1,0 +1,80 @@
+{
+ "slug": "netconsulting-cube",
+ "company": "NetConsulting cube",
+ "first_name": "Roberto",
+ "domain": "netconsultingcube.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza, analisi e ricerche di mercato per il business digitale. Ecco chi contatteremmo per NetConsulting cube.",
+ "market_note": "NetConsulting cube offre servizi di consulenza e market intelligence rivolti ad aziende utenti e fornitori ICT, quindi parleremmo con chi guida marketing e strategia di mercato.",
+ "evidence": [
+  {
+   "claim": "Fa consulenza, analisi e ricerche di mercato per il business digitale",
+   "url": "https://www.netconsultingcube.com/",
+   "quote": "Consulenza, analisi e ricerche di mercato, demand generation e digital communication per il tuo business digitale"
+  },
+  {
+   "claim": "Offre consulenza e market intelligence ad aziende utenti e fornitori ICT",
+   "url": "https://www.netconsultingcube.com/about/",
+   "quote": "servizi di Consulenza e di Market Intelligence rivolti ad aziende utenti e fornitori ICT"
+  },
+  {
+   "claim": "Monitora il Mercato Digitale italiano in ambito B2B",
+   "url": "https://www.netconsultingcube.com/servizi/",
+   "quote": "Mercato Digitale italiano in ambito B2B"
+  },
+  {
+   "claim": "Opera sul Mercato Digitale in Italia",
+   "url": "https://www.netconsultingcube.com/about/",
+   "quote": "consulenza sul Mercato Digitale in Italia"
+  },
+  {
+   "claim": "Si rivolge alle aziende del sistema di offerta ICT",
+   "url": "https://www.netconsultingcube.com/servizi/",
+   "quote": "aziende del sistema di offerta dell’ICT"
+  }
+ ],
+ "market": {
+  "count": "614",
+  "label": "direttori, CEO e titolari di aziende ICT e utenti strutturate in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "ICT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"information and communications technology (ict)\"}"
+ }
+}

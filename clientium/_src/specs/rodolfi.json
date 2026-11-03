@@ -1,0 +1,81 @@
+{
+ "slug": "rodolfi",
+ "company": "Rodolfi",
+ "first_name": "Angela",
+ "domain": "rodolfi.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Polpe, passate, sughi e pelati di pomodoro dal 1896. Ecco chi contatteremmo per Rodolfi.",
+ "market_note": "Rodolfi trasforma il pomodoro in polpe, passate e sughi ed è partner di fiducia di molte aziende con prodotti conto terzi, quindi parleremmo con chi decide acquisti e sviluppo prodotto.",
+ "evidence": [
+  {
+   "claim": "Produce polpe, passate, sughi e pelati di pomodoro dal 1896",
+   "url": "https://www.rodolfi.com/",
+   "quote": "Il segreto delle nostre polpe, passate, sughi e pelati è Rodolfi."
+  },
+  {
+   "claim": "È partner di molte aziende con produzione conto terzi",
+   "url": "https://www.rodolfi.com/prodotti/",
+   "quote": "Produciamo e forniamo prodotti conto terzi"
+  },
+  {
+   "claim": "È partner di fiducia di molte aziende",
+   "url": "https://www.rodolfi.com/prodotti/",
+   "quote": "partner di fiducia di molte aziende"
+  },
+  {
+   "claim": "Da anni partner di fiducia di molte aziende",
+   "url": "https://www.rodolfi.com/prodotti/",
+   "quote": "da anni partner di fiducia di molte aziende"
+  },
+  {
+   "claim": "Vende a professionisti della ristorazione",
+   "url": "https://www.rodolfi.com/",
+   "quote": "Rodolfi è al fianco dei professionisti della ristorazione con le linee Ardita e Alpino."
+  }
+ ],
+ "market": {
+  "count": "3.241",
+  "label": "titolari, CEO e direttori di aziende alimentari e della ristorazione strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende alimentari",
+   "ristorazione"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"food and beverage manufacturing,restaurants\"}"
+ }
+}

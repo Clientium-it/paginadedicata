@@ -1,0 +1,77 @@
+{
+ "slug": "ds-group",
+ "company": "DS Group",
+ "first_name": "Marco",
+ "domain": "dsgroup.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni software su misura e digital evolution per i brand di ogni business. Ecco chi contatteremmo per DS Group.",
+ "market_note": "DS Group sviluppa software su misura per ogni processo di business in mobilità per i brand di ogni business, quindi parleremmo con chi guida tecnologia e innovazione digitale.",
+ "evidence": [
+  {
+   "claim": "innovation consultant per i brand di ogni business",
+   "url": "https://www.dsgroup.it/it/",
+   "quote": "Da 30 anni DS Group è l’innovation consultant per i brand di ogni business"
+  },
+  {
+   "claim": "sviluppa software su misura per ogni processo di business in mobilità",
+   "url": "https://www.dsgroup.it/it/prodotto/mobile-solutions/",
+   "quote": "DS Group è leader nella progettazione e nello sviluppo di software su misura per ogni processo di business in mobilità"
+  },
+  {
+   "claim": "vendita B2B e operatività sul campo",
+   "url": "https://www.dsgroup.it/it/prodotto/mobile-solutions/",
+   "quote": "vendita B2B, attività di gestione, rapporto con il cliente e qualsiasi operatività sul campo"
+  },
+  {
+   "claim": "clienti di ogni business",
+   "url": "https://www.dsgroup.it/it/clienti/",
+   "quote": "Decliniamo il nostro offering per aziende e clienti di ogni business."
+  }
+ ],
+ "market": {
+  "count": "2.526",
+  "label": "responsabili IT, CIO e CTO di grandi aziende e brand italiani da oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "finance",
+   "fashion",
+   "logistics"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"media and entertainment,telecommunications,finance,energy,oil and gas,fashion,food and beverage,logistics,travel\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

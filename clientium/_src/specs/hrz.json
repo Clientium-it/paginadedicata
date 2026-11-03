@@ -1,0 +1,80 @@
+{
+ "slug": "hrz",
+ "company": "HRZ",
+ "first_name": "Simone",
+ "domain": "hrz.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Servizi a valore aggiunto per la gestione a 360 gradi del personale aziendale. Ecco chi contatteremmo per HRZ.",
+ "market_note": "HRZ offre dal 2006 software e servizi per la gestione del personale aziendale, quindi parleremmo con i titolari e i direttori che decidono sulle risorse umane.",
+ "evidence": [
+  {
+   "claim": "Offre servizi per la gestione del personale aziendale",
+   "url": "https://www.hrz.it/",
+   "quote": "servizi a valore aggiunto per la gestione a 360 gradi del personale aziendale"
+  },
+  {
+   "claim": "Opera dal 2006 con i propri partner",
+   "url": "https://www.hrz.it/",
+   "quote": "HRZ offre dal 2006, congiuntamente con i propri partner"
+  },
+  {
+   "claim": "Fornisce una suite software per gestire il personale",
+   "url": "https://www.hrz.it/",
+   "quote": "La suite per amministrare, gestire e organizzare il personale."
+  },
+  {
+   "claim": "Servizi a valore aggiunto per la gestione del personale",
+   "url": "https://www.hrz.it/",
+   "quote": "servizi a valore aggiunto per la gestione a 360 gradi del personale aziendale"
+  },
+  {
+   "claim": "Presente su tutto il territorio nazionale",
+   "url": "https://www.hrz.it/",
+   "quote": "16 sedi distribuite su tutto il territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "85.871",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "PMI strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250}"
+ }
+}

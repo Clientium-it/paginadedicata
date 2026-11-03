@@ -1,0 +1,76 @@
+{
+ "slug": "erg",
+ "company": "ERG",
+ "first_name": "Luca",
+ "domain": "erg.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Produttore indipendente di energia elettrica da fonti rinnovabili. Ecco chi contatteremmo per ERG.",
+ "market_note": "ERG produce energia elettrica da fonti rinnovabili e porta avanti attività commerciali con clienti industriali, grandi imprese e utilities, quindi parleremmo con chi decide gli acquisti di energia.",
+ "evidence": [
+  {
+   "claim": "produttore indipendente di energia elettrica da fonti rinnovabili",
+   "url": "https://www.erg.eu/it/chi-siamo",
+   "quote": "ERG è un produttore indipendente di energia elettrica da fonti pulite, rinnovabili e sostenibili."
+  },
+  {
+   "claim": "attività commerciali con clienti industriali, grandi imprese e utilities",
+   "url": "https://www.erg.eu/it/la-gestione-dei-clienti",
+   "quote": "le attività commerciali con i clienti industriali (grandi imprese e utilities)"
+  },
+  {
+   "claim": "primo operatore eolico onshore in Italia e tra i primi dieci in Europa",
+   "url": "https://www.erg.eu/it/contatti",
+   "quote": "Primo operatore eolico onshore in Italia, tra i primi dieci in Europa"
+  },
+  {
+   "claim": "vende a clienti industriali, grandi imprese e utilities",
+   "url": "https://www.erg.eu/it/la-gestione-dei-clienti",
+   "quote": "i clienti industriali (grandi imprese e utilities)"
+  }
+ ],
+ "market": {
+  "count": "5.043",
+  "label": "titolari, CEO e direttori di grandi imprese e utilities italiane con oltre 200 addetti",
+  "chips": [
+   "Italia",
+   "oltre 200 addetti",
+   "utilities",
+   "industria"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"utilities,industrial\"}"
+ }
+}

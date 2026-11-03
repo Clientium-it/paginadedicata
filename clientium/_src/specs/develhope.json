@@ -1,0 +1,80 @@
+{
+ "slug": "develhope",
+ "company": "Develhope",
+ "first_name": "Luca",
+ "domain": "develhope.co",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Competenze digitali per generare opportunità, crescita e impatto. Ecco chi contatteremmo per Develhope.",
+ "market_note": "Develhope crea percorsi, workshop e programmi su misura per sviluppare le competenze digitali di team e aziende, quindi parleremmo con chi decide sulla formazione del personale.",
+ "evidence": [
+  {
+   "claim": "Develhope sviluppa competenze digitali per creare opportunità, crescita e impatto",
+   "url": "https://www.develhope.co/",
+   "quote": "Competenze digitali per generare opportunità, crescita e impatto"
+  },
+  {
+   "claim": "Crea percorsi, workshop e programmi su misura per le competenze digitali di team e aziende",
+   "url": "https://www.develhope.co/",
+   "quote": "Percorsi, workshop e programmi su misura per sviluppare le competenze digitali di team e aziende"
+  },
+  {
+   "claim": "Sviluppa percorsi, workshop e programmi su misura per le competenze digitali di team e aziende",
+   "url": "https://www.develhope.co/",
+   "quote": "Percorsi, workshop e programmi su misura per sviluppare le competenze digitali di team e aziende"
+  },
+  {
+   "claim": "I clienti della formazione aziendale sono team e aziende",
+   "url": "https://www.develhope.co/",
+   "quote": "sviluppare le competenze digitali di team e aziende"
+  },
+  {
+   "claim": "Opera in Italia",
+   "url": "https://www.develhope.co/",
+   "quote": "In Italia e all’estero"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "formazione digitale aziendale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

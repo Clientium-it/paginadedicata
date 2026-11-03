@@ -1,0 +1,80 @@
+{
+ "slug": "orizon",
+ "company": "Orizon",
+ "first_name": "Simone",
+ "domain": "orizon.one",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Cybersecurity automatizzata per le aziende europee che devono rispettare la NIS2. Ecco chi contatteremmo per Orizon.",
+ "market_note": "Orizon offre cybersecurity automatizzata, gestione della superficie di attacco e pentesting alle organizzazioni europee di fascia media che devono adeguarsi alla NIS2, quindi parleremmo con chi decide su sicurezza informatica e conformità.",
+ "evidence": [
+  {
+   "claim": "Fa cybersecurity automatizzata per aziende europee che devono rispettare la NIS2",
+   "url": "https://orizon.one/company",
+   "quote": "the security automation that European organizations need to meet NIS2 mandates"
+  },
+  {
+   "claim": "Fornisce attack surface management, pentesting, SOC gestito e automazione della conformita",
+   "url": "https://orizon.one/services",
+   "quote": "European cybersecurity company providing advanced attack surface management, AI-powered penetration testing, a 24/7 managed SOC (MDR) and compliance automation."
+  },
+  {
+   "claim": "Si rivolge a organizzazioni di fascia media",
+   "url": "https://orizon.one/company",
+   "quote": "designed to give mid-market organizations the same level of protection"
+  },
+  {
+   "claim": "Riunisce sei servizi in un unico ecosistema invece di sei contratti",
+   "url": "https://orizon.one/",
+   "quote": "One ecosystem, not six contracts"
+  },
+  {
+   "claim": "Clienti tipici di fascia media",
+   "url": "https://orizon.one/company",
+   "quote": "designed to give mid-market organizations the same level of protection"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate da 50 addetti in su soggette alla NIS2",
+  "chips": [
+   "tutta Italia",
+   "da 50 addetti in su",
+   "soggette alla NIS2"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

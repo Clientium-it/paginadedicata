@@ -1,0 +1,100 @@
+{
+ "slug": "gioiella",
+ "company": "Gioiella",
+ "first_name": "Francesco",
+ "domain": "gioiellalatticini.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Latticini e mozzarella DOP dalla Puglia, con latte 100% italiano dal 1946. Ecco chi contatteremmo per Gioiella.",
+ "market_note": "Gioiella produce mozzarella DOP e latticini pugliesi e li consegna nelle diverse regioni italiane, quindi parleremmo con chi acquista e seleziona i prodotti caseari per la distribuzione.",
+ "evidence": [
+  {
+   "claim": "Produce mozzarella DOP e latticini",
+   "url": "https://gioiella.com/",
+   "quote": "Mozzarella DOP e latticini dal 1946"
+  },
+  {
+   "claim": "Latticini dalla Puglia",
+   "url": "https://gioiella.com/",
+   "quote": "Dal 1946, latticini dalla Puglia"
+  },
+  {
+   "claim": "Con latte 100% italiano",
+   "url": "https://gioiella.com/",
+   "quote": "con latte 100% italiano"
+  },
+  {
+   "claim": "Produce mozzarella DOP e latticini",
+   "url": "https://gioiella.com/",
+   "quote": "Mozzarella DOP e latticini dal 1946"
+  },
+  {
+   "claim": "Consegna nelle diverse regioni italiane",
+   "url": "https://gioiella.com/chi-siamo/",
+   "quote": "per la consegna diretta dei prodotti nelle diverse regioni italiane"
+  },
+  {
+   "claim": "Produce la Mozzarella di Gioia del Colle DOP",
+   "url": "https://gioiella.com/",
+   "quote": "La Mozzarella di Gioia del Colle DOP"
+  },
+  {
+   "claim": "Con latte 100% italiano",
+   "url": "https://gioiella.com/",
+   "quote": "con latte 100% italiano"
+  },
+  {
+   "claim": "Attiva dal 1946",
+   "url": "https://gioiella.com/",
+   "quote": "Mozzarella DOP e latticini dal 1946"
+  },
+  {
+   "claim": "Distribuisce in tutta Italia e all'estero",
+   "url": "https://gioiella.com/chi-siamo/",
+   "quote": "esportare la propria eccellenza artigianale in tutto il mondo"
+  }
+ ],
+ "market": {
+  "count": "124.079",
+  "label": "titolari, CEO e direttori di aziende italiane della distribuzione e vendita alimentare da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "distribuzione alimentare"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}
