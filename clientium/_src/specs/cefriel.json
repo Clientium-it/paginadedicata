@@ -1,0 +1,90 @@
+{
+ "slug": "cefriel",
+ "company": "Cefriel",
+ "first_name": "Roberta",
+ "domain": "cefriel.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Ricerca, innovazione e formazione digitale per imprese e Pubbliche Amministrazioni. Ecco chi contatteremmo per Cefriel.",
+ "market_note": "Cefriel affianca imprese e Pubbliche Amministrazioni nei percorsi di innovazione digitale, dalla cybersecurity alla formazione, quindi parleremmo con chi guida innovazione, digitale e sviluppo delle competenze.",
+ "evidence": [
+  {
+   "claim": "Centro di ricerca, innovazione e formazione",
+   "url": "https://www.cefriel.com/",
+   "quote": "Un centro di Ricerca, Innovazione e Formazione"
+  },
+  {
+   "claim": "Serve imprese e Pubbliche Amministrazioni",
+   "url": "https://www.cefriel.com/",
+   "quote": "I nostri servizi per le imprese e le Pubbliche Amministrazioni"
+  },
+  {
+   "claim": "Affianca le imprese nei percorsi di innovazione",
+   "url": "https://www.cefriel.com/i-nostri-servizi/",
+   "quote": "Cefriel aiuta nel costruire il percorso di innovazione più adatto"
+  },
+  {
+   "claim": "Offre servizi di cybersecurity alle imprese",
+   "url": "https://www.cefriel.com/i-nostri-servizi/cybersecurity/",
+   "quote": "Aiutiamo le piccole e medie imprese a decodificare e affrontare la complessità del rischio cyber"
+  },
+  {
+   "claim": "Realizza percorsi di formazione digitale",
+   "url": "https://www.cefriel.com/i-nostri-servizi/formazione/",
+   "quote": "Cefriel School of Digital Innovation realizza percorsi di formazione"
+  },
+  {
+   "claim": "Progetta Master universitari del Politecnico di Milano per le aziende",
+   "url": "https://www.cefriel.com/i-nostri-servizi/formazione/",
+   "quote": "Cefriel progetta e realizza Master universitari del Politecnico di Milano per le aziende"
+  },
+  {
+   "claim": "Clienti sono imprese e Pubbliche Amministrazioni",
+   "url": "https://www.cefriel.com/",
+   "quote": "I nostri servizi per le imprese e le Pubbliche Amministrazioni"
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori di imprese italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "imprese e Pubbliche Amministrazioni"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

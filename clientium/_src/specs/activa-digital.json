@@ -1,0 +1,81 @@
+{
+ "slug": "activa-digital",
+ "company": "Activa Digital",
+ "first_name": "Silvia",
+ "domain": "activadigital.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Tech company che guida l'innovazione di imprese e PA tra infrastrutture, cloud e cybersecurity. Ecco chi contatteremmo per Activa Digital.",
+ "market_note": "Activa Digital è una tech company che realizza infrastrutture ICT, cloud e cybersecurity per imprese e PA, quindi parleremmo con chi guida le scelte tecnologiche e la sicurezza.",
+ "evidence": [
+  {
+   "claim": "Tech company che guida l'innovazione di imprese e PA",
+   "url": "https://www.activadigital.it/",
+   "quote": "Siamo una tech company che guida l’innovazione di Imprese e PA"
+  },
+  {
+   "claim": "Realizza infrastrutture ICT, data center e cloud",
+   "url": "https://www.activadigital.it/",
+   "quote": "Disegniamo e realizziamo Infrastrutture ICT, Data Center e servizi di migrazione Cloud OnPremise."
+  },
+  {
+   "claim": "Si occupa di cybersecurity per il business dei clienti",
+   "url": "https://www.activadigital.it/",
+   "quote": "Proteggiamo il tuo business, ogni giorno."
+  },
+  {
+   "claim": "Progetta e realizza infrastrutture ICT, data center e migrazione cloud",
+   "url": "https://www.activadigital.it/",
+   "quote": "Disegniamo e realizziamo Infrastrutture ICT, Data Center e servizi di migrazione Cloud OnPremise."
+  },
+  {
+   "claim": "Vende a imprese e PA",
+   "url": "https://www.activadigital.it/",
+   "quote": "Siamo una tech company che guida l’innovazione di Imprese e PA"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "CIO, CTO e responsabili IT di imprese e pubbliche amministrazioni strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "CIO e responsabili IT",
+   "imprese e PA"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "slug": "bercella",
+ "company": "Bercella",
+ "first_name": "Massimo",
+ "domain": "bercella.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Fibra di carbonio e materiali compositi per aviazione, spazio e difesa. Ecco chi contatteremmo per Bercella.",
+ "market_note": "Bercella progetta e produce strutture in fibra di carbonio e materiali compositi per aviazione, spazio, difesa e motorsport, quindi parleremmo con chi guida programmi e acquisti tecnici in industrie avanzate.",
+ "evidence": [
+  {
+   "claim": "Fibra di carbonio e materiali compositi sono il core dell'azienda",
+   "url": "https://bercella.it/",
+   "quote": "ha fatto della Fibra di Carbonio e dei Materiali Compositi la propria filosofia di vita"
+  },
+  {
+   "claim": "Settori principali aviazione, spazio e difesa",
+   "url": "https://bercella.it/",
+   "quote": "dell’Aviazione, dello Spazio, e della Difesa, che oggi rappresentano i settori di applicazione principali"
+  },
+  {
+   "claim": "Fornisce sistemi su misura a industrie avanzate",
+   "url": "https://bercella.it/about-us/",
+   "quote": "fornire ad industrie avanzate sistemi su misura"
+  },
+  {
+   "claim": "Opera nel settore delle corse e del motorsport",
+   "url": "https://bercella.it/about-us/",
+   "quote": "a partire dal settore delle corse internazionali"
+  },
+  {
+   "claim": "Produce strutture in fibra di carbonio per aviazione, spazio e difesa",
+   "url": "https://bercella.it/",
+   "quote": "dell’Aviazione, dello Spazio, e della Difesa, che oggi rappresentano i settori di applicazione principali"
+  },
+  {
+   "claim": "Clienti in industrie avanzate di aerospazio, difesa e automotive",
+   "url": "https://bercella.it/about-us/",
+   "quote": "fornire ad industrie avanzate sistemi su misura"
+  }
+ ],
+ "market": {
+  "count": "4.655",
+  "label": "titolari, CEO e direttori di aziende di aerospazio, difesa e automotive in Italia da 50 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "50+ addetti",
+   "aerospazio e difesa",
+   "automotive e racing"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"aerospace,defense and space manufacturing,automotive,motorsports\"}"
+ }
+}

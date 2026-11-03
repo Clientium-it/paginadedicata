@@ -1,0 +1,82 @@
+{
+ "slug": "alcea",
+ "company": "ALCEA",
+ "first_name": "Matteo",
+ "domain": "alcea.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Da 90 anni producono vernici per industria, legno ed edilizia. Ecco chi contatteremmo per ALCEA.",
+ "market_note": "ALCEA da oltre 90 anni produce vernici industriali per i settori Industria, Legno, CPS, Coil e Rivendita, quindi parleremmo con chi decide su verniciatura e protezione dei materiali.",
+ "evidence": [
+  {
+   "claim": "Produce vernici da 90 anni",
+   "url": "https://www.alcea.com/",
+   "quote": "Da 90 anni produciamo vernici che rendono il mondo più bello e protetto"
+  },
+  {
+   "claim": "Serve i settori industria, legno ed edilizia",
+   "url": "https://www.alcea.com/",
+   "quote": "Industria, Legno, CPS, Coil e Rivendita: vernici per tutte le esigenze"
+  },
+  {
+   "claim": "Produce vernici industriali collaudate e certificate",
+   "url": "https://www.alcea.com/azienda/chi-siamo-alcea/",
+   "quote": "produrre in tempo reale smalti e vernici industriali collaudate e certificate"
+  },
+  {
+   "claim": "Vernici per carrozzerie, carpenteria, macchine agricole e movimento terra",
+   "url": "https://www.alcea.com/settori/vernici-industria/",
+   "quote": "carrozzerie industriali, carpenteria, macchine agricole e movimento terra"
+  },
+  {
+   "claim": "Serve le imprese di costruzione dell'ingegneria civile e industriale",
+   "url": "https://www.alcea.com/settori/cps-vernici-specialistiche-edilizia/",
+   "quote": "Alle imprese di costruzione che operano nel campo dell’ingegneria civile ed industriale"
+  }
+ ],
+ "market": {
+  "count": "25.349",
+  "label": "titolari, CEO e direttori di aziende manifatturiere, del legno e delle costruzioni in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "industria",
+   "legno",
+   "edilizia"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"manufacturing,construction,furniture,machinery manufacturing,building material\"}"
+ }
+}

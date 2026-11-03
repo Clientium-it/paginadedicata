@@ -1,0 +1,86 @@
+{
+ "slug": "cleafy",
+ "company": "Cleafy",
+ "first_name": "Carmine",
+ "domain": "cleafy.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Protezione dalle frodi digitali per banche e istituti finanziari. Ecco chi contatteremmo per Cleafy.",
+ "market_note": "Cleafy protegge dalle frodi digitali le principali banche e gli istituti finanziari, quindi parleremmo con chi guida la sicurezza informatica e le operazioni antifrode.",
+ "evidence": [
+  {
+   "claim": "Aiuta a fermare le frodi del digital banking",
+   "url": "https://cleafy.com/",
+   "quote": "See, understand, and stop digital banking fraud."
+  },
+  {
+   "claim": "Serve banche e istituti finanziari",
+   "url": "https://cleafy.com/",
+   "quote": "Trusted by leading banks and FIs"
+  },
+  {
+   "claim": "Protegge grandi banche e provider di pagamento online",
+   "url": "https://cleafy.com/about-us",
+   "quote": "We safeguard the world's largest banks and online payment providers."
+  },
+  {
+   "claim": "Protegge grandi banche e provider di pagamento online",
+   "url": "https://cleafy.com/about-us",
+   "quote": "We safeguard the world's largest banks and online payment providers."
+  },
+  {
+   "claim": "Rivolta ai servizi finanziari",
+   "url": "https://cleafy.com/industries",
+   "quote": "Unified fraud protection for every financial service"
+  },
+  {
+   "claim": "Opera nel digital banking",
+   "url": "https://cleafy.com/industries",
+   "quote": "Building trust in digital banking"
+  }
+ ],
+ "market": {
+  "count": "1.482",
+  "label": "responsabili sicurezza informatica e antifrode di banche e istituti finanziari italiani oltre 200 addetti",
+  "chips": [
+   "Italia",
+   "oltre 200 addetti",
+   "banche",
+   "servizi finanziari"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"banking,financial services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

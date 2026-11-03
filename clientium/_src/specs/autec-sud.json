@@ -1,0 +1,81 @@
+{
+ "slug": "autec-sud",
+ "company": "Autec Sud",
+ "first_name": "Rocco",
+ "domain": "autecsud.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progetta e costruisce impianti industriali e di automazione. Ecco chi contatteremmo per Autec Sud.",
+ "market_note": "Autec Sud progetta e costruisce impianti industriali e di automazione, impianti robotizzati e sistemi di trasporto, quindi parleremmo con chi decide su automazione, impianti e nuove linee di produzione.",
+ "evidence": [
+  {
+   "claim": "Progetta e costruisce impianti industriali e di automazione",
+   "url": "http://www.autecsud.it/home/",
+   "quote": "progettazione e costruzione di impianti industriali e di automazione"
+  },
+  {
+   "claim": "Realizza impianti robotizzati e sistemi di trasporto",
+   "url": "http://www.autecsud.it/home/",
+   "quote": "sistemi di trasporto; impianti robotizzati; banchi di controllo e assemblaggio"
+  },
+  {
+   "claim": "Sviluppa software per impianti di trasporto",
+   "url": "http://www.autecsud.it/home/portfolio/new-holland/",
+   "quote": "Sviluppo software impianto di trasporto birotaia reparto verniciatura"
+  },
+  {
+   "claim": "Ha lavorato allo stabilimento CNH di Lecce",
+   "url": "http://www.autecsud.it/home/portfolio/new-holland/",
+   "quote": "Stabilimento CNH di Lecce"
+  },
+  {
+   "claim": "Ha clienti industriali nel settore automotive",
+   "url": "http://www.autecsud.it/home/portfolio/mitsubishi-motors-brasile/",
+   "quote": "stabilimento Mitsubishi Motors di Catalão"
+  }
+ ],
+ "market": {
+  "count": "23.164",
+  "label": "titolari, CEO e direttori di aziende industriali e manifatturiere strutturate in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "industria e manifattura",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"industrial automation,manufacturing,automotive\"}"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "contents-com",
+ "company": "Contents.com",
+ "first_name": "Massimiliano",
+ "domain": "contents.ai",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Una piattaforma per gestire i contenuti su scala per le aziende. Ecco chi contatteremmo per Contents.com.",
+ "market_note": "Contents.com è la piattaforma che permette alle aziende di gestire le operazioni di contenuto su scala, quindi parleremmo con chi guida marketing e contenuti nelle imprese strutturate.",
+ "evidence": [
+  {
+   "claim": "Piattaforma che fa gestire alle aziende le operazioni di contenuto su scala",
+   "url": "https://www.contents.com/",
+   "quote": "The execution platform that lets enterprises run content operations at scale"
+  },
+  {
+   "claim": "Vende alle aziende una piattaforma per operazioni di contenuto su scala",
+   "url": "https://www.contents.com/",
+   "quote": "The execution platform that lets enterprises run content operations at scale"
+  },
+  {
+   "claim": "Orchestra i migliori modelli AI del mercato senza vendor lock in",
+   "url": "https://www.contents.com/",
+   "quote": "Contents orchestrates the best AI models on the market"
+  },
+  {
+   "claim": "Si rivolge alle aziende che gestiscono contenuti su scala",
+   "url": "https://www.contents.com/",
+   "quote": "The execution platform that lets enterprises run content operations at scale"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate da 50 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "da 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

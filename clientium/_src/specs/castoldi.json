@@ -1,0 +1,91 @@
+{
+ "slug": "castoldi",
+ "company": "Castoldi",
+ "first_name": "Giacomo",
+ "domain": "castoldijet.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Costruttori di waterjet e tender per superyacht, innovatori della propulsione a idrogetto dal 1962. Ecco chi contatteremmo per Castoldi.",
+ "market_note": "Castoldi produce idrogetti e jet tender per superyacht e cerca distributori in tutto il mondo, quindi parleremmo con chi guida i cantieri nautici e le aziende che li adottano.",
+ "evidence": [
+  {
+   "claim": "Produce waterjet e tender per superyacht",
+   "url": "https://www.castoldijet.it/",
+   "quote": "SOLAS rescue, Superyacht Tenders, Solas tenders - Castoldi Jet Tenders"
+  },
+  {
+   "claim": "Innovatore della propulsione a idrogetto",
+   "url": "https://www.castoldijet.it/about-us/",
+   "quote": "Castoldi Company is unanimously considered the innovator of the waterjet propulsion system"
+  },
+  {
+   "claim": "Attiva dal 1962",
+   "url": "https://www.castoldijet.it/about-us/",
+   "quote": "Since the beginning of the first research and developments in 1962 until today Castoldi is still leading the edge"
+  },
+  {
+   "claim": "Produce jet tender per superyacht",
+   "url": "https://www.castoldijet.it/",
+   "quote": "SOLAS rescue, Superyacht Tenders, Solas tenders - Castoldi Jet Tenders"
+  },
+  {
+   "claim": "Cerca distributori in tutto il mondo",
+   "url": "https://www.castoldijet.it/",
+   "quote": "Castoldi S.r.L. is always looking to partner with distinguished distributors across the globe."
+  },
+  {
+   "claim": "Pioniere della propulsione a idrogetto per superyacht",
+   "url": "https://www.castoldijet.it/about-us/",
+   "quote": "Castoldi Company is unanimously considered the innovator of the waterjet propulsion system"
+  },
+  {
+   "claim": "Vende a livello mondiale tramite distributori",
+   "url": "https://www.castoldijet.it/",
+   "quote": "Castoldi S.r.L. is always looking to partner with distinguished distributors across the globe."
+  }
+ ],
+ "market": {
+  "count": "180",
+  "label": "titolari, CEO e amministratori di cantieri nautici e aziende della nautica strutturate in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "cantieri nautici",
+   "shipbuilding"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"shipbuilding\"}"
+ }
+}

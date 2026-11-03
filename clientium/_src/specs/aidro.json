@@ -1,0 +1,92 @@
+{
+ "slug": "aidro",
+ "company": "Aidro",
+ "first_name": "Valeria",
+ "domain": "aidro.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Componenti idraulici e soluzioni di additive manufacturing per energia, aerospazio e idraulica. Ecco chi contatteremmo per Aidro.",
+ "market_note": "Aidro produce a Taino componenti idraulici e parti in additive manufacturing per diversi settori industriali, quindi parleremmo con chi decide su valvole, manifold e soluzioni per applicazioni idrauliche.",
+ "evidence": [
+  {
+   "claim": "Produce componenti di fluid power, valvole e manifold",
+   "url": "https://aidro.it/",
+   "quote": "Fluid Power parts, valves and manifolds"
+  },
+  {
+   "claim": "Ha introdotto additive manufacturing accanto alla produzione idraulica",
+   "url": "https://aidro.it/",
+   "quote": "Aidro has introduced Additive Manufacturing alongside the conventional hydraulics production"
+  },
+  {
+   "claim": "Serve i settori energia, aerospazio e oil & gas",
+   "url": "https://aidro.it/about-us/",
+   "quote": "expanded its activity to other sectors such as aerospace, energy and oil & gas"
+  },
+  {
+   "claim": "I prodotti sono usati in diversi settori industriali",
+   "url": "https://aidro.it/",
+   "quote": "Our products are used in several industrial sectors"
+  },
+  {
+   "claim": "La sede e a Taino in provincia di Varese",
+   "url": "https://aidro.it/about-us/",
+   "quote": "established a new headquarters in Taino (Varese)"
+  },
+  {
+   "claim": "Additive manufacturing affiancato all'idraulica tradizionale",
+   "url": "https://aidro.it/",
+   "quote": "Aidro has introduced Additive Manufacturing alongside the conventional hydraulics production"
+  },
+  {
+   "claim": "Prodotti impiegati anche nei settori oil & gas e maritime",
+   "url": "https://aidro.it/",
+   "quote": "Our products are also employed in Oil & gas and maritime sectors"
+  }
+ ],
+ "market": {
+  "count": "14.644",
+  "label": "direttori tecnici, titolari e CEO di aziende manifatturiere e industriali in Italia da 50 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "da 50 addetti",
+   "aerospazio",
+   "energia",
+   "oil and gas"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"aerospace,energy,oil and gas,industrial,machinery manufacturing\"}"
+ }
+}

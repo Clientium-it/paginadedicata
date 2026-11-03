@@ -1,0 +1,85 @@
+{
+ "slug": "cosmico",
+ "company": "Cosmico",
+ "first_name": "Francesco",
+ "domain": "wearecosmico.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Un team di design, tech e marketing per far crescere il business delle aziende. Ecco chi contatteremmo per Cosmico.",
+ "market_note": "Cosmico mette a disposizione team di design, tech e marketing per aziende che vogliono innovare e crescere, quindi parleremmo con chi guida marketing, prodotto e progetti digitali.",
+ "evidence": [
+  {
+   "claim": "team di design per far crescere il business",
+   "url": "https://wearecosmico.com/it",
+   "quote": "Attiva il potenziale del design per elevare il tuo business e trasforma la creatività nel tuo vantaggio competitivo."
+  },
+  {
+   "claim": "team di tech per i progetti",
+   "url": "https://wearecosmico.com/it",
+   "quote": "Potenzia i tuoi progetti con la tecnologia che ti aiuta ainnovare, accelerare e scalare."
+  },
+  {
+   "claim": "team di marketing per far crescere il business",
+   "url": "https://wearecosmico.com/it",
+   "quote": "Fai crescere il tuo business con azioni capaci di attrarre l'attenzione, coinvolgere e convertire."
+  },
+  {
+   "claim": "lavora con aziende",
+   "url": "https://wearecosmico.com/it",
+   "quote": "Lavora, impara e cresci insieme a grandi aziende e professionisti di tutto il mondo."
+  },
+  {
+   "claim": "team giusto per chi ha una nuova sfida",
+   "url": "https://wearecosmico.com/it",
+   "quote": "Hai una nuova sfida? Abbiamo il team giusto per te."
+  },
+  {
+   "claim": "clienti aziende",
+   "url": "https://wearecosmico.com/it",
+   "quote": "Lavora, impara e cresci insieme a grandi aziende e professionisti di tutto il mondo."
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

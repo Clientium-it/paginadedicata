@@ -1,0 +1,80 @@
+{
+ "slug": "20tab",
+ "company": "20tab",
+ "first_name": "Gabriele",
+ "domain": "20tab.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza digitale per prodotti, processi e sistemi delle organizzazioni. Ecco chi contatteremmo per 20tab.",
+ "market_note": "20tab progetta, costruisce e fa evolvere prodotti, processi e sistemi digitali per aziende e organizzazioni, quindi parleremmo con chi guida la trasformazione digitale e lo sviluppo prodotto.",
+ "evidence": [
+  {
+   "claim": "Consulenza digitale per prodotti, processi e sistemi",
+   "url": "https://www.20tab.com/",
+   "quote": "We help organizations design, build, and evolve digital products, processes, and systems."
+  },
+  {
+   "claim": "Progetta, costruisce e fa evolvere prodotti, processi e sistemi digitali",
+   "url": "https://www.20tab.com/services",
+   "quote": "We work alongside organizations to design, build, and evolve digital products, processes, and systems."
+  },
+  {
+   "claim": "Progetta e fa evolvere prodotti, processi e sistemi digitali",
+   "url": "https://www.20tab.com/about-us",
+   "quote": "We design, build, and evolve digital products, processes, and systems through integrated expertise across technology, growth, and delivery."
+  },
+  {
+   "claim": "Lavora con aziende, enti pubblici e organizzazioni internazionali",
+   "url": "https://www.20tab.com/services",
+   "quote": "We collaborate with private companies, public institutions, and international organizations operating in complex and highly regulated environments."
+  },
+  {
+   "claim": "Opera in tutta Italia",
+   "url": "https://www.20tab.com/connect/contact-us",
+   "quote": "working remotely across Italy and internationally."
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori di aziende e organizzazioni strutturate in Italia da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende e organizzazioni strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

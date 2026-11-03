@@ -1,0 +1,86 @@
+{
+ "slug": "adue",
+ "company": "ADUE",
+ "first_name": "Rita",
+ "domain": "adue.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Impianti automatici per la preparazione di bevande e il trattamento acqua. Ecco chi contatteremmo per ADUE.",
+ "market_note": "ADUE progetta e costruisce impianti automatici per la preparazione di bevande e il trattamento acqua per le aziende dell'imbottigliamento, quindi parleremmo con chi decide su produzione e nuovi impianti.",
+ "evidence": [
+  {
+   "claim": "Fa impianti automatici per la preparazione di bevande e trattamento acqua",
+   "url": "https://www.adue.it/",
+   "quote": "Automated Beverage preparation equipment and Water treatment plants"
+  },
+  {
+   "claim": "Progetta, costruisce e installa impianti automatici di processo",
+   "url": "https://www.adue.it/oursolutions/beverage-preparation/",
+   "quote": "ADUE designs, manufactures and installs complete and automated process plants suitable for preparation of the following products"
+  },
+  {
+   "claim": "Vende alle aziende di imbottigliamento di tutto il mondo",
+   "url": "https://www.adue.it/",
+   "quote": "Since 1967, ADUE provides Tailor Made solutions to worldwide leading bottling companies"
+  },
+  {
+   "claim": "Soluzioni su misura ai leader dell'imbottigliamento mondiali dal 1967",
+   "url": "https://www.adue.it/",
+   "quote": "Since 1967, ADUE provides Tailor Made solutions to worldwide leading bottling companies"
+  },
+  {
+   "claim": "Progetta e installa impianti di trattamento acqua per la produzione di bevande",
+   "url": "https://www.adue.it/oursolutions/water-treatment/",
+   "quote": "ADUE designs, manufacture and install tailored Water Treatment Plants"
+  },
+  {
+   "claim": "Serve anche il settore food",
+   "url": "https://www.adue.it/oursolutions/food-applications/",
+   "quote": "ADUE can supply equipment for the FOOD sector"
+  }
+ ],
+ "market": {
+  "count": "2.767",
+  "label": "titolari, CEO e direttori di aziende italiane del beverage e del food con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "beverage",
+   "food"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"beverage manufacturing,food and beverage manufacturing\"}"
+ }
+}

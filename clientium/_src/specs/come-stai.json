@@ -1,0 +1,80 @@
+{
+ "slug": "come-stai",
+ "company": "Come Stai",
+ "first_name": "Paolo",
+ "domain": "comestai.io",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Una app di benessere e prevenzione, proposta alle aziende come welfare per i dipendenti. Ecco chi contatteremmo per Come Stai.",
+ "market_note": "Come Stai offre alle grandi aziende e PMI pacchetti di welfare aziendale basati sulla sua app di prevenzione, quindi parleremmo con chi decide su benessere e welfare dei dipendenti.",
+ "evidence": [
+  {
+   "claim": "app di benessere e prevenzione",
+   "url": "https://comestai.io/",
+   "quote": "App Benessere e Prevenzione"
+  },
+  {
+   "claim": "proposta alle aziende come welfare",
+   "url": "https://comestai.io/welfare-sanitario-aziendale/",
+   "quote": "Una soluzione per il welfare aziendale"
+  },
+  {
+   "claim": "pacchetti di welfare per grandi aziende e PMI",
+   "url": "https://comestai.io/welfare-sanitario-aziendale/",
+   "quote": "Per le grandi aziende e PMI sono disponibili pacchetti su misura"
+  },
+  {
+   "claim": "la app come strumento di welfare per le aziende",
+   "url": "https://comestai.io/welfare-sanitario-aziendale/",
+   "quote": "comestai app è uno strumento indicato per le aziende"
+  },
+  {
+   "claim": "vende welfare ad aziende",
+   "url": "https://comestai.io/welfare-sanitario-aziendale/",
+   "quote": "Una soluzione per il welfare aziendale"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con più di 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "grandi aziende e PMI"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

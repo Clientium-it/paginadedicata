@@ -1,0 +1,75 @@
+{
+ "slug": "altea-federation",
+ "company": "Altea Federation",
+ "first_name": "Amalia",
+ "domain": "alteafederation.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza direzionale e informatica per abilitare il potenziale digitale delle imprese. Ecco chi contatteremmo per Altea Federation.",
+ "market_note": "Altea Federation offre servizi di consulenza direzionale e informatica per abilitare il potenziale digitale delle imprese, quindi parleremmo con chi guida l'innovazione tecnologica e i progetti digitali in azienda.",
+ "evidence": [
+  {
+   "claim": "offre consulenza direzionale e informatica per abilitare il potenziale digitale delle imprese",
+   "url": "https://alteafederation.it/about-us/",
+   "quote": "Altea Federation offre servizi di consulenza direzionale e informatica per abilitare il potenziale digitale delle imprese"
+  },
+  {
+   "claim": "consulenza direzionale e informatica per il potenziale digitale delle imprese",
+   "url": "https://alteafederation.it/about-us/",
+   "quote": "Altea Federation offre servizi di consulenza direzionale e informatica per abilitare il potenziale digitale delle imprese"
+  },
+  {
+   "claim": "da oltre 30 anni collabora con i leader mondiali dell'innovazione tecnologica per la trasformazione digitale delle aziende",
+   "url": "https://alteafederation.it/",
+   "quote": "Da oltre 30 anni, Altea Federation collabora con i leader mondiali dell’innovazione tecnologica per abilitare la trasformazione digitale delle aziende."
+  },
+  {
+   "claim": "presente in Italia e nel mondo con clienti internazionali",
+   "url": "https://alteafederation.it/about-us/",
+   "quote": "città in cui siamo presenti in Italia e nel mondo"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "da 50 addetti in su",
+   "trasformazione digitale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

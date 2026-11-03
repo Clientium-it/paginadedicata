@@ -1,0 +1,39 @@
+{
+ "slug": "biorsaf",
+ "company": "Biorsaf",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "campaign": "C17SN",
+ "level": 2,
+ "base_note": "Una pagina su chi contatteremmo per Biorsaf e su come lavoriamo.",
+ "base_market_note": "Per un'azienda di software e servizi IT partiremmo da chi guida l'IT nelle aziende con oltre 50 addetti in Emilia-Romagna.",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "market": {
+  "count": "832",
+  "label": "CIO, CTO e responsabili IT di aziende con oltre 50 addetti in Emilia-Romagna",
+  "chips": [
+   "Emilia-Romagna",
+   "da 201 a 1000 addetti",
+   "software e servizi IT"
+  ],
+  "regions": [
+   "Emilia-Romagna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"minEmployees\": 50, \"location\": \"Emilia-Romagna\"}"
+ },
+ "facts": {
+  "settore": "software e servizi IT (AI-ARK)",
+  "fascia": "201-1000 addetti (filtro Sales Navigator A2)",
+  "regione": "Emilia-Romagna (profilo LinkedIn: Bologna, Emilia-Romagna, Italy)"
+ }
+}

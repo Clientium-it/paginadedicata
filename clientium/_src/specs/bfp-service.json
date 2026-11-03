@@ -1,0 +1,81 @@
+{
+ "slug": "bfp-service",
+ "company": "BFP Service",
+ "first_name": "Annarita",
+ "domain": "bfpgroup.net",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Partner per un futuro rinnovabile, con costruzione e manutenzione di impianti fotovoltaici utility scale. Ecco chi contatteremmo per BFP Service.",
+ "market_note": "BFP Service costruisce e mantiene impianti fotovoltaici utility scale e opera su tutto il territorio nazionale, quindi parleremmo con chi guida aziende e progetti nel settore delle energie rinnovabili.",
+ "evidence": [
+  {
+   "claim": "partner per un futuro rinnovabile",
+   "url": "https://www.bfpgroup.net/",
+   "quote": "Your reliable partner for a renewable future"
+  },
+  {
+   "claim": "manutenzione di impianti fotovoltaici",
+   "url": "https://www.bfpgroup.net/",
+   "quote": "Elettricista specializzato nella manutenzione di impianti FV"
+  },
+  {
+   "claim": "costruzione di impianti fotovoltaici utility scale",
+   "url": "https://www.bfpgroup.net/",
+   "quote": "Caposquadra elettrico costruzione FV Utility Scale"
+  },
+  {
+   "claim": "operano su tutto il territorio nazionale",
+   "url": "https://www.bfpgroup.net/",
+   "quote": "con disponibilità a trasferte sull'intero territorio nazionale"
+  },
+  {
+   "claim": "zona di attività nazionale",
+   "url": "https://www.bfpgroup.net/",
+   "quote": "con disponibilità a trasferte sull'intero territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "1.556",
+  "label": "titolari, CEO e direttori di aziende del settore delle energie rinnovabili in Italia da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "energie rinnovabili",
+   "solare ed eolico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"renewable energy,solar,wind energy\"}"
+ }
+}

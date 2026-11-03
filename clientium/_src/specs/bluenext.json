@@ -1,0 +1,75 @@
+{
+ "slug": "bluenext",
+ "company": "Bluenext",
+ "first_name": "Giacomo",
+ "domain": "bluenext.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Software house italiana che sviluppa piattaforme gestionali per studi professionali e aziende. Ecco chi contatteremmo per Bluenext.",
+ "market_note": "Bluenext è una software house italiana che sviluppa piattaforme gestionali per studi professionali e aziende in contesti regolamentati, quindi parleremmo con chi decide su gestionali, digitalizzazione dei processi e compliance.",
+ "evidence": [
+  {
+   "claim": "Software house italiana che sviluppa piattaforme gestionali per studi professionali e aziende.",
+   "url": "https://www.bluenext.it/it/azienda/",
+   "quote": "software house italiana specializzata nello sviluppo di piattaforme gestionali per studi professionali e aziende"
+  },
+  {
+   "claim": "Sviluppa piattaforme gestionali per studi professionali e aziende in contesti regolamentati.",
+   "url": "https://www.bluenext.it/it/azienda/",
+   "quote": "Bluenext è una software house italiana specializzata nello sviluppo di piattaforme gestionali per studi professionali e aziende che operano in contesti complessi e regolamentati."
+  },
+  {
+   "claim": "Sviluppa piattaforme gestionali per studi professionali e aziende in contesti complessi e regolamentati.",
+   "url": "https://www.bluenext.it/it/azienda/",
+   "quote": "sviluppo di piattaforme gestionali per studi professionali e aziende che operano in contesti complessi e regolamentati"
+  },
+  {
+   "claim": "Presenza sul territorio nazionale, quindi tutta Italia.",
+   "url": "https://www.bluenext.it/it/azienda/",
+   "quote": "Con una presenza capillare sul territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "110.089",
+  "label": "titolari, CEO e direttori di aziende italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "PMI e studi"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

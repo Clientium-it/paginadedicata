@@ -1,0 +1,71 @@
+{
+ "slug": "ama",
+ "company": "AMA",
+ "first_name": "Adriatic",
+ "domain": "ama.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Componenti per macchine agricole, movimento terra e per la cura del verde. Ecco chi contatteremmo per AMA.",
+ "market_note": "AMA progetta e realizza componenti per macchine agricole e per la cura del verde, destinati a costruttori OEM e aziende After Market, quindi parleremmo con chi guida queste aziende.",
+ "evidence": [
+  {
+   "claim": "AMA progetta e realizza componenti per macchine agricole e per la cura del verde",
+   "url": "https://www.ama.it/chi-siamo/",
+   "quote": "Progettiamo e realizziamo componenti e attrezzature per macchine agricole, veicoli a lenta movimentazione (OHV) e per la cura del verde"
+  },
+  {
+   "claim": "progetta e realizza componenti per macchine agricole e per la cura del verde",
+   "url": "https://www.ama.it/chi-siamo/",
+   "quote": "Progettiamo e realizziamo componenti e attrezzature per macchine agricole, veicoli a lenta movimentazione (OHV) e per la cura del verde"
+  },
+  {
+   "claim": "vende a costruttori OEM e aziende After Market",
+   "url": "https://www.ama.it/chi-siamo/",
+   "quote": "soluzioni ideali per i business dei propri interlocutori, costruttori OEM e aziende After Market"
+  }
+ ],
+ "market": {
+  "count": "7.281",
+  "label": "direttori e titolari di aziende costruttrici di macchine e veicoli industriali in Italia oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "costruttori di macchine",
+   "OEM e aftermarket"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"machinery manufacturing,industrial machinery manufacturing\"}"
+ }
+}

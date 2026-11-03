@@ -1,0 +1,97 @@
+{
+ "slug": "cab-log",
+ "company": "Cab Log",
+ "first_name": "Massimo",
+ "domain": "cab-log.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Logistica integrata, distributiva ed industriale con servizi di outsourcing logistico. Ecco chi contatteremmo per Cab Log.",
+ "market_note": "Cab Log è un operatore logistico leader nazionale per i produttori di acqua, bibite gassate, birra e panettoni, quindi parleremmo con chi guida le aziende che esternalizzano la logistica.",
+ "evidence": [
+  {
+   "claim": "Si occupa di logistica integrata, distributiva ed industriale",
+   "url": "https://www.cab-log.it/",
+   "quote": "Logistica integrata, distributiva ed industriale"
+  },
+  {
+   "claim": "Offre progetti di outsourcing logistico",
+   "url": "https://www.cab-log.it/",
+   "quote": "progetti di outsourcing logistico"
+  },
+  {
+   "claim": "È un operatore logistico leader nazionale",
+   "url": "https://www.cab-log.it/",
+   "quote": "Cab Log è un operatore logistico leader nazionale"
+  },
+  {
+   "claim": "Serve i principali produttori di bevande e dolci da ricorrenza",
+   "url": "https://www.cab-log.it/",
+   "quote": "i principali produttori di acqua, bibite gassate, birra, panettoni"
+  },
+  {
+   "claim": "Gestisce la logistica dei principali produttori di acqua, bibite, birra e panettoni",
+   "url": "https://www.cab-log.it/",
+   "quote": "i principali produttori di acqua, bibite gassate, birra, panettoni"
+  },
+  {
+   "claim": "Serve clienti dei settori petfood e automotive",
+   "url": "https://www.cab-log.it/",
+   "quote": "alimenti per animali e automotive"
+  },
+  {
+   "claim": "Fornisce servizi logistici nel settore alimentare",
+   "url": "https://www.cab-log.it/",
+   "quote": "servizi logistici in ambito alimentare"
+  },
+  {
+   "claim": "Distribuisce in tutta Italia",
+   "url": "https://www.cab-log.it/azienda/partnership-e-brand/",
+   "quote": "Distribuzione prodotti in tutta Italia"
+  }
+ ],
+ "market": {
+  "count": "7.377",
+  "label": "direttori, titolari e CEO di aziende produttrici del food, beverage e petfood strutturate in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "aziende strutturate",
+   "food e beverage",
+   "petfood",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"food and beverage manufacturing,beverage manufacturing,pet,personal care product manufacturing,automotive\"}"
+ }
+}

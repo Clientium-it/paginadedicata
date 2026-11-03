@@ -1,0 +1,88 @@
+{
+ "slug": "cubbit",
+ "company": "Cubbit",
+ "first_name": "Alessandro",
+ "domain": "cubbit.io",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Cloud object storage sovrano e 100% europeo, con pieno controllo sui dati. Ecco chi contatteremmo per Cubbit.",
+ "market_note": "Cubbit offre a IT Service Provider ed enterprise un cloud object storage sovrano e 100% europeo, quindi parleremmo con chi decide sull'infrastruttura IT e sullo storage dei dati.",
+ "evidence": [
+  {
+   "claim": "Cloud object storage sovrano e 100% europeo",
+   "url": "https://www.cubbit.io/it",
+   "quote": "Sfrutta un cloud object storage sovrano e 100% europeo"
+  },
+  {
+   "claim": "Posizionamento sovrano e geo-resiliente",
+   "url": "https://www.cubbit.io/it",
+   "quote": "Sovrano e geo-resiliente by design."
+  },
+  {
+   "claim": "Offre servizi di storage S3 agli IT Service Provider",
+   "url": "https://www.cubbit.io/it/industries/it-service-provider",
+   "quote": "Offri servizi di storage S3 geo-distribuiti e a valore aggiunto"
+  },
+  {
+   "claim": "Cloud object storage sovrano e 100% europeo",
+   "url": "https://www.cubbit.io/it",
+   "quote": "Sfrutta un cloud object storage sovrano e 100% europeo"
+  },
+  {
+   "claim": "Servizi S3 a valore aggiunto dall'edge al cloud",
+   "url": "https://www.cubbit.io/it/industries",
+   "quote": "Offri servizi S3 a valore aggiunto, dall'edge al cloud"
+  },
+  {
+   "claim": "Settori clienti dichiarati dal sito",
+   "url": "https://www.cubbit.io/it/industries",
+   "quote": "IT Service Provider Healthcare Aerospazio e Satelliti Difesa e Settori Critici Istruzione e ricerca"
+  }
+ ],
+ "market": {
+  "count": "4.754",
+  "label": "responsabili IT, CIO e CTO di aziende e service provider italiani strutturati oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "IT service provider",
+   "healthcare",
+   "difesa",
+   "manifattura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"it services and it consulting,hospitals and health care,aerospace,defense and space manufacturing,education,telecommunications,government administration,manufacturing,media and entertainment\"}"
+ }
+}

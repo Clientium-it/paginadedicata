@@ -1,0 +1,77 @@
+{
+ "slug": "coesia",
+ "company": "Coesia",
+ "first_name": "Stefano",
+ "domain": "coesia.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni di packaging e automazione industriale per il mondo manifatturiero. Ecco chi contatteremmo per Coesia.",
+ "market_note": "Coesia porta soluzioni di packaging e automazione industriale al mondo manifatturiero di molti settori, quindi parleremmo con chi guida produzione, operations e stabilimenti.",
+ "evidence": [
+  {
+   "claim": "Produce soluzioni di packaging e automazione industriale per il mondo manifatturiero",
+   "url": "https://www.coesia.com/en",
+   "quote": "Whatever the industry, we have the right packaging and industrial automated solutions for the manufacturing world"
+  },
+  {
+   "claim": "Leader globale in soluzioni industriali e di packaging",
+   "url": "https://www.coesia.com/en",
+   "quote": "Global leaders in industrial and packaging solutions based on technological innovation."
+  },
+  {
+   "claim": "Sviluppa soluzioni di packaging e automazione per la manifattura",
+   "url": "https://www.coesia.com/en",
+   "quote": "Whatever the industry, we have the right packaging and industrial automated solutions for the manufacturing world"
+  },
+  {
+   "claim": "Serve settori come food, beverage, personal care, chemicals e tobacco",
+   "url": "https://www.coesia.com/en/contacts",
+   "quote": "several industries such as food, beverage, personal care, chemicals, tobacco among others"
+  }
+ ],
+ "market": {
+  "count": "12.462",
+  "label": "direttori, titolari e CEO di aziende manifatturiere italiane oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "food e beverage",
+   "pharma",
+   "automotive"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"packaging and containers manufacturing,food and beverage manufacturing,beverage manufacturing,personal care product manufacturing,chemical manufacturing,pharmaceutical manufacturing,automotive,aerospace\"}"
+ }
+}

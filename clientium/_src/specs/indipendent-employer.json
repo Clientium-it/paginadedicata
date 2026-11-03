@@ -1,0 +1,39 @@
+{
+ "slug": "indipendent-employer",
+ "company": "Indipendent Employer",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "campaign": "C17SN",
+ "level": 2,
+ "base_note": "Una pagina su chi contatteremmo per Indipendent Employer e su come lavoriamo.",
+ "base_market_note": "Per un'azienda di software e servizi IT partiremmo da chi guida l'IT nelle aziende con oltre 50 addetti in Lazio.",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "market": {
+  "count": "192",
+  "label": "CIO, CTO e responsabili IT di aziende con oltre 50 addetti in Lazio",
+  "chips": [
+   "Lazio",
+   "da 201 a 1000 addetti",
+   "software e servizi IT"
+  ],
+  "regions": [
+   "Lazio"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"minEmployees\": 50, \"location\": \"Lazio\"}"
+ },
+ "facts": {
+  "settore": "software e servizi IT (AI-ARK)",
+  "fascia": "201-1000 addetti (filtro Sales Navigator A2)",
+  "regione": "Lazio (profilo LinkedIn: Greater Rome Metropolitan Area)"
+ }
+}

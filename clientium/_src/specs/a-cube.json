@@ -1,0 +1,81 @@
+{
+ "slug": "a-cube",
+ "company": "A-Cube",
+ "first_name": "Antonio",
+ "domain": "acubeapi.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "A-Cube API trasforma obblighi fiscali complessi in processi automatici. Ecco chi contatteremmo per A-Cube.",
+ "market_note": "A-Cube offre API per la fatturazione elettronica e la tax compliance che si integrano con qualsiasi ERP, e-commerce o gestionale, quindi parleremmo con chi guida software house e sviluppo prodotto.",
+ "evidence": [
+  {
+   "claim": "A-Cube trasforma gli obblighi fiscali in processi automatici",
+   "url": "https://www.acubeapi.com/",
+   "quote": "A-Cube API trasforma obblighi fiscali complessi in processi automatici"
+  },
+  {
+   "claim": "Offre soluzioni per la tax compliance",
+   "url": "https://www.acubeapi.com/",
+   "quote": "La soluzione globale per la Tax Compliance"
+  },
+  {
+   "claim": "Le API si integrano con ERP, e-commerce o gestionali",
+   "url": "https://www.acubeapi.com/",
+   "quote": "si integrano con qualsiasi ERP, e-commerce o gestionale"
+  },
+  {
+   "claim": "Piattaforma API-first per sviluppatori e software house",
+   "url": "https://www.acubeapi.com/soluzioni/global-coverage-einvoicing",
+   "quote": "piattaforma API-first progettata per sviluppatori e software house"
+  },
+  {
+   "claim": "Opera in Italia e nei mercati globali",
+   "url": "https://www.acubeapi.com/",
+   "quote": "in Italia e nei mercati globali"
+  }
+ ],
+ "market": {
+  "count": "673",
+  "label": "CIO, CTO e responsabili IT di software house e aziende strutturate con fatturazione su più paesi",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "software house",
+   "e-commerce"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"software development,e-commerce\"}"
+ }
+}

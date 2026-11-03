@@ -1,0 +1,82 @@
+{
+ "slug": "atlanta-stretch",
+ "company": "Atlanta Stretch",
+ "first_name": "Andrea",
+ "domain": "atlantastretch.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Macchine automatiche e semiautomatiche per l'avvolgimento dei pallet con film estensibile. Ecco chi contatteremmo per Atlanta Stretch.",
+ "market_note": "Atlanta Stretch produce macchine per l'avvolgimento e la reggiatura dei pallet per ogni settore industriale, dal food al beverage, quindi parleremmo con chi decide sugli investimenti di fine linea.",
+ "evidence": [
+  {
+   "claim": "Progetta e produce macchine automatiche e semiautomatiche per l'avvolgimento dei pallet con film estensibile",
+   "url": "https://www.atlantastretch.com/company/",
+   "quote": "design and production of automatic and semi-automatic pallet wrapping machine"
+  },
+  {
+   "claim": "Produce macchine per l'avvolgimento e la reggiatura dei pallet",
+   "url": "https://www.atlantastretch.com/company/",
+   "quote": "pallet wrapping and strapping machines"
+  },
+  {
+   "claim": "Serve ogni settore industriale, dal food al beverage",
+   "url": "https://www.atlantastretch.com/",
+   "quote": "For each industrial sector, from food to beverage"
+  },
+  {
+   "claim": "Serve ogni settore industriale, dal food al beverage",
+   "url": "https://www.atlantastretch.com/",
+   "quote": "For each industrial sector, from food to beverage"
+  },
+  {
+   "claim": "Settori clienti dichiarati: cartone e tissue, chimico farmaceutico",
+   "url": "https://www.atlantastretch.com/",
+   "quote": "from the cardboard and tissue industry to the pharmaceutical chemical industry"
+  }
+ ],
+ "market": {
+  "count": "9.334",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane strutturate dai 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "da 50 addetti",
+   "food e beverage",
+   "chimico e farmaceutico",
+   "cartone e tissue"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"food and beverage,pharmaceutical,chemical,paper and forest product manufacturing\"}"
+ }
+}

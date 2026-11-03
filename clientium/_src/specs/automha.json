@@ -1,0 +1,82 @@
+{
+ "slug": "automha",
+ "company": "Automha",
+ "first_name": "Stefania",
+ "domain": "automha.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Magazzini automatici su misura per tutti i settori industriali. Ecco chi contatteremmo per Automha.",
+ "market_note": "Automha progetta magazzini automatici su misura per le aziende di tutti i settori industriali, quindi parleremmo con chi decide su logistica, produzione e automazione dei magazzini.",
+ "evidence": [
+  {
+   "claim": "Automha realizza magazzini automatici su misura per tutti i settori industriali",
+   "url": "https://www.automha.it/",
+   "quote": "Magazzini automatici su misura per tutti i settori industriali pensati per ottimizzare gli spazi, i tempi e i costi."
+  },
+  {
+   "claim": "Automha realizza magazzini automatici su misura per tutti i settori industriali",
+   "url": "https://www.automha.it/",
+   "quote": "Magazzini automatici su misura per tutti i settori industriali pensati per ottimizzare gli spazi, i tempi e i costi."
+  },
+  {
+   "claim": "Automha ha creato il magazzino automatico di rotoli di tessuto più grande del mondo",
+   "url": "https://www.automha.it/settori/magazzini-automatici-per-il-tessile/",
+   "quote": "ha portato Automha alla creazione del magazzino automatico di rotoli di tessuto più grande del mondo."
+  },
+  {
+   "claim": "Automha serve il settore farmaceutico",
+   "url": "https://www.automha.it/settori/magazzini-automatici-per-farmacie/",
+   "quote": "si sposano perfettamente alle esigenze del settore farmaceutico."
+  },
+  {
+   "claim": "Automha realizza magazzini automatici per il tessile",
+   "url": "https://www.automha.it/settori/magazzini-automatici-per-il-tessile/",
+   "quote": "realizzando su misura magazzini automatici per il tessile"
+  }
+ ],
+ "market": {
+  "count": "14.988",
+  "label": "titolari, CEO e direttori di aziende industriali strutturate in tutta Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "farmaceutico",
+   "tessile",
+   "logistica 3PL"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"pharmaceutical,textiles,food and beverage,logistics,automotive,industrial manufacturing,agriculture\"}"
+ }
+}

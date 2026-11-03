@@ -1,0 +1,76 @@
+{
+ "slug": "aktid",
+ "company": "AKTID",
+ "first_name": "Marco",
+ "domain": "aktid.fr",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Impianti chiavi in mano per la selezione e la valorizzazione dei rifiuti solidi. Ecco chi contatteremmo per AKTID.",
+ "market_note": "AKTID progetta e realizza impianti di selezione e valorizzazione dei rifiuti solidi per gli operatori dei centri di selezione, quindi parleremmo con chi decide gli investimenti nei nuovi impianti.",
+ "evidence": [
+  {
+   "claim": "AKTID realizza impianti chiavi in mano per la selezione e valorizzazione dei rifiuti solidi",
+   "url": "https://aktid.com/fr/",
+   "quote": "conçoit et réalise des installations de tri et de valorisation de déchets clés en main"
+  },
+  {
+   "claim": "AKTID progetta e realizza installazioni chiavi in mano di selezione e valorizzazione dei rifiuti",
+   "url": "https://aktid.com/fr/",
+   "quote": "conçoit et réalise des installations de tri et de valorisation de déchets clés en main"
+  },
+  {
+   "claim": "AKTID lavora per gli operatori dei centri di selezione dei rifiuti",
+   "url": "https://aktid.com/fr/",
+   "quote": "pour offrir aux exploitants le meilleur bilan économique"
+  },
+  {
+   "claim": "AKTID è un riferimento per gli impianti di selezione e valorizzazione dei rifiuti",
+   "url": "https://aktid.com/fr/",
+   "quote": "Aktid est devenu la référence des installations de tri et de valorisation de déchets"
+  }
+ ],
+ "market": {
+  "count": "713",
+  "label": "titolari, CEO e direttori di aziende italiane di gestione e riciclo dei rifiuti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "gestione rifiuti",
+   "riciclo"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"waste management,recycling\"}"
+ }
+}

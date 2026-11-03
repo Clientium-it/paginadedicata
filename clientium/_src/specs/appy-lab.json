@@ -1,0 +1,85 @@
+{
+ "slug": "appy-lab",
+ "company": "AppY Lab",
+ "first_name": "Cristiano",
+ "domain": "appylab.net",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Creiamo idee imprenditoriali digitali e soluzioni ad alto contenuto tecnologico per le aziende. Ecco chi contatteremmo per AppY Lab.",
+ "market_note": "AppY Lab sviluppa app web software e-commerce e machine learning per le aziende, quindi parleremmo con chi guida piccole e medie imprese pronte a innovarsi nel digitale.",
+ "evidence": [
+  {
+   "claim": "Creano idee imprenditoriali digitali",
+   "url": "https://appylab.net/",
+   "quote": "Creiamo idee imprenditoriali digitali"
+  },
+  {
+   "claim": "Realizzano soluzioni ad alto contenuto tecnologico",
+   "url": "https://appylab.net/chi-siamo/",
+   "quote": "idee e soluzioni ad alto contenuto tecnologico"
+  },
+  {
+   "claim": "Sviluppano app web software e-commerce e machine learning",
+   "url": "https://appylab.net/chi-siamo/",
+   "quote": "sviluppo di machine learning app web software e-commerce"
+  },
+  {
+   "claim": "Servono aziende che necessitano di tecnologie",
+   "url": "https://appylab.net/chi-siamo/",
+   "quote": "centinaia di aziende necessitano di tecnologie"
+  },
+  {
+   "claim": "Sviluppano app web software e-commerce e machine learning",
+   "url": "https://appylab.net/chi-siamo/",
+   "quote": "sviluppo di machine learning app web software e-commerce"
+  },
+  {
+   "claim": "Vendono a aziende",
+   "url": "https://appylab.net/chi-siamo/",
+   "quote": "centinaia di aziende necessitano di tecnologie"
+  }
+ ],
+ "market": {
+  "count": "75.714",
+  "label": "titolari, CEO e amministratori di piccole e medie imprese italiane da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "PMI"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "aviointeriors",
+ "company": "Aviointeriors",
+ "first_name": "Adolfo",
+ "domain": "aviointeriors.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progettano e producono sedili per aerei di alta qualità per le principali compagnie aeree. Ecco chi contatteremmo per Aviointeriors.",
+ "market_note": "Aviointeriors progetta e produce sedili per aerei destinati alle principali compagnie aeree, ai lessor e agli OEM, quindi parleremmo con chi decide sulle forniture di cabina.",
+ "evidence": [
+  {
+   "claim": "Progettano e producono sedili per aerei di alta qualità per le compagnie aeree",
+   "url": "https://aviointeriors.it/products/mya/",
+   "quote": "designing, certifying, manufacturing, and delivering high-quality aircraft passenger seats to leading airlines, lessors, MROs, and aircraft OEMs"
+  },
+  {
+   "claim": "Vendono sedili per aerei a compagnie aeree, lessor, MRO e OEM",
+   "url": "https://aviointeriors.it/products/allegra/",
+   "quote": "designing, certifying, manufacturing, and delivering high-quality aircraft passenger seats to leading airlines, lessors, MROs, and aircraft OEMs"
+  },
+  {
+   "claim": "Sono tra i principali produttori di sedili per aerei al mondo",
+   "url": "https://aviointeriors.it/about/",
+   "quote": "one of the leading aircraft seat manufacturers in the world"
+  },
+  {
+   "claim": "I loro clienti sono compagnie aeree e costruttori aeronautici",
+   "url": "https://aviointeriors.it/products/armonia/",
+   "quote": "high-quality aircraft passenger seats to leading airlines, lessors, MROs, and aircraft OEMs"
+  }
+ ],
+ "market": {
+  "count": "1.184",
+  "label": "direttori, CEO e titolari di compagnie aeree e costruttori aeronautici con oltre 200 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 200 addetti",
+   "aviazione e compagnie aeree"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 200, \"companyIndustry\": \"airlines and aviation,aerospace\"}"
+ }
+}

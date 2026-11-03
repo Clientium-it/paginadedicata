@@ -1,0 +1,82 @@
+{
+ "slug": "cms",
+ "company": "CMS",
+ "first_name": "Ugo",
+ "domain": "cms.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Produce centri di lavoro e sistemi per materiali avanzati, plastica, vetro, pietra e metallo. Ecco chi contatteremmo per CMS.",
+ "market_note": "CMS produce centri di lavoro e sistemi per materiali avanzati, plastica, vetro, pietra e metallo per settori come aerospazio e automotive, quindi parleremmo con chi guida la produzione industriale.",
+ "evidence": [
+  {
+   "claim": "Produce centri di lavoro e sistemi per materiali avanzati, plastica, vetro, pietra e metallo",
+   "url": "https://www.cms.it/en/company/company",
+   "quote": "manufactures cnc machines and systems for advanced materials"
+  },
+  {
+   "claim": "Produce macchine per la lavorazione di materiali avanzati, plastica, vetro, pietra e metallo",
+   "url": "https://www.cms.it/en/company/company",
+   "quote": "manufactures cnc machines and systems for advanced materials"
+  },
+  {
+   "claim": "Serve settori come aerospazio e automotive",
+   "url": "https://www.cms.it/en/company/company",
+   "quote": "aerospace automotive formula 1 marine industry eyewear wind turbines"
+  },
+  {
+   "claim": "Costruisce centri di lavoro e sistemi per la lavorazione di materiali avanzati, plastica, vetro, pietra e metallo",
+   "url": "https://www.cms.it/en/company/company",
+   "quote": "manufactures cnc machines and systems for advanced materials"
+  },
+  {
+   "claim": "Settori clienti serviti dal lead",
+   "url": "https://www.cms.it/en/company/company",
+   "quote": "aerospace automotive formula 1 marine industry eyewear wind turbines"
+  }
+ ],
+ "market": {
+  "count": "5.532",
+  "label": "titolari, CEO e direttori di aziende manifatturiere strutturate oltre 50 addetti nei settori aerospazio, automotive ed eyewear",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aerospazio",
+   "automotive",
+   "eyewear"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"aerospace,automotive,eyewear,architecture,wind energy\"}"
+ }
+}

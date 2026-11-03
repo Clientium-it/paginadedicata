@@ -1,0 +1,80 @@
+{
+ "slug": "brevetti-cea",
+ "company": "Brevetti CEA",
+ "first_name": "Massimo",
+ "domain": "brevetti-cea.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Sistemi di ispezione per l'industria farmaceutica dagli anni Cinquanta. Ecco chi contatteremmo per Brevetti CEA.",
+ "market_note": "Brevetti CEA produce da Sovizzo sistemi di ispezione per i prodotti iniettabili dell'industria farmaceutica, quindi parleremmo con chi guida produzione e qualità nelle aziende farmaceutiche.",
+ "evidence": [
+  {
+   "claim": "Produce sistemi di ispezione per l'industria farmaceutica dagli anni Cinquanta",
+   "url": "https://www.brevetti-cea.com/",
+   "quote": "Since the 1950’s Brevetti Cea has been manufacturing inspection systems for the pharmaceutical industry."
+  },
+  {
+   "claim": "Produce sistemi di ispezione per i prodotti iniettabili dell'industria farmaceutica",
+   "url": "https://www.brevetti-cea.com/company/our-history",
+   "quote": "Since the late 1950s, Brevetti CEA has been manufacturing inspection machines for injectable pharmaceutical products."
+  },
+  {
+   "claim": "Ha sede a Sovizzo (Vicenza)",
+   "url": "https://www.brevetti-cea.com/company/about-us",
+   "quote": "the headquarters located in Sovizzo, Vicenza (Italy)"
+  },
+  {
+   "claim": "Produce macchine di ispezione per prodotti iniettabili farmaceutici",
+   "url": "https://www.brevetti-cea.com/company/our-history",
+   "quote": "Since the late 1950s, Brevetti CEA has been manufacturing inspection machines for injectable pharmaceutical products."
+  },
+  {
+   "claim": "I clienti sono gruppi farmaceutici",
+   "url": "https://www.brevetti-cea.com/company/about-us",
+   "quote": "major international pharmaceutical groups"
+  }
+ ],
+ "market": {
+  "count": "4.659",
+  "label": "direttori, titolari e responsabili di produzione e qualità di aziende farmaceutiche italiane strutturate",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "farmaceutico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"pharmaceutical manufacturing,pharmaceutical\"}"
+ }
+}

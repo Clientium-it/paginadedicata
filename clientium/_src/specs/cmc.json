@@ -1,0 +1,82 @@
+{
+ "slug": "cmc",
+ "company": "CMC",
+ "first_name": "Domenico",
+ "domain": "cmcsolutions.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni automatizzate per imballaggio, posta e magazzino, progettate e costruite da oltre quarant'anni. Ecco chi contatteremmo per CMC.",
+ "market_note": "CMC progetta e costruisce soluzioni di automazione dell'imballaggio per e-commerce, retail e logistica in tutto il mondo, quindi parleremmo con chi guida operations e logistica nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Progetta e costruisce da oltre quarant'anni soluzioni per imballaggio, posta e magazzino.",
+   "url": "https://www.cmcsolutions.com/",
+   "quote": "CMC has engineered and manufactured solutions for packaging, mailing and warehouse processes"
+  },
+  {
+   "claim": "Vende soluzioni per e-commerce, retail e logistica in tutto il mondo.",
+   "url": "https://www.cmcsolutions.com/about-us/",
+   "quote": "CMC designs and manufactures solutions for e-commerce, retail, logistics and industrial operations worldwide"
+  },
+  {
+   "claim": "Serve i settori e-commerce, retail e logistica.",
+   "url": "https://www.cmcsolutions.com/",
+   "quote": "helping leading players across retail, e-commerce and logistics advance their automation journey"
+  },
+  {
+   "claim": "Opera da oltre quarant'anni.",
+   "url": "https://www.cmcsolutions.com/",
+   "quote": "For over 40 years, CMC has engineered and manufactured solutions for packaging"
+  },
+  {
+   "claim": "I settori clienti dichiarati sono e-commerce, retail e logistica.",
+   "url": "https://www.cmcsolutions.com/about-us/",
+   "quote": "CMC designs and manufactures solutions for e-commerce, retail, logistics and industrial operations worldwide"
+  }
+ ],
+ "market": {
+  "count": "12.160",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate dell'e-commerce, del retail e della logistica oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "e-commerce",
+   "retail",
+   "logistica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"e-commerce,retail,logistics,warehousing and storage\"}"
+ }
+}

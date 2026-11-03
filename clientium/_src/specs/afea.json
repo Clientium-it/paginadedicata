@@ -1,0 +1,76 @@
+{
+ "slug": "afea",
+ "company": "Afea",
+ "first_name": "Sandro",
+ "domain": "afeasanita.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Software sanitari e consulenza a valore per ospedali, case di cura, centri riabilitativi e poliambulatori. Ecco chi contatteremmo per Afea.",
+ "market_note": "Afea sviluppa software sanitari e consulenza a valore per ospedali, case di cura, centri riabilitativi e poliambulatori, quindi parleremmo con chi guida direzione sanitaria e sistemi informativi.",
+ "evidence": [
+  {
+   "claim": "sviluppa software sanitari e consulenza per strutture sanitarie",
+   "url": "https://afeasanita.it/case-studies/",
+   "quote": "dedita allo sviluppo di software sanitari e alla consulenza a valore per ospedali, case di cura, centri riabilitativi e poliambulatori"
+  },
+  {
+   "claim": "vende a ospedali, case di cura, centri riabilitativi e poliambulatori",
+   "url": "https://afeasanita.it/case-studies/",
+   "quote": "dedita allo sviluppo di software sanitari e alla consulenza a valore per ospedali, case di cura, centri riabilitativi e poliambulatori"
+  },
+  {
+   "claim": "gestionale sanitario H2O per la governance dei processi clinici e gestionali",
+   "url": "https://afeasanita.it/",
+   "quote": "Gestionale sanitario H2O. Un ecosistema informativo modulare per la governance dei processi clinici e gestionali"
+  },
+  {
+   "claim": "i clienti sono strutture sanitarie",
+   "url": "https://afeasanita.it/case-studies/",
+   "quote": "dedita allo sviluppo di software sanitari e alla consulenza a valore per ospedali, case di cura, centri riabilitativi e poliambulatori"
+  }
+ ],
+ "market": {
+  "count": "10.495",
+  "label": "direttori, titolari e CEO di strutture sanitarie come ospedali, case di cura e poliambulatori oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "ospedali e case di cura",
+   "sanità"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"hospital,health care\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

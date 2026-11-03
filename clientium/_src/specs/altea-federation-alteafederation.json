@@ -1,0 +1,75 @@
+{
+ "slug": "altea-federation-alteafederation",
+ "company": "Altea Federation",
+ "first_name": "Paolo",
+ "domain": "alteafederation.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza direzionale e informatica per abilitare il potenziale digitale delle imprese. Ecco chi contatteremmo per Altea Federation.",
+ "market_note": "Altea Federation accompagna le imprese nella trasformazione digitale con servizi di consulenza direzionale e informatica, quindi parleremmo con chi guida le scelte di innovazione delle aziende italiane.",
+ "evidence": [
+  {
+   "claim": "Offre consulenza direzionale e informatica per il potenziale digitale delle imprese",
+   "url": "https://alteafederation.it/",
+   "quote": "offre servizi di consulenza direzionale e informatica per abilitare il potenziale digitale delle imprese"
+  },
+  {
+   "claim": "Accompagna le imprese nella trasformazione digitale",
+   "url": "https://alteafederation.it/",
+   "quote": "Altea Federation accompagna le imprese in percorsi Human-Tech di Business Transformation"
+  },
+  {
+   "claim": "Collabora con i leader dell'innovazione per la trasformazione digitale delle aziende",
+   "url": "https://alteafederation.it/",
+   "quote": "collabora con i leader mondiali dell’innovazione tecnologica per abilitare la trasformazione digitale delle aziende"
+  },
+  {
+   "claim": "Presente in tutta Italia e nel mondo",
+   "url": "https://alteafederation.it/about-us/",
+   "quote": "città in cui siamo presenti in Italia e nel mondo"
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre i 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "aziende strutturate",
+   "oltre 50 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

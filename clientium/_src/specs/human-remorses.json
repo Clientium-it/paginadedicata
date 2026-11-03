@@ -1,0 +1,39 @@
+{
+ "slug": "human-remorses",
+ "company": "Human Remorses",
+ "first_name": "Alessio",
+ "domain": "",
+ "register": "lei",
+ "campaign": "C17SN",
+ "level": 2,
+ "base_note": "Una pagina su chi contatteremmo per Human Remorses e su come lavoriamo.",
+ "base_market_note": "Per un'azienda di software e servizi IT partiremmo da chi guida l'IT nelle aziende con oltre 50 addetti in Piemonte.",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "market": {
+  "count": "801",
+  "label": "CIO, CTO e responsabili IT di aziende con oltre 50 addetti in Piemonte",
+  "chips": [
+   "Piemonte",
+   "da 201 a 1000 addetti",
+   "software e servizi IT"
+  ],
+  "regions": [
+   "Piemonte"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"minEmployees\": 50, \"location\": \"Piedmont\"}"
+ },
+ "facts": {
+  "settore": "software e servizi IT (lista Sales Navigator A2)",
+  "fascia": "201-1000 addetti (filtro Sales Navigator A2)",
+  "regione": "Piemonte (profilo LinkedIn: Novara, Piedmont, Italy)"
+ }
+}

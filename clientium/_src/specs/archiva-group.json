@@ -1,0 +1,75 @@
+{
+ "slug": "archiva-group",
+ "company": "Archiva Group",
+ "first_name": "Luciano",
+ "domain": "archivagroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Dal 1998 pionieri nell'Enterprise Content e Process Management. Ecco chi contatteremmo per Archiva Group.",
+ "market_note": "Archiva Group dal 1998 sviluppa soluzioni di Enterprise Content e Process Management per Finance, HR e Supply Chain delle aziende, quindi parleremmo con chi decide su digitalizzazione documentale e processi.",
+ "evidence": [
+  {
+   "claim": "Dal 1998 pionieri nell'Enterprise Content e Process Management",
+   "url": "https://www.archivagroup.com/it",
+   "quote": "Dal 1998 pionieri nell'Enterprise Content & Process Management"
+  },
+  {
+   "claim": "Soluzioni per Finance, HR e Supply Chain",
+   "url": "https://www.archivagroup.com/it",
+   "quote": "Soluzioni per Finance, HR e Supply Chain"
+  },
+  {
+   "claim": "Pionieri ECPM dal 1998",
+   "url": "https://www.archivagroup.com/it",
+   "quote": "Dal 1998 pionieri nell'Enterprise Content & Process Management"
+  },
+  {
+   "claim": "Clienti sono gruppi industriali e aziende strutturate",
+   "url": "https://www.archivagroup.com/it",
+   "quote": "700 Gruppi industriali per 2.3K aziende Clienti"
+  }
+ ],
+ "market": {
+  "count": "137.321",
+  "label": "titolari, CEO e direttori di aziende strutturate in Italia da 50 addetti in su",
+  "chips": [
+   "tutta Italia",
+   "da 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

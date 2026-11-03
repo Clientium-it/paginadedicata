@@ -1,0 +1,76 @@
+{
+ "slug": "comarco",
+ "company": "Comarco",
+ "first_name": "Augusto",
+ "domain": "comarco.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni complete per il commercio internazionale delle materie prime per gli operatori industriali. Ecco chi contatteremmo per Comarco.",
+ "market_note": "Comarco ricerca e distribuisce materie prime operando come partner di società minerarie, produttori e trasformatori, quindi parleremmo con chi guida le aziende industriali che acquistano e trasformano commodities.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni complete per il commercio internazionale delle materie prime agli operatori industriali",
+   "url": "https://comarco.it/",
+   "quote": "Comarco offre agli operatori industriali soluzioni complete per il commercio internazionale delle materie prime"
+  },
+  {
+   "claim": "Ricerca e distribuisce materie prime come partner di società minerarie, produttori e trasformatori",
+   "url": "https://comarco.it/azienda/",
+   "quote": "Comarco ricerca e distribuisce materie prime operando come partner di Società Minerarie, Produttori e Trasformatori"
+  },
+  {
+   "claim": "Offre agli operatori industriali soluzioni per il commercio internazionale delle materie prime",
+   "url": "https://comarco.it/",
+   "quote": "Comarco offre agli operatori industriali soluzioni complete per il commercio internazionale delle materie prime"
+  },
+  {
+   "claim": "I clienti sono società minerarie, produttori e trasformatori industriali",
+   "url": "https://comarco.it/azienda/",
+   "quote": "operando come partner di Società Minerarie, Produttori e Trasformatori"
+  }
+ ],
+ "market": {
+  "count": "21.130",
+  "label": "titolari, CEO e direttori di aziende industriali strutturate dei settori minerario e manifatturiero oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "settore minerario",
+   "manifattura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"mining,manufacturing\"}"
+ }
+}

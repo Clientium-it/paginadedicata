@@ -1,0 +1,80 @@
+{
+ "slug": "adrilog",
+ "company": "Adrilog",
+ "first_name": "Luca",
+ "domain": "adri-log.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni di logistica integrata per le reali esigenze di aziende e persone. Ecco chi contatteremmo per Adrilog.",
+ "market_note": "Adrilog offre soluzioni di logistica integrata, dalla gestione dei magazzini al trasporto e distribuzione, alle aziende su tutto il territorio nazionale, quindi parleremmo con chi decide su magazzini e trasporti.",
+ "evidence": [
+  {
+   "claim": "Offre soluzioni di logistica integrata per le esigenze di aziende e persone",
+   "url": "https://www.adri-log.it/",
+   "quote": "soluzioni di logistica integrata capaci di rispondere alla reali esigenze di aziende e persone"
+  },
+  {
+   "claim": "Gestisce magazzini, trasporto e distribuzione",
+   "url": "https://www.adri-log.it/",
+   "quote": "dalla gestione dei magazzini al trasporto e distribuzione"
+  },
+  {
+   "claim": "Opera su tutto il territorio nazionale",
+   "url": "https://www.adri-log.it/chi-siamo/",
+   "quote": "Progettiamo e gestiamo servizi logistici su tutto il territorio nazionale"
+  },
+  {
+   "claim": "Offre soluzioni complete di logistica integrata",
+   "url": "https://www.adri-log.it/",
+   "quote": "Offriamo soluzioni complete di logistica integrata"
+  },
+  {
+   "claim": "Serve clienti su tutto il territorio nazionale",
+   "url": "https://www.adri-log.it/chi-siamo/",
+   "quote": "Progettiamo e gestiamo servizi logistici su tutto il territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

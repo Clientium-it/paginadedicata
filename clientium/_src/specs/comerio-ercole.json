@@ -1,0 +1,86 @@
+{
+ "slug": "comerio-ercole",
+ "company": "Comerio Ercole",
+ "first_name": "Riccardo",
+ "domain": "comercole.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Macchinari e impianti per i settori gomma, plastica e nonwoven, dal 1885. Ecco chi contatteremmo per Comerio Ercole.",
+ "market_note": "Comerio Ercole costruisce a Busto Arsizio macchinari e impianti per i settori gomma, plastica e nonwoven, quindi parleremmo con chi guida produzione e investimenti in queste industrie.",
+ "evidence": [
+  {
+   "claim": "Produce impianti per i settori gomma, plastica e nonwoven",
+   "url": "https://www.comercole.it/",
+   "quote": "Plants for the rubber, plastic and nonwoven sector"
+  },
+  {
+   "claim": "Attiva dal 1885",
+   "url": "https://www.comercole.it/",
+   "quote": "Made in Italy by Comerio Ercole since 1885"
+  },
+  {
+   "claim": "Sede a Busto Arsizio",
+   "url": "https://www.comercole.it/the-company/",
+   "quote": "based in Busto Arsizio"
+  },
+  {
+   "claim": "Produce impianti per gomma, plastica e nonwoven",
+   "url": "https://www.comercole.it/",
+   "quote": "Plants for the rubber, plastic and nonwoven sector"
+  },
+  {
+   "claim": "Attiva dal 1885",
+   "url": "https://www.comercole.it/",
+   "quote": "Made in Italy by Comerio Ercole since 1885"
+  },
+  {
+   "claim": "Clienti nei settori gomma, plastica e nonwoven",
+   "url": "https://www.comercole.it/",
+   "quote": "Plants for the rubber, plastic and nonwoven sector"
+  }
+ ],
+ "market": {
+  "count": "708",
+  "label": "titolari, CEO e direttori di industrie della gomma, della plastica e del nonwoven in Italia",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "gomma e plastica",
+   "nonwoven"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"plastics and rubber manufacturing,textile manufacturing\"}"
+ }
+}

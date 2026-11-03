@@ -1,0 +1,81 @@
+{
+ "slug": "cofil",
+ "company": "CoFil",
+ "first_name": "Giuseppe",
+ "domain": "cofil.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Meccanismi ad alte prestazioni per l'automazione industriale. Ecco chi contatteremmo per CoFil.",
+ "market_note": "CoFil sviluppa meccanismi per l'automazione industriale e lavora come partner di riferimento per OEM e industrie, quindi parleremmo con chi decide su automazione, meccatronica e nuovi progetti produttivi.",
+ "evidence": [
+  {
+   "claim": "Produce meccanismi ad alte prestazioni per l'automazione industriale",
+   "url": "https://www.cofil.com/",
+   "quote": "High-performance standard mechanisms for industrial automation."
+  },
+  {
+   "claim": "Sviluppa soluzioni per l'automazione industriale",
+   "url": "https://www.cofil.com/",
+   "quote": "High-performance standard mechanisms for industrial automation."
+  },
+  {
+   "claim": "E' partner di riferimento per OEM e industrie",
+   "url": "https://www.cofil.com/en/company/history",
+   "quote": "the reference partner for OEMs and industries"
+  },
+  {
+   "claim": "E' partner di riferimento per OEM e industrie nell'automazione industriale",
+   "url": "https://www.cofil.com/en/company/history",
+   "quote": "the reference partner for OEMs and industries"
+  },
+  {
+   "claim": "Collabora con costruttori di macchine e industrie specializzate",
+   "url": "https://www.cofil.com/en/company/history",
+   "quote": "collaboration with machine builders and highly specialized industries is consolidated"
+  }
+ ],
+ "market": {
+  "count": "5.952",
+  "label": "titolari, CEO e direttori di OEM e aziende industriali strutturate con oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "automazione industriale",
+   "produttori di macchine"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"industrial automation,machinery manufacturing\"}"
+ }
+}

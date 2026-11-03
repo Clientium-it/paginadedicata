@@ -1,0 +1,80 @@
+{
+ "slug": "aurora-biofarma",
+ "company": "Aurora Biofarma",
+ "first_name": "Andrea",
+ "domain": "aurorabiofarma.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Società farmaceutica italiana con divisione umana e veterinaria. Ecco chi contatteremmo per Aurora Biofarma.",
+ "market_note": "Aurora Biofarma, società farmaceutica italiana impegnata nella ricerca, produzione e distribuzione di soluzioni per persone e animali, quindi parleremmo con i titolari delle aziende che ne distribuirebbero i prodotti.",
+ "evidence": [
+  {
+   "claim": "società farmaceutica italiana",
+   "url": "https://www.aurorabiofarma.it/chi-siamo/",
+   "quote": "Siamo una società farmaceutica italiana con sede a Milano"
+  },
+  {
+   "claim": "due divisioni, umana e veterinaria",
+   "url": "https://www.aurorabiofarma.it/",
+   "quote": "Due divisioni, Umana e Veterinaria"
+  },
+  {
+   "claim": "ricerca, produzione e distribuzione per persone e animali",
+   "url": "https://www.aurorabiofarma.it/chi-siamo/",
+   "quote": "impegnata nella ricerca, produzione e distribuzione di soluzioni per il benessere delle persone e degli animali"
+  },
+  {
+   "claim": "linea di mangimi complementari per cani e gatti",
+   "url": "https://www.aurorabiofarma.it/",
+   "quote": "Una linea completa di mangimi complementari per cani e gatti"
+  },
+  {
+   "claim": "presenza sul mercato nazionale e internazionale",
+   "url": "https://www.aurorabiofarma.it/azienda/",
+   "quote": "Aurora in Italia e nel mondo"
+  }
+ ],
+ "market": {
+  "count": "86.964",
+  "label": "titolari e amministratori di aziende italiane strutturate da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "PMI strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

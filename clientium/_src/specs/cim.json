@@ -1,0 +1,87 @@
+{
+ "slug": "cim",
+ "company": "CIM",
+ "first_name": "Marco",
+ "domain": "cim40.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Innovazione in ambito digital factory e additive manufacturing al servizio delle imprese. Ecco chi contatteremmo per CIM.",
+ "market_note": "CIM affianca le imprese con consulenza, formazione e prototipazione per accelerare la trasformazione digitale in ambito digital factory e additive manufacturing, quindi parleremmo con chi guida la trasformazione industriale.",
+ "evidence": [
+  {
+   "claim": "Innovazione in ambito digital factory e additive manufacturing",
+   "url": "https://cim.eu/",
+   "quote": "CIM è il competence center dove l’innovazione in ambito digital factory e additive manufacturing prende forma."
+  },
+  {
+   "claim": "Affianca le imprese nei processi reali",
+   "url": "https://cim.eu/",
+   "quote": "progettato per affiancare le imprese, entrare nei processi reali e generare risultati misurabili"
+  },
+  {
+   "claim": "Servizi per accelerare la trasformazione digitale",
+   "url": "https://cim.eu/",
+   "quote": "CIM offre alle imprese servizi per accelerare la trasformazione digitale e l’adozione delle tecnologie"
+  },
+  {
+   "claim": "Dalla formazione alla prototipazione",
+   "url": "https://cim.eu/",
+   "quote": "dalla formazione alla prototipazione, fino al supporto per progetti di innovazione"
+  },
+  {
+   "claim": "Innovazione in ambito digital factory e additive manufacturing per le imprese",
+   "url": "https://cim.eu/",
+   "quote": "CIM è il competence center dove l’innovazione in ambito digital factory e additive manufacturing prende forma."
+  },
+  {
+   "claim": "Competenza nei settori automotive e aerospace",
+   "url": "https://cim.eu/",
+   "quote": "con particolare competenza in campo automotive e aerospace"
+  }
+ ],
+ "market": {
+  "count": "23.162",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "automotive",
+   "aerospace",
+   "manifattura"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive,aerospace,manufacturing\"}"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "slug": "yang-ming",
+ "company": "Yang Ming",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "campaign": "C17SN",
+ "level": 2,
+ "base_note": "Una pagina su chi contatteremmo per Yang Ming e su come lavoriamo.",
+ "base_market_note": "Per un'azienda del settore industriale partiremmo da chi guida le aziende manifatturiere con oltre 20 addetti in Liguria.",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "market": {
+  "count": "502",
+  "label": "titolari, CEO e direttori di aziende manifatturiere con oltre 20 addetti in Liguria",
+  "chips": [
+   "Liguria",
+   "da 51 a 1000 addetti",
+   "settore industriale"
+  ],
+  "regions": [
+   "Liguria"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search {\"seniority\": \"owner,founder,c_suite,director\", \"minEmployees\": 20, \"companyIndustry\": \"manufacturing,machinery manufacturing,industrial machinery manufacturing,automation machinery manufacturing,food and beverage manufacturing,plastics manufacturing,chemical manufacturing,motor vehicle manufacturing\", \"location\": \"Liguria\"}"
+ },
+ "facts": {
+  "settore": "settore industriale (lista Sales Navigator C)",
+  "fascia": "51-1000 addetti (filtro Sales Navigator C)",
+  "regione": "Liguria (profilo LinkedIn: Genoa, Liguria, Italy)"
+ }
+}

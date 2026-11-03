@@ -1,0 +1,82 @@
+{
+ "slug": "antares-vision-group-antaresvisiongroup",
+ "company": "Antares Vision Group",
+ "first_name": "Giuseppe",
+ "domain": "antaresvisiongroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Tecnologie e soluzioni per garantire qualità dei prodotti e trasparenza della filiera. Ecco chi contatteremmo per Antares Vision Group.",
+ "market_note": "Antares Vision Group sviluppa sistemi di inspection e tracciabilità per i settori farmaceutico, alimentare, beverage e cosmetico, quindi parleremmo con chi decide su qualità, controllo e serializzazione.",
+ "evidence": [
+  {
+   "claim": "garantisce qualità dei prodotti e trasparenza della filiera",
+   "url": "https://antaresvisiongroup.com/",
+   "quote": "to ensure product and packaging quality, along with complete supply chain transparency"
+  },
+  {
+   "claim": "sistemi di inspection per i settori farmaceutico, alimentare, beverage e cosmetico",
+   "url": "https://antaresvisiongroup.com/diamind-solutions/inspection/",
+   "quote": "Our inspection systems are designed to meet the needs of the pharmaceutical, food, beverage, cosmetic and chemical industries."
+  },
+  {
+   "claim": "sistemi di inspection per i settori farmaceutico e alimentare",
+   "url": "https://antaresvisiongroup.com/diamind-solutions/inspection/",
+   "quote": "Our inspection systems are designed to meet the needs of the pharmaceutical, food, beverage, cosmetic and chemical industries."
+  },
+  {
+   "claim": "soluzioni di tracciabilità per i prodotti",
+   "url": "https://antaresvisiongroup.com/diamind-solutions/track-and-trace/",
+   "quote": "Lifetime traceability for your products to ensure safety and authenticity"
+  },
+  {
+   "claim": "settori clienti dichiarati dal lead",
+   "url": "https://antaresvisiongroup.com/about-us/",
+   "quote": "Life Science (pharmaceuticals, medical devices, and hospitals) Beverage Food Cosmetics Chemicals Packaging"
+  }
+ ],
+ "market": {
+  "count": "9.825",
+  "label": "titolari, CEO e direttori di aziende manifatturiere italiane dei settori farmaceutico, alimentare e cosmetico oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "farmaceutico",
+   "alimentare",
+   "cosmetico"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"pharmaceutical,medical device,food and beverage,cosmetics,chemical\"}"
+ }
+}

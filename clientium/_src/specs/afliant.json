@@ -1,0 +1,80 @@
+{
+ "slug": "afliant",
+ "company": "Afliant",
+ "first_name": "Daniele",
+ "domain": "afliant.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Piattaforme digitali e prodotti basati su AI e dati per il business. Ecco chi contatteremmo per Afliant.",
+ "market_note": "Afliant realizza piattaforme digitali e prodotti AI che collegano CRM, ERP e sistemi aziendali, quindi parleremmo con chi guida IT e trasformazione digitale nelle aziende strutturate.",
+ "evidence": [
+  {
+   "claim": "Realizza piattaforme digitali e architetture software",
+   "url": "https://afliant.com/",
+   "quote": "Realizziamo piattaforme digitali e architetture software che collegano sistemi, persone e processi."
+  },
+  {
+   "claim": "Sviluppa prodotti basati su AI e dati",
+   "url": "https://afliant.com/",
+   "quote": "Progettiamo e sviluppiamo prodotti basati su Intelligenza Artificiale e data analytics."
+  },
+  {
+   "claim": "Collega CRM, ERP e sistemi cloud in un unico ecosistema",
+   "url": "https://afliant.com/",
+   "quote": "per far dialogare CRM, ERP, app, IoT e servizi cloud in un unico ecosistema scalabile."
+  },
+  {
+   "claim": "Integra CRM, ERP e servizi cloud in un ecosistema scalabile",
+   "url": "https://afliant.com/",
+   "quote": "per far dialogare CRM, ERP, app, IoT e servizi cloud in un unico ecosistema scalabile."
+  },
+  {
+   "claim": "Lavora con grandi aziende strutturate e multi-brand",
+   "url": "https://afliant.com/",
+   "quote": "30 brand distribuiti in 40 paesi, un’unica infrastruttura digitale che li tiene insieme."
+  }
+ ],
+ "market": {
+  "count": "7.840",
+  "label": "responsabili IT, CIO e CTO di grandi aziende italiane strutturate oltre 100 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "grandi aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

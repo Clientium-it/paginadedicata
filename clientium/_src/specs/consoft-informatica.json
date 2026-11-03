@@ -1,0 +1,86 @@
+{
+ "slug": "consoft-informatica",
+ "company": "Consoft Informatica",
+ "first_name": "Simone",
+ "domain": "consoftinformatica.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Consulenza informatica e soluzioni per la trasformazione digitale delle aziende. Ecco chi contatteremmo per Consoft Informatica.",
+ "market_note": "Consoft Informatica è una società di consulenza informatica che opera su tutto il territorio nazionale, quindi parleremmo con chi guida i sistemi informativi e le scelte IT delle aziende.",
+ "evidence": [
+  {
+   "claim": "società di consulenza informatica attiva in tutta Italia",
+   "url": "https://consoftinformatica.it/",
+   "quote": "Una società di consulenza informatica che dal 2006 opera su tutto il territorio nazionale"
+  },
+  {
+   "claim": "accompagna le aziende nella trasformazione digitale",
+   "url": "https://consoftinformatica.it/",
+   "quote": "Facilitiamo il percorso di trasformazione digitale della tua azienda."
+  },
+  {
+   "claim": "consulenza informatica su tutto il territorio nazionale",
+   "url": "https://consoftinformatica.it/",
+   "quote": "Una società di consulenza informatica che dal 2006 opera su tutto il territorio nazionale"
+  },
+  {
+   "claim": "realizza applicativi custom",
+   "url": "https://consoftinformatica.it/",
+   "quote": "realizzando applicativi custom ed erogando servizi professionali di qualità"
+  },
+  {
+   "claim": "sedi a Roma, Milano, Napoli e Padova",
+   "url": "https://consoftinformatica.it/",
+   "quote": "opera su tutto il territorio nazionale, con sedi a Roma, Milano, Napoli e Padova"
+  },
+  {
+   "claim": "opera in tutta Italia",
+   "url": "https://consoftinformatica.it/",
+   "quote": "Una società di consulenza informatica che dal 2006 opera su tutto il territorio nazionale"
+  }
+ ],
+ "market": {
+  "count": "8.644",
+  "label": "responsabili IT, CIO e CTO di aziende italiane strutturate oltre i 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "responsabili IT",
+   "CIO e CTO"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 50, \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

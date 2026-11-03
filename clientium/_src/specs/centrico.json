@@ -1,0 +1,76 @@
+{
+ "slug": "centrico",
+ "company": "Centrico",
+ "first_name": "Stefano",
+ "domain": "centrico.tech",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Open banking per le istituzioni finanziarie che vogliono innovare. Ecco chi contatteremmo per Centrico.",
+ "market_note": "Centrico offre open banking alle istituzioni finanziarie che vogliono innovare e offrire nuovi servizi, quindi parleremmo con chi guida la tecnologia e il digitale in banca.",
+ "evidence": [
+  {
+   "claim": "Offre open banking alle istituzioni finanziarie che vogliono innovare",
+   "url": "https://centrico.tech/",
+   "quote": "offer open banking to financial institutions looking to innovate"
+  },
+  {
+   "claim": "Vende open banking alle istituzioni finanziarie che vogliono offrire nuovi servizi",
+   "url": "https://centrico.tech/",
+   "quote": "offer open banking to financial institutions looking to innovate and offer new services and products to its clients"
+  },
+  {
+   "claim": "Ha radici nelle rivoluzioni tecnologiche del Gruppo Sella",
+   "url": "https://centrico.tech/",
+   "quote": "Centrico has its roots in the technological revolutions led by Sella Group"
+  },
+  {
+   "claim": "I clienti sono istituzioni finanziarie",
+   "url": "https://centrico.tech/",
+   "quote": "offer open banking to financial institutions looking to innovate"
+  }
+ ],
+ "market": {
+  "count": "1.569",
+  "label": "responsabili IT, CTO e CIO di banche e istituzioni finanziarie italiane strutturate",
+  "chips": [
+   "tutta Italia",
+   "banche",
+   "fintech",
+   "oltre 100 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"banking,fintech,financial services\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

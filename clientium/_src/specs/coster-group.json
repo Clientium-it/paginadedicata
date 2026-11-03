@@ -1,0 +1,80 @@
+{
+ "slug": "coster-group",
+ "company": "Coster Group",
+ "first_name": "Vincenzo",
+ "domain": "costergroup.eu",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progettano e producono sistemi per l'automazione e l'efficienza energetica degli edifici. Ecco chi contatteremmo per Coster Group.",
+ "market_note": "Coster Group progetta e produce dal 1967 in Italia sistemi per l'automazione e l'efficienza energetica degli edifici, quindi parleremmo con chi decide su gestione energetica e building automation.",
+ "evidence": [
+  {
+   "claim": "Progettano e producono sistemi per l'automazione e l'efficienza energetica degli edifici",
+   "url": "https://www.costergroup.eu/",
+   "quote": "Progettiamo e produciamo sistemi per l’automazione e l’efficienza energetica degli edifici."
+  },
+  {
+   "claim": "Progetta e produce dal 1967 in Italia",
+   "url": "https://www.costergroup.eu/",
+   "quote": "Dal 1967 progettiamo, innoviamo e produciamo in Italia."
+  },
+  {
+   "claim": "Si occupano di gestione energetica degli edifici",
+   "url": "https://www.costergroup.eu/",
+   "quote": "partner per la gestione energetica degli edifici"
+  },
+  {
+   "claim": "Progettate e producete sistemi per l'automazione e l'efficienza energetica degli edifici",
+   "url": "https://www.costergroup.eu/",
+   "quote": "Progettiamo e produciamo sistemi per l’automazione e l’efficienza energetica degli edifici."
+  },
+  {
+   "claim": "Presenza e rete commerciale su tutto il territorio",
+   "url": "https://www.costergroup.eu/contatti/",
+   "quote": "Presenza capillare, rete specializzata pre e post vendita"
+  }
+ ],
+ "market": {
+  "count": "85.871",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate dai 20 ai 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250}"
+ }
+}

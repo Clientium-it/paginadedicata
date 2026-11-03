@@ -1,0 +1,82 @@
+{
+ "slug": "ciaodott",
+ "company": "CiaoDott",
+ "first_name": "Mirco",
+ "domain": "ciaodott.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Segretaria virtuale AI per centri medici con assistenti vocali che gestiscono chiamate e appuntamenti. Ecco chi contatteremmo per CiaoDott.",
+ "market_note": "CiaoDott offre assistenti vocali IA ai centri medici in tutta Italia per gestire chiamate e prenotazioni, quindi parleremmo con chi dirige poliambulatori e studi dentistici.",
+ "evidence": [
+  {
+   "claim": "Segretaria virtuale AI per centri medici",
+   "url": "https://ciaodott.com/",
+   "quote": "Segretaria Virtuale AI per Centri Medici"
+  },
+  {
+   "claim": "gestisce chiamate e appuntamenti",
+   "url": "https://ciaodott.com/",
+   "quote": "lasciando gestire a CiaoDott chiamate, appuntamenti e promemoria 24/7"
+  },
+  {
+   "claim": "serve centri medici in tutta Italia",
+   "url": "https://ciaodott.com/",
+   "quote": "centri medici in tutta Italia"
+  },
+  {
+   "claim": "ha sviluppato un modulo dedicato al SSN per le prenotazioni pubbliche",
+   "url": "https://ciaodott.com/",
+   "quote": "ha sviluppato un modulo dedicato al SSN che gestisce in autonomia le complessità delle prenotazioni pubbliche"
+  },
+  {
+   "claim": "i clienti sono centri medici",
+   "url": "https://ciaodott.com/",
+   "quote": "centri medici in tutta Italia"
+  }
+ ],
+ "market": {
+  "count": "2.651",
+  "label": "titolari, CEO e direttori di centri medici e poliambulatori in Italia da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "centri medici",
+   "poliambulatori",
+   "studi dentistici"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250, \"companyIndustry\": \"medical practices,health care,dental\", \"excludeCompanyIndustry\": \"it services and it consulting,software development,computer and network security,software,enterprise software\"}"
+ }
+}

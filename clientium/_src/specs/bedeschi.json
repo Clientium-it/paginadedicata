@@ -1,0 +1,77 @@
+{
+ "slug": "bedeschi",
+ "company": "Bedeschi",
+ "first_name": "Paolo",
+ "domain": "bedeschi.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Dal 1908 progetta soluzioni chiavi in mano per movimentazione, logistica dei container e laterizi. Ecco chi contatteremmo per Bedeschi.",
+ "market_note": "Bedeschi progetta e costruisce soluzioni chiavi in mano per la movimentazione dei materiali, la logistica dei container e i laterizi, quindi parleremmo con chi guida impianti industriali e stabilimenti produttivi.",
+ "evidence": [
+  {
+   "claim": "Dal 1908 progetta soluzioni chiavi in mano per movimentazione, logistica dei container e laterizi",
+   "url": "https://www.bedeschi.com/",
+   "quote": "Since 1908 we design complete turn-key solutions for Bulk Handling and Mining, Container Logistics and Bricks."
+  },
+  {
+   "claim": "Fornisce ai clienti soluzioni chiavi in mano per diverse industrie di prodotto",
+   "url": "https://www.bedeschi.com/about/",
+   "quote": "Bedeschi nowadays can provide its Customers with complete turn-key solutions for different product industries"
+  },
+  {
+   "claim": "I frantoi gestiscono anche i materiali appiccicosi",
+   "url": "https://www.bedeschi.com/crushing-solutions/",
+   "quote": "we are also able to handle sticky materials"
+  },
+  {
+   "claim": "Serve settori minerario, portuale e dei laterizi",
+   "url": "https://www.bedeschi.com/",
+   "quote": "Since 1908 we design complete turn-key solutions for Bulk Handling and Mining, Container Logistics and Bricks."
+  }
+ ],
+ "market": {
+  "count": "1.644",
+  "label": "titolari, CEO e direttori di grandi aziende industriali con oltre 100 addetti nei settori minerario, portuale e dei materiali da costruzione",
+  "chips": [
+   "tutta Italia",
+   "oltre 100 addetti",
+   "mining",
+   "ports and harbors",
+   "building material"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 100, \"companyIndustry\": \"mining,ports and harbors,building material\"}"
+ }
+}

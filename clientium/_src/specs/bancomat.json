@@ -1,0 +1,85 @@
+{
+ "slug": "bancomat",
+ "company": "BANCOMAT",
+ "first_name": "Matteo",
+ "domain": "bancomat.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Leader dei servizi di pagamento digitale per banche, clienti ed esercenti. Ecco chi contatteremmo per BANCOMAT.",
+ "market_note": "BANCOMAT offre soluzioni di pagamento per aziende ed esercenti su tutto il territorio nazionale, quindi parleremmo con i titolari che decidono come accettare pagamenti in negozio e online.",
+ "evidence": [
+  {
+   "claim": "Leader dei servizi di pagamento digitale",
+   "url": "https://bancomat.it/",
+   "quote": "Leader dei servizi di pagamento digitale"
+  },
+  {
+   "claim": "serve banche, clienti ed esercenti",
+   "url": "https://bancomat.it/chi-siamo",
+   "quote": "rispondere alle esigenze di banche, clienti ed esercenti"
+  },
+  {
+   "claim": "offre soluzioni di pagamento ad aziende ed esercenti",
+   "url": "https://bancomat.it/",
+   "quote": "soluzioni innovative per aziende ed esercenti"
+  },
+  {
+   "claim": "copertura nazionale",
+   "url": "https://bancomat.it/",
+   "quote": "un'ampia rete di accettazione su tutto il territorio nazionale"
+  },
+  {
+   "claim": "offre soluzioni di pagamento con rete di accettazione nazionale",
+   "url": "https://bancomat.it/",
+   "quote": "soluzioni di pagamento ed un'ampia rete di accettazione su tutto il territorio nazionale"
+  },
+  {
+   "claim": "vende ad aziende ed esercenti",
+   "url": "https://bancomat.it/",
+   "quote": "soluzioni innovative per aziende ed esercenti"
+  }
+ ],
+ "market": {
+  "count": "86.964",
+  "label": "titolari, CEO e amministratori di negozi ed e-commerce italiani da 10 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "10-250 addetti",
+   "negozi ed esercenti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 10, \"maxEmployees\": 250}"
+ }
+}

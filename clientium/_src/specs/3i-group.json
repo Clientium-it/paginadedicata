@@ -1,0 +1,85 @@
+{
+ "slug": "3i-group",
+ "company": "3i group",
+ "first_name": "Gianluca",
+ "domain": "gruppo3i.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Ingegneria integrata, consulenza strategica e formazione per imprese ed enti pubblici. Ecco chi contatteremmo per 3i group.",
+ "market_note": "3i group, sistema di imprese nazionale nell'ingegneria integrata e nella consulenza rivolto a enti pubblici e privati, quindi parleremmo con chi guida le aziende su sicurezza ed efficienza energetica.",
+ "evidence": [
+  {
+   "claim": "Si occupa di ingegneria integrata, consulenza strategica e formazione",
+   "url": "https://gruppo3i.it/",
+   "quote": "leader nell’ingegneria integrata, nella consulenza strategica e nella formazione connessa"
+  },
+  {
+   "claim": "Si rivolge a imprese ed enti pubblici",
+   "url": "https://gruppo3i.it/",
+   "quote": "si rivolge a enti pubblici e privati"
+  },
+  {
+   "claim": "È un sistema di imprese nazionale",
+   "url": "https://gruppo3i.it/",
+   "quote": "3i group è un sistema di imprese nazionale attiva da oltre quarant’anni"
+  },
+  {
+   "claim": "Serve enti pubblici e privati",
+   "url": "https://gruppo3i.it/",
+   "quote": "si rivolge a enti pubblici e privati"
+  },
+  {
+   "claim": "Accompagna il cliente nella progettazione di sistemi di efficientamento energetico complessi",
+   "url": "https://gruppo3i.it/",
+   "quote": "3i group accompagna il cliente nella progettazione di sistemi di efficientamento energetico complessi"
+  },
+  {
+   "claim": "Operatività nazionale",
+   "url": "https://gruppo3i.it/",
+   "quote": "3i group è un sistema di imprese nazionale attiva da oltre quarant’anni"
+  }
+ ],
+ "market": {
+  "count": "73.207",
+  "label": "titolari, CEO e amministratori di aziende italiane strutturate oltre i cinquanta addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "aziende strutturate"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

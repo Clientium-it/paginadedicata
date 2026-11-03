@@ -1,0 +1,82 @@
+{
+ "slug": "chiggiato",
+ "company": "Chiggiato",
+ "first_name": "Maurizio",
+ "domain": "chiggiatospa.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Logistica avanzata e trasporti per i settori farmaceutico, fashion ed elettronica di valore. Ecco chi contatteremmo per Chiggiato.",
+ "market_note": "Chiggiato è leader nella logistica e nel trasporto per i settori farmaceutico, fashion ed elettronica di valore, quindi parleremmo con chi decide su spedizioni e supply chain nelle aziende di questi settori.",
+ "evidence": [
+  {
+   "claim": "Logistica avanzata e trasporti",
+   "url": "https://www.chiggiatospa.com/",
+   "quote": "Logistica avanzata e trasporti"
+  },
+  {
+   "claim": "serve i settori farmaceutico, fashion ed elettronica di valore",
+   "url": "https://www.chiggiatospa.com/",
+   "quote": "Leader nel settore farmaceutico, operiamo anche nei settori fashion ed elettronica di valore."
+  },
+  {
+   "claim": "leader nella logistica e nel trasporto per farmaceutico, fashion ed elettronica",
+   "url": "https://www.chiggiatospa.com/",
+   "quote": "Leader nel settore farmaceutico, operiamo anche nei settori fashion ed elettronica di valore."
+  },
+  {
+   "claim": "leader nel farmaceutico, opera anche nel fashion e nell'elettronica di valore",
+   "url": "https://www.chiggiatospa.com/",
+   "quote": "Leader nel settore farmaceutico, operiamo anche nei settori fashion ed elettronica di valore."
+  },
+  {
+   "claim": "settori clienti dichiarati: farmaceutico, fashion, elettronica",
+   "url": "https://www.chiggiatospa.com/",
+   "quote": "Leader nel settore farmaceutico, operiamo anche nei settori fashion ed elettronica di valore."
+  }
+ ],
+ "market": {
+  "count": "10.546",
+  "label": "direttori, titolari e responsabili supply chain di aziende strutturate del farmaceutico, fashion ed elettronica",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "farmaceutico",
+   "fashion",
+   "elettronica"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"pharmaceutical,fashion,electronics\"}"
+ }
+}

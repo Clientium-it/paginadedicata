@@ -1,0 +1,75 @@
+{
+ "slug": "carbopress",
+ "company": "Carbopress",
+ "first_name": "Deborah",
+ "domain": "carbopress.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Produzione di componenti in materiale composito e fibra di carbonio per il settore automotive. Ecco chi contatteremmo per Carbopress.",
+ "market_note": "Carbopress produce componenti in materiale composito e fibra di carbonio per il settore automotive, quindi parleremmo con chi decide su progettazione e fornitura dei nuovi veicoli.",
+ "evidence": [
+  {
+   "claim": "Produce componenti in materiale composito e fibra di carbonio per il settore automotive",
+   "url": "https://www.carbopress.com/",
+   "quote": "componenti in materiale composito, in particolare fibra di carbonio per il settore automotive"
+  },
+  {
+   "claim": "Fornisce servizi per lo sviluppo e la produzione di nuovi veicoli",
+   "url": "https://www.carbopress.com/",
+   "quote": "servizi dedicati allo sviluppo e alla produzione di nuovi veicoli e prodotti industriali"
+  },
+  {
+   "claim": "Produce fibra di carbonio per il settore automotive",
+   "url": "https://www.carbopress.com/",
+   "quote": "componenti in materiale composito, in particolare fibra di carbonio per il settore automotive"
+  },
+  {
+   "claim": "Opera nel settore automotive",
+   "url": "https://www.carbopress.com/",
+   "quote": "fibra di carbonio per il settore automotive"
+  }
+ ],
+ "market": {
+  "count": "3.481",
+  "label": "titolari, CEO e direttori di aziende automotive italiane da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "automotive",
+   "oltre 50 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"automotive\"}"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "acus",
+ "company": "Acus",
+ "first_name": "Artiom",
+ "domain": "",
+ "register": "lei",
+ "campaign": "C17SN",
+ "level": 2,
+ "base_note": "Una pagina su chi contatteremmo per Acus e su come lavoriamo.",
+ "base_market_note": "Per un'azienda di software e servizi IT partiremmo da chi guida l'IT nelle aziende con oltre 50 addetti in Italia.",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "market": {
+  "count": "11.169",
+  "label": "CIO, CTO e responsabili IT di aziende con oltre 50 addetti in Italia",
+  "chips": [
+   "tutta Italia",
+   "da 51 a 200 addetti",
+   "software e servizi IT"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search {\"seniority\": \"c_suite,vp,director,head\", \"department\": \"information_technology\", \"minEmployees\": 50, \"location\": \"Italy\"}"
+ },
+ "facts": {
+  "settore": "software e servizi IT (lista Sales Navigator A1)",
+  "fascia": "51-200 addetti (filtro Sales Navigator A1)",
+  "regione": "Italia (profilo LinkedIn: Italy)"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "cogei",
+ "company": "Cogei",
+ "first_name": "Domenico",
+ "domain": "cogei.net",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Progettazione, costruzione e gestione di impianti di depurazione delle acque reflue. Ecco chi contatteremmo per Cogei.",
+ "market_note": "Cogei progetta, costruisce e gestisce impianti di depurazione delle acque reflue ad usi civili e industriali, quindi parleremmo con chi decide su impianti, ambiente ed efficienza energetica.",
+ "evidence": [
+  {
+   "claim": "Cogei progetta, costruisce e gestisce impianti di depurazione delle acque reflue civili e industriali",
+   "url": "https://cogei.net/",
+   "quote": "progettazione, costruzione e gestione di impianti di depurazione delle acque reflue ad usi civili e industriali"
+  },
+  {
+   "claim": "Serve usi civili e industriali",
+   "url": "https://cogei.net/",
+   "quote": "progettazione, costruzione e gestione di impianti di depurazione delle acque reflue ad usi civili e industriali"
+  },
+  {
+   "claim": "Progettazione, costruzione e gestione impianti di trattamento acque",
+   "url": "https://cogei.net/",
+   "quote": "progettazione, costruzione e gestione di impianti di depurazione delle acque reflue ad usi civili e industriali"
+  },
+  {
+   "claim": "I clienti citati sono aziende dei settori oil e gas, chimico e industriale",
+   "url": "https://cogei.net/referenze/",
+   "quote": "Oil e Gas Industry Industry Chemical Civil Wastewater"
+  }
+ ],
+ "market": {
+  "count": "10.675",
+  "label": "titolari, CEO e direttori di aziende industriali e utility in Italia da oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "oil and gas",
+   "chimico",
+   "industriale"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"oil and gas,chemical,industrial,utilities\"}"
+ }
+}

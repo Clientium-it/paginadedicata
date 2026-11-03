@@ -1,0 +1,82 @@
+{
+ "slug": "cofle",
+ "company": "Cofle",
+ "first_name": "Claudio",
+ "domain": "cofle.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Sistemi di comando e cavi di comando per macchine agricole, movimento terra e automotive premium. Ecco chi contatteremmo per Cofle.",
+ "market_note": "Cofle progetta e produce sistemi di comando e cavi di comando per OEM di agricoltura, costruzioni, veicoli industriali e automotive premium, quindi parleremmo con chi guida produzione e acquisti tecnici.",
+ "evidence": [
+  {
+   "claim": "Cofle progetta, produce e distribuisce sistemi di comando e cavi di comando",
+   "url": "https://www.cofle.com/",
+   "quote": "Cofle designs, manufactures and distributes control systems and control cables for off-highway machines, premium automotive and the Independent Aftermarket, worldwide."
+  },
+  {
+   "claim": "serve macchine agricole, movimento terra e automotive premium",
+   "url": "https://www.cofle.com/",
+   "quote": "in agricultural sector, earth moving machinery, commercial vehicles and in premium automotive branch"
+  },
+  {
+   "claim": "co-progetta sistemi di comando con OEM di agricoltura, costruzioni, veicoli industriali e automotive premium",
+   "url": "https://www.cofle.com/",
+   "quote": "We co-engineer control systems with OEMs in agriculture, construction, industrial vehicles and premium automotive."
+  },
+  {
+   "claim": "produce sistemi di comando e cavi di comando",
+   "url": "https://www.cofle.com/",
+   "quote": "Cofle designs, manufactures and distributes control systems and control cables for off-highway machines, premium automotive and the Independent Aftermarket, worldwide."
+  },
+  {
+   "claim": "vende a OEM di agricoltura, costruzioni, veicoli industriali e automotive premium",
+   "url": "https://www.cofle.com/",
+   "quote": "We co-engineer control systems with OEMs in agriculture, construction, industrial vehicles and premium automotive."
+  }
+ ],
+ "market": {
+  "count": "14.603",
+  "label": "titolari, CEO e direttori di OEM di agricoltura, costruzioni, veicoli industriali e automotive premium",
+  "chips": [
+   "tutta Italia",
+   "oltre 50 addetti",
+   "agricoltura",
+   "costruzioni",
+   "automotive premium"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50, \"companyIndustry\": \"agriculture,construction,automotive,industrial\"}"
+ }
+}

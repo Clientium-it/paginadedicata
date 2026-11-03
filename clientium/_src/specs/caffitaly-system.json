@@ -1,0 +1,80 @@
+{
+ "slug": "caffitaly-system",
+ "company": "Caffitaly System",
+ "first_name": "Andrea",
+ "domain": "caffitaly.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Soluzioni per il mercato delle capsule e delle macchine da caffè monoporzione. Ecco chi contatteremmo per Caffitaly System.",
+ "market_note": "Caffitaly System produce capsule e macchine da caffè monoporzione in partnership con altre aziende, anche in private label, quindi parleremmo con chi guida lo sviluppo di nuovi prodotti e mercati.",
+ "evidence": [
+  {
+   "claim": "Opera nel mercato delle capsule e delle macchine da caffè monoporzione",
+   "url": "https://caffitaly.com/international/",
+   "quote": "the best solutions in the single-serve coffee and machine market"
+  },
+  {
+   "claim": "Costruisce partnership di business con altre aziende",
+   "url": "https://caffitaly.com/international/business-solutions/",
+   "quote": "A business partnership with Caffitaly System is a great opportunity"
+  },
+  {
+   "claim": "Produce capsule anche in private label per i clienti",
+   "url": "https://caffitaly.com/international/business-solutions/",
+   "quote": "Caffitaly recipes can be selected based on your market needs and become your private label"
+  },
+  {
+   "claim": "Progetta nuove macchine per il caffè in capsule in partnership con i clienti",
+   "url": "https://caffitaly.com/international/business-solutions/",
+   "quote": "Caffitaly can engineer new coffee capsule machines in partnership with you"
+  },
+  {
+   "claim": "Lavora con aziende che vogliono sviluppare il proprio business nel caffè monoporzione",
+   "url": "https://caffitaly.com/international/",
+   "quote": "WE HELP YOU BUILD AND DEVELOP YOUR BUSINESS"
+  }
+ ],
+ "market": {
+  "count": "152.291",
+  "label": "titolari, CEO e direttori di aziende italiane strutturate oltre 50 addetti",
+  "chips": [
+   "tutta Italia",
+   "aziende strutturate",
+   "oltre 50 addetti"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 50}"
+ }
+}

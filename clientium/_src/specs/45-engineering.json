@@ -1,0 +1,77 @@
+{
+ "slug": "45-engineering",
+ "company": "45 Engineering",
+ "first_name": "Alberto",
+ "domain": "45-eng.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17SN",
+ "level": 1,
+ "cover_note": "Studio di progettazione e consulenza meccanica e fluidodinamica per le aziende. Ecco chi contatteremmo per 45 Engineering.",
+ "market_note": "45 Engineering è uno studio di progettazione e consulenza meccanica che aiuta le aziende a restare competitive, quindi parleremmo con chi guida le scelte tecniche e di sviluppo prodotto.",
+ "evidence": [
+  {
+   "claim": "Studio di progettazione e consulenza meccanica e fluidodinamica",
+   "url": "https://45-eng.com/",
+   "quote": "Siamo uno studio di progettazione e consulenza meccanica e fluidodinamica."
+  },
+  {
+   "claim": "Aiuta le aziende a restare competitive",
+   "url": "https://45-eng.com/",
+   "quote": "Aiutiamo le aziende a evolvere e a restare competitive"
+  },
+  {
+   "claim": "Progetta turbine idroelettriche Pelton, Francis, Kaplan e Coclee",
+   "url": "https://45-eng.com/servizi/progettazione-turbine-idroelettriche/",
+   "quote": "Sviluppiamo progetti di turbine idroelettriche Pelton, Francis, Kaplan e Coclee"
+  },
+  {
+   "claim": "Settori clienti dichiarati dallo studio",
+   "url": "https://45-eng.com/",
+   "quote": "Idroelettrico Ciclo dell'acqua Industrial machinery Elettromedicale Oil & Gas Agricoltura"
+  }
+ ],
+ "market": {
+  "count": "5.459",
+  "label": "titolari, CEO e direttori di aziende industriali italiane da 20 a 250 addetti",
+  "chips": [
+   "tutta Italia",
+   "20-250 addetti",
+   "idroelettrico",
+   "industrial machinery",
+   "oil & gas"
+  ],
+  "regions": [
+   "Piemonte",
+   "Valle d'Aosta",
+   "Liguria",
+   "Lombardia",
+   "Trentino-Alto Adige",
+   "Veneto",
+   "Friuli Venezia Giulia",
+   "Emilia-Romagna",
+   "Marche",
+   "Toscana",
+   "Umbria",
+   "Lazio",
+   "Campania",
+   "Abruzzo",
+   "Molise",
+   "Puglia",
+   "Basilicata",
+   "Calabria",
+   "Sicilia",
+   "Sardegna"
+  ],
+  "sector": "",
+  "source": "AI-ARK people_search 02/11/2026: {\"seniority\": \"owner,founder,c_suite,director\", \"location\": \"Italy\", \"minEmployees\": 20, \"maxEmployees\": 250, \"companyIndustry\": \"hydroelectric,water,industrial machinery manufacturing,agriculture,medical device,oil and gas\"}"
+ }
+}
