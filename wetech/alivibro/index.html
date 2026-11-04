@@ -61,22 +61,18 @@ p{line-height:1.5}
 .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:22px}
 .stat{background:var(--navy);color:#fff;border-radius:8px;padding:14px 16px;text-align:center}.stat b{display:block;font-size:26px;font-weight:800}.stat span{font-size:13px}
 .seat{font-size:16px;margin-top:16px;line-height:1.45}
-/* chiusura */
+/* chiusura: colonna stretta e calendario largo almeno 1000px, sotto quella misura il calendario va su una colonna sola */
 .talk{padding:0;flex-direction:row}
-.talk .l{flex:1.2;padding:52px 56px 84px 72px;display:flex;flex-direction:column;min-width:0}
-.talk .m{margin:auto 0}
-.talk p{font-size:19px;margin-top:18px}
-.talk .site{font-size:15px;color:var(--mute);margin-top:14px;font-weight:600}
-.talk .r{flex:.8;background:var(--card);border-left:4px solid var(--or);padding:36px;display:flex;flex-direction:column;justify-content:center;gap:16px}
-.pic{display:block;flex:none;width:220px;height:220px;margin:0 auto}
-.who{text-align:center}.who b{display:block;font-size:20px;color:var(--navy)}.who span{font-size:15px}
-.book{align-self:flex-start;margin-top:22px;border:0;border-radius:999px;background:var(--navy);color:#fff;font:700 18px Montserrat,system-ui,sans-serif;padding:14px 28px;cursor:pointer;box-shadow:0 8px 20px rgba(13,32,54,.25)}
-.book:hover{background:#1f4264}
-.cal{padding:30px 48px 24px}
-.ch{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;flex:none}
-.ca{display:flex;align-items:center;gap:18px;flex:none}.ca a{font-size:14px;color:var(--mute)}
-.bkb{border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--navy);font:700 15px Montserrat,system-ui,sans-serif;padding:9px 16px;cursor:pointer}
-#calf{display:block;flex:1;min-height:0;width:100%;margin-top:14px;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+.talk .l{flex:0 0 276px;padding:26px 22px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;background:var(--card);border-right:4px solid var(--or);min-width:0}
+.talk .pair{gap:10px}.talk .pair img{height:30px}.talk .pair .al{height:25px}.talk .pair .x{font-size:15px}
+.pic{display:block;flex:none;width:130px;height:130px}
+.who{text-align:center}.who b{display:block;font-size:18px;color:var(--navy)}.who span{font-size:13.5px}
+.talk h2{font-size:20px;line-height:1.22;margin-top:4px;align-self:stretch}
+.talk .alt{font-size:15px;line-height:1.4;margin:0;align-self:stretch}
+.talk .site{font-size:13px;color:var(--mute);margin:0;font-weight:600;align-self:stretch}
+.talk .open{font-size:13px;color:var(--mute);align-self:stretch}
+.ph{display:none}
+#calf{display:block;flex:1;min-width:0;height:100%;border:0;background:#fff}
 /* nav */
 #nxt{position:fixed;left:50%;bottom:calc(2.2vh + 6px);transform:translateX(-50%);z-index:60;display:flex;align-items:center;gap:.5em;padding:.55em 1.1em .55em 1.25em;border-radius:999px;background:var(--navy);color:#fff;text-decoration:none;font-size:15px;font-weight:600;box-shadow:0 8px 24px rgba(13,32,54,.3);white-space:nowrap}
 #nxt svg{width:1.05em;height:1.05em;color:var(--or)}#nxt.off{display:none}
@@ -110,11 +106,15 @@ html.phone .need{margin-top:9px}html.phone .need h3{font-size:13px}html.phone .n
 html.phone .wk{grid-template-columns:1fr;gap:8px;margin-top:10px}html.phone .wk div b{font-size:14.5px;margin:0 0 2px}html.phone .wk div i{display:none}html.phone .wk div span{font-size:12.5px;line-height:1.32}
 html.phone .stats{grid-template-columns:repeat(4,1fr);gap:5px;margin-top:10px}html.phone .stat{padding:7px 3px}html.phone .stat b{font-size:14px}html.phone .stat span{font-size:9.5px;line-height:1.15;display:block}
 html.phone .seat{font-size:12.5px;margin-top:8px;line-height:1.35}
-html.phone .talk .l{flex:0 0 auto;padding:20px 18px 12px}html.phone .talk p{font-size:15px;margin-top:10px}html.phone .talk .site{font-size:12.5px;margin-top:8px}
-html.phone .cal{padding:10px 0 0}html.phone .ch{padding:0 18px 8px;display:block}html.phone .bkb{display:none}html.phone .ca{margin-top:2px}html.phone .ca a{font-size:12px}html.phone .cal h2{font-size:19px}html.phone #calf{margin:0;border:0;border-top:1px solid var(--line);border-radius:0}html.phone .talk .m{margin:12px 0 0}html.phone .book{width:100%;margin-top:10px;font-size:15px;padding:11px 16px;align-self:stretch}
-html.phone .talk .r{flex:1;min-height:0;border-left:0;border-top:4px solid var(--or);padding:12px 18px;gap:8px}
-html.phone .pic{flex:none;width:200px;height:200px}html.phone .who b{font-size:15px}html.phone .who span{font-size:12.5px}
-@media (max-height:700px){html.phone h1{font-size:25px}html.phone h2{font-size:20px}html.phone .cover .sub{font-size:14px}html.phone .pic{width:130px;height:130px}html.phone .talk p{font-size:13px;margin-top:6px}html.phone .talk h2{font-size:18px}html.phone .talk .site{margin-top:5px}html.phone .book{margin-top:7px;padding:9px 14px}html.phone .it{padding:4px 0}html.phone .it span,html.phone .st span,html.phone .need li,html.phone .wk div span,html.phone .seat,html.phone .note{font-size:11.5px;line-height:1.27}html.phone .it b,html.phone .st b,html.phone .wk div b{font-size:13px}html.phone .st{padding:5px 10px}html.phone .s{padding:14px 16px 8px}html.phone .tl,html.phone .vg,html.phone .wk,html.phone .stats{margin-top:6px;gap:5px}html.phone .need{margin-top:5px}html.phone .big{font-size:27px}html.phone .nums{padding:7px 10px}html.phone .stat{padding:5px 2px}html.phone .src{padding-top:3px}html.phone .cover .s,html.phone .cover .l,html.phone .talk .l{padding:14px 16px 8px}html.phone .cover{padding:0}html.phone .talk{padding:0}html.phone .cal{padding:6px 0 0}html.phone .cal h2{font-size:17px}html.phone .ch{padding:0 16px 5px}}
+html.phone .dk,html.phone .talk .pair,html.phone .talk .site{display:none}html.phone .ph{display:inline}
+html.phone .talk .l{flex:0 0 auto;display:grid;grid-template-columns:58px 1fr auto;column-gap:12px;row-gap:2px;align-items:center;justify-items:start;padding:10px 16px;border-right:0;border-bottom:3px solid var(--or)}
+html.phone .pic{grid-row:1/4;width:58px;height:58px}
+html.phone .talk h2{grid-column:2/4;font-size:16.5px;line-height:1.2;margin:0}
+html.phone .talk .alt{grid-column:2/4;font-size:13px;line-height:1.25}
+html.phone .who{grid-column:2;grid-row:3;text-align:left;font-size:11.5px;line-height:1.2}html.phone .who b,html.phone .who span{display:inline;font-size:11.5px}html.phone .who b::after{content:", "}
+html.phone .talk .open{grid-column:3;grid-row:3;font-size:11.5px;white-space:nowrap}
+html.phone #calf{flex:1;min-height:0;width:100%;height:auto}
+@media (max-height:700px){html.phone h1{font-size:25px}html.phone h2{font-size:20px}html.phone .cover .sub{font-size:14px}html.phone .it{padding:4px 0}html.phone .it span,html.phone .st span,html.phone .need li,html.phone .wk div span,html.phone .seat,html.phone .note{font-size:11.5px;line-height:1.27}html.phone .it b,html.phone .st b,html.phone .wk div b{font-size:13px}html.phone .st{padding:5px 10px}html.phone .s{padding:14px 16px 8px}html.phone .tl,html.phone .vg,html.phone .wk,html.phone .stats{margin-top:6px;gap:5px}html.phone .need{margin-top:5px}html.phone .big{font-size:27px}html.phone .nums{padding:7px 10px}html.phone .stat{padding:5px 2px}html.phone .src{padding-top:3px}html.phone .cover .s,html.phone .cover .l,html.phone .talk .l{padding:14px 16px 8px}html.phone .cover{padding:0}html.phone .talk{padding:0}html.phone .cal{padding:6px 0 0}html.phone .cal h2{font-size:17px}html.phone .ch{padding:0 16px 5px}}
 /* desktop scale */
 html:not(.phone) h1{font-size:52px}
 html:not(.phone) h2{font-size:42px}
@@ -132,7 +132,7 @@ html:not(.phone) .need ul{gap:12px 32px;margin-top:12px}html:not(.phone) .need l
 html:not(.phone) .wk{margin-top:28px;gap:32px}html:not(.phone) .wk div b{font-size:22px;min-height:56px}html:not(.phone) .wk div span{font-size:17.5px}html:not(.phone) .wk div i{font-size:18px}
 html:not(.phone) .stats{margin-top:28px;gap:18px}html:not(.phone) .stat{padding:20px 16px}html:not(.phone) .stat b{font-size:34px}html:not(.phone) .stat span{font-size:15px}
 html:not(.phone) .seat{font-size:18px;margin-top:22px}
-html:not(.phone) .cover .sub{font-size:21px}html:not(.phone) .talk h2{font-size:44px}html:not(.phone) .talk p{font-size:21px}
+html:not(.phone) .cover .sub{font-size:21px}html:not(.phone) .talk h2{font-size:20px;line-height:1.22}
 </style>
 <script src="/site.js" async></script>
 </head>
@@ -205,24 +205,16 @@ html:not(.phone) .cover .sub{font-size:21px}html:not(.phone) .talk h2{font-size:
   <p class="seat">Abbiamo sedi a Milano, Savona e Verona e operiamo in tutta Italia, da remoto e in sede. Alivibro è a San Martino Buon Albergo, in provincia di Verona.</p>
 </div></section>
 
-<section data-i="5" aria-label="Parliamone"><div class="s talk">
+<section data-i="5" aria-label="Prenoti una call"><div class="s talk">
   <div class="l">
     <div class="pair"><img src="../assets/logo-wetech.png" alt="We Tech"><span class="x">×</span><img class="al" src="../assets/logo-alivibro.svg" alt="Alivibro"></div>
-    <div class="m">
-      <h2>Se vuole guardarlo insieme, prenoti una call o mi risponda su LinkedIn</h2>
-      <p>Scelga dal calendario il momento che preferisce. Se le è più comodo, mi basta una riga in risposta al mio messaggio su LinkedIn.</p>
-      <button type="button" id="book" class="book">Prenota una call</button>
-      <p class="site">www.we-tech.com</p>
-    </div>
-  </div>
-  <div class="r">
     <img class="pic" src="../assets/antonio-conte.png" width="808" height="808" alt="Antonio Conte, CEO di We Tech">
     <div class="who"><b>Antonio Conte</b><span>CEO, We Tech</span></div>
+    <h2><span class="dk">Se vuole guardarlo insieme, scelga</span><span class="ph">Scelga</span> il momento che preferisce</h2>
+    <p class="alt"><span class="dk">Se le è più comodo, mi basta una riga in risposta al mio messaggio su LinkedIn.</span><span class="ph">Oppure mi risponda su LinkedIn.</span></p>
+    <p class="site">www.we-tech.com</p>
+    <a class="open" href="https://tidycal.com/team/we-tech/voucher-cloud-cybersecurity" target="_blank" rel="noopener"><span class="dk">Apri in una nuova scheda</span><span class="ph">Apri a parte</span></a>
   </div>
-</div></section>
-
-<section data-i="6" aria-label="Prenoti una call"><div class="s cal">
-  <div class="ch"><div><div class="eyebrow">Prenoti una call</div><h2>Scelga il giorno che preferisce</h2></div><div class="ca"><button type="button" id="back" class="bkb">&#8249; Torna indietro</button><a href="https://tidycal.com/team/we-tech/voucher-cloud-cybersecurity" target="_blank" rel="noopener">Apri in una nuova scheda</a></div></div>
   <iframe id="calf" title="Calendario We Tech"></iframe>
 </div></section>
 
@@ -235,7 +227,7 @@ document.querySelector('.pnt').textContent=n;const names=secs.map(s=>s.getAttrib
 const cf=document.getElementById('calf'),CAL='https://tidycal.com/team/we-tech/voucher-cloud-cybersecurity';
 const paint=i=>{cur=i;if(i>=n-2&&!cf.getAttribute('src'))cf.src=CAL;if(i+1<n){nt.textContent=names[i+1];nb.classList.remove('off')}else nb.classList.add('off');document.querySelector('.pc b').textContent=i+1;document.querySelectorAll('.pb').forEach(b=>b.disabled=(+b.dataset.d<0&&i===0)||(+b.dataset.d>0&&i===n-1))};
 const go=i=>{i=Math.max(0,Math.min(n-1,i));if(ph)secs[i].scrollIntoView({behavior:'smooth',block:'start'});else{secs.forEach((s,j)=>s.classList.toggle('on',j===i));paint(i)}};
-nb.addEventListener('click',e=>{e.preventDefault();go(cur+1)});document.getElementById('book').addEventListener('click',()=>go(n-1));document.getElementById('back').addEventListener('click',()=>go(n-2));document.querySelectorAll('.pb').forEach(b=>b.addEventListener('click',()=>go(cur+(+b.dataset.d))));
+nb.addEventListener('click',e=>{e.preventDefault();go(cur+1)});document.querySelectorAll('.pb').forEach(b=>b.addEventListener('click',()=>go(cur+(+b.dataset.d))));
 if(ph){secs.forEach(s=>new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)paint(secs.indexOf(e.target))}),{root:box,threshold:.6}).observe(s));paint(0)}
 else{const fit=()=>box.style.setProperty('--k',Math.min(innerWidth/1280,innerHeight/720));fit();addEventListener('resize',fit);
 addEventListener('keydown',e=>{if(['ArrowRight','ArrowDown','PageDown',' '].includes(e.key)){e.preventDefault();go(cur+1)}if(['ArrowLeft','ArrowUp','PageUp'].includes(e.key)){e.preventDefault();go(cur-1)}});
