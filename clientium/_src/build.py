@@ -138,7 +138,7 @@ def render(sp, prefix='../', fallback=False):
         'PROOF_HEAD': E(B['proof_head']), 'CASES': cases_html(pk.get('sectors') or mk.get('sectors') or sp.get('sectors'), prefix, sp.get('cases_first', ''), sp.get('cases_allow')), 'OFFER_POINTS': ''.join(f'<li>{E(x)}</li>' for x in B['offer_points']), 'REFS': ''.join(f'<img src="{prefix}{E(r)}" alt="">' for r in B.get('refs', [])), 'LOGOS': logos_html(prefix),
         'TALK_HEAD': E(B['talk_head'].replace('{company}', co)), 'TALK_TEXT': E(B['talk_text']), 'BOOKING_URL': E(B['booking_url']), 'BOOKING_HOST': E(B['booking_host']),
         'SENDER_NAME': E(B['sender_name']), 'SENDER_TITLE': E(B['sender_title']), 'TEAM_PHOTO': prefix + E(B['team_photo']),
-        'TRACK_URL': E(B['track_url']), 'SLUG': E(sp['slug']),
+        'TRACK_URL': E(B['track_url']), 'SLUG': E(sp['slug']), 'CLARITY_ATTR': clarity_attr(sp),
         'COVER_NOTE': E(sp.get('cover_note') or sp.get('base_note', '')), 'MARKET_NOTE': E(sp.get('market_note') or sp.get('base_market_note', '')),   # base_*: our plan only, no claim about the lead (level 2, no site)
     }
     out = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
@@ -152,6 +152,11 @@ def render(sp, prefix='../', fallback=False):
         out = out.replace('{{' + k + '}}', v)
     assert '{{' not in out, 'unfilled slot: ' + out[out.index('{{'):out.index('{{') + 30]
     return out
+
+def clarity_attr(sp):
+    """Analytics tags never carry a person's name: if the slug contains the lead's first name, /site.js sends the client tag only."""
+    words = [w.lower() for w in re.split(r'\W+', sp.get('first_name') or '') if len(w) >= 3]
+    return ' data-no-slug' if set(words) & set(sp['slug'].lower().split('-')) else ''
 
 if __name__ == '__main__':
     for path in sys.argv[1:]:
