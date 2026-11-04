@@ -68,9 +68,8 @@ p{line-height:1.5}
 .talk p{font-size:19px;margin-top:18px}
 .talk .site{font-size:15px;color:var(--mute);margin-top:14px;font-weight:600}
 .talk .r{flex:.8;background:var(--card);border-left:4px solid var(--or);padding:36px;display:flex;flex-direction:column;justify-content:center;gap:16px}
-.ph{flex:1;max-height:440px;min-height:0;border:3px dashed var(--or);border-radius:12px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:16px;background:repeating-linear-gradient(45deg,#fff,#fff 12px,#fdf1e7 12px,#fdf1e7 24px)}
-.ph b{font-size:18px;color:#b4560f;letter-spacing:.06em}.ph span{font-size:14px;margin-top:6px;color:var(--ink)}
-.who b{display:block;font-size:20px;color:var(--navy)}.who span{font-size:15px}
+.pic{display:block;width:100%;max-width:380px;aspect-ratio:1;object-fit:contain;margin:0 auto;min-height:0}
+.who{text-align:center}.who b{display:block;font-size:20px;color:var(--navy)}.who span{font-size:15px}
 /* nav */
 #nxt{position:fixed;left:50%;bottom:calc(2.2vh + 6px);transform:translateX(-50%);z-index:60;display:flex;align-items:center;gap:.5em;padding:.55em 1.1em .55em 1.25em;border-radius:999px;background:var(--navy);color:#fff;text-decoration:none;font-size:15px;font-weight:600;box-shadow:0 8px 24px rgba(13,32,54,.3);white-space:nowrap}
 #nxt svg{width:1.05em;height:1.05em;color:var(--or)}#nxt.off{display:none}
@@ -107,7 +106,7 @@ html.phone .seat{font-size:12.5px;margin-top:8px;line-height:1.35}
 html.phone .talk .l{flex:0 0 auto;padding:20px 18px 12px}html.phone .talk p{font-size:15px;margin-top:10px}html.phone .talk .site{font-size:12.5px;margin-top:8px}
 html.phone .talk .m{margin:14px 0 0}
 html.phone .talk .r{flex:1;min-height:0;border-left:0;border-top:4px solid var(--or);padding:12px 18px;gap:8px}
-html.phone .ph b{font-size:14px}html.phone .ph span{font-size:12px}html.phone .who b{font-size:15px}html.phone .who span{font-size:12.5px}
+html.phone .pic{flex:1;width:100%;max-width:none}html.phone .who b{font-size:15px}html.phone .who span{font-size:12.5px}
 @media (max-height:700px){html.phone h1{font-size:25px}html.phone h2{font-size:20px}html.phone .cover .sub{font-size:14px}html.phone .it{padding:4px 0}html.phone .it span,html.phone .st span,html.phone .need li,html.phone .wk div span,html.phone .seat,html.phone .note{font-size:11.5px;line-height:1.27}html.phone .it b,html.phone .st b,html.phone .wk div b{font-size:13px}html.phone .st{padding:5px 10px}html.phone .s{padding:14px 16px 8px}html.phone .tl,html.phone .vg,html.phone .wk,html.phone .stats{margin-top:6px;gap:5px}html.phone .need{margin-top:5px}html.phone .big{font-size:27px}html.phone .nums{padding:7px 10px}html.phone .stat{padding:5px 2px}html.phone .src{padding-top:3px}html.phone .cover .s,html.phone .cover .l,html.phone .talk .l{padding:14px 16px 8px}html.phone .cover{padding:0}html.phone .talk{padding:0}}
 /* desktop scale */
 html:not(.phone) h1{font-size:52px}
@@ -208,7 +207,7 @@ html:not(.phone) .cover .sub{font-size:21px}html:not(.phone) .talk h2{font-size:
     </div>
   </div>
   <div class="r">
-    <div class="ph" role="img" aria-label="Segnaposto per la foto di Antonio Conte"><b>SEGNAPOSTO FOTO</b><span>Qui la foto di Antonio Conte, da ricevere da We Tech</span></div>
+    <img class="pic" src="../assets/antonio-conte.webp" alt="Antonio Conte, CEO di We Tech">
     <div class="who"><b>Antonio Conte</b><span>CEO, We Tech</span></div>
   </div>
 </div></section>
