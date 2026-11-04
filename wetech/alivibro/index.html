@@ -72,12 +72,11 @@ p{line-height:1.5}
 .who{text-align:center}.who b{display:block;font-size:20px;color:var(--navy)}.who span{font-size:15px}
 .book{align-self:flex-start;margin-top:22px;border:0;border-radius:999px;background:var(--navy);color:#fff;font:700 18px Montserrat,system-ui,sans-serif;padding:14px 28px;cursor:pointer;box-shadow:0 8px 20px rgba(13,32,54,.25)}
 .book:hover{background:#1f4264}
-#bk{border:0;padding:0;margin:auto;width:min(980px,92vw);height:min(780px,90vh);max-width:none;max-height:none;border-radius:14px;overflow:hidden;background:#fff}
-#bk::backdrop{background:rgba(13,32,54,.65)}
-.bh{display:flex;align-items:center;justify-content:space-between;height:52px;padding:0 8px 0 18px;border-bottom:1px solid var(--line)}
-.bh a{font-size:13px;color:var(--mute)}
-#bkx{border:0;background:none;font:700 15px Montserrat,system-ui,sans-serif;color:var(--navy);min-height:44px;padding:0 12px;cursor:pointer}#bkx span{font-size:22px;vertical-align:-2px}
-#bkf{display:block;width:100%;height:calc(100% - 52px);border:0}
+.cal{padding:30px 48px 24px}
+.ch{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;flex:none}
+.ca{display:flex;align-items:center;gap:18px;flex:none}.ca a{font-size:14px;color:var(--mute)}
+.bkb{border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--navy);font:700 15px Montserrat,system-ui,sans-serif;padding:9px 16px;cursor:pointer}
+#calf{display:block;flex:1;min-height:0;width:100%;margin-top:14px;border:1px solid var(--line);border-radius:12px;background:var(--card)}
 /* nav */
 #nxt{position:fixed;left:50%;bottom:calc(2.2vh + 6px);transform:translateX(-50%);z-index:60;display:flex;align-items:center;gap:.5em;padding:.55em 1.1em .55em 1.25em;border-radius:999px;background:var(--navy);color:#fff;text-decoration:none;font-size:15px;font-weight:600;box-shadow:0 8px 24px rgba(13,32,54,.3);white-space:nowrap}
 #nxt svg{width:1.05em;height:1.05em;color:var(--or)}#nxt.off{display:none}
@@ -112,10 +111,10 @@ html.phone .wk{grid-template-columns:1fr;gap:8px;margin-top:10px}html.phone .wk 
 html.phone .stats{grid-template-columns:repeat(4,1fr);gap:5px;margin-top:10px}html.phone .stat{padding:7px 3px}html.phone .stat b{font-size:14px}html.phone .stat span{font-size:9.5px;line-height:1.15;display:block}
 html.phone .seat{font-size:12.5px;margin-top:8px;line-height:1.35}
 html.phone .talk .l{flex:0 0 auto;padding:20px 18px 12px}html.phone .talk p{font-size:15px;margin-top:10px}html.phone .talk .site{font-size:12.5px;margin-top:8px}
-html.phone .talk .m{margin:12px 0 0}html.phone .book{width:100%;margin-top:10px;font-size:15px;padding:11px 16px;align-self:stretch}html.phone #bk{width:100vw;height:100dvh;border-radius:0}
+html.phone .cal{padding:10px 0 0}html.phone .ch{padding:0 18px 8px;display:block}html.phone .bkb{display:none}html.phone .ca{margin-top:2px}html.phone .ca a{font-size:12px}html.phone .cal h2{font-size:19px}html.phone #calf{margin:0;border:0;border-top:1px solid var(--line);border-radius:0}html.phone .talk .m{margin:12px 0 0}html.phone .book{width:100%;margin-top:10px;font-size:15px;padding:11px 16px;align-self:stretch}
 html.phone .talk .r{flex:1;min-height:0;border-left:0;border-top:4px solid var(--or);padding:12px 18px;gap:8px}
 html.phone .pic{flex:none;width:200px;height:200px}html.phone .who b{font-size:15px}html.phone .who span{font-size:12.5px}
-@media (max-height:700px){html.phone h1{font-size:25px}html.phone h2{font-size:20px}html.phone .cover .sub{font-size:14px}html.phone .pic{width:130px;height:130px}html.phone .talk p{font-size:13px;margin-top:6px}html.phone .talk h2{font-size:18px}html.phone .talk .site{margin-top:5px}html.phone .book{margin-top:7px;padding:9px 14px}html.phone .it{padding:4px 0}html.phone .it span,html.phone .st span,html.phone .need li,html.phone .wk div span,html.phone .seat,html.phone .note{font-size:11.5px;line-height:1.27}html.phone .it b,html.phone .st b,html.phone .wk div b{font-size:13px}html.phone .st{padding:5px 10px}html.phone .s{padding:14px 16px 8px}html.phone .tl,html.phone .vg,html.phone .wk,html.phone .stats{margin-top:6px;gap:5px}html.phone .need{margin-top:5px}html.phone .big{font-size:27px}html.phone .nums{padding:7px 10px}html.phone .stat{padding:5px 2px}html.phone .src{padding-top:3px}html.phone .cover .s,html.phone .cover .l,html.phone .talk .l{padding:14px 16px 8px}html.phone .cover{padding:0}html.phone .talk{padding:0}}
+@media (max-height:700px){html.phone h1{font-size:25px}html.phone h2{font-size:20px}html.phone .cover .sub{font-size:14px}html.phone .pic{width:130px;height:130px}html.phone .talk p{font-size:13px;margin-top:6px}html.phone .talk h2{font-size:18px}html.phone .talk .site{margin-top:5px}html.phone .book{margin-top:7px;padding:9px 14px}html.phone .it{padding:4px 0}html.phone .it span,html.phone .st span,html.phone .need li,html.phone .wk div span,html.phone .seat,html.phone .note{font-size:11.5px;line-height:1.27}html.phone .it b,html.phone .st b,html.phone .wk div b{font-size:13px}html.phone .st{padding:5px 10px}html.phone .s{padding:14px 16px 8px}html.phone .tl,html.phone .vg,html.phone .wk,html.phone .stats{margin-top:6px;gap:5px}html.phone .need{margin-top:5px}html.phone .big{font-size:27px}html.phone .nums{padding:7px 10px}html.phone .stat{padding:5px 2px}html.phone .src{padding-top:3px}html.phone .cover .s,html.phone .cover .l,html.phone .talk .l{padding:14px 16px 8px}html.phone .cover{padding:0}html.phone .talk{padding:0}html.phone .cal{padding:6px 0 0}html.phone .cal h2{font-size:17px}html.phone .ch{padding:0 16px 5px}}
 /* desktop scale */
 html:not(.phone) h1{font-size:52px}
 html:not(.phone) h2{font-size:42px}
@@ -221,26 +220,25 @@ html:not(.phone) .cover .sub{font-size:21px}html:not(.phone) .talk h2{font-size:
   </div>
 </div></section>
 
+<section data-i="6" aria-label="Prenoti una call"><div class="s cal">
+  <div class="ch"><div><div class="eyebrow">Prenoti una call</div><h2>Scelga il giorno che preferisce</h2></div><div class="ca"><button type="button" id="back" class="bkb">&#8249; Torna indietro</button><a href="https://tidycal.com/team/we-tech/voucher-cloud-cybersecurity" target="_blank" rel="noopener">Apri in una nuova scheda</a></div></div>
+  <iframe id="calf" title="Calendario We Tech"></iframe>
+</div></section>
+
 </div></div>
-<dialog id="bk" aria-label="Prenota una call con We Tech"><div class="bh"><a href="https://tidycal.com/team/we-tech/voucher-cloud-cybersecurity" target="_blank" rel="noopener">Apri in una nuova scheda</a><button type="button" id="bkx">Chiudi <span aria-hidden="true">&times;</span></button></div><iframe id="bkf" title="Calendario We Tech"></iframe></dialog>
 <nav class="pnav" aria-label="Slides"><button class="pb" data-d="-1" aria-label="Precedente">&#8249;</button><span class="pc"><b>1</b> / <span class="pnt"></span></span><button class="pb" data-d="1" aria-label="Successiva">&#8250;</button></nav>
 <a id="nxt" class="off" href="#"><span id="nxtt"></span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12l7 7 7-7"/></svg></a>
 <script>
-(()=>{const d=document.getElementById('bk'),f=document.getElementById('bkf');
-document.getElementById('book').addEventListener('click',()=>{if(!f.src)f.src='https://tidycal.com/team/we-tech/voucher-cloud-cybersecurity';d.showModal()});
-document.getElementById('bkx').addEventListener('click',()=>d.close());
-d.addEventListener('click',e=>{if(e.target===d)d.close()});})();
-</script>
-<script>
 (()=>{const ph=document.documentElement.classList.contains('phone'),secs=[...document.querySelectorAll('.slides>section')],n=secs.length;
 document.querySelector('.pnt').textContent=n;const names=secs.map(s=>s.getAttribute('aria-label')),nb=document.getElementById('nxt'),nt=document.getElementById('nxtt'),box=document.querySelector('.slides');let cur=0;
-const paint=i=>{cur=i;if(i+1<n){nt.textContent=names[i+1];nb.classList.remove('off')}else nb.classList.add('off');document.querySelector('.pc b').textContent=i+1;document.querySelectorAll('.pb').forEach(b=>b.disabled=(+b.dataset.d<0&&i===0)||(+b.dataset.d>0&&i===n-1))};
+const cf=document.getElementById('calf'),CAL='https://tidycal.com/team/we-tech/voucher-cloud-cybersecurity';
+const paint=i=>{cur=i;if(i>=n-2&&!cf.getAttribute('src'))cf.src=CAL;if(i+1<n){nt.textContent=names[i+1];nb.classList.remove('off')}else nb.classList.add('off');document.querySelector('.pc b').textContent=i+1;document.querySelectorAll('.pb').forEach(b=>b.disabled=(+b.dataset.d<0&&i===0)||(+b.dataset.d>0&&i===n-1))};
 const go=i=>{i=Math.max(0,Math.min(n-1,i));if(ph)secs[i].scrollIntoView({behavior:'smooth',block:'start'});else{secs.forEach((s,j)=>s.classList.toggle('on',j===i));paint(i)}};
-nb.addEventListener('click',e=>{e.preventDefault();go(cur+1)});document.querySelectorAll('.pb').forEach(b=>b.addEventListener('click',()=>go(cur+(+b.dataset.d))));
+nb.addEventListener('click',e=>{e.preventDefault();go(cur+1)});document.getElementById('book').addEventListener('click',()=>go(n-1));document.getElementById('back').addEventListener('click',()=>go(n-2));document.querySelectorAll('.pb').forEach(b=>b.addEventListener('click',()=>go(cur+(+b.dataset.d))));
 if(ph){secs.forEach(s=>new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)paint(secs.indexOf(e.target))}),{root:box,threshold:.6}).observe(s));paint(0)}
 else{const fit=()=>box.style.setProperty('--k',Math.min(innerWidth/1280,innerHeight/720));fit();addEventListener('resize',fit);
-addEventListener('keydown',e=>{if(document.getElementById('bk').open)return;if(['ArrowRight','ArrowDown','PageDown',' '].includes(e.key)){e.preventDefault();go(cur+1)}if(['ArrowLeft','ArrowUp','PageUp'].includes(e.key)){e.preventDefault();go(cur-1)}});
-let wl=0;addEventListener('wheel',e=>{if(document.getElementById('bk').open)return;const t=Date.now();if(t-wl<700||Math.abs(e.deltaY)<20)return;wl=t;go(cur+(e.deltaY>0?1:-1))},{passive:true});paint(0)}})();
+addEventListener('keydown',e=>{if(['ArrowRight','ArrowDown','PageDown',' '].includes(e.key)){e.preventDefault();go(cur+1)}if(['ArrowLeft','ArrowUp','PageUp'].includes(e.key)){e.preventDefault();go(cur-1)}});
+let wl=0;addEventListener('wheel',e=>{const t=Date.now();if(t-wl<700||Math.abs(e.deltaY)<20)return;wl=t;go(cur+(e.deltaY>0?1:-1))},{passive:true});paint(0)}})();
 </script>
 </body>
 </html>
