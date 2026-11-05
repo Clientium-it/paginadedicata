@@ -214,7 +214,7 @@ html:not(.phone) .cover .sub{font-size:21px}html:not(.phone) .talk h2{font-size:
     <h2><span class="dk">Se vuole approfondire, scelga</span><span class="ph">Scelga</span> il momento che preferisce</h2>
     <p class="alt"><span class="dk">Se le è più comodo, può rispondere direttamente al messaggio che ha ricevuto su LinkedIn.</span><span class="ph">Oppure risponda al messaggio su LinkedIn.</span></p>
     <p class="site">www.we-tech.com</p>
-    <a class="open" href="https://tidycal.com/team/we-tech/voucher-cloud-cybersecurity" target="_blank" rel="noopener"><span class="dk">Apri in una nuova scheda</span><span class="ph">Apri a parte</span></a>
+    <a class="open" href="https://tidycal.com/team/we-tech/voucher-cloud-cybersecurity-linkedin" target="_blank" rel="noopener"><span class="dk">Apri in una nuova scheda</span><span class="ph">Apri a parte</span></a>
   </div>
   <iframe id="calf" title="Calendario We Tech"></iframe>
 </div></section>
@@ -225,7 +225,7 @@ html:not(.phone) .cover .sub{font-size:21px}html:not(.phone) .talk h2{font-size:
 <script>
 (()=>{const ph=document.documentElement.classList.contains('phone'),secs=[...document.querySelectorAll('.slides>section')],n=secs.length;
 document.querySelector('.pnt').textContent=n;const names=secs.map(s=>s.getAttribute('aria-label')),nb=document.getElementById('nxt'),nt=document.getElementById('nxtt'),box=document.querySelector('.slides');let cur=0;
-const cf=document.getElementById('calf'),CAL='https://tidycal.com/team/we-tech/voucher-cloud-cybersecurity';
+const cf=document.getElementById('calf'),CAL='https://tidycal.com/team/we-tech/voucher-cloud-cybersecurity-linkedin';
 const paint=i=>{cur=i;if(i>=n-2&&!cf.getAttribute('src'))cf.src=CAL;if(i+1<n){nt.textContent=names[i+1];nb.classList.remove('off')}else nb.classList.add('off');document.querySelector('.pc b').textContent=i+1;document.querySelectorAll('.pb').forEach(b=>b.disabled=(+b.dataset.d<0&&i===0)||(+b.dataset.d>0&&i===n-1))};
 const go=i=>{i=Math.max(0,Math.min(n-1,i));if(ph)secs[i].scrollIntoView({behavior:'smooth',block:'start'});else{secs.forEach((s,j)=>s.classList.toggle('on',j===i));paint(i)}};
 nb.addEventListener('click',e=>{e.preventDefault();go(cur+1)});document.querySelectorAll('.pb').forEach(b=>b.addEventListener('click',()=>go(cur+(+b.dataset.d))));
