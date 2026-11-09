@@ -51,7 +51,7 @@ p{line-height:1.5}
 .lgn{margin-top:auto;font-size:19px;line-height:1.4}
 .lg.pf{grid-template-columns:repeat(4,1fr)}.lg.pf div{flex-direction:column;gap:10px;font-weight:400}.lg.pf b{font-size:34px;color:var(--red)}.lg.pf span{font-size:18px;color:var(--ink);line-height:1.3}html:not(.phone) .lg.pf b{font-size:46px}html:not(.phone) .lg.pf span{font-size:20px}
 html.phone .lg.pf{grid-template-columns:1fr 1fr}html.phone .lg.pf b{font-size:24px}html.phone .lg.pf span{font-size:13px}
-.pi{width:150px;height:150px;border-radius:50%;background:var(--slate);color:#fff;display:flex;align-items:center;justify-content:center;font-size:52px;font-weight:800;border:4px solid var(--red)}html.phone .pi{display:none}
+.pi{flex:none;width:150px;height:150px;border-radius:50%;background:#ccc url(../assets/paolo-ballini.jpg) 50% 30%/cover;border:4px solid var(--red)}
 .talk{padding:0;flex-direction:row}
 .talk .l{flex:0 0 290px;padding:26px 24px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;background:var(--card);border-right:4px solid var(--red);min-width:0;text-align:center}
 .talk .chip img{height:24px}.talk .chip{padding:9px 13px}
@@ -109,6 +109,8 @@ html.phone .wk b{font-size:18px;margin-bottom:4px}html.phone .wk span{font-size:
 html.phone .band{font-size:14.5px;margin-top:12px}
 html.phone .lg div{font-size:18px;min-height:0}html.phone .lgn{font-size:15px;margin-top:12px}
 @media (max-height:700px){html.phone .mk div{padding:4px 7px}html.phone .mk b{font-size:13px}html.phone .mk span{font-size:11px;line-height:1.18;margin-top:1px}html.phone .idea{font-size:12px;margin-top:6px}html.phone .wk>div{padding:5px 10px}html.phone .wk b{font-size:14px;margin:0}html.phone .wk span{font-size:12px;line-height:1.24}html.phone .band{font-size:12px;margin-top:6px}html.phone .lg div{font-size:14px}html.phone .lgn{font-size:12px;margin-top:6px}}
+html.phone .talk .l{grid-template-columns:auto 1fr auto}html.phone .pi{width:54px;height:54px;border-width:2px;grid-row:1/3}html.phone .talk h2{grid-column:2/4}html.phone .talk .alt{grid-column:1/4}
+html.phone .cover .r{flex-basis:30%;background-position:45% 14%}@media (max-height:700px){html.phone .cover .r{flex-basis:26%}}
 </style>
 <script src="/site.js" async></script>
 </head>
@@ -166,10 +168,10 @@ html.phone .lg div{font-size:18px;min-height:0}html.phone .lgn{font-size:15px;ma
 
 <section data-i="5" aria-label="Prenoti una call"><div class="s talk">
   <div class="l">
-    <div class="pi" aria-hidden="true">PB</div>
+    <div class="pi" role="img" aria-label="Paolo Ballini"></div>
     <h2>Parliamo di Azienda Esempio</h2>
-    <div class="who"><b>Paolo Ballini</b><span>My English School</span></div>
-    <a class="btn" href="https://api.leadconnectorhq.com/widget/booking/P4JWpXwmbNA91sY4sOnV" target="_blank" rel="noopener">Prenoti una call</a>
+    <div class="who"><b>Paolo Ballini</b><span>National Corporate Manager, My English School</span></div>
+    <a class="btn" href="https://api.leadconnectorhq.com/widget/booking/FD6eolTgISDzy38c4hIN" target="_blank" rel="noopener">Prenoti una call</a>
     <p class="alt">Se le è più comodo, può rispondere al messaggio che ha ricevuto su LinkedIn.</p>
   </div>
   <iframe id="calf" title="Calendario My English School"></iframe>
@@ -181,7 +183,7 @@ html.phone .lg div{font-size:18px;min-height:0}html.phone .lgn{font-size:15px;ma
 <script>
 (()=>{const ph=document.documentElement.classList.contains('phone'),secs=[...document.querySelectorAll('.slides>section')],n=secs.length;
 document.querySelector('.pnt').textContent=n;const names=secs.map(s=>s.getAttribute('aria-label')),nb=document.getElementById('nxt'),nt=document.getElementById('nxtt'),box=document.querySelector('.slides');let cur=0;
-const cf=document.getElementById('calf'),CAL='https://api.leadconnectorhq.com/widget/booking/P4JWpXwmbNA91sY4sOnV';
+const cf=document.getElementById('calf'),CAL='https://api.leadconnectorhq.com/widget/booking/FD6eolTgISDzy38c4hIN';
 const paint=i=>{cur=i;if(i>=n-2&&!cf.getAttribute('src'))cf.src=CAL;if(i+1<n){nt.textContent=names[i+1];nb.classList.remove('off')}else nb.classList.add('off');document.querySelector('.pc b').textContent=i+1;document.querySelectorAll('.pb').forEach(b=>b.disabled=(+b.dataset.d<0&&i===0)||(+b.dataset.d>0&&i===n-1))};
 const go=i=>{i=Math.max(0,Math.min(n-1,i));if(ph)secs[i].scrollIntoView({behavior:'smooth',block:'start'});else{secs.forEach((s,j)=>s.classList.toggle('on',j===i));paint(i)}};
 nb.addEventListener('click',e=>{e.preventDefault();go(cur+1)});document.querySelectorAll('.pb').forEach(b=>b.addEventListener('click',()=>go(cur+(+b.dataset.d))));
