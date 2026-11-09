@@ -1,0 +1,19 @@
+{
+ "slug": "a-l-p-a",
+ "company": "A.L.P.A",
+ "first_name": "Paolo",
+ "domain": "alpachem.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per A.L.P.A."
+}

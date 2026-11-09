@@ -1,0 +1,19 @@
+{
+ "slug": "fischbacher-1819",
+ "company": "Fischbacher 1819",
+ "first_name": "Paolo",
+ "domain": "fischbacher.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fischbacher 1819."
+}

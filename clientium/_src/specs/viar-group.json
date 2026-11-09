@@ -1,0 +1,19 @@
+{
+ "slug": "viar-group",
+ "company": "VIAR Group",
+ "first_name": "Luca",
+ "domain": "viargroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VIAR Group."
+}

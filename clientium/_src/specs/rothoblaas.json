@@ -1,0 +1,19 @@
+{
+ "slug": "rothoblaas",
+ "company": "Rothoblaas",
+ "first_name": "Robert",
+ "domain": "rothoblaas.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rothoblaas."
+}
