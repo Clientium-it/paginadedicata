@@ -10,7 +10,7 @@ Spec fields (written by auto/deck.py, or by hand):
   cover_sub   one sentence under the cover headline (optional, from the model or a default)
   offer_tail  one sentence specific to the lead under the offer body (optional)
 """
-import json, os, re, sys, html, urllib.parse
+import hashlib, json, os, re, sys, html, urllib.parse
 from PIL import Image
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 B = json.load(open(os.path.join(HERE, 'brand.json'), encoding='utf-8'))
@@ -20,16 +20,28 @@ REQUIRED = ('slug', 'company', 'first_name', 'domain')   # everything else is op
 def steps_html():
     return ''.join(f'<div class="step"><i>0{i+1}</i><div><b>{E(h)}</b><p>{E(t)}</p></div></div>' for i, (h, t) in enumerate(B['steps']))
 
-GEO = json.load(open(os.path.join(HERE, 'geo', 'italy_regions.json'), encoding='utf-8'))
+GEO = json.load(open(os.path.join(HERE, 'geo', 'italy_regions_web.json'), encoding='utf-8'))   # simplified copy of italy_regions.json (geo/simplify_map.py, tol 0.8): same picture, 8x lighter
+MAP_CSS = 'path{fill:rgba(255,255,255,.05);stroke:rgba(245,245,242,.14);stroke-width:1.4;stroke-linejoin:round;vector-effect:non-scaling-stroke}path.on{fill:#02c3c1;fill-opacity:.92;stroke:#0a0f1c;stroke-width:1.6}'
+
+def map_file(on):
+    """one shared SVG per set of lit regions in assets/maps: pages link it instead of carrying 360 KB of inline paths (site limit 1 GB)"""
+    key = hashlib.md5('|'.join(sorted(on)).encode()).hexdigest()[:10]
+    f = os.path.join(ROOT, 'assets', 'maps', key + '.svg')
+    if not os.path.exists(f):
+        os.makedirs(os.path.dirname(f), exist_ok=True)
+        w, h = GEO['viewBox'].split()[2:]
+        cls = lambda n: ' class="on"' if n in on else ''
+        paths = ''.join(f'<path{cls(n)} d="{d}"><title>{E(n)}</title></path>' for n, d in GEO['regions'].items())
+        open(f, 'w', encoding='utf-8', newline='\n').write(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="{GEO["viewBox"]}" width="{w}" height="{h}"><style>{MAP_CSS}</style>{paths}</svg>')
+    return key
 
 def map_html(mk):
     """Italy as inline SVG, the market regions lit. Regions come from market.json, so the picture is as true as the data."""
     on = set(mk.get('regions') or [])
     if not on: return ''
     unknown = on - set(GEO['regions']); assert not unknown, f'unknown region {unknown}'
-    paths = ''.join(f'<path class="{"on" if n in on else ""}" d="{d}"><title>{E(n)}</title></path>' for n, d in GEO['regions'].items())
     n = len(on); where = 'in tutta Italia' if n == len(GEO['regions']) else 'in ' + (f'{n} regioni' if n > 1 else next(iter(on)))
-    return (f'<figure class="map"><svg viewBox="{GEO["viewBox"]}" role="img" aria-label="{E(mk["count"])} decisori {E(where)}">{paths}</svg>'
+    return (f'<figure class="map"><img src="../assets/maps/{map_file(on)}.svg" alt="{E(mk["count"])} decisori {E(where)}">'
             f'<figcaption class="tag"><b>{E(mk["count"])}</b>decisori {E(where)}</figcaption><span class="credit">Confini ISTAT via openpolis, CC BY 4.0</span></figure>')
 
 def pick_cases(sectors, n=3, first='', allow=None):
@@ -153,6 +165,16 @@ def render(sp, prefix='../', fallback=False):
     assert '{{' not in out, 'unfilled slot: ' + out[out.index('{{'):out.index('{{') + 30]
     return out
 
+def shared_css(page):
+    """the <style> block is the same on every page: write it once to assets/css/<hash>.css and link it (a few KB per page instead of 26)"""
+    m = re.search(r'<style>([\s\S]*?)</style>', page)
+    if not m: return page
+    key = hashlib.md5(m.group(1).encode()).hexdigest()[:10]
+    f = os.path.join(ROOT, 'assets', 'css', key + '.css')
+    if not os.path.exists(f):
+        os.makedirs(os.path.dirname(f), exist_ok=True); open(f, 'w', encoding='utf-8', newline='\n').write(m.group(1))
+    return page[:m.start()] + f'<link rel="stylesheet" href="../assets/css/{key}.css">' + page[m.end():]
+
 def clarity_attr(sp):
     """Analytics tags never carry a person's name: if the slug contains the lead's first name, /site.js sends the client tag only."""
     words = [w.lower() for w in re.split(r'\W+', sp.get('first_name') or '') if len(w) >= 3]
@@ -161,7 +183,7 @@ def clarity_attr(sp):
 if __name__ == '__main__':
     for path in sys.argv[1:]:
         sp = json.load(open(path, encoding='utf-8'))
-        out = render(sp)
+        out = shared_css(render(sp))
         d = os.path.join(ROOT, sp['slug']); os.makedirs(d, exist_ok=True)
         open(os.path.join(d, 'index.html'), 'w', encoding='utf-8', newline='\n').write(out)
         print('costruita', sp['slug'], '->', f"https://{B['cases_domain']}/{sp['slug']}/")
