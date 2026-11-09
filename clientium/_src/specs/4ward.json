@@ -1,0 +1,19 @@
+{
+ "slug": "4ward",
+ "company": "4ward",
+ "first_name": "4ward",
+ "domain": "4ward.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per 4ward."
+}

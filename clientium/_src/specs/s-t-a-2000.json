@@ -1,0 +1,19 @@
+{
+ "slug": "s-t-a-2000",
+ "company": "S.T.A. 2000",
+ "first_name": "Franco",
+ "domain": "sta2000.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per S.T.A. 2000."
+}

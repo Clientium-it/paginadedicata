@@ -1,0 +1,19 @@
+{
+ "slug": "savare-i-c",
+ "company": "Savarè I.C",
+ "first_name": "Biagio",
+ "domain": "savare.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Savarè I.C."
+}

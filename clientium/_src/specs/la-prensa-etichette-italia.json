@@ -1,0 +1,19 @@
+{
+ "slug": "la-prensa-etichette-italia",
+ "company": "La Prensa Etichette Italia",
+ "first_name": "Delfino",
+ "domain": "laprensa.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per La Prensa Etichette Italia."
+}

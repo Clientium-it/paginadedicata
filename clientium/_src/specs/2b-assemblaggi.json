@@ -1,0 +1,19 @@
+{
+ "slug": "2b-assemblaggi",
+ "company": "2b Assemblaggi",
+ "first_name": "Nicolas",
+ "domain": "2bassemblaggi.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per 2b Assemblaggi."
+}
