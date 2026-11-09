@@ -8,7 +8,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 import re
 LOW = set('di e ed per del della dello dei degli delle il la le lo gli a al alla ai alle da dal dalla in con su tra fra and the of for'.split())
 SHORT = {'bertolotti-soc-per-az-impianti-per-l-industria-siderurgica-e-mineraria': 'Bertolotti',   # register names too long for the cover
-         'i-c-m-a-san-giorgio-industria-costruzioni-macchine-e-affini': 'I.C.M.A. San Giorgio'}
+         'i-c-m-a-san-giorgio-industria-costruzioni-macchine-e-affini': 'I.C.M.A. San Giorgio',
+         'si': 'SISAS'}   # register name 'SI', the messages say SISAS
 def nice(name):
     """display casing for names from the business register: only mechanical fixes, never new words"""
     n = re.sub(r"[- ]+societa' per azioni$", '', name.strip(), flags=re.I)
