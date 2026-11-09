@@ -21,6 +21,7 @@ def steps_html():
     return ''.join(f'<div class="step"><i>0{i+1}</i><div><b>{E(h)}</b><p>{E(t)}</p></div></div>' for i, (h, t) in enumerate(B['steps']))
 
 GEO = json.load(open(os.path.join(HERE, 'geo', 'italy_regions_web.json'), encoding='utf-8'))   # simplified copy of italy_regions.json (geo/simplify_map.py, tol 0.8): same picture, 8x lighter
+CAL_URL = f"https://api.leadconnectorhq.com/widget/booking/{B['calendar_widget']}" if B.get('calendar_widget') else ''
 MAP_CSS = 'path{fill:rgba(255,255,255,.05);stroke:rgba(245,245,242,.14);stroke-width:1.4;stroke-linejoin:round;vector-effect:non-scaling-stroke}path.on{fill:#02c3c1;fill-opacity:.92;stroke:#0a0f1c;stroke-width:1.6}'
 
 def map_file(on):
@@ -148,7 +149,7 @@ def render(sp, prefix='../', fallback=False):
         'INSIGHTS': ''.join(f'<div class="irow"><span class="kpi">{E(c["kpi"])}</span><div><b>{E(c["label"])}</b></div></div>' for c in pk.get('insights', [])),
         'OG_IMAGE': f"https://{B['cases_domain']}/assets/og/{E(sp['slug'])}.png" if os.path.exists(os.path.join(ROOT, 'assets', 'og', sp['slug'] + '.png')) else f"https://{B['cases_domain']}/assets/og.png",
         'PROOF_HEAD': E(B['proof_head']), 'CASES': cases_html(pk.get('sectors') or mk.get('sectors') or sp.get('sectors'), prefix, sp.get('cases_first', ''), sp.get('cases_allow')), 'OFFER_POINTS': ''.join(f'<li>{E(x)}</li>' for x in B['offer_points']), 'REFS': ''.join(f'<img src="{prefix}{E(r)}" alt="">' for r in B.get('refs', [])), 'LOGOS': logos_html(prefix),
-        'TALK_HEAD': E(B['talk_head'].replace('{company}', co)), 'TALK_TEXT': E(B['talk_text']), 'BOOKING_URL': E(B['booking_url']), 'BOOKING_HOST': E(B['booking_host']),
+        'TALK_HEAD': E(B['talk_head'].replace('{company}', co)), 'TALK_TEXT': E(B['talk_text']), 'BOOKING_URL': E(CAL_URL or B['booking_url']), 'BOOKING_HOST': E('leadconnectorhq.com/widget/booking' if CAL_URL else B['booking_host']),   # the open-apart link goes to the same calendar as the slide
         'CAL_WIDGET': E(B.get('calendar_widget') or ''), 'SENDER_NAME': E(B['sender_name']), 'SENDER_TITLE': E(B['sender_title']), 'TEAM_PHOTO': prefix + E(B['team_photo']),
         'TRACK_URL': E(B['track_url']), 'SLUG': E(sp['slug']), 'CLARITY_ATTR': clarity_attr(sp),
         'COVER_NOTE': E(sp.get('cover_note') or sp.get('base_note', '')), 'MARKET_NOTE': E(sp.get('market_note') or sp.get('base_market_note', '')),   # base_*: our plan only, no claim about the lead (level 2, no site)
