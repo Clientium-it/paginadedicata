@@ -262,6 +262,29 @@ html.phone .vc.img .s2{font-size:10.5px;margin-top:2px}html.phone .vc.img .rc{fo
 html.phone .vc.img .s2:empty,html.phone .vc.img .rc:empty{display:none}
 @media (max-height:760px){html.phone .vc.img{grid-template-columns:64px 1fr}html.phone .vc.img .vis{min-height:64px}html.phone .vc.img .lrow{height:26px;margin-top:6px}html.phone .vc.img .clogo{height:min(calc(var(--lh,32px)*.56),26px)}html.phone .vc.img .kl{margin-top:3px}html.phone .vc.img .k2{font-size:18px}}
 @media (max-height:680px){html.phone .vc.img{grid-template-columns:52px 1fr}html.phone .vc.img .s2{font-size:10px}html.phone .vcards{gap:7px}}
+.s.talk{display:flex;flex-direction:row;padding:0}
+.talk .l{flex:0 0 276px;padding:0;display:flex;flex-direction:column;justify-content:flex-start;align-items:stretch;gap:0;border-right:1px solid rgba(255,255,255,.12);min-width:0}
+.talk .hd{position:relative;flex:1;min-height:0}
+.talk .ft{position:absolute;inset:0;background:#111 50% 18%/cover no-repeat}
+.talk .who{position:absolute;left:14px;bottom:14px;display:flex;flex-direction:column;gap:3px;background:var(--paper);color:var(--ink);padding:10px 14px;border-radius:8px}
+.talk .who b{font-size:17px;font-weight:800}.talk .who span{font-size:12px;opacity:.7}
+.talk .tx{flex:none;padding:22px 20px;display:flex;flex-direction:column;gap:12px}
+.talk h2{font-size:30px;line-height:1.1;max-width:none;margin:0}
+.talk .pair{font-size:17px;gap:8px;flex-wrap:wrap}
+.talk .contact{font-size:13px}
+.talk .open{font-size:13px;color:var(--mute)}
+#calf{display:block;flex:1;min-width:0;height:100%;border:0;background:#fff}
+html.phone .s.talk{flex-direction:column}
+html.phone .talk .l{flex:0 0 auto;flex-direction:row;align-items:center;gap:12px;padding:10px 16px;border-right:0;border-bottom:1px solid rgba(255,255,255,.12)}
+html.phone .talk .hd{position:static;flex:none;width:58px;height:58px}
+html.phone .talk .ft{position:static;width:58px;height:58px;border-radius:50%;background-position:50% 12%;background-size:150%}
+html.phone .talk .who{display:none}
+html.phone .talk .tx{flex:1;min-width:0;padding:0;gap:2px;display:grid;grid-template-columns:1fr auto;column-gap:8px;align-items:center}
+html.phone .talk h2{grid-column:1/3;font-size:18px}
+html.phone .talk .pair,html.phone .talk .contact{display:none}
+html.phone .talk .tx::before{content:attr(data-who);grid-column:1;grid-row:2;font-size:11.5px;color:var(--mute);line-height:1.2}
+html.phone .talk .open{grid-column:2;grid-row:2;font-size:11.5px;white-space:nowrap}
+html.phone #calf{flex:1;min-height:0;width:100%;height:auto}
 </style>
 <script src="/site.js"{{CLARITY_ATTR}} async></script>
 </head>
@@ -307,12 +330,15 @@ html.phone .vc.img .s2:empty,html.phone .vc.img .rc:empty{display:none}
 
 <section data-i="5" aria-label="{{TALK_HEAD}}"><div class="s talk">
   <div class="l">
-    <h2 class="in">{{TALK_HEAD}}</h2>
-    <a class="btn in" href="{{BOOKING_URL}}" target="_blank" rel="noopener">Prenota una call <span>→</span></a>
-    <div class="pair in"><span class="wm">{{BRAND}}</span><span class="x">×</span>{{CO_MARK}}</div>
-    <p class="contact in">{{BRAND_DOMAIN}}</p>
+    <div class="hd"><div class="ft" role="img" aria-label="{{SENDER_NAME}}" style="background-image:url({{TEAM_PHOTO}})"></div><div class="who"><b>{{SENDER_NAME}}</b><span>{{SENDER_TITLE}}</span></div></div>
+    <div class="tx" data-who="{{SENDER_NAME}}, {{SENDER_TITLE}}">
+      <h2 class="in">{{TALK_HEAD}}</h2>
+      <div class="pair in"><span class="wm">{{BRAND}}</span><span class="x">×</span>{{CO_MARK}}</div>
+      <p class="contact in">{{BRAND_DOMAIN}}</p>
+      <a class="open" href="{{BOOKING_URL}}" target="_blank" rel="noopener">Apri in una nuova scheda</a>
+    </div>
   </div>
-  <figure class="r" role="img" aria-label="{{SENDER_NAME}}" style="background-image:url({{TEAM_PHOTO}})"><figcaption><b>{{SENDER_NAME}}</b><span>{{SENDER_TITLE}}</span></figcaption></figure>
+  <iframe id="calf" title="Calendario {{BRAND}}" data-w="{{CAL_WIDGET}}"></iframe>
 </div></section>
 
 </div></div>
@@ -360,10 +386,11 @@ document.addEventListener('click',e=>{const v=e.target.closest('.vis[data-v]');i
 </script>
 <script>
 /* tracking beacon: open, slide, video, book, ping, leave. Not for automation browsers, not for your own browsers after ?int=1 once. */
-(()=>{const H='{{TRACK_URL}}',BH='{{BOOKING_HOST}}',slug=(location.pathname.split('/').filter(Boolean)[0]||'').toLowerCase();
+(()=>{const H='{{TRACK_URL}}',BH='{{BOOKING_HOST}}',slug=(location.pathname.split('/').filter(Boolean)[0]||'').toLowerCase(),page=(location.pathname.split('/').filter(Boolean)[1]||'').toLowerCase();
 let q=new URLSearchParams(location.search),int=false;try{if(q.get('int')==='1')localStorage.deck_int='1';if(q.get('int')==='0')localStorage.removeItem('deck_int');int=localStorage.deck_int==='1'}catch(e){}
 const sid=Math.random().toString(36).slice(2,10)+Date.now().toString(36);
-document.querySelectorAll('a[href*="'+BH+'"]').forEach(a=>{try{const u=new URL(a.href);u.searchParams.set('utm_source','deck');u.searchParams.set('utm_campaign',slug);u.searchParams.set('utm_content',int?'internal':sid);a.href=u.toString()}catch(e){}});
+document.querySelectorAll('a[href*="'+BH+'"]').forEach(a=>{try{const u=new URL(a.href);u.searchParams.set('utm_source','deck');u.searchParams.set('utm_campaign',slug);u.searchParams.set('utm_content',int?'internal':sid);u.searchParams.set('utm_term',page);a.href=u.toString()}catch(e){}});
+const cf=document.getElementById('calf');if(cf&&cf.dataset.w){const u=new URL('https://api.leadconnectorhq.com/widget/booking/'+cf.dataset.w);u.searchParams.set('utm_source','deck');u.searchParams.set('utm_campaign',slug);u.searchParams.set('utm_content',int?'internal':sid);u.searchParams.set('utm_term',page);const n=document.querySelectorAll('.slides>section').length,L=i=>{if(i>=n-1&&!cf.getAttribute('src'))cf.src=u.toString()};document.addEventListener('slide',e=>L(e.detail));L(window.__slide||1)}
 if(!slug||!H||H.indexOf('YOUR-PROJECT')>-1||navigator.webdriver||int)return;
 const send=(ev,x)=>{const b=JSON.stringify(Object.assign({slug,sid,ev,t:Date.now()},x||{}));try{if(navigator.sendBeacon&&navigator.sendBeacon(H,new Blob([b],{type:'text/plain'})))return}catch(e){}try{fetch(H,{method:'POST',body:b,keepalive:true,mode:'no-cors'})}catch(e){}};
 const tot=document.querySelectorAll('.slides>section').length;let max=1,act=0,last=Date.now();
