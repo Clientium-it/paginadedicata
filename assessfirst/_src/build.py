@@ -27,7 +27,8 @@ def clarity_attr(sp):
     return ' data-no-slug' if words & set(sp['slug'].split('-')) else ''
 def clients(sp):
     c = (sp.get('cliente_citato') or '').strip()
-    return ([c] if c else []) + [x for x in CLIENTS if x != c]
+    out = set(sp.get('clienti_esclusi') or [])   # competitors of this lead (Enrichment's af_lp_cliente_changes.json 'old'): never shown
+    return ([c] if c else []) + [x for x in CLIENTS if x != c and x not in out]
 def render(sp):
     c, full, slug = sp['company'].strip(), (sp.get('full_name') or '').strip(), sp['slug']
     note, idea = (sp.get('cover_note') or '').strip(), (sp.get('idea') or '').strip()
