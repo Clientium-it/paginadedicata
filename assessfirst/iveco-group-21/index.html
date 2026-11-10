@@ -34,7 +34,13 @@ p{line-height:1.5}
 .cover .l{flex:1.1;padding:52px 52px 84px 72px;display:flex;flex-direction:column;min-width:0}
 .cover .m{margin:auto 0;padding-top:24px}
 .cover .sub{font-size:21px;margin-top:20px}
-.cover .r{flex:.9;background:#f5f5f7 url(../assets/af-app.jpg) 0% 40%/cover;border-left:5px solid var(--red)}
+.cover .r{flex:.9;border-left:5px solid var(--red)}
+.bp{position:relative;overflow:hidden;background:radial-gradient(120% 90% at 85% 10%,#3a1430 0%,#1d1d1f 55%);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:34px;padding:40px}
+.bp .ring{width:250px;height:250px;border-radius:50%;background:conic-gradient(from 200deg,#ff2f92,#ff7a3d,#ffd23f,#3ed1c6,#2f7cff,#8b5cf6,#ff2f92);-webkit-mask:radial-gradient(circle,transparent 58%,#000 59%);mask:radial-gradient(circle,transparent 58%,#000 59%);filter:drop-shadow(0 20px 50px rgba(255,47,146,.25))}
+.bp .kw{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;max-width:420px}
+.bp .kw span{border:1px solid rgba(255,255,255,.28);border-radius:999px;padding:8px 16px;font-size:16px;font-weight:600;color:#fff;background:rgba(255,255,255,.04)}
+.bp .kw span:first-child{border-color:var(--red);color:#fff;background:rgba(255,47,146,.18)}
+html.phone .bp{flex-direction:row;gap:18px;padding:14px 18px}html.phone .bp .ring{width:84px;height:84px;flex:none}html.phone .bp .kw{justify-content:flex-start;gap:6px}html.phone .bp .kw span{font-size:12px;padding:5px 10px}
 .mk{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}
 .mk div{background:var(--card);border-top:4px solid var(--red);border-radius:0 0 8px 8px;padding:16px 18px}
 .mk b{display:block;font-size:21px;color:var(--slate)}
@@ -51,14 +57,14 @@ p{line-height:1.5}
 .lgn{margin-top:auto;font-size:19px;line-height:1.4}
 .lg.pf{grid-template-columns:repeat(4,1fr)}.lg.pf div{flex-direction:column;gap:10px;font-weight:400}.lg.pf b{font-size:34px;color:var(--red)}.lg.pf span{font-size:18px;color:var(--ink);line-height:1.3}html:not(.phone) .lg.pf b{font-size:46px}html:not(.phone) .lg.pf span{font-size:20px}
 html.phone .lg.pf{grid-template-columns:1fr 1fr}html.phone .lg.pf b{font-size:24px}html.phone .lg.pf span{font-size:13px}
-.pi{flex:none;width:150px;height:150px;border-radius:50%;background:var(--slate)  50% 30%/cover;border:4px solid var(--red);color:#fff;display:flex;align-items:center;justify-content:center;font-size:52px;font-weight:800}html.phone .pi{font-size:20px}
 .talk{padding:0;flex-direction:row}
-.talk .l{flex:0 0 290px;padding:26px 24px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;background:var(--card);border-right:4px solid var(--red);min-width:0;text-align:center}
+.talk .l{flex:0 0 380px;padding:26px 24px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;background:var(--card);border-right:4px solid var(--red);min-width:0;text-align:center}
 .talk .chip img{height:24px}.talk .chip{padding:9px 13px}
 .who b{display:block;font-size:19px;color:var(--slate)}.who span{font-size:14.5px}
-.talk h2{font-size:25px;line-height:1.16;margin:0}
+.talk h2{font-size:34px;line-height:1.12;margin:0}.talk .why{font-size:18px;line-height:1.42;color:var(--ink)}.talk .alt{font-weight:600}
+.talk .bp{flex:1}
 .btn{display:none;background:var(--red);color:#fff;text-decoration:none;font-weight:700;font-size:16px;border-radius:999px;padding:11px 20px}
-.talk .alt{font-size:15px;line-height:1.36}
+.talk .alt{font-size:16px;line-height:1.4}
 .talk .site{font-size:13.5px;color:var(--mute);font-weight:700}
 #calf{display:block;flex:1;min-width:0;height:100%;border:0;background:#fff}
 #nxt{position:fixed;left:50%;bottom:calc(2.2vh + 6px);transform:translateX(-50%);z-index:60;display:flex;align-items:center;gap:.5em;padding:.55em 1.1em .55em 1.25em;border-radius:999px;background:var(--slate);color:#fff;text-decoration:none;font-size:15px;font-weight:700;box-shadow:0 8px 24px rgba(20,28,34,.3);white-space:nowrap}
@@ -109,9 +115,13 @@ html.phone .wk b{font-size:18px;margin-bottom:4px}html.phone .wk span{font-size:
 html.phone .band{font-size:14.5px;margin-top:12px}
 html.phone .lg div{font-size:18px;min-height:0}html.phone .lgn{font-size:15px;margin-top:12px}
 @media (max-height:700px){html.phone .mk div{padding:4px 7px}html.phone .mk b{font-size:13px}html.phone .mk span{font-size:11px;line-height:1.18;margin-top:1px}html.phone .idea{font-size:12px;margin-top:6px}html.phone .wk>div{padding:5px 10px}html.phone .wk b{font-size:14px;margin:0}html.phone .wk span{font-size:12px;line-height:1.24}html.phone .band{font-size:12px;margin-top:6px}html.phone .lg div{font-size:14px}html.phone .lgn{font-size:12px;margin-top:6px}}
-html.phone .talk .l{grid-template-columns:auto 1fr auto}html.phone .pi{width:54px;height:54px;border-width:2px;grid-row:1/3}html.phone .talk h2{grid-column:2/4}html.phone .talk .alt{grid-column:1/4}
-html.phone .cover .r{flex-basis:30%;background-position:30% 55%}@media (max-height:700px){html.phone .cover .r{flex-basis:26%}}
+html.phone .talk h2{grid-column:1/3}
+html.phone .cover .r{flex-basis:auto}
 .lg.cl{grid-template-columns:repeat(var(--n,4),1fr)}html.phone .lg.cl{grid-template-columns:1fr 1fr}
+html.phone .talk .why{grid-column:1/3;font-size:14px;line-height:1.35}html.phone .talk .l{padding:18px 16px}html.phone .talk .bp{flex:1;flex-direction:column;gap:22px}html.phone .talk .bp .ring{width:150px;height:150px}html.phone .talk .bp .kw{justify-content:center}
+.lg.cl{flex:0 0 auto;grid-auto-rows:150px;margin-top:40px}html.phone .lg.cl{grid-auto-rows:84px;margin-top:16px}html.phone .lg.cl div{font-size:17px}
+.talk .l{align-items:flex-start;text-align:left;padding:40px 36px;gap:16px}
+html:not(.phone) .lg.cl{margin-top:auto;grid-auto-rows:190px}html:not(.phone) .lg.cl div{font-size:30px}html:not(.phone) .lg.cl+.lgn{margin-bottom:auto}
 </style>
 <script src="/site.js" async></script>
 </head>
@@ -127,7 +137,7 @@ html.phone .cover .r{flex-basis:30%;background-position:30% 55%}@media (max-heig
       <p class="sub">Iveco Group sta cercando un Plant Quality Specialist. Qui trova come AssessFirst aiuta a scegliere le persone giuste per ogni ruolo.</p>
     </div>
   </div>
-  <div class="r" role="img" aria-label="La piattaforma AssessFirst"></div>
+  <div class="r bp" aria-hidden="true"><div class="ring"></div><div class="kw"><span>Selezione</span><span>Onboarding</span><span>Mobilità interna</span></div></div>
 </div></section>
 
 <section data-i="2" aria-label="Cosa facciamo"><div class="s">
@@ -164,15 +174,15 @@ html.phone .cover .r{flex-basis:30%;background-position:30% 55%}@media (max-heig
   <p class="lgn">Selezione, onboarding e mobilità interna con un solo strumento.</p>
 </div></section>
 
-<section data-i="5" aria-label="Prenoti una call"><div class="s talk">
+<section data-i="5" aria-label="Parliamone"><div class="s talk">
   <div class="l">
-    <div class="pi" role="img" aria-label="Jacopo Carretta">JC</div>
+    <span class="chip"><img src="../assets/af-logo.png" alt="AssessFirst"></span>
     <h2>Parliamo di Iveco Group</h2>
-    <div class="who"><b>Jacopo Carretta</b><span>AssessFirst</span></div>
+    <p class="why">Una breve call per vedere come leggere i candidati sui ruoli che state cercando.</p>
     <a class="btn" href="" target="_blank" rel="noopener">Prenoti una call</a>
-    <p class="alt">Se le è più comodo, può rispondere al messaggio che ha ricevuto su LinkedIn.</p>
+    <p class="alt">Può rispondere al messaggio che ha ricevuto su LinkedIn.</p>
   </div>
-  <iframe id="calf" title="Calendario AssessFirst"></iframe>
+  <div class="bp" aria-hidden="true"><div class="ring"></div><div class="kw"><span>Selezione</span><span>Onboarding</span><span>Mobilità interna</span></div></div>
 </div></section>
 
 </div></div>

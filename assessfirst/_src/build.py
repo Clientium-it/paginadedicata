@@ -10,8 +10,7 @@ TPL = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
 BAD = re.compile(r'[—–:!]| - ')
 SHARED = ('af-logo.png', 'af-app.jpg')
 # sender and calendar: one line each, filled when Steven gives them
-SENDER = {'name': 'Jacopo Carretta', 'title': 'AssessFirst', 'photo': ''}   # photo: file in assets/, e.g. 'jacopo-carretta.jpg'
-CAL_ID = ''
+CAL_ID = ''   # one shared booking calendar (GHL widget id): set it here and rebuild, the last slide shows it instead of the brand panel
 CLIENTS = ['Saint-Gobain', 'Airbus', 'Capgemini', 'BDO Italia']   # approved names; spec.cliente_citato (Luca's per-sector list, same as M1) goes first
 OG_SHARED = 'og.jpg'   # one preview image for every AssessFirst page (site space)
 TAIL = 'Qui trova come AssessFirst aiuta a scegliere le persone giuste per ogni ruolo.'
@@ -39,10 +38,9 @@ def render(sp):
     vals = {'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(f'{full} di {c}' if full else c), 'PREP_ATTR': A(f'{full} di {c}' if full else c),
             'OG_PATH': OG_SHARED, 'LEAD_CSS': '', 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
             'H1': E(f'Le persone giuste per i ruoli di {c}'),
-            'SENDER_NAME': E(SENDER['name']), 'SENDER_TITLE': E(SENDER['title']), 'SENDER_PHOTO': f"url(../assets/{SENDER['photo']})" if SENDER['photo'] else '',
-            'SENDER_INITIALS': '' if SENDER['photo'] else ''.join(w[0] for w in SENDER['name'].split()[:2]),
             'CLIENTS': ''.join(f'<div>{E(x)}</div>' for x in clients(sp)), 'CLIENT_N': str(len(clients(sp))),
             'CAL_URL': f'https://api.leadconnectorhq.com/widget/booking/{CAL_ID}' if CAL_ID else '', 'BTN_DISPLAY': 'block' if CAL_ID else 'none',
+            'TALK_RIGHT': '<iframe id="calf" title="Calendario AssessFirst"></iframe>' if CAL_ID else '<div class="bp" aria-hidden="true"><div class="ring"></div><div class="kw"><span>Selezione</span><span>Onboarding</span><span>Mobilità interna</span></div></div>',
             'SUB': E(f'{note} {TAIL}' if note else GEN_SUB.format(c=c)), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp)}
     return re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
 def main():
