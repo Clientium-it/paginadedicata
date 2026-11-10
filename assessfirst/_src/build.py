@@ -40,7 +40,7 @@ def render(sp):
             'H1': E(f'Le persone giuste per i ruoli di {c}'),
             'CLIENTS': ''.join(f'<div>{E(x)}</div>' for x in clients(sp)), 'CLIENT_N': str(len(clients(sp))),
             'CAL_URL': f'https://api.leadconnectorhq.com/widget/booking/{CAL_ID}' if CAL_ID else '', 'BTN_DISPLAY': 'block' if CAL_ID else 'none',
-            'TALK_RIGHT': '<iframe id="calf" title="Calendario AssessFirst"></iframe>' if CAL_ID else '<div class="bp" aria-hidden="true"><div class="ring"></div><div class="kw"><span>Selezione</span><span>Onboarding</span><span>Mobilità interna</span></div></div>',
+            'TALK_RIGHT': '<iframe id="calf" title="Calendario AssessFirst"></iframe>' if CAL_ID else '', 'TALK_CLASS': '' if CAL_ID else ' nocal',
             'SUB': E(f'{note} {TAIL}' if note else GEN_SUB.format(c=c)), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp)}
     return re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
 def main():
