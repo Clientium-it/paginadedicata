@@ -34,7 +34,7 @@ p{line-height:1.5}
 .cover .l{flex:1.1;padding:52px 52px 84px 72px;display:flex;flex-direction:column;min-width:0}
 .cover .m{margin:auto 0;padding-top:24px}
 .cover .sub{font-size:21px;margin-top:20px}
-.cover .r{flex:.9;background:#fff url(../assets/home.jpg) center/contain no-repeat;border-left:5px solid var(--red)}
+.cover .r{flex:.9;background:#fff url(../assets/report.svg) center/contain no-repeat;border-left:5px solid var(--red)}
 .mk{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}
 .mk div{background:var(--card);border-top:4px solid var(--red);border-radius:0 0 8px 8px;padding:16px 18px}
 .mk b{display:block;font-size:21px;color:var(--slate)}
@@ -109,9 +109,9 @@ html.phone .band{font-size:14.5px;margin-top:12px}
 html.phone .lg div{font-size:18px;min-height:0}html.phone .lgn{font-size:15px;margin-top:12px}
 @media (max-height:700px){html.phone .mk div{padding:4px 7px}html.phone .mk b{font-size:13px}html.phone .mk span{font-size:11px;line-height:1.18;margin-top:1px}html.phone .idea{font-size:12px;margin-top:6px}html.phone .wk>div{padding:5px 10px}html.phone .wk b{font-size:14px;margin:0}html.phone .wk span{font-size:12px;line-height:1.24}html.phone .band{font-size:12px;margin-top:6px}html.phone .lg div{font-size:14px}html.phone .lgn{font-size:12px;margin-top:6px}}
 .talk .l{flex:0 0 400px;align-items:flex-start;text-align:left;padding:40px 36px;gap:16px}.talk h2{font-size:34px;line-height:1.12}.talk .why{font-size:18px;line-height:1.42}.talk .alt{font-size:16px;line-height:1.4;font-weight:600}
-.talk .rp{flex:1;background:#fff url(../assets/home.jpg) center/contain no-repeat}
+.talk .rp{flex:1;background:#fff url(../assets/report.svg) center/contain no-repeat}
 html.phone .talk .why{grid-column:1/3;font-size:14px;line-height:1.35}html.phone .talk .l{padding:16px}html.phone .talk .rp{flex:1;min-height:0}
-.cover .r{background-size:128% auto}html.phone .cover .r{flex-basis:34%;background-size:auto 118%}.talk .rp{background-size:96% auto}
+.cover .r,.talk .rp{background-size:contain;background-origin:content-box;padding:28px 24px}html.phone .cover .r{flex-basis:34%;padding:10px 12px}html.phone .talk .rp{padding:12px}
 </style>
 <script src="/site.js" async></script>
 </head>

@@ -8,7 +8,7 @@ import html, json, os, re, shutil, sys, unicodedata
 HERE = os.path.dirname(os.path.abspath(__file__)); ASSETS = os.path.join(HERE, '..', 'assets')
 TPL = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
 BAD = re.compile(r'[—–:!]| - ')
-SHARED = ('logo_takeflight.jpg', 'home.jpg')
+SHARED = ('logo_takeflight.jpg', 'home.jpg', 'report.svg')
 CAL_ID = ''   # shared booking calendar (GHL widget id): set it and rebuild, the last slide shows it instead of the report image
 TAIL = 'Qui trova cosa può darvi AiKairos e come funziona.'
 GEN_SUB = 'In queste pagine trova cosa può darvi AiKairos per la squadra di {c} e come funziona.'
