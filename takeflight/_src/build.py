@@ -10,6 +10,10 @@ TPL = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
 BAD = re.compile(r'[—–:!]| - ')
 SHARED = ('logo_takeflight.jpg', 'home.jpg', 'report.svg')
 CAL_ID = ''   # shared booking calendar (GHL widget id): set it and rebuild, the last slide shows it instead of the report image
+# closing line: 'report' (approved: promises the anonymous sample report) or 'soft' (Steven's alternative, no promise). Rebuild after switching.
+WHY_VARIANT = os.environ.get('TF_WHY', 'report')
+WHYS = {'report': 'Le mostriamo un esempio anonimo di report, così vede cosa ne esce per una squadra come la vostra.',
+        'soft': 'Una breve call per vedere come AiKairos legge la sua squadra.'}
 TAIL = 'Qui trova cosa può darvi AiKairos e come funziona.'
 GEN_SUB = 'In queste pagine trova cosa può darvi AiKairos per la squadra di {c} e come funziona.'
 GEN_IDEA = 'Ci dica quale decisione sulle persone avete davanti, e guardiamo insieme cosa può dirvi AiKairos.'
@@ -33,7 +37,7 @@ def render(sp):
             'H1': E(f'La squadra di {c}, letta con dati oggettivi'),
             'SUB': E(f'{note} {TAIL}' if note else GEN_SUB.format(c=c)), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp),
             'CAL_URL': f'https://api.leadconnectorhq.com/widget/booking/{CAL_ID}' if CAL_ID else '', 'BTN_DISPLAY': 'block' if CAL_ID else 'none',
-            'TALK_RIGHT': '<iframe id="calf" title="Calendario Take Flight"></iframe>' if CAL_ID else '<div class="rp" role="img" aria-label="Esempio di report AiKairos"></div>'}
+            'WHY': E(WHYS[WHY_VARIANT]), 'TALK_RIGHT': '<iframe id="calf" title="Calendario Take Flight"></iframe>' if CAL_ID else '<div class="rp" role="img" aria-label="Esempio di report AiKairos"></div>'}
     return re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
 def main():
     args = sys.argv[1:]; i = args.index('--out'); out = os.path.abspath(os.path.expanduser(args[i + 1])); specs = args[:i] + args[i + 2:]
