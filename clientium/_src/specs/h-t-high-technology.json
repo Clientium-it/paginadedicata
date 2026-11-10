@@ -1,0 +1,19 @@
+{
+ "slug": "h-t-high-technology",
+ "company": "H.T. High Technology",
+ "first_name": "Aldo",
+ "domain": "h-t.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per H.T. High Technology."
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "apple-italia-11",
+ "company": "Apple Italia",
+ "first_name": "Roberto",
+ "domain": "apple.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Apple Italia."
+}

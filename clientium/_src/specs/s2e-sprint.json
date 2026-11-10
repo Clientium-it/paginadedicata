@@ -1,0 +1,19 @@
+{
+ "slug": "s2e-sprint",
+ "company": "S2e Sprint",
+ "first_name": "Marina",
+ "domain": "solutions2enterprises.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Planetica",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per S2e Sprint."
+}

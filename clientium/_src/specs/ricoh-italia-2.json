@@ -1,0 +1,19 @@
+{
+ "slug": "ricoh-italia-2",
+ "company": "Ricoh Italia",
+ "first_name": "Bruno",
+ "domain": "ricoh.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ricoh Italia."
+}

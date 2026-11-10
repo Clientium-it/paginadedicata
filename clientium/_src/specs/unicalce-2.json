@@ -1,0 +1,19 @@
+{
+ "slug": "unicalce-2",
+ "company": "Unicalce",
+ "first_name": "Gabriele",
+ "domain": "unicalce.it",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Unicalce."
+}

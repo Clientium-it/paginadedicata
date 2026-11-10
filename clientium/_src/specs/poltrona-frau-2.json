@@ -1,0 +1,19 @@
+{
+ "slug": "poltrona-frau-2",
+ "company": "Poltrona Frau",
+ "first_name": "Dario",
+ "domain": "haworthlifestyle.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Poltrona Frau."
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "tecno-a",
+ "company": "Tecno a",
+ "first_name": "Andrea",
+ "domain": "tecnoagroup.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecno a."
+}

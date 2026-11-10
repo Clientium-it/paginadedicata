@@ -1,0 +1,19 @@
+{
+ "slug": "mettler-toledo-2",
+ "company": "Mettler-Toledo",
+ "first_name": "Massimo",
+ "domain": "mt.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mettler-Toledo."
+}

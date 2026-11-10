@@ -1,0 +1,19 @@
+{
+ "slug": "inticom-2",
+ "company": "Inticom",
+ "first_name": "Barbara",
+ "domain": "yamamay.com",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "Publy Team",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Inticom."
+}
