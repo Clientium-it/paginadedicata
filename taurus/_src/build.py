@@ -12,7 +12,7 @@ SHARED = ('taurus-logo-lime.svg', 'taurus-logo-white.svg', 'taurus-sky.jpg')
 TAIL = 'Qui trova chi siamo e come lavoriamo come agenzia media indipendente.'
 GEN_SUB = 'In queste pagine trova chi siamo e come potremmo lavorare sulla pubblicità di {c}.'
 GEN_IDEA = 'Partiamo da una prima analisi del vostro mercato media e vediamo insieme dove ci sono opportunità.'
-TALK_TITLE, TALK_SUB = 'Una prima analisi', 'Del vostro mercato media, senza impegno'
+TALK_TITLE, TALK_SUB = 'Una prima analisi del vostro mercato media', ''
 E = lambda s: html.escape(s, quote=False)
 A = lambda s: html.escape(s, quote=True)
 def slugify(s):
