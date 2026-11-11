@@ -8,7 +8,7 @@ import html, json, os, re, shutil, sys, unicodedata
 HERE = os.path.dirname(os.path.abspath(__file__)); ASSETS = os.path.join(HERE, '..', 'assets')
 TPL = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
 BAD = re.compile(r'[—–:!]| - ')
-SHARED = ('wetech-logo.png',)
+SHARED = ('logo-wetech.png', 'antonio-conte.png', 'network.webp')
 OG_SHARED = 'og.jpg'   # one preview image for every page of this client (site space)
 CAL_ID = ''   # shared booking calendar (GHL widget id): set it and rebuild, the last slide then shows it next to the text
 TAIL = 'Qui trova come We Tech può essere la vostra squadra tecnica on site, sempre con il vostro marchio.'
