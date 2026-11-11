@@ -30,7 +30,7 @@ def render(sp):
     for t in (c, full, note, idea):
         if BAD.search(t): raise ValueError(f'{slug}: copy rule broken in {t!r}')
     vals = {'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(f'{full} di {c}' if full else c), 'PREP_ATTR': A(f'{full} di {c}' if full else c),
-            'OG_PATH': f'og/{slug}.jpg', 'LEAD_CSS': '', 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
+            'OG_PATH': f'og/{slug}.jpg' if os.path.exists(os.path.join(ASSETS, 'og', f'{slug}.jpg')) else 'og.jpg', 'LEAD_CSS': '', 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
             'H1': E(f'La pianificazione media di {c}'), 'TALK_TITLE': E(TALK_TITLE), 'TALK_SUB': E(TALK_SUB),
             'SUB': E(f'{note} {TAIL}' if note else GEN_SUB.format(c=c)), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp)}
     return re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
