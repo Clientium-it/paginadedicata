@@ -9,9 +9,10 @@ HERE = os.path.dirname(os.path.abspath(__file__)); ASSETS = os.path.join(HERE, '
 TPL = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
 BAD = re.compile(r'[—–:!]| - ')
 SHARED = ('logo_takeflight.jpg', 'home.jpg', 'report.svg')
+OG_SHARED = 'og.jpg'   # one preview image for every Take Flight page (site space)
 CAL_ID = ''   # shared booking calendar (GHL widget id): set it and rebuild, the last slide shows it instead of the report image
 # closing line: 'report' (approved: promises the anonymous sample report) or 'soft' (Steven's alternative, no promise). Rebuild after switching.
-WHY_VARIANT = os.environ.get('TF_WHY', 'report')
+WHY_VARIANT = os.environ.get('TF_WHY', 'soft')   # Steven chose 'soft' on 11/11
 WHYS = {'report': 'Le mostriamo un esempio anonimo di report, così vede cosa ne esce per una squadra come la vostra.',
         'soft': 'Una breve call per vedere come AiKairos legge la sua squadra.'}
 TAIL = 'Qui trova cosa può darvi AiKairos e come funziona.'
@@ -33,11 +34,11 @@ def render(sp):
     for t in (c, full, note, idea):
         if BAD.search(t): raise ValueError(f'{slug}: copy rule broken in {t!r}')
     vals = {'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(f'{full} di {c}' if full else c), 'PREP_ATTR': A(f'{full} di {c}' if full else c),
-            'OG_PATH': f'og/{slug}.jpg', 'LEAD_CSS': '', 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
+            'OG_PATH': OG_SHARED, 'LEAD_CSS': '', 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
             'H1': E(f'La squadra di {c}, letta con dati oggettivi'),
             'SUB': E(f'{note} {TAIL}' if note else GEN_SUB.format(c=c)), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp),
             'CAL_URL': f'https://api.leadconnectorhq.com/widget/booking/{CAL_ID}' if CAL_ID else '', 'BTN_DISPLAY': 'block' if CAL_ID else 'none',
-            'WHY': E(WHYS[WHY_VARIANT]), 'TALK_RIGHT': '<iframe id="calf" title="Calendario Take Flight"></iframe>' if CAL_ID else '<div class="rp" role="img" aria-label="Esempio di report AiKairos"></div>'}
+            'WHY': E(WHYS[WHY_VARIANT]), 'TALK_RIGHT': '<iframe id="calf" title="Calendario Take Flight"></iframe>' if CAL_ID else '<div class="rp" role="img" aria-label="Report AiKairos"></div>'}
     return re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
 def main():
     args = sys.argv[1:]; i = args.index('--out'); out = os.path.abspath(os.path.expanduser(args[i + 1])); specs = args[:i] + args[i + 2:]
