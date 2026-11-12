@@ -12,6 +12,7 @@ SHARED = ('myes-logo-white.png', 'myes-logo.svg', 'myes-aziende.jpg', 'myes-azie
 TAIL = 'Qui trova come organizziamo i corsi di inglese in azienda e come lavoriamo.'
 GEN_SUB = 'In queste pagine trova come organizziamo i corsi di inglese in azienda e cosa potremmo fare per {c}.'
 GEN_IDEA = 'Partiamo da chi nel vostro team usa l\'inglese ogni giorno e costruiamo il percorso intorno a loro.'
+fin = lambda s: s if s.endswith(('.', '?')) else s + '.'   # cover = fact + idea (why it matters), never the bare fact
 E = lambda s: html.escape(s, quote=False)
 A = lambda s: html.escape(s, quote=True)
 def slugify(s):
@@ -31,7 +32,7 @@ def render(sp):
     vals = {'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(f'{full} di {c}' if full else c), 'PREP_ATTR': A(f'{full} di {c}' if full else c),
             'OG_PATH': f'og/{slug}.jpg', 'LEAD_CSS': '', 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
             'H1': E(f'L\'inglese per {c}'),
-            'SUB': E(f'{note} {TAIL}' if note else GEN_SUB.format(c=c)), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp)}
+            'SUB': E(f'{note} {fin(idea)}' if note else GEN_SUB.format(c=c)), 'IDEA': E(GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp)}
     return re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
 def main():
     args = sys.argv[1:]; i = args.index('--out'); out = os.path.abspath(os.path.expanduser(args[i + 1])); specs = args[:i] + args[i + 2:]

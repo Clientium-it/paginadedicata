@@ -18,6 +18,7 @@ WHYS = {'report': 'Le mostriamo un esempio anonimo di report, così vede cosa ne
 TAIL = 'Qui trova cosa può darvi AiKairos e come funziona.'
 GEN_SUB = 'In queste pagine trova cosa può darvi AiKairos per la squadra di {c} e come funziona.'
 GEN_IDEA = 'Ci dica quale decisione sulle persone avete davanti, e guardiamo insieme cosa può dirvi AiKairos.'
+fin = lambda s: s if s.endswith(('.', '?')) else s + '.'   # cover = fact + idea (why it matters), never the bare fact
 E = lambda s: html.escape(s, quote=False)
 A = lambda s: html.escape(s, quote=True)
 def slugify(s):
@@ -36,7 +37,7 @@ def render(sp):
     vals = {'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(f'{full} di {c}' if full else c), 'PREP_ATTR': A(f'{full} di {c}' if full else c),
             'OG_PATH': OG_SHARED, 'LEAD_CSS': '', 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
             'H1': E(f'La squadra di {c}, letta con dati oggettivi'),
-            'SUB': E(f'{note} {TAIL}' if note else GEN_SUB.format(c=c)), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp),
+            'SUB': E(f'{note} {fin(idea)}' if note else GEN_SUB.format(c=c)), 'IDEA': E(GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp),
             'CAL_URL': f'https://api.leadconnectorhq.com/widget/booking/{CAL_ID}' if CAL_ID else '', 'BTN_DISPLAY': 'block' if CAL_ID else 'none',
             'WHY': E(WHYS[WHY_VARIANT]), 'TALK_RIGHT': '<iframe id="calf" title="Calendario Take Flight"></iframe>' if CAL_ID else '<div class="rp" role="img" aria-label="Report AiKairos"></div>'}
     return re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
