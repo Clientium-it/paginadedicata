@@ -8,10 +8,10 @@ import html, json, os, re, shutil, sys, unicodedata
 HERE = os.path.dirname(os.path.abspath(__file__)); ASSETS = os.path.join(HERE, '..', 'assets')
 TPL = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
 BAD = re.compile(r'[—–:!]| - ')
-SHARED = ('genitori-logo.svg', 'genitori-o.svg')
+SHARED = ('genitori-logo.svg', 'genitori-o.svg', 'alfredo-spalletta.jpg')
 OG_SHARED = 'og.jpg'   # one preview image for every page of this client (site space)
 CAL_ID = ''
-PHOTO = ''   # Alfredo Spalletta photo in assets when we have one: until then his initials   # shared booking calendar (GHL widget id): set it and rebuild, the last slide then shows it next to the text
+PHOTO = 'alfredo-spalletta.jpg'   # Alfredo Spalletta photo in assets when we have one: until then his initials   # shared booking calendar (GHL widget id): set it and rebuild, the last slide then shows it next to the text
 TAIL = 'Qui trova come Genitori.it può entrare nel vostro piano formativo.'
 GEN_SUB = 'In queste pagine trova come Genitori.it, il progetto formativo del Moige, può entrare nel piano formativo di {c}.'
 H1 = 'La genitorialità nel piano formativo di {c}'
