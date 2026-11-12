@@ -12,6 +12,7 @@ SHARED = ('logo-dotzero-white.svg', 'studio.webp', 'Hansom-Regular.ttf', 'Hansom
 TAIL = 'Qui trova cosa possiamo realizzare per la vostra comunicazione e come lavoriamo.'
 GEN_SUB = 'In queste pagine trova cosa possiamo realizzare per la comunicazione di {c} e come lavoriamo.'
 GEN_IDEA = 'Ci dica quale progetto avete in programma, e guardiamo insieme cosa potremmo realizzare.'
+fin = lambda s: s if s.endswith(('.', '?')) else s + '.'   # cover = fact + idea (why it matters), never the bare fact
 E = lambda s: html.escape(s, quote=False)
 A = lambda s: html.escape(s, quote=True)
 def slugify(s):
@@ -27,7 +28,7 @@ def render(sp):
     vals = {'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(f'{full} di {c}' if full else c), 'PREP_ATTR': A(f'{full} di {c}' if full else c),
             'OG_PATH': f'og/{slug}.jpg', 'LEAD_CSS': '', 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
             'H1': E(f'I video di {c}, dalle riprese al montato finale'),
-            'SUB': E(f'{note} {TAIL}' if note else GEN_SUB.format(c=c)), 'IDEA': E(idea or GEN_IDEA)}
+            'SUB': E(f'{note} {fin(idea)}' if note else GEN_SUB.format(c=c)), 'IDEA': E(GEN_IDEA)}
     return re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
 def main():
     args = sys.argv[1:]; i = args.index('--out'); out = os.path.abspath(os.path.expanduser(args[i + 1])); specs = args[:i] + args[i + 2:]
