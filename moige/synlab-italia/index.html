@@ -56,7 +56,7 @@ html.phone .lg.pf{grid-template-columns:1fr 1fr}html.phone .lg.pf b{font-size:20
 .talk .chip img{height:24px}.talk .chip{padding:9px 13px}
 .who b{display:block;font-size:19px;color:var(--slate)}.who span{font-size:14.5px}
 .talk h2{font-size:25px;line-height:1.16;margin:0}
-.btn{display:none;background:var(--red);color:#fff;text-decoration:none;font-weight:700;font-size:16px;border-radius:999px;padding:11px 20px}
+.btn{display:block;background:var(--red);color:#fff;text-decoration:none;font-weight:700;font-size:16px;border-radius:999px;padding:11px 20px}
 .talk .alt{font-size:15px;line-height:1.36}
 .talk .site{font-size:13.5px;color:var(--mute);font-weight:700}
 #calf{display:block;flex:1;min-width:0;height:100%;border:0;background:#fff}
@@ -115,6 +115,7 @@ html.phone .cover .r{flex:0 0 26%;border-left:0;border-top:4px solid var(--red)}
 .gv{background:radial-gradient(110% 80% at 80% 0%,#f8eef0 0%,#fff 62%);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:34px;padding:48px 48px 84px}.gv img{width:230px;height:auto}.gv .bd{display:grid;gap:10px;width:100%;max-width:420px}.gv .bd span{background:#fff;border:1px solid var(--line);border-left:4px solid var(--red);border-radius:0 8px 8px 0;padding:12px 16px;font-size:17px;font-weight:600;color:var(--slate);line-height:1.3}html.phone .gv{flex-direction:row;gap:14px;padding:10px 16px}html.phone .gv img{width:70px;flex:none}html.phone .gv .bd{gap:5px}html.phone .gv .bd span{font-size:11.5px;padding:5px 9px}@media (max-height:700px){html.phone .gv img{width:52px}html.phone .gv .bd span{font-size:10.5px;padding:3px 7px}}.talk.nocal .l{flex:1;align-items:center;justify-content:center;text-align:center;border-right:0;padding:48px 64px;gap:26px;background:radial-gradient(90% 70% at 50% 0%,var(--glow),transparent 70%),var(--card)}.talk.nocal .chip img{height:56px}.talk.nocal .chip{padding:12px 20px}.talk.nocal h2{font-size:58px;line-height:1.08}.talk.nocal .why{font-size:26px;line-height:1.4;max-width:780px}.talk.nocal .alt{font-size:20px;max-width:640px;color:var(--slate)}.talk.nocal h2::after{content:"";display:block;width:72px;height:4px;border-radius:2px;background:var(--red);margin:22px auto 0}html.phone .talk.nocal .l{flex:1 1 auto;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;border-bottom:0;padding:28px 22px;gap:18px}html.phone .talk.nocal .chip{display:flex}html.phone .talk.nocal .chip img{height:38px}html.phone .talk.nocal h2{font-size:30px}html.phone .talk.nocal h2::after{margin-top:16px;width:56px}html.phone .talk.nocal .why{font-size:18px;line-height:1.4}html.phone .talk.nocal .alt{font-size:15px;line-height:1.4}
 .pic{display:block;flex:none;width:110px;height:110px;border-radius:50%;object-fit:cover;object-position:50% 18%}.pic.ini{display:flex;align-items:center;justify-content:center;background:var(--slate);color:#fff;font-size:38px;font-weight:700}.talk.nocal .who b{font-size:22px}.talk.nocal .who span{font-size:16px;color:var(--mute)}.talk.nocal .l{gap:18px}.talk.nocal h2{font-size:50px}
 html.phone .pic{width:72px;height:72px;font-size:26px}html.phone .talk.nocal .who b{font-size:17px}html.phone .talk.nocal .who span{font-size:13px}html.phone .talk.nocal h2{font-size:27px}html.phone .talk.nocal .l{gap:12px}
+.talk .open{display:block;font-size:14px;color:var(--mute);text-decoration:underline}html.phone .talk:not(.nocal) .pic{display:none}html.phone .talk:not(.nocal) .who{grid-column:1/3}html.phone .talk:not(.nocal) .open{grid-column:1/3;font-size:12.5px}
 </style>
 <script src="/site.js" async></script>
 </head>
@@ -169,17 +170,17 @@ html.phone .pic{width:72px;height:72px;font-size:26px}html.phone .talk.nocal .wh
   <p class="lgn">Genitori.it è il progetto formativo del Moige, Movimento Italiano Genitori, con percorsi pensati per le aziende.</p>
 </div></section>
 
-<section data-i="5" aria-label="Parliamone"><div class="s talk nocal">
+<section data-i="5" aria-label="Parliamone"><div class="s talk">
   <div class="l">
     <span class="chip"><img src="../assets/genitori-logo.svg" alt="Genitori.it, il progetto formativo del Moige"></span>
     <img class="pic" src="../assets/alfredo-spalletta.jpg" alt="Alfredo Spalletta">
     <div class="who"><b>Alfredo Spalletta</b><span>Executive Director, Genitori.it</span></div>
     <h2>Parliamo di Synlab Italia</h2>
     <p class="why">Una breve call per vedere come un percorso sulla genitorialità può entrare nel vostro piano formativo 2027.</p>
-    <a class="btn" href="" target="_blank" rel="noopener">Prenoti una call</a>
-    <p class="alt">Può rispondere al messaggio che ha ricevuto su LinkedIn.</p>
+    <a class="open" href="https://api.leadconnectorhq.com/widget/booking/E93W5mChIafLa5WcVaAs" target="_blank" rel="noopener">Apri in una nuova scheda</a>
+    <p class="alt">Se le è più comodo, può rispondere al messaggio che ha ricevuto su LinkedIn.</p>
   </div>
-  
+  <iframe id="calf" title="Calendario Genitori.it"></iframe>
 </div></section>
 
 </div></div>
@@ -188,7 +189,7 @@ html.phone .pic{width:72px;height:72px;font-size:26px}html.phone .talk.nocal .wh
 <script>
 (()=>{const ph=document.documentElement.classList.contains('phone'),secs=[...document.querySelectorAll('.slides>section')],n=secs.length;
 document.querySelector('.pnt').textContent=n;const names=secs.map(s=>s.getAttribute('aria-label')),nb=document.getElementById('nxt'),nt=document.getElementById('nxtt'),box=document.querySelector('.slides');let cur=0;
-const cf=document.getElementById('calf'),CAL='';
+const cf=document.getElementById('calf'),CAL='https://api.leadconnectorhq.com/widget/booking/E93W5mChIafLa5WcVaAs';
 const paint=i=>{cur=i;if(CAL&&i>=n-2&&!cf.getAttribute('src'))cf.src=CAL;if(i+1<n){nt.textContent=names[i+1];nb.classList.remove('off')}else nb.classList.add('off');document.querySelector('.pc b').textContent=i+1;document.querySelectorAll('.pb').forEach(b=>b.disabled=(+b.dataset.d<0&&i===0)||(+b.dataset.d>0&&i===n-1))};
 const go=i=>{i=Math.max(0,Math.min(n-1,i));if(ph)secs[i].scrollIntoView({behavior:'smooth',block:'start'});else{secs.forEach((s,j)=>s.classList.toggle('on',j===i));paint(i)}};
 nb.addEventListener('click',e=>{e.preventDefault();go(cur+1)});document.querySelectorAll('.pb').forEach(b=>b.addEventListener('click',()=>go(cur+(+b.dataset.d))));

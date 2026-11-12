@@ -10,7 +10,7 @@ TPL = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
 BAD = re.compile(r'[—–:!]| - ')
 SHARED = ('genitori-logo.svg', 'genitori-o.svg', 'alfredo-spalletta.jpg')
 OG_SHARED = 'og.jpg'   # one preview image for every page of this client (site space)
-CAL_ID = ''
+CAL_ID = 'E93W5mChIafLa5WcVaAs'   # LinkedIn - Genitori.it, Alfredo Spalletta (GHL, Google Meet)
 PHOTO = 'alfredo-spalletta.jpg'   # Alfredo Spalletta photo in assets when we have one: until then his initials   # shared booking calendar (GHL widget id): set it and rebuild, the last slide then shows it next to the text
 TAIL = 'Qui trova come Genitori.it può entrare nel vostro piano formativo.'
 GEN_SUB = 'In queste pagine trova come Genitori.it, il progetto formativo del Moige, può entrare nel piano formativo di {c}.'
