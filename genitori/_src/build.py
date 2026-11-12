@@ -32,7 +32,7 @@ def render(sp):
     for t in (c, full, note, idea):
         if BAD.search(t): raise ValueError(f'{slug}: copy rule broken in {t!r}')
     vals = {'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(f'{full} di {c}' if full else c), 'PREP_ATTR': A(f'{full} di {c}' if full else c),
-            'OG_PATH': OG_SHARED, 'LEAD_CSS': '', 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
+            'OG_PATH': OG_SHARED, 'LEAD_CSS': ('html:not(.phone) h1{font-size:42px}html:not(.phone) .pair .nm{font-size:20px}' if len(c) > 45 else ''), 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
             'H1': E(H1.format(c=c)),
             'SUB': E(f'{note} {TAIL}' if note else GEN_SUB.format(c=c)), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp),
             'CAL_URL': f'https://api.leadconnectorhq.com/widget/booking/{CAL_ID}' if CAL_ID else '', 'BTN_DISPLAY': 'block' if CAL_ID else 'none',
