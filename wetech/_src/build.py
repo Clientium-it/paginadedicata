@@ -15,6 +15,7 @@ TAIL = 'Qui trova come We Tech può essere la vostra squadra tecnica on site, se
 GEN_SUB = 'In queste pagine trova come We Tech può essere la squadra tecnica on site di {c}, sempre con il vostro marchio.'
 H1 = 'Tecnici on site in tutta Italia, con il nome di {c}'
 GEN_IDEA = "Se una commessa vi chiede tecnici dove oggi non arrivate, possiamo essere noi la vostra squadra, senza far crescere il vostro organico."
+fin = lambda s: s if s.endswith(('.', '?')) else s + '.'
 E = lambda s: html.escape(s, quote=False)
 A = lambda s: html.escape(s, quote=True)
 def slugify(s):
@@ -30,10 +31,11 @@ def render(sp):
     if full and slugify(full) == slug: raise ValueError(f'{slug}: the slug is the person name')
     for t in (c, full, note, idea):
         if BAD.search(t): raise ValueError(f'{slug}: copy rule broken in {t!r}')
+    # cover = why it matters to them (the idea line), never the bare fact
     vals = {'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(f'{full} di {c}' if full else c), 'PREP_ATTR': A(f'{full} di {c}' if full else c),
             'OG_PATH': OG_SHARED, 'LEAD_CSS': ('html.phone h1{font-size:24px}html.phone .pair .nm{font-size:14px}' if len(c) > 38 else ''), 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
             'H1': E(H1.format(c=c)),
-            'SUB': E(f'{note} {TAIL}' if note else GEN_SUB.format(c=c)), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp),
+            'SUB': E(fin(idea) if idea else GEN_SUB.format(c=c)), 'IDEA': E(GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp),
             'CAL_URL': f'https://api.leadconnectorhq.com/widget/booking/{CAL_ID}' if CAL_ID else '', 'BTN_DISPLAY': 'block' if CAL_ID else 'none',
             'TALK_RIGHT': '<iframe id="calf" title="Calendario We Tech"></iframe>' if CAL_ID else '', 'TALK_CLASS': '' if CAL_ID else ' nocal'}
     return re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
