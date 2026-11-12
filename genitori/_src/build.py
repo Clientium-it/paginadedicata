@@ -10,7 +10,8 @@ TPL = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
 BAD = re.compile(r'[—–:!]| - ')
 SHARED = ('genitori-logo.svg', 'genitori-o.svg')
 OG_SHARED = 'og.jpg'   # one preview image for every page of this client (site space)
-CAL_ID = ''   # shared booking calendar (GHL widget id): set it and rebuild, the last slide then shows it next to the text
+CAL_ID = ''
+PHOTO = ''   # Alfredo Spalletta photo in assets when we have one: until then his initials   # shared booking calendar (GHL widget id): set it and rebuild, the last slide then shows it next to the text
 TAIL = 'Qui trova come Genitori.it può entrare nel vostro piano formativo.'
 GEN_SUB = 'In queste pagine trova come Genitori.it, il progetto formativo del Moige, può entrare nel piano formativo di {c}.'
 H1 = 'La genitorialità nel piano formativo di {c}'
@@ -35,7 +36,8 @@ def render(sp):
             'H1': E(H1.format(c=c)),
             'SUB': E(f'{note} {TAIL}' if note else GEN_SUB.format(c=c)), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp),
             'CAL_URL': f'https://api.leadconnectorhq.com/widget/booking/{CAL_ID}' if CAL_ID else '', 'BTN_DISPLAY': 'block' if CAL_ID else 'none',
-            'TALK_RIGHT': '<iframe id="calf" title="Calendario Genitori.it"></iframe>' if CAL_ID else '', 'TALK_CLASS': '' if CAL_ID else ' nocal'}
+            'TALK_RIGHT': '<iframe id="calf" title="Calendario Genitori.it"></iframe>' if CAL_ID else '', 'TALK_CLASS': '' if CAL_ID else ' nocal',
+            'PIC': f'<img class="pic" src="../assets/{PHOTO}" alt="Alfredo Spalletta">' if PHOTO else '<div class="pic ini" aria-hidden="true">AS</div>'}
     return re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
 def main():
     args = sys.argv[1:]; i = args.index('--out'); out = os.path.abspath(os.path.expanduser(args[i + 1])); specs = args[:i] + args[i + 2:]
