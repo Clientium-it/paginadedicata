@@ -34,11 +34,12 @@ p{line-height:1.5}
 .cover .l{flex:1.1;padding:52px 52px 84px 72px;display:flex;flex-direction:column;min-width:0}
 .cover .m{margin:auto 0;padding-top:24px}
 .cover .sub{font-size:21px;margin-top:20px}
-.cover .r{flex:.9;background:#222 url(../assets/Tecsaving-interno-capannone_1.jpg) center/cover;border-left:5px solid var(--red)}
+.cover .r{flex:.9;background:#222 url(../assets/{{COVER}}) right center/cover;border-left:5px solid var(--red)}
 .mk{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}
 .mk div{background:var(--card);border-top:4px solid var(--red);border-radius:0 0 8px 8px;padding:16px 18px}
 .mk b{display:block;font-size:21px;color:var(--slate)}
 .mk span{display:block;font-size:16.5px;line-height:1.36;margin-top:5px}
+.mk .hot{background:var(--red)}.mk .hot b,.mk .hot span{color:#fff}html:not(.phone) .mk .hot b{font-size:30px}html:not(.phone) .mk .hot span{font-size:21px}
 .idea{margin-top:auto;border-left:4px solid var(--red);padding-left:16px;font-size:19px;font-weight:700;line-height:1.36;color:var(--slate)}
 .wk{display:grid;grid-template-columns:repeat(3,1fr);gap:32px;margin-top:28px}
 .wk i{font-style:normal;font-weight:700;color:var(--red);font-size:18px}
@@ -60,13 +61,13 @@ html.phone .lg.pf{grid-template-columns:1fr 1fr}html.phone .lg.pf b{font-size:20
 .talk .alt{font-size:15px;line-height:1.36}
 .talk .site{font-size:13.5px;color:var(--mute);font-weight:700}
 #calf{display:block;flex:1;min-width:0;height:100%;border:0;background:#fff}
-.tm{flex:1;display:flex;align-items:center;justify-content:center;gap:56px;background:#fff}
-.tm .p{display:flex;flex-direction:column;align-items:center;text-align:center;gap:6px}
+.tm{flex:1;display:flex;align-items:flex-end;justify-content:flex-start;gap:20px;padding:36px;background:#222 url(../assets/{{CLOSE_IMG}}) center/cover}
+.tm .p{display:flex;flex-direction:column;align-items:flex-start;text-align:left;gap:4px;background:#fff;border-left:5px solid var(--red);border-radius:0 8px 8px 0;padding:14px 22px;box-shadow:0 6px 20px rgba(0,0,0,.18)}
 .tm .ph{position:relative;width:230px;height:230px;border-radius:50%;background:var(--card) center/cover no-repeat;border:5px solid var(--red);display:flex;align-items:center;justify-content:center}
 .tm .ph i{font-style:normal;font-weight:700;font-size:60px;color:var(--slate);opacity:.35}
 .tm .ph[style*=".jpg"] i{position:absolute}
-.tm b{font-size:24px;color:var(--slate);margin-top:10px}.tm span{font-size:17px;color:var(--mute)}
-html.phone .tm{gap:22px;padding:16px}html.phone .tm .ph{width:120px;height:120px;border-width:3px}html.phone .tm .ph i{font-size:32px}html.phone .tm b{font-size:16px}html.phone .tm span{font-size:13px}
+.tm b{font-size:22px;color:var(--slate)}.tm span{font-size:17px;color:var(--mute)}
+html.phone .tm{gap:10px;padding:14px;flex:1;min-height:0}html.phone .tm .p{padding:9px 13px}html.phone .tm .ph{width:120px;height:120px;border-width:3px}html.phone .tm .ph i{font-size:32px}html.phone .tm b{font-size:16px}html.phone .tm span{font-size:13px}
 #nxt{position:fixed;left:50%;bottom:calc(2.2vh + 6px);transform:translateX(-50%);z-index:60;display:flex;align-items:center;gap:.5em;padding:.55em 1.1em .55em 1.25em;border-radius:999px;background:var(--slate);color:#fff;text-decoration:none;font-size:15px;font-weight:700;box-shadow:0 8px 24px rgba(20,28,34,.3);white-space:nowrap}
 #nxt svg{width:1.05em;height:1.05em;color:var(--red)}#nxt.off{display:none}
 .pnav{display:none}
@@ -137,8 +138,8 @@ html.phone .lg div{font-size:18px;min-height:0}html.phone .lgn{font-size:15px;ma
   <div class="eyebrow">Cosa facciamo</div>
   <h2>Il clima giusto per i reparti di {{COMPANY}}</h2>
   <div class="mk">
-    <div><b>D'inverno</b><span>Riscaldiamo reparti e magazzini con pompe di calore aria aria</span></div>
-    <div><b>D'estate</b><span>Rinfreschiamo con lo stesso impianto, un solo prodotto tutto l'anno</span></div>
+    <div class="hot"><b>D'estate</b><span>Rinfreschiamo reparti e magazzini anche nei giorni più caldi, con pompe di calore aria aria</span></div>
+    <div><b>D'inverno</b><span>Lo stesso impianto riscalda, un solo prodotto tutto l'anno</span></div>
     <div><b>Senza fermarvi</b><span>Installiamo senza fermare la produzione</span></div>
     <div><b>Da remoto</b><span>Gestione e controllo dell'impianto a distanza</span></div>
     <div><b>Silenziosi</b><span>Pensati per lavorare accanto alle persone</span></div>
@@ -165,7 +166,7 @@ html.phone .lg div{font-size:18px;min-height:0}html.phone .lgn{font-size:15px;ma
     <div>Meccanica</div><div>Plastica</div><div>Arredamento</div><div>Alimentare</div><div>Legno</div>
     <div>Assemblaggio</div><div>Calzaturifici</div><div>Tessile</div><div>Logistica</div><div>Serramenti</div>
   </div>
-  <p class="lgn">Reparti produttivi e magazzini, in tutta Italia.</p>
+  <p class="lgn">Reparti produttivi e magazzini, in tutta Italia. {{SLIDE4_LINE}}</p>
 </div></section>
 
 <section data-i="5" aria-label="Sopralluogo gratuito"><div class="s talk">
@@ -176,8 +177,8 @@ html.phone .lg div{font-size:18px;min-height:0}html.phone .lgn{font-size:15px;ma
     <p class="alt">Risponda al messaggio che ha ricevuto su LinkedIn, e fissiamo insieme il sopralluogo.</p>
   </div>
   <div class="tm">
-    <div class="p"><div class="ph" style="background-image:url(../assets/francesco-barberini.jpg)"></div><b>Francesco Barberini</b><span>Tecsaving</span></div>
-    <div class="p"><div class="ph" style="background-image:url(../assets/lorenzo-cracco.jpg)"></div><b>Lorenzo Cracco</b><span>Tecsaving</span></div>
+    <div class="p"><b>Francesco Barberini</b><span>Tecsaving</span></div>
+    <div class="p"><b>Lorenzo Cracco</b><span>Tecsaving</span></div>
   </div>
 </div></section>
 
