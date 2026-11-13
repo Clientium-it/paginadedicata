@@ -16,6 +16,7 @@ TAIL = 'Qui trova come Genitori.it può entrare nel vostro piano formativo.'
 GEN_SUB = 'In queste pagine trova come Genitori.it, il progetto formativo del Moige, può entrare nel piano formativo di {c}.'
 H1 = 'La genitorialità nel piano formativo di {c}'
 GEN_IDEA = 'Ci racconti come è fatto il vostro piano formativo, e vediamo insieme dove può entrare un percorso sulla genitorialità.'
+fin = lambda s: s if s.endswith(('.', '?')) else s + '.'   # cover = fact + idea (why it matters), never the bare fact
 E = lambda s: html.escape(s, quote=False)
 A = lambda s: html.escape(s, quote=True)
 def slugify(s):
@@ -24,6 +25,15 @@ def slugify(s):
 def clarity_attr(sp):
     words = {w.lower() for w in re.split(r'\W+', sp.get('first') or (sp.get('full_name') or '').split(' ')[0]) if len(w) >= 3}
     return ' data-no-slug' if words & set(sp['slug'].split('-')) else ''
+FULL = 'Moige-Movimento Italiano Genitori'
+def moige_first(page):
+    # Alfredo 13/11: the first visible mention on each page reads "Moige-Movimento Italiano Genitori" (Alfredo's spelling, hyphen with no spaces), then "Moige"
+    i = page.index('<div class="stage">'); head, body = page[:i], page[i:]
+    for m in re.finditer(r'>([^<]+)<', body):
+        if re.search(r'\bMoige\b', m.group(1)):
+            txt = re.sub(r'\bMoige\b(?!-Movimento)', FULL, m.group(1), count=1)
+            return head + body[:m.start(1)] + txt + body[m.end(1):]
+    return page
 def render(sp):
     c, full, slug = sp['company'].strip(), (sp.get('full_name') or '').strip(), sp['slug']
     note, idea = (sp.get('cover_note') or '').strip(), (sp.get('idea') or '').strip()
@@ -34,11 +44,11 @@ def render(sp):
     vals = {'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(f'{full} di {c}' if full else c), 'PREP_ATTR': A(f'{full} di {c}' if full else c),
             'OG_PATH': OG_SHARED, 'LEAD_CSS': ('html:not(.phone) h1{font-size:42px}html:not(.phone) .pair .nm{font-size:20px}' if len(c) > 45 else ''), 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
             'H1': E(H1.format(c=c)),
-            'SUB': E(f'{note} {TAIL}' if note else GEN_SUB.format(c=c)), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp),
+            'SUB': E(f'{note} {fin(idea)}' if note else GEN_SUB.format(c=c)), 'IDEA': E(GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp),
             'CAL_URL': f'https://api.leadconnectorhq.com/widget/booking/{CAL_ID}' if CAL_ID else '', 'BTN_DISPLAY': 'block' if CAL_ID else 'none',
             'TALK_RIGHT': '<iframe id="calf" title="Calendario Genitori.it"></iframe>' if CAL_ID else '', 'TALK_CLASS': '' if CAL_ID else ' nocal',
             'PIC': f'<img class="pic" src="../assets/{PHOTO}" alt="Alfredo Spalletta">' if PHOTO else '<div class="pic ini" aria-hidden="true">AS</div>'}
-    return re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
+    return moige_first(re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL))
 def main():
     args = sys.argv[1:]; i = args.index('--out'); out = os.path.abspath(os.path.expanduser(args[i + 1])); specs = args[:i] + args[i + 2:]
     if os.path.realpath(out).startswith(os.path.realpath(os.path.expanduser('~/paginadedicata'))): sys.exit('out is inside the published repo: refused')
