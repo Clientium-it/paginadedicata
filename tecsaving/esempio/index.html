@@ -31,10 +31,12 @@ p{line-height:1.5}
 .x{color:var(--red);font-size:24px}
 .nm{font-weight:700;color:var(--slate);font-size:26px;line-height:1.12;min-width:0;overflow-wrap:anywhere}
 .cover{padding:0;flex-direction:row}
-.cover .l{flex:1.1;padding:52px 52px 84px 72px;display:flex;flex-direction:column;min-width:0}
+.cover .l{flex:1;padding:52px 52px 84px 72px;display:flex;flex-direction:column;min-width:0}
 .cover .m{margin:auto 0;padding-top:24px}
 .cover .sub{font-size:21px;margin-top:20px}
-.cover .r{flex:.9;background:#222 url(../assets/tecsaving-cover-unita-parete.jpg) right center/cover;border-left:5px solid var(--red)}
+.cover .r{flex:1;background:#222 url(../assets/tecsaving-cover-unita-parete.jpg) right center/cover;border-left:5px solid var(--red);position:relative;overflow:hidden}
+html:not(.phone) .cover .r::before{content:"";position:absolute;inset:-40px;background:url(../assets/tecsaving-cover-unita-parete.jpg) center/cover;filter:blur(26px) brightness(.5)}
+html:not(.phone) .cover .r::after{content:"";position:absolute;inset:0;background:url(../assets/tecsaving-cover-unita-parete.jpg) center/contain no-repeat}
 .mk{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}
 .mk div{background:var(--card);border-top:4px solid var(--red);border-radius:0 0 8px 8px;padding:16px 18px}
 .mk b{display:block;font-size:21px;color:var(--slate)}
