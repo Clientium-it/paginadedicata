@@ -27,13 +27,13 @@ def clarity_attr(sp):
     return ' data-no-slug' if words & set(sp['slug'].split('-')) else ''
 FULL = 'Moige-Movimento Italiano Genitori'
 def moige_first(page):
-    # Alfredo 13/11: the first visible mention on each page reads "Moige-Movimento Italiano Genitori" (Alfredo's spelling, hyphen with no spaces), then "Moige"
-    i = page.index('<div class="stage">'); head, body = page[:i], page[i:]
-    for m in re.finditer(r'>([^<]+)<', body):
-        if re.search(r'\bMoige\b', m.group(1)):
-            txt = re.sub(r'\bMoige\b(?!-Movimento)', FULL, m.group(1), count=1)
-            return head + body[:m.start(1)] + txt + body[m.end(1):]
-    return page
+    # Alfredo 13/11: "scrivete sempre Moige-Movimento Italiano Genitori", so every mention in text and alt attributes uses the full form
+    i = page.index('<body'); head, body = page[:i], page[i:]
+    body = re.sub(r'\bMoige\b(?!-Movimento)', FULL, body)
+    # in visible text keep "Moige-Movimento" on one line (phones broke the line at the hyphen)
+    nw = lambda m: m.group(0).replace('Moige-Movimento', '<span style="white-space:nowrap">Moige-Movimento</span>')
+    body = re.sub(r'>[^<]*Moige-Movimento[^<]*<', nw, body)
+    return head + body
 def render(sp):
     c, full, slug = sp['company'].strip(), (sp.get('full_name') or '').strip(), sp['slug']
     note, idea = (sp.get('cover_note') or '').strip(), (sp.get('idea') or '').strip()
