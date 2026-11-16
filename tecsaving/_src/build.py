@@ -9,11 +9,11 @@ HERE = os.path.dirname(os.path.abspath(__file__)); ASSETS = os.path.join(HERE, '
 TPL = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
 BAD = re.compile(r'[—–:!]| - ')
 # COVER: slot for the frame from Francesco's videos (swap the file name when it arrives; the old asset stays)
-COVER = 'tecsaving-cover-unita-parete.jpg'   # frame A from Francesco's video v1/v2 (13/11)
+COVER = 'tecsaving-cover-hall-hq.jpg'   # HQ frame from video 2 (16/11, Steven): hall with the unit top right; old frame A asset stays
 # SLIDE4_LINE: the extra sentence on slide 4 (proposal, pending Steven's OK)
 SLIDE4_LINE = "D'estate il caldo nei capannoni fa calare la produttività e mette in crisi anche i macchinari."
 # CLOSE_IMG: photo behind the names on the last slide (a second frame from the videos, or the same one)
-CLOSE_IMG = 'tecsaving-unita-magazzino.jpg'   # frame B from the same videos
+CLOSE_IMG = COVER   # same HQ photo, cropped on the aisle and mezzanine by the CSS (16/11); old frame B asset stays
 SHARED = ('Logo-Tecsaving-ClimaIndustriale.jpg', COVER, CLOSE_IMG)
 TAIL = 'Qui trova come climatizziamo i capannoni e come lavoriamo.'
 GEN_SUB = 'In queste pagine trova come potremmo climatizzare i reparti di {c} e come lavoriamo.'
