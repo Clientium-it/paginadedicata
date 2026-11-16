@@ -1,0 +1,19 @@
+{
+ "slug": "crispy-bacon",
+ "company": "Crispy Bacon",
+ "first_name": "Bongo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Crispy Bacon."
+}
