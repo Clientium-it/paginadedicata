@@ -12,8 +12,8 @@ CLOSE_IMG = 'cappa-stazione-sollevamento.jpg'   # ingegnos.it sollevatorestampo.
 CASE_IMG = 'cappa-isola-imballi.jpg'   # ingegnos.it isolaimballi.png (cappaengineering.it: isola di produzione imballi)
 SHARED = ('ingegnos-cappa-logo.jpg', COVER, CLOSE_IMG, CASE_IMG)
 TAIL = 'Qui trova come lavoriamo con i costruttori di macchine, dal progetto alla costruzione.'
-GEN_SUB = 'In queste pagine trova come INGEGNOS può affiancare {c} come ufficio tecnico esterno, dal progetto e dal fascicolo CE fino alla costruzione.'
-GEN_IDEA = 'Progetto, fascicolo CE firmato e costruzione con un solo interlocutore, così il vostro ufficio tecnico resta sulle commesse.'
+GEN_SUB = 'In queste pagine trova come INGEGNOS può affiancare {c} come ufficio tecnico esterno, dal progetto e dal fascicolo tecnico fino alla costruzione.'
+GEN_IDEA = 'Progetto, fascicolo tecnico e costruzione con un unico interlocutore, così il vostro ufficio tecnico resta sulle commesse.'
 E = lambda s: html.escape(s, quote=False)
 A = lambda s: html.escape(s, quote=True)
 def slugify(s):
