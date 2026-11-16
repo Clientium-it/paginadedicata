@@ -36,7 +36,13 @@ def summer_first(s):
     for x, y in (("calore d'inverno e aria più fresca d'estate", "aria più fresca d'estate e calore d'inverno"),
                  ("caldo d'inverno e più fresco d'estate", "più fresco d'estate e caldo d'inverno"),
                  ("con il caldo d'inverno e il fresco d'estate", "con il fresco d'estate e il caldo d'inverno"),
-                 (f"sia {W} sia {S}", f"sia {S} sia {W}")):
+                 (f"sia {W} sia {S}", f"sia {S} sia {W}"),
+                 ("il caldo d'inverno e il fresco d'estate", "il fresco d'estate e il caldo d'inverno"),
+                 ("calore d'inverno e un clima più fresco d'estate", "un clima più fresco d'estate e calore d'inverno"),
+                 ("d'inverno con calore diffuso e d'estate con aria più fresca", "d'estate con aria più fresca e d'inverno con calore diffuso"),
+                 ("d'inverno il caldo e d'estate il fresco", "d'estate il fresco e d'inverno il caldo"),
+                 ("riscaldano i reparti d'inverno e li rinfrescano d'estate", "rinfrescano i reparti d'estate e li riscaldano d'inverno"),
+                 ("tra inverno ed estate", "tra estate e inverno"), ("inverno ed estate", "estate e inverno"), ("inverno e estate", "estate e inverno")):
         s = s.replace(x, y)
     s = s.replace(f"{W} e {S}", f"{S} e {W}").replace(f"sia {W} che {S}", f"sia {S} che {W}").replace(f"{W} come {S}", f"{S} come {W}")
     return s
