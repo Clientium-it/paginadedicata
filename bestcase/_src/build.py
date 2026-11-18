@@ -11,6 +11,9 @@ TPL = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
 BAD = re.compile(r'[—–:!;]| - ')
 BANNED = re.compile(r'gratuit|gratis(?! *$)|Diagnosi|audit|assessment|body rental|low.cost|basso costo|economic|Qapl|Brandart|Boxeur|UniCredit|Sport e Salute|WBA|15 minuti|30 minuti', re.I)
 SHARED = ('bcs-logo.png', 'bcs-favicon.ico')
+# Booking calendar from the Calendar Manager (via the OM). Empty = LinkedIn reply CTA on the last slide.
+CAL_URL = ''
+CTA_LI = open(os.path.join(HERE, 'cta_linkedin.html'), encoding='utf-8').read()
 TAIL = 'Qui trova come colleghiamo i sistemi che ci sono già e togliamo i passaggi fatti a mano.'
 GEN_SUB = "In queste pagine trova come Best-case Scenario ottimizza i processi collegando i sistemi che un'azienda ha già, toglie i passaggi fatti a mano come copia e incolla e fogli Excel, senza rifare l'ERP."
 GEN_IDEA = "La domanda giusta non è quale sistema cambiare, ma dove i sistemi costringono ancora a usare Excel."
@@ -30,11 +33,12 @@ def render(sp):
     note, idea = (sp.get('cover_note') or '').strip(), (sp.get('idea') or '').strip()
     if (note or idea) and not sp.get('evidence'): raise ValueError(f'{slug}: claim about the lead with no evidence')
     if full and slugify(full) == slug: raise ValueError(f'{slug}: the slug is the person name')
+    cal = f'<iframe id="calf" title="Calendario Best-case Scenario" data-src="{A(CAL_URL + ("&" if "?" in CAL_URL else "?") + "utm_source=deck&utm_medium=linkedin&utm_campaign=" + slug)}"></iframe>' if CAL_URL else CTA_LI
     lead_css = 'html:not(.phone) h1{font-size:44px}' if len(c) > 30 else 'html:not(.phone) h1{font-size:48px}' if len(c) > 20 else ''
     vals = {'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(f'{full} di {c}' if full else c), 'PREP_ATTR': A(f'{full} di {c}' if full else c),
             'OG_PATH': f'og/{slug}.jpg', 'LEAD_CSS': lead_css, 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
             'H1': E(f'Processi più snelli per {c}, collegando i sistemi che ci sono già'),
-            'SUB': E(f'{note} {TAIL}' if note else GEN_SUB), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp)}
+            'SUB': E(f'{note} {TAIL}' if note else GEN_SUB), 'IDEA': E(idea or GEN_IDEA), 'CLARITY_ATTR': clarity_attr(sp), 'CAL_BLOCK': cal}
     page = re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
     v = visible(page)
     m = BAD.search(v)
