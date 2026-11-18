@@ -33,6 +33,7 @@ def render(sp):
     c, full, slug = sp['company'].strip(), (sp.get('full_name') or '').strip(), sp['slug']
     note, idea = (sp.get('cover_note') or '').strip(), (sp.get('idea') or '').strip()
     if (note or idea) and not sp.get('evidence'): raise ValueError(f'{slug}: claim about the lead with no evidence')
+    if not note and not sp.get('no_fact_ok'): raise ValueError(f'{slug}: no verified company fact (hard rule 18/11), report to the OM instead of publishing generic')
     if full and slugify(full) == slug: raise ValueError(f'{slug}: the slug is the person name')
     cal = f'<iframe id="calf" title="Calendario Best-case Scenario" data-src="{A(CAL_URL + ("&" if "?" in CAL_URL else "?") + "utm_source=deck&utm_medium=linkedin&utm_campaign=" + slug)}"></iframe>' if CAL_URL else CTA_LI
     if 'hCpFM8166S0xfBTwdXqi' in CAL_URL: raise ValueError('wrong Best Case calendar')
