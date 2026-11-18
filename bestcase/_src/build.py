@@ -15,7 +15,7 @@ SHARED = ('bcs-logo.png', 'bcs-favicon.ico')
 CAL_URL = 'https://api.leadconnectorhq.com/widget/booking/JAGIQb4Jsxos3YiNkp5O'   # 'LinkedIn - Best Case Scenario' (Meet). Only this one, never hCpFM8166S0xfBTwdXqi.
 TALK_CAL = '    <div class="who"><b>Una breve call Google Meet con Elia e Daniele</b><span>Scelga un orario nel calendario, oppure risponda al messaggio su LinkedIn.</span></div>\n'
 CTA_LI = open(os.path.join(HERE, 'cta_linkedin.html'), encoding='utf-8').read()
-TAIL = 'Qui trova come colleghiamo i sistemi che ci sono già e togliamo i passaggi fatti a mano.'
+TAIL = "Qui trova come togliamo i passaggi fatti a mano, senza rifare l'ERP."
 GEN_SUB = "In queste pagine trova come Best-case Scenario ottimizza i processi collegando i sistemi che un'azienda ha già, toglie i passaggi fatti a mano come copia e incolla e fogli Excel, senza rifare l'ERP."
 GEN_IDEA = "La domanda giusta non è quale sistema cambiare, ma dove i sistemi costringono ancora a usare Excel."
 E = lambda s: html.escape(s, quote=False)

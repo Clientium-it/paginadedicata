@@ -1,1 +1,16 @@
-{"slug":"gruppo-comini","company":"Gruppo Comini","first":"Fabio","full_name":"Fabio Cardinetti","linkedin":"http://www.linkedin.com/in/fabiocardinetti","role":"Direttore Generale"}
+{
+ "slug": "gruppo-comini",
+ "company": "Gruppo Comini",
+ "first": "Fabio",
+ "full_name": "Fabio Cardinetti",
+ "linkedin": "http://www.linkedin.com/in/fabiocardinetti",
+ "role": "Direttore Generale",
+ "cover_note": "Il Gruppo Comini conta 9 società, 72 punti vendita e 26 showroom arredo bagno in 11 regioni del centro-nord Italia.",
+ "evidence": [
+  {
+   "url": "https://www.comini.eu/",
+   "quote": "conta ben 9 Società, 72 punti vendita, 26 showroom arredo bagno dislocati in 11 Regioni del centro-nord Italia"
+  }
+ ],
+ "checked": "2026-11-18 VPS5"
+}

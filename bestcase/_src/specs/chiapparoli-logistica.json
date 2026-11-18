@@ -1,1 +1,20 @@
-{"slug":"chiapparoli-logistica","company":"Chiapparoli Logistica","first":"Danilo","full_name":"Danilo Zuccalli","linkedin":"http://www.linkedin.com/in/danilozuccalli","role":"Responsible for IT"}
+{
+ "slug": "chiapparoli-logistica",
+ "company": "Chiapparoli Logistica",
+ "first": "Danilo",
+ "full_name": "Danilo Zuccalli",
+ "linkedin": "http://www.linkedin.com/in/danilozuccalli",
+ "role": "Responsible for IT",
+ "cover_note": "Chiapparoli Logistica, nata nel 1979, è specializzata nella logistica del farmaco e distribuisce anche veterinari, dispositivi medici, nutraceutici e cosmetici.",
+ "evidence": [
+  {
+   "url": "https://www.chiapparoli.it/",
+   "quote": "Chiapparoli Logistica è un’azienda 100% italiana nata nel 1979"
+  },
+  {
+   "url": "https://www.chiapparoli.it/",
+   "quote": "Siamo specializzati nella logistica del farmaco ma stocchiamo e distribuiamo anche altre categorie di prodotto come veterinari, dispositivi medici, nutraceutici, integratori e cosmetici."
+  }
+ ],
+ "checked": "2026-11-18 VPS5"
+}

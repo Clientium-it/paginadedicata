@@ -1,1 +1,24 @@
-{"slug":"molino-nicoli","company":"Molino Nicoli","first":"Alessandro","full_name":"Alessandro Curci","linkedin":"http://www.linkedin.com/in/acurci","role":"Chief Operating Officer"}
+{
+ "slug": "molino-nicoli",
+ "company": "Molino Nicoli",
+ "first": "Alessandro",
+ "full_name": "Alessandro Curci",
+ "linkedin": "http://www.linkedin.com/in/acurci",
+ "role": "Chief Operating Officer",
+ "cover_note": "Molino Nicoli sviluppa per i retailer di tutto il mondo oltre 1.000 prodotti in 15 categorie, in tre stabilimenti separati.",
+ "evidence": [
+  {
+   "url": "https://molinonicoli.it/",
+   "quote": "Molino Nicoli vanta un ampio portafoglio di oltre 1.000 prodotti, strutturato in 15 categorie."
+  },
+  {
+   "url": "https://molinonicoli.it/",
+   "quote": "offrire ai retailer di tutto il mondo soluzioni tailor-made"
+  },
+  {
+   "url": "https://molinonicoli.it/",
+   "quote": "3 stabilimenti separati dedicati a linee convenzionali, gluten-free e allergen-free"
+  }
+ ],
+ "checked": "2026-11-18 VPS5"
+}
