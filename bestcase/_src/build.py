@@ -3,6 +3,7 @@
 Usage: python3 build.py specs/*.json --out <folder outside the repo>
 Refuses to write inside ~/paginadedicata. Generic pages unless the spec carries a verified claim (cover_note/idea need evidence).
 Facts come from bestcasescenario.it (home, come-lavoriamo, checked 18/11/2026 from VPS5) and 03-clients/bestcase/context.md.
+Packaging case (400 dipendenti, sei settimane): client-approved copy in HeyReach Best Case C2 v2 (723447), field messaggio2_BestCaseLinkedInC2_BestCase, confirmed by the OM 18/11.
 Never state which systems the lead uses, no free audit or Diagnosi, no body rental or low-cost development, no client names."""
 import html, json, os, re, shutil, sys, unicodedata
 HERE = os.path.dirname(os.path.abspath(__file__)); ASSETS = os.path.join(HERE, '..', 'assets')
