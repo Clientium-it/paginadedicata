@@ -70,6 +70,8 @@ p{line-height:1.5}
 .talk .chip{align-self:flex-start}.talk .chip img{height:30px}
 .talk h2{font-size:34px;line-height:1.14;margin:0}
 .talk .alt{font-size:17px;line-height:1.45}
+.talk .who b{display:block;font-size:19px;color:var(--ink)}.talk .who span{font-size:16px}
+html.phone .talk .who b{font-size:14px}html.phone .talk .who span{display:block;font-size:12.5px}
 .talk .site{font-size:14px;color:var(--mute);font-weight:700}
 .cta{flex:1;min-width:0;display:flex;align-items:center;justify-content:center;padding:40px 56px;background:#fff}
 .cta .bx{width:min(620px,100%);border:2px solid var(--line);border-top:5px solid var(--teal);border-radius:12px;padding:44px 44px;display:flex;flex-direction:column;gap:16px}
@@ -77,6 +79,8 @@ p{line-height:1.5}
 .cta b{font-family:"Space Grotesk",system-ui,sans-serif;font-size:30px;line-height:1.15;color:var(--ink)}
 .cta span{font-size:19px;line-height:1.5}
 .cta small{font-size:16px;line-height:1.45;color:var(--mute)}
+#calf{display:block;flex:1;min-width:0;height:100%;border:0;background:#fff}
+html.phone #calf{flex:1;min-height:0;width:100%;height:auto}
 #nxt{position:fixed;left:50%;bottom:calc(2.2vh + 6px);transform:translateX(-50%);z-index:60;display:flex;align-items:center;gap:.5em;padding:.55em 1.1em .55em 1.25em;border-radius:999px;background:var(--ink);color:#fff;text-decoration:none;font-size:15px;font-weight:700;box-shadow:0 8px 24px rgba(0,0,0,.25);white-space:nowrap}
 #nxt svg{width:1.05em;height:1.05em;color:var(--or)}#nxt.off{display:none}
 .pnav{display:none}
@@ -179,14 +183,10 @@ html:not(.phone) .mk{flex:1;min-height:0;grid-auto-rows:1fr;margin-top:30px}html
     <span class="chip"><img src="../assets/bcs-logo.png" alt="Best-case Scenario"></span>
     <h2>Parliamo di Azienda Esempio</h2>
     <p class="alt">Partiamo da un flusso che oggi passa per Excel o copia e incolla, e guardiamo insieme dove si possono togliere i passaggi fatti a mano.</p>
+    <div class="who"><b>Una breve call Google Meet con Elia e Daniele</b><span>Scelga un orario nel calendario, oppure risponda al messaggio su LinkedIn.</span></div>
     <p class="site">www.bestcasescenario.it</p>
   </div>
-  <div class="cta"><div class="bx">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a8.5 8.5 0 0 1-12.4 7.6L3 21l1.4-5.4A8.5 8.5 0 1 1 21 12z"/></svg>
-    <b>Risponda al messaggio su LinkedIn</b>
-    <span>Le proponiamo un paio di momenti per una breve call con il nostro team.</span>
-    <small>Se in azienda se ne occupa un'altra persona, ci basta sapere a chi rivolgerci.</small>
-  </div></div>
+  <iframe id="calf" title="Calendario Best-case Scenario" data-src="https://api.leadconnectorhq.com/widget/booking/JAGIQb4Jsxos3YiNkp5O?utm_source=deck&amp;utm_medium=linkedin&amp;utm_campaign=esempio"></iframe>
 </div></section>
 
 </div></div>
@@ -195,7 +195,8 @@ html:not(.phone) .mk{flex:1;min-height:0;grid-auto-rows:1fr;margin-top:30px}html
 <script>
 (()=>{const ph=document.documentElement.classList.contains('phone'),secs=[...document.querySelectorAll('.slides>section')],n=secs.length;
 document.querySelector('.pnt').textContent=n;const names=secs.map(s=>s.getAttribute('aria-label')),nb=document.getElementById('nxt'),nt=document.getElementById('nxtt'),box=document.querySelector('.slides');let cur=0;
-const paint=i=>{cur=i;if(i+1<n){nt.textContent=names[i+1];nb.classList.remove('off')}else nb.classList.add('off');document.querySelector('.pc b').textContent=i+1;document.querySelectorAll('.pb').forEach(b=>b.disabled=(+b.dataset.d<0&&i===0)||(+b.dataset.d>0&&i===n-1))};
+const cf=document.getElementById('calf'),L=i=>{if(cf&&cf.dataset.src&&i>=n-2&&!cf.getAttribute('src'))cf.src=cf.dataset.src};
+const paint=i=>{cur=i;L(i);if(i+1<n){nt.textContent=names[i+1];nb.classList.remove('off')}else nb.classList.add('off');document.querySelector('.pc b').textContent=i+1;document.querySelectorAll('.pb').forEach(b=>b.disabled=(+b.dataset.d<0&&i===0)||(+b.dataset.d>0&&i===n-1))};
 const go=i=>{i=Math.max(0,Math.min(n-1,i));if(ph)secs[i].scrollIntoView({behavior:'smooth',block:'start'});else{secs.forEach((s,j)=>s.classList.toggle('on',j===i));paint(i)}};
 nb.addEventListener('click',e=>{e.preventDefault();go(cur+1)});document.querySelectorAll('.pb').forEach(b=>b.addEventListener('click',()=>go(cur+(+b.dataset.d))));
 if(ph){secs.forEach(s=>new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)paint(secs.indexOf(e.target))}),{root:box,threshold:.6}).observe(s));paint(0)}
