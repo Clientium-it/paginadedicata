@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>KRUPPS e Synapses</title>
+<meta property="og:title" content="KRUPPS e Synapses">
+<meta property="og:description" content="Una pagina preparata per Enrico Scanavin di KRUPPS su come Synapses costruisce il presidio commerciale nel DACH, zona per zona.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://paginadedicata.com/synapses/assets/og/krupps.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../assets/synapses-favicon.svg" type="image/svg+xml">
+<script>if(matchMedia("(max-width:700px)").matches){document.documentElement.classList.add("phone")}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--red:#c1121f;--navy:#0a1628;--navy2:#1a3a5c;--ink:#1b2433;--mute:#5f6b7a;--line:#dde2e8;--card:#f3f5f8;--bg:#fff;--silver:#d8d8d8}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;background:var(--bg);color:var(--ink);font-family:"Source Sans 3",system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+.stage{position:fixed;inset:0;overflow:hidden}
+.slides{position:absolute;left:50%;top:50%;width:1280px;height:720px;transform:translate(-50%,-50%) scale(var(--k,1))}
+.slides>section{position:absolute;inset:0;opacity:0;pointer-events:none;transition:opacity .35s}
+.slides>section.on{opacity:1;pointer-events:auto}
+.s{position:absolute;inset:0;padding:52px 72px 84px;display:flex;flex-direction:column;overflow:hidden}
+.eyebrow{font-size:14.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--red);font-weight:700}
+h1,h2{font-family:"Playfair Display",Georgia,serif;color:var(--navy);font-weight:700}
+h1{font-size:52px;line-height:1.08;margin-top:14px}
+h2{font-size:42px;line-height:1.12;margin-top:8px}
+p{line-height:1.5}
+.pair{display:flex;align-items:center;gap:18px}
+.chip{display:flex;align-items:center;background:#fff;border:1px solid var(--line);border-radius:6px;padding:12px 16px}
+.chip img{display:block;height:38px;width:auto}
+.x{color:var(--red);font-size:24px}
+.nm{font-family:"Playfair Display",Georgia,serif;font-weight:700;color:var(--navy);font-size:26px;line-height:1.14;min-width:0;overflow-wrap:anywhere}
+.cover{padding:0;flex-direction:row}
+.cover .l{flex:1;padding:52px 48px 84px 64px;display:flex;flex-direction:column;min-width:0}
+.cover .m{margin:auto 0;padding-top:24px}
+.cover .sub{font-size:21px;margin-top:20px}
+.cover .r{flex:0 0 40%;background:var(--navy);border-left:5px solid var(--red);display:flex;flex-direction:column;justify-content:center;gap:34px;padding:56px 54px;color:#fff;position:relative;overflow:hidden}
+.cover .r .dach{position:absolute;right:-16px;top:18px;font-family:"Playfair Display",Georgia,serif;font-size:150px;font-weight:700;color:rgba(255,255,255,.06);letter-spacing:.02em;line-height:1}
+.st b{display:block;font-family:"Playfair Display",Georgia,serif;font-size:46px;line-height:1;color:#fff}
+.st span{display:block;font-size:18px;line-height:1.35;color:var(--silver);margin-top:8px}
+.st{border-left:3px solid var(--red);padding-left:18px;position:relative}
+.mk{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:26px}
+.mk div{background:var(--card);border-top:4px solid var(--red);border-radius:0 0 8px 8px;padding:22px 24px}
+.mk b{display:block;font-size:23px;line-height:1.2;color:var(--navy)}
+.mk span{display:block;font-size:18px;line-height:1.4;margin-top:8px}
+.lead{font-size:20px;line-height:1.45;margin-top:18px;max-width:1040px}
+.lead b{color:var(--red)}
+.idea{margin-top:auto;border-left:4px solid var(--red);padding-left:16px;font-size:20px;font-weight:700;line-height:1.36;color:var(--navy)}
+.wk{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-top:28px}
+.wk>div{background:var(--card);border-top:4px solid var(--red);border-radius:0 0 8px 8px;padding:22px 22px}
+.wk i{font-style:normal;font-weight:700;color:var(--red);font-size:16px;letter-spacing:.1em}
+.wk b{display:block;font-family:"Playfair Display",Georgia,serif;font-size:26px;color:var(--navy);margin:6px 0 10px}
+.wk span{display:block;font-size:17.5px;line-height:1.42}
+.band{margin-top:auto;background:var(--navy);color:#fff;border-radius:8px;padding:20px 26px;font-size:20px;line-height:1.38}
+.band b{color:#fff}
+.cs{flex:1;min-height:0;display:grid;grid-template-columns:1.25fr 1fr;gap:22px;margin-top:26px}
+.cs>div{border-radius:10px;overflow:hidden;display:flex;flex-direction:column}
+.cs .ca{background:var(--navy);color:#fff;padding:36px 40px;justify-content:center;border-top:4px solid var(--red)}
+.cs .ca i{font-style:normal;font-size:14px;letter-spacing:.14em;text-transform:uppercase;color:#ff8a8a;font-weight:700}
+.cs .ca em{display:block;font-style:normal;font-family:"Playfair Display",Georgia,serif;font-size:64px;line-height:1;margin:14px 0 4px}
+.cs .ca small{display:block;font-size:17px;color:var(--silver)}
+.cs .ca span{display:block;font-size:21px;line-height:1.45;margin-top:22px}
+.cs .pb2{background:var(--card);padding:30px 32px;border-top:4px solid var(--red);justify-content:center;gap:14px}
+.pp{display:flex;align-items:center;gap:16px}
+.pp .ph{flex:0 0 92px;height:92px;border-radius:50%;background:#111 url(../assets/paolo-bizzotto.jpg) 50% 20%/cover no-repeat;border:3px solid var(--red)}
+.pp b{display:block;font-family:"Playfair Display",Georgia,serif;font-size:25px;color:var(--navy)}
+.pp span{font-size:16px;color:var(--mute)}
+.cs ul{list-style:none;display:flex;flex-direction:column;gap:10px}
+.cs li{font-size:17.5px;line-height:1.38;padding-left:16px;position:relative}
+.cs li:before{content:"";position:absolute;left:0;top:.62em;width:7px;height:7px;background:var(--red);border-radius:50%}
+.talk{padding:0;flex-direction:row}
+.talk .l{flex:0 0 330px;padding:28px 28px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;background:var(--card);border-right:4px solid var(--red);min-width:0;text-align:center}
+.talk .chip img{height:30px}
+.who b{display:block;font-size:19px;color:var(--navy)}.who span{font-size:15px}
+.talk h2{font-size:28px;line-height:1.16;margin:0}
+.talk .alt{font-size:15.5px;line-height:1.4}
+.talk .site{font-size:14px;color:var(--mute);font-weight:700}
+.talk .pp .ph{flex-basis:74px;height:74px}
+#calf{display:block;flex:1;min-width:0;height:100%;border:0;background:#fff}
+.calph{flex:1;min-width:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;background:#fff;padding:40px;text-align:center}
+.calph .bx{width:min(560px,100%);border:2px dashed var(--line);border-radius:12px;padding:44px 36px;display:flex;flex-direction:column;align-items:center;gap:12px}
+.calph svg{width:54px;height:54px;color:var(--red)}
+.calph b{font-family:"Playfair Display",Georgia,serif;font-size:26px;color:var(--navy)}
+.calph span{font-size:17px;line-height:1.45;color:var(--mute)}
+#nxt{position:fixed;left:50%;bottom:calc(2.2vh + 6px);transform:translateX(-50%);z-index:60;display:flex;align-items:center;gap:.5em;padding:.55em 1.1em .55em 1.25em;border-radius:999px;background:var(--navy);color:#fff;text-decoration:none;font-size:15px;font-weight:700;box-shadow:0 8px 24px rgba(10,22,40,.3);white-space:nowrap}
+#nxt svg{width:1.05em;height:1.05em;color:#ff8a8a}#nxt.off{display:none}
+.pnav{display:none}
+html.phone .stage{position:static}
+html.phone .slides{position:static;width:auto;height:calc(100dvh - 56px);transform:none;overflow-y:auto;scroll-snap-type:y mandatory;overscroll-behavior:contain;scroll-behavior:smooth}
+html.phone .slides>section{position:relative;opacity:1;pointer-events:auto;height:calc(100dvh - 56px);scroll-snap-align:start;scroll-snap-stop:always;overflow:hidden}
+html.phone .s{position:static;height:100%;padding:20px 18px 14px}
+html.phone #nxt{display:none}
+html.phone .pnav{position:fixed;left:0;right:0;bottom:0;height:56px;display:flex;align-items:center;justify-content:space-between;padding:0 10px env(safe-area-inset-bottom,0);background:#fff;border-top:1px solid var(--line);z-index:50}
+html.phone .pb{width:44px;height:44px;border:0;background:none;font-size:30px;color:var(--navy)}html.phone .pb:disabled{opacity:.25}
+html.phone .pc{font-size:14px;color:var(--mute)}html.phone .pc b{color:var(--navy)}
+html.phone h1{font-size:29px}html.phone h2{font-size:24px;margin-top:4px}
+html.phone .eyebrow{font-size:11.5px}
+html.phone .chip img{height:22px}html.phone .chip{padding:8px 10px}html.phone .pair{gap:10px}html.phone .nm{font-size:18px}html.phone .x{font-size:17px}
+html.phone .cover,html.phone .talk{flex-direction:column;padding:0}
+html.phone .cover .l{flex:1;padding:20px 18px 12px;min-height:0}html.phone .cover .m{padding-top:10px}html.phone .cover .sub{font-size:16px;margin-top:12px;line-height:1.42}
+html.phone .cover .r{flex:0 0 auto;border-left:0;border-top:4px solid var(--red);flex-direction:row;gap:10px;padding:14px 16px;justify-content:space-between}
+html.phone .cover .r .dach{display:none}
+html.phone .st{padding-left:9px;border-left-width:2px;flex:1;min-width:0}html.phone .st b{font-size:24px}html.phone .st span{font-size:11.5px;line-height:1.25;margin-top:4px}
+html.phone .mk{grid-template-columns:1fr;gap:8px;margin-top:10px;flex:1;min-height:0;grid-auto-rows:1fr}html.phone .mk div{padding:9px 12px;border-top-width:3px;display:flex;flex-direction:column;justify-content:center}html.phone .mk b{font-size:16px;line-height:1.18}html.phone .mk span{font-size:13.6px;line-height:1.3;margin-top:3px}
+html.phone .lead{font-size:14px;line-height:1.36;margin-top:8px}
+html.phone .idea{font-size:13.6px;line-height:1.3;padding-left:10px;margin-top:10px}
+html.phone .wk{grid-template-columns:1fr 1fr;gap:8px;margin-top:12px;flex:1;min-height:0;grid-auto-rows:1fr}html.phone .wk>div{padding:9px 10px;border-top-width:3px}html.phone .wk i{font-size:11px}html.phone .wk b{font-size:17px;margin:2px 0 4px}html.phone .wk span{font-size:12.6px;line-height:1.3}
+html.phone .band{font-size:13.6px;line-height:1.33;padding:11px 13px;margin-top:10px}
+html.phone .cs{grid-template-columns:1fr;grid-template-rows:auto 1fr;gap:10px;margin-top:10px}
+html.phone .cs .ca{padding:14px 16px}html.phone .cs .ca i{font-size:11px}html.phone .cs .ca em{font-size:34px;margin:6px 0 2px}html.phone .cs .ca small{font-size:12.5px}html.phone .cs .ca span{font-size:14px;line-height:1.36;margin-top:8px}
+html.phone .cs .pb2{padding:12px 14px;gap:8px;justify-content:flex-start}html.phone .pp .ph{flex-basis:56px;height:56px}html.phone .pp b{font-size:18px}html.phone .pp span{font-size:12.5px}html.phone .cs li{font-size:13.2px;line-height:1.3}html.phone .cs ul{gap:5px}
+html.phone .talk .l{flex:0 0 auto;display:grid;grid-template-columns:1fr;gap:6px;align-items:center;text-align:left;padding:12px 16px;border-right:0;border-bottom:3px solid var(--red)}
+html.phone .talk .chip,html.phone .talk .site,html.phone .talk .pp{display:none}html.phone .talk .alt{font-size:13px;line-height:1.3}
+html.phone .talk h2{font-size:20px}
+html.phone .who{line-height:1.25}html.phone .who b{font-size:14px}html.phone .who span{display:block;font-size:12.5px}
+html.phone #calf{flex:1;min-height:0;width:100%;height:auto}
+html.phone .calph{padding:14px}html.phone .calph .bx{padding:20px 16px;gap:8px}html.phone .calph svg{width:36px;height:36px}html.phone .calph b{font-size:19px}html.phone .calph span{font-size:13.5px}
+@media (max-height:700px){html.phone h1{font-size:24px}html.phone h2{font-size:20px}html.phone .cover .sub{font-size:13.6px}html.phone .mk b{font-size:14px}html.phone .mk span{font-size:11.8px;line-height:1.22}html.phone .lead,html.phone .idea,html.phone .band{font-size:12px;line-height:1.26}html.phone .wk b{font-size:14.5px}html.phone .wk span{font-size:11.2px;line-height:1.22}html.phone .cs .ca span{font-size:12.4px}html.phone .cs li{font-size:11.8px;line-height:1.22}html.phone .st b{font-size:20px}html.phone .st span{font-size:10.5px}}
+html:not(.phone) .mk{flex:1;min-height:0;grid-auto-rows:1fr;margin-top:30px}html:not(.phone) .mk div{display:flex;flex-direction:column;justify-content:center;padding:26px 30px}html:not(.phone) .mk b{font-size:28px}html:not(.phone) .mk span{font-size:21px;line-height:1.42;margin-top:12px}html:not(.phone) .idea{margin-top:26px;font-size:22px}html:not(.phone) .lead{font-size:22px}html:not(.phone) .wk{flex:1;min-height:0;grid-auto-rows:1fr}html:not(.phone) .wk>div{display:flex;flex-direction:column;justify-content:flex-start;padding:40px 24px 26px}html:not(.phone) .wk b{font-size:31px}html:not(.phone) .wk span{font-size:19.5px;line-height:1.45}html:not(.phone) .band{margin-top:26px;font-size:22px}html:not(.phone) .cs li{font-size:19px}html:not(.phone) .pp .ph{flex-basis:110px;height:110px}
+</style>
+<script src="/site.js" async></script>
+</head>
+<body>
+<div class="stage"><div class="slides">
+
+<section data-i="1" aria-label="Preparata per KRUPPS" class="on"><div class="s cover">
+  <div class="l">
+    <div class="pair"><span class="chip"><img src="../assets/synapses-logo.png" alt="Synapses, organizzazione commerciale DACH"></span><span class="x">×</span><span class="nm">KRUPPS</span></div>
+    <div class="m">
+      <div class="eyebrow">Preparata per Enrico Scanavin di KRUPPS</div>
+      <h1>Il presidio commerciale nel DACH, zona per zona, per KRUPPS</h1>
+      <p class="sub">In queste pagine trova come Synapses costruisce per i produttori italiani come KRUPPS l'organizzazione commerciale in Germania, Austria e Svizzera, con una regia che la tiene sui numeri.</p>
+    </div>
+  </div>
+  <div class="r">
+    <div class="dach" aria-hidden="true">DACH</div>
+    <div class="st"><b>Dal 2017</b><span>organizzazione commerciale DACH per le PMI manifatturiere italiane</span></div>
+    <div class="st"><b>50+</b><span>aziende manifatturiere accompagnate</span></div>
+    <div class="st"><b>7</b><span>paesi in cui abbiamo seguito progetti</span></div>
+  </div>
+</div></section>
+
+<section data-i="2" aria-label="Il contesto"><div class="s">
+  <div class="eyebrow">Il contesto</div>
+  <h2>Perché tanti progetti nel DACH danno risultati deludenti</h2>
+  <p class="lead">Nella nostra esperienza su oltre cinquanta aziende manifatturiere, <b>il 70% di chi prova a espandersi nel DACH</b> ottiene risultati inferiori alle proprie aspettative. Quasi sempre per tre motivi che si ripetono.</p>
+  <div class="mk">
+    <div><b>Nessuna risposta al «perché noi?»</b><span>Perché un buyer tedesco dovrebbe scegliere un fornitore italiano e non uno dietro l'angolo.</span></div>
+    <div><b>Nessun metodo di contatto</b><span>Si spera che i venditori portino clienti, senza un metodo per individuarli e qualificarli zona per zona.</span></div>
+    <div><b>Nessun metodo di gestione</b><span>Niente KPI, niente CRM, nessuna verifica settimanale degli scostamenti.</span></div>
+  </div>
+  <p class="idea">Raramente il problema è il prodotto. Quasi sempre manca l'organizzazione intorno a chi vende.</p>
+</div></section>
+
+<section data-i="3" aria-label="Come lavoriamo"><div class="s">
+  <div class="eyebrow">Come lavoriamo</div>
+  <h2>Un presidio commerciale in quattro passaggi</h2>
+  <div class="wk">
+    <div><i>01</i><b>Strategia</b><span>Chiediamo ai clienti tedeschi perché dovrebbero cambiare fornitore. Se una ragione solida non c'è, ve lo diciamo e non partiamo.</span></div>
+    <div><i>02</i><b>Contatto</b><span>Mappiamo le zone e, con un metodo proprietario basato sull'AI, individuiamo e qualifichiamo i contatti a target.</span></div>
+    <div><i>03</i><b>Vendita</b><span>Un Sales Manager madrelingua, residente in Germania, conduce la trattativa in tandem con voi. Prezzi, offerte e condizioni restano vostri.</span></div>
+    <div><i>04</i><b>Gestione</b><span>Piano settimanale, indicatori, CRM e riunione di verifica. Gli scostamenti si misurano e si correggono subito.</span></div>
+  </div>
+  <p class="band">È la regia che tiene il presidio <b>sui numeri</b>, settimana dopo settimana, in Germania, Austria e Svizzera.</p>
+</div></section>
+
+<section data-i="4" aria-label="Un esempio concreto"><div class="s">
+  <div class="eyebrow">Un esempio concreto</div>
+  <h2>Cosa abbiamo fatto per altri</h2>
+  <div class="cs">
+    <div class="ca"><i>Azienda manifatturiera</i><em>5 mesi</em><small>dalla partenza a una presenza attiva</small>
+      <span>Un'azienda manifatturiera simile alla Vostra, partita senza struttura commerciale nel DACH, in cinque mesi è arrivata a una presenza attiva e trattative aperte, senza filiali né assunzioni.</span></div>
+    <div class="pb2">
+      <div class="pp"><div class="ph" role="img" aria-label="Paolo Bizzotto"></div><div><b>Paolo Bizzotto</b><span>Founder e Managing Director</span></div></div>
+      <ul>
+        <li>Ingegneria al Politecnico di Stoccarda, MBA alla Columbia University</li>
+        <li>Boston Consulting Group, ufficio di Monaco di Baviera</li>
+        <li>Oltre cinquanta aziende accompagnate, con progetti in sette paesi</li>
+        <li>Lavora in italiano, tedesco e inglese</li>
+      </ul>
+    </div>
+  </div>
+</div></section>
+
+<section data-i="5" aria-label="Parliamone"><div class="s talk">
+  <div class="l">
+    <span class="chip"><img src="../assets/synapses-logo.png" alt="Synapses"></span>
+    <h2>Parliamo di KRUPPS</h2>
+    <div class="who"><b>Una breve call Teams con Paolo Bizzotto</b><span>Per capire quante zone del DACH oggi restano scoperte</span></div>
+    <p class="alt">Scelga un orario nel calendario, oppure risponda al messaggio che ha ricevuto su LinkedIn.</p>
+    <p class="site">www.synapses.it</p>
+  </div>
+  <iframe id="calf" title="Calendario di Paolo Bizzotto" data-src="https://api.leadconnectorhq.com/widget/booking/r2ZA2wDorFXVQFxHHL0o?utm_source=deck&amp;utm_medium=linkedin&amp;utm_campaign=krupps"></iframe>
+</div></section>
+
+</div></div>
+<nav class="pnav" aria-label="Slides"><button class="pb" data-d="-1" aria-label="Precedente">&#8249;</button><span class="pc"><b>1</b> / <span class="pnt"></span></span><button class="pb" data-d="1" aria-label="Successiva">&#8250;</button></nav>
+<a id="nxt" class="off" href="#"><span id="nxtt"></span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12l7 7 7-7"/></svg></a>
+<script>
+(()=>{const ph=document.documentElement.classList.contains('phone'),secs=[...document.querySelectorAll('.slides>section')],n=secs.length;
+document.querySelector('.pnt').textContent=n;const names=secs.map(s=>s.getAttribute('aria-label')),nb=document.getElementById('nxt'),nt=document.getElementById('nxtt'),box=document.querySelector('.slides');let cur=0;
+const cf=document.getElementById('calf'),L=i=>{if(cf&&cf.dataset.src&&i>=n-2&&!cf.getAttribute('src'))cf.src=cf.dataset.src};
+const paint=i=>{cur=i;L(i);if(i+1<n){nt.textContent=names[i+1];nb.classList.remove('off')}else nb.classList.add('off');document.querySelector('.pc b').textContent=i+1;document.querySelectorAll('.pb').forEach(b=>b.disabled=(+b.dataset.d<0&&i===0)||(+b.dataset.d>0&&i===n-1))};
+const go=i=>{i=Math.max(0,Math.min(n-1,i));if(ph)secs[i].scrollIntoView({behavior:'smooth',block:'start'});else{secs.forEach((s,j)=>s.classList.toggle('on',j===i));paint(i)}};
+nb.addEventListener('click',e=>{e.preventDefault();go(cur+1)});document.querySelectorAll('.pb').forEach(b=>b.addEventListener('click',()=>go(cur+(+b.dataset.d))));
+if(ph){secs.forEach(s=>new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)paint(secs.indexOf(e.target))}),{root:box,threshold:.6}).observe(s));paint(0)}
+else{const fit=()=>box.style.setProperty('--k',Math.min(innerWidth/1280,innerHeight/720));fit();addEventListener('resize',fit);
+addEventListener('keydown',e=>{if(['ArrowRight','ArrowDown','PageDown',' '].includes(e.key)){e.preventDefault();go(cur+1)}if(['ArrowLeft','ArrowUp','PageUp'].includes(e.key)){e.preventDefault();go(cur-1)}});
+let wl=0;addEventListener('wheel',e=>{const t=Date.now();if(t-wl<700||Math.abs(e.deltaY)<20)return;wl=t;go(cur+(e.deltaY>0?1:-1))},{passive:true});paint(0)}})();
+</script>
+</body>
+</html>
