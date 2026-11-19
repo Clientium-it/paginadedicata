@@ -13,7 +13,6 @@
  ],
  "required": [
   "ISD Italy",
-  "220+",
   "21 sedi"
  ],
  "cal_url": "",
@@ -40,5 +39,14 @@
    "small": "per una copertura capillare in tutta Italia",
    "text": "Per una rete con attivazioni in ordine sparso e livelli di servizio non rispettati abbiamo costruito una copertura capillare nazionale, con installazioni tracciate e ripristini garantiti, in meno di novanta giorni."
   }
- }
+ },
+ "sender": "Francesco Fantini",
+ "h1_v2": "Un solo referente per l'IT on-site di {c}",
+ "gen_sub_v2": "ISD Italy segue come un unico reparto field service l'IT on-site di aziende con più sedi, con lo stesso livello di servizio ovunque.",
+ "shared_v2": [
+  "isd-logo-light.png",
+  "isd-tecnico.jpg",
+  "isd-servicedesk.jpg"
+ ],
+ "talk_cal_v2": "    <div class=\"who\"><b>Una breve call con il nostro team</b><span>Scelga un orario nel calendario, oppure risponda al messaggio su LinkedIn.</span></div>\n"
 }

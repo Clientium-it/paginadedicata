@@ -1,0 +1,17 @@
+{
+ "slug": "blu-hotels-v2",
+ "company": "Blu Hotels",
+ "full_name": "Guido Rosina",
+ "first": "Guido",
+ "cover_note": "Blu Hotels è da oltre trent'anni tra i protagonisti dell'ospitalità italiana, con oltre 30 hotel 4 e 4 stelle superior nelle destinazioni più rinomate d'Italia.",
+ "evidence": [
+  {
+   "url": "https://bluhotels.it/",
+   "quote": "rappresenta uno dei principali protagonisti dell’ospitalità italiana, con una collezione di oltre 30 hotel 4 e 4 stelle superior situati nelle più rinomate destinazioni dell'Italia"
+  }
+ ],
+ "checked": "2026-11-19 VPS5",
+ "case": "B",
+ "logo": "../assets/leads/blu-hotels/logo.svg",
+ "shot": "../assets/leads/blu-hotels/site.jpg"
+}
