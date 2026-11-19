@@ -1,0 +1,26 @@
+{
+ "slug": "impresa-comarella",
+ "company": "Impresa Comarella",
+ "full_name": "Paolo Comarella",
+ "first": "Paolo",
+ "cover_note": "Impresa Comarella costruisce dal 1920 e segue anche ristrutturazioni e restauri di abitazioni e ville private, oltre a complessi residenziali e cantine vitivinicole.",
+ "evidence": [
+  {
+   "url": "https://comarella.it/",
+   "quote": "Costruttori dal 1920"
+  },
+  {
+   "url": "https://comarella.it/cosa-facciamo/",
+   "quote": "Ristrutturazioni e Restauri"
+  },
+  {
+   "url": "https://comarella.it/cosa-facciamo/",
+   "quote": "Abitazioni e Ville Private"
+  },
+  {
+   "url": "https://comarella.it/cosa-facciamo/",
+   "quote": "Cantine Vitivinicole"
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}
