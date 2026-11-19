@@ -7,13 +7,12 @@
  "gen_sub": "In queste pagine trova come SIMBA studia l'imballo sul prodotto e sulla destinazione, tiene la scorta nei propri magazzini e la consegna la settimana in cui il cliente spedisce.",
  "tail": "Qui trova come SIMBA progetta gli imballi in cartone ondulato su misura e li consegna a chiamata.",
  "gen_idea": "SIMBA non vende il lotto. Studia l'imballo sul prodotto e sulla destinazione, tiene la scorta nei propri magazzini e la consegna la settimana in cui il cliente spedisce.",
- "banned": "15%|nessuno lo fa|Decathlon|gratis|gratuit|minuti|sovrapprezzo|piccoli lotti",
+ "banned": "15%|nessuno lo fa|Decathlon|gratis|gratuit|minuti|sovrapprezzo|piccoli lotti|19[89]\\d|Hannes Werth|Vog Products",
  "banned_ok": [],
  "required": [
-  "SIMBA non vende il lotto",
-  "Dal 1989"
+  "SIMBA non vende il lotto"
  ],
- "cal_url": "",
+ "cal_url": "https://api.leadconnectorhq.com/widget/booking/8njTazEKBznuPaLwrtzd",
  "cal_title": "Calendario SIMBA",
  "cal_forbidden": [],
  "talk_cal": "    <div class=\"who\"><b>Una breve call con il nostro team</b><span>Scelga un orario nel calendario, oppure risponda al messaggio su LinkedIn.</span></div>\n",
