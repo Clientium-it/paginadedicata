@@ -1,0 +1,28 @@
+{
+ "shared": [
+  "hausme-logo.svg",
+  "hausme-favicon.png"
+ ],
+ "h1": "Dalla planimetria al preventivo, con il listino di {c}",
+ "gen_sub": "In queste pagine trova come con Hausme le imprese di ristrutturazione partono dalla planimetria e ottengono computo e preventivo con il proprio listino e i propri ricarichi, mentre il titolare controlla ogni voce e decide.",
+ "tail": "Qui trova come con Hausme si passa dalla planimetria a computo e preventivo, con il proprio listino e i propri ricarichi.",
+ "gen_idea": "Hausme fa il grosso dei calcoli. Il titolare controlla ogni voce e decide.",
+ "banned": "piattaforma|digitalizz|soluzion|HouseMe|da ore a minuti|AI fa tutto|\\bAPE\\b|nuove costruzioni|al mese|abbonamento|Ronchi|Futurhouse|Zorobabele|gratis|gratuit|minuti",
+ "banned_ok": [],
+ "required": [
+  "Hausme"
+ ],
+ "cal_url": "",
+ "cal_title": "Calendario Hausme",
+ "cal_forbidden": [],
+ "talk_cal": "    <div class=\"who\"><b>Una breve call con il nostro team</b><span>Scelga un orario nel calendario, oppure risponda al messaggio su LinkedIn.</span></div>\n",
+ "default_case": "A",
+ "cases": {
+  "A": {
+   "tag": "Impresa di ristrutturazioni",
+   "big": "500.000 €",
+   "small": "di lavori in un anno dal marketplace Hausme",
+   "text": "Un'impresa con un fatturato di circa 1,5 milioni di euro ha ricevuto oltre 500.000 euro di lavori in un anno tramite il marketplace Hausme."
+  }
+ }
+}

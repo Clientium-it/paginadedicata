@@ -1,0 +1,44 @@
+{
+ "shared": [
+  "isd-logo.png",
+  "isd-favicon.png"
+ ],
+ "h1": "Un solo referente per l'IT on-site, preparato per {c}",
+ "gen_sub": "In queste pagine trova come ISD Italy segue come un unico reparto field service l'IT on-site di aziende con più sedi, con lo stesso livello di servizio ovunque.",
+ "tail": "Qui trova come ISD Italy segue l'IT on-site con un solo referente e lo stesso livello di servizio su ogni sede.",
+ "gen_idea": "Un unico reparto field service nazionale certificato, al posto di tanti manutentori locali.",
+ "banned": "250 tecnici|1\\.200|gratuit|gratis|audit|15 minuti|30 minuti|ISD(?! Italy)",
+ "banned_ok": [
+  "www.isditaly.it"
+ ],
+ "required": [
+  "ISD Italy",
+  "220+",
+  "21 sedi"
+ ],
+ "cal_url": "",
+ "cal_title": "Calendario ISD Italy",
+ "cal_forbidden": [],
+ "talk_cal": "    <div class=\"who\"><b>Una breve call con il nostro team</b><span>Scelga un orario nel calendario, oppure risponda al messaggio su LinkedIn.</span></div>\n",
+ "default_case": "B",
+ "cases": {
+  "A": {
+   "tag": "Rete distribuita di apparati",
+   "big": "4 mesi",
+   "small": "per arrivare a regime su scala nazionale",
+   "text": "Per una rete distribuita con rollout lenti e costi imprevedibili abbiamo reso uniformi installazione e manutenzione degli apparati su scala nazionale, con costi certi per punto vendita, a regime in quattro mesi."
+  },
+  "B": {
+   "tag": "Servizi IT gestiti",
+   "big": "1 trimestre",
+   "small": "per vedere calare i fermi",
+   "text": "Per un'azienda con un'assistenza frammentata e solo reattiva abbiamo creato un servizio gestito con un help desk unico e livelli di servizio misurabili, e i fermi sono calati già nel primo trimestre."
+  },
+  "C": {
+   "tag": "Field service nazionale",
+   "big": "90 giorni",
+   "small": "per una copertura capillare in tutta Italia",
+   "text": "Per una rete con attivazioni in ordine sparso e livelli di servizio non rispettati abbiamo costruito una copertura capillare nazionale, con installazioni tracciate e ripristini garantiti, in meno di novanta giorni."
+  }
+ }
+}

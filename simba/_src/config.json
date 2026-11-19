@@ -1,0 +1,29 @@
+{
+ "shared": [
+  "simba-logo.png",
+  "simba-favicon.png"
+ ],
+ "h1": "Gli imballi di {c}, consegnati la settimana in cui spedite",
+ "gen_sub": "In queste pagine trova come SIMBA studia l'imballo sul prodotto e sulla destinazione, tiene la scorta nei propri magazzini e la consegna la settimana in cui il cliente spedisce.",
+ "tail": "Qui trova come SIMBA progetta gli imballi in cartone ondulato su misura e li consegna a chiamata.",
+ "gen_idea": "SIMBA non vende il lotto. Studia l'imballo sul prodotto e sulla destinazione, tiene la scorta nei propri magazzini e la consegna la settimana in cui il cliente spedisce.",
+ "banned": "15%|nessuno lo fa|Decathlon|gratis|gratuit|minuti|sovrapprezzo|piccoli lotti",
+ "banned_ok": [],
+ "required": [
+  "SIMBA non vende il lotto",
+  "Dal 1989"
+ ],
+ "cal_url": "",
+ "cal_title": "Calendario SIMBA",
+ "cal_forbidden": [],
+ "talk_cal": "    <div class=\"who\"><b>Una breve call con il nostro team</b><span>Scelga un orario nel calendario, oppure risponda al messaggio su LinkedIn.</span></div>\n",
+ "default_case": "A",
+ "cases": {
+  "A": {
+   "tag": "Un grande retailer",
+   "big": "Da 10 a 3",
+   "small": "i pezzi da montare per ogni imballo",
+   "text": "Per un grande retailer la nuova scatola costava il 30% in più, 13 contro 10. Ma i pezzi da montare sono passati da dieci a tre, e il 10% dei costi totali è tornato indietro."
+  }
+ }
+}
