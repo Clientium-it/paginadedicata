@@ -1,0 +1,16 @@
+{
+ "slug": "f1-consulting-services",
+ "company": "F1 Consulting & Services",
+ "company_list": "F1 Consulting & Services",
+ "full_name": "Mario Baronello",
+ "first": "Mario",
+ "linkedin": "http://www.linkedin.com/in/mario-lucas-baronello-286987197",
+ "cover_note": "F1 Consulting & Services offre consulenza IT alle imprese per la gestione cloud di ERP e della compliance chimica, in Italia e all'estero.",
+ "evidence": [
+  {
+   "url": "https://f1consultingservices.it/",
+   "quote": "F1 Consulting & Services: consulenza IT per imprese. Partner Dynamics 365, consulenti SAP e sviluppatori Chemilla per la gestione cloud di ERP e compliance chimica. Operiamo in Italia e all’estero."
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

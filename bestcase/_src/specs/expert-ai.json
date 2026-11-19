@@ -1,0 +1,16 @@
+{
+ "slug": "expert-ai",
+ "company": "Expert.ai",
+ "company_list": "Expert.ai",
+ "full_name": "Umberto Pardi",
+ "first": "Umberto",
+ "linkedin": "http://www.linkedin.com/in/umberto-pardi",
+ "cover_note": "Expert.ai conta 200 professionisti, di cui 130 esperti di dati e intelligenza artificiale, e oltre 30 anni di progetti di AI su linguaggio e informazioni aziendali.",
+ "evidence": [
+  {
+   "url": "https://www.expert.ai/about-us/",
+   "quote": "We are a team of 200 professionals, including 130 data and AI experts. With more than 30 years of experience and hundreds of successful AI projects focused on language and business information"
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

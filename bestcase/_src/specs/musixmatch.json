@@ -1,0 +1,16 @@
+{
+ "slug": "musixmatch",
+ "company": "Musixmatch",
+ "company_list": "Musixmatch",
+ "full_name": "Kevin Bordonaro",
+ "first": "Kevin",
+ "linkedin": "http://www.linkedin.com/in/kevinbordonaro",
+ "cover_note": "Musixmatch offre dati musicali dedicati alle royalty, ai cataloghi e ai testi delle canzoni.",
+ "evidence": [
+  {
+   "url": "https://www.musixmatch.com/",
+   "quote": "Musixmatch: Music Data for Royalties, Catalog and Lyrics"
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

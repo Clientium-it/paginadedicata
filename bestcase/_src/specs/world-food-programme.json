@@ -1,0 +1,16 @@
+{
+ "slug": "world-food-programme",
+ "company": "World Food Programme",
+ "company_list": "World Food Programme",
+ "full_name": "Zvart Hovsepyan",
+ "first": "Zvart",
+ "linkedin": "http://www.linkedin.com/in/zvart-hovsepyan",
+ "cover_note": "World Food Programme è la più grande organizzazione umanitaria al mondo, salva vite nelle emergenze e usa l'assistenza alimentare per costruire percorsi di pace, stabilità e prosperità.",
+ "evidence": [
+  {
+   "url": "https://www.wfp.org/",
+   "quote": "We are the world’s largest humanitarian organization, saving lives in emergencies and using food assistance to build a pathway to peace, stability and prosperity"
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

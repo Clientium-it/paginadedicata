@@ -1,0 +1,16 @@
+{
+ "slug": "saxo-italia",
+ "company": "Saxo Italia",
+ "company_list": "Saxo Italia",
+ "full_name": "Andrea Boselini",
+ "first": "Andrea",
+ "linkedin": "http://www.linkedin.com/in/andrea-boselini",
+ "cover_note": "Saxo Italia è un'istituzione finanziaria regolamentata nell'Unione Europea che offre una piattaforma di trading online per investire sui mercati finanziari globali.",
+ "evidence": [
+  {
+   "url": "https://www.home.saxo/",
+   "quote": "Saxo is an EU-regulated financial institution with an online trading platform that empowers you to invest across global financial markets."
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

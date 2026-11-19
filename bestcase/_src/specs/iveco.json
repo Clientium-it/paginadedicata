@@ -1,0 +1,16 @@
+{
+ "slug": "iveco",
+ "company": "Iveco",
+ "company_list": "Iveco",
+ "full_name": "Dan Hvidsten",
+ "first": "Dan",
+ "linkedin": "http://www.linkedin.com/in/dan-hvidsten-%f0%9f%94%b7-bb7a1a50",
+ "cover_note": "Iveco è un leader globale del settore automotive attivo nei veicoli commerciali e speciali, nei powertrain e nei relativi servizi finanziari.",
+ "evidence": [
+  {
+   "url": "https://www.ivecogroup.com/",
+   "quote": "Iveco Group is a global automotive leader active in the Commercial & Specialty Vehicles, Powertrain, and related Financial Services arenas."
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

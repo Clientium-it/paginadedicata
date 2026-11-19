@@ -1,0 +1,16 @@
+{
+ "slug": "neverhack-italy",
+ "company": "NEVERHACK Italy",
+ "company_list": "NEVERHACK Italy",
+ "full_name": "Davide Fusco",
+ "first": "Davide",
+ "linkedin": "http://www.linkedin.com/in/davide-fusco-mba-cism-0a5b178b",
+ "cover_note": "NEVERHACK Italy offre monitoraggio, rilevamento e risposta alle minacce 24 ore su 24, proteggendo in modo continuo le infrastrutture dei propri clienti.",
+ "evidence": [
+  {
+   "url": "https://neverhack.com/",
+   "quote": "24/7 threat monitoring, detection, and response. Our SOC analysts and AI-augmented platform protect your infrastructure around the clock"
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

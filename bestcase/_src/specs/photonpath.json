@@ -1,0 +1,16 @@
+{
+ "slug": "photonpath",
+ "company": "PhotonPath",
+ "company_list": "PhotonPath",
+ "full_name": "Marco Ferrero",
+ "first": "Marco",
+ "linkedin": "http://www.linkedin.com/in/marco-ferrero-56b50a182",
+ "cover_note": "PhotonPath sviluppa chip fotonici brevettati con architetture interne esclusive, pensati per offrire alte prestazioni in un ingombro ultracompatto.",
+ "evidence": [
+  {
+   "url": "https://www.photon-path.com/",
+   "quote": "We develop patented photonic chips with exclusive internal architectures, conceived to deliver high performance in an ultra-compact footprint."
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

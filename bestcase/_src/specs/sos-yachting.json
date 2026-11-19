@@ -1,0 +1,16 @@
+{
+ "slug": "sos-yachting",
+ "company": "SOS Yachting",
+ "company_list": "SOS Yachting",
+ "full_name": "Rachele Bertuccioli",
+ "first": "Rachele",
+ "linkedin": "http://www.linkedin.com/in/rachele-bertuccioli-5876b257",
+ "cover_note": "SOS Yachting è una società di servizi indipendente che offre agenzia e rappresentanza fiscale alle società armatrici di yacht, UE ed extra UE, che noleggiano nell'Unione Europea.",
+ "evidence": [
+  {
+   "url": "https://www.sosyachting.com/",
+   "quote": "SOS Yachting is an independent, specialized service company offering fiscal agency and fiscal representation services to EU and non-EU yacht owning companies chartering in the European Union."
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

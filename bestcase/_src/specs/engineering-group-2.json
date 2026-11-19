@@ -1,0 +1,16 @@
+{
+ "slug": "engineering-group-2",
+ "company": "Engineering Group",
+ "company_list": "Engineering Group",
+ "full_name": "Samuele Marcelli",
+ "first": "Samuele",
+ "linkedin": "http://www.linkedin.com/in/samuelemarcelli",
+ "cover_note": "Engineering Group è una delle principali aziende di trasformazione digitale in Italia, con circa 14.000 dipendenti e oltre 80 sedi in Europa, Stati Uniti e Sud America.",
+ "evidence": [
+  {
+   "url": "https://www.eng.it/en",
+   "quote": "Engineering is a leading Digital Transformation Company in Italy with a strong international presence, with approximately 14,000 employees and over 80 offices across Europe, the United States, and South America"
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "generali",
+ "company": "Generali",
+ "company_list": "Generali",
+ "full_name": "Ekaterina Vedenchuk",
+ "first": "Ekaterina",
+ "linkedin": "http://www.linkedin.com/in/kvedenchuk",
+ "cover_note": "Generali è uno dei maggiori gruppi integrati al mondo nel settore assicurativo e del risparmio gestito, con 163.000 consulenti al servizio di 75 milioni di clienti.",
+ "evidence": [
+  {
+   "url": "https://www.generali.com/",
+   "quote": "Generali is one of the largest integrated insurance and asset management groups worldwide, with 163,000 advisors serving 75 mln customers."
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

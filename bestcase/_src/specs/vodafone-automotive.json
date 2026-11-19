@@ -1,0 +1,16 @@
+{
+ "slug": "vodafone-automotive",
+ "company": "Vodafone Automotive",
+ "company_list": "Vodafone Automotive",
+ "full_name": "Martin Waas",
+ "first": "Martin",
+ "linkedin": "http://www.linkedin.com/in/martin-waas-2708484",
+ "cover_note": "Vodafone Automotive, parte di Vodafone Business, fornisce servizi telematici di sicurezza per i veicoli, come chiamata di emergenza, recupero dei veicoli rubati, assicurazioni basate sull'utilizzo e gestione flotte.",
+ "evidence": [
+  {
+   "url": "https://automotive.vodafone.com/",
+   "quote": "Vodafone Automotive, part of Vodafone Business, provides safety and security vehicle telematics services – such as emergency call and stolen vehicle recovery, usage-based insurance and fleet management"
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

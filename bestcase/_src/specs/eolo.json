@@ -1,0 +1,16 @@
+{
+ "slug": "eolo",
+ "company": "Eolo",
+ "company_list": "Eolo",
+ "full_name": "Matteo Maletto",
+ "first": "Matteo",
+ "linkedin": "http://www.linkedin.com/in/malettomatteo",
+ "cover_note": "Eolo è un operatore nazionale di telecomunicazioni fondato nel 1999, leader nella banda ultra larga per il mercato residenziale e delle imprese, soprattutto nei territori rurali e nei piccoli centri.",
+ "evidence": [
+  {
+   "url": "https://www.eolo.it/istituzionale/chi-siamo",
+   "quote": "Siamo un operatore nazionale di telecomunicazioni fondato nel 1999, leader nel campo della banda ultra-larga per il mercato residenziale e delle imprese, con un ruolo di riferimento soprattutto nei territori rurali e nei piccoli centri."
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

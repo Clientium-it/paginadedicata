@@ -1,0 +1,16 @@
+{
+ "slug": "jet-hr",
+ "company": "Jet HR",
+ "company_list": "Jet HR",
+ "full_name": "Tommaso Lopasso",
+ "first": "Tommaso",
+ "linkedin": "http://www.linkedin.com/in/tommaso-lopasso-4190b7203",
+ "cover_note": "Jet HR offre una piattaforma che ogni mese elabora e invia in automatico i cedolini per più di 1500 aziende.",
+ "evidence": [
+  {
+   "url": "https://www.jethr.com/funzionalita/calcola-il-costo-azienda-e-il-netto-in-busta",
+   "quote": "Ogni mese la nostra piattaforma elabora e invia in automatico i cedolini per più di 1500 aziende."
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

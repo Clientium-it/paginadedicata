@@ -46,7 +46,7 @@ def render(sp):
     v = visible(page)
     m = BAD.search(v)
     if m: raise ValueError(f'{slug}: copy rule broken in {m.group(0)!r} near {v[max(0, m.start() - 40):m.start() + 10]!r}')
-    m = BANNED.search(v.replace('ogni bug corretto gratis', ''))
+    m = BANNED.search(v.replace('ogni bug corretto gratis', '').replace(c, ''))  # the lead's own name is allowed even if it is a BCS client
     if m: raise ValueError(f'{slug}: banned phrase {m.group(0)!r}')
     if len(re.findall(r'400 dipendenti', v)) != 2: raise ValueError(f'{slug}: the packaging case must appear as written')
     return page

@@ -1,0 +1,16 @@
+{
+ "slug": "prada",
+ "company": "Prada",
+ "company_list": "Prada",
+ "full_name": "Brandon Fluegge",
+ "first": "Brandon",
+ "linkedin": "http://www.linkedin.com/in/brandon-fluegge-0511b4165",
+ "cover_note": "Prada propone le collezioni più recenti per donna e uomo di abbigliamento, borse, calzature e accessori.",
+ "evidence": [
+  {
+   "url": "https://www.prada.com/de/de.html",
+   "quote": "die neuesten Kollektionen für Damen und Herren in den Bereichen Kleidung, Taschen, Schuhe und Accessoires"
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}

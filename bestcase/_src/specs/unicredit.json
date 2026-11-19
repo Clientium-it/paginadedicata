@@ -1,0 +1,16 @@
+{
+ "slug": "unicredit",
+ "company": "UniCredit",
+ "company_list": "UniCredit",
+ "full_name": "Yoanna Misheva",
+ "first": "Yoanna",
+ "linkedin": "http://www.linkedin.com/in/yoanna-misheva-94b389220",
+ "cover_note": "UniCredit è una banca commerciale paneuropea che offre servizi bancari in Italia, Germania ed Europa centrale e orientale.",
+ "evidence": [
+  {
+   "url": "https://www.unicreditgroup.eu/en.html",
+   "quote": "UniCredit is a pan-European commercial bank offering unique banking services in Italy, Germany, Central and Eastern Europe"
+  }
+ ],
+ "checked": "2026-11-19 VPS5"
+}
