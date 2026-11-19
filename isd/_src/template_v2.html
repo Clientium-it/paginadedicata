@@ -42,8 +42,9 @@ p{line-height:1.55}
 .cover .sub{font-size:20px;color:var(--dim);margin-top:22px;max-width:600px}
 .cover .meta{margin-top:30px;font-size:14.5px;color:var(--faint);line-height:1.6;border-top:1px solid var(--line);padding-top:18px;max-width:600px}
 .cover .meta b{color:var(--paper);font-weight:500}
-.cover .r{flex:1;position:relative;background:var(--ink2) url(../assets/isd-tecnico.jpg) 38% 50%/cover no-repeat}
-.cover .r:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,var(--ink) 0%,rgba(7,20,40,.55) 28%,rgba(7,20,40,.05) 70%)}
+.cover .r{flex:1;display:flex;flex-direction:column;justify-content:center;padding:56px 72px 92px 40px;border-left:1px solid var(--line)}
+.cover .r p{font-family:"Instrument Serif",Georgia,serif;font-style:italic;font-size:40px;line-height:1.18;color:var(--goldl)}
+.cover .r span{display:block;margin-top:22px;font-size:15.5px;line-height:1.55;color:var(--dim);max-width:380px}
 .saw{padding:0;flex-direction:row}
 .saw .l{flex:0 0 50%;padding:56px 40px 88px 72px;display:flex;flex-direction:column;justify-content:center;min-width:0}
 .saw .fact{font-size:21px;line-height:1.5;margin-top:24px;color:var(--paper)}
@@ -51,20 +52,21 @@ p{line-height:1.55}
 .saw .idea{margin-top:26px;font-family:"Instrument Serif",Georgia,serif;font-style:italic;font-size:25px;line-height:1.3;color:var(--goldl)}
 .saw .src{margin-top:16px;font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--faint)}
 .saw .r{flex:1;display:flex;align-items:center;justify-content:center;padding:56px 64px 88px 24px;min-width:0}
+.biglogo{width:100%;max-width:440px;aspect-ratio:4/3;background:#fff;border-radius:16px;display:flex;align-items:center;justify-content:center;padding:40px}
+.biglogo img{display:block;max-width:100%;max-height:120px;width:auto;height:auto}
+.biglogo .pname{color:var(--ink);font-size:34px;text-align:center}
 .bro{width:100%;border-radius:12px;overflow:hidden;background:#fff;box-shadow:0 30px 70px rgba(0,0,0,.45),0 0 0 1px rgba(255,255,255,.06)}
 .bro .bar{height:30px;background:#e9edf1;display:flex;align-items:center;gap:7px;padding:0 12px}
 .bro .bar i{width:10px;height:10px;border-radius:50%;background:#c8d0d8}
 .bro .bar span{margin-left:10px;font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:#5b6b78}
 .bro img{display:block;width:100%;height:auto}
 .help{padding:0;flex-direction:row}
-.help .l{flex:0 0 38%;position:relative;background:var(--ink2) url(../assets/isd-servicedesk.jpg) 55% 50%/cover no-repeat}
-.help .l:after{content:"";position:absolute;inset:0;background:linear-gradient(270deg,var(--ink) 0%,rgba(7,20,40,.2) 45%,rgba(7,20,40,0) 100%)}
-.help .r{flex:1;padding:56px 72px 88px 48px;display:flex;flex-direction:column;justify-content:center;min-width:0}
-.pil{margin-top:26px;display:grid;grid-template-columns:1fr 1fr;gap:0 44px}
+.help .r{flex:1;padding:56px 72px 88px 72px;display:flex;flex-direction:column;justify-content:center;min-width:0}
+.pil{margin-top:34px;display:grid;grid-template-columns:repeat(4,1fr);gap:0 36px}
 .pil div{padding:18px 0;border-top:1px solid var(--line)}
-.pil b{display:block;font-size:19px;font-weight:600;color:var(--paper)}
-.pil span{display:block;font-size:15.5px;line-height:1.5;color:var(--dim);margin-top:6px}
-.help .note{margin-top:24px;font-size:16px;color:var(--dim)}
+.pil div{padding:22px 0}.pil b{display:block;font-size:21px;font-weight:600;color:var(--paper)}
+.pil span{display:block;font-size:16.5px;line-height:1.5;color:var(--dim);margin-top:6px}
+.help .note{margin-top:34px;font-size:18px;color:var(--dim)}
 .help .note b{color:var(--cyan);font-weight:500}
 .case{justify-content:center}
 .case h2{max-width:900px}
@@ -101,15 +103,14 @@ html.phone .pc{font-size:14px;color:var(--faint)}html.phone .pc b{color:var(--pa
 html.phone h1{font-size:30px}html.phone h2{font-size:25px}
 html.phone .cover,html.phone .saw,html.phone .help,html.phone .talk{flex-direction:column}
 html.phone .cover .l{flex:1;padding:22px 20px 14px;min-height:0}
-html.phone .cover .r{flex:0 0 30%}
-html.phone .cover .r:before{background:linear-gradient(180deg,var(--ink) 0%,rgba(7,20,40,.1) 55%)}
+html.phone .cover .r{flex:0 0 auto;border-left:0;border-top:1px solid var(--line);padding:14px 20px 16px}html.phone .cover .r p{font-size:21px}html.phone .cover .r span{font-size:12.5px;margin-top:8px}
 html.phone .cover h1{margin-top:16px}html.phone .cover .sub{font-size:15px;margin-top:12px}
 html.phone .cover .meta{font-size:12.5px;margin-top:14px;padding-top:10px}
 html.phone .logos{gap:12px}html.phone .logos .isd{height:26px}html.phone .logos i{height:24px}html.phone .plogo{height:40px;padding:7px 10px}html.phone .plogo img{max-height:24px;max-width:130px}html.phone .pname{font-size:16px}
 html.phone .saw .l{flex:0 0 auto;padding:22px 20px 8px}html.phone .saw .fact{font-size:15px;margin-top:12px}html.phone .saw .ctx{font-size:13.5px;margin-top:8px}html.phone .saw .idea{font-size:18px;margin-top:10px}html.phone .saw .src{display:none}
-html.phone .saw .r{flex:1;padding:6px 20px 14px;min-height:0;align-items:flex-start}html.phone .bro .bar{height:22px}html.phone .bro .bar span{font-size:10px}
-html.phone .help .l{flex:0 0 22%}html.phone .help .l:after{background:linear-gradient(0deg,var(--ink) 0%,rgba(7,20,40,0) 70%)}
-html.phone .help .r{flex:1;padding:12px 20px 14px;justify-content:flex-start;min-height:0}html.phone .pil{grid-template-columns:1fr;margin-top:8px}html.phone .pil div{padding:8px 0}html.phone .pil b{font-size:15px}html.phone .pil span{font-size:12.6px;margin-top:2px;line-height:1.38}html.phone .help .note{font-size:12.6px;margin-top:8px}
+html.phone .saw .r{flex:1;padding:6px 20px 14px;min-height:0;align-items:flex-start}html.phone .biglogo{max-width:none;aspect-ratio:auto;height:100%;max-height:220px;padding:24px}html.phone .biglogo img{max-height:70px}html.phone .bro .bar{height:22px}html.phone .bro .bar span{font-size:10px}
+
+html.phone .help .r{flex:1;padding:22px 20px 14px;justify-content:flex-start;min-height:0}html.phone .pil{grid-template-columns:1fr;margin-top:10px}html.phone .pil div{padding:9px 0}html.phone .pil b{font-size:15px}html.phone .pil span{font-size:12.6px;margin-top:2px;line-height:1.38}html.phone .help .note{font-size:12.6px;margin-top:8px}
 html.phone .case .q{grid-template-columns:1fr;gap:14px;margin-top:18px}html.phone .case .big{font-size:48px}html.phone .case .big small{font-size:12.5px;margin-top:6px}html.phone .case .txt{font-size:15px}html.phone .case ul{margin-top:18px;gap:6px}html.phone .case li{font-size:12px;padding:5px 10px}
 html.phone .talk .l{flex:0 0 auto;padding:22px 20px 10px}html.phone .talk .alt{font-size:14.5px;margin-top:10px}html.phone .talk .site{display:none}
 html.phone .talk .r{flex:1;padding:6px 20px 14px;min-height:0;align-items:stretch;flex-direction:column}html.phone .cta{padding:22px 20px}html.phone .cta b{font-size:20px}html.phone .cta span{font-size:14px}html.phone .cta .btn{margin-top:14px}
@@ -127,10 +128,10 @@ html.phone .talk .r{flex:1;padding:6px 20px 14px;min-height:0;align-items:stretc
       <p class="kick">Preparata per <b>{{FULLNAME}}</b></p>
       <h1>{{H1}}</h1>
       <p class="sub">{{GEN_SUB}}</p>
-      <p class="meta">Preparata da <b>{{SENDER}}</b>, ISD Italy<br>Lettura di 4 minuti, nessuna proposta commerciale allegata.</p>
+      <p class="meta">Lettura di 4 minuti, nessuna proposta commerciale allegata.</p>
     </div>
   </div>
-  <div class="r" role="img" aria-label="Un tecnico ISD Italy al lavoro su un apparato"></div>
+  <div class="r"><p>Teniamo vivo l'hardware che fa girare il business.</p><span>Oltre 220 tecnici certificati e 21 sedi operative in tutta Italia.</span></div>
 </div></section>
 
 <section data-i="2" aria-label="Cosa abbiamo visto in {{COMPANY_ATTR}}"><div class="s saw">
@@ -139,13 +140,11 @@ html.phone .talk .r{flex:1;padding:6px 20px 14px;min-height:0;align-items:stretc
     <p class="fact">{{NOTE}}</p>
     <p class="ctx">Con più sedi sul territorio, di solito l'assistenza IT passa da più manutentori locali, con standard e tempi diversi, e ogni intervento va coordinato a parte.</p>
     <p class="idea">{{IDEA}}</p>
-    <p class="src">fonte {{SRC}}</p>
   </div>
-  <div class="r"><div class="bro"><div class="bar"><i></i><i></i><i></i><span>{{SRC}}</span></div><img src="{{SHOT}}" alt="Il sito di {{COMPANY_ATTR}}"></div></div>
+  <div class="r"><div class="biglogo">{{PROSPECT_LOGO_BIG}}</div></div>
 </div></section>
 
 <section data-i="3" aria-label="Come potremmo aiutare"><div class="s help">
-  <div class="l" role="img" aria-label="Il service desk di ISD Italy"></div>
   <div class="r">
     <h2>Come potremmo <em>aiutare</em></h2>
     <div class="pil">
@@ -154,7 +153,7 @@ html.phone .talk .r{flex:1;padding:6px 20px 14px;min-height:0;align-items:stretc
       <div><b>Il ciclo di vita</b><span>Staging, installazione, ricambi, refresh e dismissione certificata.</span></div>
       <div><b>La presenza</b><span>Tecnici ISD Italy nella vostra struttura, ogni giorno.</span></div>
     </div>
-    <p class="note">Oltre 220 tecnici certificati e 21 sedi, con <b>un solo referente</b> e lo stesso livello di servizio su tutte le sedi.</p>
+    <p class="note">Su ATM, POS, server, reti e postazioni di qualunque produttore, con <b>un solo referente</b> e lo stesso livello di servizio su tutte le sedi.</p>
   </div>
 </div></section>
 

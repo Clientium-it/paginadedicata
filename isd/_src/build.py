@@ -36,6 +36,7 @@ def render(sp):
     cal = (f'<iframe id="calf" title="{A(CFG["cal_title"])}" data-src="{A(cal_url + ("&" if "?" in cal_url else "?") + "utm_source=deck&utm_medium=linkedin&utm_campaign=" + slug)}"></iframe>') if cal_url else CTA_LI
     lead_css = 'html:not(.phone) h1{font-size:44px}' if len(c) > 30 else 'html:not(.phone) h1{font-size:48px}' if len(c) > 20 else ''
     src = re.sub(r'^https?://(www\.)?', '', (sp.get('evidence') or [{'url': ''}])[0]['url']).split('/')[0]
+    plogo_big = f'<img src="{A(sp["logo"])}" alt="{A(c)}">' if sp.get('logo') else f'<span class="pname">{E(c)}</span>'
     if V2 and ('{{SHOT}}' in TPL) and not sp.get('shot'): raise ValueError(f'{slug}: v2 needs a screenshot of the prospect site')
     plogo = f'<span class="plogo"><img src="{A(sp["logo"])}" alt="{A(c)}"></span>' if sp.get('logo') else f'<span class="pname">{E(c)}</span>'
     h1v2 = CFG.get('h1_v2', '{c}').split('{c}')
@@ -47,7 +48,7 @@ def render(sp):
             'TALK_NOTE': CFG['talk_cal'] if cal_url else '', 'CASE_TAG': E(case['tag']), 'CASE_BIG': E(case['big']),
             'CASE_SMALL': E(case['small']), 'CASE_TEXT': E(case['text']),
             'PROSPECT_LOGO': plogo, 'FULLNAME': E(full or c), 'SENDER': E(CFG.get('sender', '')), 'NOTE': E(note), 'GEN_SUB': E(CFG.get('gen_sub_v2', CFG['gen_sub']).format(c=c)),
-            'SRC': E(src), 'SHOT': A(sp.get('shot', ''))}
+            'SRC': E(src), 'PROSPECT_LOGO_BIG': plogo_big, 'SHOT': A(sp.get('shot', ''))}
     if V2: vals['H1'] = E(h1v2[0]) + '<em>' + E(c) + '</em>' + E(h1v2[1] if len(h1v2) > 1 else '')
     page = re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
     v = visible(page)

@@ -44,9 +44,7 @@
  "h1_v2": "Un solo referente per l'IT on-site di {c}",
  "gen_sub_v2": "ISD Italy segue come un unico reparto field service l'IT on-site di aziende con più sedi, con lo stesso livello di servizio ovunque.",
  "shared_v2": [
-  "isd-logo-light.png",
-  "isd-tecnico.jpg",
-  "isd-servicedesk.jpg"
+  "isd-logo-light.png"
  ],
  "talk_cal_v2": "    <div class=\"who\"><b>Una breve call con il nostro team</b><span>Scelga un orario nel calendario, oppure risponda al messaggio su LinkedIn.</span></div>\n"
 }
