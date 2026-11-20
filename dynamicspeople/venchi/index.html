@@ -6,116 +6,121 @@
 <meta name="robots" content="noindex,nofollow">
 <title>Venchi e Dynamics People</title>
 <meta property="og:title" content="Venchi e Dynamics People">
-<meta property="og:description" content="Una pagina preparata per Fabio Tormen di Venchi su come ricavare più valore dal CRM che avete già.">
+<meta property="og:description" content="Una pagina preparata per Fabio Tormen di Venchi su come Dynamics People aiuta le aziende a ricavare più valore dal CRM, con consulenti senior.">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://paginadedicata.com/dynamicspeople/assets/og.jpg">
 <meta name="twitter:card" content="summary_large_image">
+
 <script>if(matchMedia("(max-width:700px)").matches){document.documentElement.classList.add("phone")}</script>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-:root{--red:#3075de;--slate:#023373;--ink:#1c2433;--mute:#5f6b7a;--line:#dde3ec;--card:#eef1f7;--bg:#fff;--glow:rgba(48,117,222,.08)}
+:root{--ink:#ffffff;--ink2:#eef1f7;--paper:#1c2433;--dim:#4f5b6b;--faint:#6b7685;--cyan:#3075de;--goldl:#023373;--line:#dde3ec}
 *{box-sizing:border-box;margin:0;padding:0}
-html,body{height:100%;background:var(--bg);color:var(--ink);font-family:'Work Sans',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
-.stage{position:fixed;inset:0;overflow:hidden}
+html,body{height:100%;background:var(--ink);color:var(--paper);font-family:"Work Sans",system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+.stage{position:fixed;inset:0;overflow:hidden;background:var(--ink)}
 .slides{position:absolute;left:50%;top:50%;width:1280px;height:720px;transform:translate(-50%,-50%) scale(var(--k,1))}
-.slides>section{position:absolute;inset:0;opacity:0;pointer-events:none;transition:opacity .35s}
+.slides>section{position:absolute;inset:0;opacity:0;pointer-events:none;transition:opacity .45s}
 .slides>section.on{opacity:1;pointer-events:auto}
-.s{position:absolute;inset:0;padding:52px 72px 84px;display:flex;flex-direction:column;overflow:hidden}
-.eyebrow{font-size:14px;letter-spacing:.14em;text-transform:uppercase;color:var(--red);font-weight:700}
-h1{font-size:54px;line-height:1.06;font-weight:700;color:var(--slate);margin-top:14px}
-h2{font-size:42px;line-height:1.1;font-weight:700;color:var(--slate);margin-top:8px}
-p{line-height:1.5}
-.pair{display:flex;align-items:center;gap:18px}
-.chip{display:flex;align-items:center;background:#fff;border:1px solid var(--line);border-radius:6px;padding:4px 8px}
-.chip img{display:block;height:46px;width:auto}
-.x{color:var(--red);font-size:24px}
-.nm{font-weight:700;color:var(--slate);font-size:26px;line-height:1.12;min-width:0;overflow-wrap:anywhere}
+.s{position:absolute;inset:0;padding:56px 72px 88px;display:flex;flex-direction:column;overflow:hidden}
+h1,h2{font-weight:600;letter-spacing:-.02em;color:var(--paper)}
+h1 em,h2 em{font-weight:600;color:var(--goldl);letter-spacing:0}
+h1{font-size:52px;line-height:1.08}
+h2{font-size:40px;line-height:1.12}
+p{line-height:1.55}
+.kick{font-size:15px;color:var(--dim);font-weight:400}
+.kick b{color:var(--paper);font-weight:500}
+.logos{display:flex;align-items:center;gap:22px}
+.logos .isd{height:46px;width:auto;display:block}
+.logos i{width:1px;height:34px;background:var(--line)}
+.plogo{display:flex;align-items:center;background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 16px;height:56px}
+.plogo img{display:block;max-height:34px;max-width:200px;width:auto}
+.pname{font-size:22px;font-weight:600;color:var(--paper)}
 .cover{padding:0;flex-direction:row}
-.cover .l{flex:1.1;padding:52px 52px 84px 72px;display:flex;flex-direction:column;min-width:0}
-.cover .m{margin:auto 0;padding-top:24px}
-.cover .sub{font-size:21px;margin-top:20px}
-.cover .r{flex:.9;border-left:5px solid var(--red);min-width:0}
-.mk{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}
-.mk div{background:var(--card);border-top:4px solid var(--red);border-radius:0 0 8px 8px;padding:16px 18px}
-.mk b{display:block;font-size:21px;color:var(--slate)}
-.mk span{display:block;font-size:16.5px;line-height:1.36;margin-top:5px}
-.idea{margin-top:auto;border-left:4px solid var(--red);padding-left:16px;font-size:19px;font-weight:700;line-height:1.36;color:var(--slate)}
-.wk{display:grid;grid-template-columns:repeat(3,1fr);gap:32px;margin-top:28px}
-.wk i{font-style:normal;font-weight:700;color:var(--red);font-size:18px}
-.wk b{display:block;font-size:23px;color:var(--slate);margin:4px 0 8px}
-.wk span{display:block;font-size:17.5px;line-height:1.42}
-.band{margin-top:auto;background:var(--slate);color:#fff;border-radius:8px;padding:20px 26px;font-size:19px;line-height:1.38}
-.band b{color:#fff}
-.lg{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;margin-top:30px}
-.lg div{display:flex;align-items:center;justify-content:center;text-align:center;height:112px;padding:10px;border:1px solid var(--line);border-radius:8px;font-size:21px;font-weight:700;color:var(--slate);line-height:1.15}
-.lgn{margin-top:auto;font-size:19px;line-height:1.4}
-.lg.pf{grid-template-columns:repeat(4,1fr)}html:not(.phone) .lg.pf{flex:0 0 auto;grid-auto-rows:240px;margin-top:44px}.lg.pf div{flex-direction:column;gap:10px;font-weight:400}.lg.pf b{font-size:34px;color:var(--red)}.lg.pf span{font-size:18px;color:var(--ink);line-height:1.3}
-html.phone .lg.pf{grid-template-columns:1fr 1fr}html.phone .lg.pf b{font-size:20px}html.phone .lg.pf span{font-size:12.5px}
+.cover .l{flex:0 0 58%;padding:56px 56px 92px 72px;display:flex;flex-direction:column;min-width:0;position:relative;z-index:2}
+.cover .m{margin:auto 0}
+.cover h1{margin-top:22px}
+.cover .sub{font-size:20px;color:var(--dim);margin-top:22px;max-width:600px}
+.cover .meta{margin-top:30px;font-size:14.5px;color:var(--faint);line-height:1.6;border-top:1px solid var(--line);padding-top:18px;max-width:600px}
+.cover .meta b{color:var(--paper);font-weight:500}
+.cover .r{flex:1;background:var(--ink2);display:flex;flex-direction:column;justify-content:center;padding:56px 72px 92px 40px;border-left:1px solid var(--line)}
+.cover .r p{font-weight:600;font-size:34px;line-height:1.18;color:var(--goldl)}
+.cover .r span{display:block;margin-top:22px;font-size:15.5px;line-height:1.55;color:var(--dim);max-width:380px}
+.saw{padding:0;flex-direction:row}
+.saw .l{flex:0 0 50%;padding:56px 40px 88px 72px;display:flex;flex-direction:column;justify-content:center;min-width:0}
+.saw .fact{font-size:21px;line-height:1.5;margin-top:24px;color:var(--paper)}
+.saw .ctx{font-size:17.5px;line-height:1.55;margin-top:18px;color:var(--dim)}
+.saw .idea{margin-top:26px;font-weight:600;font-size:25px;line-height:1.3;color:var(--goldl)}
+.saw .src{margin-top:16px;font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--faint)}
+.saw .r{flex:1;display:flex;align-items:center;justify-content:center;padding:56px 64px 88px 24px;min-width:0}
+.biglogo{width:100%;max-width:440px;aspect-ratio:4/3;background:#fff;border:1px solid var(--line);box-shadow:0 20px 50px rgba(2,51,115,.08);border-radius:16px;display:flex;align-items:center;justify-content:center;padding:40px}
+.biglogo img{display:block;max-width:100%;max-height:120px;width:auto;height:auto}
+.biglogo .pname{color:var(--ink);font-size:34px;text-align:center}
+.bro{width:100%;border-radius:12px;overflow:hidden;background:#fff;box-shadow:0 30px 70px rgba(0,0,0,.45),0 0 0 1px rgba(255,255,255,.06)}
+.bro .bar{height:30px;background:#e9edf1;display:flex;align-items:center;gap:7px;padding:0 12px}
+.bro .bar i{width:10px;height:10px;border-radius:50%;background:#c8d0d8}
+.bro .bar span{margin-left:10px;font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:#5b6b78}
+.bro img{display:block;width:100%;height:auto}
+.help{padding:0;flex-direction:row}
+.help .r{flex:1;padding:56px 72px 88px 72px;display:flex;flex-direction:column;justify-content:center;min-width:0}
+.pil{margin-top:34px;display:grid;grid-template-columns:repeat(4,1fr);gap:0 36px}
+.pil div{padding:18px 0;border-top:1px solid var(--line)}
+.pil div{padding:22px 0}.pil b{display:block;font-size:21px;font-weight:600;color:var(--paper)}
+.pil span{display:block;font-size:16.5px;line-height:1.5;color:var(--dim);margin-top:6px}
+.help .note{margin-top:34px;font-size:18px;color:var(--dim)}
+.help .note b{color:var(--cyan);font-weight:500}
+.case{justify-content:center}
+.case h2{max-width:900px}
+.case .q{margin-top:34px;display:grid;grid-template-columns:360px 1fr;gap:56px;align-items:start}
+.case .big{font-weight:600;font-size:60px;white-space:nowrap;line-height:.95;color:var(--goldl)}
+.case .big small{display:block;font-family:"Work Sans",sans-serif;font-style:normal;font-size:15px;color:var(--faint);margin-top:12px;line-height:1.4}
+.case .txt{font-size:21px;line-height:1.55;color:var(--paper)}
+.case .tag{font-size:15px;color:var(--cyan);margin-bottom:10px}
+.case ul{list-style:none;margin-top:44px;display:flex;flex-wrap:wrap;gap:10px 12px}
+.case li{font-size:14.5px;color:var(--dim);border:1px solid var(--line);border-radius:999px;padding:8px 14px}
 .talk{padding:0;flex-direction:row}
-.talk .l{flex:0 0 290px;padding:26px 24px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;background:var(--card);border-right:4px solid var(--red);min-width:0;text-align:center}
-.talk .chip img{height:24px}.talk .chip{padding:9px 13px}
-.who b{display:block;font-size:19px;color:var(--slate)}.who span{font-size:14.5px}
-.talk h2{font-size:25px;line-height:1.16;margin:0}
-.btn{display:block;background:var(--red);color:#fff;text-decoration:none;font-weight:700;font-size:16px;border-radius:999px;padding:11px 20px}
-.talk .alt{font-size:15px;line-height:1.36}
-.talk .site{font-size:13.5px;color:var(--mute);font-weight:700}
-#calf{display:block;flex:1;min-width:0;height:100%;border:0;background:#fff}
-#nxt{position:fixed;left:50%;bottom:calc(2.2vh + 6px);transform:translateX(-50%);z-index:60;display:flex;align-items:center;gap:.5em;padding:.55em 1.1em .55em 1.25em;border-radius:999px;background:var(--slate);color:#fff;text-decoration:none;font-size:15px;font-weight:700;box-shadow:0 8px 24px rgba(20,28,34,.3);white-space:nowrap}
-#nxt svg{width:1.05em;height:1.05em;color:var(--red)}#nxt.off{display:none}
+.talk .l{flex:0 0 46%;padding:56px 48px 88px 72px;display:flex;flex-direction:column;justify-content:center;min-width:0}
+.talk .alt{font-size:19px;line-height:1.55;color:var(--dim);margin-top:22px}
+.talk .site{margin-top:28px;font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--faint)}
+.talk .r{flex:1;display:flex;align-items:center;justify-content:center;padding:56px 72px 88px 24px;min-width:0}
+.cta{width:100%;max-width:520px;border:1px solid var(--line);border-radius:14px;padding:40px 40px;background:var(--ink2)}
+.cta b{display:block;font-size:26px;font-weight:600;line-height:1.2}
+.cta span{display:block;font-size:17px;line-height:1.5;color:var(--dim);margin-top:14px}
+.cta .btn{display:inline-block;margin-top:26px;background:var(--cyan);color:var(--ink);font-family:"IBM Plex Mono",monospace;font-size:13px;font-weight:500;letter-spacing:.04em;padding:12px 18px;border-radius:6px}
+.cta small{display:block;font-size:14px;color:var(--faint);margin-top:18px;line-height:1.45}
+#calf{display:block;width:100%;height:100%;border:0;background:#fff;border-radius:12px}
+html.phone #calf{flex:1;min-height:0;height:auto}
+#nxt{box-shadow:0 6px 20px rgba(2,51,115,.10);position:fixed;left:50%;bottom:calc(2.2vh + 6px);transform:translateX(-50%);z-index:60;display:flex;align-items:center;gap:.5em;padding:.6em 1.15em .6em 1.25em;border-radius:999px;background:#fff;border:1px solid var(--line);color:var(--paper);text-decoration:none;font-size:14.5px;font-weight:500;white-space:nowrap;backdrop-filter:blur(6px)}
+#nxt svg{width:1.05em;height:1.05em;color:var(--cyan)}#nxt.off{display:none}
 .pnav{display:none}
 html.phone .stage{position:static}
 html.phone .slides{position:static;width:auto;height:calc(100dvh - 56px);transform:none;overflow-y:auto;scroll-snap-type:y mandatory;overscroll-behavior:contain;scroll-behavior:smooth}
 html.phone .slides>section{position:relative;opacity:1;pointer-events:auto;height:calc(100dvh - 56px);scroll-snap-align:start;scroll-snap-stop:always;overflow:hidden}
-html.phone .s{position:static;height:100%;padding:20px 18px 14px}
-html.phone #nxt{display:none}
-html.phone .pnav{position:fixed;left:0;right:0;bottom:0;height:56px;display:flex;align-items:center;justify-content:space-between;padding:0 10px env(safe-area-inset-bottom,0);background:#fff;border-top:1px solid var(--line);z-index:50}
-html.phone .pb{width:44px;height:44px;border:0;background:none;font-size:30px;color:var(--slate)}html.phone .pb:disabled{opacity:.25}
-html.phone .pc{font-size:14px;color:var(--mute)}html.phone .pc b{color:var(--slate)}
-html.phone h1{font-size:31px}html.phone h2{font-size:25px;margin-top:4px}
-html.phone .eyebrow{font-size:11.5px}
-html.phone .chip img{height:22px}html.phone .chip{padding:8px 11px}html.phone .pair{gap:10px}html.phone .nm{font-size:18px}html.phone .x{font-size:17px}
-html.phone .cover,html.phone .talk{flex-direction:column;padding:0}
-html.phone .cover .l{flex:1;padding:20px 18px 12px;min-height:0}html.phone .cover .m{padding-top:10px}html.phone .cover .sub{font-size:16px;margin-top:12px;line-height:1.42}
-html.phone .cover .r{flex:0 0 22%;border-left:0;border-top:4px solid var(--red)}
-html.phone .mk{grid-template-columns:1fr 1fr;gap:7px;margin-top:10px}html.phone .mk div{padding:7px 9px;border-top-width:3px}html.phone .mk b{font-size:14.5px;line-height:1.15}html.phone .mk span{font-size:12.2px;line-height:1.24;margin-top:2px}
-html.phone .idea{font-size:13.5px;line-height:1.3;padding-left:10px;margin-top:auto}
-html.phone .wk{grid-template-columns:1fr;gap:10px;margin-top:12px}html.phone .wk i{display:none}html.phone .wk b{font-size:16.5px;margin:0 0 2px}html.phone .wk span{font-size:13.6px;line-height:1.33}
-html.phone .band{font-size:13.6px;line-height:1.33;padding:11px 13px}
-html.phone .lg{grid-template-columns:1fr 1fr;gap:7px;margin-top:12px}html.phone .lg div{height:auto;min-height:42px;font-size:15px;padding:6px}
-html.phone .lgn{font-size:13.6px;line-height:1.33}
-html.phone .talk .l{flex:0 0 auto;display:grid;grid-template-columns:1fr auto;gap:5px 10px;align-items:center;text-align:left;padding:11px 16px;border-right:0;border-bottom:3px solid var(--red)}
-html.phone .talk .chip{display:none}html.phone .talk .site{display:none}html.phone .talk .alt{grid-column:1/3;font-size:12.5px;line-height:1.3}
-html.phone .talk h2{grid-column:1/3;font-size:18px}
-html.phone .who{line-height:1.2}html.phone .who b{display:inline;font-size:13px}html.phone .who span{display:block;font-size:11.5px}
-html.phone .btn{font-size:13px;padding:8px 13px;white-space:nowrap}
-html.phone #calf{flex:1;min-height:0;width:100%;height:auto}
-@media (max-height:700px){html.phone h1{font-size:25px}html.phone h2{font-size:20px}html.phone .s{padding:12px 15px 8px}html.phone .cover .l{padding:12px 15px 8px}html.phone .cover .sub{font-size:13.6px}html.phone .cover .r{flex-basis:15%}html.phone .mk{margin-top:6px;gap:5px}html.phone .mk div{padding:4px 7px}html.phone .mk b{font-size:13px}html.phone .mk span{font-size:10.8px;line-height:1.18}html.phone .idea{font-size:12px;line-height:1.24}html.phone .wk{margin-top:6px;gap:6px}html.phone .wk b{font-size:14px}html.phone .wk span,html.phone .band,html.phone .lgn{font-size:12px;line-height:1.26}html.phone .band{padding:7px 10px}html.phone .lg{margin-top:7px;gap:5px}html.phone .lg div{min-height:34px;font-size:13.5px;padding:3px}}
+html.phone .s{position:static;height:100%;padding:22px 20px 16px}
+html.phone #nxt{box-shadow:0 6px 20px rgba(2,51,115,.10);display:none}
+html.phone .pnav{position:fixed;left:0;right:0;bottom:0;height:56px;display:flex;align-items:center;justify-content:space-between;padding:0 10px env(safe-area-inset-bottom,0);background:var(--ink2);border-top:1px solid var(--line);z-index:50}
+html.phone .pb{width:44px;height:44px;border:0;background:none;font-size:30px;color:var(--paper)}html.phone .pb:disabled{opacity:.25}
+html.phone .pc{font-size:14px;color:var(--faint)}html.phone .pc b{color:var(--paper)}
+html.phone h1{font-size:30px}html.phone h2{font-size:25px}
+html.phone .cover,html.phone .saw,html.phone .help,html.phone .talk{flex-direction:column}
+html.phone .cover .l{flex:1;padding:22px 20px 14px;min-height:0}
+html.phone .cover .r{flex:0 0 auto;border-left:0;border-top:1px solid var(--line);padding:14px 20px 16px}html.phone .cover .r p{font-size:21px}html.phone .cover .r span{font-size:12.5px;margin-top:8px}
+html.phone .cover h1{margin-top:16px}html.phone .cover .sub{font-size:15px;margin-top:12px}
+html.phone .cover .meta{font-size:12.5px;margin-top:14px;padding-top:10px}
+html.phone .logos{gap:12px}html.phone .logos .isd{height:26px}html.phone .logos i{height:24px}html.phone .plogo{height:40px;padding:7px 10px}html.phone .plogo img{max-height:24px;max-width:130px}html.phone .pname{font-size:16px}
+html.phone .saw .l{flex:0 0 auto;padding:22px 20px 8px}html.phone .saw .fact{font-size:15px;margin-top:12px}html.phone .saw .ctx{font-size:13.5px;margin-top:8px}html.phone .saw .idea{font-size:18px;margin-top:10px}html.phone .saw .src{display:none}
+html.phone .saw .r{flex:1;padding:6px 20px 14px;min-height:0;align-items:flex-start}html.phone .biglogo{max-width:none;aspect-ratio:auto;height:100%;max-height:220px;padding:24px}html.phone .biglogo img{max-height:70px}html.phone .bro .bar{height:22px}html.phone .bro .bar span{font-size:10px}
 
-.mk,.wk,.lg{flex:1;min-height:0}
-.mk{grid-auto-rows:1fr}.lg{grid-auto-rows:1fr}
-.idea,.band,.lgn{margin-top:22px}
-html:not(.phone) .mk b{font-size:25px}html:not(.phone) .mk span{font-size:19.5px;line-height:1.34;margin-top:8px}html:not(.phone) .mk div{padding:18px 22px}
-html:not(.phone) .idea{font-size:22px}
-html:not(.phone) .wk{align-content:center}html:not(.phone) .wk>div{background:var(--card);border-top:4px solid var(--red);border-radius:0 0 8px 8px;padding:26px 26px}
-html:not(.phone) .wk b{font-size:28px;line-height:1.14;margin:8px 0 14px}html:not(.phone) .wk span{font-size:21px;line-height:1.4}html:not(.phone) .wk i{font-size:22px}
-html:not(.phone) .band{font-size:21px}
-html:not(.phone) .lg div{height:auto;font-size:30px}html:not(.phone) .lgn{font-size:22px}
-html.phone .wk,html.phone .mk,html.phone .lg{grid-auto-rows:1fr}
-html.phone .mk span{font-size:13.6px;line-height:1.3;margin-top:4px}html.phone .mk b{font-size:16px}html.phone .mk div{padding:9px 11px}
-html.phone .idea{font-size:15px;margin-top:12px}
-html.phone .wk>div{background:var(--card);border-left:4px solid var(--red);border-radius:0 8px 8px 0;padding:12px 14px;display:flex;flex-direction:column;justify-content:center}
-html.phone .wk b{font-size:18px;margin-bottom:4px}html.phone .wk span{font-size:15px;line-height:1.36}
-html.phone .band{font-size:14.5px;margin-top:12px}
-html.phone .lg div{font-size:18px;min-height:0}html.phone .lgn{font-size:15px;margin-top:12px}
-@media (max-height:700px){html.phone .mk div{padding:4px 7px}html.phone .mk b{font-size:13px}html.phone .mk span{font-size:11px;line-height:1.18;margin-top:1px}html.phone .idea{font-size:12px;margin-top:6px}html.phone .wk>div{padding:5px 10px}html.phone .wk b{font-size:14px;margin:0}html.phone .wk span{font-size:12px;line-height:1.24}html.phone .band{font-size:12px;margin-top:6px}html.phone .lg div{font-size:14px}html.phone .lgn{font-size:12px;margin-top:6px}}
-.talk .l{flex:0 0 400px;align-items:flex-start;text-align:left;padding:40px 36px;gap:16px}.talk h2{font-size:34px;line-height:1.12}.talk .why{font-size:18px;line-height:1.42}.talk .alt{font-size:16px;line-height:1.4;font-weight:600}
+html.phone .help .r{flex:1;padding:22px 20px 14px;justify-content:flex-start;min-height:0}html.phone .pil{grid-template-columns:1fr;margin-top:10px}html.phone .pil div{padding:9px 0}html.phone .pil b{font-size:15px}html.phone .pil span{font-size:12.6px;margin-top:2px;line-height:1.38}html.phone .help .note{font-size:12.6px;margin-top:8px}
+html.phone .case .q{grid-template-columns:1fr;gap:14px;margin-top:18px}html.phone .case .big{font-size:48px}html.phone .case .big small{font-size:12.5px;margin-top:6px}html.phone .case .txt{font-size:15px}html.phone .case ul{margin-top:18px;gap:6px}html.phone .case li{font-size:12px;padding:5px 10px}
+html.phone .talk .l{flex:0 0 auto;padding:22px 20px 10px}html.phone .talk .alt{font-size:14.5px;margin-top:10px}html.phone .talk .site{display:none}
+html.phone .talk .r{flex:1;padding:6px 20px 14px;min-height:0;align-items:stretch;flex-direction:column}html.phone .cta{padding:22px 20px}html.phone .cta b{font-size:20px}html.phone .cta span{font-size:14px}html.phone .cta .btn{margin-top:14px}
+@media (max-height:700px){html.phone h1{font-size:25px}html.phone h2{font-size:21px}html.phone .cover .sub{font-size:13.5px}html.phone .saw .fact{font-size:13.5px}html.phone .pil span{font-size:11.6px}html.phone .case .txt{font-size:13.5px}}
 
-html.phone .talk .why{grid-column:1/3;font-size:14px;line-height:1.35}html.phone .talk .l{padding:16px}html.phone .talk .rp{flex:1;min-height:0}
-html.phone .cover .r{flex:0 0 26%;border-left:0;border-top:4px solid var(--red)}
-.hv{background:radial-gradient(120% 90% at 85% 0%,#467cec 0%,#023373 62%);color:#fff;display:flex;flex-direction:column;justify-content:center;padding:56px 56px 84px;gap:14px}.hv .big{font-size:150px;font-weight:700;line-height:.9;letter-spacing:-.03em}.hv .cap{font-size:24px;line-height:1.3;max-width:420px;color:#dfe8ff}.hv .tl{display:grid;gap:10px;margin-top:26px}.hv .tl span{display:flex;justify-content:space-between;gap:14px;border-top:1px solid rgba(255,255,255,.22);padding-top:10px;font-size:17px;color:#c8d6f5}.hv .tl b{color:#fff;font-weight:600}html.phone .hv{padding:12px 18px;gap:2px;flex-direction:row;flex-wrap:wrap;align-items:center;column-gap:14px}html.phone .hv .big{font-size:58px}html.phone .hv .cap{font-size:13.5px;max-width:200px}html.phone .hv .tl{display:none}@media (max-height:700px){html.phone .hv .big{font-size:42px}html.phone .hv .cap{font-size:12px}}.talk.nocal .l{flex:1;align-items:center;justify-content:center;text-align:center;border-right:0;padding:48px 64px;gap:26px;background:radial-gradient(90% 70% at 50% 0%,var(--glow),transparent 70%),var(--card)}.talk.nocal .chip img{height:56px}.talk.nocal .chip{padding:12px 20px}.talk.nocal h2{font-size:58px;line-height:1.08}.talk.nocal .why{font-size:26px;line-height:1.4;max-width:780px}.talk.nocal .alt{font-size:20px;max-width:640px;color:var(--slate)}.talk.nocal h2::after{content:"";display:block;width:72px;height:4px;border-radius:2px;background:var(--red);margin:22px auto 0}html.phone .talk.nocal .l{flex:1 1 auto;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;border-bottom:0;padding:28px 22px;gap:18px}html.phone .talk.nocal .chip{display:flex}html.phone .talk.nocal .chip img{height:38px}html.phone .talk.nocal h2{font-size:30px}html.phone .talk.nocal h2::after{margin-top:16px;width:56px}html.phone .talk.nocal .why{font-size:18px;line-height:1.4}html.phone .talk.nocal .alt{font-size:15px;line-height:1.4}
-.pic{display:block;flex:none;width:120px;height:120px;border-radius:50%;object-fit:cover}.pic.ini{display:flex;align-items:center;justify-content:center;background:var(--slate);color:#fff;font-size:40px;font-weight:700;letter-spacing:.02em}.who b{display:block;font-size:20px;color:var(--slate)}.who span{font-size:15px;color:var(--mute)}
-html.phone .talk:not(.nocal) .pic{display:none}html.phone .talk:not(.nocal) .who{grid-column:1/3}html.phone .talk:not(.nocal) .who b{display:inline;font-size:13px}html.phone .talk:not(.nocal) .who span{font-size:12px}
-.talk .l{gap:12px}.talk h2{font-size:28px}
+.cal{width:100%;height:100%;max-height:560px;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+html.phone .cal{max-height:none;flex:1}
+.plogo img{height:30px}html.phone .plogo img{height:22px}
+h1 em,h2 em{font-style:normal}
+.biglogo .pname{color:var(--paper)}
 </style>
 <script src="/site.js" async></script>
 </head>
@@ -124,73 +129,64 @@ html.phone .talk:not(.nocal) .pic{display:none}html.phone .talk:not(.nocal) .who
 
 <section data-i="1" aria-label="Preparata per Venchi" class="on"><div class="s cover">
   <div class="l">
-    <div class="pair"><span class="chip"><img src="../assets/dp-logo.svg" alt="Dynamics People"></span><span class="x">×</span><span class="nm">Venchi</span></div>
+    <div class="logos"><img class="isd" src="../assets/dp-logo.svg" alt="Dynamics People"><i></i><span class="pname">Venchi</span></div>
     <div class="m">
-      <div class="eyebrow">Preparata per Fabio Tormen di Venchi</div>
-      <h1>Più valore dal CRM che Venchi ha già</h1>
-      <p class="sub">In queste pagine trova come Dynamics People aiuta le aziende a ricavare più valore dal CRM che hanno, senza ripartire da zero.</p>
+      <p class="kick">Preparata per <b>Fabio Tormen</b></p>
+      <h1>Più valore dal CRM, per <em>Venchi</em></h1>
+      <p class="sub">Dynamics People affianca le aziende con consulenti senior Microsoft Dynamics e migliora quello che c'è già, senza ripartire da zero.</p>
     </div>
   </div>
-  <div class="r hv" aria-hidden="true"><div class="big">100+</div><div class="cap">clienti e oltre 100 progetti su tecnologie Microsoft</div><div class="tl"><span>Microsoft<b>Solutions Partner</b></span><span>ISO/IEC 27001<b>dal 2022</b></span><span>Sul mercato<b>da oltre 10 anni</b></span><span>Sedi<b>Italia, Svizzera, Albania</b></span></div></div>
-</div></section>
-<section data-i="2" aria-label="Cosa facciamo"><div class="s">
-  <div class="eyebrow">Cosa facciamo</div>
-  <h2>Microsoft Dynamics e il CRM di Venchi</h2>
-  <div class="mk">
-    <div><b>Dynamics 365 CRM</b><span>Customer Engagement configurato e sviluppato su quello che avete già</span></div>
-    <div><b>F&amp;O e Business Central</b><span>Progetti su Dynamics 365 Finance &amp; Operations e Business Central</span></div>
-    <div><b>Power Platform</b><span>Power Apps, Power Automate e Power BI per automatizzare e misurare</span></div>
-    <div><b>Azure, .NET e BI</b><span>Sviluppi su misura sulle tecnologie Microsoft</span></div>
-    <div><b>Manutenzione e supporto</b><span>Seguiamo le applicazioni Microsoft nel tempo, il vostro team resta sui progetti nuovi</span></div>
-    <div><b>Un team completo</b><span>Professionisti che coprono ogni attività e ruolo del progetto Dynamics</span></div>
-  </div>
-  <p class="idea">Partiamo da quello che avete già e guardiamo insieme dove il CRM può darvi di più.</p>
+  <div class="r"><p>Consulenti senior, senza livelli intermedi.</p><span>La stessa seniority dei grandi nomi, a circa un terzo delle loro tariffe, con la direzione tecnica a Roma.</span></div>
 </div></section>
 
-<section data-i="3" aria-label="Come lavoriamo"><div class="s">
-  <div class="eyebrow">Come lavoriamo</div>
-  <h2>Senza ripartire da zero</h2>
-  <div class="wk">
-    <div><i>1</i><b>Partiamo da quello che c'è</b><span>Guardiamo come usate oggi il CRM e i sistemi collegati.</span></div>
-    <div><i>2</i><b>Interveniamo dove serve</b><span>Integrazioni, automazioni e dashboard dove portano più valore.</span></div>
-    <div><i>3</i><b>Fino all'uso vero</b><span>Restiamo accanto al team finché il CRM entra nel lavoro di tutti i giorni.</span></div>
+<section data-i="2" aria-label="Cosa abbiamo visto in Venchi"><div class="s saw">
+  <div class="l">
+    <h2>Cosa abbiamo visto in <em>Venchi</em></h2>
+    <p class="fact">Venchi produce cioccolato e gelato, con oltre 350 ricette di cioccolato.</p>
+    <p class="ctx">Con oltre 200 negozi diretti in più di 70 paesi, immaginiamo che seguire negozi e rivenditori chieda dati sempre aggiornati e un bel lavoro di coordinamento tra mercati diversi.</p>
+    <p class="idea">Far lavorare meglio il CRM su negozi e rivenditori, partendo da quello che avete già.</p>
   </div>
-  <p class="band">Un sistema acceso e usato a metà non ha risolto niente. Il nostro lavoro finisce il giorno in cui le persone lo usano <b>senza che glielo si debba ricordare</b>.</p>
+  <div class="r"><div class="biglogo"><span class="pname">Venchi</span></div></div>
 </div></section>
 
-<section data-i="4" aria-label="Un caso concreto"><div class="s">
-  <div class="eyebrow">Un caso concreto</div>
-  <h2>Per un gruppo leader dell'arredo di lusso</h2>
-  <div class="lg pf">
-    <div><b>Una vista</b><span>sul cliente, anche tra i diversi marchi del gruppo</span></div>
-    <div><b>Post vendita</b><span>integrato nel percorso del cliente</span></div>
-    <div><b>Power BI</b><span>dashboard per decidere e pianificare</span></div>
-    <div><b>Automazione</b><span>processi più snelli e meno lavoro manuale</span></div>
+<section data-i="3" aria-label="Come potremmo aiutare"><div class="s help">
+  <div class="r">
+    <h2>Come potremmo <em>aiutare</em></h2>
+    <div class="pil">
+      <div><b>Consulenti senior</b><span>La stessa seniority dei grandi nomi, a circa un terzo delle loro tariffe.</span></div>
+      <div><b>Un rapporto diretto</b><span>Nessun livello intermedio tra voi e chi lavora sul vostro CRM.</span></div>
+      <div><b>Persone stabili</b><span>Direzione tecnica a Roma e consulenti che restano gli stessi nel tempo.</span></div>
+      <div><b>Da dove siete</b><span>Miglioriamo il CRM che avete, senza ripartire da zero.</span></div>
+    </div>
+    <p class="note">Anche <b>Capgemini, Reply ed Engineering</b> ci chiamano per i loro progetti su Microsoft Dynamics.</p>
   </div>
-  <p class="lgn">Abbiamo integrato Dynamics 365 Customer Engagement con i sistemi CRM ed ERP che il gruppo usava già.</p>
+</div></section>
+
+<section data-i="4" aria-label="Un esempio concreto"><div class="s case">
+  <h2>Un esempio di cosa potremmo <em>portare</em> da voi</h2>
+  <div class="q">
+    <div class="big">Il più usato<small>da modulo che nessuno apriva</small></div>
+    <div><p class="tag">Microsoft Dynamics CRM</p><p class="txt">In un marchio storico dell'arredo di lusso italiano, un modulo CRM che nessuno apriva è diventato il più usato dell'azienda.</p></div>
+  </div>
+  <ul><li>Consulenti senior Microsoft Dynamics</li><li>Nessun livello intermedio</li><li>Direzione tecnica a Roma</li><li>Consulenti stabili nel tempo</li></ul>
 </div></section>
 
 <section data-i="5" aria-label="Parliamone"><div class="s talk">
   <div class="l">
-    <span class="chip"><img src="../assets/dp-logo.svg" alt="Dynamics People"></span>
-    <div class="pic ini" aria-hidden="true">RT</div>
-    <div class="who"><b>Roberto Tamburello</b><span>Socio, Dynamics People</span></div>
-    <h2>Parliamo del CRM di Venchi</h2>
-    <p class="why">Una breve call con Roberto, anche solo per uno scambio di idee.</p>
-    <a class="btn" href="https://api.leadconnectorhq.com/widget/booking/SoY9R5ZZ3m4OIGIPNLGN" target="_blank" rel="noopener">Prenoti una call</a>
-    <p class="alt">Può anche rispondere al messaggio che ha ricevuto su LinkedIn.</p>
-  </div>
-  <iframe id="calf" title="Calendario Roberto Tamburello, Dynamics People"></iframe>
+    <h2>Parliamo di <em>Venchi</em></h2>
+    <p class="alt">Partiamo da come oggi seguite negozi e rivenditori nei vari paesi e vediamo insieme dove il CRM può darvi una mano in più.</p>
+      </div>
+  <div class="r"><div class="cta"><b>Ne parliamo su LinkedIn</b><span>Risponda pure al messaggio di Roberto Tamburello su LinkedIn e troviamo insieme un momento per una breve call.</span><small>Roberto Tamburello, socio di Dynamics People</small></div></div>
 </div></section>
 
 </div></div>
 <nav class="pnav" aria-label="Slides"><button class="pb" data-d="-1" aria-label="Precedente">&#8249;</button><span class="pc"><b>1</b> / <span class="pnt"></span></span><button class="pb" data-d="1" aria-label="Successiva">&#8250;</button></nav>
-<a id="nxt" class="off" href="#"><span id="nxtt"></span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12l7 7 7-7"/></svg></a>
+<a id="nxt" class="off" href="#"><span id="nxtt"></span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12l7 7 7-7"/></svg></a>
 <script>
 (()=>{const ph=document.documentElement.classList.contains('phone'),secs=[...document.querySelectorAll('.slides>section')],n=secs.length;
 document.querySelector('.pnt').textContent=n;const names=secs.map(s=>s.getAttribute('aria-label')),nb=document.getElementById('nxt'),nt=document.getElementById('nxtt'),box=document.querySelector('.slides');let cur=0;
-const cf=document.getElementById('calf'),CAL='https://api.leadconnectorhq.com/widget/booking/SoY9R5ZZ3m4OIGIPNLGN';
-const paint=i=>{cur=i;if(CAL&&i>=n-2&&!cf.getAttribute('src'))cf.src=CAL;if(i+1<n){nt.textContent=names[i+1];nb.classList.remove('off')}else nb.classList.add('off');document.querySelector('.pc b').textContent=i+1;document.querySelectorAll('.pb').forEach(b=>b.disabled=(+b.dataset.d<0&&i===0)||(+b.dataset.d>0&&i===n-1))};
+const cf=document.getElementById('calf'),L=i=>{if(cf&&cf.dataset.src&&i>=n-2&&!cf.getAttribute('src'))cf.src=cf.dataset.src};
+const paint=i=>{cur=i;L(i);if(i+1<n){nt.textContent='Avanti · '+names[i+1];nb.classList.remove('off')}else nb.classList.add('off');document.querySelector('.pc b').textContent=i+1;document.querySelectorAll('.pb').forEach(b=>b.disabled=(+b.dataset.d<0&&i===0)||(+b.dataset.d>0&&i===n-1))};
 const go=i=>{i=Math.max(0,Math.min(n-1,i));if(ph)secs[i].scrollIntoView({behavior:'smooth',block:'start'});else{secs.forEach((s,j)=>s.classList.toggle('on',j===i));paint(i)}};
 nb.addEventListener('click',e=>{e.preventDefault();go(cur+1)});document.querySelectorAll('.pb').forEach(b=>b.addEventListener('click',()=>go(cur+(+b.dataset.d))));
 if(ph){secs.forEach(s=>new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)paint(secs.indexOf(e.target))}),{root:box,threshold:.6}).observe(s));paint(0)}
