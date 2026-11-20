@@ -3,16 +3,12 @@
  "company": "Fructus Meran",
  "full_name": "Elias Leiter",
  "first": "Elias",
- "cover_note": "Fructus Meran lavora e commercializza dal 1947 frutta fresca e semilavorati made in Alto Adige, con tre divisioni, lavorazione frutta, frutta da tavola e asta frutta.",
+ "cover_note": "Fructus Meran produce frutta surgelata IQF, frutta fresca e puree di frutta.",
  "evidence": [
   {
-   "url": "https://www.fructus.it/it",
-   "quote": "Dal 1947 l’azienda altoatesina Fructus Meran è il vostro interlocutore di fiducia specializzato nella lavorazione e nella commercializzazione di materie prime e semilavorati di massima qualità."
-  },
-  {
-   "url": "https://www.fructus.it/it",
-   "quote": "tre divisioni distinte – lavorazione frutta, frutta da tavola e asta frutta"
+   "url": "https://www.fructus.it/it/",
+   "quote": "produzione e commercializzazione di frutta surgelata IQF, prodotto pastorizzato, frutta fresca e puree di frutta"
   }
  ],
- "checked": "2026-11-19 VPS5"
+ "checked": "2026-11-20 VPS5"
 }
