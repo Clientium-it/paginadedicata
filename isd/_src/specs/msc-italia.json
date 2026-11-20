@@ -1,0 +1,16 @@
+{
+ "slug": "msc-italia",
+ "company": "MSC Italia",
+ "full_name": "Roberto Musumeci",
+ "first": "Roberto",
+ "cover_note": "MSC ha 16 uffici in Italia.",
+ "evidence": [
+  {
+   "url": "https://www.mscitalia.it",
+   "quote": "16 Uffici in Italia"
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "B",
+ "logo": "../assets/leads/msc-italia/logo.png"
+}

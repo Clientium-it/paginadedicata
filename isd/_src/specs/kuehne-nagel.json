@@ -1,0 +1,16 @@
+{
+ "slug": "kuehne-nagel",
+ "company": "Kuehne+Nagel",
+ "full_name": "Andrej Stern",
+ "first": "Andrej",
+ "cover_note": "Kuehne+Nagel ha quasi 1.300 sedi in circa 100 paesi.",
+ "evidence": [
+  {
+   "url": "https://www.kuehne-nagel.com/it",
+   "quote": "quasi 92.000 dipendenti in quasi 1.300 sedi in circa 100 paesi"
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "B",
+ "logo": "../assets/leads/kuehne-nagel/logo.svg"
+}

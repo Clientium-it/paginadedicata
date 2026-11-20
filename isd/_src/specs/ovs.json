@@ -1,0 +1,16 @@
+{
+ "slug": "ovs",
+ "company": "OVS",
+ "full_name": "Marilena Ficocelli",
+ "first": "Marilena",
+ "cover_note": "OVS ha oltre 2.600 negozi in Italia e all'estero.",
+ "evidence": [
+  {
+   "url": "https://www.ovscorporate.it",
+   "quote": "una rete di oltre 2.600 negozi in Italia e all'estero, la maggior parte dei quali ad insegna OVS, Upim e Goldenpoint"
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "C",
+ "logo": "../assets/leads/ovs/logo.svg"
+}

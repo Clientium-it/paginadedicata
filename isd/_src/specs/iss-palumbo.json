@@ -1,0 +1,16 @@
+{
+ "slug": "iss-palumbo",
+ "company": "ISS Palumbo",
+ "full_name": "Simone Casalini",
+ "first": "Simone",
+ "cover_note": "ISS Palumbo ha 17 uffici.",
+ "evidence": [
+  {
+   "url": "https://iss-palumbo.com/",
+   "quote": "17 Uffici"
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "B",
+ "logo": "../assets/leads/iss-palumbo/logo.png"
+}

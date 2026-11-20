@@ -1,0 +1,16 @@
+{
+ "slug": "flex",
+ "company": "Flex",
+ "full_name": "Massimo Arrigoni",
+ "first": "Massimo",
+ "cover_note": "Flex offre fulfillment e logistica per retail e marketplace.",
+ "evidence": [
+  {
+   "url": "https://flex.com/solutions-and-services/value-added-fulfillment-logistics",
+   "quote": "value-added fulfillment and logistics capabilities to reduce lead times while serving the needs of enterprise, retail, direct-to-consumer, and marketplace channels globally"
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "B",
+ "logo": "../assets/leads/flex/logo.svg"
+}

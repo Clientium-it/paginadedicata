@@ -1,0 +1,16 @@
+{
+ "slug": "fioravanti",
+ "company": "Fioravanti",
+ "full_name": "Mauro Poltronieri",
+ "first": "Mauro",
+ "cover_note": "Fioravanti ha sedi a Milano, Trieste, Genova e Firenze.",
+ "evidence": [
+  {
+   "url": "https://fioravanti.com",
+   "quote": "Milano Via Valtellina, 18 - 20159 Milano (MI) • Trieste Punto Franco Nuovo - 34123 Trieste • Florence Via Volturno, 10/12 - 50019 Sesto Fiorentino (FI) • Concorezzo Via Monte Rosa, 28 - 20863 Concorezzo (MB) • Genoa Via De Marini, 1 - 16149 Genova • Corana Via Slingrini snc - 27050 Corana (PV) • Fernetti Autoporto di Fernetti - 34016 Monrupino (TS) • San Dorligo Via Travnik 2 - 34018 San Dorligo della Valle (TS)"
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "B",
+ "logo": "../assets/leads/fioravanti/logo.png"
+}

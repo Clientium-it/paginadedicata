@@ -1,0 +1,16 @@
+{
+ "slug": "gruppo-una",
+ "company": "Gruppo UNA",
+ "full_name": "Luigi Porro",
+ "first": "Luigi",
+ "cover_note": "Gruppo UNA ha 59 hotel in 31 destinazioni.",
+ "evidence": [
+  {
+   "url": "https://www.gruppouna.it",
+   "quote": "59 Hotels / 31 Destinations / 14 Regions / 6.060 Rooms"
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "B",
+ "logo": "../assets/leads/gruppo-una/logo.svg"
+}

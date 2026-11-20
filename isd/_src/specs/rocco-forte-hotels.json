@@ -1,0 +1,16 @@
+{
+ "slug": "rocco-forte-hotels",
+ "company": "Rocco Forte Hotels",
+ "full_name": "Stefano Fiorito",
+ "first": "Stefano",
+ "cover_note": "L'Hotel Savoy di Rocco Forte ha una nuova Spa Suite.",
+ "evidence": [
+  {
+   "url": "https://press.roccofortehotels.com/hotel-savoy-in-florence-launches-its-new-spa-suite-in-collaboration-with-the-historical-officina-profumo-farmaceutica-di-santa-maria-novella/?lang=en",
+   "quote": "Hotel Savoy, a Rocco Forte Hotel in the heart of Florence, invites guests to discover the new Spa Suite in partnership with Officina Profumo-Farmaceutica di Santa Maria Novella."
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "B",
+ "logo": "../assets/leads/rocco-forte-hotels/logo.svg"
+}
