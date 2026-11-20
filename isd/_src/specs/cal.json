@@ -1,0 +1,16 @@
+{
+ "slug": "cal",
+ "company": "CAL",
+ "full_name": "Stefano Bertaiola",
+ "first": "Stefano",
+ "cover_note": "CAL gestisce magazzini in appalto conto terzi.",
+ "evidence": [
+  {
+   "url": "https://calsrl.it",
+   "quote": "gestione del magazzino in appalto conto terzi per mercati B2B, B2C, eCommerce e Produzione."
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "B",
+ "logo": "../assets/leads/cal/logo.png"
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "si-express",
+ "company": "SI Express",
+ "full_name": "Lorenzo Palese",
+ "first": "Lorenzo",
+ "cover_note": "SI Express garantisce spedizioni H24 365 giorni all'anno.",
+ "evidence": [
+  {
+   "url": "https://siexpress.com",
+   "quote": "fanno soltanto questo tipo di spedizioni per i più grandi gruppi italiani (ed esteri) con disponibilità H24 e 365 giorni all'anno da quasi mezzo secolo e 3 generazioni"
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "B",
+ "logo": "../assets/leads/si-express/logo.png"
+}

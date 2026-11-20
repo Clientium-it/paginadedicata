@@ -1,0 +1,16 @@
+{
+ "slug": "coop-alleanza-3-0",
+ "company": "Coop Alleanza 3.0",
+ "full_name": "Andrea Grazia",
+ "first": "Andrea",
+ "cover_note": "Coop Alleanza 3.0 ha quasi 350 negozi in otto regioni.",
+ "evidence": [
+  {
+   "url": "https://www.coopalleanza3-0.it/cooperativa/coop-alleanza-30/storia.html",
+   "quote": "Con quasi 350 negozi e quasi 16mila lavoratori, è presente da nord a sud in otto regioni: Friuli Venezia Giulia, Veneto, Lombardia, Emilia-Romagna, Marche, Abruzzo, Puglia e Basilicata."
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "C",
+ "logo": "../assets/leads/coop-alleanza-3-0/logo.svg"
+}

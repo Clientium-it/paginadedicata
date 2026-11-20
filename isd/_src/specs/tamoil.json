@@ -1,0 +1,16 @@
+{
+ "slug": "tamoil",
+ "company": "Tamoil",
+ "full_name": "Davor Stokic",
+ "first": "Davor",
+ "cover_note": "Tamoil vende oltre 10 milioni di tonnellate di carburanti l'anno.",
+ "evidence": [
+  {
+   "url": "https://www.tamoil.com",
+   "quote": "sell in excess of 10 million tons of fuel products every year and generate an annual gross turnover of € 12.7 billion"
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "B",
+ "logo": "../assets/leads/tamoil/logo.svg"
+}

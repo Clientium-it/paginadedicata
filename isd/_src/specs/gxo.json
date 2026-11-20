@@ -1,0 +1,16 @@
+{
+ "slug": "gxo",
+ "company": "GXO",
+ "full_name": "Felice Marchesi",
+ "first": "Felice",
+ "cover_note": "GXO progetta e gestisce supply chain fino all'automazione dei magazzini.",
+ "evidence": [
+  {
+   "url": "https://gxo.com/",
+   "quote": "We design, manage and optimize supply chains. We help customers get the most out of their supply chains by improving the flow of goods, from ecommerce fulfilment and flexible distribution to warehouse automation and reverse logistics."
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "B",
+ "logo": "../assets/leads/gxo/logo.svg"
+}

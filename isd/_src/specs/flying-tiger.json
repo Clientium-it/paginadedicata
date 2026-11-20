@@ -1,0 +1,16 @@
+{
+ "slug": "flying-tiger",
+ "company": "Flying Tiger",
+ "full_name": "Alessandro Porqueddu",
+ "first": "Alessandro",
+ "cover_note": "Flying Tiger lancia nuovi prodotti ogni due settimane.",
+ "evidence": [
+  {
+   "url": "https://flyingtiger.com",
+   "quote": "New products every two weeks"
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "C",
+ "logo": "../assets/leads/flying-tiger/logo.png"
+}

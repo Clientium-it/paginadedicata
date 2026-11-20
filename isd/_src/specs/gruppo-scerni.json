@@ -1,0 +1,16 @@
+{
+ "slug": "gruppo-scerni",
+ "company": "Gruppo Scerni",
+ "full_name": "Gianluca Alongi",
+ "first": "Gianluca",
+ "cover_note": "Il Gruppo Scerni ha radici a Genova fin dal 1840.",
+ "evidence": [
+  {
+   "url": "https://grupposcerni.it",
+   "quote": "La nostra storia trae origine dalle profonde radici nel mare di Genova, un legame che si estende fino al lontano 1840."
+  }
+ ],
+ "checked": "2026-11-20 Builder strict gate (isd_upload_2011.json)",
+ "case": "B",
+ "logo": "../assets/leads/gruppo-scerni/logo.jpg"
+}
