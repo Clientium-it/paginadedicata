@@ -1,0 +1,28 @@
+{
+ "slug": "manitowoc-crane-group-italy",
+ "company": "Manitowoc Crane Group Italy",
+ "first_name": "Gianluigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Manitowoc Crane Group Italy costruite gru fuoristrada Grove e gru automontanti Potain. Qui trova come lavoriamo e cosa potremmo fare per Manitowoc Crane Group Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Manitowoc Crane Group Italy.",
+ "evidence": [
+  {
+   "claim": "In Manitowoc Crane Group Italy costruite gru fuoristrada Grove e gru automontanti Potain.",
+   "url": "https://www.manitowoc.com/company/news/niella-tanaro-plant-begins-production-grove-grt8120-rough-terrain-cranes",
+   "quote": "The plant specializes in building Grove rough-terrain and Potain self-erecting cranes."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

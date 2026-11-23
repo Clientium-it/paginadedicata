@@ -1,0 +1,28 @@
+{
+ "slug": "sun-chemical-group",
+ "company": "SUN Chemical Group",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In SUN Chemical Group offrite inchiostri da stampa, rivestimenti, adesivi e forniture. Qui trova come lavoriamo e cosa potremmo fare per SUN Chemical Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SUN Chemical Group.",
+ "evidence": [
+  {
+   "claim": "In SUN Chemical Group offrite inchiostri da stampa, rivestimenti, adesivi e forniture.",
+   "url": "https://www.sunchemical.com",
+   "quote": "printing inks, coatings, adhesives and supplies for the packaging, publication, commercial, industrial, and digital markets"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

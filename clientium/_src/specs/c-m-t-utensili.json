@@ -1,0 +1,28 @@
+{
+ "slug": "c-m-t-utensili",
+ "company": "C.m.t. Utensili",
+ "first_name": "Simona",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In C.m.t. Utensili producete utensili da taglio per la lavorazione industriale del legno. Qui trova come lavoriamo e cosa potremmo fare per C.m.t. Utensili.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per C.m.t. Utensili.",
+ "evidence": [
+  {
+   "claim": "In C.m.t. Utensili producete utensili da taglio per la lavorazione industriale del legno.",
+   "url": "https://www.cmtorangetools.com/na-en/company",
+   "quote": "CMT products are manufactured for industrial applications and woodworking cutting tools are utilized by world leading furniture makers, kitchen manufacturers and CNC machinery manufacturers"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

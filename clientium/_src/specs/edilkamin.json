@@ -1,0 +1,28 @@
+{
+ "slug": "edilkamin",
+ "company": "Edilkamin",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Edilkamin offrite soluzioni a pellet e legna per ogni esigenza di riscaldamento. Qui trova come lavoriamo e cosa potremmo fare per Edilkamin.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Edilkamin.",
+ "evidence": [
+  {
+   "claim": "In Edilkamin offrite soluzioni a pellet e legna per ogni esigenza di riscaldamento.",
+   "url": "http://edilkamin.com/it/index.html",
+   "quote": "Dal 1963, Edilkamin offre le soluzioni a pellet e legna più adatte per ogni esigenza di riscaldamento."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

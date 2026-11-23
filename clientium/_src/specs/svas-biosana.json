@@ -1,0 +1,28 @@
+{
+ "slug": "svas-biosana",
+ "company": "Svas Biosana",
+ "first_name": "Eduardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Svas Biosana avete tre stabilimenti produttivi in Italia e siete presenti in cinque paesi. Qui trova come lavoriamo e cosa potremmo fare per Svas Biosana.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Svas Biosana.",
+ "evidence": [
+  {
+   "claim": "In Svas Biosana avete tre stabilimenti produttivi in Italia e siete presenti in cinque paesi.",
+   "url": "https://www.svas.it/chi-siamo/",
+   "quote": "3 stabilimenti produttivi in Italia ed è presente direttamente in 5 paesi"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

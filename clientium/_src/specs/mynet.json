@@ -1,0 +1,28 @@
+{
+ "slug": "mynet",
+ "company": "Mynet",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Mynet offrite accessi e transiti IP anche dove la banda larga non arriva. Qui trova come lavoriamo e cosa potremmo fare per Mynet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mynet.",
+ "evidence": [
+  {
+   "claim": "In Mynet offrite accessi e transiti IP anche dove la banda larga non arriva.",
+   "url": "http://www.mynet.it/",
+   "quote": "accessi e transiti IP di qualità, anche in aree non coperte da (ultra)broadband"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

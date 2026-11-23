@@ -1,0 +1,28 @@
+{
+ "slug": "ine",
+ "company": "INE",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In INE offrite fili, saldatrici e ora anche accessori. Qui trova come lavoriamo e cosa potremmo fare per INE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per INE.",
+ "evidence": [
+  {
+   "claim": "In INE offrite fili, saldatrici e ora anche accessori.",
+   "url": "https://www.ine.it/en/company",
+   "quote": "Its range of products has gradually increased, first with wires, then welding machines, and now includes accessories."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

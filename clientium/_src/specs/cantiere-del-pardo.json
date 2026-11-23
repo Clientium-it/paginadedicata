@@ -1,0 +1,28 @@
+{
+ "slug": "cantiere-del-pardo",
+ "company": "Cantiere del Pardo",
+ "first_name": "Carola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Cantiere del Pardo realizzate barche a vela sportive e yacht a motore di lusso facili da gestire. Qui trova come lavoriamo e cosa potremmo fare per Cantiere del Pardo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cantiere del Pardo.",
+ "evidence": [
+  {
+   "claim": "In Cantiere del Pardo realizzate barche a vela sportive e yacht a motore di lusso facili da gestire.",
+   "url": "https://cantieredelpardo.com/company/our-heritage/",
+   "quote": "dedicated to creating sporty sailboats and luxury power yachts that are easy to handle"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

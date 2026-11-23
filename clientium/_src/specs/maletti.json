@@ -1,0 +1,28 @@
+{
+ "slug": "maletti",
+ "company": "Maletti",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Maletti progettate e commercializzate arredi di alta qualità per saloni di parrucchieri. Qui trova come lavoriamo e cosa potremmo fare per Maletti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Maletti.",
+ "evidence": [
+  {
+   "claim": "In Maletti progettate e commercializzate arredi di alta qualità per saloni di parrucchieri.",
+   "url": "https://maletti.it/azienda/",
+   "quote": "Maletti progetta e commercializza arredi di alta qualità per saloni di bellezza dei parrucchieri."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

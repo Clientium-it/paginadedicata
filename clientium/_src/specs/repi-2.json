@@ -1,0 +1,28 @@
+{
+ "slug": "repi-2",
+ "company": "Repi",
+ "first_name": "Emanuela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Repi producete dispersioni di pigmenti e carbon black ad alte prestazioni. Qui trova come lavoriamo e cosa potremmo fare per Repi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Repi.",
+ "evidence": [
+  {
+   "claim": "In Repi producete dispersioni di pigmenti e carbon black ad alte prestazioni.",
+   "url": "https://repi.com",
+   "quote": "Dispersioni di pigmenti e carbon black ad alte prestazioni"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

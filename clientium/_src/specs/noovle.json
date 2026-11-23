@@ -1,0 +1,28 @@
+{
+ "slug": "noovle",
+ "company": "Noovle",
+ "first_name": "Elisabetta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Noovle offrite alle aziende tutti gli elementi hardware e software per abilitare il cloud computing. Qui trova come lavoriamo e cosa potremmo fare per Noovle.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Noovle.",
+ "evidence": [
+  {
+   "claim": "In Noovle offrite alle aziende tutti gli elementi hardware e software per abilitare il cloud computing.",
+   "url": "https://www.noovle.com",
+   "quote": "tutti gli elementi hardware e software necessari alle Aziende per abilitare il cloud computing"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

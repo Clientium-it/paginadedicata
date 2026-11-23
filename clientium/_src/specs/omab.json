@@ -1,0 +1,28 @@
+{
+ "slug": "omab",
+ "company": "Omab",
+ "first_name": "Bruno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Omab producete minuterie di precisione e componenti in strip ad alta velocità. Qui trova come lavoriamo e cosa potremmo fare per Omab.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Omab.",
+ "evidence": [
+  {
+   "claim": "In Omab producete minuterie di precisione e componenti in strip ad alta velocità.",
+   "url": "https://omab.eu",
+   "quote": "produzione ad alta velocità di minuterie di precisione e componenti in strip, oltre a elementi strutturali, staffe, cover e oggetti imbutiti"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "p-e-labellers-4",
+ "company": "P.e. Labellers",
+ "first_name": "Bogdan",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In P.e. Labellers da cinquant'anni offrite soluzioni automatizzate flessibili e modulari. Qui trova come lavoriamo e cosa potremmo fare per P.e. Labellers.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per P.e. Labellers.",
+ "evidence": [
+  {
+   "claim": "In P.e. Labellers da cinquant'anni offrite soluzioni automatizzate flessibili e modulari.",
+   "url": "https://www.pelabellers.com",
+   "quote": "For 50 years we've been adding value to your offering with our flexible and modular automated solutions"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

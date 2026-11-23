@@ -1,0 +1,28 @@
+{
+ "slug": "simex-engineering",
+ "company": "Simex Engineering",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Simex Engineering producete attrezzature idrauliche per macchine movimento terra. Qui trova come lavoriamo e cosa potremmo fare per Simex Engineering.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Simex Engineering.",
+ "evidence": [
+  {
+   "claim": "In Simex Engineering producete attrezzature idrauliche per macchine movimento terra.",
+   "url": "https://www.simex.it",
+   "quote": "ATTREZZATURE IDRAULICHE PER MACCHINE MOVIMENTO TERRA. Simex è il partner tecnologico di riferimento per moltissime destinazioni applicative, anche le più complesse."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

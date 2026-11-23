@@ -1,0 +1,28 @@
+{
+ "slug": "more-2",
+ "company": "More",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In More offrite tecnologie di iniezione di ossigeno, carbone e calce per forni elettrici ad arco. Qui trova come lavoriamo e cosa potremmo fare per More.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per More.",
+ "evidence": [
+  {
+   "claim": "In More offrite tecnologie di iniezione di ossigeno, carbone e calce per forni elettrici ad arco.",
+   "url": "https://more-oxy.com",
+   "quote": "OXYGEN, CARBON AND LIME INJECTION TECHNOLOGY FOR EAF"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

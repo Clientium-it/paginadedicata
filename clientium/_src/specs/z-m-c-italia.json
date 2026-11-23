@@ -1,0 +1,28 @@
+{
+ "slug": "z-m-c-italia",
+ "company": "Z.m.c. Italia",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Z.m.c. Italia dal 1954 realizzate catene di trasporto industriali su misura. Qui trova come lavoriamo e cosa potremmo fare per Z.m.c. Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Z.m.c. Italia.",
+ "evidence": [
+  {
+   "claim": "In Z.m.c. Italia dal 1954 realizzate catene di trasporto industriali su misura.",
+   "url": "https://www.zmc.it",
+   "quote": "Dal 1954 Catene di Trasporto Industriali su misura"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

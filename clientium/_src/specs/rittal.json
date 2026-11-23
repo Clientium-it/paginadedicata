@@ -1,0 +1,28 @@
+{
+ "slug": "rittal",
+ "company": "Rittal",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Rittal siete la filiale italiana di un gruppo tedesco leader nell'automazione industriale. Qui trova come lavoriamo e cosa potremmo fare per Rittal.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rittal.",
+ "evidence": [
+  {
+   "claim": "In Rittal siete la filiale italiana di un gruppo tedesco leader nell'automazione industriale.",
+   "url": "https://www.rittal.com/it-it/",
+   "quote": "È la filiale italiana del Gruppo Internazionale tedesco Rittal, leader mondiale nel settore dell'automazione industriale."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

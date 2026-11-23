@@ -1,0 +1,28 @@
+{
+ "slug": "comet-2",
+ "company": "Comet",
+ "first_name": "Erika",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Comet producete nastri adesivi per l'automotive, l'industria, gli artigiani professionisti e i consumatori. Qui trova come lavoriamo e cosa potremmo fare per Comet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Comet.",
+ "evidence": [
+  {
+   "claim": "In Comet producete nastri adesivi per l'automotive, l'industria, gli artigiani professionisti e i consumatori.",
+   "url": "https://www.tesa.com/en-us/about-tesa/locations-subsidiaries/tesa-plant-concagno",
+   "quote": "The site produces adhesive tapes for the automotive industry, industrial applications, professional craftsmen, and end users."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

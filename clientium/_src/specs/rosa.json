@@ -1,0 +1,28 @@
+{
+ "slug": "rosa",
+ "company": "Rosa",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Rosa lavorate in conto terzi, producete e vendete prodotti e materiali plastici. Qui trova come lavoriamo e cosa potremmo fare per Rosa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rosa.",
+ "evidence": [
+  {
+   "claim": "In Rosa lavorate in conto terzi, producete e vendete prodotti e materiali plastici.",
+   "url": "https://www.rosagroup.com/en/company/history.html",
+   "quote": "Over the years, the Rosa Group has established itself in the field of subcontracting, manufacturing and sales of plastic products and plastic material."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

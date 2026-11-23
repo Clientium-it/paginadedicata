@@ -1,0 +1,28 @@
+{
+ "slug": "irce",
+ "company": "Irce",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Irce producete fili smaltati per macchine elettriche e cavi isolati per il trasporto di energia. Qui trova come lavoriamo e cosa potremmo fare per Irce.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Irce.",
+ "evidence": [
+  {
+   "claim": "In Irce producete fili smaltati per macchine elettriche e cavi isolati per il trasporto di energia.",
+   "url": "https://www.irce.it/ita/storia.php",
+   "quote": "IRCE è un gruppo industriale di rilevanza europea, con due aree di attività: conduttori per avvolgimento di macchine elettriche, comunemente chiamati fili smaltati; cavi isolati per il trasporto di energia"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "shimadzu-italia",
+ "company": "Shimadzu Italia",
+ "first_name": "Mattia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Shimadzu Italia offrite strumenti analitici per la ricerca, lo sviluppo e il controllo qualità. Qui trova come lavoriamo e cosa potremmo fare per Shimadzu Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Shimadzu Italia.",
+ "evidence": [
+  {
+   "claim": "In Shimadzu Italia offrite strumenti analitici per la ricerca, lo sviluppo e il controllo qualità.",
+   "url": "https://www.shimadzu.it/azienda",
+   "quote": "strumenti analitici indispensabili per la ricerca, lo sviluppo e il controllo qualità"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

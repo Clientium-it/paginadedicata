@@ -1,0 +1,28 @@
+{
+ "slug": "omp-2",
+ "company": "OMP",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In OMP offrite soluzioni complete per sedute e tavoli destinati a uffici, spazi collettivi e ambienti professionali. Qui trova come lavoriamo e cosa potremmo fare per OMP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OMP.",
+ "evidence": [
+  {
+   "claim": "In OMP offrite soluzioni complete per sedute e tavoli destinati a uffici, spazi collettivi e ambienti professionali.",
+   "url": "https://ompgroup.com",
+   "quote": "Soluzioni complete per la realizzazione di sedute e tavoli destinati a uffici, spazi collettivi e ambienti professionali."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

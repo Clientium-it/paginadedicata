@@ -1,0 +1,28 @@
+{
+ "slug": "digitalplatforms-s-p-a-o",
+ "company": "Digitalplatforms S.p.a. O",
+ "first_name": "Pierpaolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Digitalplatforms S.p.a. O sviluppate soluzioni di diagnostica e intelligenza operativa per operatori di reti carrier grade. Qui trova come lavoriamo e cosa potremmo fare per Digitalplatforms S.p.a. O.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Digitalplatforms S.p.a. O.",
+ "evidence": [
+  {
+   "claim": "In Digitalplatforms S.p.a. O sviluppate soluzioni di diagnostica e intelligenza operativa per operatori di reti carrier grade.",
+   "url": "https://dplatforms.it",
+   "quote": "Offriamo competenze trasversali per la costruzione e l'interconnessione di reti con accesso Telco e connettività multisettoriale, plasmando soluzioni avanzate di Diagnostica e Intelligenza Operativa per operatori di reti carrier-grade."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

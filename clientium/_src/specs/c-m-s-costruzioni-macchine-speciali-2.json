@@ -1,0 +1,28 @@
+{
+ "slug": "c-m-s-costruzioni-macchine-speciali-2",
+ "company": "C.m.s. Costruzioni Macchine Speciali",
+ "first_name": "Angelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In C.m.s. Costruzioni Macchine Speciali producete centri di lavoro multiasse a controllo numerico, termoformatrici e sistemi di taglio waterjet. Qui trova come lavoriamo e cosa potremmo fare per C.m.s. Costruzioni Macchine Speciali.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per C.m.s. Costruzioni Macchine Speciali.",
+ "evidence": [
+  {
+   "claim": "In C.m.s. Costruzioni Macchine Speciali producete centri di lavoro multiasse a controllo numerico, termoformatrici e sistemi di taglio waterjet.",
+   "url": "https://www.cms.it",
+   "quote": "specialized in the production of numerically controlled multi-axis machining centers, thermoforming machines and waterjet cutting systems"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

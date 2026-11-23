@@ -1,0 +1,28 @@
+{
+ "slug": "ilip",
+ "company": "Ilip",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Ilip realizzate imballaggi innovativi in plastica termoformata, RPET e bioplastica. Qui trova come lavoriamo e cosa potremmo fare per Ilip.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ilip.",
+ "evidence": [
+  {
+   "claim": "In Ilip realizzate imballaggi innovativi in plastica termoformata, RPET e bioplastica.",
+   "url": "https://www.ilip.it/chi-siamo/",
+   "quote": "soluzioni d'imballaggio innovative realizzate in plastica termoformata, R-PET e bioplastica"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "mecc-2000",
+ "company": "Mecc 2000",
+ "first_name": "Ezio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Mecc 2000 progettate e realizzate prodotti assemblati finiti complessi, producendo internamente tutti i semilavorati. Qui trova come lavoriamo e cosa potremmo fare per Mecc 2000.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mecc 2000.",
+ "evidence": [
+  {
+   "claim": "In Mecc 2000 progettate e realizzate prodotti assemblati finiti complessi, producendo internamente tutti i semilavorati.",
+   "url": "https://mecc2000.com",
+   "quote": "progetta e realizza prodotti assemblati finiti di grande complessità, producendo internamente tutti i semilavorati"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

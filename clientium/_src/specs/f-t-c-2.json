@@ -1,0 +1,28 @@
+{
+ "slug": "f-t-c-2",
+ "company": "F.t.c",
+ "first_name": "Chiara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In F.t.c producete cavi elettrici speciali a bassa tensione su misura per diversi settori industriali. Qui trova come lavoriamo e cosa potremmo fare per F.t.c.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per F.t.c.",
+ "evidence": [
+  {
+   "claim": "In F.t.c producete cavi elettrici speciali a bassa tensione su misura per diversi settori industriali.",
+   "url": "https://www.ftc-cavi.com/azienda",
+   "quote": "FTC è nata per produrre cavi elettrici speciali a bassa tensione -tailor made- con un unico intento: offrire competenze, tecnologia, qualità e un servizio eccellente a tutti i suoi clienti operanti nei più disparati settori industriali e mercati di riferimento."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

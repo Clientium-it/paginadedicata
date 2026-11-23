@@ -1,0 +1,28 @@
+{
+ "slug": "dalmine-logistic-solutions",
+ "company": "Dalmine Logistic Solutions",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Dalmine Logistic Solutions progettate e producete scaffalature zincate per lo stoccaggio e l'organizzazione di magazzini e ambienti logistici. Qui trova come lavoriamo e cosa potremmo fare per Dalmine Logistic Solutions.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dalmine Logistic Solutions.",
+ "evidence": [
+  {
+   "claim": "In Dalmine Logistic Solutions progettate e producete scaffalature zincate per lo stoccaggio e l'organizzazione di magazzini e ambienti logistici.",
+   "url": "https://dalminels.com",
+   "quote": "ci permettono di progettare e produrre scaffalature zincate per rispondere alle diverse esigenze di stoccaggio e organizzazione di magazzini e ambienti logistici"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "hydro-building-systems-atessa",
+ "company": "Hydro Building Systems Atessa",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Hydro Building Systems Atessa vi occupate di rifusione, estrusione e tecnologie a taglio termico. Qui trova come lavoriamo e cosa potremmo fare per Hydro Building Systems Atessa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hydro Building Systems Atessa.",
+ "evidence": [
+  {
+   "claim": "In Hydro Building Systems Atessa vi occupate di rifusione, estrusione e tecnologie a taglio termico.",
+   "url": "https://www.hydro.com/en/global/about-hydro/hydro-worldwide/europe/italy/atessa/hydro-building-systems-atessa/",
+   "quote": "Atessa is a key production site focused on remelting, extrusion, and thermal break technologies within Hydro Building Systems' Italian industrial network"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

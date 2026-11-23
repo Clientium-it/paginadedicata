@@ -1,0 +1,28 @@
+{
+ "slug": "tecno-gaz",
+ "company": "Tecno-gaz",
+ "first_name": "Ivan",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Tecno-gaz producete apparecchiature e dispositivi per migliorare il lavoro dei professionisti del settore. Qui trova come lavoriamo e cosa potremmo fare per Tecno-gaz.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecno-gaz.",
+ "evidence": [
+  {
+   "claim": "In Tecno-gaz producete apparecchiature e dispositivi per migliorare il lavoro dei professionisti del settore.",
+   "url": "https://www.tecnogaz.com/tecnogaz2021/profile.aspx?id=3826&key=&pkey=",
+   "quote": "orientata alla produzione di apparecchiature e dispositivi per il miglioramento operativo dei professionisti del settore"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

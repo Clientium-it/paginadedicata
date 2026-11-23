@@ -1,0 +1,28 @@
+{
+ "slug": "comelz",
+ "company": "Comelz",
+ "first_name": "Richard",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Comelz siete stati tra i primi a integrare l'elettronica e le macchine CNC nelle linee di produzione. Qui trova come lavoriamo e cosa potremmo fare per Comelz.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Comelz.",
+ "evidence": [
+  {
+   "claim": "In Comelz siete stati tra i primi a integrare l'elettronica e le macchine CNC nelle linee di produzione.",
+   "url": "https://www.comelz.com",
+   "quote": "Comelz è rinomata per essere una delle prime aziende a integrare l'elettronica nelle proprie linee di produzione e tra le prime a utilizzare macchine CNC e apparecchiature per la produzione computerizzata."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

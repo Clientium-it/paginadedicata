@@ -1,0 +1,28 @@
+{
+ "slug": "mastelli-3",
+ "company": "Mastelli",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Mastelli ricercate, sviluppate e producete polidesossiribonucleotidi PDRN e polinucleotidi PN HPT®. Qui trova come lavoriamo e cosa potremmo fare per Mastelli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mastelli.",
+ "evidence": [
+  {
+   "claim": "In Mastelli ricercate, sviluppate e producete polidesossiribonucleotidi PDRN e polinucleotidi PN HPT®.",
+   "url": "https://mastelli.com",
+   "quote": "Mastelli is a leading Italian pharmaceutical company specializing in the research, development, and production of polydeoxyribonucleotides, PDRN, and Polynucleotides High Purification Technology, PN HPT®."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

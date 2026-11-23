@@ -1,0 +1,28 @@
+{
+ "slug": "fpz-2",
+ "company": "FPZ",
+ "first_name": "Edoardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In FPZ progettate e producete soffianti a canale laterale, pompe dosatrici e ventilatori industriali. Qui trova come lavoriamo e cosa potremmo fare per FPZ.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FPZ.",
+ "evidence": [
+  {
+   "claim": "In FPZ progettate e producete soffianti a canale laterale, pompe dosatrici e ventilatori industriali.",
+   "url": "https://www.fpz.com/",
+   "quote": "We design and manufacture technically advanced fluid handling systems, including side channel blowers, Doseuro dosing pumps, and Arivent industrial fans."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

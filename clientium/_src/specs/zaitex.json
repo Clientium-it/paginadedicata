@@ -1,0 +1,28 @@
+{
+ "slug": "zaitex",
+ "company": "Zaitex",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Zaitex fornite coloranti, ausiliari e additivi per la tintura e il finissaggio dei tessuti. Qui trova come lavoriamo e cosa potremmo fare per Zaitex.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Zaitex.",
+ "evidence": [
+  {
+   "claim": "In Zaitex fornite coloranti, ausiliari e additivi per la tintura e il finissaggio dei tessuti.",
+   "url": "https://zaitex.com/it/azienda/",
+   "quote": "Oggi ZAITEX fornisce a diversi settori industriali coloranti, ausiliari e additivi, in particolare quelli per la tintura e il finissaggio dei tessuti, ma anche soluzioni per la tintura del cuoio e la colorazione di inchiostri, vernici e spalmature."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

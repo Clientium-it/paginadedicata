@@ -1,0 +1,28 @@
+{
+ "slug": "prima-industrie-4",
+ "company": "Prima Industrie",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Prima Industrie producete macchine ad alte prestazioni per la lavorazione della lamiera. Qui trova come lavoriamo e cosa potremmo fare per Prima Industrie.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Prima Industrie.",
+ "evidence": [
+  {
+   "claim": "In Prima Industrie producete macchine ad alte prestazioni per la lavorazione della lamiera.",
+   "url": "https://www.primapower.com",
+   "quote": "high-performance machines and targeted automated solutions to enhance productivity in sheet metal working"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "cacini-c",
+ "company": "Cacini & C",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Cacini & C operate nell'automazione, nel controllo di processo e nell'impiantistica industriale e navale. Qui trova come lavoriamo e cosa potremmo fare per Cacini & C.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cacini & C.",
+ "evidence": [
+  {
+   "claim": "In Cacini & C operate nell'automazione, nel controllo di processo e nell'impiantistica industriale e navale.",
+   "url": "https://cacinispa.com",
+   "quote": "Operiamo nel settore dell'automazione, del controllo di processo e dell'impiantistica, sia in ambito industriale che navale."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

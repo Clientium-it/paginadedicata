@@ -1,0 +1,28 @@
+{
+ "slug": "g-i-industrial-holding",
+ "company": "G.i. Industrial Holding",
+ "first_name": "Carl",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In G.i. Industrial Holding con Montair siete un riferimento nella climatizzazione di precisione da 40 anni. Qui trova come lavoriamo e cosa potremmo fare per G.i. Industrial Holding.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per G.i. Industrial Holding.",
+ "evidence": [
+  {
+   "claim": "In G.i. Industrial Holding con Montair siete un riferimento nella climatizzazione di precisione da 40 anni.",
+   "url": "https://gind.it",
+   "quote": "For 40 years MONTAIR, one of the four Group brands, has been the name of excellence in precision air conditioning"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

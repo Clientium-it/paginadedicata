@@ -1,0 +1,28 @@
+{
+ "slug": "pharmanutra",
+ "company": "Pharmanutra",
+ "first_name": "Chiara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Pharmanutra sviluppate integratori alimentari e dispositivi medici nella scienza nutraceutica. Qui trova come lavoriamo e cosa potremmo fare per Pharmanutra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pharmanutra.",
+ "evidence": [
+  {
+   "claim": "In Pharmanutra sviluppate integratori alimentari e dispositivi medici nella scienza nutraceutica.",
+   "url": "https://www.pharmanutra.it/chi-siamo/",
+   "quote": "Ci dedichiamo al progresso della scienza nutraceutica e allo sviluppo di integratori alimentari e dispositivi medici efficaci"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

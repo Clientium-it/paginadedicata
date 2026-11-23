@@ -1,0 +1,28 @@
+{
+ "slug": "mapal-italia",
+ "company": "Mapal Italia",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Mapal Italia producete utensili ISO e PCD e punte in metallo duro integrale. Qui trova come lavoriamo e cosa potremmo fare per Mapal Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mapal Italia.",
+ "evidence": [
+  {
+   "claim": "In Mapal Italia producete utensili ISO e PCD e punte in metallo duro integrale.",
+   "url": "https://mapal.com/en/mapal-career/sites/gessate",
+   "quote": "ISO and PCD tools as well as solid carbide drills"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

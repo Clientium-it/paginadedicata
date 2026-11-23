@@ -1,0 +1,28 @@
+{
+ "slug": "tecno-gi-2",
+ "company": "Tecno GI",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Tecno GI producete materiali per puntali e contrafforti e rinforzi per calzature e pelletteria. Qui trova come lavoriamo e cosa potremmo fare per Tecno GI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecno GI.",
+ "evidence": [
+  {
+   "claim": "In Tecno GI producete materiali per puntali e contrafforti e rinforzi per calzature e pelletteria.",
+   "url": "https://www.tecnogi.com",
+   "quote": "Fondata nel 1979 Tecnogi è oggi leader mondiale nella produzione di materiali per puntali e contrafforti per calzature e rinforzi per calzature e pelletteria"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

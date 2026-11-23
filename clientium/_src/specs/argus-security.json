@@ -1,0 +1,28 @@
+{
+ "slug": "argus-security",
+ "company": "Argus Security",
+ "first_name": "Anuska",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Argus Security offrite un sistema di rivelazione incendi wireless e ibrido facile da configurare. Qui trova come lavoriamo e cosa potremmo fare per Argus Security.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Argus Security.",
+ "evidence": [
+  {
+   "claim": "In Argus Security offrite un sistema di rivelazione incendi wireless e ibrido facile da configurare.",
+   "url": "https://argussecurity.it",
+   "quote": "The newest, incredibly powerful and easy-to-configure EN54-25 wireless and hybrid fire detection system on the market today"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "gvs-5",
+ "company": "GVS",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In GVS siete passati da componenti per il settore sanitario a soluzioni di filtrazione diversificate. Qui trova come lavoriamo e cosa potremmo fare per GVS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GVS.",
+ "evidence": [
+  {
+   "claim": "In GVS siete passati da componenti per il settore sanitario a soluzioni di filtrazione diversificate.",
+   "url": "https://www.gvs.com/en/company/who-we-are/",
+   "quote": "In over 40 years of history, GVS has evolved from a supplier of components for the healthcare sector to a global Group that produces highly technological diversified filtration solutions"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

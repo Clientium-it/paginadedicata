@@ -1,0 +1,28 @@
+{
+ "slug": "red-hat",
+ "company": "RED HAT",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In RED HAT fornite soluzioni software open source pensate per le aziende. Qui trova come lavoriamo e cosa potremmo fare per RED HAT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RED HAT.",
+ "evidence": [
+  {
+   "claim": "In RED HAT fornite soluzioni software open source pensate per le aziende.",
+   "url": "https://www.redhat.com/it",
+   "quote": "Red Hat è leader nella fornitura di soluzioni software open source pensate per le aziende"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

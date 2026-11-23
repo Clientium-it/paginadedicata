@@ -1,0 +1,28 @@
+{
+ "slug": "terumo-italia",
+ "company": "Terumo Italia",
+ "first_name": "Christian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Terumo Italia portate soluzioni di valore negli ambienti sanitari attraverso cinque business. Qui trova come lavoriamo e cosa potremmo fare per Terumo Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Terumo Italia.",
+ "evidence": [
+  {
+   "claim": "In Terumo Italia portate soluzioni di valore negli ambienti sanitari attraverso cinque business.",
+   "url": "https://www.terumo-europe.com",
+   "quote": "We bring solutions of value to medical settings through five businesses."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

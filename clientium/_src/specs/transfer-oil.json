@@ -1,0 +1,28 @@
+{
+ "slug": "transfer-oil",
+ "company": "Transfer OIL",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Transfer OIL producete tubi termoplastici rinforzati, raccordi e assemblati per applicazioni gravose. Qui trova come lavoriamo e cosa potremmo fare per Transfer OIL.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Transfer OIL.",
+ "evidence": [
+  {
+   "claim": "In Transfer OIL producete tubi termoplastici rinforzati, raccordi e assemblati per applicazioni gravose.",
+   "url": "https://transferoil.com",
+   "quote": "reinforced thermoplastic hoses, fittings and hose assemblies engineered for demanding applications"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

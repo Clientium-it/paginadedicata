@@ -1,0 +1,28 @@
+{
+ "slug": "m-g-lavorazione-materie-plastiche",
+ "company": "M.g. Lavorazione Materie Plastiche",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In M.g. Lavorazione Materie Plastiche producete film flessibili da 7 a 1000 micron, fino a 11 strati. Qui trova come lavoriamo e cosa potremmo fare per M.g. Lavorazione Materie Plastiche.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per M.g. Lavorazione Materie Plastiche.",
+ "evidence": [
+  {
+   "claim": "In M.g. Lavorazione Materie Plastiche producete film flessibili da 7 a 1000 micron, fino a 11 strati.",
+   "url": "https://mg-spa.it/",
+   "quote": "produciamo film flessibili da 7 a 1000 micron, fino a 11 strati, con molteplici proprietà"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

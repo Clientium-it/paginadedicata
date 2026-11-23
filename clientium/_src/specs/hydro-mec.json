@@ -1,0 +1,28 @@
+{
+ "slug": "hydro-mec",
+ "company": "Hydro-mec",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Hydro-mec producete riduttori coassiali, pendolari, a vite senza fine e riduttori speciali. Qui trova come lavoriamo e cosa potremmo fare per Hydro-mec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hydro-mec.",
+ "evidence": [
+  {
+   "claim": "In Hydro-mec producete riduttori coassiali, pendolari, a vite senza fine e riduttori speciali.",
+   "url": "https://hydromec.com/it/company",
+   "quote": "Produciamo riduttori, coassiali in alluminio e ghisa, pendolari, a vite senza fine tondi e quadrati, riduttori speciali a richiesta, ad uno stadio, a vite senza fine con precoppia, motori elettrici etc..."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

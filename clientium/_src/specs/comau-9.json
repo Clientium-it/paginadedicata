@@ -1,0 +1,28 @@
+{
+ "slug": "comau-9",
+ "company": "Comau",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Comau progettate sistemi di automazione su misura e linee di produzione automatizzate chiavi in mano. Qui trova come lavoriamo e cosa potremmo fare per Comau.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Comau.",
+ "evidence": [
+  {
+   "claim": "In Comau progettate sistemi di automazione su misura e linee di produzione automatizzate chiavi in mano.",
+   "url": "https://www.comau.com/en/",
+   "quote": "Comau is a global industrial automation company and robotics system integrator engineering custom factory automation systems, manufacturing systems, and turnkey automated production lines."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

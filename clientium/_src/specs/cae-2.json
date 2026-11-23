@@ -1,0 +1,28 @@
+{
+ "slug": "cae-2",
+ "company": "CAE",
+ "first_name": "Armando",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In CAE progettate, realizzate e manutenete sistemi per il monitoraggio in tempo reale e l'allertamento durante le emergenze. Qui trova come lavoriamo e cosa potremmo fare per CAE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CAE.",
+ "evidence": [
+  {
+   "claim": "In CAE progettate, realizzate e manutenete sistemi per il monitoraggio in tempo reale e l'allertamento durante le emergenze.",
+   "url": "https://www.cae.it",
+   "quote": "progettiamo, realizziamo e manuteniamo sistemi affidabili ed efficaci per il monitoraggio in tempo reale, il supporto alle decisioni e l'allertamento durante le emergenze"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

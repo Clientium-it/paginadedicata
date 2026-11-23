@@ -1,0 +1,28 @@
+{
+ "slug": "tesisquare-4",
+ "company": "Tesisquare",
+ "first_name": "Guglielmo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Tesisquare offrite soluzioni dedicate alla Supply Chain per una visione completa di tutte le fasi. Qui trova come lavoriamo e cosa potremmo fare per Tesisquare.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tesisquare.",
+ "evidence": [
+  {
+   "claim": "In Tesisquare offrite soluzioni dedicate alla Supply Chain per una visione completa di tutte le fasi.",
+   "url": "https://www.tesisquare.com",
+   "quote": "offriamo soluzioni dedicate alla Supply Chain per una visione completa di tutte le fasi"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

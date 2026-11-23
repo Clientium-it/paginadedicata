@@ -1,0 +1,28 @@
+{
+ "slug": "giuliani-2",
+ "company": "Giuliani",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Giuliani fate ricerca e sviluppo in area gastroenterologica, tricologica e dermatologica. Qui trova come lavoriamo e cosa potremmo fare per Giuliani.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Giuliani.",
+ "evidence": [
+  {
+   "claim": "In Giuliani fate ricerca e sviluppo in area gastroenterologica, tricologica e dermatologica.",
+   "url": "https://giulianipharma.com/chi-siamo/",
+   "quote": "ricerca e lo sviluppo in area gastroenterologica, tricologica e dermatologica"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

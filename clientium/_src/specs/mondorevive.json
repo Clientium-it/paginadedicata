@@ -1,0 +1,28 @@
+{
+ "slug": "mondorevive",
+ "company": "Mondorevive",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Mondorevive producete film in PVC calandrato e film di PET estruso da 12 a 500 micron. Qui trova come lavoriamo e cosa potremmo fare per Mondorevive.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mondorevive.",
+ "evidence": [
+  {
+   "claim": "In Mondorevive producete film in PVC calandrato e film di PET estruso da 12 a 500 micron.",
+   "url": "https://mondorevive.com/chi-siamo",
+   "quote": "film in PVC calandrato e film di PET estruso di alta qualità, con spessori che vanno da 12 a 500 micron"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

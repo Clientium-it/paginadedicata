@@ -1,0 +1,28 @@
+{
+ "slug": "daikin-applied-europe-2",
+ "company": "Daikin Applied Europe",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Daikin Applied Europe producete e fornite componenti per impianti HVAC idronici. Qui trova come lavoriamo e cosa potremmo fare per Daikin Applied Europe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Daikin Applied Europe.",
+ "evidence": [
+  {
+   "claim": "In Daikin Applied Europe producete e fornite componenti per impianti HVAC idronici.",
+   "url": "https://www.daikinapplied.eu/about-us",
+   "quote": "manufacturing and supplying components for hydronic HVAC systems, offering premium quality, reliability and efficiency"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

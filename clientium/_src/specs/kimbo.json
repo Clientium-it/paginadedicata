@@ -1,0 +1,28 @@
+{
+ "slug": "kimbo",
+ "company": "Kimbo",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Kimbo portate il caffè di Napoli a casa. Qui trova come lavoriamo e cosa potremmo fare per Kimbo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kimbo.",
+ "evidence": [
+  {
+   "claim": "In Kimbo portate il caffè di Napoli a casa.",
+   "url": "https://www.kimbo.it",
+   "quote": "Kimbo: il caffè di Napoli a casa tua"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "fk-group-2",
+ "company": "FK Group",
+ "first_name": "David",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In FK Group avete installato oltre diecimila sistemi di produzione tra macchine da taglio, stenditori e software CAD. Qui trova come lavoriamo e cosa potremmo fare per FK Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FK Group.",
+ "evidence": [
+  {
+   "claim": "In FK Group avete installato oltre diecimila sistemi di produzione tra macchine da taglio, stenditori e software CAD.",
+   "url": "https://fkgroup.com",
+   "quote": "FKgroup has installed more than 10,000 production systems: cutting machines, spreaders and CAD software"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

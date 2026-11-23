@@ -1,0 +1,28 @@
+{
+ "slug": "piteco",
+ "company": "Piteco",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Piteco dal 1980 sviluppate software per la tesoreria. Qui trova come lavoriamo e cosa potremmo fare per Piteco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Piteco.",
+ "evidence": [
+  {
+   "claim": "In Piteco dal 1980 sviluppate software per la tesoreria.",
+   "url": "https://www.pitecolab.it/about-piteco/",
+   "quote": "Piteco deve il suo nome al sistema informativo di tesoreria PI.TE.CO. (PIanificazione TEsoreria COmputerizzata) e dal 1980 è la software house leader in Italia"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "ipm",
+ "company": "IPM",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In IPM producete macchine per l'estrusione e il confezionamento di tubi e profili in plastica. Qui trova come lavoriamo e cosa potremmo fare per IPM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IPM.",
+ "evidence": [
+  {
+   "claim": "In IPM producete macchine per l'estrusione e il confezionamento di tubi e profili in plastica.",
+   "url": "https://www.ipm-italy.it/chi-siamo/",
+   "quote": "IPM RAPPRESENTA UNA REALTA' CONSOLIDATA NELLA PRODUZIONE DI MACCHINE PER L'ESTRUSIONE ED IL CONFEZIONAMENTO DI TUBI E PROFILI IN PLASTICA."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

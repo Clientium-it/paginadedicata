@@ -1,0 +1,28 @@
+{
+ "slug": "f-a-g-artigrafiche",
+ "company": "F.a.g. Artigrafiche",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In F.a.g. Artigrafiche realizzate imballaggi ed espositori in cartone ondulato accoppiato. Qui trova come lavoriamo e cosa potremmo fare per F.a.g. Artigrafiche.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per F.a.g. Artigrafiche.",
+ "evidence": [
+  {
+   "claim": "In F.a.g. Artigrafiche realizzate imballaggi ed espositori in cartone ondulato accoppiato.",
+   "url": "https://fagartigrafiche.com",
+   "quote": "soluzioni di imballaggio e allestimento espositivo in cartone ondulato accoppiato"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

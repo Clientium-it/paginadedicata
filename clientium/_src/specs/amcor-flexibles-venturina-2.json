@@ -1,0 +1,28 @@
+{
+ "slug": "amcor-flexibles-venturina-2",
+ "company": "Amcor Flexibles Venturina",
+ "first_name": "Piotr",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Amcor Flexibles Venturina state avviando una nuova linea MDO per film CPP. Qui trova come lavoriamo e cosa potremmo fare per Amcor Flexibles Venturina.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Amcor Flexibles Venturina.",
+ "evidence": [
+  {
+   "claim": "In Amcor Flexibles Venturina state avviando una nuova linea MDO per film CPP.",
+   "url": "https://www.amcor.com/careers/job-details/122672",
+   "quote": "Lead the start-up and industrialization of our brand-new MDO production line for CPP-films"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

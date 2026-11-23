@@ -1,0 +1,28 @@
+{
+ "slug": "baumer",
+ "company": "Baumer",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Baumer realizzate macchine incartonatrici Wrap Around e macchine con film termoretraibile. Qui trova come lavoriamo e cosa potremmo fare per Baumer.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Baumer.",
+ "evidence": [
+  {
+   "claim": "In Baumer realizzate macchine incartonatrici Wrap Around e macchine con film termoretraibile.",
+   "url": "https://www.baumer.it",
+   "quote": "Dal lontano 1974 Baumer realizza macchine incartonatrici Wrap-Around e macchine con Film Termoretraibile"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

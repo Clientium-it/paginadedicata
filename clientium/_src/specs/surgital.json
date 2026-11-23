@@ -1,0 +1,28 @@
+{
+ "slug": "surgital",
+ "company": "Surgital",
+ "first_name": "Andres",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Surgital producete pasta ripiena, gnocchi, piatti pronti e sughi. Qui trova come lavoriamo e cosa potremmo fare per Surgital.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Surgital.",
+ "evidence": [
+  {
+   "claim": "In Surgital producete pasta ripiena, gnocchi, piatti pronti e sughi.",
+   "url": "https://surgital.it/azienda",
+   "quote": "Pasta Ripiena, Pasta Semplice, Pasta da Forno, Gnocchi, Bakery, Piatti pronti, Express (precotti), Sughi"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

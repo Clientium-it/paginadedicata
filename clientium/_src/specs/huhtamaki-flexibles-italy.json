@@ -1,0 +1,28 @@
+{
+ "slug": "huhtamaki-flexibles-italy",
+ "company": "Huhtamaki Flexibles Italy",
+ "first_name": "Santa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Huhtamaki Flexibles Italy offrite soluzioni per i settori food, beverage, petfood, health care e personal care. Qui trova come lavoriamo e cosa potremmo fare per Huhtamaki Flexibles Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Huhtamaki Flexibles Italy.",
+ "evidence": [
+  {
+   "claim": "In Huhtamaki Flexibles Italy offrite soluzioni per i settori food, beverage, petfood, health care e personal care.",
+   "url": "https://www.huhtamaki.com/en/flexible-packaging/",
+   "quote": "state-of-the-art solutions for food, beverage, petfood, health care, personal care, and industrial market segments"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

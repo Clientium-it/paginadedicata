@@ -1,0 +1,28 @@
+{
+ "slug": "north-sails-apparel-2",
+ "company": "North Sails Apparel",
+ "first_name": "Edilio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In North Sails Apparel siete nati dall'obiettivo di realizzare le vele da regata migliori e più veloci. Qui trova come lavoriamo e cosa potremmo fare per North Sails Apparel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per North Sails Apparel.",
+ "evidence": [
+  {
+   "claim": "In North Sails Apparel siete nati dall'obiettivo di realizzare le vele da regata migliori e più veloci.",
+   "url": "https://www.northsails.com/pages/heritage",
+   "quote": "In 1957, North Sails founder Lowell North set out to make the best and fastest racing sails the world had ever seen."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

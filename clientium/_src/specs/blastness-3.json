@@ -1,0 +1,28 @@
+{
+ "slug": "blastness-3",
+ "company": "Blastness",
+ "first_name": "Leandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Blastness pensate ogni tecnologia per far vendere di più e meglio dal sito ufficiale. Qui trova come lavoriamo e cosa potremmo fare per Blastness.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Blastness.",
+ "evidence": [
+  {
+   "claim": "In Blastness pensate ogni tecnologia per far vendere di più e meglio dal sito ufficiale.",
+   "url": "https://blastness.com",
+   "quote": "ogni tecnologia è pensata per un obiettivo chiaro: vendere di più e meglio dal tuo sito ufficiale. Con soluzioni integrate per ogni fase della customer journey e il supporto costante di professionisti specializzati"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

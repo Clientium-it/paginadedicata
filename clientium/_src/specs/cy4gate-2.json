@@ -1,0 +1,28 @@
+{
+ "slug": "cy4gate-2",
+ "company": "Cy4gate",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Cy4gate rispondete alle esigenze di sicurezza di istituzioni, aziende e operatori della difesa. Qui trova come lavoriamo e cosa potremmo fare per Cy4gate.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cy4gate.",
+ "evidence": [
+  {
+   "claim": "In Cy4gate rispondete alle esigenze di sicurezza di istituzioni, aziende e operatori della difesa.",
+   "url": "https://www.cy4gate.com/mercati/",
+   "quote": "Rispondiamo alle esigenze di sicurezza di istituzioni, aziende, gruppi corporate e operatori attivi nei settori della difesa, dell'intelligence, dell'ordine pubblico e delle infrastrutture critiche."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

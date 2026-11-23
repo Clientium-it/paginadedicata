@@ -1,0 +1,28 @@
+{
+ "slug": "oversonic-robotics",
+ "company": "Oversonic Robotics",
+ "first_name": "Sebastian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Oversonic Robotics progettate e create sistemi di cognitive computing applicati alla robotica. Qui trova come lavoriamo e cosa potremmo fare per Oversonic Robotics.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Oversonic Robotics.",
+ "evidence": [
+  {
+   "claim": "In Oversonic Robotics progettate e create sistemi di cognitive computing applicati alla robotica.",
+   "url": "https://oversonicrobotics.com",
+   "quote": "a software company specializing in designing and creating cognitive computing systems applied in the field of robotics"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

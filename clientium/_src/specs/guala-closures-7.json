@@ -1,0 +1,28 @@
+{
+ "slug": "guala-closures-7",
+ "company": "Guala Closures",
+ "first_name": "Arturo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Guala Closures producete tappi a vite funzionali, distintivi e di qualità. Qui trova come lavoriamo e cosa potremmo fare per Guala Closures.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Guala Closures.",
+ "evidence": [
+  {
+   "claim": "In Guala Closures producete tappi a vite funzionali, distintivi e di qualità.",
+   "url": "https://www.gualaclosures.com",
+   "quote": "screw caps that are at the same time functional, distinctive, and uncompromising in quality"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

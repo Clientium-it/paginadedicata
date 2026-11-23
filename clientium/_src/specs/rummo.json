@@ -1,0 +1,28 @@
+{
+ "slug": "rummo",
+ "company": "Rummo",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Rummo vi prendete tutto il tempo che serve perché la vostra pasta sia più che buona. Qui trova come lavoriamo e cosa potremmo fare per Rummo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rummo.",
+ "evidence": [
+  {
+   "claim": "In Rummo vi prendete tutto il tempo che serve perché la vostra pasta sia più che buona.",
+   "url": "https://www.pastarummo.it",
+   "quote": "Ci prendiamo tutto il tempo che serve affinché la nostra pasta sia molto più che buona"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

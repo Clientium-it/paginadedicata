@@ -1,0 +1,28 @@
+{
+ "slug": "apkappa",
+ "company": "Apkappa",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Apkappa digitalizzate i servizi comunali con piattaforme SaaS che integrano l'intelligenza artificiale. Qui trova come lavoriamo e cosa potremmo fare per Apkappa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Apkappa.",
+ "evidence": [
+  {
+   "claim": "In Apkappa digitalizzate i servizi comunali con piattaforme SaaS che integrano l'intelligenza artificiale.",
+   "url": "https://apkappa.it",
+   "quote": "Digitalizziamo i servizi comunali e, più in generale, quelli della Pubblica Amministrazione attraverso piattaforme SaaS innovative che integrano tecnologie di intelligenza artificiale"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

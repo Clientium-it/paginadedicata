@@ -1,0 +1,28 @@
+{
+ "slug": "spreafico-francesco-e-f-lli-2",
+ "company": "Spreafico Francesco e F.lli",
+ "first_name": "Diego",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Spreafico Francesco e F.lli seguite ogni fase della filiera, dalla raccolta alla distribuzione. Qui trova come lavoriamo e cosa potremmo fare per Spreafico Francesco e F.lli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Spreafico Francesco e F.lli.",
+ "evidence": [
+  {
+   "claim": "In Spreafico Francesco e F.lli seguite ogni fase della filiera, dalla raccolta alla distribuzione.",
+   "url": "https://spreafico.net/chi-siamo",
+   "quote": "dedizione e innovazione in ogni fase della filiera, dalla raccolta alla distribuzione"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

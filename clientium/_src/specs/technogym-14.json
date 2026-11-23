@@ -1,0 +1,28 @@
+{
+ "slug": "technogym-14",
+ "company": "Technogym",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Technogym offrite tecnologia, design e qualità a chi opera nel settore della salute e del wellness. Qui trova come lavoriamo e cosa potremmo fare per Technogym.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Technogym.",
+ "evidence": [
+  {
+   "claim": "In Technogym offrite tecnologia, design e qualità a chi opera nel settore della salute e del wellness.",
+   "url": "https://www.technogym.com/it/azienda/",
+   "quote": "Dal 1983, offriamo tecnologia, design e qualità ai massimi livelli a chi opera nel settore della salute e del wellness."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

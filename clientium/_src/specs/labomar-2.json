@@ -1,0 +1,28 @@
+{
+ "slug": "labomar-2",
+ "company": "Labomar",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Labomar seguite dalla ricerca alla produzione industriale integratori, dispositivi medici, cosmetici e alimenti a fini medici speciali. Qui trova come lavoriamo e cosa potremmo fare per Labomar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Labomar.",
+ "evidence": [
+  {
+   "claim": "In Labomar seguite dalla ricerca alla produzione industriale integratori, dispositivi medici, cosmetici e alimenti a fini medici speciali.",
+   "url": "https://www.labomar.com/en/about-us/",
+   "quote": "offering a complete service from R&D to the industrial-scale production of safe, effective, and unique dietary supplements, medical devices, cosmetics, and foods for special medical purposes"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

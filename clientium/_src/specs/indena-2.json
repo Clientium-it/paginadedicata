@@ -1,0 +1,28 @@
+{
+ "slug": "indena-2",
+ "company": "Indena",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Indena vi ispirate alla natura per sostenere la salute umana. Qui trova come lavoriamo e cosa potremmo fare per Indena.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Indena.",
+ "evidence": [
+  {
+   "claim": "In Indena vi ispirate alla natura per sostenere la salute umana.",
+   "url": "https://www.indena.com",
+   "quote": "Since 1921 we've been Engineering Nature, taking inspiration from Nature to support human health."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

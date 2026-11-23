@@ -1,0 +1,28 @@
+{
+ "slug": "pasqua-vigneti-e-cantine",
+ "company": "Pasqua Vigneti e Cantine",
+ "first_name": "Maria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Pasqua Vigneti e Cantine siete un'impresa vinicola veronese di famiglia, fondata nel 1925. Qui trova come lavoriamo e cosa potremmo fare per Pasqua Vigneti e Cantine.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pasqua Vigneti e Cantine.",
+ "evidence": [
+  {
+   "claim": "In Pasqua Vigneti e Cantine siete un'impresa vinicola veronese di famiglia, fondata nel 1925.",
+   "url": "https://pasqua.it/it/journal/pasqua-vini-celebra-i-suoi-100-anni-con-unode-al-futuro/",
+   "quote": "PASQUA VIGNETI E CANTINE è un'impresa vinicola veronese, di proprietà della famiglia Pasqua, fondata nel 1925"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

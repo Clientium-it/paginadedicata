@@ -1,0 +1,28 @@
+{
+ "slug": "erlacher",
+ "company": "Erlacher",
+ "first_name": "Manfred",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Erlacher curate l'arredamento d'interni di alta qualità, dal singolo mobile all'intero ambiente. Qui trova come lavoriamo e cosa potremmo fare per Erlacher.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Erlacher.",
+ "evidence": [
+  {
+   "claim": "In Erlacher curate l'arredamento d'interni di alta qualità, dal singolo mobile all'intero ambiente.",
+   "url": "https://www.erlacher.it/de/",
+   "quote": "Vom einzelnen Möbel zum gesamten Raum - wir sind der Partner für hochwertigen Innenausbau."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

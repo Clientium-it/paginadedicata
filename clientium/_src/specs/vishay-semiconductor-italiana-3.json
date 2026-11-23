@@ -1,0 +1,28 @@
+{
+ "slug": "vishay-semiconductor-italiana-3",
+ "company": "Vishay Semiconductor Italiana",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Vishay Semiconductor Italiana sviluppate semiconduttori e moduli di potenza per il mercato dei veicoli elettrici e ibridi. Qui trova come lavoriamo e cosa potremmo fare per Vishay Semiconductor Italiana.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vishay Semiconductor Italiana.",
+ "evidence": [
+  {
+   "claim": "In Vishay Semiconductor Italiana sviluppate semiconduttori e moduli di potenza per il mercato dei veicoli elettrici e ibridi.",
+   "url": "https://www.vishay.com/en/company/press/releases/2025/SVINBO/",
+   "quote": "aimed at the production of a new family of semiconductors for the EV / HEV market, in addition to an R&D project aimed at developing new diode chips for e-mobility and new power modules"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

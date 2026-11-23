@@ -1,0 +1,28 @@
+{
+ "slug": "chimar-5",
+ "company": "Chimar",
+ "first_name": "Manuel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Chimar progettate sistemi di imballaggio personalizzati per proteggere ogni tipo di merce. Qui trova come lavoriamo e cosa potremmo fare per Chimar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Chimar.",
+ "evidence": [
+  {
+   "claim": "In Chimar progettate sistemi di imballaggio personalizzati per proteggere ogni tipo di merce.",
+   "url": "https://chimar.eu",
+   "quote": "Progettiamo sistemi personalizzati per qualsiasi imballaggio. Proteggiamo ogni tipo di merce trovando sempre una soluzione su misura. Con oltre diecimila modelli siamo in grado di garantire la massima sicurezza"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

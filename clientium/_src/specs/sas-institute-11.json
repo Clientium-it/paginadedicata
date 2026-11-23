@@ -1,0 +1,28 @@
+{
+ "slug": "sas-institute-11",
+ "company": "SAS Institute",
+ "first_name": "Tonia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In SAS Institute offrite AI e analytics che danno conoscenza nei momenti che contano. Qui trova come lavoriamo e cosa potremmo fare per SAS Institute.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SAS Institute.",
+ "evidence": [
+  {
+   "claim": "In SAS Institute offrite AI e analytics che danno conoscenza nei momenti che contano.",
+   "url": "https://www.sas.com/it_it/company-information.html",
+   "quote": "Through innovative AI and analytics, SAS provides knowledge in the moments that matter."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

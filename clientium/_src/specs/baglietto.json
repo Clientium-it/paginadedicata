@@ -1,0 +1,28 @@
+{
+ "slug": "baglietto",
+ "company": "Baglietto",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Baglietto costruite ogni imbarcazione in Italia, unendo maestria artigianale e visione contemporanea. Qui trova come lavoriamo e cosa potremmo fare per Baglietto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Baglietto.",
+ "evidence": [
+  {
+   "claim": "In Baglietto costruite ogni imbarcazione in Italia, unendo maestria artigianale e visione contemporanea.",
+   "url": "https://baglietto.com/it/chi-siamo",
+   "quote": "Ogni imbarcazione nasce in Italia, frutto di maestria artigianale e visione contemporanea."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

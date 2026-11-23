@@ -1,0 +1,28 @@
+{
+ "slug": "o-m-c-r-2",
+ "company": "O.m.c.r",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In O.m.c.r producete normalizzati per stampi e progettate unità a camme. Qui trova come lavoriamo e cosa potremmo fare per O.m.c.r.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per O.m.c.r.",
+ "evidence": [
+  {
+   "claim": "In O.m.c.r producete normalizzati per stampi e progettate unità a camme.",
+   "url": "https://www.omcr.it/standard-die-components.php?lang=_it",
+   "quote": "OMCR da oltre 40 anni produce normalizzati per stampi e si distingue sul mercato per la progettazione e la produzione di unità a camme."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

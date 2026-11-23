@@ -1,0 +1,28 @@
+{
+ "slug": "so-farma-morra-2",
+ "company": "So.farma.morra",
+ "first_name": "Cristian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In So.farma.morra stoccate circa 90.000 referenze tra farmaci, parafarmaci, omeopatici e veterinari. Qui trova come lavoriamo e cosa potremmo fare per So.farma.morra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per So.farma.morra.",
+ "evidence": [
+  {
+   "claim": "In So.farma.morra stoccate circa 90.000 referenze tra farmaci, parafarmaci, omeopatici e veterinari.",
+   "url": "https://sofarmamorra.it/chi-siamo",
+   "quote": "50.000mq dedicati allo stoccaggio di circa 90.000 referenze tra farmaci, parafarmaci, prodotti omeopatici e veterinari"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "arper-3",
+ "company": "Arper",
+ "first_name": "Ulf",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Arper siete cresciuti fino a diventare una voce internazionale nel design. Qui trova come lavoriamo e cosa potremmo fare per Arper.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Arper.",
+ "evidence": [
+  {
+   "claim": "In Arper siete cresciuti fino a diventare una voce internazionale nel design.",
+   "url": "https://www.arper.com/it_IT/chi-siamo",
+   "quote": "Fondata nel 1989 a Monastier di Treviso, la nostra azienda è cresciuta fino a diventare una voce internazionale nel design"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

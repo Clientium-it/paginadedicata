@@ -1,0 +1,28 @@
+{
+ "slug": "ipas",
+ "company": "Ipas",
+ "first_name": "Stefania",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Ipas offrite impianti pubblicitari per la pubblicità esterna. Qui trova come lavoriamo e cosa potremmo fare per Ipas.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ipas.",
+ "evidence": [
+  {
+   "claim": "In Ipas offrite impianti pubblicitari per la pubblicità esterna.",
+   "url": "https://www.ipas.it",
+   "quote": "Il GRUPPO IPAS SPA è leader nella pubblicità esterna in Italia da oltre 40 anni, con più di 100.000 impianti pubblicitari disponibili"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "nice-5",
+ "company": "Nice",
+ "first_name": "Corrado",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Nice avete sistemi per cancelli, porte da garage, tende e allarmi. Qui trova come lavoriamo e cosa potremmo fare per Nice.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nice.",
+ "evidence": [
+  {
+   "claim": "In Nice avete sistemi per cancelli, porte da garage, tende e allarmi.",
+   "url": "https://www.niceforyou.com/en/pressroom/nice-marks-its-30th-anniversary-oderzo-world-history-innovation-and-excellence",
+   "quote": "for smart living, for swing gates, for sliding gates, for garage doors, for road barriers, for awnings and outdoor blinds, for indoor blinds, for shutters, for alarm systems, for control systems, for mobile apps"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

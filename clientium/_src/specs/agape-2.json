@@ -1,0 +1,28 @@
+{
+ "slug": "agape-2",
+ "company": "Agape",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Agape siete all'avanguardia nell'architettura del bagno dal 1973. Qui trova come lavoriamo e cosa potremmo fare per Agape.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Agape.",
+ "evidence": [
+  {
+   "claim": "In Agape siete all'avanguardia nell'architettura del bagno dal 1973.",
+   "url": "https://agapedesign.it",
+   "quote": "Dal 1973 Agape è all'avanguardia nell'architettura del bagno"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "cartotecnica-grafica-vicentina",
+ "company": "Cartotecnica Grafica Vicentina",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Cartotecnica Grafica Vicentina producete astucci e scatole riciclabili, espositori da terra e display da banco. Qui trova come lavoriamo e cosa potremmo fare per Cartotecnica Grafica Vicentina.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cartotecnica Grafica Vicentina.",
+ "evidence": [
+  {
+   "claim": "In Cartotecnica Grafica Vicentina producete astucci e scatole riciclabili, espositori da terra e display da banco.",
+   "url": "https://cgvpack.it",
+   "quote": "Astucci e Scatole in cartone o materie plastiche completamente riciclabili Espositori da terra e Display da banco Stampa digitale e offset"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

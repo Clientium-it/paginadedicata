@@ -1,0 +1,28 @@
+{
+ "slug": "dental-trey",
+ "company": "Dental Trey",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Dental Trey vendete online forniture dentali e odontoiatriche. Qui trova come lavoriamo e cosa potremmo fare per Dental Trey.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dental Trey.",
+ "evidence": [
+  {
+   "claim": "In Dental Trey vendete online forniture dentali e odontoiatriche.",
+   "url": "https://www.dentaltrey.it",
+   "quote": "Dental Trey, forniture dentali e odontoiatriche in vendita online"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

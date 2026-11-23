@@ -1,0 +1,28 @@
+{
+ "slug": "system-logistics-3",
+ "company": "System Logistics",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In System Logistics offrite sistemi automatici di stoccaggio, soluzioni di picking, AGV, movimentazione materiali e software. Qui trova come lavoriamo e cosa potremmo fare per System Logistics.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per System Logistics.",
+ "evidence": [
+  {
+   "claim": "In System Logistics offrite sistemi automatici di stoccaggio, soluzioni di picking, AGV, movimentazione materiali e software.",
+   "url": "https://systemlogistics.com/en/",
+   "quote": "AS/RS - Automated Storage & Retrieval Systems, Picking Solutions, AGV and Material Handling Solutions, Software"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

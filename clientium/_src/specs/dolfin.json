@@ -1,0 +1,28 @@
+{
+ "slug": "dolfin",
+ "company": "Dolfin",
+ "first_name": "Angelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Dolfin sorprendete i piccoli consumatori dal 1914 per vederli felici. Qui trova come lavoriamo e cosa potremmo fare per Dolfin.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dolfin.",
+ "evidence": [
+  {
+   "claim": "In Dolfin sorprendete i piccoli consumatori dal 1914 per vederli felici.",
+   "url": "https://dolfin.it",
+   "quote": "Dal 1914 sorprendiamo i nostri piccoli consumatori per vederli felici"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

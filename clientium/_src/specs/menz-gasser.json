@@ -1,0 +1,28 @@
+{
+ "slug": "menz-gasser",
+ "company": "Menz & Gasser",
+ "first_name": "John",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Menz & Gasser producete confetture e semilavorati di frutta e verdura. Qui trova come lavoriamo e cosa potremmo fare per Menz & Gasser.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Menz & Gasser.",
+ "evidence": [
+  {
+   "claim": "In Menz & Gasser producete confetture e semilavorati di frutta e verdura.",
+   "url": "https://www.menz-gasser.it",
+   "quote": "Produzione Di Confetture E Semilavorati Di Frutta E Verdura"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

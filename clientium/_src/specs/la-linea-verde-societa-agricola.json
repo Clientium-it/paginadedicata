@@ -1,0 +1,28 @@
+{
+ "slug": "la-linea-verde-societa-agricola",
+ "company": "La Linea Verde Societa' Agricola",
+ "first_name": "Mattia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In La Linea Verde Societa' Agricola producete insalate in busta, piatti pronti freschi vegetali e bevande fresche. Qui trova come lavoriamo e cosa potremmo fare per La Linea Verde Societa' Agricola.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per La Linea Verde Societa' Agricola.",
+ "evidence": [
+  {
+   "claim": "In La Linea Verde Societa' Agricola producete insalate in busta, piatti pronti freschi vegetali e bevande fresche.",
+   "url": "https://lalineaverde.it/azienda/",
+   "quote": "Insalate in busta, Piatti pronti freschi a base vegetale, Bevande fresche"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

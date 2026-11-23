@@ -1,0 +1,28 @@
+{
+ "slug": "ecopack-2",
+ "company": "Ecopack",
+ "first_name": "Viktoryia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Ecopack siete specializzati nella produzione di forme per la cottura. Qui trova come lavoriamo e cosa potremmo fare per Ecopack.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ecopack.",
+ "evidence": [
+  {
+   "claim": "In Ecopack siete specializzati nella produzione di forme per la cottura.",
+   "url": "https://ecopack.com/azienda/",
+   "quote": "Specializzati in produzione di forme cottura"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

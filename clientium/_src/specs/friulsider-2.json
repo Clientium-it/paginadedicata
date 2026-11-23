@@ -1,0 +1,28 @@
+{
+ "slug": "friulsider-2",
+ "company": "Friulsider",
+ "first_name": "Amanda",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Friulsider progettate e producete internamente fissaggi sicuri e innovativi. Qui trova come lavoriamo e cosa potremmo fare per Friulsider.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Friulsider.",
+ "evidence": [
+  {
+   "claim": "In Friulsider progettate e producete internamente fissaggi sicuri e innovativi.",
+   "url": "https://www.friulsider.com/en/about-us.html",
+   "quote": "FRIULSIDER designs and manufactures in-house safety and innovative fixings to meet all the demands"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

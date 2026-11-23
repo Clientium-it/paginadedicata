@@ -1,0 +1,28 @@
+{
+ "slug": "rimadesio",
+ "company": "Rimadesio",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Rimadesio producete porte, librerie, cabine armadio e sistemi per la suddivisione degli ambienti. Qui trova come lavoriamo e cosa potremmo fare per Rimadesio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rimadesio.",
+ "evidence": [
+  {
+   "claim": "In Rimadesio producete porte, librerie, cabine armadio e sistemi per la suddivisione degli ambienti.",
+   "url": "https://www.rimadesio.it",
+   "quote": "Rimadesio produce sistemi per la suddivisione degli ambienti e la definizione architettonica degli interni. Porte, porte scorrevoli, librerie e sistemi componibili per la zona giorno, cabine armadio e una collezione di complementi"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

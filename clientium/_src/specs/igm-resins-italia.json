@@ -1,0 +1,28 @@
+{
+ "slug": "igm-resins-italia",
+ "company": "IGM Resins Italia",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In IGM Resins Italia offrite fotoiniziatori, oligomeri acrilati UV e monomeri. Qui trova come lavoriamo e cosa potremmo fare per IGM Resins Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IGM Resins Italia.",
+ "evidence": [
+  {
+   "claim": "In IGM Resins Italia offrite fotoiniziatori, oligomeri acrilati UV e monomeri.",
+   "url": "https://www.igmresins.com/en/about",
+   "quote": "Photoinitiators, UV acrylate oligomers (epoxy, polyester and urethane) and monomers, Specialty acrylates, methacrylates and additives."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

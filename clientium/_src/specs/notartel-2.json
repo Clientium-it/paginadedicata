@@ -1,0 +1,28 @@
+{
+ "slug": "notartel-2",
+ "company": "Notartel",
+ "first_name": "Pasquale",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Notartel offrite prodotti e servizi tecnologici innovativi alla categoria notarile. Qui trova come lavoriamo e cosa potremmo fare per Notartel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Notartel.",
+ "evidence": [
+  {
+   "claim": "In Notartel offrite prodotti e servizi tecnologici innovativi alla categoria notarile.",
+   "url": "https://www.notartel.it/notartel/contenuti/notaio-digitale/informaticanotariato.html",
+   "quote": "Oggi Notartel è una azienda che offre prodotti e servizi innovativi di alto valore tecnologico alla categoria notarile, dialoga con la Pubblica Amministrazione e si relaziona con il settore privato per essere al passo con le innovazioni tecnologiche."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

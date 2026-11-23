@@ -1,0 +1,28 @@
+{
+ "slug": "taghleef-industries-2",
+ "company": "Taghleef Industries",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Taghleef Industries producete film per imballaggio in polipropilene, biobased e biodegradabili. Qui trova come lavoriamo e cosa potremmo fare per Taghleef Industries.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Taghleef Industries.",
+ "evidence": [
+  {
+   "claim": "In Taghleef Industries producete film per imballaggio in polipropilene, biobased e biodegradabili.",
+   "url": "https://ti-films.com",
+   "quote": "Taghleef Industries is a global manufacturer of PP-based, biobased and biodegradable packaging films"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

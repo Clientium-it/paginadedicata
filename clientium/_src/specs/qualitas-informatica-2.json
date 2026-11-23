@@ -1,0 +1,28 @@
+{
+ "slug": "qualitas-informatica-2",
+ "company": "Qualitas Informatica",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Qualitas Informatica sviluppate NET@PRO, il software MES che gestisce la produzione via web. Qui trova come lavoriamo e cosa potremmo fare per Qualitas Informatica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Qualitas Informatica.",
+ "evidence": [
+  {
+   "claim": "In Qualitas Informatica sviluppate NET@PRO, il software MES che gestisce la produzione via web.",
+   "url": "https://www.qualitas.it",
+   "quote": "NET@PRO è il software MES che gestisce la produzione tramite Web"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

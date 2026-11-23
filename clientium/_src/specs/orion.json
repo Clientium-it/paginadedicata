@@ -1,0 +1,28 @@
+{
+ "slug": "orion",
+ "company": "Orion",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Orion producete valvole in acciaio a saracinesca, globo e ritegno, oltre a valvole speciali. Qui trova come lavoriamo e cosa potremmo fare per Orion.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Orion.",
+ "evidence": [
+  {
+   "claim": "In Orion producete valvole in acciaio a saracinesca, globo e ritegno, oltre a valvole speciali.",
+   "url": "https://orionvalves.com",
+   "quote": "manufacturing a complete line of steel gate, globe and check valves, as well as a variety of specialty valves"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

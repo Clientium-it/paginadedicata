@@ -1,0 +1,28 @@
+{
+ "slug": "gnutti-carlo-3",
+ "company": "Gnutti Carlo",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Gnutti Carlo sviluppate e producete componenti per il valve train e sistemi di iniezione carburante. Qui trova come lavoriamo e cosa potremmo fare per Gnutti Carlo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gnutti Carlo.",
+ "evidence": [
+  {
+   "claim": "In Gnutti Carlo sviluppate e producete componenti per il valve train e sistemi di iniezione carburante.",
+   "url": "https://www.gnutticarlo.com",
+   "quote": "Siamo leader mondiali nello sviluppo e nella produzione di componenti per il Valve Train (gruppo bilancieri) e sistemi iniezione carburante."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

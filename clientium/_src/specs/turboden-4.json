@@ -1,0 +1,28 @@
+{
+ "slug": "turboden-4",
+ "company": "Turboden",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Turboden producete energia elettrica e termica sfruttando rinnovabili, combustibili tradizionali e calore di scarto industriale. Qui trova come lavoriamo e cosa potremmo fare per Turboden.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Turboden.",
+ "evidence": [
+  {
+   "claim": "In Turboden producete energia elettrica e termica sfruttando rinnovabili, combustibili tradizionali e calore di scarto industriale.",
+   "url": "https://www.turboden.com",
+   "quote": "generate electric and thermal power exploiting multiple sources, such as renewables (biomass, geothermal energy, solar energy), traditional fuels and waste heat from industrial processes, waste incinerators, engines or gas turbines"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

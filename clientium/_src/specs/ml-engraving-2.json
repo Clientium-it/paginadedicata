@@ -1,0 +1,28 @@
+{
+ "slug": "ml-engraving-2",
+ "company": "ML Engraving",
+ "first_name": "Silvano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In ML Engraving gestite e industrializzate anche i progetti più complessi con il processo digitale DRE. Qui trova come lavoriamo e cosa potremmo fare per ML Engraving.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ML Engraving.",
+ "evidence": [
+  {
+   "claim": "In ML Engraving gestite e industrializzate anche i progetti più complessi con il processo digitale DRE.",
+   "url": "https://mlengraving.com/en/",
+   "quote": "DRE® digital process we manage and industrialise even the most challenging projects"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

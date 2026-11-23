@@ -1,0 +1,28 @@
+{
+ "slug": "isoclima",
+ "company": "Isoclima",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Isoclima sviluppate soluzioni trasparenti avanzate che proteggono nelle condizioni più estreme. Qui trova come lavoriamo e cosa potremmo fare per Isoclima.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Isoclima.",
+ "evidence": [
+  {
+   "claim": "In Isoclima sviluppate soluzioni trasparenti avanzate che proteggono nelle condizioni più estreme.",
+   "url": "http://www.isoclimagroup.com/about-us/",
+   "quote": "Technologically advanced transparent solutions that protect and perform under the most demanding conditions"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

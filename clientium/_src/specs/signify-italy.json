@@ -1,0 +1,28 @@
+{
+ "slug": "signify-italy",
+ "company": "Signify Italy",
+ "first_name": "Danilo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Signify Italy offrite prodotti, sistemi e servizi di illuminazione a risparmio energetico. Qui trova come lavoriamo e cosa potremmo fare per Signify Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Signify Italy.",
+ "evidence": [
+  {
+   "claim": "In Signify Italy offrite prodotti, sistemi e servizi di illuminazione a risparmio energetico.",
+   "url": "https://www.signify.com/it-it/about",
+   "quote": "I nostri prodotti d'illuminazione a risparmio energetico, i sistemi e i servizi garantiscono ai clienti un'eccellente qualità della luce, maggiore sicurezza e comfort"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "vetreria-f-lli-paci",
+ "company": "Vetreria F.lli Paci",
+ "first_name": "Alessandra",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Vetreria F.lli Paci lavorate il vetro industriale e artistico dal 1959. Qui trova come lavoriamo e cosa potremmo fare per Vetreria F.lli Paci.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vetreria F.lli Paci.",
+ "evidence": [
+  {
+   "claim": "In Vetreria F.lli Paci lavorate il vetro industriale e artistico dal 1959.",
+   "url": "https://vetreriapaci.com/azienda",
+   "quote": "Il Gruppo Vetrario Paci, fondato nel lontano 1959, è una realtà importante nel settore della lavorazione del vetro sia industriale che artistico."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

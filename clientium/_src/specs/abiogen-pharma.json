@@ -1,0 +1,28 @@
+{
+ "slug": "abiogen-pharma",
+ "company": "Abiogen Pharma",
+ "first_name": "Arianna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Abiogen Pharma lavorate su metabolismo osseo, ipovitaminosi D, dolore, dermatologia e diabetologia. Qui trova come lavoriamo e cosa potremmo fare per Abiogen Pharma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Abiogen Pharma.",
+ "evidence": [
+  {
+   "claim": "In Abiogen Pharma lavorate su metabolismo osseo, ipovitaminosi D, dolore, dermatologia e diabetologia.",
+   "url": "https://www.abiogen.it",
+   "quote": "metabolismo osseo, Ipovitaminosi D, dolore, viscosupplementazione, dermatologia, respiratorio e diabetologia"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

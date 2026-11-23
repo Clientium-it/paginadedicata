@@ -1,0 +1,28 @@
+{
+ "slug": "cft-2",
+ "company": "CFT",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In CFT siete fornitori dei produttori di alimenti e bevande in diversi segmenti dell'industria alimentare. Qui trova come lavoriamo e cosa potremmo fare per CFT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CFT.",
+ "evidence": [
+  {
+   "claim": "In CFT siete fornitori dei produttori di alimenti e bevande in diversi segmenti dell'industria alimentare.",
+   "url": "https://www.cft-group.com/en",
+   "quote": "le groupe CFT est un fournisseur idéal pour les fabricants de produits alimentaires et de boissons actifs dans divers segments de l'industrie alimentaire"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "bizaway-2",
+ "company": "Bizaway",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Bizaway offrite una piattaforma per gestire i viaggi di lavoro, supportata da persone reali. Qui trova come lavoriamo e cosa potremmo fare per Bizaway.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bizaway.",
+ "evidence": [
+  {
+   "claim": "In Bizaway offrite una piattaforma per gestire i viaggi di lavoro, supportata da persone reali.",
+   "url": "https://bizaway.com",
+   "quote": "Manage business travel in one platform powered by technology and supported by real people whenever it matters."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

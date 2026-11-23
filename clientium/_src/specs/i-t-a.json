@@ -1,0 +1,28 @@
+{
+ "slug": "i-t-a",
+ "company": "I.t.a",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In I.t.a producete fili d'acciaio trafilati per cavi energia, funi di sollevamento e funi da pesca. Qui trova come lavoriamo e cosa potremmo fare per I.t.a.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per I.t.a.",
+ "evidence": [
+  {
+   "claim": "In I.t.a producete fili d'acciaio trafilati per cavi energia, funi di sollevamento e funi da pesca.",
+   "url": "https://www.steelgroup.com/it/il-gruppo/i-t-a-s-p-a",
+   "quote": "Fili d'acciaio trafilati lucidi e zincati per armatura di cavi energia e telecomunicazioni, funi di sollevamento, funi per trasporto persone, funi pesca"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

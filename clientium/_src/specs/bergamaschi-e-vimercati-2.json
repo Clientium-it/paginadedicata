@@ -1,0 +1,28 @@
+{
+ "slug": "bergamaschi-e-vimercati-2",
+ "company": "Bergamaschi e Vimercati",
+ "first_name": "Edoardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Bergamaschi e Vimercati siete tra i maggiori rivenditori di casalinghi con un marchio proprio e negozi monomarca. Qui trova come lavoriamo e cosa potremmo fare per Bergamaschi e Vimercati.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bergamaschi e Vimercati.",
+ "evidence": [
+  {
+   "claim": "In Bergamaschi e Vimercati siete tra i maggiori rivenditori di casalinghi con un marchio proprio e negozi monomarca.",
+   "url": "https://www.bervim.it/azienda",
+   "quote": "Siamo uno dei maggiori rivenditori di casalinghi in Italia, proprietari di un prestigioso marchio e di una rete di negozi di monomarca"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "fratelli-martini-secondo-luigi",
+ "company": "Fratelli Martini Secondo Luigi",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Fratelli Martini Secondo Luigi siete tra le più grandi aziende vinicole italiane a conduzione familiare. Qui trova come lavoriamo e cosa potremmo fare per Fratelli Martini Secondo Luigi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fratelli Martini Secondo Luigi.",
+ "evidence": [
+  {
+   "claim": "In Fratelli Martini Secondo Luigi siete tra le più grandi aziende vinicole italiane a conduzione familiare.",
+   "url": "https://www.fratellimartini.it/azienda",
+   "quote": "La Fratelli Martini Secondo Luigi spa, nota in Italia con il brand Casa Sant'Orsola, e nel mondo con il marchio Canti, è tra le più grandi aziende vinicole italiane a conduzione familiare."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

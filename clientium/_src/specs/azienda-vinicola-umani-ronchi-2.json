@@ -1,0 +1,28 @@
+{
+ "slug": "azienda-vinicola-umani-ronchi-2",
+ "company": "Azienda Vinicola Umani Ronchi",
+ "first_name": "Emanuele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Azienda Vinicola Umani Ronchi coltivate in biologico i vostri 210 ettari di vigna. Qui trova come lavoriamo e cosa potremmo fare per Azienda Vinicola Umani Ronchi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Azienda Vinicola Umani Ronchi.",
+ "evidence": [
+  {
+   "claim": "In Azienda Vinicola Umani Ronchi coltivate in biologico i vostri 210 ettari di vigna.",
+   "url": "https://umanironchi.com",
+   "quote": "coltiviamo in biologico i nostri 210 ettari di vigna"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

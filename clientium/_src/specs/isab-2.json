@@ -1,0 +1,28 @@
+{
+ "slug": "isab-2",
+ "company": "Isab",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Isab producete carburanti e biocarburanti, prodotti per l'industria ed elettricità. Qui trova come lavoriamo e cosa potremmo fare per Isab.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Isab.",
+ "evidence": [
+  {
+   "claim": "In Isab producete carburanti e biocarburanti, prodotti per l'industria ed elettricità.",
+   "url": "https://www.isab.com",
+   "quote": "produce carburanti e biocarburanti, prodotti per l'industria ed elettricità"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "mapel",
+ "company": "Mapel",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Mapel producete tessuti a maglia per la moda in lana, mohair e materiali sintetici. Qui trova come lavoriamo e cosa potremmo fare per Mapel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mapel.",
+ "evidence": [
+  {
+   "claim": "In Mapel producete tessuti a maglia per la moda in lana, mohair e materiali sintetici.",
+   "url": "https://www.mapel.it",
+   "quote": "Mapel specializes in the production of knitted fabrics for the fashion industry, focusing on wool, mohair wool, and synthetic materials"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

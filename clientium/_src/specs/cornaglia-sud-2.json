@@ -1,0 +1,28 @@
+{
+ "slug": "cornaglia-sud-2",
+ "company": "Cornaglia SUD",
+ "first_name": "Edoardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Cornaglia SUD offrite soluzioni tecnologiche avanzate per il mondo dell'automotive. Qui trova come lavoriamo e cosa potremmo fare per Cornaglia SUD.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cornaglia SUD.",
+ "evidence": [
+  {
+   "claim": "In Cornaglia SUD offrite soluzioni tecnologiche avanzate per il mondo dell'automotive.",
+   "url": "https://cornaglia.com",
+   "quote": "Soluzioni tecnologiche avanzate per il mondo dell'automotive"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "gtn",
+ "company": "GTN",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In GTN integrate hardware, software e servizi seguendo ogni progetto fino al lavoro quotidiano. Qui trova come lavoriamo e cosa potremmo fare per GTN.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GTN.",
+ "evidence": [
+  {
+   "claim": "In GTN integrate hardware, software e servizi seguendo ogni progetto fino al lavoro quotidiano.",
+   "url": "https://gtngroup.it/chi-siamo",
+   "quote": "Integriamo hardware, software e servizi per accompagnare ogni progetto, dalla prima esigenza alla continuità del lavoro quotidiano"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "inda-2",
+ "company": "Inda",
+ "first_name": "Veronica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Inda progettate specchi con luce come parte integrante del progetto dell'ambiente bagno. Qui trova come lavoriamo e cosa potremmo fare per Inda.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Inda.",
+ "evidence": [
+  {
+   "claim": "In Inda progettate specchi con luce come parte integrante del progetto dell'ambiente bagno.",
+   "url": "https://www.inda.net/azienda",
+   "quote": "Specchi con luce, non semplici specchi, bensì parte integrante di un progetto che riconosce allo specchio un ruolo da protagonista all'interno dell'ambiente bagno."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

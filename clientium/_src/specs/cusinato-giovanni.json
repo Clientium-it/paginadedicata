@@ -1,0 +1,28 @@
+{
+ "slug": "cusinato-giovanni",
+ "company": "Cusinato Giovanni",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Cusinato Giovanni progettate e realizzate impianti per trasporto, stoccaggio e miscelazione di prodotti granulari. Qui trova come lavoriamo e cosa potremmo fare per Cusinato Giovanni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cusinato Giovanni.",
+ "evidence": [
+  {
+   "claim": "In Cusinato Giovanni progettate e realizzate impianti per trasporto, stoccaggio e miscelazione di prodotti granulari.",
+   "url": "https://www.cusinato.com/",
+   "quote": "Dal 1964 l'azienda Cusinato Giovanni progetta e realizza impianti e macchine di alta qualità per il trasporto, lo stoccaggio e la miscelazione di prodotti granulari per l'industria alimentare e il non food."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

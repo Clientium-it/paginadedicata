@@ -1,0 +1,28 @@
+{
+ "slug": "giancarlo-perego-2",
+ "company": "Giancarlo Perego",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Giancarlo Perego producete stampi e accessori per l'industria del vetro da oltre 60 anni. Qui trova come lavoriamo e cosa potremmo fare per Giancarlo Perego.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Giancarlo Perego.",
+ "evidence": [
+  {
+   "claim": "In Giancarlo Perego producete stampi e accessori per l'industria del vetro da oltre 60 anni.",
+   "url": "http://gperego.it/en/history/",
+   "quote": "The GIANCARLO PEREGO SPA is a mould manufacturer for glass industry. With more than 60 years of history, the Company is today the biggest Italian producer of Moulds and accessories for the glass industry."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

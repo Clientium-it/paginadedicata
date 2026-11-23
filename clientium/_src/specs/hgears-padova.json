@@ -1,0 +1,28 @@
+{
+ "slug": "hgears-padova",
+ "company": "Hgears Padova",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Hgears Padova unite lavorazioni meccaniche e metallurgia delle polveri per produrre ingranaggi e componenti. Qui trova come lavoriamo e cosa potremmo fare per Hgears Padova.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hgears Padova.",
+ "evidence": [
+  {
+   "claim": "In Hgears Padova unite lavorazioni meccaniche e metallurgia delle polveri per produrre ingranaggi e componenti.",
+   "url": "https://hgears.com/technology/",
+   "quote": "is one of the few companies worldwide capable of combining Machining and Powder Metal technologies for the manufacture of gears and components."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

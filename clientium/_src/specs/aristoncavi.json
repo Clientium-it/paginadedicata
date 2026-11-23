@@ -1,0 +1,28 @@
+{
+ "slug": "aristoncavi",
+ "company": "Aristoncavi",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Aristoncavi producete cavi elettrici isolati ad alta tecnologia che alimentano lo sviluppo di oltre 50 paesi. Qui trova come lavoriamo e cosa potremmo fare per Aristoncavi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aristoncavi.",
+ "evidence": [
+  {
+   "claim": "In Aristoncavi producete cavi elettrici isolati ad alta tecnologia che alimentano lo sviluppo di oltre 50 paesi.",
+   "url": "https://aristoncavi.com",
+   "quote": "producing high-tech insulated electrical cables that today feed the development of over 50 countries worldwide"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

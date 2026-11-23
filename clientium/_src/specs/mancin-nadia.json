@@ -1,0 +1,28 @@
+{
+ "slug": "mancin-nadia",
+ "company": "Mancin Nadia",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Mancin Nadia dal 1983 portate avanti la tradizione della marinatura puntando su innovazione e servizio. Qui trova come lavoriamo e cosa potremmo fare per Mancin Nadia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mancin Nadia.",
+ "evidence": [
+  {
+   "claim": "In Mancin Nadia dal 1983 portate avanti la tradizione della marinatura puntando su innovazione e servizio.",
+   "url": "https://mancinnadia.com",
+   "quote": "Dal 1983 portiamo avanti le tradizioni della marinatura, puntando ad innovazione e servizio"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

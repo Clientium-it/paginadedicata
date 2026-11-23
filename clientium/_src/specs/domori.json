@@ -1,0 +1,28 @@
+{
+ "slug": "domori",
+ "company": "Domori",
+ "first_name": "Filippo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Domori selezionate, tostate e lavorate internamente tutte le vostre fave di cacao. Qui trova come lavoriamo e cosa potremmo fare per Domori.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Domori.",
+ "evidence": [
+  {
+   "claim": "In Domori selezionate, tostate e lavorate internamente tutte le vostre fave di cacao.",
+   "url": "https://domori.com",
+   "quote": "Selezioniamo, tostiamo e lavoriamo internamente il 100% delle nostre fave di cacao, preservandone tutta la ricchezza aromatica."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

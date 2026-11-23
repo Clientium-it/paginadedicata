@@ -1,0 +1,28 @@
+{
+ "slug": "incyte-biosciences-italy",
+ "company": "Incyte Biosciences Italy",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Incyte Biosciences Italy sviluppate farmaci innovativi in ematologia, oncologia, infiammazione e autoimmunità. Qui trova come lavoriamo e cosa potremmo fare per Incyte Biosciences Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Incyte Biosciences Italy.",
+ "evidence": [
+  {
+   "claim": "In Incyte Biosciences Italy sviluppate farmaci innovativi in ematologia, oncologia, infiammazione e autoimmunità.",
+   "url": "https://www.incyte.com",
+   "quote": "With three core franchises in Hematology, Oncology and Inflammation and Autoimmunity, we are committed to developing and delivering innovative medicines for patients."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "sisgeo",
+ "company": "Sisgeo",
+ "first_name": "Chiara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Sisgeo progettate, producete e installate strumenti di precisione per applicazioni geotecniche e strutturali. Qui trova come lavoriamo e cosa potremmo fare per Sisgeo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sisgeo.",
+ "evidence": [
+  {
+   "claim": "In Sisgeo progettate, producete e installate strumenti di precisione per applicazioni geotecniche e strutturali.",
+   "url": "https://www.sisgeo.com/",
+   "quote": "We design, manufacture and install precision instruments engineered to help you manage risk and add value in the most demanding geotechnical and structural applications."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

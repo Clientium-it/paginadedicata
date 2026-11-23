@@ -1,0 +1,28 @@
+{
+ "slug": "relatech-3",
+ "company": "Relatech",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Relatech dal 2001 accompagnate le imprese nell'innovazione e nell'evoluzione digitale. Qui trova come lavoriamo e cosa potremmo fare per Relatech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Relatech.",
+ "evidence": [
+  {
+   "claim": "In Relatech dal 2001 accompagnate le imprese nell'innovazione e nell'evoluzione digitale.",
+   "url": "https://relatech.com/chi-siamo/",
+   "quote": "Dal 2001 siamo il partner di riferimento per l'innovazione e l'evoluzione digitale delle imprese, a livello nazionale e internazionale."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

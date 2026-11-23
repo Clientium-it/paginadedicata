@@ -1,0 +1,28 @@
+{
+ "slug": "gbr-rossetto",
+ "company": "GBR Rossetto",
+ "first_name": "Cristian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In GBR Rossetto offrite anche il noleggio di stampanti, PC, plotter, scanner e workstation. Qui trova come lavoriamo e cosa potremmo fare per GBR Rossetto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GBR Rossetto.",
+ "evidence": [
+  {
+   "claim": "In GBR Rossetto offrite anche il noleggio di stampanti, PC, plotter, scanner e workstation.",
+   "url": "https://rossetto.work",
+   "quote": "Rossetto offre anche soluzioni di noleggio per stampanti, PC, plotter, scanner, workstation"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

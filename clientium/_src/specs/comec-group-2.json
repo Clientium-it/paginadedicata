@@ -1,0 +1,28 @@
+{
+ "slug": "comec-group-2",
+ "company": "Comec Group",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Comec Group producete macchine e sistemi per la lavorazione del legno che coprono tutto il processo produttivo. Qui trova come lavoriamo e cosa potremmo fare per Comec Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Comec Group.",
+ "evidence": [
+  {
+   "claim": "In Comec Group producete macchine e sistemi per la lavorazione del legno che coprono tutto il processo produttivo.",
+   "url": "https://www.comecgroup.it",
+   "quote": "macchine e sistemi per la lavorazione del legno capaci di eseguire tutti gli step del processo produttivo"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

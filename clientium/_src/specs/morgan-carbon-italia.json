@@ -1,0 +1,28 @@
+{
+ "slug": "morgan-carbon-italia",
+ "company": "Morgan Carbon Italia",
+ "first_name": "Sergio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Morgan Carbon Italia sviluppate ceramiche ad alte prestazioni e soluzioni termiche e in carbonio. Qui trova come lavoriamo e cosa potremmo fare per Morgan Carbon Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Morgan Carbon Italia.",
+ "evidence": [
+  {
+   "claim": "In Morgan Carbon Italia sviluppate ceramiche ad alte prestazioni e soluzioni termiche e in carbonio.",
+   "url": "https://www.morganadvancedmaterials.com",
+   "quote": "Morgan Advanced Materials develops high-performance ceramics, thermal, and carbon solutions that help customers solve complex engineering challenges."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

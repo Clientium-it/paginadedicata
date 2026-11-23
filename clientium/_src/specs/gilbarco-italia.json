@@ -1,0 +1,28 @@
+{
+ "slug": "gilbarco-italia",
+ "company": "Gilbarco Italia",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Gilbarco Italia fornite sistemi di gestione dei carburanti e tecnologie per le stazioni di servizio. Qui trova come lavoriamo e cosa potremmo fare per Gilbarco Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gilbarco Italia.",
+ "evidence": [
+  {
+   "claim": "In Gilbarco Italia fornite sistemi di gestione dei carburanti e tecnologie per le stazioni di servizio.",
+   "url": "https://www.gilbarco.it",
+   "quote": "Gilbarco è il marchio leader nel mondo nelle soluzioni e nelle tecnologie che forniscono sistemi di gestione dei carburanti, praticità, controllo ed integrità ambientale per le stazioni di servizio"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

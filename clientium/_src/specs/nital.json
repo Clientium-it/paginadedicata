@@ -1,0 +1,28 @@
+{
+ "slug": "nital",
+ "company": "Nital",
+ "first_name": "Emanuela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Nital importate conoscenza, tecnologia e nuove tendenze, interpretandole e proponendole al mercato. Qui trova come lavoriamo e cosa potremmo fare per Nital.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nital.",
+ "evidence": [
+  {
+   "claim": "In Nital importate conoscenza, tecnologia e nuove tendenze, interpretandole e proponendole al mercato.",
+   "url": "https://www.nital.it/profilo/index.php",
+   "quote": "importare conoscenza, tecnologia, lifestyle, innovazione, nuove tendenze, di interpretarle e di proporle al mercato"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

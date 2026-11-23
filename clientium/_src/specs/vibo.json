@@ -1,0 +1,28 @@
+{
+ "slug": "vibo",
+ "company": "Vibo",
+ "first_name": "Vladislav",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Vibo lavorate filo metallico, lamiera, coil e verghe tubolari con tecnologie innovative. Qui trova come lavoriamo e cosa potremmo fare per Vibo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vibo.",
+ "evidence": [
+  {
+   "claim": "In Vibo lavorate filo metallico, lamiera, coil e verghe tubolari con tecnologie innovative.",
+   "url": "https://www.viboitaly.com/it/chi-siamo",
+   "quote": "All'interno dei nostri stabilimenti produttivi lavoriamo, grazie a tecnologie innovative, diverse tipologie di materiali come il filo metallico, la lamiera, il coil e le verghe tubolari."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "sulzer-italy",
+ "company": "Sulzer Italy",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Sulzer Italy operate in applicazioni critiche per infrastrutture e processi delle grandi industrie essenziali. Qui trova come lavoriamo e cosa potremmo fare per Sulzer Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sulzer Italy.",
+ "evidence": [
+  {
+   "claim": "In Sulzer Italy operate in applicazioni critiche per infrastrutture e processi delle grandi industrie essenziali.",
+   "url": "https://www.sulzer.com/en/about-us/our-company",
+   "quote": "Sulzer is a global leader in critical applications for core infrastructure and processes for large essential industries around the world."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

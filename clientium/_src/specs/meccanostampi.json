@@ -1,0 +1,28 @@
+{
+ "slug": "meccanostampi",
+ "company": "Meccanostampi",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Meccanostampi da oltre 60 anni accompagnate i clienti nel trasformare visioni in prodotti di alta precisione. Qui trova come lavoriamo e cosa potremmo fare per Meccanostampi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Meccanostampi.",
+ "evidence": [
+  {
+   "claim": "In Meccanostampi da oltre 60 anni accompagnate i clienti nel trasformare visioni in prodotti di alta precisione.",
+   "url": "https://meccanostampi.it",
+   "quote": "Da oltre 60 anni, Meccanostampi accompagna i clienti nel trasformare visioni in prodotti di alta precisione"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

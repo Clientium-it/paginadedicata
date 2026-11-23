@@ -1,0 +1,28 @@
+{
+ "slug": "medit",
+ "company": "Medit",
+ "first_name": "Ernesto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Medit progettate nuove soluzioni tecniche per l'architettura e la decorazione d'interni. Qui trova come lavoriamo e cosa potremmo fare per Medit.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Medit.",
+ "evidence": [
+  {
+   "claim": "In Medit progettate nuove soluzioni tecniche per l'architettura e la decorazione d'interni.",
+   "url": "https://medit-italia.com/chi-siamo",
+   "quote": "Un'azienda moderna, un team di professionalità nella progettazione di nuove soluzioni tecniche per l'architettura e la decorazione d'interni"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

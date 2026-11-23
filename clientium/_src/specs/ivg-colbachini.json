@@ -1,0 +1,28 @@
+{
+ "slug": "ivg-colbachini",
+ "company": "IVG Colbachini",
+ "first_name": "Deborah",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In IVG Colbachini producete tubi flessibili in gomma su mandrino rigido, lunghi fino a 120 metri. Qui trova come lavoriamo e cosa potremmo fare per IVG Colbachini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IVG Colbachini.",
+ "evidence": [
+  {
+   "claim": "In IVG Colbachini producete tubi flessibili in gomma su mandrino rigido, lunghi fino a 120 metri.",
+   "url": "https://www.ivgspa.it/it/content/4-azienda",
+   "quote": "tubi flessibili in gomma con la tecnica del mandrino rigido. Lunghi fino a 120 metri, i tubi sono adatti per trasportare vari tipi di fluidi"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "poligrafica-veneta-2",
+ "company": "Poligrafica Veneta",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Poligrafica Veneta offrite film neutro o colorato non stampato destinato alla laminazione nel settore alimentare. Qui trova come lavoriamo e cosa potremmo fare per Poligrafica Veneta.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Poligrafica Veneta.",
+ "evidence": [
+  {
+   "claim": "In Poligrafica Veneta offrite film neutro o colorato non stampato destinato alla laminazione nel settore alimentare.",
+   "url": "https://poligraficaveneta.it",
+   "quote": "Film neutro o colorato non stampato destinato alla laminazione nel settore alimentare"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "frezza",
+ "company": "Frezza",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Frezza progettate e producete arredamento per ufficio e soluzioni d'arredo per l'ospitalità. Qui trova come lavoriamo e cosa potremmo fare per Frezza.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Frezza.",
+ "evidence": [
+  {
+   "claim": "In Frezza progettate e producete arredamento per ufficio e soluzioni d'arredo per l'ospitalità.",
+   "url": "https://frezza.com",
+   "quote": "progetta e produce arredamento per ufficio e soluzioni d'arredo per l'ospitalità"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

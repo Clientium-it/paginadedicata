@@ -1,0 +1,28 @@
+{
+ "slug": "argo-logica",
+ "company": "Argo Logica",
+ "first_name": "Eros",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Argo Logica integrate competenze ERP, cloud e infrastrutture con un Customer Care anche dopo il Go Live. Qui trova come lavoriamo e cosa potremmo fare per Argo Logica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Argo Logica.",
+ "evidence": [
+  {
+   "claim": "In Argo Logica integrate competenze ERP, cloud e infrastrutture con un Customer Care anche dopo il Go Live.",
+   "url": "https://argologica.com",
+   "quote": "integriamo competenze ERP, sistemistiche, cloud e infrastrutturali con un servizio di Customer Care avanzato, garantendo continuità operativa anche dopo il Go-Live"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "gft-italia",
+ "company": "GFT Italia",
+ "first_name": "Elisa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In GFT Italia siete nati nel settore bancario e portate la trasformazione digitale ai clienti di ogni settore. Qui trova come lavoriamo e cosa potremmo fare per GFT Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GFT Italia.",
+ "evidence": [
+  {
+   "claim": "In GFT Italia siete nati nel settore bancario e portate la trasformazione digitale ai clienti di ogni settore.",
+   "url": "https://www.gft.com/it/it",
+   "quote": "Nati nel settore bancario e finanziario, portiamo decenni di esperienza nella trasformazione digitale ai clienti di tutti i settori"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

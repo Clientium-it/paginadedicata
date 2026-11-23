@@ -1,0 +1,28 @@
+{
+ "slug": "sysdat-it",
+ "company": "Sysdat.it",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Sysdat.it supportate le aziende nell'evoluzione digitale con soluzioni Best in Class. Qui trova come lavoriamo e cosa potremmo fare per Sysdat.it.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sysdat.it.",
+ "evidence": [
+  {
+   "claim": "In Sysdat.it supportate le aziende nell'evoluzione digitale con soluzioni Best in Class.",
+   "url": "https://www.sysdat.it/about",
+   "quote": "Supportiamo le aziende nel percorso di evoluzione digitale, mettendo in campo nuovi modelli di business attraverso l'implementazione di soluzioni Best in Class"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

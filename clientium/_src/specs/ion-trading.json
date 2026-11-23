@@ -1,0 +1,28 @@
+{
+ "slug": "ion-trading",
+ "company": "ION Trading",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In ION Trading aiutate istituzioni finanziarie, banche centrali e aziende a digitalizzare i processi critici. Qui trova come lavoriamo e cosa potremmo fare per ION Trading.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ION Trading.",
+ "evidence": [
+  {
+   "claim": "In ION Trading aiutate istituzioni finanziarie, banche centrali e aziende a digitalizzare i processi critici.",
+   "url": "https://www.iongroup.com/about-us",
+   "quote": "We enable financial institutions, central banks and corporations to digitize and automate their most business critical processes."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

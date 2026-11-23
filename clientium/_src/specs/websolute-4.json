@@ -1,0 +1,28 @@
+{
+ "slug": "websolute-4",
+ "company": "Websolute",
+ "first_name": "Chiara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Websolute realizzate siti, app, ecommerce, soluzioni di AI agentica e configuratori 3D. Qui trova come lavoriamo e cosa potremmo fare per Websolute.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Websolute.",
+ "evidence": [
+  {
+   "claim": "In Websolute realizzate siti, app, ecommerce, soluzioni di AI agentica e configuratori 3D.",
+   "url": "https://websolute.com",
+   "quote": "Websites & Apps, Ecommerce, Agentic AI Solutions, Customer Data Cloud, System Integration, 3D Configurator"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

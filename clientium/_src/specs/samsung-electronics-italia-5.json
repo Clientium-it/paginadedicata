@@ -1,0 +1,28 @@
+{
+ "slug": "samsung-electronics-italia-5",
+ "company": "Samsung Electronics Italia",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Samsung Electronics Italia offrite televisori, digital signage, smartphone, tablet, elettrodomestici e sistemi di rete. Qui trova come lavoriamo e cosa potremmo fare per Samsung Electronics Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Samsung Electronics Italia.",
+ "evidence": [
+  {
+   "claim": "In Samsung Electronics Italia offrite televisori, digital signage, smartphone, tablet, elettrodomestici e sistemi di rete.",
+   "url": "https://news.samsung.com/it/overview",
+   "quote": "televisori, del digital signage, degli smartphone, dei dispositivi indossabili, dei tablet, degli elettrodomestici e dei sistemi di rete, oltre che delle memorie e dei sistemi LSI"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

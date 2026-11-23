@@ -1,0 +1,28 @@
+{
+ "slug": "anteprima",
+ "company": "Anteprima",
+ "first_name": "Alice",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Anteprima create tessuti dallo stile inconfondibile e dalla qualità affidabile. Qui trova come lavoriamo e cosa potremmo fare per Anteprima.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Anteprima.",
+ "evidence": [
+  {
+   "claim": "In Anteprima create tessuti dallo stile inconfondibile e dalla qualità affidabile.",
+   "url": "https://anteprimatessuti.it",
+   "quote": "creare tessuti dallo stile inconfondibile e dalla qualità affidabile per accontentare ogni genere di cliente"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

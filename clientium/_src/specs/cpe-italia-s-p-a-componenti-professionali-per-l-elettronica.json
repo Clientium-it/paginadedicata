@@ -1,0 +1,28 @@
+{
+ "slug": "cpe-italia-s-p-a-componenti-professionali-per-l-elettronica",
+ "company": "CPE Italia S.p.a. Componenti Professionali PER L Elettronica",
+ "first_name": "Alfredo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In CPE Italia S.p.a. Componenti Professionali PER L Elettronica fornite componenti elettronici e soluzioni per la connettività. Qui trova come lavoriamo e cosa potremmo fare per CPE Italia S.p.a. Componenti Professionali PER L Elettronica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CPE Italia S.p.a. Componenti Professionali PER L Elettronica.",
+ "evidence": [
+  {
+   "claim": "In CPE Italia S.p.a. Componenti Professionali PER L Elettronica fornite componenti elettronici e soluzioni per la connettività.",
+   "url": "https://www.cpeitalia.it/",
+   "quote": "Dal 1978 aiutiamo lo sviluppo dei nostri partner con la fornitura di componenti elettronici e soluzioni per la connettività"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

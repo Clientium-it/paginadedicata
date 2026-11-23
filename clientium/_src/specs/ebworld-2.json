@@ -1,0 +1,28 @@
+{
+ "slug": "ebworld-2",
+ "company": "Ebworld",
+ "first_name": "Filippo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Ebworld offrite soluzioni per digitalizzare e gestire il ciclo di vita delle infrastrutture sul territorio. Qui trova come lavoriamo e cosa potremmo fare per Ebworld.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ebworld.",
+ "evidence": [
+  {
+   "claim": "In Ebworld offrite soluzioni per digitalizzare e gestire il ciclo di vita delle infrastrutture sul territorio.",
+   "url": "https://ebw.it",
+   "quote": "EBWorld offre soluzioni e prodotti per la digitalizzazione e la gestione del ciclo di vita delle infrastrutture distribuite sul territorio"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

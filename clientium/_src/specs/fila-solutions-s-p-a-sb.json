@@ -1,0 +1,28 @@
+{
+ "slug": "fila-solutions-s-p-a-sb",
+ "company": "Fila Solutions S.p.a. SB",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Fila Solutions S.p.a. SB offrite soluzioni per curare e proteggere le superfici di pavimenti e pareti. Qui trova come lavoriamo e cosa potremmo fare per Fila Solutions S.p.a. SB.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fila Solutions S.p.a. SB.",
+ "evidence": [
+  {
+   "claim": "In Fila Solutions S.p.a. SB offrite soluzioni per curare e proteggere le superfici di pavimenti e pareti.",
+   "url": "https://filasolutions.com",
+   "quote": "Entdecken Sie, wie Sie Ihre Boden- und Wandoberflächen pflegen und schützen können"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

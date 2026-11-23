@@ -1,0 +1,28 @@
+{
+ "slug": "futurtec",
+ "company": "Futurtec",
+ "first_name": "Mattia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Futurtec distribuite 30 marchi del settore sicurezza ed erogate in media 70 corsi di formazione all'anno. Qui trova come lavoriamo e cosa potremmo fare per Futurtec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Futurtec.",
+ "evidence": [
+  {
+   "claim": "In Futurtec distribuite 30 marchi del settore sicurezza ed erogate in media 70 corsi di formazione all'anno.",
+   "url": "https://futurtec.it/chi-siamo",
+   "quote": "30 marchi distribuiti del settore sicurezza, 70 corsi di formazione in media erogati all'anno, 200 interventi on site sul cliente"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

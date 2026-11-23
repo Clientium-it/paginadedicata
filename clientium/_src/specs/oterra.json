@@ -1,0 +1,28 @@
+{
+ "slug": "oterra",
+ "company": "Oterra",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Oterra fornite coloranti alimentari naturali con un portafoglio amplissimo. Qui trova come lavoriamo e cosa potremmo fare per Oterra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Oterra.",
+ "evidence": [
+  {
+   "claim": "In Oterra fornite coloranti alimentari naturali con un portafoglio amplissimo.",
+   "url": "https://oterra.com/about-us/",
+   "quote": "Oterra is the world's top natural food color provider, offering the widest portfolio since 1876."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

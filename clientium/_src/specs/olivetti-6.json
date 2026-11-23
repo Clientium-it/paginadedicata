@@ -1,0 +1,28 @@
+{
+ "slug": "olivetti-6",
+ "company": "Olivetti",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Olivetti offrite soluzioni affidabili e scalabili per acquisire, archiviare e analizzare i Big Data. Qui trova come lavoriamo e cosa potremmo fare per Olivetti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Olivetti.",
+ "evidence": [
+  {
+   "claim": "In Olivetti offrite soluzioni affidabili e scalabili per acquisire, archiviare e analizzare i Big Data.",
+   "url": "https://olivetti.com",
+   "quote": "soluzioni affidabili e scalabili per l'acquisizione, l'archiviazione e l'analisi dei Big Data"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

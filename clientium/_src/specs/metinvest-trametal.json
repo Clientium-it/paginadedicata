@@ -1,0 +1,28 @@
+{
+ "slug": "metinvest-trametal",
+ "company": "Metinvest Trametal",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Metinvest Trametal producete lamiere d'acciaio per i mercati europei. Qui trova come lavoriamo e cosa potremmo fare per Metinvest Trametal.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Metinvest Trametal.",
+ "evidence": [
+  {
+   "claim": "In Metinvest Trametal producete lamiere d'acciaio per i mercati europei.",
+   "url": "https://trametal.metinvestholding.com/it/about",
+   "quote": "Trametal è uno degli stabilimenti di laminazione di Metinvest in Europa, specializzato nella produzione di lamiere d'acciaio per i mercati europei."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

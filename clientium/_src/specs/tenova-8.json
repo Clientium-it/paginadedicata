@@ -1,0 +1,28 @@
+{
+ "slug": "tenova-8",
+ "company": "Tenova",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Tenova coprite dall'idrometallurgia ai forni di trattamento termico fino ai laminatoi a freddo. Qui trova come lavoriamo e cosa potremmo fare per Tenova.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tenova.",
+ "evidence": [
+  {
+   "claim": "In Tenova coprite dall'idrometallurgia ai forni di trattamento termico fino ai laminatoi a freddo.",
+   "url": "https://www.tenova.com",
+   "quote": "hydrometallurgy and pyrometallurgy to material handling, DRI to EAF, reheating furnaces to heat treatment furnaces, cold rolling mills to processing lines, roll grinders and texturing"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "isotta-fraschini-motori-2",
+ "company": "Isotta Fraschini Motori",
+ "first_name": "Manuel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Isotta Fraschini Motori producete motori da 200 a 3.600 HP per applicazioni marine, industriali e ferroviarie. Qui trova come lavoriamo e cosa potremmo fare per Isotta Fraschini Motori.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Isotta Fraschini Motori.",
+ "evidence": [
+  {
+   "claim": "In Isotta Fraschini Motori producete motori da 200 a 3.600 HP per applicazioni marine, industriali e ferroviarie.",
+   "url": "https://www.isottafraschini.it/azienda/",
+   "quote": "potenze da 200 a 3.600 HP per applicazioni, marine, industriali e di trazione ferroviaria"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

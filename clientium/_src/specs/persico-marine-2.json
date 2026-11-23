@@ -1,0 +1,28 @@
+{
+ "slug": "persico-marine-2",
+ "company": "Persico Marine",
+ "first_name": "Jacopo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Persico Marine costruite yacht su misura per i team di regata più noti al mondo e armatori privati. Qui trova come lavoriamo e cosa potremmo fare per Persico Marine.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Persico Marine.",
+ "evidence": [
+  {
+   "claim": "In Persico Marine costruite yacht su misura per i team di regata più noti al mondo e armatori privati.",
+   "url": "https://www.persicomarine.com/profile.html",
+   "quote": "Persico Marine builds custom yachts for the world's most renowned racing teams and private owners."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

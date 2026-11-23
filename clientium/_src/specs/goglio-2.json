@@ -1,0 +1,28 @@
+{
+ "slug": "goglio-2",
+ "company": "Goglio",
+ "first_name": "Mario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Goglio fate imballaggio flessibile con laminati multistrato ad alta barriera. Qui trova come lavoriamo e cosa potremmo fare per Goglio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Goglio.",
+ "evidence": [
+  {
+   "claim": "In Goglio fate imballaggio flessibile con laminati multistrato ad alta barriera.",
+   "url": "https://www.goglio.it",
+   "quote": "GOGLIO è IMBALLAGGIO FLESSIBILE Laminati multistrato alta barriera, valvole, bocchelli e macchine di confezionamento per prodotti liquidi e in polvere"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

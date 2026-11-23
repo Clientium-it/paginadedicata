@@ -1,0 +1,28 @@
+{
+ "slug": "porro",
+ "company": "Porro",
+ "first_name": "Laura",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Porro proponete letti, contenitori, librerie, sedie, divani, poltrone e tavoli. Qui trova come lavoriamo e cosa potremmo fare per Porro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Porro.",
+ "evidence": [
+  {
+   "claim": "In Porro proponete letti, contenitori, librerie, sedie, divani, poltrone e tavoli.",
+   "url": "https://www.porro.com/en/",
+   "quote": "Beds, Containers, Bookshelves, Chairs, Sofas and Armchairs, Tables, Complements, Accessories"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

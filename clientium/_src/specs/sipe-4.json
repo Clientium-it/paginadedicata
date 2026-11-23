@@ -1,0 +1,28 @@
+{
+ "slug": "sipe-4",
+ "company": "Sipe",
+ "first_name": "Devi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Sipe siete specializzati nel food and beverage. Qui trova come lavoriamo e cosa potremmo fare per Sipe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sipe.",
+ "evidence": [
+  {
+   "claim": "In Sipe siete specializzati nel food and beverage.",
+   "url": "https://www.sipe.it",
+   "quote": "LA FORZA DELLA SPECIALIZZAZIONE NEL FOOD & BEVERAGE"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

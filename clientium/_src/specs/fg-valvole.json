@@ -1,0 +1,28 @@
+{
+ "slug": "fg-valvole",
+ "company": "FG Valvole",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In FG Valvole progettate e producete valvole manuali, automatiche e attuate ad alte prestazioni su misura. Qui trova come lavoriamo e cosa potremmo fare per FG Valvole.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FG Valvole.",
+ "evidence": [
+  {
+   "claim": "In FG Valvole progettate e producete valvole manuali, automatiche e attuate ad alte prestazioni su misura.",
+   "url": "https://www.fgvalvole.com/about-us/",
+   "quote": "designing and manufacturing a wide range of customized high performance manually operated, automated ON-OFF and actuated Valves"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

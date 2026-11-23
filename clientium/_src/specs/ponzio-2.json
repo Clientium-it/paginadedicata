@@ -1,0 +1,28 @@
+{
+ "slug": "ponzio-2",
+ "company": "Ponzio",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Ponzio sviluppate sistemi in alluminio che uniscono innovazione tecnologica e qualità costruttiva. Qui trova come lavoriamo e cosa potremmo fare per Ponzio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ponzio.",
+ "evidence": [
+  {
+   "claim": "In Ponzio sviluppate sistemi in alluminio che uniscono innovazione tecnologica e qualità costruttiva.",
+   "url": "https://ponzioaluminium.com",
+   "quote": "Da oltre ottant'anni Ponzio sviluppa sistemi in alluminio che uniscono innovazione tecnologica, qualità costruttiva"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

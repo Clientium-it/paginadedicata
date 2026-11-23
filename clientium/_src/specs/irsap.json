@@ -1,0 +1,28 @@
+{
+ "slug": "irsap",
+ "company": "Irsap",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Irsap sapete che ogni spazio ha caratteristiche proprie e richiede soluzioni personalizzate. Qui trova come lavoriamo e cosa potremmo fare per Irsap.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Irsap.",
+ "evidence": [
+  {
+   "claim": "In Irsap sapete che ogni spazio ha caratteristiche proprie e richiede soluzioni personalizzate.",
+   "url": "https://www.irsap.com",
+   "quote": "IRSAP knows that every space has its own characteristics and needs customised solutions."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

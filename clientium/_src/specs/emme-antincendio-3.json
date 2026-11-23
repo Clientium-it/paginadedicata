@@ -1,0 +1,28 @@
+{
+ "slug": "emme-antincendio-3",
+ "company": "Emme Antincendio",
+ "first_name": "Elena",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Emme Antincendio offrite estintori, accessori e tutti i prodotti del mondo antincendio. Qui trova come lavoriamo e cosa potremmo fare per Emme Antincendio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Emme Antincendio.",
+ "evidence": [
+  {
+   "claim": "In Emme Antincendio offrite estintori, accessori e tutti i prodotti del mondo antincendio.",
+   "url": "https://emme-italia.com",
+   "quote": "estintori EMME e dei relativi accessori e tutti i prodotti del mondo dell'antincendio"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

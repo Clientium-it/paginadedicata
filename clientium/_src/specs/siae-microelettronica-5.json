@@ -1,0 +1,28 @@
+{
+ "slug": "siae-microelettronica-5",
+ "company": "Siae-microelettronica",
+ "first_name": "Adriano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Siae-microelettronica offrite un portafoglio completo di ponti radio a microonde, dalle bande licenziate alle onde millimetriche. Qui trova come lavoriamo e cosa potremmo fare per Siae-microelettronica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Siae-microelettronica.",
+ "evidence": [
+  {
+   "claim": "In Siae-microelettronica offrite un portafoglio completo di ponti radio a microonde, dalle bande licenziate alle onde millimetriche.",
+   "url": "https://www.siaemic.com",
+   "quote": "Complete microwave radio portfolio including split mount, full outdoor and all indoor systems across traditional licensed bands and millimetre wave"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

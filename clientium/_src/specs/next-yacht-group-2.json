@@ -1,0 +1,28 @@
+{
+ "slug": "next-yacht-group-2",
+ "company": "Next Yacht Group",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Next Yacht Group da oltre cinquant'anni unite tradizione, artigianalità e passione per creare yacht unici. Qui trova come lavoriamo e cosa potremmo fare per Next Yacht Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Next Yacht Group.",
+ "evidence": [
+  {
+   "claim": "In Next Yacht Group da oltre cinquant'anni unite tradizione, artigianalità e passione per creare yacht unici.",
+   "url": "https://nextyachtgroup.com/",
+   "quote": "For over fifty years, we have combined tradition, craftsmanship and passion to create unique yachts"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

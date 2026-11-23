@@ -1,0 +1,28 @@
+{
+ "slug": "kuka-roboter-italia-2",
+ "company": "Kuka Roboter Italia",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Kuka Roboter Italia offrite automazione industriale, intralogistica e automazione dei magazzini con software e AI. Qui trova come lavoriamo e cosa potremmo fare per Kuka Roboter Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kuka Roboter Italia.",
+ "evidence": [
+  {
+   "claim": "In Kuka Roboter Italia offrite automazione industriale, intralogistica e automazione dei magazzini con software e AI.",
+   "url": "https://www.kuka.com/it-it/azienda",
+   "quote": "Il portafoglio di KUKA Group comprende l'automazione industriale, l'intralogistica e l'automazione dei magazzini, offrendo prodotti, soluzioni, servizi e software & AI che supportano clienti in diversi settori"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

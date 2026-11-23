@@ -1,0 +1,28 @@
+{
+ "slug": "falco-2",
+ "company": "Falco",
+ "first_name": "Corrado",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Falco producete imballaggi e contenitori metallici. Qui trova come lavoriamo e cosa potremmo fare per Falco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Falco.",
+ "evidence": [
+  {
+   "claim": "In Falco producete imballaggi e contenitori metallici.",
+   "url": "https://falcogroup.eu",
+   "quote": "Da più di cinquanta anni leader nella produzione di imballaggi e contenitori metallici."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

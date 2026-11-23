@@ -1,0 +1,28 @@
+{
+ "slug": "abrasivi-adria-2",
+ "company": "Abrasivi Adria",
+ "first_name": "Flavio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Abrasivi Adria proponete una vasta gamma di prodotti per lavorare marmo, granito, quarzo e ceramica. Qui trova come lavoriamo e cosa potremmo fare per Abrasivi Adria.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Abrasivi Adria.",
+ "evidence": [
+  {
+   "claim": "In Abrasivi Adria proponete una vasta gamma di prodotti per lavorare marmo, granito, quarzo e ceramica.",
+   "url": "https://abrasiviadria.com",
+   "quote": "Proponiamo una vasta gamma di prodotti per la lavorazione del marmo, del granito, del quarzo e della ceramica."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

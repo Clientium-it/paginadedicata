@@ -1,0 +1,28 @@
+{
+ "slug": "marchi-fildi-2",
+ "company": "Marchi & Fildi",
+ "first_name": "Irene",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Marchi & Fildi producete filati per la moda, l'arredo e applicazioni tecniche avanzate. Qui trova come lavoriamo e cosa potremmo fare per Marchi & Fildi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Marchi & Fildi.",
+ "evidence": [
+  {
+   "claim": "In Marchi & Fildi producete filati per la moda, l'arredo e applicazioni tecniche avanzate.",
+   "url": "https://www.marchifildi.com",
+   "quote": "Siamo un Gruppo tessile specializzato nella produzione di filati per la moda, l'arredo e applicazioni tecniche avanzate."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

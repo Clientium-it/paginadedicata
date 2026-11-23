@@ -1,0 +1,28 @@
+{
+ "slug": "lazzerini-2",
+ "company": "Lazzerini",
+ "first_name": "Alice",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Lazzerini producete sedili per bus, scuolabus, treni, tram, navi e traghetti. Qui trova come lavoriamo e cosa potremmo fare per Lazzerini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lazzerini.",
+ "evidence": [
+  {
+   "claim": "In Lazzerini producete sedili per bus, scuolabus, treni, tram, navi e traghetti.",
+   "url": "https://www.lazzerini.it",
+   "quote": "Bus School Bus Train and Tram Ship and Ferry Special and Customised Seats"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

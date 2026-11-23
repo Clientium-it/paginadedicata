@@ -1,0 +1,28 @@
+{
+ "slug": "tenacta-group",
+ "company": "Tenacta Group",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Tenacta Group offrite strumenti per lo styling dei capelli, piccoli elettrodomestici e prodotti per il benessere. Qui trova come lavoriamo e cosa potremmo fare per Tenacta Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tenacta Group.",
+ "evidence": [
+  {
+   "claim": "In Tenacta Group offrite strumenti per lo styling dei capelli, piccoli elettrodomestici e prodotti per il benessere.",
+   "url": "https://tenactagroup.com/en/",
+   "quote": "Beauty - a complete range of hair styling tools to accentuate the beauty of every woman, Home - dedicated to small electrical appliances that make our daily lives easier, and Wellness - a range of products focusing on personal well-being"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

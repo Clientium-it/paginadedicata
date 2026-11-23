@@ -1,0 +1,28 @@
+{
+ "slug": "pas",
+ "company": "PAS",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In PAS progettate gestionali per aziende, commercialisti, hotel, ristoranti e negozi. Qui trova come lavoriamo e cosa potremmo fare per PAS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PAS.",
+ "evidence": [
+  {
+   "claim": "In PAS progettate gestionali per aziende, commercialisti, hotel, ristoranti e negozi.",
+   "url": "https://www.passepartout.net",
+   "quote": "Programmi gestionali progettati per rispondere alle esigenze di aziende più o meno strutturate, commercialisti, hotel, ristoranti e negozi."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

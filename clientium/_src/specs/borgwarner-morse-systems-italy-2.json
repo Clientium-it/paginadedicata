@@ -1,0 +1,28 @@
+{
+ "slug": "borgwarner-morse-systems-italy-2",
+ "company": "Borgwarner Morse Systems Italy",
+ "first_name": "Emilio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Borgwarner Morse Systems Italy fornite tecnologia di fasatura variabile delle camme per motori ibridi e a benzina. Qui trova come lavoriamo e cosa potremmo fare per Borgwarner Morse Systems Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Borgwarner Morse Systems Italy.",
+ "evidence": [
+  {
+   "claim": "In Borgwarner Morse Systems Italy fornite tecnologia di fasatura variabile delle camme per motori ibridi e a benzina.",
+   "url": "https://www.borgwarner.com/newsroom/press-releases/2025/02/06/borgwarner-supplies-variable-cam-timing-technology-for-major-east-asian-oem-s-hybrid-and-gasoline-engines",
+   "quote": "BorgWarner Supplies Variable Cam Timing Technology for Major East Asian OEM's Hybrid and Gasoline Engines"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

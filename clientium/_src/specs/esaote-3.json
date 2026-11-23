@@ -1,0 +1,28 @@
+{
+ "slug": "esaote-3",
+ "company": "Esaote",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Esaote offrite diagnostica per immagini con ecografia, risonanza magnetica e soluzioni di Healthcare IT. Qui trova come lavoriamo e cosa potremmo fare per Esaote.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Esaote.",
+ "evidence": [
+  {
+   "claim": "In Esaote offrite diagnostica per immagini con ecografia, risonanza magnetica e soluzioni di Healthcare IT.",
+   "url": "https://www.esaote.com/en-US/",
+   "quote": "Medical diagnostic imaging: ultrasound, MRI and Healthcare IT - Esaote"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

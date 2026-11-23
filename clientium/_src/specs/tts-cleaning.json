@@ -1,0 +1,28 @@
+{
+ "slug": "tts-cleaning",
+ "company": "TTS Cleaning",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In TTS Cleaning producete attrezzatura manuale per la pulizia, con esperienza specifica negli ambienti sanitari. Qui trova come lavoriamo e cosa potremmo fare per TTS Cleaning.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TTS Cleaning.",
+ "evidence": [
+  {
+   "claim": "In TTS Cleaning producete attrezzatura manuale per la pulizia, con esperienza specifica negli ambienti sanitari.",
+   "url": "https://share.ttsystem.com/_cataloghi_pdf/company_profile_italiano/index.html",
+   "quote": "Più di 30 anni di attività sul mercato Produttori specializzati nell'attrezzatura manuale Esperti nella pulizia di ambienti sanitari"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "rockwool-italia-2",
+ "company": "Rockwool Italia",
+ "first_name": "Agostino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Rockwool Italia producete soluzioni in lana di roccia per l'isolamento degli edifici. Qui trova come lavoriamo e cosa potremmo fare per Rockwool Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rockwool Italia.",
+ "evidence": [
+  {
+   "claim": "In Rockwool Italia producete soluzioni in lana di roccia per l'isolamento degli edifici.",
+   "url": "https://www.rockwool.com/it/chi-siamo/news/2026/rockwool-completa-lacquisto-del-terreno-e-punta-a-un-sito-di-produzione-per-aumentare-lofferta-di-materiali-da-costruzione-sostenibili/",
+   "quote": "leader mondiale nella produzione di soluzioni in lana di roccia per l'isolamento degli edifici"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "alfa-laval-olmi-2",
+ "company": "Alfa Laval Olmi",
+ "first_name": "Rudy",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Alfa Laval Olmi producete scambiatori di calore a fascio tubiero ad alta pressione per condizioni estreme. Qui trova come lavoriamo e cosa potremmo fare per Alfa Laval Olmi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Alfa Laval Olmi.",
+ "evidence": [
+  {
+   "claim": "In Alfa Laval Olmi producete scambiatori di calore a fascio tubiero ad alta pressione per condizioni estreme.",
+   "url": "https://www.alfalaval.com/products/heat-transfer/tubular-heat-exchangers/process-shell-and-tube-heat-exchangers/olmi-shell-and-tube-high-pressure/",
+   "quote": "Alfa Laval Olmi high-pressure shell-and-tube heat exchangers efficiently handle heat transfer under the harshest conditions at refineries, petrochemical and power plants and other facilities worldwide."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

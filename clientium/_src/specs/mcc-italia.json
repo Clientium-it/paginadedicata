@@ -1,0 +1,28 @@
+{
+ "slug": "mcc-italia",
+ "company": "MCC Italia",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In MCC Italia avete oltre un secolo di esperienza nella stampa. Qui trova come lavoriamo e cosa potremmo fare per MCC Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MCC Italia.",
+ "evidence": [
+  {
+   "claim": "In MCC Italia avete oltre un secolo di esperienza nella stampa.",
+   "url": "https://www.mcclabel.com/en/about-us",
+   "quote": "Backed by over a century of printing experience"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

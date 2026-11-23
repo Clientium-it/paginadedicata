@@ -1,0 +1,28 @@
+{
+ "slug": "santex-2",
+ "company": "Santex",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Santex portate nel mondo qualità e innovazione nella gestione dell'incontinenza e nella cura della persona. Qui trova come lavoriamo e cosa potremmo fare per Santex.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Santex.",
+ "evidence": [
+  {
+   "claim": "In Santex portate nel mondo qualità e innovazione nella gestione dell'incontinenza e nella cura della persona.",
+   "url": "https://santex.it",
+   "quote": "Dal 1961 Santex non ha mai smesso di evolversi. Il nostro obiettivo è portare nel mondo qualità e innovazione mirate alla gestione dell'incontinenza e alla cura della persona."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

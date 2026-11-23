@@ -1,0 +1,28 @@
+{
+ "slug": "renco-2",
+ "company": "Renco",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Renco offrite soluzioni efficienti e tecnologiche grazie a un know how altamente professionale. Qui trova come lavoriamo e cosa potremmo fare per Renco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Renco.",
+ "evidence": [
+  {
+   "claim": "In Renco offrite soluzioni efficienti e tecnologiche grazie a un know how altamente professionale.",
+   "url": "https://www.renco.it/who-we-are",
+   "quote": "efficient and technological solutions through the evolution of highly professional know-how"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

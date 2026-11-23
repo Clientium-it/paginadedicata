@@ -1,0 +1,28 @@
+{
+ "slug": "ceramica-fondovalle",
+ "company": "Ceramica Fondovalle",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Ceramica Fondovalle producete e commercializzate lastre e piastrelle in gres porcellanato. Qui trova come lavoriamo e cosa potremmo fare per Ceramica Fondovalle.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ceramica Fondovalle.",
+ "evidence": [
+  {
+   "claim": "In Ceramica Fondovalle producete e commercializzate lastre e piastrelle in gres porcellanato.",
+   "url": "https://www.fondovalle.it/en/company",
+   "quote": "Ceramica Fondovalle is one of the leading international companies for the production and marketing of porcelain stoneware slabs and tiles."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "truffini-regge-farmaceutici",
+ "company": "Truffini & Regge' Farmaceutici",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Truffini & Regge' Farmaceutici sviluppate e producete integratori, alimenti a fini medici e dispositivi medici esclusivamente per conto terzi. Qui trova come lavoriamo e cosa potremmo fare per Truffini & Regge' Farmaceutici.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Truffini & Regge' Farmaceutici.",
+ "evidence": [
+  {
+   "claim": "In Truffini & Regge' Farmaceutici sviluppate e producete integratori, alimenti a fini medici e dispositivi medici esclusivamente per conto terzi.",
+   "url": "https://truffini.it/about-us/",
+   "quote": "Founded in 1917 as a pharmaceutical company, Truffini & Reggè has specialised in developing and producing food supplements, medical foods and medical devices, exclusively for third parties."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

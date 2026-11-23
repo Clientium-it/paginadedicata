@@ -1,0 +1,28 @@
+{
+ "slug": "john-crane-italia",
+ "company": "John Crane Italia",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In John Crane Italia producete tenute meccaniche per le industrie energetiche e di processo da oltre cento anni. Qui trova come lavoriamo e cosa potremmo fare per John Crane Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per John Crane Italia.",
+ "evidence": [
+  {
+   "claim": "In John Crane Italia producete tenute meccaniche per le industrie energetiche e di processo da oltre cento anni.",
+   "url": "https://www.johncrane.com",
+   "quote": "For more than 100 years, John Crane mechanical seals have helped energy and process industries work more effectively, safely, and reliably."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

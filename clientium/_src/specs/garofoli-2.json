@@ -1,0 +1,28 @@
+{
+ "slug": "garofoli-2",
+ "company": "Garofoli",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Garofoli progettate, costruite e vendete porte, in particolare porte in legno massello. Qui trova come lavoriamo e cosa potremmo fare per Garofoli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Garofoli.",
+ "evidence": [
+  {
+   "claim": "In Garofoli progettate, costruite e vendete porte, in particolare porte in legno massello.",
+   "url": "https://www.garofoli.com/en/company/",
+   "quote": "The Garofoli Group is a world leader in the design, construction and sale of doors, with particular emphasis on solid wood doors."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

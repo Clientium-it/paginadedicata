@@ -1,0 +1,28 @@
+{
+ "slug": "dmo-2",
+ "company": "DMO",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In DMO offrite vendita, noleggio e assistenza di soluzioni per il movimento terra. Qui trova come lavoriamo e cosa potremmo fare per DMO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per DMO.",
+ "evidence": [
+  {
+   "claim": "In DMO offrite vendita, noleggio e assistenza di soluzioni per il movimento terra.",
+   "url": "https://dmomacchine.it",
+   "quote": "Soluzioni per il movimento terra / Vendita, noleggio e assistenza"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

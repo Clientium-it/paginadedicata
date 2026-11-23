@@ -1,0 +1,28 @@
+{
+ "slug": "a-t-i-automazione-trasporti-interni",
+ "company": "A.t.i. Automazione Trasporti Interni",
+ "first_name": "Flavio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In A.t.i. Automazione Trasporti Interni fornite macchinari industriali da oltre 50 anni. Qui trova come lavoriamo e cosa potremmo fare per A.t.i. Automazione Trasporti Interni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per A.t.i. Automazione Trasporti Interni.",
+ "evidence": [
+  {
+   "claim": "In A.t.i. Automazione Trasporti Interni fornite macchinari industriali da oltre 50 anni.",
+   "url": "https://atirent.com/azienda",
+   "quote": "da oltre 50 anni nella fornitura di macchinari industriali"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

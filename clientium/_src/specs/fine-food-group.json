@@ -1,0 +1,28 @@
+{
+ "slug": "fine-food-group",
+ "company": "Fine Food Group",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Fine Food Group proponete cucina fusion, messicana, americana e Tex-Mex per la ristorazione. Qui trova come lavoriamo e cosa potremmo fare per Fine Food Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fine Food Group.",
+ "evidence": [
+  {
+   "claim": "In Fine Food Group proponete cucina fusion, messicana, americana e Tex-Mex per la ristorazione.",
+   "url": "https://finefoodgroup.com",
+   "quote": "Cucina fusion, messicana, americana e Tex-Mex per la ristorazione"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "giochi-preziosi-3",
+ "company": "Giochi Preziosi",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Giochi Preziosi distribuite i vostri giocattoli anche in Inghilterra, Francia, Spagna, Grecia e Turchia. Qui trova come lavoriamo e cosa potremmo fare per Giochi Preziosi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Giochi Preziosi.",
+ "evidence": [
+  {
+   "claim": "In Giochi Preziosi distribuite i vostri giocattoli anche in Inghilterra, Francia, Spagna, Grecia e Turchia.",
+   "url": "https://giochipreziosi.it/la-nostra-storia/",
+   "quote": "Anche i bambini in Inghilterra, Francia, Spagna, Grecia e Turchia si divertono con i nostri giocattoli!"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

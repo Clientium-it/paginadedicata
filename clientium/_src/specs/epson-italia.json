@@ -1,0 +1,28 @@
+{
+ "slug": "epson-italia",
+ "company": "Epson Italia",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Epson Italia sviluppate soluzioni per la stampa a casa, in ufficio, commerciale e industriale. Qui trova come lavoriamo e cosa potremmo fare per Epson Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Epson Italia.",
+ "evidence": [
+  {
+   "claim": "In Epson Italia sviluppate soluzioni per la stampa a casa, in ufficio, commerciale e industriale.",
+   "url": "https://www.epson.it/it_IT/about/epson-italia",
+   "quote": "L'azienda si concentra sullo sviluppo di soluzioni utili alla società attraverso innovazioni nella stampa a casa e in ufficio, nella stampa commerciale e industriale, nella produzione, nella grafica e nello stile di vita"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

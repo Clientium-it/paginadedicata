@@ -1,0 +1,28 @@
+{
+ "slug": "l-p-2",
+ "company": "L.P",
+ "first_name": "Graziano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In L.P producete tubi alettati e scambiatori di calore per impianti energetici e petrolchimici. Qui trova come lavoriamo e cosa potremmo fare per L.P.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per L.P.",
+ "evidence": [
+  {
+   "claim": "In L.P producete tubi alettati e scambiatori di calore per impianti energetici e petrolchimici.",
+   "url": "https://www.lpspa.it",
+   "quote": "Finned Tubes, Heat Exchangers, Fired Heater Coils, LNG Vaporizers, and Process Equipment for Energy and Petrochemical Plants"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

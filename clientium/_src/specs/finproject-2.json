@@ -1,0 +1,28 @@
+{
+ "slug": "finproject-2",
+ "company": "Finproject",
+ "first_name": "Mirko",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Finproject producete PVC compounds compatti ed espansi e stampate suole per scarpe. Qui trova come lavoriamo e cosa potremmo fare per Finproject.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Finproject.",
+ "evidence": [
+  {
+   "claim": "In Finproject producete PVC compounds compatti ed espansi e stampate suole per scarpe.",
+   "url": "https://finproject.com/profilo/",
+   "quote": "leader internazionale nella produzione di PVC compounds compatti ed espansi e nella produzione, commercializzazione, stampaggio di suole per scarpe"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

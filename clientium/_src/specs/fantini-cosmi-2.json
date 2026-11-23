@@ -1,0 +1,28 @@
+{
+ "slug": "fantini-cosmi-2",
+ "company": "Fantini Cosmi",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Fantini Cosmi siete un punto di riferimento per comfort, sicurezza ed efficienza impiantistica. Qui trova come lavoriamo e cosa potremmo fare per Fantini Cosmi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fantini Cosmi.",
+ "evidence": [
+  {
+   "claim": "In Fantini Cosmi siete un punto di riferimento per comfort, sicurezza ed efficienza impiantistica.",
+   "url": "https://www.fantinicosmi.it/azienda",
+   "quote": "Fantini Cosmi è un'azienda italiana fondata nel 1931 dall'omonima famiglia Fantini, ed è da sempre un importante punto di riferimento per il comfort, la sicurezza e l'efficienza impiantistica elettrica e idrotermosanitaria."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

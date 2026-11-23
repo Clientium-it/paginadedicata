@@ -1,0 +1,28 @@
+{
+ "slug": "sabaf-2",
+ "company": "Sabaf",
+ "first_name": "Pietro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Sabaf progettate e producete rubinetti gas, termostati, bruciatori e componenti per la cottura a induzione. Qui trova come lavoriamo e cosa potremmo fare per Sabaf.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sabaf.",
+ "evidence": [
+  {
+   "claim": "In Sabaf progettate e producete rubinetti gas, termostati, bruciatori e componenti per la cottura a induzione.",
+   "url": "https://www.sabafgroup.com/en/sabaf-group",
+   "quote": "we design and manufacture gas taps and thermostats, burners for both domestic and professional use, components for induction cooking"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

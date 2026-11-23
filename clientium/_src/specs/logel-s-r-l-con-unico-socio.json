@@ -1,0 +1,28 @@
+{
+ "slug": "logel-s-r-l-con-unico-socio",
+ "company": "Logel S.r.l. CON Unico Socio",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Logel S.r.l. CON Unico Socio progettate, producete e installate apparati elettrici ed elettronici per l'automazione dei processi industriali. Qui trova come lavoriamo e cosa potremmo fare per Logel S.r.l. CON Unico Socio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Logel S.r.l. CON Unico Socio.",
+ "evidence": [
+  {
+   "claim": "In Logel S.r.l. CON Unico Socio progettate, producete e installate apparati elettrici ed elettronici per l'automazione dei processi industriali.",
+   "url": "https://logel.it",
+   "quote": "Progettazione, produzione, installazione, vendita e assistenza post-vendita di apparati elettrici-elettronici per l'automazione dei processi industriali"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

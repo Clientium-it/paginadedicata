@@ -1,0 +1,28 @@
+{
+ "slug": "toschi-vignola-2",
+ "company": "Toschi Vignola",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Toschi Vignola con le amarene come prodotto simbolo avete più di 400 referenze tra frutta e spirits. Qui trova come lavoriamo e cosa potremmo fare per Toschi Vignola.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Toschi Vignola.",
+ "evidence": [
+  {
+   "claim": "In Toschi Vignola con le amarene come prodotto simbolo avete più di 400 referenze tra frutta e spirits.",
+   "url": "https://toschi.it/",
+   "quote": "Oggi, con le amarene come prodotto simbolo, Toschi vanta più di 400 referenze nel mondo frutta e spirits"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

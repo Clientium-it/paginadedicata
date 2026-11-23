@@ -1,0 +1,28 @@
+{
+ "slug": "vortice-elettrosociali",
+ "company": "Vortice Elettrosociali",
+ "first_name": "Lorenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Vortice Elettrosociali producete unità di trattamento aria, recuperatori di calore e macchine per la climatizzazione. Qui trova come lavoriamo e cosa potremmo fare per Vortice Elettrosociali.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vortice Elettrosociali.",
+ "evidence": [
+  {
+   "claim": "In Vortice Elettrosociali producete unità di trattamento aria, recuperatori di calore e macchine per la climatizzazione.",
+   "url": "http://www.vorticeindustrial.com/it/chi-siamo/sede",
+   "quote": "unità di trattamento aria, recuperatori di calore e macchine per la climatizzazione per applicazioni commerciali ed industriali"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

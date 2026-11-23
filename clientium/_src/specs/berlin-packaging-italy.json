@@ -1,0 +1,28 @@
+{
+ "slug": "berlin-packaging-italy",
+ "company": "Berlin Packaging Italy",
+ "first_name": "Darrin",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Berlin Packaging Italy fornite imballaggi e chiusure in vetro, plastica e metallo. Qui trova come lavoriamo e cosa potremmo fare per Berlin Packaging Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Berlin Packaging Italy.",
+ "evidence": [
+  {
+   "claim": "In Berlin Packaging Italy fornite imballaggi e chiusure in vetro, plastica e metallo.",
+   "url": "https://www.berlinpackaging.eu/it/chi-siamo",
+   "quote": "the world's largest Hybrid Packaging Supplier® of glass, plastic and metal packaging and closures"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

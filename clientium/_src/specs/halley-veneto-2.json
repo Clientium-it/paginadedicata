@@ -1,0 +1,28 @@
+{
+ "slug": "halley-veneto-2",
+ "company": "Halley Veneto",
+ "first_name": "Manuel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Halley Veneto sviluppate e offrite soluzioni che affiancano la Pubblica Amministrazione nella transizione al digitale. Qui trova come lavoriamo e cosa potremmo fare per Halley Veneto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Halley Veneto.",
+ "evidence": [
+  {
+   "claim": "In Halley Veneto sviluppate e offrite soluzioni che affiancano la Pubblica Amministrazione nella transizione al digitale.",
+   "url": "https://halleyveneto.it",
+   "quote": "Sviluppiamo e offriamo soluzioni in affiancamento alla Pubblica Amministrazione nella transizione al digitale"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

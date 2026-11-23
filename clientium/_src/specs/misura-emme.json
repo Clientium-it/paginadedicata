@@ -1,0 +1,28 @@
+{
+ "slug": "misura-emme",
+ "company": "Misura Emme",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Misura Emme realizzate prodotti made in Italy firmati da architetti famosi con la cultura artigiana brianzola. Qui trova come lavoriamo e cosa potremmo fare per Misura Emme.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Misura Emme.",
+ "evidence": [
+  {
+   "claim": "In Misura Emme realizzate prodotti made in Italy firmati da architetti famosi con la cultura artigiana brianzola.",
+   "url": "https://www.misuraemme.it/azienda",
+   "quote": "100% made in Italy, designed by famous architects and realised making use of the artisan culture of professionals of the Brianza area"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

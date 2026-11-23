@@ -1,0 +1,28 @@
+{
+ "slug": "ofolux",
+ "company": "Ofolux",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Ofolux progettate e producete sistemi di illuminazione e interni per il settore automotive e ferroviario. Qui trova come lavoriamo e cosa potremmo fare per Ofolux.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ofolux.",
+ "evidence": [
+  {
+   "claim": "In Ofolux progettate e producete sistemi di illuminazione e interni per il settore automotive e ferroviario.",
+   "url": "https://www.ofolux.it",
+   "quote": "specializzata nel design e nella produzione di sistemi di illuminazione e interni per il settore Automotive e Ferroviario"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

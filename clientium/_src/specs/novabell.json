@@ -1,0 +1,28 @@
+{
+ "slug": "novabell",
+ "company": "Novabell",
+ "first_name": "Mattia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Novabell avete lanciato Outwalk 20mm, dedicato alle pavimentazioni outdoor spessorate. Qui trova come lavoriamo e cosa potremmo fare per Novabell.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Novabell.",
+ "evidence": [
+  {
+   "claim": "In Novabell avete lanciato Outwalk 20mm, dedicato alle pavimentazioni outdoor spessorate.",
+   "url": "https://novabell.it/azienda",
+   "quote": "Nasce il brand Outwalk 20mm, dedicato alle pavimentazioni outdoor spessorate"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "technipes-2",
+ "company": "Technipes",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Technipes producete macchine e impianti per la pesatura, l'insacco e il confezionamento. Qui trova come lavoriamo e cosa potremmo fare per Technipes.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Technipes.",
+ "evidence": [
+  {
+   "claim": "In Technipes producete macchine e impianti per la pesatura, l'insacco e il confezionamento.",
+   "url": "https://technipes.com/azienda/",
+   "quote": "produciamo macchine ed impianti per la pesatura, l'insacco ed il confezionamento"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

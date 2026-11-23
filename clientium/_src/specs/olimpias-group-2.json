@@ -1,0 +1,28 @@
+{
+ "slug": "olimpias-group-2",
+ "company": "Olimpias Group",
+ "first_name": "Christopher",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Olimpias Group operate con filati, tessuti ed etichette adottando le migliori tecnologie. Qui trova come lavoriamo e cosa potremmo fare per Olimpias Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Olimpias Group.",
+ "evidence": [
+  {
+   "claim": "In Olimpias Group operate con filati, tessuti ed etichette adottando le migliori tecnologie.",
+   "url": "https://olimpias.com",
+   "quote": "Olimpias Yarns, Olimpias Fabrics e Olimpias Labels che operano adottando le migliori tecnologie"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

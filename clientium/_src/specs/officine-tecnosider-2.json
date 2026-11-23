@@ -1,0 +1,28 @@
+{
+ "slug": "officine-tecnosider-2",
+ "company": "Officine Tecnosider",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Officine Tecnosider producete lamiere laminate a caldo. Qui trova come lavoriamo e cosa potremmo fare per Officine Tecnosider.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Officine Tecnosider.",
+ "evidence": [
+  {
+   "claim": "In Officine Tecnosider producete lamiere laminate a caldo.",
+   "url": "http://www.officinetecnosider.it/en/index.html",
+   "quote": "target company in field of hot rolled plates production"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

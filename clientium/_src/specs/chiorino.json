@@ -1,0 +1,28 @@
+{
+ "slug": "chiorino",
+ "company": "Chiorino",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Chiorino producete nastri trasportatori e di processo, cinghie di trasmissione e rivestimenti per rulli. Qui trova come lavoriamo e cosa potremmo fare per Chiorino.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Chiorino.",
+ "evidence": [
+  {
+   "claim": "In Chiorino producete nastri trasportatori e di processo, cinghie di trasmissione e rivestimenti per rulli.",
+   "url": "https://www.chiorino.com",
+   "quote": "Conveyor and process belts, Homogeneous and drive belts, Plastic Modular Belts, Machine tapes, Power transmission belts, Timing belts, Polyurethane round and V-belts, Profiles, guides, Sidewalls, Seamless belts, Roller coverings, Elastomer and silicone sheeting"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

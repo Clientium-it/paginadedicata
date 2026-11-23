@@ -1,0 +1,28 @@
+{
+ "slug": "gruppo-isc",
+ "company": "Gruppo ISC",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Gruppo ISC progettate soluzioni di intelligenza artificiale, sicurezza informatica e master data management. Qui trova come lavoriamo e cosa potremmo fare per Gruppo ISC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo ISC.",
+ "evidence": [
+  {
+   "claim": "In Gruppo ISC progettate soluzioni di intelligenza artificiale, sicurezza informatica e master data management.",
+   "url": "https://gruppoisc.com",
+   "quote": "eccelle nella progettazione di soluzioni basate sull'Intelligenza Artificiale e si posiziona come leader nella sicurezza informatica e nel master data management"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

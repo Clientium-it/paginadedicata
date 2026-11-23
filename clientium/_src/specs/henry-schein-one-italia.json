@@ -1,0 +1,28 @@
+{
+ "slug": "henry-schein-one-italia",
+ "company": "Henry Schein ONE Italia",
+ "first_name": "Stefania",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Henry Schein ONE Italia progettate software per ottimizzare la gestione quotidiana di studi dentistici e laboratori odontotecnici. Qui trova come lavoriamo e cosa potremmo fare per Henry Schein ONE Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Henry Schein ONE Italia.",
+ "evidence": [
+  {
+   "claim": "In Henry Schein ONE Italia progettate software per ottimizzare la gestione quotidiana di studi dentistici e laboratori odontotecnici.",
+   "url": "https://orisline.com",
+   "quote": "soluzioni software progettate per ottimizzare la gestione quotidiana di Studi Dentistici e Laboratori Odontotecnici"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

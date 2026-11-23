@@ -1,0 +1,28 @@
+{
+ "slug": "industria-confezioni-montecatini-in-co-m",
+ "company": "Industria Confezioni Montecatini in.co.m",
+ "first_name": "Antonino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Industria Confezioni Montecatini in.co.m da 50 anni producete e distribuite abbigliamento. Qui trova come lavoriamo e cosa potremmo fare per Industria Confezioni Montecatini in.co.m.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Industria Confezioni Montecatini in.co.m.",
+ "evidence": [
+  {
+   "claim": "In Industria Confezioni Montecatini in.co.m da 50 anni producete e distribuite abbigliamento.",
+   "url": "https://incomitaly.com",
+   "quote": "Siamo specializzati da 50 anni nella produzione e nella distribuzione di abbigliamento"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

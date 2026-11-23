@@ -1,0 +1,28 @@
+{
+ "slug": "enginsoft-2",
+ "company": "Enginsoft",
+ "first_name": "Giulio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Enginsoft fornite ecosistemi digitali su misura che ottimizzano progettazione e produzione. Qui trova come lavoriamo e cosa potremmo fare per Enginsoft.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Enginsoft.",
+ "evidence": [
+  {
+   "claim": "In Enginsoft fornite ecosistemi digitali su misura che ottimizzano progettazione e produzione.",
+   "url": "https://www.enginsoft.com/it/azienda.html",
+   "quote": "Fornire ecosistemi digitali su misura che ottimizzano progettazione e produzione, trasformando la complessità tecnologica in vantaggi competitivi concreti"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

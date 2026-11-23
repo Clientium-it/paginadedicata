@@ -1,0 +1,28 @@
+{
+ "slug": "grafikontrol-controlli-grafici-e-industriali",
+ "company": "Grafikontrol Controlli Grafici e Industriali",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Grafikontrol Controlli Grafici e Industriali producete apparecchiature ad alte prestazioni per l'industria della stampa e del converting. Qui trova come lavoriamo e cosa potremmo fare per Grafikontrol Controlli Grafici e Industriali.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Grafikontrol Controlli Grafici e Industriali.",
+ "evidence": [
+  {
+   "claim": "In Grafikontrol Controlli Grafici e Industriali producete apparecchiature ad alte prestazioni per l'industria della stampa e del converting.",
+   "url": "https://www.grafikontrol.it",
+   "quote": "riconosciuta come leader mondiale nella produzione di apparecchiature ad elevate prestazioni per l'industria della stampa e del converting"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

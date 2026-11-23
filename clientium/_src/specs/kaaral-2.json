@@ -1,0 +1,28 @@
+{
+ "slug": "kaaral-2",
+ "company": "Kaaral",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Kaaral proponete marchi professionali per la cura e la colorazione dei capelli. Qui trova come lavoriamo e cosa potremmo fare per Kaaral.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kaaral.",
+ "evidence": [
+  {
+   "claim": "In Kaaral proponete marchi professionali per la cura e la colorazione dei capelli.",
+   "url": "https://kaaral.com",
+   "quote": "Our brands represent the highest standards in professional hair care and color."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

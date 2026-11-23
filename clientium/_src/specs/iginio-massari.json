@@ -1,0 +1,28 @@
+{
+ "slug": "iginio-massari",
+ "company": "Iginio Massari",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Iginio Massari dal 1971 date vita a dolci capolavori nel laboratorio della Pasticceria Veneto. Qui trova come lavoriamo e cosa potremmo fare per Iginio Massari.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Iginio Massari.",
+ "evidence": [
+  {
+   "claim": "In Iginio Massari dal 1971 date vita a dolci capolavori nel laboratorio della Pasticceria Veneto.",
+   "url": "https://www.iginiomassari.it/pages/pasticceria-veneto-brescia",
+   "quote": "La Pasticceria Veneto venne inaugurata nel 1971 e qui Iginio Massari ha creato il suo laboratorio, o meglio il suo studio di artista della pasticceria, dove da sempre dà vita a dolci capolavori, da ammirare prima e da gustare poi."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

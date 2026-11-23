@@ -1,0 +1,28 @@
+{
+ "slug": "pharmathek-2",
+ "company": "Pharmathek",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Pharmathek sviluppate, producete e installate magazzini automatizzati e robot per le farmacie. Qui trova come lavoriamo e cosa potremmo fare per Pharmathek.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pharmathek.",
+ "evidence": [
+  {
+   "claim": "In Pharmathek sviluppate, producete e installate magazzini automatizzati e robot per le farmacie.",
+   "url": "https://pharmathek.com",
+   "quote": "Pharmathek sviluppa, produce e installa magazzini automatizzati e robot per tutte le farmacie"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

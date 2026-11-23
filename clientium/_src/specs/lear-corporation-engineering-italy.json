@@ -1,0 +1,28 @@
+{
+ "slug": "lear-corporation-engineering-italy",
+ "company": "Lear Corporation Engineering Italy",
+ "first_name": "Valentina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Lear Corporation Engineering Italy sviluppate sedili e sistemi elettrici con tecnologie avanzate per i principali costruttori automobilistici. Qui trova come lavoriamo e cosa potremmo fare per Lear Corporation Engineering Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lear Corporation Engineering Italy.",
+ "evidence": [
+  {
+   "claim": "In Lear Corporation Engineering Italy sviluppate sedili e sistemi elettrici con tecnologie avanzate per i principali costruttori automobilistici.",
+   "url": "https://www.lear.com",
+   "quote": "Lear Corporation is a global automotive leader in Seating and E-Systems, delivering advanced technologies to the world's leading manufacturers"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

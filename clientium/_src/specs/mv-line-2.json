@@ -1,0 +1,28 @@
+{
+ "slug": "mv-line-2",
+ "company": "MV Line",
+ "first_name": "Alessio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In MV Line producete zanzariere e sistemi oscuranti e filtranti, oltre ai sistemi avvolgibili. Qui trova come lavoriamo e cosa potremmo fare per MV Line.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MV Line.",
+ "evidence": [
+  {
+   "claim": "In MV Line producete zanzariere e sistemi oscuranti e filtranti, oltre ai sistemi avvolgibili.",
+   "url": "https://mvline.it/en/azienda/",
+   "quote": "Nata nel 1996 producendo ed assemblando sistemi avvolgibili in alluminio ed acciaio, ha progressivamente ampliato la propria attività, focalizzando i propri interessi nella produzione industriale di zanzariere e di sistemi oscuranti e filtranti in generale"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

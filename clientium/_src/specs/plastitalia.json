@@ -1,0 +1,28 @@
+{
+ "slug": "plastitalia",
+ "company": "Plastitalia",
+ "first_name": "Ornella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Plastitalia producete raccordi in polietilene per acqua, gas e fluidi industriali. Qui trova come lavoriamo e cosa potremmo fare per Plastitalia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Plastitalia.",
+ "evidence": [
+  {
+   "claim": "In Plastitalia producete raccordi in polietilene per acqua, gas e fluidi industriali.",
+   "url": "https://www.plastitaliaspa.com/company/about-us/",
+   "quote": "Plastitalia represents the italian excellence for the production of polyethylene fittings for water, gas and industrial fluids."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

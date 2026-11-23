@@ -1,0 +1,28 @@
+{
+ "slug": "sbs-3",
+ "company": "SBS",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In SBS siete un riferimento internazionale negli accessori per smartphone e tablet. Qui trova come lavoriamo e cosa potremmo fare per SBS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SBS.",
+ "evidence": [
+  {
+   "claim": "In SBS siete un riferimento internazionale negli accessori per smartphone e tablet.",
+   "url": "https://www.sbsmobile.com/en/pages/74-company",
+   "quote": "Founded in 1994 in the province of Novara (Italy), SBS is an international benchmark in the field of accessories for smartphones and tablets."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

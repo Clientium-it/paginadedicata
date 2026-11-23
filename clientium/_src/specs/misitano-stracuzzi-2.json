@@ -1,0 +1,28 @@
+{
+ "slug": "misitano-stracuzzi-2",
+ "company": "Misitano & Stracuzzi",
+ "first_name": "Elisabeth",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Misitano & Stracuzzi producete oli essenziali e succhi di agrumi. Qui trova come lavoriamo e cosa potremmo fare per Misitano & Stracuzzi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Misitano & Stracuzzi.",
+ "evidence": [
+  {
+   "claim": "In Misitano & Stracuzzi producete oli essenziali e succhi di agrumi.",
+   "url": "https://misitanoestracuzzi.com",
+   "quote": "Siamo leader nella produzione di oli essenziali e succhi di agrumi"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

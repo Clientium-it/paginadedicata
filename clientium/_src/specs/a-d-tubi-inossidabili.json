@@ -1,0 +1,28 @@
+{
+ "slug": "a-d-tubi-inossidabili",
+ "company": "A.d. Tubi Inossidabili",
+ "first_name": "Fabiola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In A.d. Tubi Inossidabili producete tubi saldati in acciaio inox, duplex, leghe di nichel e titanio. Qui trova come lavoriamo e cosa potremmo fare per A.d. Tubi Inossidabili.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per A.d. Tubi Inossidabili.",
+ "evidence": [
+  {
+   "claim": "In A.d. Tubi Inossidabili producete tubi saldati in acciaio inox, duplex, leghe di nichel e titanio.",
+   "url": "https://adtubi.com",
+   "quote": "leading Italian manufacturer of welded tubes in stainless steel, duplex, nickel alloys and titanium"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

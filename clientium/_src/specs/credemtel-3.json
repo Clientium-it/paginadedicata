@@ -1,0 +1,28 @@
+{
+ "slug": "credemtel-3",
+ "company": "Credemtel",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Credemtel da oltre trentacinque anni affiancate i clienti nel percorso digitale. Qui trova come lavoriamo e cosa potremmo fare per Credemtel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Credemtel.",
+ "evidence": [
+  {
+   "claim": "In Credemtel da oltre trentacinque anni affiancate i clienti nel percorso digitale.",
+   "url": "https://www.credemtel.it/chi-siamo",
+   "quote": "Siamo la tech company del gruppo Credem. Con oltre trentacinque anni di esperienza, siamo il partner strategico che ti affianca nel percorso digitale."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

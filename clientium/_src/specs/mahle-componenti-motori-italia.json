@@ -1,0 +1,28 @@
+{
+ "slug": "mahle-componenti-motori-italia",
+ "company": "Mahle Componenti Motori Italia",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Mahle Componenti Motori Italia lavorate su elettrificazione, gestione termica, celle a combustibile e motori a combustione ad alta efficienza. Qui trova come lavoriamo e cosa potremmo fare per Mahle Componenti Motori Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mahle Componenti Motori Italia.",
+ "evidence": [
+  {
+   "claim": "In Mahle Componenti Motori Italia lavorate su elettrificazione, gestione termica, celle a combustibile e motori a combustione ad alta efficienza.",
+   "url": "https://www.mahle.com/en/about-mahle/",
+   "quote": "electrification and thermal management as well as further technologies to reduce carbon emissions, such as fuel cells and highly efficient internal combustion engines"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

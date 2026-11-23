@@ -1,0 +1,28 @@
+{
+ "slug": "plax-3",
+ "company": "Plax",
+ "first_name": "Eric",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Plax sviluppate insieme al cliente e producete particolari plastici ad alte prestazioni su misura per gli OEM. Qui trova come lavoriamo e cosa potremmo fare per Plax.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Plax.",
+ "evidence": [
+  {
+   "claim": "In Plax sviluppate insieme al cliente e producete particolari plastici ad alte prestazioni su misura per gli OEM.",
+   "url": "https://www.plax.it/divisioni/industrial/",
+   "quote": "co-sviluppa, ingegnerizza e produce particolari plastici ad alta prestazione e su misura per il mercato OEM (automotive, aerospaziale, edilizia, domotica, elettronica, vending)"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

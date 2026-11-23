@@ -1,0 +1,28 @@
+{
+ "slug": "indel-b",
+ "company": "Indel B",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Indel B fornite sistemi di refrigerazione per veicoli, hotel, navi da crociera e outdoor. Qui trova come lavoriamo e cosa potremmo fare per Indel B.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Indel B.",
+ "evidence": [
+  {
+   "claim": "In Indel B fornite sistemi di refrigerazione per veicoli, hotel, navi da crociera e outdoor.",
+   "url": "https://www.indelb.com",
+   "quote": "Das führende Unternehmen in der Bereitstellung von Kühl- und Kältesystemen für Fahrzeuge, Hotels, Kreuzfahrtschiffe und Outdoor-Freizeitgestaltung."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

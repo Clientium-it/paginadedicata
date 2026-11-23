@@ -1,0 +1,28 @@
+{
+ "slug": "italgreen",
+ "company": "Italgreen",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Italgreen proponete diverse linee di prodotti per campi sportivi e giardini. Qui trova come lavoriamo e cosa potremmo fare per Italgreen.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Italgreen.",
+ "evidence": [
+  {
+   "claim": "In Italgreen proponete diverse linee di prodotti per campi sportivi e giardini.",
+   "url": "https://www.italgreen.it/il-gruppo/azienda",
+   "quote": "Proponiamo diverse linee di prodotti per campi sportivi e giardini"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

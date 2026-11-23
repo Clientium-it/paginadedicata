@@ -1,0 +1,28 @@
+{
+ "slug": "lectra-italia",
+ "company": "Lectra Italia",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Lectra Italia unite software, macchine da taglio, dati e servizi. Qui trova come lavoriamo e cosa potremmo fare per Lectra Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lectra Italia.",
+ "evidence": [
+  {
+   "claim": "In Lectra Italia unite software, macchine da taglio, dati e servizi.",
+   "url": "https://www.lectra.com/en",
+   "quote": "Lectra unites human expertise with cutting-edge industrial intelligence, bringing together software, cutting equipment, data and services to ignite smarter, faster ways of working."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

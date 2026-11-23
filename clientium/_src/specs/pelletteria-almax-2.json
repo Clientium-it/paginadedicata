@@ -1,0 +1,28 @@
+{
+ "slug": "pelletteria-almax-2",
+ "company": "Pelletteria Almax",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Pelletteria Almax producete borse, trolley e piccola pelletteria per conto terzi nel mondo del lusso. Qui trova come lavoriamo e cosa potremmo fare per Pelletteria Almax.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pelletteria Almax.",
+ "evidence": [
+  {
+   "claim": "In Pelletteria Almax producete borse, trolley e piccola pelletteria per conto terzi nel mondo del lusso.",
+   "url": "https://pelletteriaalmax.com/azienda/",
+   "quote": "L'azienda opera per il mondo del lusso. Produce borse, trolley, borsoni da viaggio e tutti gli articoli di piccola pelletteria per conto terzi."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

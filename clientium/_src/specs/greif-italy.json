@@ -1,0 +1,28 @@
+{
+ "slug": "greif-italy",
+ "company": "Greif Italy",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Greif Italy producete fusti in acciaio, plastica e fibra, cisternette IBC e contenitori ricondizionati. Qui trova come lavoriamo e cosa potremmo fare per Greif Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Greif Italy.",
+ "evidence": [
+  {
+   "claim": "In Greif Italy producete fusti in acciaio, plastica e fibra, cisternette IBC e contenitori ricondizionati.",
+   "url": "https://www.greif.com",
+   "quote": "We produce steel, plastic and fibre drums, intermediate bulk containers, reconditioned containers, flexible products, containerboard, uncoated recycled paperboard, coated recycled paperboard, tubes and cores and a diverse mix of specialty products"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

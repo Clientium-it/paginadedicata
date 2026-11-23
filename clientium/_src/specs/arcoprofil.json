@@ -1,0 +1,28 @@
+{
+ "slug": "arcoprofil",
+ "company": "Arcoprofil",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Arcoprofil avete investito per primi in Italia in un impianto di deformazione a freddo per profili scanalati. Qui trova come lavoriamo e cosa potremmo fare per Arcoprofil.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Arcoprofil.",
+ "evidence": [
+  {
+   "claim": "In Arcoprofil avete investito per primi in Italia in un impianto di deformazione a freddo per profili scanalati.",
+   "url": "https://www.arcoprofil.com/chi-siamo/",
+   "quote": "prima azienda in Italia, investe in un innovativo impianto di deformazione a freddo per profili scanalati dell'azienda tedesca Felss"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

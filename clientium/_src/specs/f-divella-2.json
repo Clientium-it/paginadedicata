@@ -1,0 +1,28 @@
+{
+ "slug": "f-divella-2",
+ "company": "F. Divella",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In F. Divella macinate grani selezionati trasformandoli in semola per pasta, farina e biscotti. Qui trova come lavoriamo e cosa potremmo fare per F. Divella.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per F. Divella.",
+ "evidence": [
+  {
+   "claim": "In F. Divella macinate grani selezionati trasformandoli in semola per pasta, farina e biscotti.",
+   "url": "https://www.divella.it/it/azienda/",
+   "quote": "I nostri mulini macinano grani selezionati tra i migliori, trasformandoli in semola per la produzione di pasta, farina e biscotti."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

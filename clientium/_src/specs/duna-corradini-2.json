@@ -1,0 +1,28 @@
+{
+ "slug": "duna-corradini-2",
+ "company": "Duna-corradini",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Duna-corradini offrite schiume poliuretaniche e poliisocianurate in diverse densità, in blocchi, lastre e pezzi speciali. Qui trova come lavoriamo e cosa potremmo fare per Duna-corradini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Duna-corradini.",
+ "evidence": [
+  {
+   "claim": "In Duna-corradini offrite schiume poliuretaniche e poliisocianurate in diverse densità, in blocchi, lastre e pezzi speciali.",
+   "url": "https://dunagroup.com",
+   "quote": "Polyurethane and polyisocyanurate foams in different density, available in blocks, boards and special pieces"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

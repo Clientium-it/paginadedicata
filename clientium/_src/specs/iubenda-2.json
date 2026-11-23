@@ -1,0 +1,28 @@
+{
+ "slug": "iubenda-2",
+ "company": "Iubenda",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Iubenda offrite privacy policy, cookie banner, termini e condizioni e soluzioni per l'accessibilità. Qui trova come lavoriamo e cosa potremmo fare per Iubenda.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Iubenda.",
+ "evidence": [
+  {
+   "claim": "In Iubenda offrite privacy policy, cookie banner, termini e condizioni e soluzioni per l'accessibilità.",
+   "url": "https://www.iubenda.com/en/about-iubenda/",
+   "quote": "privacy policies and cookie banners to terms and conditions, accessibility and beyond"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "ipsen",
+ "company": "Ipsen",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Ipsen offrite trattamenti per tumori neuroendocrini e tumori di rene, fegato, tiroide, prostata e mammella. Qui trova come lavoriamo e cosa potremmo fare per Ipsen.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ipsen.",
+ "evidence": [
+  {
+   "claim": "In Ipsen offrite trattamenti per tumori neuroendocrini e tumori di rene, fegato, tiroide, prostata e mammella.",
+   "url": "https://www.ipsen.com/it/",
+   "quote": "portfolio di farmaci che include trattamenti per tumori neuroendocrini (NET) e tumori del rene, del fegato, della tiroide, della prostata e della mammella"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "giacomini-2",
+ "company": "Giacomini",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Giacomini producete componenti e sistemi per la climatizzazione, l'energia termica e la distribuzione di acqua e gas. Qui trova come lavoriamo e cosa potremmo fare per Giacomini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Giacomini.",
+ "evidence": [
+  {
+   "claim": "In Giacomini producete componenti e sistemi per la climatizzazione, l'energia termica e la distribuzione di acqua e gas.",
+   "url": "https://it.giacomini.com/chi-siamo/il-gruppo-giacomini",
+   "quote": "Produciamo in Italia ed esportiamo in tutto il mondo componenti e sistemi per la climatizzazione salubre degli ambienti, la gestione dell'energia termica e la distribuzione di acqua sanitaria e gas"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

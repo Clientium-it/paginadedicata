@@ -1,0 +1,28 @@
+{
+ "slug": "masidef-2",
+ "company": "Masidef",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Masidef offrite prodotti dal fissaggio agli utensili manuali fino agli accessori tecnici per mobili. Qui trova come lavoriamo e cosa potremmo fare per Masidef.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Masidef.",
+ "evidence": [
+  {
+   "claim": "In Masidef offrite prodotti dal fissaggio agli utensili manuali fino agli accessori tecnici per mobili.",
+   "url": "https://masidef.com/chi-siamo",
+   "quote": "un'ampia gamma di prodotti e servizi, dal settore del fissaggio agli utensili manuali, dall'assortimento di idraulica tecnica, idroterapia e rubinetti fino agli accessori tecnici per mobili"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

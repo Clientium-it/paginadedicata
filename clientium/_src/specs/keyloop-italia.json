@@ -1,0 +1,28 @@
+{
+ "slug": "keyloop-italia",
+ "company": "Keyloop Italia",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Keyloop Italia connettete ogni fase del ciclo di vita del retail automotive. Qui trova come lavoriamo e cosa potremmo fare per Keyloop Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Keyloop Italia.",
+ "evidence": [
+  {
+   "claim": "In Keyloop Italia connettete ogni fase del ciclo di vita del retail automotive.",
+   "url": "https://www.keyloop.com",
+   "quote": "We're connecting every phase of the automotive retail lifecycle by organising Fusion's extensive capabilities into four domains"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

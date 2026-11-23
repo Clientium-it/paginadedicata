@@ -1,0 +1,28 @@
+{
+ "slug": "sirca",
+ "company": "Sirca",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Sirca producete vernici per legno, plastica, vetro e ferro, poliesteri e resine. Qui trova come lavoriamo e cosa potremmo fare per Sirca.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sirca.",
+ "evidence": [
+  {
+   "claim": "In Sirca producete vernici per legno, plastica, vetro e ferro, poliesteri e resine.",
+   "url": "https://www.sirca.it",
+   "quote": "vernici per legno, vernici per plastica, vernici per vetro, vernici per ferro, poliesteri, e resine"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

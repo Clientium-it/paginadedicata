@@ -1,0 +1,28 @@
+{
+ "slug": "p-m",
+ "company": "P.M",
+ "first_name": "Guglielmo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In P.M realizzate lavorazioni meccaniche e assemblaggi di precisione. Qui trova come lavoriamo e cosa potremmo fare per P.M.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per P.M.",
+ "evidence": [
+  {
+   "claim": "In P.M realizzate lavorazioni meccaniche e assemblaggi di precisione.",
+   "url": "https://pm-spa.it",
+   "quote": "LAVORAZIONI MECCANICHE E ASSEMBLAGGI DI PRECISIONE Rapporti di fiducia dal 1976"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

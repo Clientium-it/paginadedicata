@@ -1,0 +1,28 @@
+{
+ "slug": "centro-carni-company-2",
+ "company": "Centro Carni Company",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Centro Carni Company seguite ogni fase, dalla selezione alla lavorazione, al confezionamento e alla spedizione. Qui trova come lavoriamo e cosa potremmo fare per Centro Carni Company.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Centro Carni Company.",
+ "evidence": [
+  {
+   "claim": "In Centro Carni Company seguite ogni fase, dalla selezione alla lavorazione, al confezionamento e alla spedizione.",
+   "url": "https://centrocarnicompany.com",
+   "quote": "Lavoriamo e seguiamo ogni fase del processo: selezione, lavorazione, confezionamento e spedizione"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

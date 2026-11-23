@@ -1,0 +1,28 @@
+{
+ "slug": "tamini-trasformatori",
+ "company": "Tamini Trasformatori",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Tamini Trasformatori realizzate trasformatori per tutto il flusso dell'energia, dalla generazione alla distribuzione. Qui trova come lavoriamo e cosa potremmo fare per Tamini Trasformatori.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tamini Trasformatori.",
+ "evidence": [
+  {
+   "claim": "In Tamini Trasformatori realizzate trasformatori per tutto il flusso dell'energia, dalla generazione alla distribuzione.",
+   "url": "https://www.tamini.it/prodotti/",
+   "quote": "Realizziamo trasformatori per i sistemi elettrici, coprendo tutto il flusso dell'energia, dalla generazione alla trasmissione fino alla distribuzione"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

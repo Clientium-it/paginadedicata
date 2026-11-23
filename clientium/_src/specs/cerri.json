@@ -1,0 +1,28 @@
+{
+ "slug": "cerri",
+ "company": "Cerri",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Cerri vi occupate di carpenteria metallica, fresatura, pressopiegatura, saldatura e taglio lamiera. Qui trova come lavoriamo e cosa potremmo fare per Cerri.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cerri.",
+ "evidence": [
+  {
+   "claim": "In Cerri vi occupate di carpenteria metallica, fresatura, pressopiegatura, saldatura e taglio lamiera.",
+   "url": "https://cerrisrl.it",
+   "quote": "lavorazione del metallo, della carpenteria metallica, della fresatura, della pressopiegatura, della saldatura e del taglio della lamiera in ferro, alluminio e acciaio inox"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "pa-digitale-3",
+ "company": "PA Digitale",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In PA Digitale sviluppate un sistema gestionale web nativo per gli enti. Qui trova come lavoriamo e cosa potremmo fare per PA Digitale.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PA Digitale.",
+ "evidence": [
+  {
+   "claim": "In PA Digitale sviluppate un sistema gestionale web nativo per gli enti.",
+   "url": "https://www.padigitale.it/company-profile/",
+   "quote": "sistema informativo gestionale per gli enti consolidato, sviluppato in tecnologia web nativa"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

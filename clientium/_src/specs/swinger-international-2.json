@@ -1,0 +1,28 @@
+{
+ "slug": "swinger-international-2",
+ "company": "Swinger International",
+ "first_name": "Diego",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Swinger International create valore duraturo per i brand della moda con una gestione strategica delle licenze. Qui trova come lavoriamo e cosa potremmo fare per Swinger International.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Swinger International.",
+ "evidence": [
+  {
+   "claim": "In Swinger International create valore duraturo per i brand della moda con una gestione strategica delle licenze.",
+   "url": "https://www.swinger.it",
+   "quote": "Creare valore duraturo per i brand della moda attraverso una gestione strategica delle licenze"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

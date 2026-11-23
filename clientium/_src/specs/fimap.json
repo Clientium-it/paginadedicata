@@ -1,0 +1,28 @@
+{
+ "slug": "fimap",
+ "company": "Fimap",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Fimap offrite soluzioni affidabili e accessibili per una pulizia efficace in ogni ambiente. Qui trova come lavoriamo e cosa potremmo fare per Fimap.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fimap.",
+ "evidence": [
+  {
+   "claim": "In Fimap offrite soluzioni affidabili e accessibili per una pulizia efficace in ogni ambiente.",
+   "url": "https://www.fimap.com/en",
+   "quote": "Reliable and affordable, for effective cleaning in any environment"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

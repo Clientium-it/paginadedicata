@@ -1,0 +1,28 @@
+{
+ "slug": "myfamily-2",
+ "company": "Myfamily",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Myfamily avete radici nella tradizione orafa di Valenza, dove il progetto è nato. Qui trova come lavoriamo e cosa potremmo fare per Myfamily.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Myfamily.",
+ "evidence": [
+  {
+   "claim": "In Myfamily avete radici nella tradizione orafa di Valenza, dove il progetto è nato.",
+   "url": "https://www.myfamily.it/en/content/4-our-history",
+   "quote": "Our origins, however, have their roots in the goldsmith tradition of Valenza, the place where the project was born and is still home to the company."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

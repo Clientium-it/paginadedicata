@@ -1,0 +1,28 @@
+{
+ "slug": "smith-nephew",
+ "company": "Smith & Nephew",
+ "first_name": "Martino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Smith & Nephew sviluppate tecnologie mediche per riparare, rigenerare e sostituire tessuti molli e duri. Qui trova come lavoriamo e cosa potremmo fare per Smith & Nephew.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Smith & Nephew.",
+ "evidence": [
+  {
+   "claim": "In Smith & Nephew sviluppate tecnologie mediche per riparare, rigenerare e sostituire tessuti molli e duri.",
+   "url": "https://www.smith-nephew.com/it-it/contact-us/contact-us-italy",
+   "quote": "Siamo un'azienda di tecnologie mediche focalizzata sulla riparazione, rigenerazione e sostituzione dei tessuti molli e duri."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

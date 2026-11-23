@@ -1,0 +1,28 @@
+{
+ "slug": "green-oleo-2",
+ "company": "Green Oleo",
+ "first_name": "Manuele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Green Oleo fornite un'ampia gamma di acidi grassi, glicerine e derivati. Qui trova come lavoriamo e cosa potremmo fare per Green Oleo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Green Oleo.",
+ "evidence": [
+  {
+   "claim": "In Green Oleo fornite un'ampia gamma di acidi grassi, glicerine e derivati.",
+   "url": "https://greenoleo.com",
+   "quote": "Siamo tra i principali produttori oleochimici in Europa, in grado di fornire un'ampia gamma di acidi grassi, glicerine e derivati"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

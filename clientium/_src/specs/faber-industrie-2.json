@@ -1,0 +1,28 @@
+{
+ "slug": "faber-industrie-2",
+ "company": "Faber Industrie",
+ "first_name": "Alice",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Faber Industrie progettate, producete, collaudate e commercializzate bombole e sistemi per gas ad alta pressione. Qui trova come lavoriamo e cosa potremmo fare per Faber Industrie.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Faber Industrie.",
+ "evidence": [
+  {
+   "claim": "In Faber Industrie progettate, producete, collaudate e commercializzate bombole e sistemi per gas ad alta pressione.",
+   "url": "https://faber-italy.com/",
+   "quote": "design, manufacturing, testing and marketing of high-pressure gas cylinders and systems"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "iacobucci-hf-aerospace",
+ "company": "Iacobucci HF Aerospace",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Iacobucci HF Aerospace progettate e producete galley insert, sedili VIP e trolley per l'aviazione. Qui trova come lavoriamo e cosa potremmo fare per Iacobucci HF Aerospace.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Iacobucci HF Aerospace.",
+ "evidence": [
+  {
+   "claim": "In Iacobucci HF Aerospace progettate e producete galley insert, sedili VIP e trolley per l'aviazione.",
+   "url": "https://iacobucci.aero",
+   "quote": "design and production of premium solutions for the aviation industry, creating Galley Inserts, VIP Seats, and Trolleys"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

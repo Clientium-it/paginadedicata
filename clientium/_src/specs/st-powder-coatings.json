@@ -1,0 +1,28 @@
+{
+ "slug": "st-powder-coatings",
+ "company": "ST Powder Coatings",
+ "first_name": "Mattia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In ST Powder Coatings offrite vernici in polvere poliestere, epossidiche, poliuretaniche e siliconiche, oltre a spray e mazzette colori. Qui trova come lavoriamo e cosa potremmo fare per ST Powder Coatings.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ST Powder Coatings.",
+ "evidence": [
+  {
+   "claim": "In ST Powder Coatings offrite vernici in polvere poliestere, epossidiche, poliuretaniche e siliconiche, oltre a spray e mazzette colori.",
+   "url": "https://www.stpowdercoatings.com/en/the-group/who-we-are",
+   "quote": "The offered products range from powder coatings in polyester, epoxy-polyester, epoxy, polyurethane and silicone systems, offered through a wide range of products and accessories, to complementary products such as spray paints and customizable colour charts."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

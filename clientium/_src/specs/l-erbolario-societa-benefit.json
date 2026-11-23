@@ -1,0 +1,28 @@
+{
+ "slug": "l-erbolario-societa-benefit",
+ "company": "L'erbolario Societa' Benefit",
+ "first_name": "Daria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In L'erbolario Societa' Benefit siete nati nel 1978 come piccola erboristeria artigiana. Qui trova come lavoriamo e cosa potremmo fare per L'erbolario Societa' Benefit.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per L'erbolario Societa' Benefit.",
+ "evidence": [
+  {
+   "claim": "In L'erbolario Societa' Benefit siete nati nel 1978 come piccola erboristeria artigiana.",
+   "url": "https://www.erbolario.com/it/il-mondo-l-erbolario/dal-1978-a-oggi-3028.html",
+   "quote": "L'Erbolario nasce a Lodi nel 1978 come piccola erboristeria artigiana"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

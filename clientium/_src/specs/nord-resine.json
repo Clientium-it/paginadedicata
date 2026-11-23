@@ -1,0 +1,28 @@
+{
+ "slug": "nord-resine",
+ "company": "Nord Resine",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Nord Resine dal 1987 offrite soluzioni innovative nel settore industriale edile. Qui trova come lavoriamo e cosa potremmo fare per Nord Resine.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nord Resine.",
+ "evidence": [
+  {
+   "claim": "In Nord Resine dal 1987 offrite soluzioni innovative nel settore industriale edile.",
+   "url": "https://www.nordresine.com",
+   "quote": "NordResine, dal 1987, è attiva nel settore industriale edile offrendo soluzioni innovative"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "catellani-smith",
+ "company": "Catellani & Smith",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Catellani & Smith realizzate ancora oggi le vostre lampade a mano, tutte in Italia. Qui trova come lavoriamo e cosa potremmo fare per Catellani & Smith.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Catellani & Smith.",
+ "evidence": [
+  {
+   "claim": "In Catellani & Smith realizzate ancora oggi le vostre lampade a mano, tutte in Italia.",
+   "url": "https://www.catellanismith.com/en/azienda/",
+   "quote": "Our lamps are still made by hand today, in attractive workspaces. They are all made in Italy, on the banks of the Serio River."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

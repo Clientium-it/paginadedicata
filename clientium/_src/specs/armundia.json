@@ -1,0 +1,28 @@
+{
+ "slug": "armundia",
+ "company": "Armundia",
+ "first_name": "Elisa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Armundia offrite piattaforme e consulenza per l'innovazione di banche, finanza e assicurazioni. Qui trova come lavoriamo e cosa potremmo fare per Armundia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Armundia.",
+ "evidence": [
+  {
+   "claim": "In Armundia offrite piattaforme e consulenza per l'innovazione di banche, finanza e assicurazioni.",
+   "url": "https://armundia.com",
+   "quote": "We are a worldwide tech company, specializing in cutting-edge platforms and advanced consulting services for the sustainable innovation of the banking, financial and insurance industries."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

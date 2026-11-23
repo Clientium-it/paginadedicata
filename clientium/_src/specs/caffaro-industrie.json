@@ -1,0 +1,28 @@
+{
+ "slug": "caffaro-industrie",
+ "company": "Caffaro Industrie",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Caffaro Industrie producete derivati dalla clorurazione di idrocarburi alifatici lineari. Qui trova come lavoriamo e cosa potremmo fare per Caffaro Industrie.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Caffaro Industrie.",
+ "evidence": [
+  {
+   "claim": "In Caffaro Industrie producete derivati dalla clorurazione di idrocarburi alifatici lineari.",
+   "url": "https://www.caffaroindustrie.com/it/cloroparaffine.php",
+   "quote": "prodotti ottenuti mediante clorurazione di idrocarburi alifatici lineari"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

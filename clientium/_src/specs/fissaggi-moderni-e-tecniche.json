@@ -1,0 +1,28 @@
+{
+ "slug": "fissaggi-moderni-e-tecniche",
+ "company": "Fissaggi Moderni e Tecniche",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Fissaggi Moderni e Tecniche offrite oltre 5.000 elementi di fissaggio per cavi e altri componenti. Qui trova come lavoriamo e cosa potremmo fare per Fissaggi Moderni e Tecniche.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fissaggi Moderni e Tecniche.",
+ "evidence": [
+  {
+   "claim": "In Fissaggi Moderni e Tecniche offrite oltre 5.000 elementi di fissaggio per cavi e altri componenti.",
+   "url": "https://www.fimoworld.com/it/chi-siamo",
+   "quote": "oltre 5.000 elementi di fissaggio dei cavi e altri componenti"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "cangini-benne",
+ "company": "Cangini Benne",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Cangini Benne offrite attrezzature performanti per ogni tipo di macchina. Qui trova come lavoriamo e cosa potremmo fare per Cangini Benne.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cangini Benne.",
+ "evidence": [
+  {
+   "claim": "In Cangini Benne offrite attrezzature performanti per ogni tipo di macchina.",
+   "url": "https://canginibenne.com",
+   "quote": "Le attrezzature più performanti per ogni tipo di macchina"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

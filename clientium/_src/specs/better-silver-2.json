@@ -1,0 +1,28 @@
+{
+ "slug": "better-silver-2",
+ "company": "Better Silver",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Better Silver usate argento riciclato al 100% ed energia rinnovabile al 100%. Qui trova come lavoriamo e cosa potremmo fare per Better Silver.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Better Silver.",
+ "evidence": [
+  {
+   "claim": "In Better Silver usate argento riciclato al 100% ed energia rinnovabile al 100%.",
+   "url": "https://www.bettersilver.it",
+   "quote": "Better Silver uses 100% recycled silver and 100% renewable energy"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

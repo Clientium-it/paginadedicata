@@ -1,0 +1,28 @@
+{
+ "slug": "mazzucchelli-1849",
+ "company": "Mazzucchelli 1849",
+ "first_name": "Cristina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Mazzucchelli 1849 producete e distribuite acetato di cellulosa per montature da vista e da sole. Qui trova come lavoriamo e cosa potremmo fare per Mazzucchelli 1849.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mazzucchelli 1849.",
+ "evidence": [
+  {
+   "claim": "In Mazzucchelli 1849 producete e distribuite acetato di cellulosa per montature da vista e da sole.",
+   "url": "https://www.mazzucchelli1849.it/pages/heritage",
+   "quote": "a worldwide leader in the manufacturing and distribution of Cellulose Acetate, a plastic material, traditionally used for the production of spectacles and sunglass frames"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

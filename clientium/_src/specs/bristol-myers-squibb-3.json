@@ -1,0 +1,28 @@
+{
+ "slug": "bristol-myers-squibb-3",
+ "company": "Bristol-myers Squibb",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Bristol-myers Squibb scoprite, sviluppate e distribuite farmaci innovativi per malattie gravi. Qui trova come lavoriamo e cosa potremmo fare per Bristol-myers Squibb.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bristol-myers Squibb.",
+ "evidence": [
+  {
+   "claim": "In Bristol-myers Squibb scoprite, sviluppate e distribuite farmaci innovativi per malattie gravi.",
+   "url": "https://www.bms.com/about-us.html",
+   "quote": "Bristol Myers Squibb is a global biopharmaceutical company dedicated to discovering, developing and delivering innovative medicines that help patients overcome serious diseases"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

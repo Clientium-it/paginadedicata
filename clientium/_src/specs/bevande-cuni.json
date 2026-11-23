@@ -1,0 +1,28 @@
+{
+ "slug": "bevande-cuni",
+ "company": "Bevande Cuni",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Bevande Cuni distribuite dal 1990 i migliori marchi per l'Horeca tra Brescia, Bergamo e Cremona. Qui trova come lavoriamo e cosa potremmo fare per Bevande Cuni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bevande Cuni.",
+ "evidence": [
+  {
+   "claim": "In Bevande Cuni distribuite dal 1990 i migliori marchi per l'Horeca tra Brescia, Bergamo e Cremona.",
+   "url": "https://bevandecuni.it/chi-siamo",
+   "quote": "Dal 1990 distribuiamo i miegliori marchi nel il mercato Horeca nelle province di Brescia, Bergamo e Cremona."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "coem",
+ "company": "Coem",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Coem producete rivestimenti e pavimenti in gres porcellanato per l'edilizia residenziale e commerciale. Qui trova come lavoriamo e cosa potremmo fare per Coem.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Coem.",
+ "evidence": [
+  {
+   "claim": "In Coem producete rivestimenti e pavimenti in gres porcellanato per l'edilizia residenziale e commerciale.",
+   "url": "https://www.coem.it/azienda",
+   "quote": "Restituire la bellezza della natura, attraverso rivestimenti e pavimenti in gres porcellanato dalle qualità tecnologiche eccellenti, destinati all'edilizia residenziale e commerciale, è da sempre il nostro obiettivo primario"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

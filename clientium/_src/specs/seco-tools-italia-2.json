@@ -1,0 +1,28 @@
+{
+ "slug": "seco-tools-italia-2",
+ "company": "Seco Tools Italia",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Seco Tools Italia offrite soluzioni complete per l'asportazione truciolo e inserti in metallo duro. Qui trova come lavoriamo e cosa potremmo fare per Seco Tools Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Seco Tools Italia.",
+ "evidence": [
+  {
+   "claim": "In Seco Tools Italia offrite soluzioni complete per l'asportazione truciolo e inserti in metallo duro.",
+   "url": "https://www.secotools.com",
+   "quote": "Seco Tools is one of the world's largest tooling company and providers of comprehensive metal cutting solutions and carbide inserts for milling, stationary tools, holemaking and tooling systems."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

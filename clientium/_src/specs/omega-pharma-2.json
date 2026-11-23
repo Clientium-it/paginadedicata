@@ -1,0 +1,28 @@
+{
+ "slug": "omega-pharma-2",
+ "company": "Omega Pharma",
+ "first_name": "Rossella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Omega Pharma offrite integratori e dispositivi medici per la salute di ognuno. Qui trova come lavoriamo e cosa potremmo fare per Omega Pharma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Omega Pharma.",
+ "evidence": [
+  {
+   "claim": "In Omega Pharma offrite integratori e dispositivi medici per la salute di ognuno.",
+   "url": "https://omegapharmasrl.com",
+   "quote": "Integratori e dispositivi medici per la salute di ognuno"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

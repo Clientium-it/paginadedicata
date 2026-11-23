@@ -1,0 +1,28 @@
+{
+ "slug": "raimondi",
+ "company": "Raimondi",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Raimondi progettate battipiastrelle per migliorare qualità e produttività della posa riducendo la fatica del piastrellista. Qui trova come lavoriamo e cosa potremmo fare per Raimondi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Raimondi.",
+ "evidence": [
+  {
+   "claim": "In Raimondi progettate battipiastrelle per migliorare qualità e produttività della posa riducendo la fatica del piastrellista.",
+   "url": "https://raimondispa.com/chi-siamo",
+   "quote": "macchine pensate per migliorare la qualità e la produttività della posa nonché per abbattere la fatica fisica del piastrellista: i battipiastrelle"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

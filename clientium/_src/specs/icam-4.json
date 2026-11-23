@@ -1,0 +1,28 @@
+{
+ "slug": "icam-4",
+ "company": "Icam",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Icam progettate e producete magazzini automatici e soluzioni di stoccaggio per ottimizzare spazi e flussi. Qui trova come lavoriamo e cosa potremmo fare per Icam.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Icam.",
+ "evidence": [
+  {
+   "claim": "In Icam progettate e producete magazzini automatici e soluzioni di stoccaggio per ottimizzare spazi e flussi.",
+   "url": "https://icamonline.eu/chi-siamo/",
+   "quote": "Dal 1957 progettiamo e produciamo magazzini automatici e soluzioni di stoccaggio per ottimizzare spazi, flussi e controllo delle merci in ogni contesto operativo."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

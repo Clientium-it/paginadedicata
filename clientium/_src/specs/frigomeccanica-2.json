@@ -1,0 +1,28 @@
+{
+ "slug": "frigomeccanica-2",
+ "company": "Frigomeccanica",
+ "first_name": "Carolina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Frigomeccanica seguite la catena del freddo di carne e pesce subito dopo la macellazione. Qui trova come lavoriamo e cosa potremmo fare per Frigomeccanica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Frigomeccanica.",
+ "evidence": [
+  {
+   "claim": "In Frigomeccanica seguite la catena del freddo di carne e pesce subito dopo la macellazione.",
+   "url": "https://frigomeccanica.it",
+   "quote": "Dopo la macellazione, laddove inizia la vostra catena del freddo, Frigomeccanica si prende cura di tutti i vostri tipi di carne e pesce."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

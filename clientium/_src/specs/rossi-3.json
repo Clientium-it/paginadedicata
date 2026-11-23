@@ -1,0 +1,28 @@
+{
+ "slug": "rossi-3",
+ "company": "Rossi",
+ "first_name": "Alfonso",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Rossi producete riduttori, motoriduttori e motori elettrici durevoli e di alta qualità. Qui trova come lavoriamo e cosa potremmo fare per Rossi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rossi.",
+ "evidence": [
+  {
+   "claim": "In Rossi producete riduttori, motoriduttori e motori elettrici durevoli e di alta qualità.",
+   "url": "https://rossi.com/en/about-us",
+   "quote": "We are a global manufacturer of durable and high-quality gearboxes, gearmotors and electric motors."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

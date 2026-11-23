@@ -1,0 +1,28 @@
+{
+ "slug": "ecit",
+ "company": "Ecit",
+ "first_name": "Emiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Ecit vi occupate di progettazione e gestione di infrastrutture tecnologiche e di sviluppo software. Qui trova come lavoriamo e cosa potremmo fare per Ecit.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ecit.",
+ "evidence": [
+  {
+   "claim": "In Ecit vi occupate di progettazione e gestione di infrastrutture tecnologiche e di sviluppo software.",
+   "url": "https://ecit.it/chi-siamo/",
+   "quote": "Siamo una società di servizi giovane, dinamica e flessibile che opera nel campo dell'Information & Communication Technology (ICT) dal 2010. Ci occupiamo di progettazione, gestione di infrastrutture tecnologiche e di sviluppo software."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

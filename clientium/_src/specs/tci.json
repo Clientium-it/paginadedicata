@@ -1,0 +1,28 @@
+{
+ "slug": "tci",
+ "company": "TCI",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In TCI producete driver LED, moduli LED, COB, OLED e soluzioni wireless per l'illuminazione. Qui trova come lavoriamo e cosa potremmo fare per TCI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TCI.",
+ "evidence": [
+  {
+   "claim": "In TCI producete driver LED, moduli LED, COB, OLED e soluzioni wireless per l'illuminazione.",
+   "url": "https://www.tci.it",
+   "quote": "TCI, leader tra i produttori di componenti elettronici per l'illuminazione, offre DRIVER LED, MODULI LED, COB, OLED e SOLUZIONI WIRELESS, oltre alla tecnologia tradizionale."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

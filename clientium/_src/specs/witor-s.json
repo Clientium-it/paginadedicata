@@ -1,0 +1,28 @@
+{
+ "slug": "witor-s",
+ "company": "Witor's",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Witor's producete cioccolato dal 1959 seguendo l'arte italiana. Qui trova come lavoriamo e cosa potremmo fare per Witor's.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Witor's.",
+ "evidence": [
+  {
+   "claim": "In Witor's producete cioccolato dal 1959 seguendo l'arte italiana.",
+   "url": "https://witors.it",
+   "quote": "Dal 1959 L'arte italiana del cioccolato"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

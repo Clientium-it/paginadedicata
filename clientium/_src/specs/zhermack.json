@@ -1,0 +1,28 @@
+{
+ "slug": "zhermack",
+ "company": "Zhermack",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Zhermack producete alginati, gessi e siliconi per il settore dentale. Qui trova come lavoriamo e cosa potremmo fare per Zhermack.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Zhermack.",
+ "evidence": [
+  {
+   "claim": "In Zhermack producete alginati, gessi e siliconi per il settore dentale.",
+   "url": "https://zhermack.com",
+   "quote": "alginates, gypsums and silicone compounds for the dental sector"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

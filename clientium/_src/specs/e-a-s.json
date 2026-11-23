@@ -1,0 +1,28 @@
+{
+ "slug": "e-a-s",
+ "company": "E A S",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In E A S progettate e producete schede elettroniche SMT e THT. Qui trova come lavoriamo e cosa potremmo fare per E A S.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per E A S.",
+ "evidence": [
+  {
+   "claim": "In E A S progettate e producete schede elettroniche SMT e THT.",
+   "url": "https://eas.it",
+   "quote": "Dal 1978 EAS S.p.A. è un punto di riferimento nella fornitura elettronica, specializzata nella progettazione e produzione di schede elettroniche SMT e THT."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

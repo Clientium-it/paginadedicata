@@ -1,0 +1,28 @@
+{
+ "slug": "claas-italia",
+ "company": "Claas Italia",
+ "first_name": "Elisa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Claas Italia offrite tecnologie per la raccolta del foraggio, dalla falciatrice al voltafieno fino all'andanatore. Qui trova come lavoriamo e cosa potremmo fare per Claas Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Claas Italia.",
+ "evidence": [
+  {
+   "claim": "In Claas Italia offrite tecnologie per la raccolta del foraggio, dalla falciatrice al voltafieno fino all'andanatore.",
+   "url": "https://www.claas.com/it-it/macchine-agricole",
+   "quote": "Dalla falciatrice al voltafieno fino all'andanatore: con la tecnologia di raccolta del foraggio CLAAS"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

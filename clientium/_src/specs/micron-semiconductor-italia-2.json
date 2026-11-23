@@ -1,0 +1,28 @@
+{
+ "slug": "micron-semiconductor-italia-2",
+ "company": "Micron Semiconductor Italia",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Micron Semiconductor Italia lavorate allo sviluppo di nuove tecnologie di memoria e NAND. Qui trova come lavoriamo e cosa potremmo fare per Micron Semiconductor Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Micron Semiconductor Italia.",
+ "evidence": [
+  {
+   "claim": "In Micron Semiconductor Italia lavorate allo sviluppo di nuove tecnologie di memoria e NAND.",
+   "url": "https://www.micron.com/about/blog/company/insights/micron-sites-europe-small-but-mighty-great-workplaces",
+   "quote": "Technology development — including emerging memory technology and design, replacement-gate NAND, and memory system pathfinding"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

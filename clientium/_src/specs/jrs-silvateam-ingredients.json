@@ -1,0 +1,28 @@
+{
+ "slug": "jrs-silvateam-ingredients",
+ "company": "JRS Silvateam Ingredients",
+ "first_name": "Eric",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In JRS Silvateam Ingredients producete ingredienti vegetali come pectine e fibre di agrumi e soluzioni texturizzanti su misura. Qui trova come lavoriamo e cosa potremmo fare per JRS Silvateam Ingredients.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per JRS Silvateam Ingredients.",
+ "evidence": [
+  {
+   "claim": "In JRS Silvateam Ingredients producete ingredienti vegetali come pectine e fibre di agrumi e soluzioni texturizzanti su misura.",
+   "url": "https://jrs.silvateam.com/plant-based-ingredients/",
+   "quote": "The final output is an extensive range of plant-based ingredients including citrus pectins (Aglupectin®), citrus fiber (Aglufiber®) and tailor-made texturising solutions (Aglutex®)."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "vinservice-micro-matic",
+ "company": "Vinservice Micro Matic",
+ "first_name": "Elio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Vinservice Micro Matic offrite FlexiDraft, un sistema di spillatura plug and play che semplifica il servizio della birra. Qui trova come lavoriamo e cosa potremmo fare per Vinservice Micro Matic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vinservice Micro Matic.",
+ "evidence": [
+  {
+   "claim": "In Vinservice Micro Matic offrite FlexiDraft, un sistema di spillatura plug and play che semplifica il servizio della birra.",
+   "url": "https://www.vinservice.it",
+   "quote": "FlexiDraft™ è il sistema di spillatura plug-and-play che semplifica il servizio di birra alla spina"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

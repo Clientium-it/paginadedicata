@@ -1,0 +1,28 @@
+{
+ "slug": "trelleborg-sealing-solutions-italia-5",
+ "company": "Trelleborg Sealing Solutions Italia",
+ "first_name": "Andreas",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Trelleborg Sealing Solutions Italia producete guarnizioni idrauliche e pneumatiche in poliuretano e anelli di guida. Qui trova come lavoriamo e cosa potremmo fare per Trelleborg Sealing Solutions Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Trelleborg Sealing Solutions Italia.",
+ "evidence": [
+  {
+   "claim": "In Trelleborg Sealing Solutions Italia producete guarnizioni idrauliche e pneumatiche in poliuretano e anelli di guida.",
+   "url": "https://www.trelleborg.com/en/seals/about-us/manufacturing-capabilities/livorno-italy",
+   "quote": "Trelleborg Sealing Solutions in Livorno has been producing high-quality hydraulic and pneumatic seals in polyurethane, HiMod® guide rings and other thermoplastic materials for the last 50 years"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

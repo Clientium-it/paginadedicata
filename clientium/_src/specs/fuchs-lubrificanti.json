@@ -1,0 +1,28 @@
+{
+ "slug": "fuchs-lubrificanti",
+ "company": "Fuchs Lubrificanti",
+ "first_name": "Alex",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Fuchs Lubrificanti siete presenti in Italia dal 1982 con stabilimento produttivo e centro ricerche. Qui trova come lavoriamo e cosa potremmo fare per Fuchs Lubrificanti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fuchs Lubrificanti.",
+ "evidence": [
+  {
+   "claim": "In Fuchs Lubrificanti siete presenti in Italia dal 1982 con stabilimento produttivo e centro ricerche.",
+   "url": "https://www.fuchs.com/it/it/azienda/news/news-entry/3277-FUCHS-Lubrificanti-amplia-il-suo-Business/",
+   "quote": "Fuchs Lubrificanti SpA, società del Gruppo Fuchs con sede a Buttigliera d'Asti (AT), è presente in Italia dal 1982 con Stabilimento di Produzione e Centro Ricerche"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

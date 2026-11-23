@@ -1,0 +1,28 @@
+{
+ "slug": "uniontrade",
+ "company": "Uniontrade",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Uniontrade servite tutti i canali alimentari, dal negozio specializzato alla grande distribuzione. Qui trova come lavoriamo e cosa potremmo fare per Uniontrade.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Uniontrade.",
+ "evidence": [
+  {
+   "claim": "In Uniontrade servite tutti i canali alimentari, dal negozio specializzato alla grande distribuzione.",
+   "url": "https://www.uniontrade.it/chi-siamo/",
+   "quote": "tutti i canali del settore alimentare, dal negozio specializzato alla grande distribuzione organizzata, dal sushi bar al ristorante tradizionale"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

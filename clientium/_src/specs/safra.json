@@ -1,0 +1,28 @@
+{
+ "slug": "safra",
+ "company": "Safra",
+ "first_name": "Pierluigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Safra producete filo per saldatura e brasatura in alluminio, rame e relative leghe. Qui trova come lavoriamo e cosa potremmo fare per Safra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Safra.",
+ "evidence": [
+  {
+   "claim": "In Safra producete filo per saldatura e brasatura in alluminio, rame e relative leghe.",
+   "url": "https://safraspa.it",
+   "quote": "Produzione filo per saldatura e brasatura in alluminio, rame e rispettive leghe."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

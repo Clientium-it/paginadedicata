@@ -1,0 +1,28 @@
+{
+ "slug": "kong",
+ "company": "Kong",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Kong siete un punto di riferimento per chi affronta la verticalità nello sport, nel soccorso e nell'industria. Qui trova come lavoriamo e cosa potremmo fare per Kong.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kong.",
+ "evidence": [
+  {
+   "claim": "In Kong siete un punto di riferimento per chi affronta la verticalità nello sport, nel soccorso e nell'industria.",
+   "url": "https://www.kong.it/it/qa-domande/azienda-generali/",
+   "quote": "Più che un'azienda, Kong è sinonimo di protezione e innovazione tecnologica, un punto di riferimento globale per chi affronta la verticalità nello sport, nel soccorso e nell'industria."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

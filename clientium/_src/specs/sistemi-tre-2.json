@@ -1,0 +1,28 @@
+{
+ "slug": "sistemi-tre-2",
+ "company": "Sistemi TRE",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Sistemi TRE sviluppate progetti, software e soluzioni digitali per aziende e professionisti. Qui trova come lavoriamo e cosa potremmo fare per Sistemi TRE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sistemi TRE.",
+ "evidence": [
+  {
+   "claim": "In Sistemi TRE sviluppate progetti, software e soluzioni digitali per aziende e professionisti.",
+   "url": "https://sistemitre.it",
+   "quote": "PROGETTI, SOFTWARE E SOLUZIONI DIGITALI PER AZIENDE E PROFESSIONISTI"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

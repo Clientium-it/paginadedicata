@@ -1,0 +1,28 @@
+{
+ "slug": "ipg-photonics-italy",
+ "company": "IPG Photonics Italy",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In IPG Photonics Italy offrite soluzioni laser in fibra per ogni applicazione industriale. Qui trova come lavoriamo e cosa potremmo fare per IPG Photonics Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IPG Photonics Italy.",
+ "evidence": [
+  {
+   "claim": "In IPG Photonics Italy offrite soluzioni laser in fibra per ogni applicazione industriale.",
+   "url": "https://www.ipgphotonics.com",
+   "quote": "IPG Photonics is the world leader of fiber laser technology, providing the most innovative and productive laser solutions for any industry application"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

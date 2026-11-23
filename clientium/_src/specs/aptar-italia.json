@@ -1,0 +1,28 @@
+{
+ "slug": "aptar-italia",
+ "company": "Aptar Italia",
+ "first_name": "Eugenio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C17",
+ "level": 2,
+ "cover_note": "In Aptar Italia sviluppate soluzioni di erogazione, dosaggio e protezione per farmaci e prodotti di consumo. Qui trova come lavoriamo e cosa potremmo fare per Aptar Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aptar Italia.",
+ "evidence": [
+  {
+   "claim": "In Aptar Italia sviluppate soluzioni di erogazione, dosaggio e protezione per farmaci e prodotti di consumo.",
+   "url": "https://aptar.com",
+   "quote": "Our proprietary drug delivery solutions, consumer dispensing, dosing and protection technologies add value to some of the world's most trusted and innovative brands"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}
