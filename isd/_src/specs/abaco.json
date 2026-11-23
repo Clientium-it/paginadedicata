@@ -1,0 +1,17 @@
+{
+ "slug": "abaco",
+ "company": "Abaco",
+ "full_name": "Giuliano Rorato",
+ "first": "Giuliano",
+ "cover_note": "Abaco conta circa 100 unità locali in tutta Italia.",
+ "evidence": [
+  {
+   "claim": "Abaco conta circa 100 unità locali in tutta Italia.",
+   "url": "https://www.abacospa.it/it/chi-siamo.php",
+   "quote": "dislocati nella sede legale di Padova, in quelle amministrativa e operativa di Montebelluna (Treviso) e in circa 100 unità locali distribuite su tutto il territorio nazionale"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_addon_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/abaco/logo.png"
+}

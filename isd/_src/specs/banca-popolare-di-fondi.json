@@ -1,0 +1,16 @@
+{
+ "slug": "banca-popolare-di-fondi",
+ "company": "Banca Popolare di Fondi",
+ "full_name": "Corrado Simonelli",
+ "first": "Corrado",
+ "cover_note": "Popolare di Fondi ha 20 filiali tra Latina, Frosinone e Roma.",
+ "evidence": [
+  {
+   "claim": "Popolare di Fondi ha 20 filiali tra Latina, Frosinone e Roma.",
+   "url": "https://www.bpfondi.it/chi-siamo",
+   "quote": "dispone di 20 filiali nelle provincie di Latina, Frosinone e Roma. Inoltre, la Banca ha esteso i suoi servizi con 24 ATM"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_addon_pages_request_2311.json)",
+ "case": "B"
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "bca-banca",
+ "company": "BCA Banca",
+ "full_name": "Laura Di Norcia",
+ "first": "Laura",
+ "cover_note": "BCA Banca ha filiali tra Roma, Milano, Caserta e Benevento.",
+ "evidence": [
+  {
+   "claim": "BCA Banca ha filiali tra Roma, Milano, Caserta e Benevento.",
+   "url": "https://bcabanca.it/bca-banca/",
+   "quote": "La rete territoriale dell'Istituto è articolata nelle principali aree urbane di Roma e Milano, nonché nelle province di Caserta e Benevento, mediante una presenza di sei filiali."
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_addon_pages_request_2311.json)",
+ "case": "B"
+}

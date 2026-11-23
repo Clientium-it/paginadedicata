@@ -1,0 +1,17 @@
+{
+ "slug": "mirauto",
+ "company": "Mirauto",
+ "full_name": "Bruno Santini",
+ "first": "Bruno",
+ "cover_note": "Mirauto ha sedi a Roma e in provincia.",
+ "evidence": [
+  {
+   "claim": "Mirauto ha sedi a Roma e in provincia.",
+   "url": "https://www.mirauto.eu/chi-siamo-roma/",
+   "quote": "vieni a trovarci nelle nostre sedi a Roma e provincia oppure compila il modulo di contatto per ricevere maggiori informazioni"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_addon_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/mirauto/logo.png"
+}

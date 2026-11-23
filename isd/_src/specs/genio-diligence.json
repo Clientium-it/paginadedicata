@@ -1,0 +1,17 @@
+{
+ "slug": "genio-diligence",
+ "company": "Genio Diligence",
+ "full_name": "Andrea Cappelli",
+ "first": "Andrea",
+ "cover_note": "Genio Diligence ha sedi operative a Lucca e Milano.",
+ "evidence": [
+  {
+   "claim": "Genio Diligence ha sedi operative a Lucca e Milano.",
+   "url": "https://www.geniodiligence.it/contatti",
+   "quote": "Sede legale e amministrativa Via Martiri di Liggieri 10/D, 55100 Lucca (LU) Sede operativa Lucca Via di Vorno 9/4, 55012 Guamo (LU) Sede operativa Milano Via Carlo Farini 41, 20159 Milano (MI)"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_addon_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/genio-diligence/logo.png"
+}

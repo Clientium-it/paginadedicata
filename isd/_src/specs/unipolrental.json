@@ -1,0 +1,17 @@
+{
+ "slug": "unipolrental",
+ "company": "UnipolRental",
+ "full_name": "Nicola Bonfiglioli",
+ "first": "Nicola",
+ "cover_note": "UnipolRental ha 3 customer point a conduzione diretta sul territorio.",
+ "evidence": [
+  {
+   "claim": "UnipolRental ha 3 customer point a conduzione diretta sul territorio.",
+   "url": "https://www.unipolrental.it/chi-siamo",
+   "quote": "L'ingresso nel Gruppo ha consentito a UnipolRental di aumentare la capillarità territoriale aggiungendo, ai già 10.000 centri di assistenza convenzionati e ai 3 customer point a conduzione diretta sul territorio"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_addon_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/unipolrental/logo.svg"
+}

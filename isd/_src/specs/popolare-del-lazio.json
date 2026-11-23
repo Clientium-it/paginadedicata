@@ -1,0 +1,17 @@
+{
+ "slug": "popolare-del-lazio",
+ "company": "Popolare del Lazio",
+ "full_name": "Fabio Cavola",
+ "first": "Fabio",
+ "cover_note": "Popolare del Lazio conta 9 filiali proprie più 54 Blu Banca.",
+ "evidence": [
+  {
+   "claim": "Popolare del Lazio conta 9 filiali proprie più 54 Blu Banca.",
+   "url": "https://www.bplazio.it/",
+   "quote": "Attualmente, il Gruppo è composto da 9 filiali operanti sotto l'insegna Banca Popolare del Lazio e da 54 filiali con il marchio Blu Banca."
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_addon_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/popolare-del-lazio/logo.png"
+}

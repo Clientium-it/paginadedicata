@@ -1,0 +1,17 @@
+{
+ "slug": "cr-volterra",
+ "company": "CR Volterra",
+ "full_name": "Fabrizio Stanislai",
+ "first": "Fabrizio",
+ "cover_note": "CR Volterra ha una rete di filiali in Toscana.",
+ "evidence": [
+  {
+   "claim": "CR Volterra ha una rete di filiali in Toscana.",
+   "url": "https://www.crvolterra.it/",
+   "quote": "Conti, mutui, carte e finanziamenti per famiglie e imprese, con 59 filiali in Toscana."
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_addon_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/cr-volterra/logo.svg"
+}

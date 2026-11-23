@@ -1,0 +1,17 @@
+{
+ "slug": "adb",
+ "company": "ADB",
+ "full_name": "Gianna Pagano",
+ "first": "Gianna",
+ "cover_note": "ADB ha 3 sedi tra Torino, Milano e Varese.",
+ "evidence": [
+  {
+   "claim": "ADB ha 3 sedi tra Torino, Milano e Varese.",
+   "url": "https://www.adb.it/adb-group/",
+   "quote": "Oggi ad ADB Holding fanno capo 3 società operanti in 3 sedi (Torino, Milano, Varese) con oltre 50 dipendenti."
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_addon_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/adb/logo.svg"
+}

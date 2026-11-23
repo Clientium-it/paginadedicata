@@ -1,0 +1,17 @@
+{
+ "slug": "carifermo",
+ "company": "Carifermo",
+ "full_name": "Michele Accolla",
+ "first": "Michele",
+ "cover_note": "Carifermo è presente con 48 filiali.",
+ "evidence": [
+  {
+   "claim": "Carifermo è presente con 48 filiali.",
+   "url": "https://www.carifermo.it/it/1602/art/451-carifermo-punta-al-territorio-con-aperture-e-investimenti/",
+   "quote": "la banca è presente con 48 filiali e circa 70 punti di contatto tra agenzie e aree self"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_addon_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/carifermo/logo.png"
+}
