@@ -1,0 +1,28 @@
+{
+ "slug": "tas-6",
+ "company": "TAS",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In TAS progettate, integrate e personalizzate servizi e soluzioni di pagamento digitale. Qui trova come lavoriamo e cosa potremmo fare per TAS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TAS.",
+ "evidence": [
+  {
+   "claim": "In TAS progettate, integrate e personalizzate servizi e soluzioni di pagamento digitale.",
+   "url": "https://www.tasgroup.eu",
+   "quote": "We design, integrate and customize services and digital payments solutions"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "carraro-4",
+ "company": "Carraro",
+ "first_name": "Tomaso",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In Carraro producete sistemi di trasmissione per trattori e veicoli off highway. Qui trova come lavoriamo e cosa potremmo fare per Carraro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Carraro.",
+ "evidence": [
+  {
+   "claim": "In Carraro producete sistemi di trasmissione per trattori e veicoli off highway.",
+   "url": "https://www.carraro.com",
+   "quote": "We manufacture transmission systems for tractors and off-highway vehicles"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

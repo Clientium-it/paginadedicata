@@ -1,0 +1,28 @@
+{
+ "slug": "sitrade-italia",
+ "company": "Sitrade Italia",
+ "first_name": "Gabriele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In Sitrade Italia distribuite macchine e prodotti per il trattamento e la sicurezza del denaro e dei valori. Qui trova come lavoriamo e cosa potremmo fare per Sitrade Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sitrade Italia.",
+ "evidence": [
+  {
+   "claim": "In Sitrade Italia distribuite macchine e prodotti per il trattamento e la sicurezza del denaro e dei valori.",
+   "url": "http://www.sitradeitalia.com/www.sitradeitalia.com/chi-siamo/about-us/azienda.html",
+   "quote": "Da oltre trenta anni distribuisce macchine e prodotti per il trattamento e la sicurezza del denaro e dei valori."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

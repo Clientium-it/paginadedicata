@@ -1,0 +1,28 @@
+{
+ "slug": "nillab-manifatture-italiane",
+ "company": "Nillab Manifatture Italiane",
+ "first_name": "Luisa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In Nillab Manifatture Italiane producete calzature da donna di lusso da oltre 75 anni. Qui trova come lavoriamo e cosa potremmo fare per Nillab Manifatture Italiane.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nillab Manifatture Italiane.",
+ "evidence": [
+  {
+   "claim": "In Nillab Manifatture Italiane producete calzature da donna di lusso da oltre 75 anni.",
+   "url": "https://nillab.it",
+   "quote": "specializzata da oltre 75 anni nella produzione di calzature da donna di lusso"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

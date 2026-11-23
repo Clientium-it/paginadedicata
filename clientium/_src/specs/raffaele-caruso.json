@@ -1,0 +1,28 @@
+{
+ "slug": "raffaele-caruso",
+ "company": "Raffaele Caruso",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In Raffaele Caruso portate avanti dal 1958 una tradizione sartoriale nata a Napoli. Qui trova come lavoriamo e cosa potremmo fare per Raffaele Caruso.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Raffaele Caruso.",
+ "evidence": [
+  {
+   "claim": "In Raffaele Caruso portate avanti dal 1958 una tradizione sartoriale nata a Napoli.",
+   "url": "https://carusomenswear.com/en-us/pages/heritage",
+   "quote": "Caruso's story begins in 1958, when Raffaele Caruso, a master tailor from Naples, brought his sartorial savoir-faire to Soragna, near Parma."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

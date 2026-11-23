@@ -1,0 +1,28 @@
+{
+ "slug": "merletti-2",
+ "company": "Merletti",
+ "first_name": "Sabrina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In Merletti progettate e costruite meccanica di precisione soprattutto per l'aerospazio e la difesa. Qui trova come lavoriamo e cosa potremmo fare per Merletti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Merletti.",
+ "evidence": [
+  {
+   "claim": "In Merletti progettate e costruite meccanica di precisione soprattutto per l'aerospazio e la difesa.",
+   "url": "https://merlettiaerospace.it",
+   "quote": "La meccanica di precisione, fulcro della produzione, trova massima applicazione nel campo Aerospazio e Difesa che oggi riveste il prevalente impegno nella sezione dedicata alla progettazione e costruzione."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

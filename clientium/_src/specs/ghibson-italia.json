@@ -1,0 +1,28 @@
+{
+ "slug": "ghibson-italia",
+ "company": "Ghibson Italia",
+ "first_name": "Piero",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In Ghibson Italia sviluppate soluzioni personalizzate con OEM, aziende di ingegneria e utenti finali da oltre 40 anni. Qui trova come lavoriamo e cosa potremmo fare per Ghibson Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ghibson Italia.",
+ "evidence": [
+  {
+   "claim": "In Ghibson Italia sviluppate soluzioni personalizzate con OEM, aziende di ingegneria e utenti finali da oltre 40 anni.",
+   "url": "https://www.ghibson.it/products.aspx?id=37",
+   "quote": "oltre 40 anni di esperienza nella collaborazione con OEM, Aziende di ingegneria e Utenti finali nello sviluppo di soluzioni personalizzate"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

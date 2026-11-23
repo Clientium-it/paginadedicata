@@ -1,0 +1,28 @@
+{
+ "slug": "itel-telecomunicazioni-2",
+ "company": "Itel Telecomunicazioni",
+ "first_name": "Itel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In Itel Telecomunicazioni progettate reparti ospedalieri, schermature per radiazioni e fornite edifici completi per la sanità. Qui trova come lavoriamo e cosa potremmo fare per Itel Telecomunicazioni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Itel Telecomunicazioni.",
+ "evidence": [
+  {
+   "claim": "In Itel Telecomunicazioni progettate reparti ospedalieri, schermature per radiazioni e fornite edifici completi per la sanità.",
+   "url": "https://itelte.it",
+   "quote": "dalla progettazione di reparti ospedalieri, alle schermature per radiazioni ionizzanti e non ionizzanti, alla fornitura completa di edifici per la sanità"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

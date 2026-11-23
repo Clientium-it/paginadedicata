@@ -1,0 +1,28 @@
+{
+ "slug": "cosnav-2",
+ "company": "Cosnav",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In Cosnav realizzate e installate impianti propulsivi, impianti di governo, macchinari e movimentazioni. Qui trova come lavoriamo e cosa potremmo fare per Cosnav.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cosnav.",
+ "evidence": [
+  {
+   "claim": "In Cosnav realizzate e installate impianti propulsivi, impianti di governo, macchinari e movimentazioni.",
+   "url": "https://www.cosnavsrl.it",
+   "quote": "Realizziamo e installiamo impianti propulsivi, impianti di governo, macchinari e movimentazioni"
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

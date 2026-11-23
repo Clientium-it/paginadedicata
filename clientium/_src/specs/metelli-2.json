@@ -1,0 +1,28 @@
+{
+ "slug": "metelli-2",
+ "company": "Metelli",
+ "first_name": "Sergio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In Metelli producete come costruttore indipendente oltre 14.000 parti per l'automotive. Qui trova come lavoriamo e cosa potremmo fare per Metelli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Metelli.",
+ "evidence": [
+  {
+   "claim": "In Metelli producete come costruttore indipendente oltre 14.000 parti per l'automotive.",
+   "url": "https://www.metelligroup.it",
+   "quote": "Costruttore indipendente di oltre 14.000 parti per l'automotive."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

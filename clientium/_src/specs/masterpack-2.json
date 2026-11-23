@@ -1,0 +1,28 @@
+{
+ "slug": "masterpack-2",
+ "company": "Masterpack",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In Masterpack producete imballaggi flessibili. Qui trova come lavoriamo e cosa potremmo fare per Masterpack.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Masterpack.",
+ "evidence": [
+  {
+   "claim": "In Masterpack producete imballaggi flessibili.",
+   "url": "https://masterpack.it/azienda/",
+   "quote": "Masterpack è un'azienda specializzata nella produzione di imballaggi flessibili, fondata nel 1988 da Claudio Binda."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}

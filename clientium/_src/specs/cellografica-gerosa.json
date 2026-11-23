@@ -1,0 +1,28 @@
+{
+ "slug": "cellografica-gerosa",
+ "company": "Cellografica Gerosa",
+ "first_name": "Angelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "In Cellografica Gerosa lavorate soprattutto con i segmenti alimentare ed etichette, oltre al non food e all'industria. Qui trova come lavoriamo e cosa potremmo fare per Cellografica Gerosa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cellografica Gerosa.",
+ "evidence": [
+  {
+   "claim": "In Cellografica Gerosa lavorate soprattutto con i segmenti alimentare ed etichette, oltre al non food e all'industria.",
+   "url": "https://www.gerosagroup.com/sectors-applications.php",
+   "quote": "We mainly target the food and labels segments, but we also work successfully in the non-food segment as well as in several industrial sectors."
+  }
+ ],
+ "checked": "2026-11-23 Builder strict gate (waveB_pages_request_2311.json)"
+}
