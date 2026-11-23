@@ -6,8 +6,10 @@ Refuses to write inside ~/paginadedicata. Every lead page needs a verified compa
 hard rule 18/11: leads without one are reported to the OM, never published generic. Only a spec with no_fact_ok (the example page) is exempt."""
 import html, json, os, re, shutil, sys, unicodedata
 HERE = os.path.dirname(os.path.abspath(__file__)); ASSETS = os.path.join(HERE, '..', 'assets')
-CFG = json.load(open(os.path.join(HERE, 'config.json'), encoding='utf-8'))
-TPL = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
+LANG = sys.argv[sys.argv.index('--lang') + 1] if '--lang' in sys.argv else ''   # --lang de: config_de.json + template_de.html (German pages, slug <lead>-de)
+SFX = f'_{LANG}' if LANG else ''
+CFG = json.load(open(os.path.join(HERE, f'config{SFX}.json'), encoding='utf-8'))
+TPL = open(os.path.join(HERE, f'template{SFX}.html'), encoding='utf-8').read()
 CTA_LI = open(os.path.join(HERE, 'cta_linkedin.html'), encoding='utf-8').read()
 BAD = re.compile(r'[—–:!;]| - ')
 BANNED = re.compile(CFG['banned'], re.I)
@@ -34,7 +36,7 @@ def render(sp):
     cal = (f'<iframe id="calf" title="{A(CFG["cal_title"])}" data-src="{A(cal_url + ("&" if "?" in cal_url else "?") + "utm_source=deck&utm_medium=linkedin&utm_campaign=" + slug)}"></iframe>') if cal_url else CTA_LI
     lead_css = 'html:not(.phone) h1{font-size:44px}' if len(c) > 30 else 'html:not(.phone) h1{font-size:48px}' if len(c) > 20 else ''
     case = CFG['cases'][sp.get('case') or CFG['default_case']]
-    vals = {'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(f'{full} di {c}' if full else c), 'PREP_ATTR': A(f'{full} di {c}' if full else c),
+    vals = {'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(f"{full} {CFG.get('prep_join', 'di')} {c}" if full else c), 'PREP_ATTR': A(f"{full} {CFG.get('prep_join', 'di')} {c}" if full else c),
             'OG_PATH': f'og/{slug}.jpg', 'LEAD_CSS': lead_css, 'LEAD_MARK': f'<span class="nm">{E(c)}</span>',
             'H1': E(CFG['h1'].format(c=c)), 'SUB': E(f"{note} {CFG['tail']}" if note else CFG['gen_sub'].format(c=c)),
             'IDEA': E(idea or CFG['gen_idea']), 'CLARITY_ATTR': clarity_attr(sp), 'CAL_BLOCK': cal,
@@ -52,7 +54,9 @@ def render(sp):
         if req not in v: raise ValueError(f'{slug}: required text missing {req!r}')
     return page
 def main():
-    args = sys.argv[1:]; i = args.index('--out'); out = os.path.abspath(os.path.expanduser(args[i + 1])); specs = args[:i] + args[i + 2:]
+    args = sys.argv[1:]
+    if '--lang' in args: j = args.index('--lang'); args = args[:j] + args[j + 2:]
+    i = args.index('--out'); out = os.path.abspath(os.path.expanduser(args[i + 1])); specs = args[:i] + args[i + 2:]
     if os.path.realpath(out).startswith(os.path.realpath(os.path.expanduser('~/paginadedicata'))): sys.exit('out is inside the published repo: refused')
     os.makedirs(f'{out}/assets', exist_ok=True)
     for f in CFG['shared']: shutil.copy(os.path.join(ASSETS, f), f'{out}/assets/{f}')

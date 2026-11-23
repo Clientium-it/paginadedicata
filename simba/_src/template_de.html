@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>{{COMPANY}} und SIMBA</title>
+<meta property="og:title" content="{{COMPANY_ATTR}} und SIMBA">
+<meta property="og:description" content="Eine Seite für {{PREP_ATTR}} darüber, wie SIMBA Verpackungen aus Wellpappe entwickelt und in der Woche liefert, in der Sie versenden.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://paginadedicata.com/simba/assets/{{OG_PATH}}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../assets/simba-favicon.png" type="image/png">
+<script>if(matchMedia("(max-width:700px)").matches){document.documentElement.classList.add("phone")}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+/* SIMBA v5: brand colours from simbapaperdesign.com (violet #5932ff, green #a2c617, ink #161922), cards with a bar on top, ink closing banner with a green accent, real photos from SIMBA's site only */
+:root{--vi:#5932ff;--gr:#a2c617;--grt:#5b7a00;--ink:#161922;--txt:#2b2f36;--mute:#62656c;--line:#e4e5ec;--card:#f3f4f8;--bg:#fff;--soft:#c9ccd4}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;background:var(--bg);color:var(--txt);font-family:"Roboto",system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+.stage{position:fixed;inset:0;overflow:hidden;background:var(--bg)}
+.slides{position:absolute;left:50%;top:50%;width:1280px;height:720px;transform:translate(-50%,-50%) scale(var(--k,1))}
+.slides>section{position:absolute;inset:0;opacity:0;pointer-events:none;transition:opacity .35s}
+.slides>section.on{opacity:1;pointer-events:auto}
+.s{position:absolute;inset:0;padding:56px 76px 92px;display:flex;flex-direction:column;overflow:hidden}
+.kick{font-size:17px;font-weight:700;color:var(--vi)}
+h1,h2{color:var(--ink);font-weight:900;letter-spacing:-.015em}
+h1{font-size:50px;line-height:1.08;margin-top:12px}
+h2{font-size:40px;line-height:1.12;margin-top:6px}
+p{line-height:1.5}
+.pair{display:flex;align-items:center;gap:20px}
+.pair .sep{width:1px;height:38px;background:var(--line)}
+.logo{display:block;height:44px;width:auto}
+.nm{font-weight:700;color:var(--ink);font-size:24px;line-height:1.15;min-width:0;overflow-wrap:anywhere}
+/* cover */
+.cover{padding:0;flex-direction:row}
+.cover .l{flex:1;padding:56px 56px 92px 76px;display:flex;flex-direction:column;min-width:0}
+.cover .m{margin:auto 0}
+.cover .prep{font-size:17px;color:var(--mute)}.cover .prep b{color:var(--ink);font-weight:700}
+.cover .sub{font-size:21px;margin-top:22px;max-width:640px}
+.cover .pts{display:flex;flex-wrap:wrap;gap:10px 26px;margin-top:30px;list-style:none}
+.cover .pts li{font-size:17px;font-weight:700;color:var(--ink);padding-left:18px;position:relative}
+.cover .pts li:before{content:"";position:absolute;left:0;top:.42em;width:9px;height:9px;border-radius:50%;background:var(--gr)}
+.cover .ph{flex:0 0 40%;position:relative;border-left:6px solid var(--vi);background:var(--ink)}
+.cover .ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:60% 50%}
+/* cards: bar on top */
+.cards{display:grid;gap:20px;margin-top:30px}
+.cards>div{background:var(--card);border-top:6px solid var(--ink);border-radius:0 0 10px 10px;padding:26px 28px;box-shadow:0 6px 18px rgba(22,25,34,.06)}
+.cards>div:nth-child(2n){border-top-color:var(--vi)}
+.cards b{display:block;font-size:24px;line-height:1.2;color:var(--ink)}
+.cards span{display:block;font-size:18.5px;line-height:1.45;margin-top:10px}
+.cards i{display:block;font-style:normal;font-weight:900;color:var(--vi);font-size:16px;margin-bottom:8px}
+.c3{grid-template-columns:repeat(3,1fr)}.c4{grid-template-columns:repeat(4,1fr)}
+.lead{font-size:21px;line-height:1.48;margin-top:18px;max-width:1080px}
+.lead b{color:var(--ink)}
+.band{margin-top:auto;position:relative;background:var(--ink);color:#fff;border-radius:10px;padding:22px 28px 22px 52px;font-size:21px;line-height:1.4;font-weight:700}
+.band:before{content:"";position:absolute;left:26px;top:22px;bottom:22px;width:5px;border-radius:3px;background:var(--gr)}
+/* example + sectors */
+.ex{display:grid;grid-template-columns:1fr 1.05fr;gap:22px;margin-top:28px;flex:1;min-height:0}
+.ca{background:var(--ink);color:#fff;border-radius:10px;padding:34px 38px;display:flex;flex-direction:column;justify-content:center;border-top:6px solid var(--gr)}
+.ca i{font-style:normal;font-size:17px;font-weight:700;color:#c8e35a}
+.ca em{display:block;font-style:normal;font-weight:900;font-size:60px;line-height:1;margin:14px 0 6px}
+.ca small{display:block;font-size:17px;color:var(--soft)}
+.ca span{display:block;font-size:19.5px;line-height:1.48;margin-top:22px}
+.sec{background:var(--card);border-top:6px solid var(--vi);border-radius:0 0 10px 10px;padding:26px 30px;display:flex;flex-direction:column;justify-content:center}
+.sec>b{font-size:22px;color:var(--ink)}
+.sec ul{list-style:none;margin-top:14px;display:flex;flex-direction:column}
+.sec li{display:grid;grid-template-columns:118px 1fr;gap:14px;padding:10px 0;border-top:1px solid var(--line);font-size:16.5px;line-height:1.38}
+.sec li:first-child{border-top:0}
+.sec li b{color:var(--ink);font-size:16.5px}
+.cert{margin-top:16px;font-size:15.5px;color:var(--mute)}.cert b{color:var(--ink)}
+/* talk */
+.talk{padding:0;flex-direction:row}
+.talk .l{flex:0 0 420px;display:flex;flex-direction:column;background:var(--card);border-right:6px solid var(--vi);min-width:0}
+.talk .pic{flex:0 0 200px;position:relative;overflow:hidden;background:var(--ink)}
+.talk .pic img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.talk .in{flex:1;padding:30px 36px 92px;display:flex;flex-direction:column;justify-content:center;gap:14px}
+.talk .logo{height:36px}
+.talk h2{font-size:32px;line-height:1.14;margin:0}
+.talk .alt{font-size:17px;line-height:1.45}
+.talk .who b{display:block;font-size:18px;color:var(--ink)}.talk .who span{font-size:15.5px}
+.talk .site{font-size:14px;color:var(--mute);font-weight:700}
+.cta{flex:1;min-width:0;display:flex;align-items:center;justify-content:center;padding:40px 56px;background:#fff}
+.cta .bx{width:min(620px,100%);border:1px solid var(--line);border-top:6px solid var(--vi);border-radius:0 0 12px 12px;padding:44px;display:flex;flex-direction:column;gap:16px}
+.cta svg{width:46px;height:46px;color:var(--vi)}
+.cta b{font-size:30px;line-height:1.15;color:var(--ink)}
+.cta span{font-size:19px;line-height:1.5}
+.cta small{font-size:16px;line-height:1.45;color:var(--mute)}
+#calf{display:block;flex:1;min-width:0;height:100%;border:0;background:#fff}
+/* nav */
+#nxt{position:fixed;left:50%;bottom:calc(2.2vh + 6px);transform:translateX(-50%);z-index:60;display:flex;align-items:center;gap:.5em;padding:.55em 1.1em .55em 1.25em;border-radius:999px;background:var(--ink);color:#fff;text-decoration:none;font-size:15px;font-weight:700;box-shadow:0 8px 24px rgba(0,0,0,.25);white-space:nowrap}
+#nxt svg{width:1.05em;height:1.05em;color:var(--gr)}#nxt.off{display:none}
+.pnav{display:none}
+/* phone: every slide is compact and vertically centred, no stretched boxes */
+html.phone .stage{position:static}
+html.phone .slides{position:static;width:auto;height:calc(100dvh - 56px);transform:none;overflow-y:auto;scroll-snap-type:y mandatory;overscroll-behavior:contain;scroll-behavior:smooth}
+html.phone .slides>section{position:relative;opacity:1;pointer-events:auto;height:calc(100dvh - 56px);scroll-snap-align:start;scroll-snap-stop:always;overflow:hidden}
+html.phone .s{position:static;height:100%;padding:22px 18px 18px;justify-content:center}
+html.phone #nxt{display:none}
+html.phone .pnav{position:fixed;left:0;right:0;bottom:0;height:56px;display:flex;align-items:center;justify-content:space-between;padding:0 10px env(safe-area-inset-bottom,0);background:#fff;border-top:1px solid var(--line);z-index:50}
+html.phone .pb{width:44px;height:44px;border:0;background:none;font-size:30px;color:var(--ink)}html.phone .pb:disabled{opacity:.25}
+html.phone .pc{font-size:14px;color:var(--mute)}html.phone .pc b{color:var(--ink)}
+html.phone h1{font-size:27px;margin-top:8px}html.phone h2{font-size:24px;margin-top:4px}
+html.phone .kick{font-size:13.5px}
+html.phone .logo{height:28px}html.phone .pair{gap:12px}html.phone .pair .sep{height:26px}html.phone .nm{font-size:17px}
+html.phone .cover{flex-direction:column;padding:0;justify-content:flex-start}
+html.phone .cover .ph{order:-1;flex:0 0 26%;border-left:0;border-bottom:5px solid var(--vi)}
+html.phone .cover .l{flex:1;padding:16px 18px 14px;justify-content:flex-start}
+html.phone .cover .m{margin:auto 0}
+html.phone .cover .prep{font-size:13.5px}html.phone .cover .sub{font-size:15.5px;margin-top:12px;line-height:1.45}
+html.phone .cover .pts{flex-direction:column;gap:6px;margin-top:16px}html.phone .cover .pts li{font-size:14px;padding-left:15px}html.phone .cover .pts li:before{width:7px;height:7px}
+html.phone .cards{gap:10px;margin-top:14px}html.phone .cards>div{padding:12px 14px;border-top-width:4px;box-shadow:none}
+html.phone .c3{grid-template-columns:1fr}html.phone .c4{grid-template-columns:1fr 1fr}
+html.phone .cards b{font-size:16.5px}html.phone .cards span{font-size:13.8px;line-height:1.36;margin-top:4px}html.phone .cards i{font-size:12px;margin-bottom:3px}
+html.phone .lead{font-size:14.5px;line-height:1.4;margin-top:10px}
+html.phone .band{margin-top:14px;font-size:14px;line-height:1.36;padding:13px 14px 13px 30px}html.phone .band:before{left:14px;top:13px;bottom:13px;width:4px}
+html.phone .ex{grid-template-columns:1fr;gap:10px;margin-top:14px;flex:0 0 auto}
+html.phone .ca{padding:14px 16px;border-top-width:4px}html.phone .ca i{font-size:12.5px}html.phone .ca em{font-size:32px;margin:6px 0 2px}html.phone .ca small{font-size:12.5px}html.phone .ca span{font-size:13.6px;line-height:1.38;margin-top:8px}
+html.phone .sec{padding:12px 14px;border-top-width:4px}html.phone .sec>b{font-size:16px}html.phone .sec ul{margin-top:6px}
+html.phone .sec li{grid-template-columns:84px 1fr;gap:8px;padding:6px 0;font-size:12.6px;line-height:1.3}html.phone .sec li b{font-size:12.6px}
+html.phone .cert{margin-top:10px;font-size:12px;line-height:1.35}
+html.phone .talk{flex-direction:column;padding:0;justify-content:flex-start}
+html.phone .talk .l{flex:0 0 auto;border-right:0;border-bottom:4px solid var(--vi)}
+html.phone .talk .pic,html.phone .talk .logo,html.phone .talk .site{display:none}
+html.phone .talk .in{padding:16px 18px;gap:8px}
+html.phone .talk h2{font-size:22px}html.phone .talk .alt{font-size:14px;line-height:1.36}
+html.phone .talk .who b{font-size:14px}html.phone .talk .who span{display:block;font-size:12.5px}
+html.phone #calf{flex:1;min-height:0;width:100%;height:auto}
+html.phone .cta{padding:16px 18px}html.phone .cta .bx{padding:20px 18px;gap:10px}html.phone .cta svg{width:34px;height:34px}html.phone .cta b{font-size:21px}html.phone .cta span{font-size:14.5px;line-height:1.4}html.phone .cta small{font-size:13px}
+@media (max-height:700px){html.phone h1{font-size:23px}html.phone h2{font-size:20px}html.phone .cover .sub{font-size:13.6px}html.phone .cover .pts{display:none}html.phone .cards b{font-size:14.5px}html.phone .cards span{font-size:12px;line-height:1.26}html.phone .lead,html.phone .band{font-size:12.4px;line-height:1.28}html.phone .ca span{font-size:12.2px}html.phone .sec li{font-size:11.4px;padding:4px 0}html.phone .sec li b{font-size:11.4px}html.phone .cert{display:none}html.phone .talk .alt{font-size:12.6px}}
+html:not(.phone) .s:not(.cover):not(.talk){justify-content:center}
+html:not(.phone) .s:not(.cover):not(.talk) .band{margin-top:30px}
+html:not(.phone) .ex{flex:0 0 auto}
+html.phone .cover .m{margin:18px 0 0}html.phone .cover .l{justify-content:center}
+.talk .in .logo{align-self:flex-start;width:auto}
+@media (min-height:701px){html.phone h2{font-size:26px}html.phone .kick{font-size:14.5px}html.phone .lead{font-size:15.6px}html.phone .cards>div{padding:14px 15px}html.phone .cards b{font-size:18px}html.phone .cards span{font-size:15px;line-height:1.4;margin-top:6px}html.phone .band{font-size:15.2px;padding:15px 15px 15px 32px}html.phone .cards{gap:12px;margin-top:18px}html.phone .ca{padding:18px}html.phone .ca em{font-size:36px}html.phone .ca span{font-size:14.8px}html.phone .sec{padding:16px}html.phone .sec>b{font-size:17px}html.phone .sec li{font-size:13.8px;padding:8px 0}html.phone .sec li b{font-size:13.8px}html.phone .cert{font-size:13px}html.phone .ex{gap:12px;margin-top:18px}html.phone .cover .ph{flex-basis:40%}}
+{{LEAD_CSS}}</style>
+<script src="/site.js"{{CLARITY_ATTR}} async></script>
+</head>
+<body>
+<div class="stage"><div class="slides">
+
+<section data-i="1" aria-label="Erstellt für {{COMPANY_ATTR}}" class="on"><div class="s cover">
+  <div class="l">
+    <div class="pair"><img class="logo" src="../assets/simba-logo.png" alt="SIMBA Paper Design"><span class="sep"></span>{{LEAD_MARK}}</div>
+    <div class="m">
+      <p class="prep">Erstellt für <b>{{PREP}}</b></p>
+      <h1>{{H1}}</h1>
+      <p class="sub">{{SUB}}</p>
+      <ul class="pts"><li>Wellpappe nach Maß</li><li>Der Bestand in unseren Lagern</li><li>Lieferung auf Abruf</li></ul>
+    </div>
+  </div>
+  <div class="ph"><img src="../assets/foto/scatola.jpg" alt="Eine Schachtel aus Karton"></div>
+</div></section>
+
+<section data-i="2" aria-label="Die Ausgangslage"><div class="s">
+  <p class="kick">Die Ausgangslage</p>
+  <h2>Karton kostet wenig. Der Platz, den er braucht, nicht.</h2>
+  <p class="lead">Viele Einkaufsabteilungen kaufen Karton für zwei Monate auf einmal. Nicht weil sie ihn brauchen, sondern um den Preis zu halten. <b>Das Ergebnis ist ein Lager voller leerer Schachteln.</b></p>
+  <div class="cards c3">
+    <div><b>Paletten, die bewegt werden müssen</b><span>Der Vorrat belegt Platz, den das Produkt bräuchte, und muss mehrmals umgelagert werden.</span></div>
+    <div><b>Karton, der Feuchtigkeit zieht</b><span>Je länger er im Lager liegt, desto mehr leidet er, bevor er überhaupt verwendet wird.</span></div>
+    <div><b>Artikel, die liegen bleiben</b><span>Ändert sich das Produkt, bleiben die Schachteln, die für den alten Artikel gekauft wurden, im Lager.</span></div>
+  </div>
+  <p class="band">{{IDEA}}</p>
+</div></section>
+
+<section data-i="3" aria-label="So arbeiten wir"><div class="s">
+  <p class="kick">So arbeiten wir</p>
+  <h2>SIMBA verkauft keine Lose auf Vorrat</h2>
+  <div class="cards c4">
+    <div><i>01</i><b>Technische Analyse</b><span>Wir prüfen mit Ihnen, wie Ihre Produkte am besten geschützt werden.</span></div>
+    <div><i>02</i><b>Verpackung nach Maß</b><span>Wir entwickeln sie rund um Produkt und Bestimmungsort, mit so wenig Material wie möglich.</span></div>
+    <div><i>03</i><b>Der Bestand bei uns</b><span>Für Artikel, die das ganze Jahr laufen, vereinbaren wir den Bedarf, und der Bestand bleibt in unseren Lagern.</span></div>
+    <div><i>04</i><b>Auf Abruf</b><span>Wir liefern in der Woche, in der Sie versenden. So liegt bei Ihnen nur, was Sie für die nächsten Wochen brauchen.</span></div>
+  </div>
+  <p class="band">Weniger Karton pro Schachtel, weniger Karton im Lager, weniger Karton im Abfall.</p>
+</div></section>
+
+<section data-i="4" aria-label="Ein konkretes Beispiel"><div class="s">
+  <p class="kick">Ein konkretes Beispiel</p>
+  <h2>Was wir für andere umgesetzt haben</h2>
+  <div class="ex">
+    <div class="ca"><i>{{CASE_TAG}}</i><em>{{CASE_BIG}}</em><small>{{CASE_SMALL}}</small>
+      <span>{{CASE_TEXT}}</span></div>
+    <div class="sec">
+      <b>Die Branchen, die wir betreuen</b>
+      <ul>
+        <li><b>Getränke</b><span>Stabile Verpackungen, vorbereitet für Trenneinsätze und Schutzelemente.</span></li>
+        <li><b>Lebensmittel</b><span>Die Umverpackung in der richtigen Größe zum Lagern, Bewegen und Verteilen.</span></li>
+        <li><b>E-Commerce</b><span>Lösungen, um jede Ware aufzunehmen, zu schützen und sicher zu verschließen.</span></li>
+        <li><b>Logistik</b><span>Die richtige Verpackung gegen Diebstahl, Verlust, Manipulation und Schäden an der Ware.</span></li>
+        <li><b>Industrie</b><span>Sekundär- und Tertiärverpackungen, nach Maß für jedes Produkt.</span></li>
+      </ul>
+      <p class="cert"><b>FSC-Karton</b>, zertifiziert nach <b>ISO 9001</b>, <b>Benefit Corporation</b>. Sitz in Angiari in der Provinz Verona.</p>
+    </div>
+  </div>
+</div></section>
+
+<section data-i="5" aria-label="Sprechen wir darüber"><div class="s talk">
+  <div class="l">
+    <div class="pic"><img src="../assets/foto/magazzino.jpg" alt="Karton im Lager"></div>
+    <div class="in">
+      <img class="logo" src="../assets/simba-logo.png" alt="SIMBA Paper Design">
+      <h2>Sprechen wir über {{COMPANY}}</h2>
+      <p class="alt">Schauen wir uns gemeinsam Ihre Verpackungen an und die Kosten, die nicht auf der Rechnung stehen.</p>
+{{TALK_NOTE}}      <p class="site">simbapaperdesign.com</p>
+    </div>
+  </div>
+  {{CAL_BLOCK}}
+</div></section>
+
+</div></div>
+<nav class="pnav" aria-label="Slides"><button class="pb" data-d="-1" aria-label="Zurück">&#8249;</button><span class="pc"><b>1</b> / <span class="pnt"></span></span><button class="pb" data-d="1" aria-label="Weiter">&#8250;</button></nav>
+<a id="nxt" class="off" href="#"><span id="nxtt"></span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12l7 7 7-7"/></svg></a>
+<script>
+(()=>{const ph=document.documentElement.classList.contains('phone'),secs=[...document.querySelectorAll('.slides>section')],n=secs.length;
+document.querySelector('.pnt').textContent=n;const names=secs.map(s=>s.getAttribute('aria-label')),nb=document.getElementById('nxt'),nt=document.getElementById('nxtt'),box=document.querySelector('.slides');let cur=0;
+const cf=document.getElementById('calf'),L=i=>{if(cf&&cf.dataset.src&&i>=n-2&&!cf.getAttribute('src'))cf.src=cf.dataset.src};
+const paint=i=>{cur=i;L(i);if(i+1<n){nt.textContent='Weiter · '+names[i+1];nb.classList.remove('off')}else nb.classList.add('off');document.querySelector('.pc b').textContent=i+1;document.querySelectorAll('.pb').forEach(b=>b.disabled=(+b.dataset.d<0&&i===0)||(+b.dataset.d>0&&i===n-1))};
+const go=i=>{i=Math.max(0,Math.min(n-1,i));if(ph)secs[i].scrollIntoView({behavior:'smooth',block:'start'});else{secs.forEach((s,j)=>s.classList.toggle('on',j===i));paint(i)}};
+nb.addEventListener('click',e=>{e.preventDefault();go(cur+1)});document.querySelectorAll('.pb').forEach(b=>b.addEventListener('click',()=>go(cur+(+b.dataset.d))));
+if(ph){secs.forEach(s=>new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)paint(secs.indexOf(e.target))}),{root:box,threshold:.6}).observe(s));paint(0)}
+else{const fit=()=>box.style.setProperty('--k',Math.min(innerWidth/1280,innerHeight/720));fit();addEventListener('resize',fit);
+addEventListener('keydown',e=>{if(['ArrowRight','ArrowDown','PageDown',' '].includes(e.key)){e.preventDefault();go(cur+1)}if(['ArrowLeft','ArrowUp','PageUp'].includes(e.key)){e.preventDefault();go(cur-1)}});
+let wl=0;addEventListener('wheel',e=>{const t=Date.now();if(t-wl<700||Math.abs(e.deltaY)<20)return;wl=t;go(cur+(e.deltaY>0?1:-1))},{passive:true});paint(0)}})();
+</script>
+</body>
+</html>
