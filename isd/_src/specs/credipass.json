@@ -1,0 +1,17 @@
+{
+ "slug": "credipass",
+ "company": "Credipass",
+ "full_name": "Massimo Iritti",
+ "first": "Massimo",
+ "cover_note": "Credipass conta oltre 350 uffici e più di 800 consulenti.",
+ "evidence": [
+  {
+   "claim": "Credipass conta oltre 350 uffici e più di 800 consulenti.",
+   "url": "https://www.credipass.it/chi-siamo/",
+   "quote": "oltre 350 uffici e più di 800 consulenti finanziari"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/credipass/logo.svg"
+}

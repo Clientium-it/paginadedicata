@@ -1,0 +1,22 @@
+{
+ "slug": "pool-pack",
+ "company": "Pool Pack",
+ "full_name": "Lorenzo Calzi",
+ "first": "Lorenzo",
+ "cover_note": "Pool Pack conta 9 siti produttivi di packaging alimentare.",
+ "evidence": [
+  {
+   "claim": "Pool Pack conta 9 siti produttivi di packaging alimentare.",
+   "url": "https://poolpack.com/",
+   "quote": "Produzione, trasformazione, stampa e commercializzazione di packaging alimentare."
+  },
+  {
+   "claim": "Pool Pack conta 9 siti produttivi di packaging alimentare.",
+   "url": "https://poolpack.com/",
+   "quote": "9 Siti Produttivi"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/pool-pack/logo.png"
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "fbs",
+ "company": "FBS",
+ "full_name": "Alessandro Stringa",
+ "first": "Alessandro",
+ "cover_note": "FBS ha sedi a Milano e Ravenna.",
+ "evidence": [
+  {
+   "claim": "FBS ha sedi a Milano e Ravenna.",
+   "url": "https://www.fbs.it/",
+   "quote": "offre assistenza altamente qualificata su crediti deteriorati di ogni natura"
+  },
+  {
+   "claim": "FBS ha sedi a Milano e Ravenna.",
+   "url": "https://www.fbs.it/",
+   "quote": "Via Senato 6, 20121 Milano, Italia"
+  },
+  {
+   "claim": "FBS ha sedi a Milano e Ravenna.",
+   "url": "https://www.fbs.it/",
+   "quote": "Piazza Arcivescovado 9, 48121 Ravenna, Italia"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/fbs/logo.svg"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "finarc",
+ "company": "Finarc",
+ "full_name": "Giuliano Muffatti",
+ "first": "Giuliano",
+ "cover_note": "Finarc ha uffici a Milano, Sondrio e Roma.",
+ "evidence": [
+  {
+   "claim": "Finarc ha uffici a Milano, Sondrio e Roma.",
+   "url": "https://www.finarc.it/finarc-chi-siamo.html",
+   "quote": "Da allora e fino ad oggi Finarc ha operato ed opera esclusivamente nel settore del Recupero Crediti Stragiudiziale."
+  },
+  {
+   "claim": "Finarc ha uffici a Milano, Sondrio e Roma.",
+   "url": "https://www.finarc.it/finarc-chi-siamo.html",
+   "quote": "La Società ha Sede legale a Milano e si avvale della sede operativa in Sondrio e di un ufficio di rappresentanza a Roma."
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/finarc/logo.webp"
+}

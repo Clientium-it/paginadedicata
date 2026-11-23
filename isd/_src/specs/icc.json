@@ -1,0 +1,22 @@
+{
+ "slug": "icc",
+ "company": "ICC",
+ "full_name": "Alessandro Paris",
+ "first": "Alessandro",
+ "cover_note": "ICC produce cavi per settori industriali e trasporto di energia.",
+ "evidence": [
+  {
+   "claim": "ICC produce cavi per settori industriali e trasporto di energia.",
+   "url": "https://icc.it/azienda",
+   "quote": "leader storico nella produzione di cavi per i settori industriali e trasporto di energia, connessioni speciali e sistemi di cablaggio"
+  },
+  {
+   "claim": "ICC produce cavi per settori industriali e trasporto di energia.",
+   "url": "https://icc.it/azienda",
+   "quote": "il Gruppo ICC è formato da quattro società: ICC, C.M.R, Industria Cavel in Italia, E-Cablaje in Romania,e Techno Indusil in Argentina"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/icc/logo.png"
+}

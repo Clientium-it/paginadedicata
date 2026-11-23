@@ -1,0 +1,22 @@
+{
+ "slug": "geri-hdp",
+ "company": "Geri HDP",
+ "full_name": "Michele Rubin",
+ "first": "Michele",
+ "cover_note": "Geri HDP conta 8 sedi operative per la gestione del credito.",
+ "evidence": [
+  {
+   "claim": "Geri HDP conta 8 sedi operative per la gestione del credito.",
+   "url": "https://www.gerihdp.com/chi-siamo/",
+   "quote": "consulenza, alla gestione ed al recupero del credito"
+  },
+  {
+   "claim": "Geri HDP conta 8 sedi operative per la gestione del credito.",
+   "url": "https://www.gerihdp.com/chi-siamo/",
+   "quote": "8 sedi operative"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/geri-hdp/logo.png"
+}

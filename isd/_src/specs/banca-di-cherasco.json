@@ -1,0 +1,22 @@
+{
+ "slug": "banca-di-cherasco",
+ "company": "Banca di Cherasco",
+ "full_name": "Pietro Barberis",
+ "first": "Pietro",
+ "cover_note": "Banca di Cherasco conta 27 filiali.",
+ "evidence": [
+  {
+   "claim": "Banca di Cherasco conta 27 filiali.",
+   "url": "https://www.bancadicherasco.it/chi-siamo",
+   "quote": "legata alle famiglie e alle piccole e medie imprese"
+  },
+  {
+   "claim": "Banca di Cherasco conta 27 filiali.",
+   "url": "https://www.bancadicherasco.it/chi-siamo",
+   "quote": "27 filiali"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/banca-di-cherasco/logo.png"
+}

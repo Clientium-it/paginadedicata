@@ -1,0 +1,22 @@
+{
+ "slug": "banca-di-bologna",
+ "company": "Banca di Bologna",
+ "full_name": "Lamberto Modelli",
+ "first": "Lamberto",
+ "cover_note": "Banca di Bologna conta 34 filiali più due nuove nel modenese.",
+ "evidence": [
+  {
+   "claim": "Banca di Bologna conta 34 filiali più due nuove nel modenese.",
+   "url": "https://www.bancadibologna.it/chi-siamo/",
+   "quote": "le esigenze delle famiglie e delle attività commerciali, produttive ed industriali"
+  },
+  {
+   "claim": "Banca di Bologna conta 34 filiali più due nuove nel modenese.",
+   "url": "https://www.bancadibologna.it/chi-siamo/",
+   "quote": "una rete di 34 filiali a cui si aggiungono 2 nuove filiali nella provincia di Modena"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/banca-di-bologna/logo.png"
+}

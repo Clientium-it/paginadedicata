@@ -1,0 +1,22 @@
+{
+ "slug": "cassa-padana",
+ "company": "Cassa Padana",
+ "full_name": "Paolo Di Gilio",
+ "first": "Paolo",
+ "cover_note": "Cassa Padana conta 61 filiali.",
+ "evidence": [
+  {
+   "claim": "Cassa Padana conta 61 filiali.",
+   "url": "https://www.cassapadana.it/chi-siamo",
+   "quote": "una banca legata alle famiglie e alle piccole e medie imprese"
+  },
+  {
+   "claim": "Cassa Padana conta 61 filiali.",
+   "url": "https://www.cassapadana.it/chi-siamo",
+   "quote": "61 filiali"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/cassa-padana/logo.png"
+}

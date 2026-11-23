@@ -1,0 +1,22 @@
+{
+ "slug": "n-ts",
+ "company": "N&TS",
+ "full_name": "Alessandro Calabrese",
+ "first": "Alessandro",
+ "cover_note": "N&TS ha filiali a Roma, Torino e Cagliari.",
+ "evidence": [
+  {
+   "claim": "N&TS ha filiali a Roma, Torino e Cagliari.",
+   "url": "https://netsgroup.com/en/company/about-us/",
+   "quote": "has been operating in the electronic payments market for 30 years as a technological partner"
+  },
+  {
+   "claim": "N&TS ha filiali a Roma, Torino e Cagliari.",
+   "url": "https://netsgroup.com/en/company/about-us/",
+   "quote": "Headquarter in Milan with branches in Rome, Turin and Cagliari"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/n-ts/logo.svg"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "city-motors",
+ "company": "City Motors",
+ "full_name": "Alessandro Caltagirone",
+ "first": "Alessandro",
+ "cover_note": "City Motors conta quattro sedi tra Monza, Verano Brianza e Bellusco.",
+ "evidence": [
+  {
+   "claim": "City Motors conta quattro sedi tra Monza, Verano Brianza e Bellusco.",
+   "url": "https://www.citymotors.it/chi-siamo/?",
+   "quote": "City Motors by Sarco è una concessionaria ufficiale Toyota nata a Monza nel 1999 dalla famiglia Mancini. Oggi segue vendita, noleggio e assistenza Toyota"
+  },
+  {
+   "claim": "City Motors conta quattro sedi tra Monza, Verano Brianza e Bellusco.",
+   "url": "https://www.citymotors.it/chi-siamo/",
+   "quote": "quattro sedi tra Monza, Verano Brianza e Bellusco"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/city-motors/logo.png"
+}

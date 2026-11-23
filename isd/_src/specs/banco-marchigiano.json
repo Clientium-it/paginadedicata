@@ -1,0 +1,22 @@
+{
+ "slug": "banco-marchigiano",
+ "company": "Banco Marchigiano",
+ "full_name": "Giampiero Ferraioli",
+ "first": "Giampiero",
+ "cover_note": "Banco Marchigiano conta 28 filiali.",
+ "evidence": [
+  {
+   "claim": "Banco Marchigiano conta 28 filiali.",
+   "url": "https://www.bancomarchigiano.it/chi-siamo",
+   "quote": "una banca legata alle famiglie e alle piccole e medie imprese"
+  },
+  {
+   "claim": "Banco Marchigiano conta 28 filiali.",
+   "url": "https://www.bancomarchigiano.it/chi-siamo",
+   "quote": "28 filiali"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B",
+ "logo": "../assets/leads/banco-marchigiano/logo.png"
+}

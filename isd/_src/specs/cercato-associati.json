@@ -1,0 +1,21 @@
+{
+ "slug": "cercato-associati",
+ "company": "Cercato & Associati",
+ "full_name": "Edy Milan",
+ "first": "Edy",
+ "cover_note": "Cercato & Associati ha uffici a Mestre, Milano, Soave e Udine.",
+ "evidence": [
+  {
+   "claim": "Cercato & Associati ha uffici a Mestre, Milano, Soave e Udine.",
+   "url": "https://www.gruppocea.eu/",
+   "quote": "Servizi per le assicurazioni: perizie per sinistri di frequenza e complessi"
+  },
+  {
+   "claim": "Cercato & Associati ha uffici a Mestre, Milano, Soave e Udine.",
+   "url": "https://www.gruppocea.eu/",
+   "quote": "Cercato & Associati Mestre - Via Torre Belfredo, 73 Milano - Piazza della Repubblica, 32 Soave - Viale della vittoria 77 Udine - Via Treppo, 1"
+  }
+ ],
+ "checked": "2026-11-23 VPS playwright verbatim check (isd_bounced_pages_request_2311.json)",
+ "case": "B"
+}
