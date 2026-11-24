@@ -1,0 +1,28 @@
+{
+ "slug": "gewiss-2",
+ "company": "Gewiss",
+ "first_name": "Alessia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Gewiss è stata fondata nel 1970 sull'uso del tecnopolimero nell'impiantistica elettrica ed è oggi la più importante azienda del settore elettrotecnico a capitale italiano. Qui trova come lavoriamo e cosa potremmo fare per Gewiss.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gewiss.",
+ "evidence": [
+  {
+   "claim": "Gewiss è stata fondata nel 1970 sull'uso del tecnopolimero nell'impiantistica elettrica ed è oggi la più importante azienda del settore elettrotecnico a capitale italiano.",
+   "url": "https://www.gewiss.com/it/it/about-gewiss",
+   "quote": "Fondata nel 1970 sull’intuizione rivoluzionaria dell'uso del tecnopolimero nell'impiantistica elettrica , GEWISS è oggi la più importante azienda del settore elettrotecnico a capitale italiano."
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

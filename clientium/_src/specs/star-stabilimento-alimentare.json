@@ -1,0 +1,28 @@
+{
+ "slug": "star-stabilimento-alimentare",
+ "company": "Star Stabilimento Alimentare",
+ "first_name": "Floriana",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Star Stabilimento Alimentare nasce nel 1948 con uno stabilimento a Muggiò, in Brianza, ed è presente anche in Spagna, Olanda e 30 paesi dell'Africa e del Medio Oriente. Qui trova come lavoriamo e cosa potremmo fare per Star Stabilimento Alimentare.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Star Stabilimento Alimentare.",
+ "evidence": [
+  {
+   "claim": "Star Stabilimento Alimentare nasce nel 1948 con uno stabilimento a Muggiò, in Brianza, ed è presente anche in Spagna, Olanda e 30 paesi dell'Africa e del Medio Oriente.",
+   "url": "https://www.star.it/storia/",
+   "quote": "STAR nasce nel 1948, quando Regolo Fossati fonda uno stabilimento a Muggiò, in Brianza || presente in Spagna, Italia, Olanda, Russia, Repubbliche CSI, 30 paesi dell’Africa e Medio Oriente"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

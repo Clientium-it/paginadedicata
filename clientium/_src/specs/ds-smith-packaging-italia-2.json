@@ -1,0 +1,28 @@
+{
+ "slug": "ds-smith-packaging-italia-2",
+ "company": "DS Smith Packaging Italia",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "DS Smith Packaging Italia fornisce soluzioni di packaging in cartone ondulato e opera in oltre 34 paesi con circa 30.000 persone. Qui trova come lavoriamo e cosa potremmo fare per DS Smith Packaging Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per DS Smith Packaging Italia.",
+ "evidence": [
+  {
+   "claim": "DS Smith Packaging Italia fornisce soluzioni di packaging in cartone ondulato e opera in oltre 34 paesi con circa 30.000 persone.",
+   "url": "https://www.dssmith.com/it/la-nostra-azienda",
+   "quote": "DS Smith è il fornitore leader mondiale di soluzioni di packaging in cartone ondulato. || Oggi, operiamo in oltre 34 paesi diversi, impiegando orgogliosamente circa 30.000 persone. || Settori E-Commerce Beni Industriali Prodotti alimentari e bevande Beni di consumo"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

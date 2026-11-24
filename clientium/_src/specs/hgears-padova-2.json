@@ -1,0 +1,28 @@
+{
+ "slug": "hgears-padova-2",
+ "company": "Hgears Padova",
+ "first_name": "Edoardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Hgears Padova ha a Padova uno stabilimento attivo dal 1976 che combina lavorazione meccanica dell'acciaio e tecnologie della metallurgia delle polveri per produrre ingranaggi e componenti. Qui trova come lavoriamo e cosa potremmo fare per Hgears Padova.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hgears Padova.",
+ "evidence": [
+  {
+   "claim": "Hgears Padova ha a Padova uno stabilimento attivo dal 1976 che combina lavorazione meccanica dell'acciaio e tecnologie della metallurgia delle polveri per produrre ingranaggi e componenti.",
+   "url": "https://hgears.com/company/history/",
+   "quote": "Established in 1976, it is one of the very few companies worldwide to combine traditional Steel Machining with Powder Metal technologies and has achieved over the years a remarkable position in the manufacturing of gears and components. || Schramberg Germany Founded in 1958 Area m2 Employees Padova Italy Founded in 1976 Area m2 Employees Suzhou China Founded in 2003"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

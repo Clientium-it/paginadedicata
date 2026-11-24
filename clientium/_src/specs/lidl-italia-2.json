@@ -1,0 +1,28 @@
+{
+ "slug": "lidl-italia-2",
+ "company": "Lidl Italia",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Lidl Italia propone prodotti alimentari e anche articoli per il fai da te, giochi per bambini e abbigliamento, presentati nei volantini. Qui trova come lavoriamo e cosa potremmo fare per Lidl Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lidl Italia.",
+ "evidence": [
+  {
+   "claim": "Lidl Italia propone prodotti alimentari e anche articoli per il fai da te, giochi per bambini e abbigliamento, presentati nei volantini.",
+   "url": "https://www.lidl.it/c/volantino-lidl/s10018048",
+   "quote": "oltre ai prodotti alimentari, potrai trovare differenti articoli per il tuo fai da te, giochi per bambini, abbigliamento e molto altro all'interno dei nostri volantini || Lidl in Italia Trova il tuo negozio nella tua regione Abruzzo"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

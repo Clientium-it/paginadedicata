@@ -1,0 +1,28 @@
+{
+ "slug": "aviointeriors-3",
+ "company": "Aviointeriors",
+ "first_name": "Simona",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Aviointeriors progetta, certifica, produce e consegna da oltre 50 anni sedili passeggeri per aerei a compagnie aeree, lessor, MRO e costruttori OEM. Qui trova come lavoriamo e cosa potremmo fare per Aviointeriors.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aviointeriors.",
+ "evidence": [
+  {
+   "claim": "Aviointeriors progetta, certifica, produce e consegna da oltre 50 anni sedili passeggeri per aerei a compagnie aeree, lessor, MRO e costruttori OEM.",
+   "url": "https://aviointeriors.it/products/mya/",
+   "quote": "For over 50 years, AvioInteriors has been designing, certifying, manufacturing, and delivering high-quality aircraft passenger seats to leading airlines, lessors, MROs, and aircraft OEMs. || 67.000 sqm of plant 250 employees || leading airlines, lessors, MROs, and aircraft OEMs"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "tecnoelettra-3",
+ "company": "Tecnoelettra",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Tecnoelettra produce quadri elettrici e componenti industriali dal 1985 a Guastalla. Qui trova come lavoriamo e cosa potremmo fare per Tecnoelettra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecnoelettra.",
+ "evidence": [
+  {
+   "claim": "Tecnoelettra produce quadri elettrici e componenti industriali dal 1985 a Guastalla.",
+   "url": "https://tecnoelettra.it/pages/chi-siamo",
+   "quote": "Tecnoelettra Srl nasce nel 1985 con l'obiettivo di rivoluzionare il settore dei quadri elettrici e dei componenti industriali, rendendoli più accessibili, efficienti e funzionali. || Indirizzo Via Dimo Vioni 5 42016 - Guastalla (RE) ITALIA"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

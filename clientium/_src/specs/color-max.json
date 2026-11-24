@@ -1,0 +1,28 @@
+{
+ "slug": "color-max",
+ "company": "Color MAX",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Color MAX da oltre 50 anni aiuta i professionisti di edilizia, industria e carrozzeria, con nove punti vendita tra Abruzzo, Umbria ed Emilia. Qui trova come lavoriamo e cosa potremmo fare per Color MAX.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Color MAX.",
+ "evidence": [
+  {
+   "claim": "Color MAX da oltre 50 anni aiuta i professionisti di edilizia, industria e carrozzeria, con nove punti vendita tra Abruzzo, Umbria ed Emilia.",
+   "url": "https://www.colormax.it/",
+   "quote": "Da oltre 50 anni aiutiamo i professionisti a trovare soluzioni per ogni esigenza. || Nove punti vendita tra Abruzzo, Umbria ed Emilia. || In particolare siamo specializzati nei settori: EDILIZIA INDUSTRIA CARROZZERIA NAUTICA FALEGNAMERIA FAI DA TE"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

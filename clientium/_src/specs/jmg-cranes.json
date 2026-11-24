@@ -1,0 +1,28 @@
+{
+ "slug": "jmg-cranes",
+ "company": "JMG Cranes",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "JMG Cranes progetta e costruisce gru semoventi elettriche a batteria e carrelli elevatori con portate da 0.9 a 70 ton, nel polo produttivo di Sarmato in provincia di Piacenza. Qui trova come lavoriamo e cosa potremmo fare per JMG Cranes.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per JMG Cranes.",
+ "evidence": [
+  {
+   "claim": "JMG Cranes progetta e costruisce gru semoventi elettriche a batteria e carrelli elevatori con portate da 0.9 a 70 ton, nel polo produttivo di Sarmato in provincia di Piacenza.",
+   "url": "https://www.jmgcranes.it/chi-siamo/",
+   "quote": "Progettiamo e costruiamo una gamma completa di gru semoventi elettriche a batteria e carrelli elevatori con portate da 0.9 a 70 ton. || SEDE PRODUTTIVA: Via dell'Innovazione, 3 - 29010 Sarmato (PC) Italy SEDE COMMERCIALE: Via Bergamo, 142 - 26100 CREMONA (CR) Italy"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

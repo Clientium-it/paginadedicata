@@ -1,0 +1,28 @@
+{
+ "slug": "centrico-3",
+ "company": "Centrico",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Centrico propone un CRM italiano per organizzare vendite, clienti, marketing e attività aziendali in un unico ambiente, con un esperto dedicato che configura il sistema, forma il team e lo affianca. Qui trova come lavoriamo e cosa potremmo fare per Centrico.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Centrico.",
+ "evidence": [
+  {
+   "claim": "Centrico propone un CRM italiano per organizzare vendite, clienti, marketing e attività aziendali in un unico ambiente, con un esperto dedicato che configura il sistema, forma il team e lo affianca.",
+   "url": "https://centrico.it/it/",
+   "quote": "Centrico è un CRM italiano per organizzare vendite, clienti, marketing e attività aziendali in un unico ambiente. Con il Metodo Centrico, un esperto dedicato configura il CRM sui tuoi processi, forma il team e ti accompagna fino alla piena autonomia."
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

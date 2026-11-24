@@ -1,0 +1,28 @@
+{
+ "slug": "isaia-e-isaia-2",
+ "company": "Isaia E Isaia",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Isaia E Isaia dal 1957 ha sede a Casalnuovo, alle porte di Napoli, e ha un negozio a Roma in Via Bocca di Leone. Qui trova come lavoriamo e cosa potremmo fare per Isaia E Isaia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Isaia E Isaia.",
+ "evidence": [
+  {
+   "claim": "Isaia E Isaia dal 1957 ha sede a Casalnuovo, alle porte di Napoli, e ha un negozio a Roma in Via Bocca di Leone.",
+   "url": "https://www.isaia.it/pages/about",
+   "quote": "In 1957 , ISAIA relocated to Casalnuovo, a small town on the outskirts of Napoli || Roma Via Bocca di Leone, 68"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

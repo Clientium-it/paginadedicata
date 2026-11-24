@@ -1,0 +1,28 @@
+{
+ "slug": "technoprobe-2",
+ "company": "Technoprobe",
+ "first_name": "Stefania",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Technoprobe progetta, sviluppa e produce probe card per i grandi marchi tecnologici e conta 21 sedi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Technoprobe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Technoprobe.",
+ "evidence": [
+  {
+   "claim": "Technoprobe progetta, sviluppa e produce probe card per i grandi marchi tecnologici e conta 21 sedi nel mondo.",
+   "url": "https://www.technoprobe.com",
+   "quote": "We specialise in the design, development and production of probe cards for the biggest technology brands. || 21 locations worldwide. Headquarters in Italy, branches in Europe, America and Asia."
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

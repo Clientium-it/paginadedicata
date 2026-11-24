@@ -1,0 +1,28 @@
+{
+ "slug": "della-foglia",
+ "company": "Della Foglia",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Della Foglia produce valvole a sfera dal 1962, nello stabilimento di 40.000 m² a Gorla Minore. Qui trova come lavoriamo e cosa potremmo fare per Della Foglia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Della Foglia.",
+ "evidence": [
+  {
+   "claim": "Della Foglia produce valvole a sfera dal 1962, nello stabilimento di 40.000 m² a Gorla Minore.",
+   "url": "https://www.dellafoglia.it/company",
+   "quote": "DELLA FOGLIA was founded in 1962 by Mr. and Mrs. Della Foglia as a small artisan company of ball and needle valves. || Our production plant: 40.000 sqm located in Gorla Minore || Our goal towards clients, EPC, licensee and end users is to satisfy their needs using a problem-solving approach."
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

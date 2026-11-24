@@ -1,0 +1,28 @@
+{
+ "slug": "solid-world",
+ "company": "Solid World",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Solid World è stata fondata nel 2003 e conta più di 10.000 aziende clienti, supportate da 9 sedi nazionali. Qui trova come lavoriamo e cosa potremmo fare per Solid World.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Solid World.",
+ "evidence": [
+  {
+   "claim": "Solid World è stata fondata nel 2003 e conta più di 10.000 aziende clienti, supportate da 9 sedi nazionali.",
+   "url": "https://solidworld.it/chi-siamo/",
+   "quote": "SolidWorld , azienda di SolidWorld GROUP , viene fondata nel 2003 || Con oltre vent’anni di esperienza, la nostra Azienda può contare oggi su più di 10.000 aziende clienti, supportate dalle nostre 9 sedi nazionali."
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

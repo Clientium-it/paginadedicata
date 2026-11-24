@@ -1,0 +1,28 @@
+{
+ "slug": "giampi-2",
+ "company": "Giampi",
+ "first_name": "Matthias",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Giampi realizza carpenteria per progetti architettonici, lavora con general contractor, studi di architettura e ingegneri strutturali e dal 2021 fa parte del Gruppo Faram 1957. Qui trova come lavoriamo e cosa potremmo fare per Giampi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Giampi.",
+ "evidence": [
+  {
+   "claim": "Giampi realizza carpenteria per progetti architettonici, lavora con general contractor, studi di architettura e ingegneri strutturali e dal 2021 fa parte del Gruppo Faram 1957.",
+   "url": "https://www.giampi.com/azienda.html",
+   "quote": "Giampi realizza soluzioni per qualsiasi progetto architettonico di carpenteria , dialogando con general contractor , studi di architettura e ingegneri strutturali. || Nel 2021 entra a far parte del Gruppo Faram 1957 , combinando in modo strategico mercati e competenze tecniche complementari. || dialogando con general contractor , studi di architettura e ingegneri strutturali."
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

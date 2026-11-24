@@ -1,0 +1,28 @@
+{
+ "slug": "zf-automotive-italia-2",
+ "company": "ZF Automotive Italia",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "ZF Automotive Italia fa parte del gruppo ZF, che fornisce sistemi dinamici per auto, veicoli commerciali e tecnologia industriale, con 162 stabilimenti produttivi in 29 paesi. Qui trova come lavoriamo e cosa potremmo fare per ZF Automotive Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ZF Automotive Italia.",
+ "evidence": [
+  {
+   "claim": "ZF Automotive Italia fa parte del gruppo ZF, che fornisce sistemi dinamici per auto, veicoli commerciali e tecnologia industriale, con 162 stabilimenti produttivi in 29 paesi.",
+   "url": "https://www.zf.com/mobile/en/homepage/homepage.html",
+   "quote": "ZF is a global technology company supplying highly advanced dynamic systems for passenger cars, commercial vehicles and industrial technology. || The company operates 162 production locations in 29 countries. || Its comprehensive product range primarily serves vehicle manufacturers, mobility providers and start-up companies in the fields of transportation and mobility."
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

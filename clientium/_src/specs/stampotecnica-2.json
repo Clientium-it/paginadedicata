@@ -1,0 +1,28 @@
+{
+ "slug": "stampotecnica-2",
+ "company": "Stampotecnica",
+ "first_name": "Ivano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Stampotecnica dal 1969 si occupa di costruzione stampi, stampaggio, assemblaggio e collaudo, con 70 dipendenti e 6.000 m2 di superficie. Qui trova come lavoriamo e cosa potremmo fare per Stampotecnica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Stampotecnica.",
+ "evidence": [
+  {
+   "claim": "Stampotecnica dal 1969 si occupa di costruzione stampi, stampaggio, assemblaggio e collaudo, con 70 dipendenti e 6.000 m2 di superficie.",
+   "url": "https://stampotecnica.com/chi-siamo/",
+   "quote": "Anno: 1969 Dipendenti: 70 Superficie: 6.000 m2 Divisioni: Stampaggio – engineering, costruzione stampi, stampaggio, assemblaggio e collaudo;"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

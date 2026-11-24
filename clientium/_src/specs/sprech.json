@@ -1,0 +1,28 @@
+{
+ "slug": "sprech",
+ "company": "Sprech",
+ "first_name": "Lucia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Sprech progetta e realizza coperture modulari, pergole, gazebo, dehors e tensostrutture per uso commerciale o residenziale, con un team di 173 persone. Qui trova come lavoriamo e cosa potremmo fare per Sprech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sprech.",
+ "evidence": [
+  {
+   "claim": "Sprech progetta e realizza coperture modulari, pergole, gazebo, dehors e tensostrutture per uso commerciale o residenziale, con un team di 173 persone.",
+   "url": "https://sprech.com/chi-siamo/",
+   "quote": "Realizziamo coperture modulari, pergole, gazebo, dehors, tensostrutture, destinati a un utilizzo commerciale o residenziale. || Il team si amplia a 173 persone"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

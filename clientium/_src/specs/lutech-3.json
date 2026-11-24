@@ -1,0 +1,28 @@
+{
+ "slug": "lutech-3",
+ "company": "Lutech",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Lutech conta oltre 6.000 professionisti e porta l'Intelligenza Artificiale nei processi reali delle organizzazioni, integrandola con dati, applicazioni, infrastrutture e modelli di governance. Qui trova come lavoriamo e cosa potremmo fare per Lutech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lutech.",
+ "evidence": [
+  {
+   "claim": "Lutech conta oltre 6.000 professionisti e porta l'Intelligenza Artificiale nei processi reali delle organizzazioni, integrandola con dati, applicazioni, infrastrutture e modelli di governance.",
+   "url": "https://lutech.group/it/about/chi-siamo",
+   "quote": "Oggi siamo oltre 6.000 professionisti e portiamo l’Intelligenza Artificiale all’interno dei processi reali delle organizzazioni, integrandola con dati, applicazioni, infrastrutture e modelli di governance. || Vision 5 Paesi nel mondo"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

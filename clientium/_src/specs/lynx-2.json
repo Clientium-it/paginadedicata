@@ -1,0 +1,28 @@
+{
+ "slug": "lynx-2",
+ "company": "LYNX",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "LYNX offre LYNX MOSA.ic.AI, una piattaforma AI deterministica che unisce calcolo CPU e GPU per distribuire e governare in sicurezza AI mission critical all'edge. Qui trova come lavoriamo e cosa potremmo fare per LYNX.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LYNX.",
+ "evidence": [
+  {
+   "claim": "LYNX offre LYNX MOSA.ic.AI, una piattaforma AI deterministica che unisce calcolo CPU e GPU per distribuire e governare in sicurezza AI mission critical all'edge.",
+   "url": "https://www.lynx.com/",
+   "quote": "LYNX MOSA.ic.AI is a deterministic AI platform unifying CPU and GPU computing to safely deploy, control, and govern mission-critical AI at the edge. || Commercial Aerospace Optimize aircraft systems with Lynx's secure, modular platforms designed for the aerospace industry. Defense Ensure reliability and security in defense operations with Lynx's certified, scalable solutions. Medical Secure your medical devices"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

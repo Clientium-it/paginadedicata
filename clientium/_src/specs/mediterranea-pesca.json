@@ -1,0 +1,28 @@
+{
+ "slug": "mediterranea-pesca",
+ "company": "Mediterranea Pesca",
+ "first_name": "Agnese",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Mediterranea Pesca serve grossisti, ristoratori, mense e bar, con 90 dipendenti, circa 20.000 mq di struttura e una flotta di più di 30 automezzi. Qui trova come lavoriamo e cosa potremmo fare per Mediterranea Pesca.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mediterranea Pesca.",
+ "evidence": [
+  {
+   "claim": "Mediterranea Pesca serve grossisti, ristoratori, mense e bar, con 90 dipendenti, circa 20.000 mq di struttura e una flotta di più di 30 automezzi.",
+   "url": "https://www.mediterraneapesca.it/profilo/",
+   "quote": "Assetto aziendale costituito da 90 dipendenti distribuiti nei vari comparti. || Grazie alla struttura, estesa su una superficie di circa 20.000 mq , costituita da uno stabilimento dotato di celle frigo da capacità di 11.000 m3, e al parco auto dotato di flotta composta da più di 30 automezzi . || L’ingrosso è consentito a grossisti, ristoratori, mense, bar e titolari di partita Iva che possono acquistare in diverse modalità ."
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "ibm-italia-2",
+ "company": "IBM Italia",
+ "first_name": "Angelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "IBM Italia propone watsonx, un portafoglio di prodotti di intelligenza artificiale per costruire applicazioni, gestire dati affidabili e governare l'AI nelle aziende. Qui trova come lavoriamo e cosa potremmo fare per IBM Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IBM Italia.",
+ "evidence": [
+  {
+   "claim": "IBM Italia propone watsonx, un portafoglio di prodotti di intelligenza artificiale per costruire applicazioni, gestire dati affidabili e governare l'AI nelle aziende.",
+   "url": "https://www.ibm.com/products?lnk=hpfp9us",
+   "quote": "IBM watsonx is a portfolio of AI products for building AI applications, managing trusted data and governing AI to accelerate AI adoption across the enterprise."
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

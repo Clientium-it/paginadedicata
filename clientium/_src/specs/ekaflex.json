@@ -1,0 +1,28 @@
+{
+ "slug": "ekaflex",
+ "company": "Ekaflex",
+ "first_name": "Karim",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Ekaflex conta 70 dipendenti, stabilimenti per circa 8.500 mq e 4.000.000 Kg prodotti nel 2022. Qui trova come lavoriamo e cosa potremmo fare per Ekaflex.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ekaflex.",
+ "evidence": [
+  {
+   "claim": "Ekaflex conta 70 dipendenti, stabilimenti per circa 8.500 mq e 4.000.000 Kg prodotti nel 2022.",
+   "url": "https://www.ekaflex.it/azienda-1/",
+   "quote": "stabilimenti per circa 8.500 mq 2 Macchine da stampa gearless 8 colori 2 Accoppiatrici solvent less 2 Accoppiatrice combi dotate di un gruppo rotocalco 6 Taglierine Telecamera controllo 100% Fustellatore laser Integrato 1 Macroforatore a freddo 70 dipendenti Prodotti anno 2022: 4.000.000 Kg di cui 35% carta || Ekaflex Srl – Viale Industria 1018, 21020 Malgesso (VA)"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

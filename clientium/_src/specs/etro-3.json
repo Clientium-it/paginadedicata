@@ -1,0 +1,28 @@
+{
+ "slug": "etro-3",
+ "company": "ETRO",
+ "first_name": "Alfredo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "ETRO è stata fondata nel 1968 da una famiglia di collezionisti e ha un ricco archivio di tessuti frutto di oltre mezzo secolo di collezionismo. Qui trova come lavoriamo e cosa potremmo fare per ETRO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ETRO.",
+ "evidence": [
+  {
+   "claim": "ETRO è stata fondata nel 1968 da una famiglia di collezionisti e ha un ricco archivio di tessuti frutto di oltre mezzo secolo di collezionismo.",
+   "url": "https://www.etro.com/de-de/about-us.html",
+   "quote": "Etro wurde 1968 von einer Familie leidenschaftlicher Sammler gegründet und verfügt über ein reichhaltiges Stoffarchiv - ein Zeugnis von mehr als einem halben Jahrhundert unermüdlichen Sammelns, dynamischer Kreativität, globaler Erkundung und vielseitiger Inspiration."
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

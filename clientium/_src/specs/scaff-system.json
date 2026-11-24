@@ -1,0 +1,28 @@
+{
+ "slug": "scaff-system",
+ "company": "Scaff System",
+ "first_name": "Licio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Scaff System produce internamente dal 1957 scaffalature e strutture in acciaio su misura per logistica di magazzino, edilizia industriale e residenziale a secco e design, con prodotti presenti in 19 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Scaff System.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Scaff System.",
+ "evidence": [
+  {
+   "claim": "Scaff System produce internamente dal 1957 scaffalature e strutture in acciaio su misura per logistica di magazzino, edilizia industriale e residenziale a secco e design, con prodotti presenti in 19 Paesi.",
+   "url": "https://www.scaffsystem.it/",
+   "quote": "Dal 1957 trasformiamo l’acciaio in soluzioni su misura : dalla logistica di magazzino all’edilizia industriale e residenziale a secco, fino all’arredo di design. Progettiamo e produciamo internamente || 19 Paesi 3 Continenti Mondo Europa Americhe Medio Oriente Paesi di operatività"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "capgemini-italia-2",
+ "company": "Capgemini Italia",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Capgemini Italia affianca le aziende nella trasformazione e nella gestione del business con la tecnologia, in settori come automotive, banche, assicurazioni e telecomunicazioni. Qui trova come lavoriamo e cosa potremmo fare per Capgemini Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Capgemini Italia.",
+ "evidence": [
+  {
+   "claim": "Capgemini Italia affianca le aziende nella trasformazione e nella gestione del business con la tecnologia, in settori come automotive, banche, assicurazioni e telecomunicazioni.",
+   "url": "https://www.capgemini.com/",
+   "quote": "We are a global leader in partnering with companies to transform and manage their business by harnessing the power of technology. || Aerospace and defense Automotive Banking and capital markets Consumer products Energy and utilities Healthcare High-tech Hospitality and travel Insurance"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

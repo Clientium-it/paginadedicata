@@ -1,0 +1,28 @@
+{
+ "slug": "takeda-manufacturing-italia-4",
+ "company": "Takeda Manufacturing Italia",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Takeda Manufacturing Italia produce in due stabilimenti in Italia farmaci plasma-derivati salvavita e fa parte di un Gruppo con circa 50.000 dipendenti in più di 80 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Takeda Manufacturing Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Takeda Manufacturing Italia.",
+ "evidence": [
+  {
+   "claim": "Takeda Manufacturing Italia produce in due stabilimenti in Italia farmaci plasma-derivati salvavita e fa parte di un Gruppo con circa 50.000 dipendenti in più di 80 Paesi.",
+   "url": "https://www.takeda.com/it-it/",
+   "quote": "con due stabilimenti in Italia per la produzione di farmaci plasma-derivati salvavita || Il Gruppo ha oltre 240 anni di storia ed è presente in più di 80 Paesi con circa 50.000 dipendenti"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

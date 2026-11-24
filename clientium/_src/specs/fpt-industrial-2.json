@@ -1,0 +1,28 @@
+{
+ "slug": "fpt-industrial-2",
+ "company": "FPT Industrial",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "FPT Industrial conta oltre 8.000 dipendenti in dieci stabilimenti e dieci centri di ricerca ed è attiva in quasi 100 paesi. Qui trova come lavoriamo e cosa potremmo fare per FPT Industrial.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FPT Industrial.",
+ "evidence": [
+  {
+   "claim": "FPT Industrial conta oltre 8.000 dipendenti in dieci stabilimenti e dieci centri di ricerca ed è attiva in quasi 100 paesi.",
+   "url": "https://www.fptindustrial.com/de/media/company/about-us",
+   "quote": "FPT beschäftigt weltweit über 8.000 Mitarbeiter an zehn Produktionsstandorten und in zehn Forschungs- und Entwicklungszentren. || Das Unternehmen ist in fast 100 Ländern aktiv, seine weltweiten Verkaufs- und Customer Service-Abteilung unterstützen alle Kunden der Marke."
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

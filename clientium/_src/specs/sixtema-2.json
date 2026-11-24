@@ -1,0 +1,28 @@
+{
+ "slug": "sixtema-2",
+ "company": "Sixtema",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Sixtema è il Digital Enabler per associazioni, intermediari finanziari e PMI e promuove la digital transformation del tessuto produttivo e imprenditoriale del Sistema Italia, con 107 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per Sixtema.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sixtema.",
+ "evidence": [
+  {
+   "claim": "Sixtema è il Digital Enabler per associazioni, intermediari finanziari e PMI e promuove la digital transformation del tessuto produttivo e imprenditoriale del Sistema Italia, con 107 dipendenti.",
+   "url": "https://sixtema.it/",
+   "quote": "Digital Enabler per Associazioni, Intermediari finanziari e PMI che promuove la digital transformation del tessuto produttivo e imprenditoriale del Sistema Italia || Sixtema in numeri 107 Dipendenti 13.6 MLN [ricavi 2022] 3 Sedi 1,109 Clienti || Digital Enabler per Associazioni, Intermediari finanziari e PMI che promuove la digital transformation del tessuto produttivo e imprenditoriale del Sistema Italia"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

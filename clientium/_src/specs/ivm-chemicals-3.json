@@ -1,0 +1,28 @@
+{
+ "slug": "ivm-chemicals-3",
+ "company": "IVM Chemicals",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "IVM Chemicals produce resine, adesivi ed elastomeri poliuretanici, con distribuzione in oltre 100 Paesi. Qui trova come lavoriamo e cosa potremmo fare per IVM Chemicals.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IVM Chemicals.",
+ "evidence": [
+  {
+   "claim": "IVM Chemicals produce resine, adesivi ed elastomeri poliuretanici, con distribuzione in oltre 100 Paesi.",
+   "url": "https://www.ivmchemicals.com/it/pages/144-attivita-e-struttura-operativa",
+   "quote": "Produce inoltre resine, adesivi ed elastomeri poliuretanici. || con Aziende nelle principali Nazioni Europee e distribuzione in oltre 100 Paesi || fornire a tutti coloro che verniciano il legno, dai piccoli utilizzatori alla grande industria"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "kering-eyewear-2",
+ "company": "Kering Eyewear",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Kering Eyewear è stata fondata nel 2014 e progetta, sviluppa e distribuisce occhiali per un portafoglio di 15 marchi, con un centro logistico a Vescovana. Qui trova come lavoriamo e cosa potremmo fare per Kering Eyewear.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kering Eyewear.",
+ "evidence": [
+  {
+   "claim": "Kering Eyewear è stata fondata nel 2014 e progetta, sviluppa e distribuisce occhiali per un portafoglio di 15 marchi, con un centro logistico a Vescovana.",
+   "url": "https://www.keringeyewear.com/",
+   "quote": "Founded in 2014, Kering Eyewear is the most relevant player in the Luxury Eyewear market segment. The Company designs, develops and distributes eyewear for a complete and well-balanced portfolio of 15 brands || Kering Eyewear strengthened its industrial assets with the official opening of the Logistics Center in Vescovana, in the Veneto Region"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

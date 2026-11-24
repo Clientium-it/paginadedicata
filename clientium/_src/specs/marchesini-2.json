@@ -1,0 +1,28 @@
+{
+ "slug": "marchesini-2",
+ "company": "Marchesini",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Marchesini progetta e produce macchine e linee di confezionamento per l'industria farmaceutica e cosmetica, con una rete commerciale presente in più di 120 paesi. Qui trova come lavoriamo e cosa potremmo fare per Marchesini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Marchesini.",
+ "evidence": [
+  {
+   "claim": "Marchesini progetta e produce macchine e linee di confezionamento per l'industria farmaceutica e cosmetica, con una rete commerciale presente in più di 120 paesi.",
+   "url": "https://www.marchesini.com/en",
+   "quote": "We design and produce a wide range of packaging machines and lines for the pharmaceutical and cosmetic industry || With an extensive sales network and numerous representation offices, we are present in more than 120 countries. || packaging solutions across pharmaceutical and cosmetic industries"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

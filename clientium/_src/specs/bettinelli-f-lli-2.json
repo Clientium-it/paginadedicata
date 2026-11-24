@@ -1,0 +1,28 @@
+{
+ "slug": "bettinelli-f-lli-2",
+ "company": "Bettinelli F.lli",
+ "first_name": "Franco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Bettinelli F.lli progetta e produce macchinari ad alta precisione, meccanismi a camma e sistemi di vibrazione per l'automazione industriale, con oltre 70 anni di esperienza, fondata nel 1953. Qui trova come lavoriamo e cosa potremmo fare per Bettinelli F.lli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bettinelli F.lli.",
+ "evidence": [
+  {
+   "claim": "Bettinelli F.lli progetta e produce macchinari ad alta precisione, meccanismi a camma e sistemi di vibrazione per l'automazione industriale, con oltre 70 anni di esperienza, fondata nel 1953.",
+   "url": "https://bettinelli.it/",
+   "quote": "Fondata nel 1953, Bettinelli S.p.A. rappresenta l'eccellenza nell'innovazione tecnologica. Leader globale nell'automazione industriale, siamo specializzati nella progettazione e produzione di macchinari ad alta precisione, meccanismi a camma e sistemi di vibrazione avanzati. Con oltre 70 anni di esperienza || Via Leonardo Da Vinci, 56 26010 Bagnolo Cremasco CR"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "shionogi",
+ "company": "Shionogi",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Shionogi fa parte di un gruppo farmaceutico globale di 141 anni con sede a Osaka in Giappone, la cui sede europea è Shionogi BV. Qui trova come lavoriamo e cosa potremmo fare per Shionogi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Shionogi.",
+ "evidence": [
+  {
+   "claim": "Shionogi fa parte di un gruppo farmaceutico globale di 141 anni con sede a Osaka in Giappone, la cui sede europea è Shionogi BV.",
+   "url": "https://www.shionogi.com/eu-de/de/",
+   "quote": "Shionogi BV ist der europäische Hauptsitz eines 141 Jahre alten globalen Pharmaunternehmens mit Sitz in Osaka, Japan. || Registered address is Herengracht 464, 1017 CA, Amsterdam, the Netherlands."
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

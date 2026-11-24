@@ -1,0 +1,28 @@
+{
+ "slug": "helvi",
+ "company": "Helvi",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Helvi produce saldatrici industriali, macchine per il taglio al plasma e carica batterie professionali a Sandrigo, in provincia di Vicenza, con più di 80 collaboratori e oltre il 70% del fatturato all'estero. Qui trova come lavoriamo e cosa potremmo fare per Helvi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Helvi.",
+ "evidence": [
+  {
+   "claim": "Helvi produce saldatrici industriali, macchine per il taglio al plasma e carica batterie professionali a Sandrigo, in provincia di Vicenza, con più di 80 collaboratori e oltre il 70% del fatturato all'estero.",
+   "url": "https://helvi.com/it/about",
+   "quote": "Azienda produttrice di saldatrici industriali, macchine per il taglio al plasma, carica batterie professionali e accessori, Helvi S.p.A. si trova a Sandrigo, in provincia di Vicenza, e oggi conta più di 80 collaboratori, con un fatturato di circa 15 milioni di Euro sviluppato per oltre il 70% all’estero. || Helvi S.p.A. si trova a Sandrigo, in provincia di Vicenza || nascono nuove macchine per voi professionisti e artigiani"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}

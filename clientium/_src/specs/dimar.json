@@ -1,0 +1,28 @@
+{
+ "slug": "dimar",
+ "company": "Dimar",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Dimar opera dal 1975 nella Grande Distribuzione Organizzata con una rete capillare in Piemonte e Liguria. Qui trova come lavoriamo e cosa potremmo fare per Dimar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dimar.",
+ "evidence": [
+  {
+   "claim": "Dimar opera dal 1975 nella Grande Distribuzione Organizzata con una rete capillare in Piemonte e Liguria.",
+   "url": "https://www.dimar.it/",
+   "quote": "Dimar è la realtà della Grande Distribuzione Organizzata che dal 1975 cresce insieme al territorio. Con una rete capillare in Piemonte e Liguria || Con una rete capillare in Piemonte e Liguria"
+  }
+ ],
+ "checked": "VPS5 lite.py verbatim check 24/11"
+}
