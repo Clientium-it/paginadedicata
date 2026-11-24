@@ -1,0 +1,28 @@
+{
+ "slug": "hitherm",
+ "company": "Hitherm",
+ "first_name": "Dzana",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Hitherm produce raccordi pressfitting in acciaio con i marchi HTpress, HTfire e HTair, in una sede di circa 14.000 mq con aula formativa per installatori. Qui trova come lavoriamo e cosa potremmo fare per Hitherm.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hitherm.",
+ "evidence": [
+  {
+   "claim": "Hitherm produce raccordi pressfitting in acciaio con i marchi HTpress, HTfire e HTair, in una sede di circa 14.000 mq con aula formativa per installatori.",
+   "url": "https://hitherm.it/azienda/",
+   "quote": "Produttori di raccordi pressfitting in acciaio galvanizzato, profilo “M“, con i nostri marchi “HTpress”, “HTfire”, “HTair” e fornitori delle relative tubazioni. Esclusivisti in Italia del sistema pressfitting in acciaio inox “Numepress”, prodotto da Isotubi S.L. || Con la nuova sede disposta su un’area di circa 14.000mq di cui 5000 predisposti a magazzino || Abbiamo allestito un’aula formativa ed una sala convegno rivolte agli installatori e ai progettisti."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "stamperia-olonia",
+ "company": "Stamperia Olonia",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Stamperia Olonia stampa a Gorla Minore su tutte le fibre tessili naturali fino a 320 cm di altezza, in digitale e in tradizionale. Qui trova come lavoriamo e cosa potremmo fare per Stamperia Olonia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Stamperia Olonia.",
+ "evidence": [
+  {
+   "claim": "Stamperia Olonia stampa a Gorla Minore su tutte le fibre tessili naturali fino a 320 cm di altezza, in digitale e in tradizionale.",
+   "url": "https://olonia.it/it/azienda",
+   "quote": "Oggi Stamperia Olonia può stampare su tutte le fibre tessili naturali fino 320cm di altezza utile, in digitale e in tradizionale con coloranti pigmenti e reattivi. || Via Ambrogio Colombo, 65 21055 - Gorla Minore, Varese Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

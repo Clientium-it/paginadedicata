@@ -1,0 +1,28 @@
+{
+ "slug": "cabot",
+ "company": "Cabot",
+ "first_name": "Valentina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Cabot sviluppa da oltre 140 anni carboni rinforzanti, materiali per batterie, masterbatch e aerogel per trasporti, infrastrutture e beni di consumo con sede a Boston. Qui trova come lavoriamo e cosa potremmo fare per Cabot.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cabot.",
+ "evidence": [
+  {
+   "claim": "Cabot sviluppa da oltre 140 anni carboni rinforzanti, materiali per batterie, masterbatch e aerogel per trasporti, infrastrutture e beni di consumo con sede a Boston.",
+   "url": "https://www.cabotcorp.com/company/about-cabot",
+   "quote": "Our strength in research and development is a major reason why we have been an industry leader for more than 140 years in products such as reinforcing carbons, specialty carbons, battery materials, engineered elastomer composites, inkjet colorants, masterbatches and conductive compounds, fumed metal oxides and aerogel. || headquartered in Boston, Massachusetts, USA || serving key industries such as transportation, infrastructure, environment and consumer"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "capgemini",
+ "company": "Capgemini",
+ "first_name": "Luc-Francois",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Capgemini affianca le aziende nel trasformare e gestire il proprio business attraverso la tecnologia. Qui trova come lavoriamo e cosa potremmo fare per Capgemini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Capgemini.",
+ "evidence": [
+  {
+   "claim": "Capgemini affianca le aziende nel trasformare e gestire il proprio business attraverso la tecnologia.",
+   "url": "https://www.capgemini.com/about-us/",
+   "quote": "We are a global leader in partnering with companies to transform and manage their business by harnessing the power of technology."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

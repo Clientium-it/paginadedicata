@@ -1,0 +1,28 @@
+{
+ "slug": "cavalieri-e-amoretti",
+ "company": "Cavalieri e Amoretti",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Cavalieri e Amoretti produce scatole tonde, cofanetti e scatole in cartone rivestite per i settori del lusso. Qui trova come lavoriamo e cosa potremmo fare per Cavalieri e Amoretti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cavalieri e Amoretti.",
+ "evidence": [
+  {
+   "claim": "Cavalieri e Amoretti produce scatole tonde, cofanetti e scatole in cartone rivestite per i settori del lusso.",
+   "url": "https://cavalierieamoretti.com/",
+   "quote": "una delle aziende maggiormente conosciute a livello internazionale per la produzione di scatole tonde e cofanetti di lusso. L’alto livello tecnologico raggiunto nel tempo, consentì una produzione altamente specializzata di scatole in cartone rivestite per i settori del lusso."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "marr-4",
+ "company": "MARR",
+ "first_name": "Devis",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "MARR da oltre 50 anni distribuisce prodotti alimentari e non food alla ristorazione extra domestica con oltre 40 centri distributivi in Italia. Qui trova come lavoriamo e cosa potremmo fare per MARR.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MARR.",
+ "evidence": [
+  {
+   "claim": "MARR da oltre 50 anni distribuisce prodotti alimentari e non food alla ristorazione extra domestica con oltre 40 centri distributivi in Italia.",
+   "url": "https://www.marr.it/home",
+   "quote": "MARR è leader in Italia nella distribuzione specializzata alla ristorazione extra domestica di prodotti alimentari e non food. || Oltre 40 centri distributivi sul territorio nazionale, scopri quello più vicino a te. || Da oltre 50 anni ci prendiamo cura dei professionisti della ristorazione con l’obiettivo di essere un Partner in grado di offrire soluzioni personalizzate."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

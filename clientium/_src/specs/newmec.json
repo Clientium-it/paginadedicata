@@ -1,0 +1,28 @@
+{
+ "slug": "newmec",
+ "company": "Newmec",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Newmec dal 2010 esegue a Brescello fresature e torniture di precisione su oltre 35 impianti per medicale, packaging, Formula 1, aerospace e difesa. Qui trova come lavoriamo e cosa potremmo fare per Newmec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Newmec.",
+ "evidence": [
+  {
+   "claim": "Newmec dal 2010 esegue a Brescello fresature e torniture di precisione su oltre 35 impianti per medicale, packaging, Formula 1, aerospace e difesa.",
+   "url": "https://newmec.eu/",
+   "quote": "Fondata nel 2010 a Brescello (RE) da Francesco Bernardi , la nostra azienda si distingue per la capacità di eseguire lavorazioni meccaniche ad altissima precisione, su oltre 35 impianti di ultima generazione, nei reparti di fresatura e tornitura. || Via Leonardo Da Vinci 22/24 42041 – Brescello (RE) || Collaboriamo con aziende leader nei settori più complessi: medicale, farmaceutico, packaging, Formula 1, aerospace, aeronautico, difesa e moda."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

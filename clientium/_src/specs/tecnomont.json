@@ -1,0 +1,28 @@
+{
+ "slug": "tecnomont",
+ "company": "Tecnomont",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Tecnomont realizza involucri edilizi e riqualifica edifici civili e industriali in tutta Italia, con lavori anche a Düsseldorf, Copenaghen, Bruxelles, Parigi e Vienna. Qui trova come lavoriamo e cosa potremmo fare per Tecnomont.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecnomont.",
+ "evidence": [
+  {
+   "claim": "Tecnomont realizza involucri edilizi e riqualifica edifici civili e industriali in tutta Italia, con lavori anche a Düsseldorf, Copenaghen, Bruxelles, Parigi e Vienna.",
+   "url": "https://www.tecnomontservice.com/",
+   "quote": "Tecnomont Service è un’azienda specializzata nella realizzazione di involucri edilizi e nella riqualificazione di edifici civili e industriali. || Operiamo principalmente su tutto il territorio nazionale, con esperienze maturate anche in contesti internazionali come Düsseldorf, Copenaghen, Bruxelles, Parigi, Vienna."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

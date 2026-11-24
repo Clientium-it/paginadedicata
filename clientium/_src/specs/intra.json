@@ -1,0 +1,28 @@
+{
+ "slug": "intra",
+ "company": "Intra",
+ "first_name": "Lorenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Intra lavora per oltre 3000 clienti attivi con più di 10000 articoli in anagrafica tra automotive, agricolo, oleodinamica, eolico e alimentare. Qui trova come lavoriamo e cosa potremmo fare per Intra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Intra.",
+ "evidence": [
+  {
+   "claim": "Intra lavora per oltre 3000 clienti attivi con più di 10000 articoli in anagrafica tra automotive, agricolo, oleodinamica, eolico e alimentare.",
+   "url": "https://www.intra-tt.it/",
+   "quote": "+ 10000 Articoli in anagrafica + 3000 Clienti attivi || Via G. di Vittorio, 12/14 Loc. Baitella 25045 Castegnato (Bs) || Automotive E-mobility Agricolo Oleodinamica Pneumatica movimento terra Riduttori di potenza Alimentare Eolico"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

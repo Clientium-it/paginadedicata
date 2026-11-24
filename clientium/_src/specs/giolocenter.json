@@ -1,0 +1,28 @@
+{
+ "slug": "giolocenter",
+ "company": "GioloCenter",
+ "first_name": "Remo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "GioloCenter con 7 punti vendita tra Padova, Rovigo e Vicenza segue i professionisti dell'edilizia leggera, dagli studi di progettazione alle imprese di posa. Qui trova come lavoriamo e cosa potremmo fare per GioloCenter.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GioloCenter.",
+ "evidence": [
+  {
+   "claim": "GioloCenter con 7 punti vendita tra Padova, Rovigo e Vicenza segue i professionisti dell'edilizia leggera, dagli studi di progettazione alle imprese di posa.",
+   "url": "https://www.giolocenter.it/azienda/",
+   "quote": "GioloCenter significa anche 7 punti vendita dislocati nelle province di Padova, Rovigo e Vicenza . Grazie a più di quaranta collaboratori offre un servizio completo al mondo dell’edilizia leggera . || GioloCenter significa anche 7 punti vendita dislocati nelle province di Padova, Rovigo e Vicenza . || dedicata a tutti i professionisti che operano in edilizia , dallo studio di progettazione alle imprese di posa che hanno la necessità di standard elevati nella qualità di prodotti e nella consulenza tecnica."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

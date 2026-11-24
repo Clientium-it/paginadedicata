@@ -1,0 +1,28 @@
+{
+ "slug": "fracm",
+ "company": "FRACM",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "FRACM ha un nuovo stabilimento di 12.000mq che con pannelli solari ed energia rinnovabile produce a bilancio di co2 pari a zero. Qui trova come lavoriamo e cosa potremmo fare per FRACM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FRACM.",
+ "evidence": [
+  {
+   "claim": "FRACM ha un nuovo stabilimento di 12.000mq che con pannelli solari ed energia rinnovabile produce a bilancio di co2 pari a zero.",
+   "url": "https://www.fracm.it/",
+   "quote": "Il nuovo stabilimento di 12.000mq, grazie agli interventi di coibentazione, ai pannelli solari e all’utilizzo di energia da fonti rinnovabili, è in grado di garantire un processo di produzione a bilancio totale di co2 pari a zero. || Strada Brescello Cadelbosco , 54 42041 | Brescello (RE)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

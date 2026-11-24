@@ -1,0 +1,28 @@
+{
+ "slug": "regenesy",
+ "company": "Regenesy",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Regenesy sviluppa e gestisce piattaforme software per chi distribuisce acqua, gas ed energia elettrica, con oltre cento persone tra Roma, Milano e Palermo. Qui trova come lavoriamo e cosa potremmo fare per Regenesy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Regenesy.",
+ "evidence": [
+  {
+   "claim": "Regenesy sviluppa e gestisce piattaforme software per chi distribuisce acqua, gas ed energia elettrica, con oltre cento persone tra Roma, Milano e Palermo.",
+   "url": "https://www.regenesy.ai/azienda/",
+   "quote": "Regenesy Technologies S.p.A. sviluppa e gestisce piattaforme software per le aziende che distribuiscono acqua, gas ed energia elettrica. Ha sede a Roma e opera in Italia, in Europa e in Medio Oriente. || Oltre cento persone, di cui 60 dedicate allo smart metering, tra Roma, Milano e Palermo. || 11 Gestori idrici Installazioni attive presso gestori del servizio idrico integrato. 7 Distributori gas Installazioni attive, più tre sperimentazioni in Spagna, Bulgaria e Polonia. 4 Operatori elettrici"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

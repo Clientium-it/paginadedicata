@@ -1,0 +1,28 @@
+{
+ "slug": "serbaplast-2",
+ "company": "Serbaplast",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Serbaplast ha più di 120 dipendenti, produzione a Rosolo e Zogno, 3 showroom nella bergamasca e oltre 100 rivenditori nel nord Italia. Qui trova come lavoriamo e cosa potremmo fare per Serbaplast.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Serbaplast.",
+ "evidence": [
+  {
+   "claim": "Serbaplast ha più di 120 dipendenti, produzione a Rosolo e Zogno, 3 showroom nella bergamasca e oltre 100 rivenditori nel nord Italia.",
+   "url": "https://www.serbaplast.com/finestre-in-pvc-e-alluminio/",
+   "quote": "attualmente conta più di 120 dipendenti , 1 sede produttiva a Rosolo (Serina, BG) , 1 sede logistica e produttiva a Zogno (BG), 3 Show-Room diretti in provincia di Bergamo e oltre 100 rivenditori in tutto il nord Italia in costante crescita. || 1 sede produttiva a Rosolo (Serina, BG) , 1 sede logistica e produttiva a Zogno (BG), 3 Show-Room diretti in provincia di Bergamo e oltre 100 rivenditori in tutto il nord Italia in costante crescita."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

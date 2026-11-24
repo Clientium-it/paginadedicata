@@ -1,0 +1,28 @@
+{
+ "slug": "moretto",
+ "company": "Moretto",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Moretto produce particolari in lamiera stampati, saldati e assemblati per automotive, elettrodomestico e truck, con tre stabilimenti tra Italia, Serbia e Polonia. Qui trova come lavoriamo e cosa potremmo fare per Moretto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Moretto.",
+ "evidence": [
+  {
+   "claim": "Moretto produce particolari in lamiera stampati, saldati e assemblati per automotive, elettrodomestico e truck, con tre stabilimenti tra Italia, Serbia e Polonia.",
+   "url": "https://www.morettogroup.com/azienda/sedi-produttive/",
+   "quote": "Siamo un’ azienda specializzata nella lavorazione a freddo di lamiere metalliche e altre leghe . Produciamo particolari stampati, assemblati, saldati e lavorati meccanicamente, realizzando semilavorati destinati principalmente al settore dell’ automotive ed elettrodomestico , passando anche per il truck e altre categorie merceologiche. || I tre stabilimenti produttivi dislocati in Europa, tra Italia , Serbia e Polonia , permettono all’azienda di ampliare i servizi offerti così come la produzione || realizzando semilavorati destinati principalmente al settore dell’ automotive ed elettrodomestico , passando anche per il truck e altre categorie merceologiche."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

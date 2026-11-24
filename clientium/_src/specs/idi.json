@@ -1,0 +1,28 @@
+{
+ "slug": "idi",
+ "company": "IDI",
+ "first_name": "Lorenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "IDI segue in proprio ricerca, produzione e commercializzazione di farmaci, dispositivi medici e dermocosmetici dallo stabilimento di Pomezia. Qui trova come lavoriamo e cosa potremmo fare per IDI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IDI.",
+ "evidence": [
+  {
+   "claim": "IDI segue in proprio ricerca, produzione e commercializzazione di farmaci, dispositivi medici e dermocosmetici dallo stabilimento di Pomezia.",
+   "url": "https://www.idifarmaceutici.com/chi-siamo/",
+   "quote": "IDI Farmaceutici costituisce il polo industriale del Gruppo e la sua attività riguarda farmaci, dispositivi medici, dermocosmetici. L’azienda si occupa in proprio di tutte le fasi del ciclo farmaceutico: ricerca, applicazioni, produzione e commercializzazione. || Headquarter e stabilimento di produzione: Via dei Castelli Romani, 83/85. 00071 Pomezia RM || Nella determinazione di essere partner competente e disponibile per specialisti, medici, farmacisti."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

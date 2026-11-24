@@ -1,0 +1,28 @@
+{
+ "slug": "favagrossa",
+ "company": "Favagrossa",
+ "first_name": "Leonardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Favagrossa dal 1965 produce a Roncadello spazzole per autolavaggio su oltre 15000 mq, con più di 30 brevetti e oltre 70 paesi serviti. Qui trova come lavoriamo e cosa potremmo fare per Favagrossa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Favagrossa.",
+ "evidence": [
+  {
+   "claim": "Favagrossa dal 1965 produce a Roncadello spazzole per autolavaggio su oltre 15000 mq, con più di 30 brevetti e oltre 70 paesi serviti.",
+   "url": "https://www.favagrossa.com/",
+   "quote": "Nata nel 1965, l’azienda, con sede in Roncadello (CR), è da oltre 50 anni sinonimo di qualità, innovazione ed estrema attenzione alle necessità del cliente nel campo dell’autolavaggio con spazzole. || + di 15000 mq di area produttiva coperta MIGLIAIA di impianti equipaggiati ogni anno MILIONI di veicoli lavati ogni giorno + di 70 paesi serviti nel mondo + di 30 brevetti internazionali || vendendo i propri prodotti in più di 70 paesi nel mondo e vantando tra i propri clienti le maggiori aziende produttrici di autolavaggi"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "crosa",
+ "company": "Crosa",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Crosa lavora da Alba sugli impianti industriali con oltre 50 professionisti e una gamma di oltre 30.000 prodotti. Qui trova come lavoriamo e cosa potremmo fare per Crosa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Crosa.",
+ "evidence": [
+  {
+   "claim": "Crosa lavora da Alba sugli impianti industriali con oltre 50 professionisti e una gamma di oltre 30.000 prodotti.",
+   "url": "https://crosa.it/content/4-chi-siamo",
+   "quote": "supportati da una gamma di oltre 30.000 prodotti diversi. Il nostro team di oltre 50 professionisti è costantemente impegnato a soddisfare le tue esigenze con entusiasmo e dedizione || la nostra azienda con sede ad Alba è attiva nell'innovazione industriale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

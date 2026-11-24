@@ -1,0 +1,28 @@
+{
+ "slug": "biesse-4",
+ "company": "Biesse",
+ "first_name": "Samuele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Biesse con 4.400 persone produce macchine per la lavorazione del legno per l'industria di mobili, finestre e porte, con sede a Pesaro. Qui trova come lavoriamo e cosa potremmo fare per Biesse.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Biesse.",
+ "evidence": [
+  {
+   "claim": "Biesse con 4.400 persone produce macchine per la lavorazione del legno per l'industria di mobili, finestre e porte, con sede a Pesaro.",
+   "url": "https://biesse.com/",
+   "quote": "Dank der Kompetenz unserer 4.400 Mitarbeitenden inspirieren wir führende Unternehmen in ihren Fachgebieten und in der Welt des Designs, das Potenzial der verschiedenen Werkstoffe voll zur Entfaltung zu bringen. || BIESSE HEADQUARTERS Pesaro, Italien HSD Gradara, Italien BIESSE IN FRANKREICH Lyon, Frankreich BIESSE IN DEUTSCHLAND Nersingen, Deutschland || Wir fertigen Maschinen für die Holzbearbeitung, mit denen wir die Produktionsprozesse unserer Kunden aus der Möbel-, Fenster- und Türenindustrie optimieren."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

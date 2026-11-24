@@ -1,0 +1,28 @@
+{
+ "slug": "contec-3",
+ "company": "Contec",
+ "first_name": "Alessio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Contec realizza costruzioni elettriche e strumentali ad alta tecnologia e impiantistica meccanica per Oil & Gas, New Energy, Chemical e Power Generation. Qui trova come lavoriamo e cosa potremmo fare per Contec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Contec.",
+ "evidence": [
+  {
+   "claim": "Contec realizza costruzioni elettriche e strumentali ad alta tecnologia e impiantistica meccanica per Oil & Gas, New Energy, Chemical e Power Generation.",
+   "url": "https://contecspa.eu/chi-siamo-contec/",
+   "quote": "Siamo specializzati nelle costruzioni e lavorazioni elettriche e strumentali ad alta tecnologia. Accanto a questo ambito, Contec può vantare una comprovata esperienza nell’impiantistica meccanica, operando principalmente nei settori Oil & Gas , New Energy , Heavy Construction , Chemical e Power Generation ."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

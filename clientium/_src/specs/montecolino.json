@@ -1,0 +1,28 @@
+{
+ "slug": "montecolino",
+ "company": "Montecolino",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Montecolino produce e distribuisce con magazzini a Milano e Valencia per oltre 3.000 clienti, dai posatori di pavimenti ai cantieri navali. Qui trova come lavoriamo e cosa potremmo fare per Montecolino.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Montecolino.",
+ "evidence": [
+  {
+   "claim": "Montecolino produce e distribuisce con magazzini a Milano e Valencia per oltre 3.000 clienti, dai posatori di pavimenti ai cantieri navali.",
+   "url": "https://www.montecolino.it/storia/",
+   "quote": "Oggi Montecolino vanta una struttura di 54.000 m2 su un area di 120.000 m2, un potenziale produttivo di oltre 15 milioni di m2 e ben oltre 3.000 clienti attivi e soddisfatti. || Grazie ai magazzini centrali in sede e ai magazzini distributivi di Milano e Valencia, Montecolino, nella doppia veste di produttore e distributore, si avvicina ai clienti || Clienti che spaziano dalla grande distribuzione ai piccoli dettaglianti, dai posatori di pavimenti agli allestitori fieristici, dalle agenzie pubblicitarie agli architetti, dalle industrie calzaturiere ai cantieri navali, dai garden center ai tappezzieri"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "ferri-3",
+ "company": "Ferri",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Ferri produce decespugliatrici idrauliche, porta attrezzi radiocomandati e trinciatrici forestali, venduti in oltre 40 paesi con filiali in Francia e Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per Ferri.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ferri.",
+ "evidence": [
+  {
+   "claim": "Ferri produce decespugliatrici idrauliche, porta attrezzi radiocomandati e trinciatrici forestali, venduti in oltre 40 paesi con filiali in Francia e Stati Uniti.",
+   "url": "https://ferrisrl.it/",
+   "quote": "Progettiamo e produciamo decespugliatrici idrauliche e bracci decespugliatori , porta attrezzi radiocomandati , trinciatrici laterali e trinciatrici per trattore , trinciatrici forestali || Disponiamo di centinaia di punti vendita in Italia e in oltre 40 paesi del mondo, con filiali in Francia e negli Stati Uniti. || Pubblica Amministrazione e municipalità Utilizzatori Rivenditori"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

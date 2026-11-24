@@ -1,0 +1,28 @@
+{
+ "slug": "bedeschi-3",
+ "company": "Bedeschi",
+ "first_name": "Reza",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Bedeschi progetta dal 1908 soluzioni chiavi in mano per rinfuse e mining, logistica container e laterizi, con 50.000 metri quadri a Limena. Qui trova come lavoriamo e cosa potremmo fare per Bedeschi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bedeschi.",
+ "evidence": [
+  {
+   "claim": "Bedeschi progetta dal 1908 soluzioni chiavi in mano per rinfuse e mining, logistica container e laterizi, con 50.000 metri quadri a Limena.",
+   "url": "https://www.bedeschi.com/about/",
+   "quote": "Since 1908 we design complete turn-key solutions for Bulk Handling and Mining, Container Logistics and Bricks. || 1970 That year saw the beginning of the construction of the new Limena factory with the new company, Officina Meccanica Bedeschi s.n.c. 50,000 square metres of industrial area, of which 20,000 are covered!"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

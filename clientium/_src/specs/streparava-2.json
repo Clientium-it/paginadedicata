@@ -1,0 +1,28 @@
+{
+ "slug": "streparava-2",
+ "company": "Streparava",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Streparava dal 1951 è diventata system supplier per la mobilità con soluzioni che integrano meccanica, elettronica e dati ed è arrivata in Spagna, Brasile e India. Qui trova come lavoriamo e cosa potremmo fare per Streparava.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Streparava.",
+ "evidence": [
+  {
+   "claim": "Streparava dal 1951 è diventata system supplier per la mobilità con soluzioni che integrano meccanica, elettronica e dati ed è arrivata in Spagna, Brasile e India.",
+   "url": "https://www.streparava.com/noi-streparava/azienda/chi-siamo/",
+   "quote": "fino a diventare system supplier per la mobilità intelligente, con soluzioni complete che integrano meccanica, elettronica e dati. Dal 1951 fino ad oggi, questa è la sua storia || Questa logica ha portato Streparava in Spagna e Brasile nel 2000, e in India nel 2006"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

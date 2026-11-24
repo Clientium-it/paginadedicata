@@ -1,0 +1,28 @@
+{
+ "slug": "telefin-2",
+ "company": "Telefin",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Telefin da oltre 30 anni lavora per il settore ferroviario a Verona con una cinquantina di collaboratori tra progettisti, tecnici e commerciali. Qui trova come lavoriamo e cosa potremmo fare per Telefin.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Telefin.",
+ "evidence": [
+  {
+   "claim": "Telefin da oltre 30 anni lavora per il settore ferroviario a Verona con una cinquantina di collaboratori tra progettisti, tecnici e commerciali.",
+   "url": "https://telefin.it/",
+   "quote": "conta oggi una cinquantina di collaboratori tra progettisti, tecnici, commerciali e dirigenti. Scopri di più Da oltre 30 anni al servizio del settore ferroviario || Via Albere 87/A - 37138 Verona - Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "atitech",
+ "company": "Atitech",
+ "first_name": "Fausto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Atitech fa manutenzione aeronautica nelle basi di Napoli Capodichino, Roma Fiumicino e Olbia e in 29 aeroporti per oltre 100 compagnie. Qui trova come lavoriamo e cosa potremmo fare per Atitech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Atitech.",
+ "evidence": [
+  {
+   "claim": "Atitech fa manutenzione aeronautica nelle basi di Napoli Capodichino, Roma Fiumicino e Olbia e in 29 aeroporti per oltre 100 compagnie.",
+   "url": "https://www.atitech.it/about-us/",
+   "quote": "Across its three bases in Naples Capodichino, Rome Fiumicino and Olbia, the company offers highly qualified services in base maintenance (heavy and light), component repair, engineering services and technical training. || Atitech is present at 29 peripheral airports (20 in Italy and 9 abroad), where it provides its line maintenance services. || With a total of 12 hangars , Atitech serves a client portfolio of over 100 companies, including airlines, institutional bodies and government entities."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

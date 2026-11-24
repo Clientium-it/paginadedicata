@@ -1,0 +1,28 @@
+{
+ "slug": "liquigas-3",
+ "company": "Liquigas",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Liquigas distribuisce GPL, GNL e biocombustibili a 330.000 clienti in tutta Italia con 20 stabilimenti e depositi e oltre 800 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per Liquigas.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Liquigas.",
+ "evidence": [
+  {
+   "claim": "Liquigas distribuisce GPL, GNL e biocombustibili a 330.000 clienti in tutta Italia con 20 stabilimenti e depositi e oltre 800 dipendenti.",
+   "url": "https://www.liquigas.it/chisiamo",
+   "quote": "Liquigas distribuisce GPL, GNL e biocombustibili a case, aziende e istituzioni in tutta Italia, da Nord a Sud, dalle grandi città ai piccoli centri. || 330.000 clienti oltre 800 dipendenti oltre 50 uffici vendita 20 stabilimenti e depositi oltre 5.000 rivenditori di bombole 200 autobotti di proprietà 128 reti canalizzate in altrettanti Comuni, per circa 742 km || Liquigas distribuisce GPL, GNL e biocombustibili a case, aziende e istituzioni in tutta Italia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

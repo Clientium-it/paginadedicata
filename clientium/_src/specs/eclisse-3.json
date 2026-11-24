@@ -1,0 +1,28 @@
+{
+ "slug": "eclisse-3",
+ "company": "Eclisse",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Eclisse produce 100% Made in Italy in un polo di oltre 20 mila metri quadri più 3 sedi produttive, con oltre 200 persone e 10 consociate estere. Qui trova come lavoriamo e cosa potremmo fare per Eclisse.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Eclisse.",
+ "evidence": [
+  {
+   "claim": "Eclisse produce 100% Made in Italy in un polo di oltre 20 mila metri quadri più 3 sedi produttive, con oltre 200 persone e 10 consociate estere.",
+   "url": "https://www.eclisse.it/azienda/chi-siamo/",
+   "quote": "Un polo di oltre 20 mila metri quadri che si aggiungono ad altre 3 sedi produttive, dove ancora oggi viene svolta la produzione di un prodotto 100% Made in Italy , grazie al lavoro quotidiano di oltre 200 persone. || All’estero ECLISSE è presente con 10 consociate : Austria, Brasile, Francia, Germania, Polonia, Regno Unito, Cechia, Slovacchia, Romania e Spagna. || Tutti i servizi dedicati al rivenditore, perché il nostro obiettivo è crescere insieme alla nostra rete distributiva ed offrire prodotti e servizi che facilitino la vendita."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

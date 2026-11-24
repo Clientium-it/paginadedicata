@@ -1,0 +1,28 @@
+{
+ "slug": "ids",
+ "company": "IDS",
+ "first_name": "Gianmaria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "IDS sviluppa da Pisa radar, comunicazioni satellitari, robotica e ingegneria elettromagnetica per civile e difesa con filiali in UK, Australia, Canada e Corea del Sud. Qui trova come lavoriamo e cosa potremmo fare per IDS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IDS.",
+ "evidence": [
+  {
+   "claim": "IDS sviluppa da Pisa radar, comunicazioni satellitari, robotica e ingegneria elettromagnetica per civile e difesa con filiali in UK, Australia, Canada e Corea del Sud.",
+   "url": "https://www.idscorporation.com/about-us/",
+   "quote": "IDS, a company belonging to Fincantieri NexTech , is an engineering and systems technologies company providing research, innovation and products in Electromagnetic Engineering , Satellite Communications , Robotics & Unmanned Systems and Radar fields for civil and defense applications. || IDS’s headquarters are in Pisa, Italy with several offices in the Country and has a strong international attitude with four subsidiary companies located in UK , Australia , Canada and South Korea ."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

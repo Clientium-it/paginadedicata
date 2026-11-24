@@ -1,0 +1,28 @@
+{
+ "slug": "partech",
+ "company": "Partech",
+ "first_name": "Leonardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Partech a Parma conta più di ottanta professionisti e gestisce oltre settanta tecnologie con vendor come Microsoft, VMware, Palo Alto Networks e Oracle. Qui trova come lavoriamo e cosa potremmo fare per Partech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Partech.",
+ "evidence": [
+  {
+   "claim": "Partech a Parma conta più di ottanta professionisti e gestisce oltre settanta tecnologie con vendor come Microsoft, VMware, Palo Alto Networks e Oracle.",
+   "url": "https://www.partech.it/chi-siamo/",
+   "quote": "Il nostro team conta più di ottanta professionisti, gestiamo un ampio ecosistema di oltre settanta tecnologie e operiamo in collaborazione con vendor di riferimento come Microsoft, VMware, Palo Alto Networks e Oracle. || Partech S.p.a. Largo A. Cacciari, 1/B – 43122 Parma"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

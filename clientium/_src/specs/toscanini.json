@@ -1,0 +1,28 @@
+{
+ "slug": "toscanini",
+ "company": "Toscanini",
+ "first_name": "Federica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Toscanini produce interamente a Isolella Sesia e lavora per moda, interior design, Hôtellerie e clienti privati. Qui trova come lavoriamo e cosa potremmo fare per Toscanini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Toscanini.",
+ "evidence": [
+  {
+   "claim": "Toscanini produce interamente a Isolella Sesia e lavora per moda, interior design, Hôtellerie e clienti privati.",
+   "url": "https://www.toscanini.it/chi-siamo/",
+   "quote": "Produciamo interamente in Italia, a Isolella Sesia, perché qui c’è il nostro cuore che batte per il Made in Italy. || Produciamo interamente in Italia, a Isolella Sesia, perché qui c’è il nostro cuore che batte per il Made in Italy. || La capacità di imparare dai nostri clienti e di essere proattivi ci permette di lavorare per settori diversi come la moda, l’interior design e l’Hôtellerie e per i clienti privati"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

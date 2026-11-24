@@ -1,0 +1,28 @@
+{
+ "slug": "lairt",
+ "company": "Lairt",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Lairt da 60 anni stampa a iniezione e assembla articoli in plastica a Calderara di Reno per clienti del medicale, dell'automobilistico e dell'elettronica. Qui trova come lavoriamo e cosa potremmo fare per Lairt.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lairt.",
+ "evidence": [
+  {
+   "claim": "Lairt da 60 anni stampa a iniezione e assembla articoli in plastica a Calderara di Reno per clienti del medicale, dell'automobilistico e dell'elettronica.",
+   "url": "https://lairt.com/terminato-il-primo-passo-tecnologico-per-efficientamento-energetico-e-controllo-della-produzione/",
+   "quote": "Da 60 anni, Lairt si distingue nella produzione e nell’assemblaggio di articoli in materiale plastico stampati ad iniezione. E lo fa grazie alle attività che avvengono nel suo stabilimento di Calderara di Reno, in provincia di Bologna || E lo fa grazie alle attività che avvengono nel suo stabilimento di Calderara di Reno, in provincia di Bologna || soddisfare le esigenze di clienti operanti in campo ad elevato contenuto tecnologico ( medicale, automobilistico, motociclistico, elettronica )"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

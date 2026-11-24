@@ -1,0 +1,28 @@
+{
+ "slug": "prochimica",
+ "company": "Prochimica",
+ "first_name": "Giacomo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Prochimica miscela e standardizza coloranti per tessile, carta e concia a San Pietro Mosezzo con oltre 40 miscelatori e reattori. Qui trova come lavoriamo e cosa potremmo fare per Prochimica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Prochimica.",
+ "evidence": [
+  {
+   "claim": "Prochimica miscela e standardizza coloranti per tessile, carta e concia a San Pietro Mosezzo con oltre 40 miscelatori e reattori.",
+   "url": "https://prochimicanovarese.it/it-it/chisiamo",
+   "quote": "Potendo contare su più di 40 fra miscelatori e reattori, Prochimica ha, ad oggi, una capacità di 24.000 T impiegata per 18.000 T/anno || Ad oggi il sito di S. Pietro Mosezzo consta di 4 unità, per un totale di oltre 50.000 m 2 ed una superficie coperta di 25.000 m 2 || Miscelazione e standardizzazione di Coloranti per l’industria Tessile, Cartaria e della Concia."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

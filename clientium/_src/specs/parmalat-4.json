@@ -1,0 +1,28 @@
+{
+ "slug": "parmalat-4",
+ "company": "Parmalat",
+ "first_name": "Mario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Parmalat porta latte, yogurt, panna, besciamella e bevande alla frutta nelle famiglie italiane con 6 marchi nazionali e 11 locali. Qui trova come lavoriamo e cosa potremmo fare per Parmalat.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Parmalat.",
+ "evidence": [
+  {
+   "claim": "Parmalat porta latte, yogurt, panna, besciamella e bevande alla frutta nelle famiglie italiane con 6 marchi nazionali e 11 locali.",
+   "url": "https://www.parmalat.it/",
+   "quote": "Con 6 marchi nazionali e 11 marchi locali, Parmalat è vicina a tutte le famiglie italiane offrendo un’ampia gamma di prodotti per ogni momento della giornata: latte, yogurt, panna e besciamella, bevande alla frutta. || Sede Legale: Largo Tazio Nuvolari 1 – 20143 Milano"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "amaris",
+ "company": "Amaris",
+ "first_name": "Raffaele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Amaris è una società indipendente di consulenza tecnologica con oltre 7.600 persone in più di 60 paesi e oltre 1.000 clienti. Qui trova come lavoriamo e cosa potremmo fare per Amaris.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Amaris.",
+ "evidence": [
+  {
+   "claim": "Amaris è una società indipendente di consulenza tecnologica con oltre 7.600 persone in più di 60 paesi e oltre 1.000 clienti.",
+   "url": "https://amaris.com/about-us/",
+   "quote": "Amaris Consulting is an independent technology consulting firm providing guidance and solutions to businesses. It gathers more than 7,600 people across 5 continents and more than 60 countries. With more than 1,000 clients across the globe || It gathers more than 7,600 people across 5 continents and more than 60 countries. || Our experts engage across all sectors ranging from financial services and transportation, to healthcare and technology ."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "coim",
+ "company": "COIM",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "COIM, la Chimica Organica Industriale Milanese, ha sedi in Italia, Stati Uniti, Germania, Brasile, India, Singapore, Messico e Regno Unito. Qui trova come lavoriamo e cosa potremmo fare per COIM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per COIM.",
+ "evidence": [
+  {
+   "claim": "COIM, la Chimica Organica Industriale Milanese, ha sedi in Italia, Stati Uniti, Germania, Brasile, India, Singapore, Messico e Regno Unito.",
+   "url": "https://coimgroup.com/",
+   "quote": "COIM BRAZIL LTDA Brazil COIM INDIA PVT. LTD. India COIM ASIA PACIFIC PTE LTD Singapore GLOBOCOIM MEXICO, S.DE R.L.DE C.V Mexico Notedome Ltd United Kingdom || C.O.I.M. S.P.A. - CHIMICA ORGANICA INDUSTRIALE MILANESE Italy COIM USA INC. United States Of America COIM Deutschland GmbH Germany"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "viraver",
+ "company": "Viraver",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Viraver trasforma vetro e policarbonato per applicazioni ad alte prestazioni e lavora sui mercati internazionali. Qui trova come lavoriamo e cosa potremmo fare per Viraver.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Viraver.",
+ "evidence": [
+  {
+   "claim": "Viraver trasforma vetro e policarbonato per applicazioni ad alte prestazioni e lavora sui mercati internazionali.",
+   "url": "https://viraver.com/it/viraver-25-anni/",
+   "quote": "Viraver è una realtà industriale specializzata nella trasformazione di vetro e policarbonato per applicazioni ad alte prestazioni . Viraver opera sui mercati internazionali"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

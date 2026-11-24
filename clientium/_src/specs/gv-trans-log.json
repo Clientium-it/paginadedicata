@@ -1,0 +1,28 @@
+{
+ "slug": "gv-trans-log",
+ "company": "GV Trans Log",
+ "first_name": "Stefania",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "GV Trans Log si occupa di logistica, trasporti e gestione pallet dal 2021 a Fino Mornasco con un team che ha oltre 25 anni di esperienza. Qui trova come lavoriamo e cosa potremmo fare per GV Trans Log.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GV Trans Log.",
+ "evidence": [
+  {
+   "claim": "GV Trans Log si occupa di logistica, trasporti e gestione pallet dal 2021 a Fino Mornasco con un team che ha oltre 25 anni di esperienza.",
+   "url": "https://gvtranslog.com/",
+   "quote": "Siamo un'azienda specializzata in logistica , trasporti e gestione pallet , nata nel 2021 con un team che vanta oltre 25 anni di esperienza nel settore . || G.V. TRANS-LOG S.R.L. Viale Risorgimento, 32, 22073 Fino Mornasco CO"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

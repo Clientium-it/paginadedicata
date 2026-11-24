@@ -1,0 +1,28 @@
+{
+ "slug": "sangiorgese",
+ "company": "Sangiorgese",
+ "first_name": "Gianluigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "La Sangiorgese promuove lo sport a San Giorgio su Legnano dal 1922 coinvolgendo atleti, famiglie, tecnici, dirigenti e volontari. Qui trova come lavoriamo e cosa potremmo fare per Sangiorgese.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sangiorgese.",
+ "evidence": [
+  {
+   "claim": "La Sangiorgese promuove lo sport a San Giorgio su Legnano dal 1922 coinvolgendo atleti, famiglie, tecnici, dirigenti e volontari.",
+   "url": "http://www.sangiorgese.it/la-nostra-storia/",
+   "quote": "Dal 1922 la U.S. Sangiorgese promuove lo sport a San Giorgio su Legnano, coinvolgendo generazioni di atleti, famiglie, tecnici, dirigenti e volontari || Via Roma, 43, San Giorgio Su Legnano 20034"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

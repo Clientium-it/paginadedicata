@@ -1,0 +1,28 @@
+{
+ "slug": "avvale-3",
+ "company": "Avvale",
+ "first_name": "Enrique",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Avvale porta da oltre 20 anni tecnologia alle aziende di automotive, manufacturing, logistica, energia, retail, moda e sanità. Qui trova come lavoriamo e cosa potremmo fare per Avvale.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Avvale.",
+ "evidence": [
+  {
+   "claim": "Avvale porta da oltre 20 anni tecnologia alle aziende di automotive, manufacturing, logistica, energia, retail, moda e sanità.",
+   "url": "https://www.avvale.com/",
+   "quote": "More than 20 years of highly technological DNA, today enablers of sustainable growth. This is Avvale. || Automotive Manufacturing, Engineering & Construction Logistics & Transportation Energy, Utilities & Natural Resources Retail, Consumer Products & Services Fashion & Luxury Travel, Leisure & Entertainment Media & Telecommunication Healthcare & Life Sciences Financial Services Public Administration"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "elle-esse",
+ "company": "Elle Esse",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Elle Esse produce e lavora polistirene espanso sinterizzato per l'isolamento termico da oltre 50 anni, con una rete di filiali e logistiche. Qui trova come lavoriamo e cosa potremmo fare per Elle Esse.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Elle Esse.",
+ "evidence": [
+  {
+   "claim": "Elle Esse produce e lavora polistirene espanso sinterizzato per l'isolamento termico da oltre 50 anni, con una rete di filiali e logistiche.",
+   "url": "https://www.elleesse.com/azienda/",
+   "quote": "Elle Esse è un punto di riferimento nel settore dell’isolamento termico, grazie a oltre 50 anni di esperienza nella produzione e lavorazione del polistirene espanso sinterizzato. || Grazie a una rete capillare di filiali e logistiche, garantiamo soluzioni termoisolanti, consegne rapide e assistenza vicina alle esigenze dei clienti."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "vortex-hydra",
+ "company": "Vortex Hydra",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Vortex Hydra serve 500 clienti in 70 paesi dei 5 continenti con oltre 100 macchine e automazioni e più di 20 impianti. Qui trova come lavoriamo e cosa potremmo fare per Vortex Hydra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vortex Hydra.",
+ "evidence": [
+  {
+   "claim": "Vortex Hydra serve 500 clienti in 70 paesi dei 5 continenti con oltre 100 macchine e automazioni e più di 20 impianti.",
+   "url": "https://www.vortexhydra.com/company/",
+   "quote": "The largest customer basis in this field with 500 clients in 5 continents and 70 countries served by Vortex Hydra international network – the widest range of machines and automations (over 100 with several combinations), plants (over 20 with several combinations) || 500 clients in 5 continents and 70 countries served by Vortex Hydra international network"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

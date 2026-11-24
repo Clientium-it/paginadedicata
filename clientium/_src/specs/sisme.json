@@ -1,0 +1,28 @@
+{
+ "slug": "sisme",
+ "company": "Sisme",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Sisme da Olgiate Comasco lavora per ventilazione, refrigerazione ed elettrodomestico con 700 dipendenti in tre stabilimenti tra Italia, Cina e Slovacchia. Qui trova come lavoriamo e cosa potremmo fare per Sisme.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sisme.",
+ "evidence": [
+  {
+   "claim": "Sisme da Olgiate Comasco lavora per ventilazione, refrigerazione ed elettrodomestico con 700 dipendenti in tre stabilimenti tra Italia, Cina e Slovacchia.",
+   "url": "https://sisme.it/azienda/",
+   "quote": "Situata ad Olgiate Comasco (Como), sede principale del gruppo, Sisme occupa attualmente 700 dipendenti divisi su tre diversi stabilimenti produttivi: Italia, Cina e Slovacchia || Situata ad Olgiate Comasco (Como), sede principale del gruppo, Sisme occupa attualmente 700 dipendenti divisi su tre diversi stabilimenti produttivi: Italia, Cina e Slovacchia || Ventilazione industriale e domestica, refrigerazione e condizionamento, elettrodomestico, sono i principali settori in cui Sisme è presente."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "accademia-mugnano-2",
+ "company": "Accademia Mugnano",
+ "first_name": "Sandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Accademia Mugnano ha sede legale a Napoli e produce a Sparanise in un'area di 45.000 m2 coperti. Qui trova come lavoriamo e cosa potremmo fare per Accademia Mugnano.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Accademia Mugnano.",
+ "evidence": [
+  {
+   "claim": "Accademia Mugnano ha sede legale a Napoli e produce a Sparanise in un'area di 45.000 m2 coperti.",
+   "url": "https://accademiamugnano.it/la-nostra-storia/",
+   "quote": "La Stovmon sposta l’unità produttiva a Sparanise in un’area di 45.000 m2 coperti. || SEDE OPERATIVA: SS 7 APPIA KM 189,200 81056 SPARANISE (Caserta) – ITALIA SEDE LEGALE: VIA PONTANO 61 80122 NAPOLI – ITALIA"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

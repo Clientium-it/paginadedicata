@@ -1,0 +1,28 @@
+{
+ "slug": "gkn",
+ "company": "GKN",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "GKN produce componenti metallici di precisione con metallurgia delle polveri, metal injection molding e additive per automotive, industria, energia e food. Qui trova come lavoriamo e cosa potremmo fare per GKN.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GKN.",
+ "evidence": [
+  {
+   "claim": "GKN produce componenti metallici di precisione con metallurgia delle polveri, metal injection molding e additive per automotive, industria, energia e food.",
+   "url": "https://www.gknpm.com/",
+   "quote": "Our precision-engineered metal components are manufactured using advanced technologies, including conventional powder metallurgy, metal injection molding, and additive manufacturing. || Industries Close Industries Automotive Industrial Consumer Goods & Electronics Energy Food & Beverage"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

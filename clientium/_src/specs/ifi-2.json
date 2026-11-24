@@ -1,0 +1,28 @@
+{
+ "slug": "ifi-2",
+ "company": "IFI",
+ "first_name": "Ezio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "IFI con 280 collaboratori e 5 stabilimenti in Italia realizza arredi per bar, gelaterie, pasticcerie e food, con oltre 300 distributori. Qui trova come lavoriamo e cosa potremmo fare per IFI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IFI.",
+ "evidence": [
+  {
+   "claim": "IFI con 280 collaboratori e 5 stabilimenti in Italia realizza arredi per bar, gelaterie, pasticcerie e food, con oltre 300 distributori.",
+   "url": "https://www.ifi.it/it/chi-siamo/",
+   "quote": "Ifi oggi 280 collaboratori, 5 stabilimenti, 50.000 mq coperti, 2 Brand, 174 tra brevetti e depositi, oltre 300 Distributori e Concessionari || La nostra sede e gli stabilimenti produttivi sono tutti in Italia, con un’organizzazione commerciale che arriva in ogni parte del mondo. || Oggi siamo riconosciuti come marchio di riferimento nell’ arredo per bar , gelaterie , pasticcerie e tutto il settore food ."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

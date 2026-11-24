@@ -1,0 +1,28 @@
+{
+ "slug": "isa",
+ "company": "ISA",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "ISA produce e realizza involucri edilizi, facciate continue e infissi in alluminio con direzione generale e stabilimento a Calcinelli. Qui trova come lavoriamo e cosa potremmo fare per ISA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ISA.",
+ "evidence": [
+  {
+   "claim": "ISA produce e realizza involucri edilizi, facciate continue e infissi in alluminio con direzione generale e stabilimento a Calcinelli.",
+   "url": "https://www.isainfissi.com/",
+   "quote": "PRODUZIONE E REALIZZAZIONE INVOLUCRI EDILIZI | FACCIATE CONTINUE | INFISSI ALLUMINIO ISA SPA || DIREZIONE GENERALE E STABILIMENTO Via L. Da Vinci, 4 61036 Calcinelli (PU)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

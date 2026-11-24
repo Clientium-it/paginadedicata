@@ -1,0 +1,28 @@
+{
+ "slug": "red-of-view",
+ "company": "Red of View",
+ "first_name": "Caterina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Red of View produce cosmetici conto terzi per clienti in tutto il mondo, con fabbrica a Palazzo Pignano e showroom a Crema. Qui trova come lavoriamo e cosa potremmo fare per Red of View.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Red of View.",
+ "evidence": [
+  {
+   "claim": "Red of View produce cosmetici conto terzi per clienti in tutto il mondo, con fabbrica a Palazzo Pignano e showroom a Crema.",
+   "url": "https://www.redofview.com/company-profile/",
+   "quote": "RED OF VIEW offers cosmetic contract manufacturing services to clients worldwide. We offer advanced scientific formulations, custom and stock, incorporating state-of-the-art technology. || SHOWROOM: PIAZZA PREMOLI, 3 - 26013 CREMA (CR) - ITALY FACTORY: VIA BENZONI, 44 - 26020 PALAZZO PIGNANO (CR) - ITALY"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

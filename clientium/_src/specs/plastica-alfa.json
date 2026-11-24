@@ -1,0 +1,28 @@
+{
+ "slug": "plastica-alfa",
+ "company": "Plastica Alfa",
+ "first_name": "Mario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Plastica Alfa trasforma materie plastiche da quarant'anni per irrigazione, idraulica, trattamento acque, termoidraulica e antincendio ed è presente in oltre 80 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Plastica Alfa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Plastica Alfa.",
+ "evidence": [
+  {
+   "claim": "Plastica Alfa trasforma materie plastiche da quarant'anni per irrigazione, idraulica, trattamento acque, termoidraulica e antincendio ed è presente in oltre 80 Paesi.",
+   "url": "https://plasticalfa.it/",
+   "quote": "Plastica Alfa è una società Italiana che opera da quarant’anni nel campo della trasformazione delle materie plastiche per i settori dell’irrigazione, dell’idraulica, trattamento acque, termoidraulica e antincendio. || La Società è presente in oltre 80 Paesi nel mondo e realizza prodotti multifunzionali e di alta qualità per il mercato globale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

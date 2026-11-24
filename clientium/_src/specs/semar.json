@@ -1,0 +1,28 @@
+{
+ "slug": "semar",
+ "company": "Semar",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Semar conta oltre 600 collaboratori tra gli stabilimenti in Italia, Cina, Tunisia e USA e lavora per i settori navale, domotica, automotive e ferroviario. Qui trova come lavoriamo e cosa potremmo fare per Semar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Semar.",
+ "evidence": [
+  {
+   "claim": "Semar conta oltre 600 collaboratori tra gli stabilimenti in Italia, Cina, Tunisia e USA e lavora per i settori navale, domotica, automotive e ferroviario.",
+   "url": "https://semar.com/azienda/",
+   "quote": "Con oltre 600 collaboratori distribuiti tra i nostri stabilimenti produttivi in Italia, Cina , Tunisia e USA || Con oltre 600 collaboratori distribuiti tra i nostri stabilimenti produttivi in Italia, Cina , Tunisia e USA || NAVALE DISTRIBUZIONE ELETTRICA DOMOTICA IMPIANTI CIVILI ED INDUSTRIALI SENSORISTICA TELECOMUNICAZIONI AUTOMOTIVE FERROVIARIO"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

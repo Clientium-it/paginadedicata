@@ -1,0 +1,28 @@
+{
+ "slug": "dental-art",
+ "company": "Dental Art",
+ "first_name": "Giampietro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Dental Art arreda studi dentistici e laboratori odontotecnici da Montecchio Precalcino. Qui trova come lavoriamo e cosa potremmo fare per Dental Art.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dental Art.",
+ "evidence": [
+  {
+   "claim": "Dental Art arreda studi dentistici e laboratori odontotecnici da Montecchio Precalcino.",
+   "url": "https://www.dental-art.it/",
+   "quote": "Dental Art | Arredamenti Studi Dentistici E Laboratori Odontotecnici || Dental Art S.p.A. via dell'Artigianato, 5 Montecchio Precalcino (VI) - Italy || Arredamenti Studi Dentistici E Laboratori Odontotecnici"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

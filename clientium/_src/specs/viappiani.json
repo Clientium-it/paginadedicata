@@ -1,0 +1,28 @@
+{
+ "slug": "viappiani",
+ "company": "Viappiani",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Viappiani stampa dal 1929 e da oltre 40 anni produce diverse tipologie di etichette In-Mould IML. Qui trova come lavoriamo e cosa potremmo fare per Viappiani.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Viappiani.",
+ "evidence": [
+  {
+   "claim": "Viappiani stampa dal 1929 e da oltre 40 anni produce diverse tipologie di etichette In-Mould IML.",
+   "url": "https://viappiani.it/it/azienda",
+   "quote": "Fondata nel 1929, VIAPPIANI è specializzata nella produzione di diverse tipologie di etichette IML. VIAPPIANI vanta oltre 90 anni di esperienza nella stampa, di cui più di 40 dedicati alle etichette In-Mould (IML) || Il CTI GROUP, con sede in Austria, comprende società leader con stabilimenti in Austria, Spagna, Italia, Colombia, Nicaragua e Repubblica Dominicana"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

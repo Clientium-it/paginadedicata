@@ -1,0 +1,28 @@
+{
+ "slug": "saf-2",
+ "company": "SAF",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "SAF produce dal 1963 stampi e componenti per motori elettrici e dal 1972 trancia lamierini per piccoli motori nella sede di Muscoline. Qui trova come lavoriamo e cosa potremmo fare per SAF.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SAF.",
+ "evidence": [
+  {
+   "claim": "SAF produce dal 1963 stampi e componenti per motori elettrici e dal 1972 trancia lamierini per piccoli motori nella sede di Muscoline.",
+   "url": "https://www.eglagroup.com/company/saf-s-p-a",
+   "quote": "SAF commenced its activity in 1963 producing dies and components for electric motors. In 1972 the manufacturing program, which included tool construction plus ancillary component stamping, expanded to include blanking of laminations for small electric motors || SAF S.p.A. 25080 Muscoline (BS) Italia – Via Industriale, 14"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

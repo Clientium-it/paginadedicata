@@ -1,0 +1,28 @@
+{
+ "slug": "mondo-5",
+ "company": "Mondo",
+ "first_name": "Giacomo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Mondo offre pavimenti e attrezzature sportive per piste di atletica, campi in erba sintetica e palazzetti polisportivi. Qui trova come lavoriamo e cosa potremmo fare per Mondo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mondo.",
+ "evidence": [
+  {
+   "claim": "Mondo offre pavimenti e attrezzature sportive per piste di atletica, campi in erba sintetica e palazzetti polisportivi.",
+   "url": "https://www.mondoworldwide.com/emea/es/",
+   "quote": "Ya sea para una pista de atletismo, un campo de fútbol de césped artificial o un pabellón polideportivo, MONDO cuenta con pavimentos y equipamientos deportivos que se ajustarán a tu presupuesto y necesidades técnicas."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

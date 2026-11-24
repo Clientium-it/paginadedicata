@@ -1,0 +1,28 @@
+{
+ "slug": "metalchimica",
+ "company": "Metalchimica",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Metalchimica è un'azienda di famiglia a Pineto che progetta e produce contenitori per marchi cosmetici, farmaceutici, alimentari, militari e per la casa. Qui trova come lavoriamo e cosa potremmo fare per Metalchimica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Metalchimica.",
+ "evidence": [
+  {
+   "claim": "Metalchimica è un'azienda di famiglia a Pineto che progetta e produce contenitori per marchi cosmetici, farmaceutici, alimentari, militari e per la casa.",
+   "url": "https://www.metalchimicagroup.it/azienda/2",
+   "quote": "Metalchimica ha continuato a progettare e produrre con successo i contenitori per le migliori marche nei settori cosmetico/personal-care, farmaceutico/medico, alimentare, militare e di prodotti per la casa. || Metalchimica è un’azienda a conduzione familiare con sede a Pineto, in Italia || Metalchimica ha continuato a progettare e produrre con successo i contenitori per le migliori marche nei settori cosmetico/personal-care, farmaceutico/medico, alimentare, militare e di prodotti per la casa."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

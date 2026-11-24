@@ -1,0 +1,28 @@
+{
+ "slug": "majotech",
+ "company": "Majotech",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Majotech progetta e produce sul lago di Como tessuti per brand della moda e tessuti tecnici per eserciti europei e abbigliamento da lavoro. Qui trova come lavoriamo e cosa potremmo fare per Majotech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Majotech.",
+ "evidence": [
+  {
+   "claim": "Majotech progetta e produce sul lago di Como tessuti per brand della moda e tessuti tecnici per eserciti europei e abbigliamento da lavoro.",
+   "url": "https://majocchi.it/about/",
+   "quote": "Our goal is to design and produce Made in Italy quality fabrics for the best brands in the world’s fashion scene, which combine quality performances in line with the latest fashion trends. || Design, R&D center and production facilities are located on the lake Como, a strategic point for high-end textile. || Today we are also suppliers of performing fabrics for the major European armies and for technical workwear."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

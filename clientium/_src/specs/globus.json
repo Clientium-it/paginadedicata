@@ -1,0 +1,28 @@
+{
+ "slug": "globus",
+ "company": "Globus",
+ "first_name": "Salvatore",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Globus progetta dal 1981 macchine per la riduzione del legno per pannelli, MDF, OSB, biomassa e riciclo ed è presente in oltre 40 paesi. Qui trova come lavoriamo e cosa potremmo fare per Globus.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Globus.",
+ "evidence": [
+  {
+   "claim": "Globus progetta dal 1981 macchine per la riduzione del legno per pannelli, MDF, OSB, biomassa e riciclo ed è presente in oltre 40 paesi.",
+   "url": "https://globussrl.it/about-us/",
+   "quote": "Globus Srl is an Italian manufacturer of advanced wood processing machinery, specializing in innovative size reduction technologies for the wood-based panel and recycling industries. Since its foundation in 1981 by Fabio Paron || With a strong presence in key markets such as China, India, North America, and Europe, and as part of the prestigious IMALPAL Group, Globus operates in over 40 countries through a global network of partners. || Since 1981, Globus designs and manufactures industrial wood processing equipment for particleboard, MDF, OSB, biomass and recycling applications."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

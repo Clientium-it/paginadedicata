@@ -1,0 +1,28 @@
+{
+ "slug": "macotec",
+ "company": "Macotec",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Macotec dal 1997 progetta, costruisce e installa macchine e impianti automatici per il taglio del vetro piano dalla sede di Rogolo. Qui trova come lavoriamo e cosa potremmo fare per Macotec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Macotec.",
+ "evidence": [
+  {
+   "claim": "Macotec dal 1997 progetta, costruisce e installa macchine e impianti automatici per il taglio del vetro piano dalla sede di Rogolo.",
+   "url": "https://macotec.it/azienda.php",
+   "quote": "Dal 1997 progettiamo, costruiamo e installiamo macchine e impianti automatici per il taglio del vetro piano. || La nostra Sede operativa è situata nel Nord Italia, più precisamente a Rogolo, in provincia di Sondrio, si estende su una superficie di circa 10.000 m2 coperti"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

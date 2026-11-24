@@ -1,0 +1,28 @@
+{
+ "slug": "tosi",
+ "company": "Tosi",
+ "first_name": "Mario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Tosi a Varallo produce minuterie metalliche tornite di precisione da barra tra 6 e 65 mm per automotive, valvole industriali e rubinetteria. Qui trova come lavoriamo e cosa potremmo fare per Tosi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tosi.",
+ "evidence": [
+  {
+   "claim": "Tosi a Varallo produce minuterie metalliche tornite di precisione da barra tra 6 e 65 mm per automotive, valvole industriali e rubinetteria.",
+   "url": "https://www.tosi.it/",
+   "quote": "Produzione di minuterie metalliche tornite di precisione partendo da barra trafilata di sagome e materiali diversi con un diametro compreso tra i 6 mm e i 65 mm o da pezzi stampati. || Fraz. Roccapietra - Zona Industriale Via Monte Rosa, 1 13019 VARALLO (VC) || settore automotive - valvole industriali - rubinetteria cromata - rubinetteria per apparecchi scaldanti - raccorderie - elettrico ed elettronico - motocicli e biciclette - sistemi di fissaggio, ecc."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

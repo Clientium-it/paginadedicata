@@ -1,0 +1,28 @@
+{
+ "slug": "bianchi-2",
+ "company": "Bianchi",
+ "first_name": "Eduardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Bianchi fa biciclette dal 1885, nata a Milano con Edoardo Bianchi, per professionisti, praticanti, amanti della natura e chi si muove in città. Qui trova come lavoriamo e cosa potremmo fare per Bianchi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bianchi.",
+ "evidence": [
+  {
+   "claim": "Bianchi fa biciclette dal 1885, nata a Milano con Edoardo Bianchi, per professionisti, praticanti, amanti della natura e chi si muove in città.",
+   "url": "https://www.bianchi.com/chi-siamo/",
+   "quote": "Il nostro patrimonio, forte di oltre 130 anni di storia iniziata a Milano nel 1885 con Edoardo Bianchi, non ha eguali nel mondo del ciclismo. || La nostra offerta di biciclette è una sfumatura di prodotti con cui assecondare le esigenze del professionista, del praticante, di chi ama la natura o di chi, semplicemente, si vuole spostare rapidamente nel traffico urbano."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

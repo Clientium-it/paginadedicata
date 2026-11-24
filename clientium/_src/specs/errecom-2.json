@@ -1,0 +1,28 @@
+{
+ "slug": "errecom-2",
+ "company": "Errecom",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Errecom ha venduto oltre 10 milioni di turafalle, esporta in oltre 130 Paesi e sviluppa soluzioni chimiche con gli OEM da Corzano e Miami. Qui trova come lavoriamo e cosa potremmo fare per Errecom.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Errecom.",
+ "evidence": [
+  {
+   "claim": "Errecom ha venduto oltre 10 milioni di turafalle, esporta in oltre 130 Paesi e sviluppa soluzioni chimiche con gli OEM da Corzano e Miami.",
+   "url": "https://www.errecom.com/it/azienda/",
+   "quote": "Oltre 10 milioni di turafalle venduti in tutto il mondo, le esportazioni in oltre 130 Paesi, le collaborazioni con OEM per la realizzazione di soluzioni chimiche dedicate || HEADQUARTER ERRECOM SPA Via Industriale, 14 25030 Corzano (Brescia) ITALY ERRECOM USA LLC 1900 North Bayshore Drive 1A Suite 129, FL 33132 Miami – USA"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

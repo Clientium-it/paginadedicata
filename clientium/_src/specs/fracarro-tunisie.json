@@ -1,0 +1,28 @@
+{
+ "slug": "fracarro-tunisie",
+ "company": "Fracarro Tunisie",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Fracarro Tunisie dal 1991 fa montaggi elettromeccanici, assemblaggio di schede elettroniche e collaudi per il Gruppo Fracarro e clienti OEM a Tunisi. Qui trova come lavoriamo e cosa potremmo fare per Fracarro Tunisie.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fracarro Tunisie.",
+ "evidence": [
+  {
+   "claim": "Fracarro Tunisie dal 1991 fa montaggi elettromeccanici, assemblaggio di schede elettroniche e collaudi per il Gruppo Fracarro e clienti OEM a Tunisi.",
+   "url": "https://fracarro.com/it/azienda/gruppo-fracarro/",
+   "quote": "Joint-venture tunisina fondata nel 1991, Fracarro Tunisie è specializzata nella fornitura qualificata di montaggi elettromeccanici, assemblaggi di schede elettroniche, test e collaudi per il Gruppo Fracarro e per clienti in OEM. || Fracarro Tunisie Zone industrielle Sidi Daoud 02046 La Marsa; Tunis Tunisie"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

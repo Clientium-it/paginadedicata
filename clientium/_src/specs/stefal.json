@@ -1,0 +1,28 @@
+{
+ "slug": "stefal",
+ "company": "Stefal",
+ "first_name": "Rossella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Stefal realizza cablaggi elettrici e assemblaggi elettromeccanici per ristorazione professionale, veicoli industriali e sollevamento, con 270 persone nello stabilimento partner di Hammamet in Tunisia. Qui trova come lavoriamo e cosa potremmo fare per Stefal.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Stefal.",
+ "evidence": [
+  {
+   "claim": "Stefal realizza cablaggi elettrici e assemblaggi elettromeccanici per ristorazione professionale, veicoli industriali e sollevamento, con 270 persone nello stabilimento partner di Hammamet in Tunisia.",
+   "url": "https://www.stefal-cablaggi.it/azienda/",
+   "quote": "Stefal opera nella divisione del cablaggio elettrico e dell’assemblaggio elettromeccanico per diversi settori di mercato e, tra i principali, annoveriamo: apparecchiature professionali per la ristorazione, veicoli industriali, impianti di sollevamento, elettronica di potenza e automazione. || la nostra azienda collabora da tempo con un partner specializzato situato ad Hammamet in Tunisia, che opera in esclusiva per Stefal. Nello stabilimento 270 sono le persone impegnate nei reparti di produzione e controllo qualità || apparecchiature professionali per la ristorazione, veicoli industriali, impianti di sollevamento, elettronica di potenza e automazione."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "maglificio-ripa",
+ "company": "Maglificio Ripa",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Maglificio Ripa lavora la maglieria dal 1952 a Spino d'Adda. Qui trova come lavoriamo e cosa potremmo fare per Maglificio Ripa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Maglificio Ripa.",
+ "evidence": [
+  {
+   "claim": "Maglificio Ripa lavora la maglieria dal 1952 a Spino d'Adda.",
+   "url": "https://maglificioripa.it/",
+   "quote": "Maglificio Ripa SRL since 1952 Phone: +39 0373980090 Email: info@maglificioripa.it Copyright © Maglificio Ripa SRL since 1952 - Via dell'Industria 32, Spino d'Adda"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

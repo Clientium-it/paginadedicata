@@ -1,0 +1,28 @@
+{
+ "slug": "skg",
+ "company": "SKG",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "SKG progetta e realizza componenti per OEM e Tier 1 dell'auto, con un'unità produttiva attiva da trent'anni su componenti meccanici e filtri disidratatori. Qui trova come lavoriamo e cosa potremmo fare per SKG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SKG.",
+ "evidence": [
+  {
+   "claim": "SKG progetta e realizza componenti per OEM e Tier 1 dell'auto, con un'unità produttiva attiva da trent'anni su componenti meccanici e filtri disidratatori.",
+   "url": "https://www.skgitalia.it/",
+   "quote": "Progettiamo e realizziamo componenti per OEM e Tier 1 per le auto di oggi e di domani. || In questa unità di produzione, operativa da trent’anni, vengono realizzati componenti meccanici e filtri disidratatori per l’auto. || siamo in continua evoluzione per rispondere ai bisogni di OEM e Tier 1."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

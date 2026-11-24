@@ -1,0 +1,28 @@
+{
+ "slug": "sielte-3",
+ "company": "Sielte",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Sielte fa service e system integration per reti di telecomunicazioni fisse e mobili e soluzioni IT con 31 sedi in Italia. Qui trova come lavoriamo e cosa potremmo fare per Sielte.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sielte.",
+ "evidence": [
+  {
+   "claim": "Sielte fa service e system integration per reti di telecomunicazioni fisse e mobili e soluzioni IT con 31 sedi in Italia.",
+   "url": "https://www.sielte.it/azienda/chi-siamo/",
+   "quote": "Service & System Integration per reti di telecomunicazioni fisse e mobili, impianti tecnologici avanzati e soluzioni IT in ambiti civili, industriali e militari. || 31 sedi su tutto il territorio nazionale e un fatturato aggregato di gruppo di circa 900 milioni di euro"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

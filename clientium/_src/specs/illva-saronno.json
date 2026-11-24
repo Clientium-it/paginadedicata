@@ -1,0 +1,28 @@
+{
+ "slug": "illva-saronno",
+ "company": "Illva Saronno",
+ "first_name": "Gianpaolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Illva Saronno col gruppo Disaronno opera in quasi 160 paesi tra spirits, vini e ingredienti, con oltre 800 dipendenti e 370 milioni di ricavi. Qui trova come lavoriamo e cosa potremmo fare per Illva Saronno.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Illva Saronno.",
+ "evidence": [
+  {
+   "claim": "Illva Saronno col gruppo Disaronno opera in quasi 160 paesi tra spirits, vini e ingredienti, con oltre 800 dipendenti e 370 milioni di ricavi.",
+   "url": "https://disaronnogroup.com/",
+   "quote": "DISARONNO GROUP, a diversified multinational operating across nearly 160 countries with three divisions (Spirits, Wines and Ingredients), more than 800 employees and annual revenues of €370 million || Illva Saronno Holding S.p.A. Via Archimede, 243 21047 SARONNO (VA) Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

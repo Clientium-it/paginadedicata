@@ -1,0 +1,28 @@
+{
+ "slug": "inalca-2",
+ "company": "Inalca",
+ "first_name": "Augusto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Inalca con oltre 4.800 dipendenti produce e commercializza carni bovine fresche e surgelate, elaborati pronti, carni in scatola ed estratti di carne. Qui trova come lavoriamo e cosa potremmo fare per Inalca.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Inalca.",
+ "evidence": [
+  {
+   "claim": "Inalca con oltre 4.800 dipendenti produce e commercializza carni bovine fresche e surgelate, elaborati pronti, carni in scatola ed estratti di carne.",
+   "url": "https://www.inalca.it/it/i-nostri-prodotti/",
+   "quote": "INALCA, con oltre 4.800 dipendenti produce e commercializza un assortimento completo di carni bovine, fresche e surgelate, confezionate sottovuoto e in atmosfera protettiva, elaborati pronti, carni in scatola ed estratti di carne."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

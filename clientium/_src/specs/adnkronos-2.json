@@ -1,0 +1,28 @@
+{
+ "slug": "adnkronos-2",
+ "company": "Adnkronos",
+ "first_name": "Maria Rosaria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Adnkronos pubblica notizie anche in inglese, russo, giapponese e arabo. Qui trova come lavoriamo e cosa potremmo fare per Adnkronos.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Adnkronos.",
+ "evidence": [
+  {
+   "claim": "Adnkronos pubblica notizie anche in inglese, russo, giapponese e arabo.",
+   "url": "https://www.adnkronos.com/",
+   "quote": "INTERNAZIONALE ESTERI ROYAL FAMILY NEWS ADNKRONOS ENGLISH ADNKRONOS RUSSIAN ADNKRONOS JAPANESE ADNKRONOS ARABIC CASA EUROPA"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

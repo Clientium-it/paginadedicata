@@ -1,0 +1,28 @@
+{
+ "slug": "ponterosso",
+ "company": "Ponterosso",
+ "first_name": "Franco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Ponterosso dagli anni 90 si dedica alla revisione di macchine rotanti e lavora in paesi come Spagna, Olanda, Romania, Cina, India e Nigeria. Qui trova come lavoriamo e cosa potremmo fare per Ponterosso.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ponterosso.",
+ "evidence": [
+  {
+   "claim": "Ponterosso dagli anni 90 si dedica alla revisione di macchine rotanti e lavora in paesi come Spagna, Olanda, Romania, Cina, India e Nigeria.",
+   "url": "https://www.rmponterosso.it/it/azienda/storia",
+   "quote": "Negli anni ’90 si sviluppa ulteriormente puntando nel settore della revisione delle macchine rotanti diventando oggi leader nel settore di manutenzione. || porta a compimento la costruzione della nuova sede con 2500 mt di coperto e 7000 scoperti. Vengono garantite nuove tecnologie e si allargano i territori d’azione, operando in vari paesi quali Spagna, Olanda, Ungheria, Kazakistan,Romania, Russia, Cina, India, Pakistan, Malesia, Marocco, Nigeria, Emirati Arabi etc."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

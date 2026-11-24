@@ -1,0 +1,28 @@
+{
+ "slug": "electronic-s-time-2",
+ "company": "Electronic's Time",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Electronic's Time dal 1992 distribuisce soluzioni tecnologiche per la sicurezza a installatori, progettisti e system integrator, da Martina Franca fino alle Marche. Qui trova come lavoriamo e cosa potremmo fare per Electronic's Time.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Electronic's Time.",
+ "evidence": [
+  {
+   "claim": "Electronic's Time dal 1992 distribuisce soluzioni tecnologiche per la sicurezza a installatori, progettisti e system integrator, da Martina Franca fino alle Marche.",
+   "url": "https://electronicstime.it/chi-siamo/",
+   "quote": "Electronic's Time nasce a Martina Franca nel 1992 e cresce fino a diventare un punto di riferimento nella distribuzione di soluzioni tecnologiche per la sicurezza || Dalla Puglia alle Marche: magazzino, showroom e persone da incontrare di persona. || Aperti a installatori, progettisti e system integrator."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

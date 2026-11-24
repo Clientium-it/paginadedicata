@@ -1,0 +1,28 @@
+{
+ "slug": "cast",
+ "company": "Cast",
+ "first_name": "Giacomo Maria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Cast ha sede e centro di distribuzione a Volpiano, produce a Casalgrasso e impiega circa centocinquanta persone. Qui trova come lavoriamo e cosa potremmo fare per Cast.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cast.",
+ "evidence": [
+  {
+   "claim": "Cast ha sede e centro di distribuzione a Volpiano, produce a Casalgrasso e impiega circa centocinquanta persone.",
+   "url": "https://cast.it/pages/about.html",
+   "quote": "La sede legale, gli uffici amministrativi ed il centro di distribuzione prodotti sono concentrati a Volpiano. Gli impianti produttivi sono dislocati a Casalgrasso (Cuneo). || impiega circa centocinquanta di dipendenti, con un fatturato costantemente in crescita"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

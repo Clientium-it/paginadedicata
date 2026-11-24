@@ -1,0 +1,28 @@
+{
+ "slug": "friulmac",
+ "company": "Friulmac",
+ "first_name": "Sergio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Friulmac a Pavia di Udine costruisce macchine per il legno destinate a mobilifici su misura, produttori di porte e piccole falegnamerie. Qui trova come lavoriamo e cosa potremmo fare per Friulmac.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Friulmac.",
+ "evidence": [
+  {
+   "claim": "Friulmac a Pavia di Udine costruisce macchine per il legno destinate a mobilifici su misura, produttori di porte e piccole falegnamerie.",
+   "url": "https://www.friulmac.it/",
+   "quote": "With six decades of experience, Friulmac has established itself as a highly specialized force in woodworking machinery. || Via della Tecnologia, 3 - Z.I.U. 33050 Pavia di Udine (UD) - Italy || Custom furniture makers, Cabinet and door builders and Small woodworking shops."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

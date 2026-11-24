@@ -1,0 +1,28 @@
+{
+ "slug": "luve-2",
+ "company": "LUVE",
+ "first_name": "Paul",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "LUVE lavora su refrigerazione, raffreddamento industriale, condizionamento, data center e scambiatori OEM, con società commerciali in 23 paesi. Qui trova come lavoriamo e cosa potremmo fare per LUVE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LUVE.",
+ "evidence": [
+  {
+   "claim": "LUVE lavora su refrigerazione, raffreddamento industriale, condizionamento, data center e scambiatori OEM, con società commerciali in 23 paesi.",
+   "url": "https://lu-ve.com/luve-a-lucky-venture-company/",
+   "quote": "Our areas of expertise range from refrigeration, industrial cooling, air conditioning, data center & power gen cooling, OEM Heat Exchangers and Thermo Glass Doors. || Sales companies in 23 Countries"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

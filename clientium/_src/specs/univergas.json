@@ -1,0 +1,28 @@
+{
+ "slug": "univergas",
+ "company": "UniverGas",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "UniverGas dal 1° luglio 2025 è stata acquisita in quote paritarie da Goldengas, Scg Gas e Gruppo Beyfin, con sede a Roma. Qui trova come lavoriamo e cosa potremmo fare per UniverGas.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per UniverGas.",
+ "evidence": [
+  {
+   "claim": "UniverGas dal 1° luglio 2025 è stata acquisita in quote paritarie da Goldengas, Scg Gas e Gruppo Beyfin, con sede a Roma.",
+   "url": "https://univergas.it/Web/37/chi-siamo-univergas/index.html",
+   "quote": "Dal 1° luglio 2025 UniverGas Italia S.r.l. è stata acquisita in quote paritarie da Goldengas S.p.A., Scg Gas di Socogas Group S.p.A. e Gruppo Beyfin S.p.A. || Sede Legale: Via Pio Emanuelli 1 - Roma 00143"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

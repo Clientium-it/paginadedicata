@@ -1,0 +1,28 @@
+{
+ "slug": "ovs",
+ "company": "OVS",
+ "first_name": "Amabile",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "OVS progetta e produce a Vertova scambiatori a fascio tubiero e apparecchiature in pressione per raffinerie e impianti chimici di tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per OVS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OVS.",
+ "evidence": [
+  {
+   "claim": "OVS progetta e produce a Vertova scambiatori a fascio tubiero e apparecchiature in pressione per raffinerie e impianti chimici di tutto il mondo.",
+   "url": "https://ovsspa.it/it/",
+   "quote": "OVS si occupa della progettazione e produzione scambiatori di calore a fascio tubiero e apparecchiature in pressione per impianti oil & gas, chimici e petrolchimici, per l’industria dei fertilizzanti e per le raffinerie di tutto il mondo. || Via 5 Martiri, 33 24029 Vertova (BG) Italy || per impianti oil & gas, chimici e petrolchimici, per l’industria dei fertilizzanti e per le raffinerie di tutto il mondo."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

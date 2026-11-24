@@ -1,0 +1,28 @@
+{
+ "slug": "socaf",
+ "company": "Socaf",
+ "first_name": "Marino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Socaf da oltre quarant'anni segue il cleaning professionale per industria, imprese di pulizia, retail e logistica con sedi a Osio Sotto, Castenedolo e Rho. Qui trova come lavoriamo e cosa potremmo fare per Socaf.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Socaf.",
+ "evidence": [
+  {
+   "claim": "Socaf da oltre quarant'anni segue il cleaning professionale per industria, imprese di pulizia, retail e logistica con sedi a Osio Sotto, Castenedolo e Rho.",
+   "url": "https://socaf.it/",
+   "quote": "Da più di quarant’anni, Socaf è specialista in soluzioni per il cleaning professionale e per la qualità degli ambienti di lavoro. || Socaf SPA lombardia Via Trieste, 14 | 24046 Osio Sotto (BG) T +39 035 4876054 info@socaf.it Via dei Ponticelli, 47 | 25014 Castenedolo (BS) T +39 030 2732674 info@socaf.it Via De Gasperi, 120 | 20017 Mazzo di Rho (MI) || Settori Industriale Imprese di pulizia Retail Logistica Ho.Re.Ca."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

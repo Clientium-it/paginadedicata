@@ -1,0 +1,28 @@
+{
+ "slug": "cantiere-delle-marche",
+ "company": "Cantiere delle Marche",
+ "first_name": "Vasco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Cantiere delle Marche costruisce yacht ad Ancona dal 2010, fondato da manager e costruttori navali con esperienza. Qui trova come lavoriamo e cosa potremmo fare per Cantiere delle Marche.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cantiere delle Marche.",
+ "evidence": [
+  {
+   "claim": "Cantiere delle Marche costruisce yacht ad Ancona dal 2010, fondato da manager e costruttori navali con esperienza.",
+   "url": "https://www.cantieredellemarche.it/company/",
+   "quote": "Cantiere delle Marche was established in 2010 in Ancona , on Italy's Adriatic coast, by experienced managers and yacht builders. || Cantiere delle Marche was established in 2010 in Ancona , on Italy's Adriatic coast, by experienced managers and yacht builders."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

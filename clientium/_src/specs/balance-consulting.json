@@ -1,0 +1,28 @@
+{
+ "slug": "balance-consulting",
+ "company": "Balance Consulting",
+ "first_name": "Stefano Edoardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Balance Consulting dal 2007 conta oltre 120 professionisti tra le sedi di Milano, Roma, Firenze, Cagliari e Tirana. Qui trova come lavoriamo e cosa potremmo fare per Balance Consulting.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Balance Consulting.",
+ "evidence": [
+  {
+   "claim": "Balance Consulting dal 2007 conta oltre 120 professionisti tra le sedi di Milano, Roma, Firenze, Cagliari e Tirana.",
+   "url": "https://balanceconsulting.it/",
+   "quote": "Fondata nel 2007, l’azienda ha investito in competenze e tecnologie innovative || Oggi impiega più di 120 professionisti, attraverso le proprie sedi di Milano, Roma, Firenze, Cagliari, Tirana"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

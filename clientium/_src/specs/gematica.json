@@ -1,0 +1,28 @@
+{
+ "slug": "gematica",
+ "company": "Gematica",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Gematica dal 2004 progetta, integra e gestisce infrastrutture tecnologiche complesse da Lecce per trasporti, sanità, pubblica amministrazione, data center e smart city. Qui trova come lavoriamo e cosa potremmo fare per Gematica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gematica.",
+ "evidence": [
+  {
+   "claim": "Gematica dal 2004 progetta, integra e gestisce infrastrutture tecnologiche complesse da Lecce per trasporti, sanità, pubblica amministrazione, data center e smart city.",
+   "url": "https://gematica.com/l-azienda/",
+   "quote": "Gematica è un’azienda italiana nata nel 2004, specializzata nella progettazione, integrazione e gestione di infrastrutture tecnologiche complesse. || Sede di Lecce Gematica, all’interno del polo tecnologico Dhitech || Trasporti e mobilità intelligente Industria ed enterprise Infrastrutture critiche nazionali Pubblica Amministrazione Sanità e servizi pubblici Data center e infrastrutture digitali Smart City e Smart Building"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}
