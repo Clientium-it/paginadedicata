@@ -1,0 +1,28 @@
+{
+ "slug": "bianchi-casseforme",
+ "company": "Bianchi Casseforme",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Bianchi Casseforme dal 1964 progetta e realizza impianti e macchinari per la prefabbricazione in calcestruzzo, con filiali in Francia, Spagna, Brasile, India e Russia. Qui trova come lavoriamo e cosa potremmo fare per Bianchi Casseforme.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bianchi Casseforme.",
+ "evidence": [
+  {
+   "claim": "Bianchi Casseforme dal 1964 progetta e realizza impianti e macchinari per la prefabbricazione in calcestruzzo, con filiali in Francia, Spagna, Brasile, India e Russia.",
+   "url": "https://www.bianchicasseforme.it/chi-siamo/",
+   "quote": "Bianchi Casseforme Srl presente sul mercato dal 1964, è un’azienda leader a livello internazionale nella progettazione e realizzazione di impianti e macchinari per la prefabbricazione in calcestruzzo. || La società con sede a Fornovo di Taro – Parma (Italia) è presente in 5 continenti grazie alle sue filiali dislocate tra Francia, Spagna, Brasile, India e Russia || ci rende un partner ricercato e richiesto dalle aziende del settore della prefabbricazione."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

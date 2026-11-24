@@ -1,0 +1,28 @@
+{
+ "slug": "aeonvis",
+ "company": "Aeonvis",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Aeonvis ha 250 consulenti negli uffici di Milano, Torino, Padova, Roma, Tirana e Madrid e lavora da vent'anni in oltre 50 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Aeonvis.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aeonvis.",
+ "evidence": [
+  {
+   "claim": "Aeonvis ha 250 consulenti negli uffici di Milano, Torino, Padova, Roma, Tirana e Madrid e lavora da vent'anni in oltre 50 Paesi.",
+   "url": "https://www.aeonvis.com/chi-siamo/",
+   "quote": "Con un’esperienza ventennale maturata in oltre 50 Paesi, un portfolio internazionale di clienti, una presenza capillare in Italia e oltre 200 professionisti altamente qualificati || 250 Consulenti presenti nei nostri uffici di Milano, Torino, Padova, Roma, Tirana e Madrid || Operiamo in settori chiave come Automotive, Consumer Goods, Energy, Fashion & Retail, Food & Beverage, Healthcare & Life Science e Manufacturing"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

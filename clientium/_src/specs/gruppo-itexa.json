@@ -1,0 +1,28 @@
+{
+ "slug": "gruppo-itexa",
+ "company": "Gruppo Itexa",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "Gruppo Itexa opera da oltre 40 anni puntando su flessibilità e innovazione. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Itexa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Itexa.",
+ "evidence": [
+  {
+   "claim": "Gruppo Itexa opera da oltre 40 anni puntando su flessibilità e innovazione.",
+   "url": "https://www.gruppoitexa.com/it/",
+   "quote": "Da oltre 40 anni Gruppo Itexa è sinonimo di flessibilità ed innovazione"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

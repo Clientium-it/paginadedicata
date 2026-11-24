@@ -1,0 +1,28 @@
+{
+ "slug": "comunello",
+ "company": "Comunello",
+ "first_name": "Franco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Comunello progetta e produce dal 1965 a Cassola componenti meccanici e automazioni per cancelli, porte industriali, barriere e serramenti. Qui trova come lavoriamo e cosa potremmo fare per Comunello.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Comunello.",
+ "evidence": [
+  {
+   "claim": "Comunello progetta e produce dal 1965 a Cassola componenti meccanici e automazioni per cancelli, porte industriali, barriere e serramenti.",
+   "url": "https://www.comunello.com/",
+   "quote": "Since 1965, Fratelli Comunello has been a benchmark in the design and manufacturing of mechanical components and automation systems for gates, industrial doors, barriers, and window fixtures. || FRATELLI COMUNELLO S.p.A. Italy 36022 San Giuseppe di Cassola (VI) via Zarpellon 33"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

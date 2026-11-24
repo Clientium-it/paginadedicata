@@ -1,0 +1,28 @@
+{
+ "slug": "omg",
+ "company": "OMG",
+ "first_name": "Leonardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "OMG costruisce, manutiene e ripara materiale rotabile a Cairo Montenotte per aziende come Alstom, Hitachi, Bombardier e Siemens. Qui trova come lavoriamo e cosa potremmo fare per OMG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OMG.",
+ "evidence": [
+  {
+   "claim": "OMG costruisce, manutiene e ripara materiale rotabile a Cairo Montenotte per aziende come Alstom, Hitachi, Bombardier e Siemens.",
+   "url": "http://www.omgman.eu/",
+   "quote": "Siamo partner di fiducia per aziende come Alstom, Hitachi (Ansaldobreda), Bombardier, Titagarh Firema Adler e Siemens, fornendo servizi di costruzione, manutenzione e riparazione di materiale rotabile. || Via Brigate Partigiane 21/E 17014 Cairo Montenotte (SV) || Siamo partner di fiducia per aziende come Alstom, Hitachi (Ansaldobreda), Bombardier, Titagarh Firema Adler e Siemens"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

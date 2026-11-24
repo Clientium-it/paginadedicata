@@ -1,0 +1,28 @@
+{
+ "slug": "ire-omba",
+ "company": "Ire Omba",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Ire Omba da oltre 115 anni fornisce prodotti certificati, con siti produttivi, un reparto di lavorazioni meccaniche e un laboratorio prove accreditato. Qui trova come lavoriamo e cosa potremmo fare per Ire Omba.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ire Omba.",
+ "evidence": [
+  {
+   "claim": "Ire Omba da oltre 115 anni fornisce prodotti certificati, con siti produttivi, un reparto di lavorazioni meccaniche e un laboratorio prove accreditato.",
+   "url": "https://ire-omba.it/company/",
+   "quote": "For over 115 years, IRE – OMBA has been providing its customers with certified quality products and has an accredited testing laboratory. || The company has four sites with different areas of specialisation: two manufacturing sites, one dedicated to machining and a laboratory-test centre for quality control and certification."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

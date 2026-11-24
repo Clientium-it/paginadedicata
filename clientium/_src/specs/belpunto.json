@@ -1,0 +1,28 @@
+{
+ "slug": "belpunto",
+ "company": "Belpunto",
+ "first_name": "Ivano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Belpunto è nata nel 1990 in Veneto e realizza trapuntature su tessuti per abbigliamento, arredamento, pelletteria, automotive e mondo del materasso. Qui trova come lavoriamo e cosa potremmo fare per Belpunto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Belpunto.",
+ "evidence": [
+  {
+   "claim": "Belpunto è nata nel 1990 in Veneto e realizza trapuntature su tessuti per abbigliamento, arredamento, pelletteria, automotive e mondo del materasso.",
+   "url": "https://www.belpunto.it/",
+   "quote": "Trapuntatura Belpunto nasce nel 1990 in Veneto e si specializza negli anni nella realizzazione di trapuntature di altissima qualità su molteplici tipologie di tessuti per l’abbigliamento, l’arredamento, la pelletteria, l’automotive e il mondo del materasso. || Via Asiago, 2 – 31030 Castello di Godego (TV) || UN punto di riferimento per le principali aziende di abbigliamento e arredamento E DEI MAGGIORI BRAND DEL SETTORE FASHION LUXURY"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

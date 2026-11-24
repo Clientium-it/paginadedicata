@@ -1,0 +1,28 @@
+{
+ "slug": "omfb",
+ "company": "OMFB",
+ "first_name": "Amedeo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "OMFB progetta e produce componenti idraulici per veicoli industriali e macchine agricole con 4 stabilimenti in Italia e distribuzione in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per OMFB.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OMFB.",
+ "evidence": [
+  {
+   "claim": "OMFB progetta e produce componenti idraulici per veicoli industriali e macchine agricole con 4 stabilimenti in Italia e distribuzione in tutto il mondo.",
+   "url": "https://www.omfb.com/en/",
+   "quote": "OMFB Spa Hydraulic Components designs, manufactures, and distributes hydraulic, mechanical, pneumatic, and electronic components worldwide for the control and automation of industrial vehicles, agricultural machinery, and mobile applications || 4 production sites in Italy || transportation, construction, agriculture, eco-municipalities, firefighting, and mining"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "la-patrie-2",
+ "company": "La Patrie",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "La Patrie è specializzata nella concia e nella rifinizione di pellame pregiato. Qui trova come lavoriamo e cosa potremmo fare per La Patrie.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per La Patrie.",
+ "evidence": [
+  {
+   "claim": "La Patrie è specializzata nella concia e nella rifinizione di pellame pregiato.",
+   "url": "https://www.lapatrie.it",
+   "quote": "Azienda specializzata nella concia e nella rifinizione di pellame pregiato"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

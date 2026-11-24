@@ -1,0 +1,28 @@
+{
+ "slug": "ecocer",
+ "company": "Ecocer",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Ecocer produce flussanti per metallo fuso, distaccanti, unità di degasaggio e forni di fusione per la colata, con sedi a Ossona e Arluno. Qui trova come lavoriamo e cosa potremmo fare per Ecocer.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ecocer.",
+ "evidence": [
+  {
+   "claim": "Ecocer produce flussanti per metallo fuso, distaccanti, unità di degasaggio e forni di fusione per la colata, con sedi a Ossona e Arluno.",
+   "url": "https://foundry-ecocer.com/about-us/",
+   "quote": "The production includes fluxes for the molten metal treatment, mastics, ceramic pre shapes, treatment, filtering and degassing units, lubricants and parting agents for the various casting processes, holding and melting furnaces, and many more. || Viale Europa 64/66 20002 Ossona - Milano Italy Via Certosa 55 20010 Arluno - Milano Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

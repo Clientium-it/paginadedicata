@@ -1,0 +1,28 @@
+{
+ "slug": "flos-7",
+ "company": "Flos",
+ "first_name": "Jerry",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Flos produce lampade come Taraxacum e Fantasma, nate con i Castiglioni e gli Scarpa, e ha un nuovo stabilimento a Bovezzo. Qui trova come lavoriamo e cosa potremmo fare per Flos.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Flos.",
+ "evidence": [
+  {
+   "claim": "Flos produce lampade come Taraxacum e Fantasma, nate con i Castiglioni e gli Scarpa, e ha un nuovo stabilimento a Bovezzo.",
+   "url": "https://flos.com/en/us/about-us-heritage.html",
+   "quote": "Achille and Pier Giacomo Castiglioni, along with Afra and Tobia Scarpa, created iconic lamps such as Taraxacum and Fantasma || The new Flos factory in Bovezzo (Brescia)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

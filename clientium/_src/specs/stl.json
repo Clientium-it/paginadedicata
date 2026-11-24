@@ -1,0 +1,28 @@
+{
+ "slug": "stl",
+ "company": "STL",
+ "first_name": "Elide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "STL lavora da oltre 35 anni nel settore della lavorazione dei metalli. Qui trova come lavoriamo e cosa potremmo fare per STL.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per STL.",
+ "evidence": [
+  {
+   "claim": "STL lavora da oltre 35 anni nel settore della lavorazione dei metalli.",
+   "url": "http://www.stlonline.it/en/company/",
+   "quote": "has been working for over 35 years in the metal working industry, with around ninety employees || Via Cavour 14, 24050 Lurano (Bg) Italia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

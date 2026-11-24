@@ -1,0 +1,28 @@
+{
+ "slug": "intrapan-2",
+ "company": "Intrapan",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Intrapan da oltre 25 anni prepara tramezzini, panini farciti e bruschette per arricchire l'offerta del banco frigo. Qui trova come lavoriamo e cosa potremmo fare per Intrapan.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Intrapan.",
+ "evidence": [
+  {
+   "claim": "Intrapan da oltre 25 anni prepara tramezzini, panini farciti e bruschette per arricchire l'offerta del banco frigo.",
+   "url": "https://intrapan.it/",
+   "quote": "Da oltre 25 anni portiamo tutto il gusto della tradizione italiana in pratici tramezzini, panini farciti e appetitose bruschette. || Via S. Massimiliano Kolbe, 26/28 36016 Thiene (VI) Italy || Proponiamo un’ampia gamma di tramezzini, panini e bruschette di qualità per arricchire l’offerta del tuo banco frigo."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

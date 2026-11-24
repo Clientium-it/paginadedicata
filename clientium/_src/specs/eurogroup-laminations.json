@@ -1,0 +1,28 @@
+{
+ "slug": "eurogroup-laminations",
+ "company": "EuroGroup Laminations",
+ "first_name": "Axel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "EuroGroup Laminations progetta, produce e distribuisce lamierini per motori elettrici, generatori e trasformatori con 15 stabilimenti nel mondo. Qui trova come lavoriamo e cosa potremmo fare per EuroGroup Laminations.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per EuroGroup Laminations.",
+ "evidence": [
+  {
+   "claim": "EuroGroup Laminations progetta, produce e distribuisce lamierini per motori elettrici, generatori e trasformatori con 15 stabilimenti nel mondo.",
+   "url": "https://www.eglagroup.com",
+   "quote": "EuroGroup Laminations is a world leader in the design, production and distribution of laminations for electric motors, generators and transformers || 15 Plants worldwide"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

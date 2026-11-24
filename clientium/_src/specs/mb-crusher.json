@@ -1,0 +1,28 @@
+{
+ "slug": "mb-crusher",
+ "company": "MB Crusher",
+ "first_name": "Marianna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "MB Crusher progetta e produce da oltre 20 anni attrezzature per macchine operatrici di ogni taglia con 9 filiali all'estero. Qui trova come lavoriamo e cosa potremmo fare per MB Crusher.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MB Crusher.",
+ "evidence": [
+  {
+   "claim": "MB Crusher progetta e produce da oltre 20 anni attrezzature per macchine operatrici di ogni taglia con 9 filiali all'estero.",
+   "url": "https://www.mbcrusher.com/us/us/company",
+   "quote": "For over 20 years MB CRUSHER has been designing and manufacturing attachments for heavy equipment regardless of size || There are 9 subsidiaries abroad that support the headquarters"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

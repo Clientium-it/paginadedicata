@@ -1,0 +1,28 @@
+{
+ "slug": "inalme",
+ "company": "Inalme",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Inalme dal 1993 produce conto terzi e private label integratori, cosmetici e dispositivi medici, con prodotti in commercio in 36 paesi. Qui trova come lavoriamo e cosa potremmo fare per Inalme.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Inalme.",
+ "evidence": [
+  {
+   "claim": "Inalme dal 1993 produce conto terzi e private label integratori, cosmetici e dispositivi medici, con prodotti in commercio in 36 paesi.",
+   "url": "https://inalme.it/azienda/",
+   "quote": "Produzione Conto Terzi & Private Label di Integratori Alimentari, Cosmetici, Dispositivi Medici e Alimenti a Fini Medici Speciali (AFMS) Da più di 30 anni · Prodotti in commercio in 36 paesi || Fondata nel 1993, Inalme attualmente occupa una superfice totale di circa 6000 mq di cui 2500 destinati a due aree produttive certificate secondo standard internazionali."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

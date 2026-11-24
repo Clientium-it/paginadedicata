@@ -1,0 +1,28 @@
+{
+ "slug": "kirey-2",
+ "company": "Kirey",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Kirey è un gruppo europeo con sede in Italia che affianca le aziende nella trasformazione digitale per banche, assicurazioni, manifattura, retail, pubblica amministrazione ed energia. Qui trova come lavoriamo e cosa potremmo fare per Kirey.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kirey.",
+ "evidence": [
+  {
+   "claim": "Kirey è un gruppo europeo con sede in Italia che affianca le aziende nella trasformazione digitale per banche, assicurazioni, manifattura, retail, pubblica amministrazione ed energia.",
+   "url": "https://kireygroup.com",
+   "quote": "a European group providing technology and digital consulting services, working alongside businesses throughout their digital transformation and data-driven innovation journeys || headquartered in Italy, with an established international presence || Banking & Insurance, Manufacturing & Retail, Public Administration, Energy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

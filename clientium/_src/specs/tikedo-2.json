@@ -1,0 +1,28 @@
+{
+ "slug": "tikedo-2",
+ "company": "Tikedo",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Tikedo ha un'esperienza ultradecennale e uno stabilimento produttivo al servizio di alimentare, beverage, cura della persona e della casa, cosmetico e farmaceutico. Qui trova come lavoriamo e cosa potremmo fare per Tikedo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tikedo.",
+ "evidence": [
+  {
+   "claim": "Tikedo ha un'esperienza ultradecennale e uno stabilimento produttivo al servizio di alimentare, beverage, cura della persona e della casa, cosmetico e farmaceutico.",
+   "url": "https://www.tikedo.com",
+   "quote": "Macchinari all'avanguardia e un'esperienza ultradecennale nei principali settori industriali: alimentare, beverage, cura della persona e della casa, cosmetico e farmaceutico. || 1 stabilimenti produttivi || alimentare, beverage, cura della persona e della casa, cosmetico e farmaceutico"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

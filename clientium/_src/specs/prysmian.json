@@ -1,0 +1,28 @@
+{
+ "slug": "prysmian",
+ "company": "Prysmian",
+ "first_name": "Giacomo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Prysmian è presente in oltre 50 paesi con 109 stabilimenti, 30 centri di ricerca e sviluppo e circa 34.000 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per Prysmian.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Prysmian.",
+ "evidence": [
+  {
+   "claim": "Prysmian è presente in oltre 50 paesi con 109 stabilimenti, 30 centri di ricerca e sviluppo e circa 34.000 dipendenti.",
+   "url": "https://www.prysmian.com/en/company/global-presence",
+   "quote": "Spanning more than 50 countries, 109 plants, 30 research and development centres, and with about 34,000 employees, we've a strategic footprint that allows us to service emerging markets and communities across the globe with ease. || Spanning more than 50 countries, 109 plants, 30 research and development centres, and with about 34,000 employees"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "tintess",
+ "company": "Tintess",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Tintess a Thiene gestisce l'intero perfezionamento dei tessuti dal greggio al finito, con stampa, tintura e finissaggio per maison e brand sportivi. Qui trova come lavoriamo e cosa potremmo fare per Tintess.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tintess.",
+ "evidence": [
+  {
+   "claim": "Tintess a Thiene gestisce l'intero perfezionamento dei tessuti dal greggio al finito, con stampa, tintura e finissaggio per maison e brand sportivi.",
+   "url": "https://www.tintess.com/",
+   "quote": "Tintess è tra le poche realtà a poter gestire l’intero processo di perfezionamento dei tessuti, dal greggio al finito. || TINTESS s.p.a. PRINTING | DYEING | FINISHING viale dell’industria, 25 36016 Thiene (VI) Italy || i cui prodotti diventeranno i capi firmati dalle maison più celebri e dai brand sportivi più quotati"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

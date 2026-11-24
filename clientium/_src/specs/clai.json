@@ -1,0 +1,28 @@
+{
+ "slug": "clai",
+ "company": "CLAI",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "CLAI è una cooperativa di Imola che produce salumi e carni fresche e ha rilevato il prosciuttificio Zuarina a Langhirano e il caseificio Faggiola. Qui trova come lavoriamo e cosa potremmo fare per CLAI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CLAI.",
+ "evidence": [
+  {
+   "claim": "CLAI è una cooperativa di Imola che produce salumi e carni fresche e ha rilevato il prosciuttificio Zuarina a Langhirano e il caseificio Faggiola.",
+   "url": "https://clai.it/en",
+   "quote": "CLAI is an agricultural cooperative in Imola (BO) specializing in the production of cured meats, particularly salami, and fresh beef and pork || the cooperative has acquired the historic Zuarina Parma ham factory in Langhirano (PR) and the Faggiola dairy cooperative in Palazzuolo sul Senio (Florence)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

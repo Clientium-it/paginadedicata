@@ -1,0 +1,28 @@
+{
+ "slug": "caffe-barbera",
+ "company": "Caffè Barbera",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "Caffè Barbera mette in ogni tazza 150 anni di esperienza, passione e tradizioni. Qui trova come lavoriamo e cosa potremmo fare per Caffè Barbera.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Caffè Barbera.",
+ "evidence": [
+  {
+   "claim": "Caffè Barbera mette in ogni tazza 150 anni di esperienza, passione e tradizioni.",
+   "url": "https://www.caffebarbera.it",
+   "quote": "IN OGNI TAZZA DI CAFFÈ BARBERA C'È LA MAGIA DI 150 ANNI DI ESPERIENZA, PASSIONE E TRADIZIONI"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

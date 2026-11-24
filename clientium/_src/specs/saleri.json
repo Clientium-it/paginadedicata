@@ -1,0 +1,28 @@
+{
+ "slug": "saleri",
+ "company": "Saleri",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Saleri dal 1942 progetta e produce a Lumezzane sistemi di thermal management e raffreddamento per case auto premium europee, con 641 persone in 6 sedi. Qui trova come lavoriamo e cosa potremmo fare per Saleri.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Saleri.",
+ "evidence": [
+  {
+   "claim": "Saleri dal 1942 progetta e produce a Lumezzane sistemi di thermal management e raffreddamento per case auto premium europee, con 641 persone in 6 sedi.",
+   "url": "https://www.saleri.com/saleri-at-a-glance/",
+   "quote": "Founded in 1942, Saleri now serves the global market through 6 locations and employs 641 people, recording 230.9 million € revenues in 2025. || Our headquarters reside in Lumezzane, val Gobbia, the heart of the Brescia area’s production district. || Saleri deploys the design, development, and manufacturing of Thermal Management systems and cooling systems for leading European car manufacturers in the premium brands segment."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

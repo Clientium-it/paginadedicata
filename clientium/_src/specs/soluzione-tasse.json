@@ -1,0 +1,28 @@
+{
+ "slug": "soluzione-tasse",
+ "company": "Soluzione Tasse",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "Soluzione Tasse ha un team di 35 professionisti specializzati nella consulenza fiscale e patrimoniale per le PMI. Qui trova come lavoriamo e cosa potremmo fare per Soluzione Tasse.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Soluzione Tasse.",
+ "evidence": [
+  {
+   "claim": "Soluzione Tasse ha un team di 35 professionisti specializzati nella consulenza fiscale e patrimoniale per le PMI.",
+   "url": "https://www.soluzionetasse.com/",
+   "quote": "Il nostro team di 35 professionisti, specializzati nella consulenza fiscale e patrimoniale per le PMI || Novità normative, casi pratici e consigli strategici per PMI e professionisti"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

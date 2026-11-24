@@ -1,0 +1,28 @@
+{
+ "slug": "granata",
+ "company": "Granata",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Granata nel 2020 ha investito in un nuovo sito industriale di circa 30000 mq e dal 2010 fa parte di una joint venture a Castelvetrano. Qui trova come lavoriamo e cosa potremmo fare per Granata.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Granata.",
+ "evidence": [
+  {
+   "claim": "Granata nel 2020 ha investito in un nuovo sito industriale di circa 30000 mq e dal 2010 fa parte di una joint venture a Castelvetrano.",
+   "url": "https://www.granataolive.com/storia",
+   "quote": "Nel 2020 abbiamo investito in un nuovo sito industriale di circa 30000 mq con un sistema produttivo di ultima generazione. || Nel 2010 siamo entrati a far parte di una joint venture in Sicilia, precisamente a Castelvetrano (Trapani)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

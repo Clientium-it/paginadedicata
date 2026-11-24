@@ -1,0 +1,28 @@
+{
+ "slug": "elisabetta-franchi",
+ "company": "Elisabetta Franchi",
+ "first_name": "Elisabetta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "Elisabetta Franchi ha l'headquarter in un ex stabilimento di oltre 6.000 mq nella campagna bolognese e dal 2024 una nuova sede milanese in Via Sammartini. Qui trova come lavoriamo e cosa potremmo fare per Elisabetta Franchi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Elisabetta Franchi.",
+ "evidence": [
+  {
+   "claim": "Elisabetta Franchi ha l'headquarter in un ex stabilimento di oltre 6.000 mq nella campagna bolognese e dal 2024 una nuova sede milanese in Via Sammartini.",
+   "url": "https://www.elisabettafranchi.com/it/azienda/",
+   "quote": "Nasce nel 2008, dall'acquisizione di un vecchio stabilimento dismesso, l'headquarter della maison: oltre 6.000 mq di bellezza moderna e funzionale, immersa nella campagna bolognese || Novembre 2024: Elisabetta Franchi inaugura la sua nuova sede milanese, trasferendosi in una prestigiosa location in Via Sammartini 63. Con una superficie di circa 2.000 metri quadrati"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

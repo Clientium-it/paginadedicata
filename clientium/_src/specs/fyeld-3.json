@@ -1,0 +1,28 @@
+{
+ "slug": "fyeld-3",
+ "company": "FYELD",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "FYELD a Pilastri di Bondeno ha 30.000 mq di stabilimenti dove assembla e revisiona selezionatrici optoelettroniche, con centro ricambi e assistenza. Qui trova come lavoriamo e cosa potremmo fare per FYELD.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FYELD.",
+ "evidence": [
+  {
+   "claim": "FYELD a Pilastri di Bondeno ha 30.000 mq di stabilimenti dove assembla e revisiona selezionatrici optoelettroniche, con centro ricambi e assistenza.",
+   "url": "https://www.guaresi.com/it/chi-siamo",
+   "quote": "Nei 30.000 mq degli stabilimenti di Pilastri trovano sede la carpenteria, l'assemblaggio, il reparto di revisione delle selezionatrici opto-elettroniche, il centro ricambi, gli uffici commerciali, il Centro Assistenza e la Ricerca e Sviluppo. || Sede legale: Pilastri di Bondeno (FE), Via Virgiliana n. 169/A"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

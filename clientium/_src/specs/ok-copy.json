@@ -1,0 +1,28 @@
+{
+ "slug": "ok-copy",
+ "company": "OK Copy",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "OK Copy conta 38 centri di assistenza che garantiscono copertura totale ai tanti clienti multisede. Qui trova come lavoriamo e cosa potremmo fare per OK Copy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OK Copy.",
+ "evidence": [
+  {
+   "claim": "OK Copy conta 38 centri di assistenza che garantiscono copertura totale ai tanti clienti multisede.",
+   "url": "https://www.okcopy.it",
+   "quote": "38 centri di assistenza che assicurano copertura totale ai tanti clienti multisede. || 38 centri di assistenza che assicurano copertura totale ai tanti clienti multisede. || copertura totale ai tanti clienti multisede."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

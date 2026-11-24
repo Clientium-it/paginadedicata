@@ -1,0 +1,28 @@
+{
+ "slug": "dolce-gabbana-3",
+ "company": "Dolce&Gabbana",
+ "first_name": "Marcello",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Dolce&Gabbana crea abbigliamento pronto moda, pelletteria, arredo casa, alta gioielleria, orologi e occhiali. Qui trova come lavoriamo e cosa potremmo fare per Dolce&Gabbana.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dolce&Gabbana.",
+ "evidence": [
+  {
+   "claim": "Dolce&Gabbana crea abbigliamento pronto moda, pelletteria, arredo casa, alta gioielleria, orologi e occhiali.",
+   "url": "https://sustainability.dolcegabbana.com/",
+   "quote": "Ready to wear, Leather Creations, Dolce&Gabbana Casa Creations, Fine Jewelry and Watches, Eyewear"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

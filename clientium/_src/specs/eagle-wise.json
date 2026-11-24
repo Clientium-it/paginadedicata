@@ -1,0 +1,28 @@
+{
+ "slug": "eagle-wise",
+ "company": "Eagle & Wise",
+ "first_name": "Corrado",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Eagle & Wise affianca da trent'anni istituzioni e investitori da Milano con soluzioni per banche, servicer, imprese e privati. Qui trova come lavoriamo e cosa potremmo fare per Eagle & Wise.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Eagle & Wise.",
+ "evidence": [
+  {
+   "claim": "Eagle & Wise affianca da trent'anni istituzioni e investitori da Milano con soluzioni per banche, servicer, imprese e privati.",
+   "url": "https://www.eaglewise.it/",
+   "quote": "Trent'anni al fianco di istituzioni e investitori, con un approccio orientato a qualità, indipendenza e valore. || Sede legale: Via Casati 1/A – 20124 Milano Sede operativa: Viale Sarca 222 – 20126 – Milano || LE SOLUZIONI PER TE: BANCHE E INVESTITORI SERVICER IMPRESE E PRIVATI"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

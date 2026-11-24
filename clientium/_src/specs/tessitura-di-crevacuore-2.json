@@ -1,0 +1,28 @@
+{
+ "slug": "tessitura-di-crevacuore-2",
+ "company": "Tessitura di Crevacuore",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Tessitura di Crevacuore produce a Borgosesia tessuti pregiati con un ciclo verticale dalla materia prima al tessuto finito, per prêt-à-porter e alta moda. Qui trova come lavoriamo e cosa potremmo fare per Tessitura di Crevacuore.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tessitura di Crevacuore.",
+ "evidence": [
+  {
+   "claim": "Tessitura di Crevacuore produce a Borgosesia tessuti pregiati con un ciclo verticale dalla materia prima al tessuto finito, per prêt-à-porter e alta moda.",
+   "url": "https://www.tessituradicrevacuore.it/produzione-tessuti/",
+   "quote": "Abbiamo un ciclo produttivo verticale che parte dalla materia prima per giungere al tessuto finito. || Abbiamo sede a Borgosesia, nel cuore di un territorio storicamente dedicato alla produzione tessile e laniera. || Siamo specializzati nella produzione dei tessuti pregiati di alta gamma, che sfilano in tutto il mondo nelle manifestazioni dedicate al prêt-à-porter femminile, maschile e all’alta moda."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "lavazza",
+ "company": "Lavazza",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Lavazza fattura 3,9 miliardi con marchi come Carte Noire, Merrild e Kicking Horse, 9 stabilimenti in 5 paesi e attività in 140 mercati. Qui trova come lavoriamo e cosa potremmo fare per Lavazza.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lavazza.",
+ "evidence": [
+  {
+   "claim": "Lavazza fattura 3,9 miliardi con marchi come Carte Noire, Merrild e Kicking Horse, 9 stabilimenti in 5 paesi e attività in 140 mercati.",
+   "url": "https://www.lavazzagroup.com/en/who-we-are.html",
+   "quote": "with a turnover of 3.9 billion euros and a portfolio of brands that lead their respective markets, such as Lavazza, Carte Noire, Merrild and Kicking Horse. || We're active in all business sectors and have operations in 140 markets, with 9 manufacturing plants in 5 countries and over 5.800 collaborators all over the world."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

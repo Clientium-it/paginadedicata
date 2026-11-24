@@ -1,0 +1,28 @@
+{
+ "slug": "sofar",
+ "company": "Sofar",
+ "first_name": "Attilio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Sofar è entrata a far parte del Gruppo Fine Foods con l'acquisizione del 12 giugno 2026. Qui trova come lavoriamo e cosa potremmo fare per Sofar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sofar.",
+ "evidence": [
+  {
+   "claim": "Sofar è entrata a far parte del Gruppo Fine Foods con l'acquisizione del 12 giugno 2026.",
+   "url": "https://www.sofarfarm.it/",
+   "quote": "Sofar S.p.A. Ã¨ stata acquisita in data 12 giugno 2026 da Fine Foods & Pharmaceuticals N.T.M. S.p.A. ed Ã¨ entrata a far parte del Gruppo Fine Foods"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

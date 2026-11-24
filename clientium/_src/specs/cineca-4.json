@@ -1,0 +1,28 @@
+{
+ "slug": "cineca-4",
+ "company": "Cineca",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Cineca da Casalecchio di Reno supporta la comunità scientifica con il supercalcolo e sviluppa sistemi informativi per università, pubblica amministrazione, sanità e imprese. Qui trova come lavoriamo e cosa potremmo fare per Cineca.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cineca.",
+ "evidence": [
+  {
+   "claim": "Cineca da Casalecchio di Reno supporta la comunità scientifica con il supercalcolo e sviluppa sistemi informativi per università, pubblica amministrazione, sanità e imprese.",
+   "url": "https://eventi.cineca.it/it/chi-siamo",
+   "quote": "offre supporto alle attività della comunità scientifica tramite il supercalcolo e le sue applicazioni, realizza sistemi gestionali per le amministrazioni universitarie e il MUR, progetta e sviluppa sistemi informativi per pubblica amministrazione, sanità e imprese || via Magnanelli 6/3 Casalecchio di Reno (BO) 40054 || progetta e sviluppa sistemi informativi per pubblica amministrazione, sanità e imprese"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

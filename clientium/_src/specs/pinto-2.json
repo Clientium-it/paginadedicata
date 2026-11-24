@@ -1,0 +1,28 @@
+{
+ "slug": "pinto-2",
+ "company": "Pinto",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Pinto produce e commercializza tapparelle e frangisole con uno stabilimento a Polla, in provincia di Salerno. Qui trova come lavoriamo e cosa potremmo fare per Pinto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pinto.",
+ "evidence": [
+  {
+   "claim": "Pinto produce e commercializza tapparelle e frangisole con uno stabilimento a Polla, in provincia di Salerno.",
+   "url": "https://pinto.srl",
+   "quote": "La qualità, l'innovazione e la passione per il lavoro sono i principi che ci hanno permesso di diventare una realtà di riferimento in Italia nella produzione e commercializzazione di tapparelle e frangisole || Stabilimento Area Sud - C.da Sant'Antuono Z.I. 84035 Polla (SA) Italia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

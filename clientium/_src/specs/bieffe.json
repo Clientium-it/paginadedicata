@@ -1,0 +1,28 @@
+{
+ "slug": "bieffe",
+ "company": "Bieffe",
+ "first_name": "Diomiro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Bieffe da oltre 30 anni propone soluzioni complete per sistemi di movimentazione, trasporto e trattamento termico. Qui trova come lavoriamo e cosa potremmo fare per Bieffe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bieffe.",
+ "evidence": [
+  {
+   "claim": "Bieffe da oltre 30 anni propone soluzioni complete per sistemi di movimentazione, trasporto e trattamento termico.",
+   "url": "https://bieffeco.it/about-bieffeco/",
+   "quote": "Con oltre 30 anni di esperienza al servizio dei suoi clienti, BIEFFECO si propone come partner ideale in grado di garantire una soluzione completa ed efficiente per qualsiasi sistema di movimentazione, trasporto e trattamento termico."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "cartotecnica-rigon",
+ "company": "Cartotecnica Rigon",
+ "first_name": "Fiorenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Cartotecnica Rigon produce a Carrè 75 milioni di imballi litografati all'anno su un'area di 30.000 mq con oltre cinquanta collaboratori. Qui trova come lavoriamo e cosa potremmo fare per Cartotecnica Rigon.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cartotecnica Rigon.",
+ "evidence": [
+  {
+   "claim": "Cartotecnica Rigon produce a Carrè 75 milioni di imballi litografati all'anno su un'area di 30.000 mq con oltre cinquanta collaboratori.",
+   "url": "https://cartotecnicarigon.it/azienda/",
+   "quote": "Con oltre cinquanta collaboratori , un’area di 30.000 mq e la produzione di 75 milioni di imballi litografati all’anno || Cartotecnica Rigon S.r.l. - Via San Lorenzo n°22 - 36010 Carrè (VI)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

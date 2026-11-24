@@ -1,0 +1,28 @@
+{
+ "slug": "sun-chemical-2",
+ "company": "Sun Chemical",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Sun Chemical, parte del gruppo DIC, produce inchiostri da stampa, coating, adesivi, pigmenti, masterbatch e polimeri con sede a Parsippany nel New Jersey. Qui trova come lavoriamo e cosa potremmo fare per Sun Chemical.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sun Chemical.",
+ "evidence": [
+  {
+   "claim": "Sun Chemical, parte del gruppo DIC, produce inchiostri da stampa, coating, adesivi, pigmenti, masterbatch e polimeri con sede a Parsippany nel New Jersey.",
+   "url": "https://www.sunchemical.com/about/",
+   "quote": "Sun Chemical, a prominent member of the DIC Group, stands as a leading manufacturer of printing inks , coatings , adhesives , pigments , masterbatches , polymers as well as liquid and solid compounds , along with application materials . || Sun Chemical Corporation, a subsidiary of Sun Chemical Group Cooperatief U.A, in the Netherlands, is headquartered in Parsippany, New Jersey, USA."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

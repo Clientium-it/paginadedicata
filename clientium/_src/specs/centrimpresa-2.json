@@ -1,0 +1,28 @@
+{
+ "slug": "centrimpresa-2",
+ "company": "Centrimpresa",
+ "first_name": "Elena",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Centrimpresa tiene la contabilità di circa 4.000 aziende tra Milano, Lodi e Monza Brianza con 22 uffici e oltre 150 collaboratori. Qui trova come lavoriamo e cosa potremmo fare per Centrimpresa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Centrimpresa.",
+ "evidence": [
+  {
+   "claim": "Centrimpresa tiene la contabilità di circa 4.000 aziende tra Milano, Lodi e Monza Brianza con 22 uffici e oltre 150 collaboratori.",
+   "url": "https://www.centrimpresa.it/chi-siamo/",
+   "quote": "Sono circa 4.000 le aziende che affidano a Centrimpresa la tenuta della propria contabilità ed oltre 12.000 i contribuenti, imprenditori e loro familiari, che vi ricorrono per la predisposizione delle dichiarazioni dei redditi. || Centrimpresa è presente, insieme a Unione Confcommercio, su tutto il territorio delle provincie di Milano, Lodi e Monza Brianza con 22 uffici operativi e oltre 150 collaboratori. || dà una pronta risposta su temi relativi all’attività delle aziende di ogni categoria di commercio, servizi, turismo e professioni."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

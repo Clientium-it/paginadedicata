@@ -1,0 +1,28 @@
+{
+ "slug": "gmp",
+ "company": "GMP",
+ "first_name": "Ennio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "GMP progetta e produce da oltre 40 anni guarnizioni, profili estrusi e componenti in gomma, silicone e plastica su misura, anche in co-design. Qui trova come lavoriamo e cosa potremmo fare per GMP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GMP.",
+ "evidence": [
+  {
+   "claim": "GMP progetta e produce da oltre 40 anni guarnizioni, profili estrusi e componenti in gomma, silicone e plastica su misura, anche in co-design.",
+   "url": "https://gmpengineering.com/en/about-us/",
+   "quote": "a company specialising in the design and manufacture of seals, extruded profiles and components made from rubber, silicone and plastics. For over 40 years, we have been combining engineering expertise, materials know-how and co-design skills to deliver bespoke, high-tech solutions. || Purchase of a 700 m² warehouse area"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

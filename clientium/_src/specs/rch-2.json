@@ -1,0 +1,28 @@
+{
+ "slug": "rch-2",
+ "company": "RCH",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "RCH offre da Silea registratori di cassa e soluzioni pensate per parrucchieri, ristoratori e negozianti. Qui trova come lavoriamo e cosa potremmo fare per RCH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RCH.",
+ "evidence": [
+  {
+   "claim": "RCH offre da Silea registratori di cassa e soluzioni pensate per parrucchieri, ristoratori e negozianti.",
+   "url": "https://www.rch.it",
+   "quote": "Che tu sia un parrucchiere, un ristoratore, o un negoziante, RCH ha il registratore di cassa o la soluzione adatta per il tuo business. || Via Cendon 39, 31057 Silea (TV) - Italy || Che tu sia un parrucchiere, un ristoratore, o un negoziante, RCH ha il registratore di cassa o la soluzione adatta per il tuo business."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

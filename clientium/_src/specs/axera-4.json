@@ -1,0 +1,28 @@
+{
+ "slug": "axera-4",
+ "company": "Axera",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Axera affianca le imprese del territorio con soluzioni ICT e TLC da oltre 30 anni, con sedi a Montecchio Maggiore, Dueville e Vicenza. Qui trova come lavoriamo e cosa potremmo fare per Axera.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Axera.",
+ "evidence": [
+  {
+   "claim": "Axera affianca le imprese del territorio con soluzioni ICT e TLC da oltre 30 anni, con sedi a Montecchio Maggiore, Dueville e Vicenza.",
+   "url": "https://www.axera.it",
+   "quote": "AXERA affonda le sue radici in oltre 30 anni di storia ICT e TLC , affiancando le imprese del territorio con soluzioni personalizzate, efficienti e sicure in grado di affrontare le sfide tecnologiche del futuro. || Sede Operativa MONTECCHIO MAGGIORE: Montecchio Maggiore (VI) - Via Madonnetta 215 Sede Operativa DUEVILLE: Dueville (VI) - Via Marosticana 279 Sede Operativa VICENZA: Vicenza (VI) - Via Enrico Fermi 235"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "gierre-4",
+ "company": "Gierre",
+ "first_name": "Adriano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Gierre progetta e realizza i propri prodotti direttamente nei suoi stabilimenti di Olginate. Qui trova come lavoriamo e cosa potremmo fare per Gierre.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gierre.",
+ "evidence": [
+  {
+   "claim": "Gierre progetta e realizza i propri prodotti direttamente nei suoi stabilimenti di Olginate.",
+   "url": "https://www.gierrescale.com/chi-siamo/",
+   "quote": "I nostri prodotti vengono progettati e realizzati proprio qui, nei nostri stabilimenti di Olginate. || I nostri prodotti vengono progettati e realizzati proprio qui, nei nostri stabilimenti di Olginate."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

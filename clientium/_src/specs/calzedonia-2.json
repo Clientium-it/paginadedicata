@@ -1,0 +1,28 @@
+{
+ "slug": "calzedonia-2",
+ "company": "Calzedonia",
+ "first_name": "Sabrina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Calzedonia segue tutto il ciclo del prodotto, dal design alla produzione in stabilimenti propri fino alla distribuzione nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Calzedonia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Calzedonia.",
+ "evidence": [
+  {
+   "claim": "Calzedonia segue tutto il ciclo del prodotto, dal design alla produzione in stabilimenti propri fino alla distribuzione nel mondo.",
+   "url": "https://www.oniverse.it/en/the-group/who-we-are",
+   "quote": "The entire product life cycle, from design to production in proprietary factories all the way up to worldwide distribution, is handled directly by Calzedonia Spa."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

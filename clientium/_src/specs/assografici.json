@@ -1,0 +1,28 @@
+{
+ "slug": "assografici",
+ "company": "Assografici",
+ "first_name": "Elisabetta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "Assografici riunisce a Milano la business community della stampa e del packaging in carta, cartone e flessibile. Qui trova come lavoriamo e cosa potremmo fare per Assografici.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Assografici.",
+ "evidence": [
+  {
+   "claim": "Assografici riunisce a Milano la business community della stampa e del packaging in carta, cartone e flessibile.",
+   "url": "https://assografici.it/",
+   "quote": "Siamo la business community del mondo della stampa e del packaging in carta, cartone e flessibile || Piazza Castello 28, 20121 Milano || Associazione Nazionale Italiana Industrie Grafiche, Cartotecniche e Trasformatrici"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

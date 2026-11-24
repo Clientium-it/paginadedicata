@@ -1,0 +1,28 @@
+{
+ "slug": "trascar",
+ "company": "Trascar",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Trascar dal 1973 realizza in Emilia sistemi di pallettizzazione automatica per il fine linea, con portali cartesiani, isole robotizzate e pack station. Qui trova come lavoriamo e cosa potremmo fare per Trascar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Trascar.",
+ "evidence": [
+  {
+   "claim": "Trascar dal 1973 realizza in Emilia sistemi di pallettizzazione automatica per il fine linea, con portali cartesiani, isole robotizzate e pack station.",
+   "url": "https://www.trascar.it/company/",
+   "quote": "Sistemi di pallettizzazione automatica per il fine linea e per la composizione del pallet misto: portali cartesiani, isole robotizzate e pack station || Trascar, dal 1973 in movimento. Una struttura industriale italiana, una sede in Emilia, una rete internazionale di service."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "madreperla",
+ "company": "Madreperla",
+ "first_name": "Antonella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Madreperla produce lastre acriliche, dal 2011 anche colate 100% riciclate con Green Cast, ed è presente in Francia dagli anni ’70. Qui trova come lavoriamo e cosa potremmo fare per Madreperla.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Madreperla.",
+ "evidence": [
+  {
+   "claim": "Madreperla produce lastre acriliche, dal 2011 anche colate 100% riciclate con Green Cast, ed è presente in Francia dagli anni ’70.",
+   "url": "https://madreperlaspa.com/",
+   "quote": "Madreperla è oggi il principale produttore italiano di lastre acriliche, e con il marchio Green Cast® abbiamo aperto la strada alla sostenibilità nel settore, lanciando nel 2011 il primo brand di lastre acriliche colate 100% riciclate. || Gli anni ’70 segnano l’inizio dell’espansione internazionale con la nascita di Madreperla France"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

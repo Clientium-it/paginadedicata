@@ -1,0 +1,28 @@
+{
+ "slug": "ponzio-3",
+ "company": "Ponzio",
+ "first_name": "Emilio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Ponzio da 80 anni e quattro generazioni progetta e produce sistemi in alluminio per finestre, facciate continue e portoncini per serramentisti, con sede a Pineto. Qui trova come lavoriamo e cosa potremmo fare per Ponzio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ponzio.",
+ "evidence": [
+  {
+   "claim": "Ponzio da 80 anni e quattro generazioni progetta e produce sistemi in alluminio per finestre, facciate continue e portoncini per serramentisti, con sede a Pineto.",
+   "url": "https://www.ponzioaluminium.com/azienda/",
+   "quote": "In 80 anni e quattro generazioni, l'azienda è cresciuta dalla lavorazione dell'alluminio alla progettazione e produzione di sistemi completi per finestre, facciate continue, accessori e portoncini in alluminio || Con sede principale a Pineto, Ponzio ha una superficie coperta di oltre 60.000 mq, espandendosi con successo a Roma e uno show-room a Milano || Per serramentisti"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

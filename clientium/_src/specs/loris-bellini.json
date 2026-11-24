@@ -1,0 +1,28 @@
+{
+ "slug": "loris-bellini",
+ "company": "Loris Bellini",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Loris Bellini dal 1949 progetta e costruisce impianti per tintura ed essiccazione dei filati, prodotti a Casalromano e destinati alle tintorie di tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Loris Bellini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Loris Bellini.",
+ "evidence": [
+  {
+   "claim": "Loris Bellini dal 1949 progetta e costruisce impianti per tintura ed essiccazione dei filati, prodotti a Casalromano e destinati alle tintorie di tutto il mondo.",
+   "url": "https://www.lorisbellini.com/",
+   "quote": "Fondata nel 1949 , Loris Bellini è un’azienda italiana che progetta e costruisce impianti completi per la tintura e l’essiccazione dei filati. Con sede legale e produttiva a Casalromano , in provincia di Mantova || Con sede legale e produttiva a Casalromano , in provincia di Mantova, e sede commerciale e amministrativa a Bollate , in provincia di Milano, l’azienda opera in modo diretto e indiretto in tutti i principali mercati mondiali || destinate alle tintorie filati di tutto il mondo"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

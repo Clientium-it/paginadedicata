@@ -1,0 +1,28 @@
+{
+ "slug": "coseco",
+ "company": "Coseco",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "Coseco realizza veicoli speciali per la raccolta, il trasporto e lo smaltimento dei rifiuti solidi come compattatori e lavacassonetti ed è presente in 40 paesi. Qui trova come lavoriamo e cosa potremmo fare per Coseco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Coseco.",
+ "evidence": [
+  {
+   "claim": "Coseco realizza veicoli speciali per la raccolta, il trasporto e lo smaltimento dei rifiuti solidi come compattatori e lavacassonetti ed è presente in 40 paesi.",
+   "url": "https://www.coseco.it/en/company.html",
+   "quote": "special vehicles destined to the collection, transport and disposal of solid waste like compactors, press bodies and tipping bodies together with bin washers || 40 Is the number of the European and extra-European countries where we are present"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

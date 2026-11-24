@@ -1,0 +1,28 @@
+{
+ "slug": "aliplast-2",
+ "company": "Aliplast",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Aliplast è nata nel 1982 come azienda di raccolta di scarti plastici e oggi ha 7 sedi operative in Italia e 3 aziende in Europa. Qui trova come lavoriamo e cosa potremmo fare per Aliplast.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aliplast.",
+ "evidence": [
+  {
+   "claim": "Aliplast è nata nel 1982 come azienda di raccolta di scarti plastici e oggi ha 7 sedi operative in Italia e 3 aziende in Europa.",
+   "url": "https://www.aliplastspa.com/azienda-e-gruppo",
+   "quote": "Aliplast nasce nel 1982 come azienda di servizi per la raccolta presso superfici private di scarti e rifiuti in materiale plastico. || Aliplast in Italia è presente con 7 sedi operative ALIPLAST IN EUROPA Aliplast in Europa è presente con 3 aziende"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

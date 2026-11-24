@@ -1,0 +1,28 @@
+{
+ "slug": "new-royal-plastic",
+ "company": "New Royal Plastic",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "New Royal Plastic realizza dal 1979 allestimenti isotermici in vetroresina per il trasporto a temperatura controllata su un'area di oltre 20.000 m². Qui trova come lavoriamo e cosa potremmo fare per New Royal Plastic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per New Royal Plastic.",
+ "evidence": [
+  {
+   "claim": "New Royal Plastic realizza dal 1979 allestimenti isotermici in vetroresina per il trasporto a temperatura controllata su un'area di oltre 20.000 m².",
+   "url": "https://royalplastic.net/azienda",
+   "quote": "New Royal Plastic è presente nel settore del trasporto merci a temperatura controllata dal 1979, ed è oggi sinonimo di allestimenti isotermici in vetroresina ad alti livelli. || Con un’imponente area produttiva di oltre 20.000 m², di cui 5500 coperti || Settori Alimentare Beverage Vendita ambulante"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

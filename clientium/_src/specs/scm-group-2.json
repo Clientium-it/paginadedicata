@@ -1,0 +1,28 @@
+{
+ "slug": "scm-group-2",
+ "company": "SCM Group",
+ "first_name": "Gianandrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "SCM Group coordina 3 poli produttivi con oltre 4.000 dipendenti nei 5 continenti, per settori che vanno dal mobile all'automotive fino alla nautica. Qui trova come lavoriamo e cosa potremmo fare per SCM Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SCM Group.",
+ "evidence": [
+  {
+   "claim": "SCM Group coordina 3 poli produttivi con oltre 4.000 dipendenti nei 5 continenti, per settori che vanno dal mobile all'automotive fino alla nautica.",
+   "url": "https://www.scmgroup.com/it",
+   "quote": "Scm Group coordina, supporta e sviluppa un sistema di eccellenze industriali, articolato in 3 grandi poli produttivi altamente specializzati, con oltre 4.000 dipendenti e una presenza diretta nei 5 continenti. || articolato in 3 grandi poli produttivi altamente specializzati, con oltre 4.000 dipendenti e una presenza diretta nei 5 continenti || dall’industria del mobile all’edilizia, dall’automotive all’aerospaziale, dalla nautica alla lavorazione delle materie plastiche"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "cablotech-2",
+ "company": "Cablotech",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Cablotech realizza cablaggi su misura per prodotti e semilavorati elettronici ed elettromeccanici in un impianto di oltre 5000 metri quadri. Qui trova come lavoriamo e cosa potremmo fare per Cablotech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cablotech.",
+ "evidence": [
+  {
+   "claim": "Cablotech realizza cablaggi su misura per prodotti e semilavorati elettronici ed elettromeccanici in un impianto di oltre 5000 metri quadri.",
+   "url": "https://www.cablotech.com",
+   "quote": "soluzioni custom per tutte le esigenze di cablaggio di prodotti e semilavorati elettronici ed elettromeccanici || 5000+ Metri quadri di superficie totale dell'impianto produttivo"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

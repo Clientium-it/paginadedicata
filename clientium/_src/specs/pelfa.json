@@ -1,0 +1,28 @@
+{
+ "slug": "pelfa",
+ "company": "Pelfa",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Pelfa costruisce dal 1979 a Buja impianti, macchine e componenti meccanici ed elettrosaldati per siderurgia, idroelettrico, oil&gas e difesa. Qui trova come lavoriamo e cosa potremmo fare per Pelfa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pelfa.",
+ "evidence": [
+  {
+   "claim": "Pelfa costruisce dal 1979 a Buja impianti, macchine e componenti meccanici ed elettrosaldati per siderurgia, idroelettrico, oil&gas e difesa.",
+   "url": "https://pelfa.it/azienda/",
+   "quote": "La Pelfa Group, fondata nel 1979 dal Sig. Redento Fabbro e guidata con esperienza per oltre 40 anni, si distingue come leader nella produzione di impianti, macchine e componenti meccanici ed elettrosaldati, servendo una vasta gamma di settori industriali. || Pelfa Group Srl Via Europa unita 4 33030 Buja (UD) Italia || I prodotti Pelfa sono utilizzati in diversi settori, tra i quali quello siderurgico, idroelettrico, oil&gas e difesa."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

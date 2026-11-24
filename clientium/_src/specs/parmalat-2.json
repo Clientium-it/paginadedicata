@@ -1,0 +1,28 @@
+{
+ "slug": "parmalat-2",
+ "company": "Parmalat",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Parmalat lavora il latte dal 1961 con sede legale a Milano. Qui trova come lavoriamo e cosa potremmo fare per Parmalat.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Parmalat.",
+ "evidence": [
+  {
+   "claim": "Parmalat lavora il latte dal 1961 con sede legale a Milano.",
+   "url": "https://www.parmalat.it",
+   "quote": "Dal 1961 la qualità e il piacere del buon latte || Sede Legale: Largo Tazio Nuvolari 1 – 20143 Milano"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

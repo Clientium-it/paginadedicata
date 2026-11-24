@@ -1,0 +1,28 @@
+{
+ "slug": "taroni-2",
+ "company": "Taroni",
+ "first_name": "Maximilian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Taroni tesse seta a Como dalla fine dell'Ottocento come tradizione di famiglia per le più grandi maison del mondo. Qui trova come lavoriamo e cosa potremmo fare per Taroni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Taroni.",
+ "evidence": [
+  {
+   "claim": "Taroni tesse seta a Como dalla fine dell'Ottocento come tradizione di famiglia per le più grandi maison del mondo.",
+   "url": "https://www.taroni.it",
+   "quote": "Since the 1880s Taroni has carried on a family tradition in silk production, weaving fashion stories with the world's greatest Maisons. || Based in Como, Italy, home of Italian silk || weaving fashion stories with the world's greatest Maisons"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

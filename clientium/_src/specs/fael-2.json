@@ -1,0 +1,28 @@
+{
+ "slug": "fael-2",
+ "company": "Fael",
+ "first_name": "Luciano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Fael realizza dal 1965 ad Agrate Brianza sistemi di illuminazione per impianti sportivi, strutture industriali e commerciali e arterie stradali. Qui trova come lavoriamo e cosa potremmo fare per Fael.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fael.",
+ "evidence": [
+  {
+   "claim": "Fael realizza dal 1965 ad Agrate Brianza sistemi di illuminazione per impianti sportivi, strutture industriali e commerciali e arterie stradali.",
+   "url": "https://www.faelluce.com/it/azienda",
+   "quote": "Dal 1965 studiamo e realizziamo sistemi professionali per l'illuminazione di grandi aree ludiche e urbane, impianti sportivi, strutture industriali e commerciali, arterie stradali || Fael Spa, Via Euripide 12/14, 20864 Agrate Brianza (MB) Italy || impianti sportivi, strutture industriali e commerciali, arterie stradali"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "visualplex",
+ "company": "Visualplex",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Visualplex progetta, produce e allestisce vetrine, pop up e display, con una sede anche a Shanghai. Qui trova come lavoriamo e cosa potremmo fare per Visualplex.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Visualplex.",
+ "evidence": [
+  {
+   "claim": "Visualplex progetta, produce e allestisce vetrine, pop up e display, con una sede anche a Shanghai.",
+   "url": "https://www.visualplex.it/",
+   "quote": "Progettazione, produzione e allestimento di vetrine, pop up e display || SHANGHAI Visualplex (Shanghai) Co., Ltd 1st Floor, Building 8, N 327 West Jian Guo Road Xuhui District Shanghai, PRC China"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

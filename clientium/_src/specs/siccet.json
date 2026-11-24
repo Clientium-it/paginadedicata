@@ -1,0 +1,28 @@
+{
+ "slug": "siccet",
+ "company": "Siccet",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Siccet dal 1977 a Molinetto di Mazzano lavora per oil and gas, metalmeccanica, energia, aerospazio, alimentare, chimica e farmaceutica. Qui trova come lavoriamo e cosa potremmo fare per Siccet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Siccet.",
+ "evidence": [
+  {
+   "claim": "Siccet dal 1977 a Molinetto di Mazzano lavora per oil and gas, metalmeccanica, energia, aerospazio, alimentare, chimica e farmaceutica.",
+   "url": "https://siccet.com",
+   "quote": "A story of innovation since 1977 || VIA SAN ROCCO 55 - 25080 MOLINETTO DI MAZZANO (Bs) || Oil and Gas, Metal working industry, Energy, Aerospace industry, Food industry, Chemical and pharmaceutical industries"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

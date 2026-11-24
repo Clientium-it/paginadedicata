@@ -1,0 +1,28 @@
+{
+ "slug": "avanade",
+ "company": "Avanade",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Avanade aiuta da esperto Microsoft aziende di banca, energia, sanità, manifattura e pubblica amministrazione a modernizzarsi con l'intelligenza artificiale. Qui trova come lavoriamo e cosa potremmo fare per Avanade.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Avanade.",
+ "evidence": [
+  {
+   "claim": "Avanade aiuta da esperto Microsoft aziende di banca, energia, sanità, manifattura e pubblica amministrazione a modernizzarsi con l'intelligenza artificiale.",
+   "url": "https://www.avanade.com/it-it/about",
+   "quote": "In qualità di esperti Microsoft leader a livello mondiale, aiutiamo le organizzazioni a modernizzarsi in modo sicuro, combinando l'ingegno umano e l'innovazione dell'intelligenza artificiale per offrire un impatto pratico e scalabile dove conta di più. || Settori Automotive Servizi bancari Capital Markets Beni di consumo Energy Pubblica Amministrazione Sanità Life Science Manufacturing Non profit Retail Utilities"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

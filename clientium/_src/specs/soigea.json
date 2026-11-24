@@ -1,0 +1,28 @@
+{
+ "slug": "soigea",
+ "company": "Soigea",
+ "first_name": "Carmelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Soigea lavora per distributori di energia elettrica, servizi TLC ed enti pubblici con 16 sedi e una media di 230 cantieri al giorno. Qui trova come lavoriamo e cosa potremmo fare per Soigea.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Soigea.",
+ "evidence": [
+  {
+   "claim": "Soigea lavora per distributori di energia elettrica, servizi TLC ed enti pubblici con 16 sedi e una media di 230 cantieri al giorno.",
+   "url": "https://soigea.com/",
+   "quote": "1. 16 sedi sul territorio 2. 230 cantieri (media giornaliera) 3. 37.122 ore di formazione 4. 1.802 controlli cantiere 5. 1.296 Risorse umane impiegate || 1. 16 sedi sul territorio || La vision di SOIGEA va oltre il mero status di partner affidabile per i principali distributori di energia elettrica, servizi TLC e enti pubblici."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

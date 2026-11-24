@@ -1,0 +1,28 @@
+{
+ "slug": "boero",
+ "company": "Boero",
+ "first_name": "Paola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Boero lavora da Genova nei prodotti vernicianti per l'edilizia e lo yachting. Qui trova come lavoriamo e cosa potremmo fare per Boero.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Boero.",
+ "evidence": [
+  {
+   "claim": "Boero lavora da Genova nei prodotti vernicianti per l'edilizia e lo yachting.",
+   "url": "https://www.gruppoboero.it",
+   "quote": "leader nel settore dei prodotti vernicianti per edilizia e yachting || Via G. Macaggi, 19, 16121 Genova (GE)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

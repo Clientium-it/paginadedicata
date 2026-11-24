@@ -1,0 +1,28 @@
+{
+ "slug": "bcc-sistemi-informatici",
+ "company": "BCC Sistemi Informatici",
+ "first_name": "Tommaso Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "BCC Sistemi Informatici è il polo tecnologico del Gruppo Iccrea, gestisce servizio e progetti ICT e ha 12.654 Mips di capacità elaborativa a Roma. Qui trova come lavoriamo e cosa potremmo fare per BCC Sistemi Informatici.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BCC Sistemi Informatici.",
+ "evidence": [
+  {
+   "claim": "BCC Sistemi Informatici è il polo tecnologico del Gruppo Iccrea, gestisce servizio e progetti ICT e ha 12.654 Mips di capacità elaborativa a Roma.",
+   "url": "https://www.bccsi.it/page/default.asp?i_menuID=71651",
+   "quote": "Bcc Sistemi Informatici diventa unico polo tecnologico e informatico del Gruppo Iccrea. Vengono accentrate in BCC SI le attività connesse alla gestione del servizio e dei progetti ICT || 12.654 Mips CAPACITÀ ELABORATIVA disponibile nei due siti di Roma"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

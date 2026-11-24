@@ -1,0 +1,28 @@
+{
+ "slug": "green-cards",
+ "company": "Green Cards",
+ "first_name": "Filippo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Green Cards produce tessere in Italia in due stabilimenti per produttori e rivenditori, esportando il 97% degli ordini in 48 paesi. Qui trova come lavoriamo e cosa potremmo fare per Green Cards.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Green Cards.",
+ "evidence": [
+  {
+   "claim": "Green Cards produce tessere in Italia in due stabilimenti per produttori e rivenditori, esportando il 97% degli ordini in 48 paesi.",
+   "url": "https://www.greencardspa.com/",
+   "quote": "Produciamo in Italia ed esportiamo in 48 paesi dei 5 continenti, con FedEx. Il 97% dei nostri ordini parte verso l’estero || Due stabilimenti con macchinari di ultima generazione: qualità al massimo livello e un impegno costante per la sostenibilità. || Lavoriamo esclusivamente per produttori e rivenditori di tessere : non vendiamo al cliente finale."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

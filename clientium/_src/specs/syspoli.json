@@ -1,0 +1,28 @@
+{
+ "slug": "syspoli",
+ "company": "SysPoli",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "SysPoli forma chi progetta, guida e trasforma sistemi complessi. Qui trova come lavoriamo e cosa potremmo fare per SysPoli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SysPoli.",
+ "evidence": [
+  {
+   "claim": "SysPoli forma chi progetta, guida e trasforma sistemi complessi.",
+   "url": "https://syspoli.com/en/home",
+   "quote": "We train those who design, lead, and transform complex systems"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

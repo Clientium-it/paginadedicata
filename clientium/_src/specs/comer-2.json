@@ -1,0 +1,28 @@
+{
+ "slug": "comer-2",
+ "company": "Comer",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Comer produce da oltre 40 anni valvole e raccordi in plastica e ha avviato un nuovo stabilimento a Casarza Ligure. Qui trova come lavoriamo e cosa potremmo fare per Comer.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Comer.",
+ "evidence": [
+  {
+   "claim": "Comer produce da oltre 40 anni valvole e raccordi in plastica e ha avviato un nuovo stabilimento a Casarza Ligure.",
+   "url": "https://www.comeritaly.com",
+   "quote": "Da oltre 40 anni COMER S.p.A. produce valvole e raccordi in plastica || a Casarza Ligure è operativo il nuovo stabilimento dedicato a raccordi e valvole"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

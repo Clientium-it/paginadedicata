@@ -1,0 +1,28 @@
+{
+ "slug": "verona-lamiere",
+ "company": "Verona Lamiere",
+ "first_name": "Gaetano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Verona Lamiere realizza da oltre 30 anni a Campagnola di Zevio semilavorati complessi su misura per settori industriali diversi. Qui trova come lavoriamo e cosa potremmo fare per Verona Lamiere.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Verona Lamiere.",
+ "evidence": [
+  {
+   "claim": "Verona Lamiere realizza da oltre 30 anni a Campagnola di Zevio semilavorati complessi su misura per settori industriali diversi.",
+   "url": "https://veronalamiere.it/",
+   "quote": "Da oltre 30 anni , realizziamo semilavorati complessi con tecnologie altamente flessibili, rispondendo alle esigenze di settori industriali diversificati con soluzioni su misura. || Verona Lamiere S.p.A. Via G. Pascoli, 46 – S.S. 434 Km 9 37059 – Campagnola di Zevio (VR) – Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "abstract-3",
+ "company": "Abstract",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Abstract costruisce sistemi digitali data driven e verticali per organizzazioni di luxury, manifattura, retail, sanità, utility e telco in oltre 25 mercati. Qui trova come lavoriamo e cosa potremmo fare per Abstract.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Abstract.",
+ "evidence": [
+  {
+   "claim": "Abstract costruisce sistemi digitali data driven e verticali per organizzazioni di luxury, manifattura, retail, sanità, utility e telco in oltre 25 mercati.",
+   "url": "https://www.abstract.it",
+   "quote": "supportiamo le principali organizzazioni nei settori strategici con sistemi digitali data-driven, verticali e costruiti per generare impatto reale || +25 Mercati coperti dai progetti || Luxury & Fashion, Manufacturing, Retail, Healthcare, Utility & Telco"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "sanecovit",
+ "company": "Sanecovit",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Sanecovit gestisce 2.239 articoli per 150 clienti con 40 dipendenti e magazzini a Bernareggio di circa 2500 mq. Qui trova come lavoriamo e cosa potremmo fare per Sanecovit.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sanecovit.",
+ "evidence": [
+  {
+   "claim": "Sanecovit gestisce 2.239 articoli per 150 clienti con 40 dipendenti e magazzini a Bernareggio di circa 2500 mq.",
+   "url": "https://www.sanecovit.com/",
+   "quote": "2.239 Articoli in assortimento 150 Clienti attuali 40 Dipendenti totali, di cui il 72% è composto da personale femminile || I magazzini Sanecovit di Bernareggio sono di circa 2500 mq e contengono materie prime, componenti di packaging e prodotti finiti."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p2_pages_request_2411.json)"
+}
