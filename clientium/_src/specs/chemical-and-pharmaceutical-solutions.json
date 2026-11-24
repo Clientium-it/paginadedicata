@@ -1,0 +1,28 @@
+{
+ "slug": "chemical-and-pharmaceutical-solutions",
+ "company": "Chemical and Pharmaceutical Solutions",
+ "first_name": "James",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "CPS offre un'ampia gamma di servizi ad aziende farmaceutiche emergenti, organizzazioni di produzione conto terzi e fondi di venture capital. Qui trova come lavoriamo e cosa potremmo fare per Chemical and Pharmaceutical Solutions.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Chemical and Pharmaceutical Solutions.",
+ "evidence": [
+  {
+   "claim": "CPS offre un'ampia gamma di servizi ad aziende farmaceutiche emergenti, organizzazioni di produzione conto terzi e fondi di venture capital.",
+   "url": "https://capsoln.com/main/",
+   "quote": "a wide range of services to the Emerging Pharmaceutical Companies, Contract Manufacturing Organizations and Venture Capital firms || a wide range of services to the Emerging Pharmaceutical Companies, Contract Manufacturing Organizations and Venture Capital firms"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

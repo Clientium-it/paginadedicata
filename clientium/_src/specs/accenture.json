@@ -1,0 +1,28 @@
+{
+ "slug": "accenture",
+ "company": "Accenture",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Accenture conta in Italia oltre 24.000 dipendenti in sedi come Milano, Roma, Torino e Napoli e serve oltre 9.000 clienti in più di 120 paesi. Qui trova come lavoriamo e cosa potremmo fare per Accenture.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Accenture.",
+ "evidence": [
+  {
+   "claim": "Accenture conta in Italia oltre 24.000 dipendenti in sedi come Milano, Roma, Torino e Napoli e serve oltre 9.000 clienti in più di 120 paesi.",
+   "url": "https://www.accenture.com/it-it/about/company-index",
+   "quote": "24.000+ Dipendenti Accenture in Italia || Bari, Bologna, Cagliari, Milano, Napoli, Roma, Torino, Verona || 9.000+ Clienti in oltre 120 paesi"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

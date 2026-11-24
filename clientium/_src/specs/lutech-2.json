@@ -1,0 +1,28 @@
+{
+ "slug": "lutech-2",
+ "company": "Lutech",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Lutech conta oltre 6.000 professionisti in 5 paesi e lavora con energia, manifattura, pubblica amministrazione, telco, finanza, sanità e retail. Qui trova come lavoriamo e cosa potremmo fare per Lutech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lutech.",
+ "evidence": [
+  {
+   "claim": "Lutech conta oltre 6.000 professionisti in 5 paesi e lavora con energia, manifattura, pubblica amministrazione, telco, finanza, sanità e retail.",
+   "url": "https://lutech.group/en/about/about-us",
+   "quote": "Today, we are a team of over 6,000 professionals || 5 Countries || Energy & Utilities, Manufacturing, Public sector, Telco, Media, Financial services, Insurance, Retail, Fashion, Transportation, Healthcare"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

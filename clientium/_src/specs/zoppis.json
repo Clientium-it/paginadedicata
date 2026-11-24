@@ -1,0 +1,28 @@
+{
+ "slug": "zoppis",
+ "company": "Zoppis",
+ "first_name": "Guido",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Zoppis distribuisce vino, birre, spirits e soft drink in Lombardia e Piemonte, consegnando oltre 4000 prodotti entro 24 ore 6 giorni su 7. Qui trova come lavoriamo e cosa potremmo fare per Zoppis.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Zoppis.",
+ "evidence": [
+  {
+   "claim": "Zoppis distribuisce vino, birre, spirits e soft drink in Lombardia e Piemonte, consegnando oltre 4000 prodotti entro 24 ore 6 giorni su 7.",
+   "url": "https://zoppis.com/",
+   "quote": "Consegniamo 6 giorni su 7 entro 24 ore oltre 4000 prodotti || distribuzione di vino, birre, spirits e soft drink in Lombardia e Piemonte"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

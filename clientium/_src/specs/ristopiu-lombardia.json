@@ -1,0 +1,28 @@
+{
+ "slug": "ristopiu-lombardia",
+ "company": "Ristopiù Lombardia",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Ristopiù rifornisce bar e ristoranti di prodotti alimentari tramite e-commerce con consegne tra Milano, Como, Bergamo, Brescia e altre province lombarde. Qui trova come lavoriamo e cosa potremmo fare per Ristopiù Lombardia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ristopiù Lombardia.",
+ "evidence": [
+  {
+   "claim": "Ristopiù rifornisce bar e ristoranti di prodotti alimentari tramite e-commerce con consegne tra Milano, Como, Bergamo, Brescia e altre province lombarde.",
+   "url": "https://www.ristopiulombardia.it",
+   "quote": "Sito E-commerce prodotti alimentari per la fornitura di bar e ristoranti || il servizio di consegna sarà effettuato solo nelle zone di Milano, Como, Lecco, Varese, Monza Brianza, Pavia, Lodi, Bergamo, Brescia || fornitura di bar e ristoranti"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "cofermetal",
+ "company": "Cofermetal",
+ "first_name": "Chiara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Cofermetal progetta e produce prodotti e attrezzature in titanio insieme ai clienti a San Donato Milanese. Qui trova come lavoriamo e cosa potremmo fare per Cofermetal.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cofermetal.",
+ "evidence": [
+  {
+   "claim": "Cofermetal progetta e produce prodotti e attrezzature in titanio insieme ai clienti a San Donato Milanese.",
+   "url": "https://cofermetal.com/prodotti",
+   "quote": "Progettiamo e produciamo prodotti e attrezzature in titanio, in stretta collaborazione con i clienti || Via Bruno Buozzi 2/6/8, 20097 – San Donato Milanese (MI)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

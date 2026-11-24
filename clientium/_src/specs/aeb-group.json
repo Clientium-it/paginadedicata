@@ -1,0 +1,28 @@
+{
+ "slug": "aeb-group",
+ "company": "AEB Group",
+ "first_name": "Simonpietro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "AEB affianca enologi e birrai in oltre 80 paesi con soluzioni su misura basate su più di 800 prodotti e attrezzature. Qui trova come lavoriamo e cosa potremmo fare per AEB Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per AEB Group.",
+ "evidence": [
+  {
+   "claim": "AEB affianca enologi e birrai in oltre 80 paesi con soluzioni su misura basate su più di 800 prodotti e attrezzature.",
+   "url": "https://www.aeb-group.com/us/who-we-are",
+   "quote": "we offer custom solutions based on more than 800 products and high-tech equipment || Present in more than 80 countries worldwide || We passionately enable winemakers and brewers around the world to improve natural processes"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

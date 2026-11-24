@@ -1,0 +1,28 @@
+{
+ "slug": "internet-idee-2",
+ "company": "Internet & Idee",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Internet & Idee progetta soluzioni innovative ed eroga consulenza e outsourcing da Cosenza, lavorando anche con banche e finanziarie. Qui trova come lavoriamo e cosa potremmo fare per Internet & Idee.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Internet & Idee.",
+ "evidence": [
+  {
+   "claim": "Internet & Idee progetta soluzioni innovative ed eroga consulenza e outsourcing da Cosenza, lavorando anche con banche e finanziarie.",
+   "url": "https://www.internet-idee.net",
+   "quote": "Internet & Idee promuove l'innovazione progettando e realizzando soluzioni innovative, erogando consulenza ed outsourcing || Piazza Europa, 9 - 87100 Cosenza (CS) || Banche e Finanziarie"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

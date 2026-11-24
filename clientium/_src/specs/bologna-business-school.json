@@ -1,0 +1,28 @@
+{
+ "slug": "bologna-business-school",
+ "company": "Bologna Business School",
+ "first_name": "Daniel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "Bologna Business School fa formazione post laurea e post esperienza nel Multicampus tra Villa Guastavillani e il New Campus con tre edifici. Qui trova come lavoriamo e cosa potremmo fare per Bologna Business School.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bologna Business School.",
+ "evidence": [
+  {
+   "claim": "Bologna Business School fa formazione post laurea e post esperienza nel Multicampus tra Villa Guastavillani e il New Campus con tre edifici.",
+   "url": "https://www.bbs.unibo.it/la-nostra-scuola/",
+   "quote": "per formare una nuova generazione di business leader, capace di guidare la crescita internazionale e la trasformazione digitale, in un'ottica di sostenibilità || Il nostro Multicampus è composto da Villa Guastavillani, una splendida residenza del XVI secolo, e dal New Campus, un'area moderna che ospita tre edifici all'avanguardia || Sostenere il pieno sviluppo delle persone, delle organizzazioni e della società attraverso l'istruzione post-laurea e post-esperienza"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

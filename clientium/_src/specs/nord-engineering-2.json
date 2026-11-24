@@ -1,0 +1,28 @@
+{
+ "slug": "nord-engineering-2",
+ "company": "Nord Engineering",
+ "first_name": "Jean-Marc",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Nord Engineering ha soluzioni attive in oltre 450 città nel mondo e lavora con comuni e grandi multiutility. Qui trova come lavoriamo e cosa potremmo fare per Nord Engineering.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nord Engineering.",
+ "evidence": [
+  {
+   "claim": "Nord Engineering ha soluzioni attive in oltre 450 città nel mondo e lavora con comuni e grandi multiutility.",
+   "url": "https://www.nordengineering.com/en/company/",
+   "quote": "Nord Engineering solutions are active in over 450 cities worldwide || 07 headquarters || municipalities and leading multi-utilities"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

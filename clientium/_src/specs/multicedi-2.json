@@ -1,0 +1,28 @@
+{
+ "slug": "multicedi-2",
+ "company": "Multicedi",
+ "first_name": "Guido",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Multicedi è nata nel 1993 e lavora nella distribuzione organizzata. Qui trova come lavoriamo e cosa potremmo fare per Multicedi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Multicedi.",
+ "evidence": [
+  {
+   "claim": "Multicedi è nata nel 1993 e lavora nella distribuzione organizzata.",
+   "url": "https://www.multicedi.com/",
+   "quote": "Nata nel 1993, nel giro di pochi anni, Multicedi ha saputo imporsi come impresa di punta della distribuzione organizzata"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

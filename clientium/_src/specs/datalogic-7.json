@@ -1,0 +1,28 @@
+{
+ "slug": "datalogic-7",
+ "company": "Datalogic",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Datalogic progetta e produce lettori di codici a barre, mobile computer e sensori con stabilimenti in Italia, USA, Ungheria, Slovacchia, Cina e Vietnam. Qui trova come lavoriamo e cosa potremmo fare per Datalogic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Datalogic.",
+ "evidence": [
+  {
+   "claim": "Datalogic progetta e produce lettori di codici a barre, mobile computer e sensori con stabilimenti in Italia, USA, Ungheria, Slovacchia, Cina e Vietnam.",
+   "url": "https://www.datalogic.com/eng/company/company-overview-co-4220.html",
+   "quote": "specialized in the designing and production of barcode readers, mobile computers, sensors for detection, measurement and safety, RFID, machine vision and laser marking systems || 30 offices, with manufacturing and repair facilities in the USA, Hungary, Slovakia, Italy, China and Vietnam || the Retail, Manufacturing, Transportation & Logistics and Healthcare industries, along the entire value chain"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

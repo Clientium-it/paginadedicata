@@ -1,0 +1,28 @@
+{
+ "slug": "alessi-7",
+ "company": "Alessi",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Alessi ha sede a Crusinallo e negli anni ha collaborato con oltre 900 designer, architetti e artisti. Qui trova come lavoriamo e cosa potremmo fare per Alessi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Alessi.",
+ "evidence": [
+  {
+   "claim": "Alessi ha sede a Crusinallo e negli anni ha collaborato con oltre 900 designer, architetti e artisti.",
+   "url": "https://alessi.com/pages/about-us",
+   "quote": "Over the years, we have collaborated with over 900 world-renowned designers, architects, and artists. || registered office in Crusinallo (VB), via Privata Alessi, 6"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "sacmi",
+ "company": "Sacmi",
+ "first_name": "Domenico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Sacmi costruisce macchine e impianti completi per ceramica, metalli, packaging, alimentare, bevande e contenitori in plastica con oltre 70 società in 25 paesi. Qui trova come lavoriamo e cosa potremmo fare per Sacmi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sacmi.",
+ "evidence": [
+  {
+   "claim": "Sacmi costruisce macchine e impianti completi per ceramica, metalli, packaging, alimentare, bevande e contenitori in plastica con oltre 70 società in 25 paesi.",
+   "url": "https://www.sacmi.com/en-US/Corporate/About-Us",
+   "quote": "Machines and complete systems for the ceramics, metals, packaging, food and beverage industries and for the production of containers made of plastic and advanced materials || over 70 manufacturing, distribution and service companies in 25 countries || ceramics, metals, packaging, food and beverage industries"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

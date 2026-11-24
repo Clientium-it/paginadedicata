@@ -1,0 +1,28 @@
+{
+ "slug": "ma-pi",
+ "company": "MA.PI.",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "MA.PI. offre da Bergamo gunite, calcestruzzo proiettato, demolizioni, protezioni antiacido, resine epossidiche, rivestimenti e asciugatura. Qui trova come lavoriamo e cosa potremmo fare per MA.PI..",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MA.PI..",
+ "evidence": [
+  {
+   "claim": "MA.PI. offre da Bergamo gunite, calcestruzzo proiettato, demolizioni, protezioni antiacido, resine epossidiche, rivestimenti e asciugatura.",
+   "url": "https://mapisrl.com",
+   "quote": "a wide range of specialty services including gunnite, shotcrete, demolition, acid proofing, epoxies & coatings and dry-out || PIAZZA RISORGIMENTO, 14 24128 BERGAMO ITALY"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

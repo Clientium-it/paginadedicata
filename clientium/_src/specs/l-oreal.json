@@ -1,0 +1,28 @@
+{
+ "slug": "l-oreal",
+ "company": "L'Oréal",
+ "first_name": "Teresa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "L'Oréal è attiva in Italia dal 1908 con un centro produttivo a Settimo Torinese dal 1960 e porta i prodotti dai saloni alla grande distribuzione. Qui trova come lavoriamo e cosa potremmo fare per L'Oréal.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per L'Oréal.",
+ "evidence": [
+  {
+   "claim": "L'Oréal è attiva in Italia dal 1908 con un centro produttivo a Settimo Torinese dal 1960 e porta i prodotti dai saloni alla grande distribuzione.",
+   "url": "https://www.loreal.com/it-it/italy/",
+   "quote": "il nostro paese, dove il Gruppo è attivo dal 1908, è stato nel tempo il principale mercato estero di esportazione per i prodotti L'Oréal || uno dei principali centri produttivi del Gruppo a Settimo Torinese. Quest'ultimo, attivo dal 1960 || dai saloni di parrucchieri alle profumerie, dalle farmacie alla grande distribuzione"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

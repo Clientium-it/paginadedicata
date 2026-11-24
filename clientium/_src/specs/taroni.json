@@ -1,0 +1,28 @@
+{
+ "slug": "taroni",
+ "company": "Taroni",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Taroni porta avanti dagli anni 1880 una tradizione familiare nella seta a Como e tesse collezioni per le Maison della moda. Qui trova come lavoriamo e cosa potremmo fare per Taroni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Taroni.",
+ "evidence": [
+  {
+   "claim": "Taroni porta avanti dagli anni 1880 una tradizione familiare nella seta a Como e tesse collezioni per le Maison della moda.",
+   "url": "https://www.taroni.it",
+   "quote": "Since the 1880s Taroni has carried on a family tradition in silk production, weaving fashion stories with the world's greatest Maisons. || Based in Como, Italy, home of Italian silk || weaving fashion stories with the world's greatest Maisons"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

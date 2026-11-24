@@ -1,0 +1,28 @@
+{
+ "slug": "iconsulting-2",
+ "company": "Iconsulting",
+ "first_name": "Lorella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Iconsulting da venticinque anni fa crescere professionisti capaci di muoversi tra tecnologia e business ed è presente a Bologna, Milano, Roma e Napoli. Qui trova come lavoriamo e cosa potremmo fare per Iconsulting.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Iconsulting.",
+ "evidence": [
+  {
+   "claim": "Iconsulting da venticinque anni fa crescere professionisti capaci di muoversi tra tecnologia e business ed è presente a Bologna, Milano, Roma e Napoli.",
+   "url": "https://www.iconsulting.com/about/",
+   "quote": "Da venticinque anni facciamo crescere professionisti capaci di muoversi tra tecnologia e business || Bologna Milano Roma Napoli"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

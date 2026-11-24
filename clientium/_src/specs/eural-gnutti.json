@@ -1,0 +1,28 @@
+{
+ "slug": "eural-gnutti",
+ "company": "Eural Gnutti",
+ "first_name": "Paola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Eural Gnutti, fondata nel 1968 a Rovato, produce barre trafilate in lega di alluminio per lavorazione meccanica in settori come automotive, aerospazio e medicale. Qui trova come lavoriamo e cosa potremmo fare per Eural Gnutti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Eural Gnutti.",
+ "evidence": [
+  {
+   "claim": "Eural Gnutti, fondata nel 1968 a Rovato, produce barre trafilate in lega di alluminio per lavorazione meccanica in settori come automotive, aerospazio e medicale.",
+   "url": "https://www.eural.com/home.php?lng=en",
+   "quote": "Founded in 1968 in Rovato, in the heart of the Brescia industrial district, Eural Gnutti S.p.A. is today the world's leading manufacturer of drawn bars in aluminium alloy for mechanical processing || Mechanical, Automotive, Aerospace, Pneumatics, Medical, Electrical, Electronics, Hydraulics"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

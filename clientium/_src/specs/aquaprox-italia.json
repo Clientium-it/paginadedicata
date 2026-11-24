@@ -1,0 +1,28 @@
+{
+ "slug": "aquaprox-italia",
+ "company": "Aquaprox Italia",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Aquaprox affianca dal 2004 le aziende nella gestione dell'acqua per ridurre l'impatto ambientale, con sede a Morolo in provincia di Frosinone. Qui trova come lavoriamo e cosa potremmo fare per Aquaprox Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aquaprox Italia.",
+ "evidence": [
+  {
+   "claim": "Aquaprox affianca dal 2004 le aziende nella gestione dell'acqua per ridurre l'impatto ambientale, con sede a Morolo in provincia di Frosinone.",
+   "url": "https://aquaprox-italia.com/chi-siamo/",
+   "quote": "Dal 2004 affianchiamo le aziende per migliorare la gestione dell'acqua con l'obiettivo di ridurre l'impatto ambientale || Via Morolense, 4, 03017 Morolo (FR) — Italia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

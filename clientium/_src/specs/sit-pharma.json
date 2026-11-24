@@ -1,0 +1,28 @@
+{
+ "slug": "sit-pharma",
+ "company": "SIT Pharma",
+ "first_name": "Lamberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "SIT è un gruppo farmaceutico italiano con sede a Mede, attivo da quasi 100 anni e presente in più di 70 paesi. Qui trova come lavoriamo e cosa potremmo fare per SIT Pharma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SIT Pharma.",
+ "evidence": [
+  {
+   "claim": "SIT è un gruppo farmaceutico italiano con sede a Mede, attivo da quasi 100 anni e presente in più di 70 paesi.",
+   "url": "https://sitpharma.com",
+   "quote": "We are an Italian pharmaceutical group that has been around for almost 100 years and is present in more than 70 countries || Registered office: Via Cavour, 70 – 27035 Mede (Pavia), Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "fabbri-group",
+ "company": "Fabbri Group",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Fabbri produce e vende macchine e film per il confezionamento alimentare in più di 90 Paesi per retail, produttori e industria. Qui trova come lavoriamo e cosa potremmo fare per Fabbri Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fabbri Group.",
+ "evidence": [
+  {
+   "claim": "Fabbri produce e vende macchine e film per il confezionamento alimentare in più di 90 Paesi per retail, produttori e industria.",
+   "url": "https://gruppofabbri.com",
+   "quote": "nella produzione e vendita di macchine e film per il confezionamento alimentare || Attivo in più di 90 Paesi nel mondo || al servizio di Retail, Produttori e Industria"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}

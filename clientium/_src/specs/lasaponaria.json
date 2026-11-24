@@ -1,0 +1,28 @@
+{
+ "slug": "lasaponaria",
+ "company": "LaSaponaria",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "LaSaponaria fa certificare come biologici i suoi prodotti da CCPB e COSMOS e ha sede in Via dei Trasporti a Pesaro. Qui trova come lavoriamo e cosa potremmo fare per LaSaponaria.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LaSaponaria.",
+ "evidence": [
+  {
+   "claim": "LaSaponaria fa certificare come biologici i suoi prodotti da CCPB e COSMOS e ha sede in Via dei Trasporti a Pesaro.",
+   "url": "https://www.lasaponaria.it/filosofia",
+   "quote": "Gli enti certificatori che utilizziamo per certificare i nostri prodotti come biologici sono CCPB e COSMOS || Via Dei Trasporti, 3-5 - Pesaro (PU)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_p1_pages_request_2411.json)"
+}
