@@ -111,7 +111,25 @@ html.phone .lg div{font-size:18px;min-height:0}html.phone .lgn{font-size:15px;ma
 @media (max-height:700px){html.phone .mk div{padding:4px 7px}html.phone .mk b{font-size:13px}html.phone .mk span{font-size:11px;line-height:1.18;margin-top:1px}html.phone .idea{font-size:12px;margin-top:6px}html.phone .wk>div{padding:5px 10px}html.phone .wk b{font-size:14px;margin:0}html.phone .wk span{font-size:12px;line-height:1.24}html.phone .band{font-size:12px;margin-top:6px}html.phone .lg div{font-size:14px}html.phone .lgn{font-size:12px;margin-top:6px}}
 html.phone .talk .l{grid-template-columns:auto 1fr auto}html.phone .pi{width:54px;height:54px;border-width:2px;grid-row:1/3}html.phone .talk h2{grid-column:2/4}html.phone .talk .alt{grid-column:1/4}
 html.phone .cover .r{flex-basis:30%;background-image:url(../assets/myes-aziende-wide.jpg);background-position:37% 50%}@media (max-height:700px){html.phone .cover .r{flex-basis:26%}}
-.lg.pf.nb div{border:3px solid #1e4fb8;background:#f4f7fd;box-shadow:0 8px 22px rgba(30,79,184,.12)}
+/* Paolo 12/11 style: grey-blue cards with navy top bar, navy banner with red accent */
+:root{--navy:#13213f;--pcard:#f2f5fa}
+.mk div,html:not(.phone) .wk>div,html.phone .wk>div,.lg.pf.nb div{background:var(--pcard);border:0;border-top:6px solid var(--navy);border-radius:0 0 10px 10px;box-shadow:0 10px 26px rgba(15,31,61,.09)}
+html.phone .mk div,html.phone .wk>div,html.phone .lg.pf.nb div{border-top-width:4px}
+.wk i{color:var(--red)}
+.band,.idea{position:relative;background:var(--navy);color:#fff;border:0;border-radius:8px;padding:20px 28px 20px 46px;font-weight:700;line-height:1.38}
+.band::before,.idea::before{content:"";position:absolute;left:24px;top:50%;transform:translateY(-50%);width:4px;height:28px;background:var(--red);border-radius:2px}
+.band b{color:#fff}
+html:not(.phone) .idea{font-size:20px}
+html.phone .band,html.phone .idea{padding:11px 13px 11px 26px;border-radius:6px}html.phone .band::before,html.phone .idea::before{left:12px;height:20px;width:3px}
+.lg.pf.nb{flex:none;margin-top:52px;gap:22px;grid-auto-rows:auto}
+.lg.pf.nb div{height:300px;padding:20px 22px;gap:12px}
+html:not(.phone) .lg.pf.nb b{font-size:54px;font-weight:800;line-height:1;white-space:nowrap}
+.lg.pf.nb span{color:var(--ink)}
+.lgband{margin-top:30px}
+html.phone .lg.pf.nb{margin-top:16px;gap:10px}html.phone .lg.pf.nb div{height:auto;padding:22px 10px;gap:6px}html.phone .lg.pf.nb b{font-size:30px;font-weight:800}
+html.phone .lgband{margin-top:16px;margin-bottom:auto}html.phone .lg.pf.nb{margin-top:auto}html.phone .lg.pf.nb b{white-space:nowrap}
+/* Paolo 11/11: number boxes keep the blue frame */
+.lg.pf.nb div{background:#f4f7fd;border:3px solid #1e4fb8;border-radius:10px;box-shadow:0 8px 22px rgba(30,79,184,.12)}html.phone .lg.pf.nb div{border-top-width:3px}
 </style>
 <script src="/site.js" async></script>
 </head>
@@ -164,7 +182,7 @@ html.phone .cover .r{flex-basis:30%;background-image:url(../assets/myes-aziende-
     <div><b>2 su 3</b><span>aziende clienti rinnovano</span></div>
     <div><b>100%</b><span>docenti madrelingua e native level</span></div>
   </div>
-  <p class="lgn">Online, nelle nostre sedi o nei vostri uffici.</p>
+  <p class="band lgband">Online, nelle nostre sedi o nei vostri uffici.</p>
 </div></section>
 
 <section data-i="5" aria-label="Prenoti una call"><div class="s talk">
