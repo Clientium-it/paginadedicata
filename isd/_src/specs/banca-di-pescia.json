@@ -1,0 +1,22 @@
+{
+ "slug": "banca-di-pescia",
+ "company": "Banca di Pescia",
+ "full_name": "Francesco Diolaiuti",
+ "first": "Francesco",
+ "cover_note": "Banca di Pescia opera in 5 province toscane tra Pistoia, Lucca, Pisa, Firenze e Livorno ed è nata nel 1962.",
+ "evidence": [
+  {
+   "claim": "Banca di Pescia opera in 5 province toscane tra Pistoia, Lucca, Pisa, Firenze e Livorno ed è nata nel 1962.",
+   "url": "https://www.bancadipesciaecascina.it/template/default.asp?i_menuID=56754",
+   "quote": "Oggi, Banca di Pescia e Cascina ha superato i confini originari, operando stabilmente su ben 5 province toscane: Pistoia, Lucca, Pisa, Firenze, Livorno."
+  },
+  {
+   "claim": "Banca di Pescia opera in 5 province toscane tra Pistoia, Lucca, Pisa, Firenze e Livorno ed è nata nel 1962.",
+   "url": "https://www.bancadipesciaecascina.it/template/default.asp?i_menuID=56754",
+   "quote": "In particolare, Banca di Pescia vede la luce nel 1962 come Cassa Rurale ed Artigiana di Alberghi."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/banca-di-pescia/logo.png"
+}

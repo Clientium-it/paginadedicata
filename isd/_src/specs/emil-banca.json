@@ -1,0 +1,22 @@
+{
+ "slug": "emil-banca",
+ "company": "Emil Banca",
+ "full_name": "Marina Miglioli",
+ "first": "Marina",
+ "cover_note": "Emil Banca, con 130 anni di storia, ha 98 filiali nelle province di Bologna, Ferrara, Modena, Parma, Piacenza, Reggio Emilia e Mantova.",
+ "evidence": [
+  {
+   "claim": "Emil Banca, con 130 anni di storia, ha 98 filiali nelle province di Bologna, Ferrara, Modena, Parma, Piacenza, Reggio Emilia e Mantova.",
+   "url": "https://www.emilbanca.it/latuabanca",
+   "quote": "Con 98 filiali nelle province di Bologna, Ferrara, Modena, Parma, Piacenza, Reggio Emilia e Mantova"
+  },
+  {
+   "claim": "Emil Banca, con 130 anni di storia, ha 98 filiali nelle province di Bologna, Ferrara, Modena, Parma, Piacenza, Reggio Emilia e Mantova.",
+   "url": "https://www.emilbanca.it/latuabanca",
+   "quote": "130 anni di storia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/emil-banca/logo.png"
+}

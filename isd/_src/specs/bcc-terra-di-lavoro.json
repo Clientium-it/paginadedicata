@@ -1,0 +1,22 @@
+{
+ "slug": "bcc-terra-di-lavoro",
+ "company": "BCC Terra di Lavoro",
+ "full_name": "Antonio Francese",
+ "first": "Antonio",
+ "cover_note": "BCC Terra di Lavoro ha 10 filiali su 82 comuni e oltre 4.478 soci, nata nel 2016 dall'unione di due BCC.",
+ "evidence": [
+  {
+   "claim": "BCC Terra di Lavoro ha 10 filiali su 82 comuni e oltre 4.478 soci, nata nel 2016 dall'unione di due BCC.",
+   "url": "https://www.bccterradilavoro.it/template/default.asp?i_menuID=69946",
+   "quote": "con oltre 4.478 soci, 10 filiali e un'ampia competenza territoriale costituita da 82 comuni"
+  },
+  {
+   "claim": "BCC Terra di Lavoro ha 10 filiali su 82 comuni e oltre 4.478 soci, nata nel 2016 dall'unione di due BCC.",
+   "url": "https://www.bccterradilavoro.it/template/default.asp?i_menuID=69946",
+   "quote": "A partire dal 1 Luglio 2016 dall'unione di questi due pilastri del Credito Cooperativo nasce BCC Terra di Lavoro \"San Vincenzo de'Paoli\" con oltre 4.478 soci, 10 filiali e un'ampia competenza territoriale costituita da 82 comuni"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/bcc-terra-di-lavoro/logo.webp"
+}

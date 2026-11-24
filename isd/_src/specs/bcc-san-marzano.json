@@ -1,0 +1,17 @@
+{
+ "slug": "bcc-san-marzano",
+ "company": "BCC San Marzano",
+ "full_name": "",
+ "first": "",
+ "cover_note": "BCC San Marzano ha 12 filiali, 113 collaboratori, 27.000 clienti e 2581 soci.",
+ "evidence": [
+  {
+   "claim": "BCC San Marzano ha 12 filiali, 113 collaboratori, 27.000 clienti e 2581 soci.",
+   "url": "https://www.bccsanmarzano.it/chi-siamo/",
+   "quote": "n. 12 filiali n.113 collaboratori n. 27.000 clienti n. 2581 soci % 33,25 CET1 Ratio"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/bcc-san-marzano/logo.png"
+}

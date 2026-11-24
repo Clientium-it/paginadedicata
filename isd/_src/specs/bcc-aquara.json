@@ -1,0 +1,22 @@
+{
+ "slug": "bcc-aquara",
+ "company": "BCC Aquara",
+ "full_name": "Salvatore Nardiello",
+ "first": "Salvatore",
+ "cover_note": "BCC Aquara ha 16 filiali, 87 collaboratori e 40.076 clienti.",
+ "evidence": [
+  {
+   "claim": "BCC Aquara ha 16 filiali, 87 collaboratori e 40.076 clienti.",
+   "url": "https://www.bccaquara.it/chi-siamo/",
+   "quote": "16 filiali 87 collaboratori 40.076 clienti 1.959 soci"
+  },
+  {
+   "claim": "BCC Aquara ha 16 filiali, 87 collaboratori e 40.076 clienti.",
+   "url": "https://www.bccaquara.it/chi-siamo/",
+   "quote": "Siamo una banca vicino a te e a ogni risparmiatore"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/bcc-aquara/logo.png"
+}

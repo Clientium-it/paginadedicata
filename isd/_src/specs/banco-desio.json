@@ -1,0 +1,22 @@
+{
+ "slug": "banco-desio",
+ "company": "Banco Desio",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Banco Desio ha 275 filiali e clienti che gli danno fiducia da oltre 110 anni.",
+ "evidence": [
+  {
+   "claim": "Banco Desio ha 275 filiali e clienti che gli danno fiducia da oltre 110 anni.",
+   "url": "https://www.bancodesio.it/it/chi-siamo",
+   "quote": "275 Filiali"
+  },
+  {
+   "claim": "Banco Desio ha 275 filiali e clienti che gli danno fiducia da oltre 110 anni.",
+   "url": "https://www.bancodesio.it/it/chi-siamo",
+   "quote": "clienti che ci danno fiducia da oltre 110 anni"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/banco-desio/logo.png"
+}

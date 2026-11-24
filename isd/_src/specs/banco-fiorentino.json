@@ -1,0 +1,17 @@
+{
+ "slug": "banco-fiorentino",
+ "company": "Banco Fiorentino",
+ "full_name": "Davide Menetti",
+ "first": "Davide",
+ "cover_note": "Banco Fiorentino ha 28 sportelli dall'Alto Mugello alle colline del Chianti, da Firenze alla provincia di Pisa.",
+ "evidence": [
+  {
+   "claim": "Banco Fiorentino ha 28 sportelli dall'Alto Mugello alle colline del Chianti, da Firenze alla provincia di Pisa.",
+   "url": "https://www.bancofiorentino.it/page/default.asp?i_menuID=60756",
+   "quote": "La rete commerciale, costituita da 28 sportelli, si estende dall'Alto Mugello fino alle rinomate colline del Chianti, da Firenze alla provincia di Pisa"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/banco-fiorentino/logo.webp"
+}

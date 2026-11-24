@@ -1,0 +1,17 @@
+{
+ "slug": "compass",
+ "company": "Compass",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Compass è presente in tutte le regioni d'Italia con oltre 340 punti vendita.",
+ "evidence": [
+  {
+   "claim": "Compass è presente in tutte le regioni d'Italia con oltre 340 punti vendita.",
+   "url": "https://www.compass.it/filiali.html",
+   "quote": "siamo presenti in tutte le regioni d'Italia con oltre 340 punti vendita"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/compass/logo.webp"
+}

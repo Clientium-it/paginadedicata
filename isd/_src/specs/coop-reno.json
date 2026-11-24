@@ -1,0 +1,22 @@
+{
+ "slug": "coop-reno",
+ "company": "Coop Reno",
+ "full_name": "Luca N.",
+ "first": "Luca",
+ "cover_note": "Coop Reno ha 49 punti vendita tra Emilia Romagna e Veneto, 31 nella provincia di Bologna, più 5 stazioni di carburante.",
+ "evidence": [
+  {
+   "claim": "Coop Reno ha 49 punti vendita tra Emilia Romagna e Veneto, 31 nella provincia di Bologna, più 5 stazioni di carburante.",
+   "url": "https://www.coopreno.it/chi-siamo/",
+   "quote": "È presente nella regione Emilia Romagna e Veneto con 49 punti vendita, nelle provincie di Bologna (31) Ferrara (9) Ravenna (2) Modena (1) Rovigo (4) e Padova (2)."
+  },
+  {
+   "claim": "Coop Reno ha 49 punti vendita tra Emilia Romagna e Veneto, 31 nella provincia di Bologna, più 5 stazioni di carburante.",
+   "url": "https://www.coopreno.it/chi-siamo/",
+   "quote": "A questi si aggiungono 5 Stazioni di carburante sempre a marchio Coop Reno."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/coop-reno/logo.svg"
+}

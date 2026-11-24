@@ -1,0 +1,22 @@
+{
+ "slug": "banco-bpm",
+ "company": "Banco BPM",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Banco BPM ha oltre 1400 filiali su tutto il territorio italiano, 23 centri Corporate e 72 centri Imprese.",
+ "evidence": [
+  {
+   "claim": "Banco BPM ha oltre 1400 filiali su tutto il territorio italiano, 23 centri Corporate e 72 centri Imprese.",
+   "url": "https://gruppo.bancobpm.it/",
+   "quote": "+1400 Filiali su tutto il territorio italiano 23 Centri Corporate 2 Centri Large Corporate +150 Gestori Corporate 72 Centri Imprese"
+  },
+  {
+   "claim": "Banco BPM ha oltre 1400 filiali su tutto il territorio italiano, 23 centri Corporate e 72 centri Imprese.",
+   "url": "https://gruppo.bancobpm.it/",
+   "quote": "Dalla storia di due grandi istituti popolari è nata la terza Banca italiana."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/banco-bpm/logo.svg"
+}

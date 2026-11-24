@@ -1,0 +1,17 @@
+{
+ "slug": "ibl-banca",
+ "company": "IBL Banca",
+ "full_name": "Fabio Lampasona",
+ "first": "Fabio",
+ "cover_note": "IBL Banca opera con 51 filiali gestite da personale diretto e, con la rete di agenti, supera i 120 punti vendita in Italia.",
+ "evidence": [
+  {
+   "claim": "IBL Banca opera con 51 filiali gestite da personale diretto e, con la rete di agenti, supera i 120 punti vendita in Italia.",
+   "url": "https://www.iblbanca.it/ilgruppoiblbanca.html",
+   "quote": "IBL Banca è operativa attraverso 51 filiali, tutte gestite da personale diretto, alle quali si aggiunge la rete di agenti, arrivando così a oltre 120 punti vendita sul territorio nazionale."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/ibl-banca/logo.svg"
+}

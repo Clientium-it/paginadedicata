@@ -1,0 +1,22 @@
+{
+ "slug": "volksbank",
+ "company": "Volksbank",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Volksbank conta 70 filiali in Trentino Alto Adige e una presenza capillare in Veneto tra Vicenza, Treviso, Padova, Belluno e Venezia.",
+ "evidence": [
+  {
+   "claim": "Volksbank conta 70 filiali in Trentino Alto Adige e una presenza capillare in Veneto tra Vicenza, Treviso, Padova, Belluno e Venezia.",
+   "url": "https://www.volksbank.it/it/-/qualita-servizio-clienti-volksbank",
+   "quote": "La regione Trentino-Alto Adige rappresenta il mercato di origine di Volksbank e conta oggi 70 filiali, 5 Centri Corporate e 3 Centri Private"
+  },
+  {
+   "claim": "Volksbank conta 70 filiali in Trentino Alto Adige e una presenza capillare in Veneto tra Vicenza, Treviso, Padova, Belluno e Venezia.",
+   "url": "https://www.volksbank.it/it/-/qualita-servizio-clienti-volksbank",
+   "quote": "La presenza di Volksbank in Veneto è capillare e ben distribuita tra le province di Vicenza, Treviso, Padova, Belluno e Venezia."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/volksbank/logo.png"
+}

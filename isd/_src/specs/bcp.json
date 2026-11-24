@@ -1,0 +1,21 @@
+{
+ "slug": "bcp",
+ "company": "BCP",
+ "full_name": "",
+ "first": "",
+ "cover_note": "BCP ha sportelli in tutta la Campania con presenze in tutti i capoluoghi di provincia ed è nata nel 1888.",
+ "evidence": [
+  {
+   "claim": "BCP ha sportelli in tutta la Campania con presenze in tutti i capoluoghi di provincia ed è nata nel 1888.",
+   "url": "https://www.bcp.it/la-banca/chi-siamo/storia/",
+   "quote": "la rete degli sportelli della Banca di Credito Popolare si è gradatamente estesa su tutto il territorio Campano, con presenze in tutti capoluoghi di provincia"
+  },
+  {
+   "claim": "BCP ha sportelli in tutta la Campania con presenze in tutti i capoluoghi di provincia ed è nata nel 1888.",
+   "url": "https://www.bcp.it/la-banca/chi-siamo/storia/",
+   "quote": "La Banca di Credito Popolare nasce il 19 aprile 1888"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B"
+}

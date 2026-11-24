@@ -1,0 +1,21 @@
+{
+ "slug": "confidare",
+ "company": "Confidare",
+ "full_name": "Andrea Ricchiuti",
+ "first": "Andrea",
+ "cover_note": "Confidare ha sedi, filiali e punti credito in più regioni italiane e da oltre 50 anni sostiene chi fa impresa.",
+ "evidence": [
+  {
+   "claim": "Confidare ha sedi, filiali e punti credito in più regioni italiane e da oltre 50 anni sostiene chi fa impresa.",
+   "url": "https://www.confidare.it/",
+   "quote": "Siamo presenti con sedi, filiali e punti credito in più regioni italiane."
+  },
+  {
+   "claim": "Confidare ha sedi, filiali e punti credito in più regioni italiane e da oltre 50 anni sostiene chi fa impresa.",
+   "url": "https://www.confidare.it/",
+   "quote": "Da oltre 50 anni sosteniamo la crescita di chi fa impresa, con garanzie, credito e consulenza su misura."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B"
+}

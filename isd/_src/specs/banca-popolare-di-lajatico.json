@@ -1,0 +1,17 @@
+{
+ "slug": "banca-popolare-di-lajatico",
+ "company": "Banca Popolare di Lajatico",
+ "full_name": "Barbara Ciabatti",
+ "first": "Barbara",
+ "cover_note": "Banca Popolare di Lajatico ha 18 filiali e 7.000 soci, con una storia che parte dal 1884.",
+ "evidence": [
+  {
+   "claim": "Banca Popolare di Lajatico ha 18 filiali e 7.000 soci, con una storia che parte dal 1884.",
+   "url": "https://www.bplajatico.it/la-banca/rete-territoriale/",
+   "quote": "1884 anno di fondazione 142 anni 18 filiali 7.000 soci"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/banca-popolare-di-lajatico/logo.png"
+}

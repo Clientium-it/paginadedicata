@@ -1,0 +1,22 @@
+{
+ "slug": "automania",
+ "company": "Automania",
+ "full_name": "Davide Randazzo",
+ "first": "Davide",
+ "cover_note": "Automania dal 2014 è cresciuta nel noleggio auto senza conducente fino a presidiare aeroporti e centri cittadini in tutta Italia.",
+ "evidence": [
+  {
+   "claim": "Automania dal 2014 è cresciuta nel noleggio auto senza conducente fino a presidiare aeroporti e centri cittadini in tutta Italia.",
+   "url": "https://www.automaniasrl.com/chi-siamo-automania-soluzioni-di-noleggio/",
+   "quote": "Negli anni, Automania ha intrapreso un percorso di espansione graduale ma costante, arrivando a presidiare importanti aeroporti e centri cittadini in tutta Italia."
+  },
+  {
+   "claim": "Automania dal 2014 è cresciuta nel noleggio auto senza conducente fino a presidiare aeroporti e centri cittadini in tutta Italia.",
+   "url": "https://www.automaniasrl.com/chi-siamo-automania-soluzioni-di-noleggio/",
+   "quote": "Automania S.r.l nasce nel 2014 dalla visione lungimirante di un imprenditore siciliano che ha saputo cogliere il potenziale del noleggio auto senza conducente come settore in forte crescita."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/automania/logo.png"
+}

@@ -1,0 +1,21 @@
+{
+ "slug": "galdieri-rent",
+ "company": "Galdieri Rent",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Galdieri Rent ha 38 sedi in Italia tra sedi direzionali e stazioni di noleggio negli aeroporti e nelle principali stazioni ferroviarie.",
+ "evidence": [
+  {
+   "claim": "Galdieri Rent ha 38 sedi in Italia tra sedi direzionali e stazioni di noleggio negli aeroporti e nelle principali stazioni ferroviarie.",
+   "url": "https://www.galdierirent.it/sedi-direzionali",
+   "quote": "38 sedi in Italia"
+  },
+  {
+   "claim": "Galdieri Rent ha 38 sedi in Italia tra sedi direzionali e stazioni di noleggio negli aeroporti e nelle principali stazioni ferroviarie.",
+   "url": "https://www.galdierirent.it/sedi-direzionali",
+   "quote": "Sedi direzionali e stazioni di noleggio breve termine negli aeroporti e stazioni ferroviarie principali d'Italia."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B"
+}

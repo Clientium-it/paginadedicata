@@ -1,0 +1,17 @@
+{
+ "slug": "banca-veronese",
+ "company": "Banca Veronese",
+ "full_name": "Andrea Marchi",
+ "first": "Andrea",
+ "cover_note": "Banca Veronese ha 19 sportelli in provincia di Verona.",
+ "evidence": [
+  {
+   "claim": "Banca Veronese ha 19 sportelli in provincia di Verona.",
+   "url": "https://www.bancaveronese.it/template/default.asp?i_menuID=59199",
+   "quote": "19 sportelli in provincia di Verona per esserti sempre più vicino"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/banca-veronese/logo.png"
+}

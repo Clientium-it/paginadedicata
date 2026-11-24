@@ -1,0 +1,17 @@
+{
+ "slug": "sparkasse",
+ "company": "Sparkasse",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Sparkasse ha filiali e sportelli Self 24h in tutto il Nordest, in Emilia Romagna e Lombardia e anche a Monaco di Baviera.",
+ "evidence": [
+  {
+   "claim": "Sparkasse ha filiali e sportelli Self 24h in tutto il Nordest, in Emilia Romagna e Lombardia e anche a Monaco di Baviera.",
+   "url": "https://www.sparkasse.it/filiali/",
+   "quote": "Il Gruppo Sparkasse dispone di una vasta rete di filiali e sportelli Self 24h dislocati in tutto il Nordest dell'Italia, in Emilia-Romagna e in Lombardia, oltre che a Monaco di Baviera (D)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/sparkasse/logo.svg"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "banca-terre-venete",
+ "company": "Banca Terre Venete",
+ "full_name": "Eugenio Adamo",
+ "first": "Eugenio",
+ "cover_note": "Banca Terre Venete ha 56 filiali in 5 province del Veneto tra Vicenza, Treviso, Padova, Verona e Belluno.",
+ "evidence": [
+  {
+   "claim": "Banca Terre Venete ha 56 filiali in 5 province del Veneto tra Vicenza, Treviso, Padova, Verona e Belluno.",
+   "url": "https://www.bancaterrevenete.it/template/default.asp?i_menuID=63790",
+   "quote": "Banca delle Terre Venete opera con 56 filiali in 5 province del Veneto: Vicenza, Treviso, Padova, Verona e Belluno."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/banca-terre-venete/logo.webp"
+}

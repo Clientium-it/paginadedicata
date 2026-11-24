@@ -1,0 +1,17 @@
+{
+ "slug": "kruso-kapital",
+ "company": "Kruso Kapital",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Kruso Kapital ha sede a Milano e 16 filiali in Italia tra cui Torino, Genova, Napoli e Palermo, oltre a Grecia e Portogallo.",
+ "evidence": [
+  {
+   "claim": "Kruso Kapital ha sede a Milano e 16 filiali in Italia tra cui Torino, Genova, Napoli e Palermo, oltre a Grecia e Portogallo.",
+   "url": "https://www.krusokapital.com/kruso-kapital",
+   "quote": "Con sede principale a Milano, Kruso Kapital è presente in Italia con 16 filiali tra cui Asti, Brescia, Civitavecchia, Firenze, Genova, Livorno, Mestre, Napoli, Palermo, Parma, Pisa, Rimini, Roma, Sanremo, Torino, 2 filiali in Grecia ad Atene e a Il Pireo, e 17 in Portogallo."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/kruso-kapital/logo.png"
+}

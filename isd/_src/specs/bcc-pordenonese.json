@@ -1,0 +1,22 @@
+{
+ "slug": "bcc-pordenonese",
+ "company": "BCC Pordenonese",
+ "full_name": "",
+ "first": "",
+ "cover_note": "BCC Pordenonese ha 58 filiali nelle province di Pordenone, Udine, Treviso e Venezia ed è nata ad Azzano Decimo nel 1895.",
+ "evidence": [
+  {
+   "claim": "BCC Pordenonese ha 58 filiali nelle province di Pordenone, Udine, Treviso e Venezia ed è nata ad Azzano Decimo nel 1895.",
+   "url": "https://www.bccpm.it/template/default.asp?i_menuID=29685",
+   "quote": "Oggi BCC Pordenonese e Monsile, con 58 filiali operative nelle province di Pordenone, Udine, Treviso e Venezia"
+  },
+  {
+   "claim": "BCC Pordenonese ha 58 filiali nelle province di Pordenone, Udine, Treviso e Venezia ed è nata ad Azzano Decimo nel 1895.",
+   "url": "https://www.bccpm.it/template/default.asp?i_menuID=29685",
+   "quote": "Il 25 ottobre 1895 ad Azzano Decimo, venti soci fondatori con in testa don Domenico Fabrici, alla presenza del notaio Giacomo Ceparo, firmano l'atto costitutivo della Cassa Rurale di Prestiti S. Pietro Apostolo"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/bcc-pordenonese/logo.webp"
+}

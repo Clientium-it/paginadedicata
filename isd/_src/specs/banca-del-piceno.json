@@ -1,0 +1,22 @@
+{
+ "slug": "banca-del-piceno",
+ "company": "Banca del Piceno",
+ "full_name": "Gabriele Illuminati",
+ "first": "Gabriele",
+ "cover_note": "Banca del Piceno ha 28 sportelli tra Marche e Abruzzo in 82 comuni, 14 dei quali nelle aree interne.",
+ "evidence": [
+  {
+   "claim": "Banca del Piceno ha 28 sportelli tra Marche e Abruzzo in 82 comuni, 14 dei quali nelle aree interne.",
+   "url": "https://www.bancadelpiceno.bcc.it/template/default.asp?i_menuID=66589",
+   "quote": "presente sul territorio Marchigiano e Abruzzese presidiando 82 comuni, con 28 sportelli di cui 14 nelle aree interne"
+  },
+  {
+   "claim": "Banca del Piceno ha 28 sportelli tra Marche e Abruzzo in 82 comuni, 14 dei quali nelle aree interne.",
+   "url": "https://www.bancadelpiceno.bcc.it/template/default.asp?i_menuID=66589",
+   "quote": "con il sostegno dei nostri 6300 Soci e la collaborazione di circa 200 dipendenti"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/banca-del-piceno/logo.png"
+}

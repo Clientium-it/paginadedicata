@@ -1,0 +1,22 @@
+{
+ "slug": "piu-medical",
+ "company": "Più Medical",
+ "full_name": "Diego Besozzi",
+ "first": "Diego",
+ "cover_note": "Più Medical è presente in Italia con più di 55 parafarmacie a servizio e 180 a libero servizio.",
+ "evidence": [
+  {
+   "claim": "Più Medical è presente in Italia con più di 55 parafarmacie a servizio e 180 a libero servizio.",
+   "url": "https://www.piumedical.it/chi-siamo",
+   "quote": "Leader in territorio nazionale, l'azienda è presente con più di 55 parafarmacie a servizio e 180 parafarmacie a libero servizio."
+  },
+  {
+   "claim": "Più Medical è presente in Italia con più di 55 parafarmacie a servizio e 180 a libero servizio.",
+   "url": "https://www.piumedical.it/chi-siamo",
+   "quote": "G.S.M. Srl con l'insegna Più Medical Parafarmacia rappresenta l'evoluzione della parafarmacia in Italia."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/piu-medical/logo.svg"
+}

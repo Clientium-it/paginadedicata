@@ -1,0 +1,21 @@
+{
+ "slug": "bcc-veneta",
+ "company": "BCC Veneta",
+ "full_name": "Giammaria Amato",
+ "first": "Giammaria",
+ "cover_note": "BCC Veneta ha 93 filiali in tre aree territoriali tra Verona, Vicenza e Padova e opera in 252 comuni.",
+ "evidence": [
+  {
+   "claim": "BCC Veneta ha 93 filiali in tre aree territoriali tra Verona, Vicenza e Padova e opera in 252 comuni.",
+   "url": "https://www.bccveneta.it/page/default.asp?i_menuID=77276",
+   "quote": "con una rete di 93 Filiali distribuite in tre Aree Territoriali (Verona, Vicenza e Padova)"
+  },
+  {
+   "claim": "BCC Veneta ha 93 filiali in tre aree territoriali tra Verona, Vicenza e Padova e opera in 252 comuni.",
+   "url": "https://www.bccveneta.it/page/default.asp?i_menuID=77276",
+   "quote": "opera in 252 Comuni delle province venete di Verona, Vicenza, Padova, Venezia, Treviso, Rovigo e nelle confinanti province di Trento, Mantova e Brescia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B"
+}

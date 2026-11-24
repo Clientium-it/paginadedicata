@@ -1,0 +1,16 @@
+{
+ "slug": "santander-consumer",
+ "company": "Santander Consumer",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Santander Consumer ha 150 Punti Santander aperti al pubblico in Italia con 1.000 persone a disposizione.",
+ "evidence": [
+  {
+   "claim": "Santander Consumer ha 150 Punti Santander aperti al pubblico in Italia con 1.000 persone a disposizione.",
+   "url": "https://www.santanderconsumer.it/chi-siamo",
+   "quote": "1.000 sono le persone a tua disposizione nei 150 Punti Santander aperti al pubblico in Italia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B"
+}

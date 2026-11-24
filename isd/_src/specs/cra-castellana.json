@@ -1,0 +1,16 @@
+{
+ "slug": "cra-castellana",
+ "company": "CRA Castellana",
+ "full_name": "Antonio Seclì",
+ "first": "Antonio",
+ "cover_note": "CRA Castellana ha 15 sportelli tra Puglia e Basilicata con 112 dipendenti e 45.000 clienti.",
+ "evidence": [
+  {
+   "claim": "CRA Castellana ha 15 sportelli tra Puglia e Basilicata con 112 dipendenti e 45.000 clienti.",
+   "url": "https://www.cracastellana.it/template/default.asp?i_menuID=70546",
+   "quote": "15 sportelli in Puglia e Basilicata, 112 dipendenti, 4.200 soci, 45.000 clienti, 144 milioni di euro di patrimonio"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B"
+}

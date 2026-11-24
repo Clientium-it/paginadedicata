@@ -1,0 +1,16 @@
+{
+ "slug": "fineco",
+ "company": "Fineco",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Fineco ha oltre 400 Fineco Center in tutta Italia e più di 3.000 consulenti finanziari.",
+ "evidence": [
+  {
+   "claim": "Fineco ha oltre 400 Fineco Center in tutta Italia e più di 3.000 consulenti finanziari.",
+   "url": "https://it.finecobank.com/contattaci/",
+   "quote": "Con Fineco hai oltre 400 Fineco Center in tutta Italia e più di 3.000 consulenti finanziari pronti a rispondere alle tue domande."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B"
+}

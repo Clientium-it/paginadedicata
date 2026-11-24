@@ -1,0 +1,16 @@
+{
+ "slug": "banca-passadore",
+ "company": "Banca Passadore",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Banca Passadore è presente in otto regioni con una rete di 26 filiali e agenzie.",
+ "evidence": [
+  {
+   "claim": "Banca Passadore è presente in otto regioni con una rete di 26 filiali e agenzie.",
+   "url": "https://www.bancapassadore.it/it/filiali.html",
+   "quote": "Attualmente la Banca è presente in otto regioni con una rete di 26 Filiali e Agenzie"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B"
+}

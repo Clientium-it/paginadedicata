@@ -1,0 +1,17 @@
+{
+ "slug": "bcc-busto-garolfo",
+ "company": "BCC Busto Garolfo",
+ "full_name": "",
+ "first": "",
+ "cover_note": "BCC Busto Garolfo è nata nel 1897 e oggi ha 21 filiali tra la provincia di Varese e l'Altomilanese.",
+ "evidence": [
+  {
+   "claim": "BCC Busto Garolfo è nata nel 1897 e oggi ha 21 filiali tra la provincia di Varese e l'Altomilanese.",
+   "url": "https://www.bccbanca1897.it/news/dettaglio_news_div.asp?i_menuID=65457&hNewsID=193257",
+   "quote": "nato nel 1897 e oggi radicato tra la provincia di Varese e l'Altomilanese, con un totale di 21 filiali."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/bcc-busto-garolfo/logo.png"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "cassa-rurale-rivarolo",
+ "company": "Cassa Rurale Rivarolo",
+ "full_name": "Paolo Beccari",
+ "first": "Paolo",
+ "cover_note": "Cassa Rurale Rivarolo ha aperto nuovi sportelli dagli anni novanta ed è presente su tre province tra Mantova, Cremona e Parma.",
+ "evidence": [
+  {
+   "claim": "Cassa Rurale Rivarolo ha aperto nuovi sportelli dagli anni novanta ed è presente su tre province tra Mantova, Cremona e Parma.",
+   "url": "https://www.bccrivarolo.it/template/default.asp?i_menuID=68756",
+   "quote": "l'apertura di nuovi sportelli, che oggi consentono alla Cassa Rurale ed Artigiana di Rivarolo Mantovano la strategica presenza su tre diverse province (Mantova, Cremona e Parma)"
+  },
+  {
+   "claim": "Cassa Rurale Rivarolo ha aperto nuovi sportelli dagli anni novanta ed è presente su tre province tra Mantova, Cremona e Parma.",
+   "url": "https://www.bccrivarolo.it/template/default.asp?i_menuID=68756",
+   "quote": "Gli anni novanta segnano l'inizio dell'espansione territoriale con l'apertura di nuovi sportelli, che oggi consentono alla Cassa Rurale ed Artigiana di Rivarolo Mantovano la strategica presenza su tre diverse province (Mantova, Cremona e Parma)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B",
+ "logo": "../assets/leads/cassa-rurale-rivarolo/logo.png"
+}

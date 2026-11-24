@@ -1,0 +1,16 @@
+{
+ "slug": "credito-padano",
+ "company": "Credito Padano",
+ "full_name": "Oliviero Sabato",
+ "first": "Oliviero",
+ "cover_note": "Credito Padano ha 37 filiali in 6 province tra Cremona, Mantova, Parma, Piacenza, Verona e Brescia.",
+ "evidence": [
+  {
+   "claim": "Credito Padano ha 37 filiali in 6 province tra Cremona, Mantova, Parma, Piacenza, Verona e Brescia.",
+   "url": "https://www.creditopadano.it/news/dettaglio_news_div.asp?i_menuID=73145&hNewsID=128475",
+   "quote": "37 filiali operative in 6 provincie (Cremona, Mantova, Parma, Piacenza, Verona e Brescia)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B"
+}

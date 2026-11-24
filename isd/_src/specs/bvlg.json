@@ -1,0 +1,16 @@
+{
+ "slug": "bvlg",
+ "company": "BVLG",
+ "full_name": "",
+ "first": "",
+ "cover_note": "BVLG compie 70 anni con 23 filiali, 55 comuni di competenza territoriale e oltre 40 mila clienti.",
+ "evidence": [
+  {
+   "claim": "BVLG compie 70 anni con 23 filiali, 55 comuni di competenza territoriale e oltre 40 mila clienti.",
+   "url": "https://www.bvlg.it/page/default.asp?i_menuID=70195",
+   "quote": "BVLG compie 70 anni e rafforza la sua presenza sul territorio con oltre 40 mila clienti, 8 mila soci, 23 filiali e 55 comuni di competenza territoriale"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_arj_batch1_pages_request_2411.json)",
+ "case": "B"
+}
