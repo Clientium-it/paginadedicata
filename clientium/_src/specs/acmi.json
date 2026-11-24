@@ -1,0 +1,28 @@
+{
+ "slug": "acmi",
+ "company": "ACMI",
+ "first_name": "Pietro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "ACMI conta 930 persone, 300 milioni di fatturato e 8 stabilimenti, 7 in Italia e uno in Cina, al servizio di multinazionali e aziende nazionali. Qui trova come lavoriamo e cosa potremmo fare per ACMI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ACMI.",
+ "evidence": [
+  {
+   "claim": "ACMI conta 930 persone, 300 milioni di fatturato e 8 stabilimenti, 7 in Italia e uno in Cina, al servizio di multinazionali e aziende nazionali.",
+   "url": "https://www.acmispa.it/en/company/",
+   "quote": "It has 930 employees, a turnover of 300 million euros and 8 production plants, 7 of which are in Italy and one in China. || It has 930 employees, a turnover of 300 million euros and 8 production plants, 7 of which are in Italy and one in China. || the ideal partner for both large multinational groups and national companies looking for technology, reliability and innovation"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_fix_company_pages_request_2411.json)"
+}

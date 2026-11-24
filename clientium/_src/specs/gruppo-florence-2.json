@@ -1,0 +1,28 @@
+{
+ "slug": "gruppo-florence-2",
+ "company": "Gruppo Florence",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C18",
+ "level": 2,
+ "cover_note": "Gruppo Florence è il primo polo manifatturiero integrato in Italia che segue tutta la filiera dallo sviluppo prodotto alla produzione per il lusso internazionale. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Florence.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Florence.",
+ "evidence": [
+  {
+   "claim": "Gruppo Florence è il primo polo manifatturiero integrato in Italia che segue tutta la filiera dallo sviluppo prodotto alla produzione per il lusso internazionale.",
+   "url": "https://www.gruppoflorence.it/en/",
+   "quote": "Gruppo Florence is the first integrated manufacturing hub in Italy to embrace the entire value chain, from product development to production for the international luxury sector."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_fix_company_pages_request_2411.json)"
+}

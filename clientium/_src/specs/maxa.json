@@ -1,0 +1,28 @@
+{
+ "slug": "maxa",
+ "company": "Maxa",
+ "first_name": "Simone",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "Maxa produce pompe di calore per il mercato residenziale e industriale nella sede di Arcole, con 7800 mq dedicati alla produzione. Qui trova come lavoriamo e cosa potremmo fare per Maxa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Maxa.",
+ "evidence": [
+  {
+   "claim": "Maxa produce pompe di calore per il mercato residenziale e industriale nella sede di Arcole, con 7800 mq dedicati alla produzione.",
+   "url": "https://www.maxa.it/azienda/",
+   "quote": "fonda quella che ad oggi è tra le prime 5 imprese di produzione di pompe di calore sul territorio italiano, e tra le prime 15 nel settore della climatizzazione domestica || La nostra sede di Arcole si estende su una superfice di 42.000 mq, ospita oltre agli uffici 7000 mq di magazzino di stoccaggio per i prodotti finiti e ricambi e 7800 mq di area destinata alla nostra produzione || sia per il mercato residenziale che industriale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_fix_company_pages_request_2411.json)"
+}

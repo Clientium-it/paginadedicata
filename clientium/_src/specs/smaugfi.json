@@ -1,0 +1,28 @@
+{
+ "slug": "smaugfi",
+ "company": "Smaugfi",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C19",
+ "level": 2,
+ "cover_note": "Smaugfi affianca da decenni piccoli e grandi clienti, tra cui molti brand della moda e del lusso, nell'analisi e soluzione dei problemi IT. Qui trova come lavoriamo e cosa potremmo fare per Smaugfi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Smaugfi.",
+ "evidence": [
+  {
+   "claim": "Smaugfi affianca da decenni piccoli e grandi clienti, tra cui molti brand della moda e del lusso, nell'analisi e soluzione dei problemi IT.",
+   "url": "https://www.smaugfi.it/chi-siamo/",
+   "quote": "fornire ai propri clienti la più ampia offerta possibile nell'analisi e soluzione delle problematiche IT || affianca ormai da decenni piccoli e grandi clienti || numerosi brand della moda e del lusso"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (rec_fix_company_pages_request_2411.json)"
+}
