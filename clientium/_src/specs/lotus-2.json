@@ -1,0 +1,28 @@
+{
+ "slug": "lotus-2",
+ "company": "Lotus",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lotus produce dal 1985 cucine professionali per trattorie, ristoranti, hotel e centri cottura. Qui trova come lavoriamo e cosa potremmo fare per Lotus.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lotus.",
+ "evidence": [
+  {
+   "claim": "Lotus produce dal 1985 cucine professionali per trattorie, ristoranti, hotel e centri cottura.",
+   "url": "https://www.lotuscookers.it/",
+   "quote": "Dal 1985 LOTUS produce cucine professionali per piccoli e grandi ambienti di ristorazione, sistemi caratterizzati da un'ampia funzionalità e dall'estrema qualità dei materiali impiegati. || mettendo a punto innovativi sistemi di cottura per gli ambienti cucina di: trattorie, locali, ristoranti, hotel, punti e centri cottura."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

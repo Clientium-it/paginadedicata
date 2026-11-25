@@ -1,0 +1,28 @@
+{
+ "slug": "romaco-2",
+ "company": "Romaco",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Romaco realizza macchine per granulazione, compressione, riempimento capsule, blister, polveri e liquidi e astucciatrici fino al fine linea. Qui trova come lavoriamo e cosa potremmo fare per Romaco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Romaco.",
+ "evidence": [
+  {
+   "claim": "Romaco realizza macchine per granulazione, compressione, riempimento capsule, blister, polveri e liquidi e astucciatrici fino al fine linea.",
+   "url": "https://www.romaco.com/",
+   "quote": "Granulation Tableting Capsule Filling Tablet Coating Blister Strips, Pouches & Rigid Tubes Powder & Liquid Filling Cartoner & End-of-Line"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

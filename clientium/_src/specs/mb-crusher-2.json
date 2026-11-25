@@ -1,0 +1,28 @@
+{
+ "slug": "mb-crusher-2",
+ "company": "MB Crusher",
+ "first_name": "Patricia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MB Crusher da oltre 20 anni progetta e produce attrezzature per macchine operatrici usate in demolizioni, cave e riciclo, con 9 filiali all'estero. Qui trova come lavoriamo e cosa potremmo fare per MB Crusher.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MB Crusher.",
+ "evidence": [
+  {
+   "claim": "MB Crusher da oltre 20 anni progetta e produce attrezzature per macchine operatrici usate in demolizioni, cave e riciclo, con 9 filiali all'estero.",
+   "url": "https://www.mbcrusher.com/us/us/company",
+   "quote": "For over 20 years MB CRUSHER has been designing and manufacturing attachments for heavy equipment regardless of size. || There are 9 subsidiaries abroad that support the headquarters to promote and distribute the products to all continents. || DEMOLITIONS ROAD WORKS QUARRIES AND MINES TUNNELS AND ENCLOSED SPACES RECYCLING"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

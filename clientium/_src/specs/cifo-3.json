@@ -1,0 +1,28 @@
+{
+ "slug": "cifo-3",
+ "company": "Cifo",
+ "first_name": "Rossana",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cifo dal 1965 produce concimi e formulati per la difesa per giardinaggio e agricoltura, con stabilimento e sede a San Giorgio di Piano. Qui trova come lavoriamo e cosa potremmo fare per Cifo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cifo.",
+ "evidence": [
+  {
+   "claim": "Cifo dal 1965 produce concimi e formulati per la difesa per giardinaggio e agricoltura, con stabilimento e sede a San Giorgio di Piano.",
+   "url": "https://www.cifo.it/azienda/",
+   "quote": "Dal 1965 Cifo produce e commercializza concimi e formulati per la difesa per il settore Giardinaggio e Agricoltura, distribuendo i prodotti in Italia e all’estero. || Lo stabilimento e la sede dell’azienda sono a S. Giorgio di Piano alle porte di Bologna."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

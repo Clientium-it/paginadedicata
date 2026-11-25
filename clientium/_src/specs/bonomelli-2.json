@@ -1,0 +1,28 @@
+{
+ "slug": "bonomelli-2",
+ "company": "Bonomelli",
+ "first_name": "Gianmaria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bonomelli nasce nel 1939 vicino a Foggia lavorando la camomilla e ha poi spostato l'attività a Dolzago, vicino a Lecco. Qui trova come lavoriamo e cosa potremmo fare per Bonomelli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bonomelli.",
+ "evidence": [
+  {
+   "claim": "Bonomelli nasce nel 1939 vicino a Foggia lavorando la camomilla e ha poi spostato l'attività a Dolzago, vicino a Lecco.",
+   "url": "https://www.bonomelli.it/it/dal-1908/storia/",
+   "quote": "Luigi Amedeo Bonomelli nel 1939 decide di avviare, nei dintorni di Foggia, uno stabilimento di lavorazione delle materie prime con una forte specializzazione nella camomilla. || decide di spostare l’attività a Dolzago, nei dintorni di Lecco, dove viene creato uno stabilimento di confezionamento all’avanguardia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

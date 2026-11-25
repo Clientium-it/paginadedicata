@@ -1,0 +1,28 @@
+{
+ "slug": "tecnau-3",
+ "company": "Tecnau",
+ "first_name": "Francis",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecnau sviluppa dal 1988 automazioni di finitura per la stampa digitale, nel 2023 ha acquisito Sitma e ha un centro demo a North Andover. Qui trova come lavoriamo e cosa potremmo fare per Tecnau.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecnau.",
+ "evidence": [
+  {
+   "claim": "Tecnau sviluppa dal 1988 automazioni di finitura per la stampa digitale, nel 2023 ha acquisito Sitma e ha un centro demo a North Andover.",
+   "url": "https://tecnau.com/about-us",
+   "quote": "Since 1988, Tecnau has been laser-focused on automation solutions. We offer a complete product portfolio dedicated to paper handling, monitoring, processing and finishing for the digital printing industry. In 2023, Tecnau acquired Sitma, the leader in packaging, e-commerce and e-logistics solutions. || Tecnau also opened a state-of-the-art demonstration center in North Andover, MA, featuring its leading feeding and finishing solutions for continuous and sheet-fed printing."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

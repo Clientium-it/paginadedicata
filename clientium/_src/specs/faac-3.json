@@ -1,0 +1,28 @@
+{
+ "slug": "faac-3",
+ "company": "FAAC",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FAAC dal 1965 realizza automazioni per cancelli e anche ingressi automatici, tornelli, barriere, dissuasori e controllo accessi per aeroporti. Qui trova come lavoriamo e cosa potremmo fare per FAAC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FAAC.",
+ "evidence": [
+  {
+   "claim": "FAAC dal 1965 realizza automazioni per cancelli e anche ingressi automatici, tornelli, barriere, dissuasori e controllo accessi per aeroporti.",
+   "url": "https://www.faac.it/chi-siamo",
+   "quote": "Fondata nel 1965 , FAAC ( Fabbrica Automatismi Apertura Cancelli ) è diventata subito un simbolo di innovazione e sinonimo di automazione per cancelli in tutto il mondo. || Aeroporti Ingressi automatici, Tornelli, Dissuasori di traffico e sicurezza, Barriere automatiche, Porte ad alta sicurezza, Bussole, Simply Connect, Controllo accessi pedonale e veicolare. || Aeroporti Ingressi automatici, Tornelli, Dissuasori di traffico e sicurezza, Barriere automatiche, Porte ad alta sicurezza, Bussole, Simply Connect, Controllo accessi pedonale e veicolare."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

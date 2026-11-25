@@ -1,0 +1,28 @@
+{
+ "slug": "cmg-2",
+ "company": "CMG",
+ "first_name": "Gloria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CMG progetta e produce granulatori e trituratori per la plastica, con oltre 30.000 unità installate tra Europa, America, Medio Oriente e Asia. Qui trova come lavoriamo e cosa potremmo fare per CMG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CMG.",
+ "evidence": [
+  {
+   "claim": "CMG progetta e produce granulatori e trituratori per la plastica, con oltre 30.000 unità installate tra Europa, America, Medio Oriente e Asia.",
+   "url": "https://www.cmg-granulators.com/",
+   "quote": "Progettiamo e produciamo soluzioni per la riduzione dimensionale, tra cui granulatori, trituratori monoalbero, sistemi di alimentazione integrati, sistemi di evacuazione e trasporto del rimacinato e separatori di polveri. Con oltre 30.000 unità installate presso clienti in Europa, America, Medio Oriente e Asia || Con sede, stabilimenti e centro tecnologico in Italia e la più grande rete di distribuzione mondiale nell'industria della plastica, CMG è attiva in tutto il mondo con centri di service and sales e competenze localizzate. || molti costruttori di macchinari per la trasformazione delle materie plastiche si sono affidati a CMG per la riduzione dimensionale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

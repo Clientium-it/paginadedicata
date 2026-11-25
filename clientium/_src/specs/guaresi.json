@@ -1,0 +1,28 @@
+{
+ "slug": "guaresi",
+ "company": "Guaresi",
+ "first_name": "Marta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Guaresi a Pilastri ha 30.000 mq di stabilimenti con carpenteria, assemblaggio, revisione di selezionatrici ottiche e un magazzino di oltre 10.000 ricambi. Qui trova come lavoriamo e cosa potremmo fare per Guaresi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Guaresi.",
+ "evidence": [
+  {
+   "claim": "Guaresi a Pilastri ha 30.000 mq di stabilimenti con carpenteria, assemblaggio, revisione di selezionatrici ottiche e un magazzino di oltre 10.000 ricambi.",
+   "url": "https://www.guaresi.com/it/chi-siamo",
+   "quote": "Nei 30.000 mq degli stabilimenti di Pilastri trovano sede la carpenteria, l'assemblaggio, il reparto di revisione delle selezionatrici opto-elettroniche, il centro ricambi, gli uffici commerciali, il Centro Assistenza e la Ricerca e Sviluppo. || un magazzino ricambi con oltre 10.000 articoli, tutti pronti per la spedizione immediata. Qualunque pezzo serva, arriverà subito, in tutto il mondo."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

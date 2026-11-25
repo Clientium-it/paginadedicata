@@ -1,0 +1,28 @@
+{
+ "slug": "star-su",
+ "company": "Star SU",
+ "first_name": "Graziano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Star SU produce da oltre 70 anni utensili per il taglio ingranaggi per automotive, aerospace, eolico e nautica, con sede a Bentivoglio. Qui trova come lavoriamo e cosa potremmo fare per Star SU.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Star SU.",
+ "evidence": [
+  {
+   "claim": "Star SU produce da oltre 70 anni utensili per il taglio ingranaggi per automotive, aerospace, eolico e nautica, con sede a Bentivoglio.",
+   "url": "https://www.star-su.eu/",
+   "quote": "We have over 70 years of experience in the manufacturing of quality gear cutting tools . From hobs to master gears, we offer a comprehensive range of cutting tools around the world. || HQ: Star SU Europe S.r.l. Via Saliceto, 15 - 40010 - Bentivoglio (BO) || AUTOMOTIVE AEROSPACE GEAR TOOLS PUMPS AND COMPRESSOR JOBSHOP MARINE APPLICATIONS BALL AND EXTRUSION SCREW INDUSTRIAL APPLICATION WIND POWER"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

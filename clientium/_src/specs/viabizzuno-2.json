@@ -1,0 +1,28 @@
+{
+ "slug": "viabizzuno-2",
+ "company": "Viabizzuno",
+ "first_name": "Sabrina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Viabizzuno dialoga con i maestri dell'architettura e con giovani studi di progettazione di tutto il mondo con sede a Bentivoglio. Qui trova come lavoriamo e cosa potremmo fare per Viabizzuno.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Viabizzuno.",
+ "evidence": [
+  {
+   "claim": "Viabizzuno dialoga con i maestri dell'architettura e con giovani studi di progettazione di tutto il mondo con sede a Bentivoglio.",
+   "url": "https://www.viabizzuno.com/it/chi-siamo",
+   "quote": "dialoghiamo con i maestri dell’architettura e con i brillanti e giovani studi di progettazione di tutto il mondo con la stessa passione e dedizione. || Viabizzuno S.p.A. - società con unico socio via romagnoli 10, 40010 bentivoglio (bo), italia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

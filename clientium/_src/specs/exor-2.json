@@ -1,0 +1,28 @@
+{
+ "slug": "exor-2",
+ "company": "Exor",
+ "first_name": "Lorenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Exor ha sede a San Giovanni Lupatoto e sedi in America, India, Germania e Oceania, al servizio dei costruttori di macchine e delle fabbriche. Qui trova come lavoriamo e cosa potremmo fare per Exor.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Exor.",
+ "evidence": [
+  {
+   "claim": "Exor ha sede a San Giovanni Lupatoto e sedi in America, India, Germania e Oceania, al servizio dei costruttori di macchine e delle fabbriche.",
+   "url": "https://www.exorint.com/",
+   "quote": "Exor International S.p.A. - via Monte Fiorino 13, 37057 - San Giovanni Lupatoto (Verona) - Italia || Contact EXOR International Contact EXOR America Contact EXOR India Contact EXOR Germany Contact EXOR Oceania || a confident presence ready to bridge the gap between the complex aspirations of machine builders and the practical necessities of factory operations"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

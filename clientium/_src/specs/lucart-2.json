@@ -1,0 +1,28 @@
+{
+ "slug": "lucart-2",
+ "company": "Lucart",
+ "first_name": "Christian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lucart produce carta tissue e la trasforma in prodotto finito per il mercato Consumer e Away from Home, con una società anche in Francia. Qui trova come lavoriamo e cosa potremmo fare per Lucart.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lucart.",
+ "evidence": [
+  {
+   "claim": "Lucart produce carta tissue e la trasforma in prodotto finito per il mercato Consumer e Away from Home, con una società anche in Francia.",
+   "url": "https://www.lucartgroup.com/gruppo/la-nostra-storia/",
+   "quote": "progettare un sito completamente integrato dedicato al mercato delle carte tissue, dalla produzione della carta alla trasformazione in prodotto finito sia per il mercato Consumer sia per quello Away from Home, con una moderna cartotecnica || viene costituita Cartiera Lucchese France. Si tratta di una società commerciale che, oltre a gestire i clienti già acquisiti, ha il compito di preparare il terreno per produrre carta anche oltralpe. || sia per il mercato Consumer sia per quello Away from Home"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

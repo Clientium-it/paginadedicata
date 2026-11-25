@@ -1,0 +1,28 @@
+{
+ "slug": "galletti-2",
+ "company": "Galletti",
+ "first_name": "Gennaro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Galletti ha superato i 100 anni, lavora a Bentivoglio dal 1982 e oggi conta oltre 250 persone in uno stabilimento di 24.000 mq. Qui trova come lavoriamo e cosa potremmo fare per Galletti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Galletti.",
+ "evidence": [
+  {
+   "claim": "Galletti ha superato i 100 anni, lavora a Bentivoglio dal 1982 e oggi conta oltre 250 persone in uno stabilimento di 24.000 mq.",
+   "url": "https://www.galletti.com/azienda/storia/",
+   "quote": "Con uno stabilimento di 24.000 mq e con una squadra di oltre 250 persone, l'azienda supera il traguardo dei 100 anni || Nel 1982 si trasferisce a Bentivoglio, in uno stabile di 9000 mq, e dà vita a un nuovo capitolo della sua storia."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "sergio-rossi-5",
+ "company": "Sergio Rossi",
+ "first_name": "Xavier",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sergio Rossi da San Mauro Pascoli propone 146 modelli tra décolleté, slingback, sandali, mocassini, sneakers, stivali e scarpe da sposa. Qui trova come lavoriamo e cosa potremmo fare per Sergio Rossi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sergio Rossi.",
+ "evidence": [
+  {
+   "claim": "Sergio Rossi da San Mauro Pascoli propone 146 modelli tra décolleté, slingback, sandali, mocassini, sneakers, stivali e scarpe da sposa.",
+   "url": "https://www.sergiorossi.com/en-eu",
+   "quote": "Pumps 42 Slingbacks 16 Sandals 20 Ballet Flats 9 Loafers & Slippers 9 Sneakers 9 Ankle Boots & Booties 29 Boots 8 Bridal & Ceremony Shoes 7 View All 146 || San Mauro Pascoli (FC), Via Stradone, 600/602 (47030)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "firbimatic-2",
+ "company": "Firbimatic",
+ "first_name": "Giancarlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Firbimatic realizza impianti speciali e su misura per il lavaggio dei metalli, a solvente e ad acqua, per meccanica, automotive, medicale, difesa e aerospaziale. Qui trova come lavoriamo e cosa potremmo fare per Firbimatic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Firbimatic.",
+ "evidence": [
+  {
+   "claim": "Firbimatic realizza impianti speciali e su misura per il lavaggio dei metalli, a solvente e ad acqua, per meccanica, automotive, medicale, difesa e aerospaziale.",
+   "url": "https://www.firbimatic.com/it/azienda",
+   "quote": "La grande forza dell’azienda è l’esecuzione di impianti speciali e personalizzati , sia a solvente che ad acqua e detergente, nonché la produzione di una gamma standard, adatta alle esigenze dei settori più diversi dell’ industria meccanica , automotive, medicale , difesa e aerospaziale . || Le macchine per lavaggio metalli prodotte da Firbimatic vengono ampiamente utilizzate dalle aziende manifatturiere , automotive , aerospaziali , medicali e di meccanica di precisione"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

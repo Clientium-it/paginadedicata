@@ -1,0 +1,28 @@
+{
+ "slug": "cenacchi-international",
+ "company": "Cenacchi International",
+ "first_name": "Luciano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cenacchi International produce e installa arredi di lusso per negozi, showroom, uffici, hotel e abitazioni in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Cenacchi International.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cenacchi International.",
+ "evidence": [
+  {
+   "claim": "Cenacchi International produce e installa arredi di lusso per negozi, showroom, uffici, hotel e abitazioni in tutto il mondo.",
+   "url": "https://cenacchiinternational.it/",
+   "quote": "CENACCHI INTERNATIONAL SRL IS SPECIALIZED IN THE PRODUCTION AND INSTALLATION OF LUXURY FURNISHINGS FOR STORES, SHOWROOMS, OFFICES, HOTELS AND PRESTIGIOUS HOMES WORLDWIDE. || CENACCHI INTERNATIONAL SRL IS SPECIALIZED IN THE PRODUCTION AND INSTALLATION OF LUXURY FURNISHINGS FOR STORES, SHOWROOMS, OFFICES, HOTELS AND PRESTIGIOUS HOMES WORLDWIDE."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

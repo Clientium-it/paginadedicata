@@ -1,0 +1,28 @@
+{
+ "slug": "beautynova-3",
+ "company": "Beautynova",
+ "first_name": "Rishabh",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Beautynova ha 10 marchi di prodotti professionali per capelli venduti in oltre 70.000 saloni nel mondo e 380 persone in 15 sedi. Qui trova come lavoriamo e cosa potremmo fare per Beautynova.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Beautynova.",
+ "evidence": [
+  {
+   "claim": "Beautynova ha 10 marchi di prodotti professionali per capelli venduti in oltre 70.000 saloni nel mondo e 380 persone in 15 sedi.",
+   "url": "https://www.beautynova.com/about-us/",
+   "quote": "10 Brands of high performing professional haircare products sold in more than 70.000 Salons worldwide || 380 Fully committed people working in our 15 offices, warehouses and factories worldwide || We serve professionals and consumers thanks to an open minded, entrepreneurial and committed team."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

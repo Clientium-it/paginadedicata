@@ -1,0 +1,28 @@
+{
+ "slug": "marchi-industriale",
+ "company": "Marchi Industriale",
+ "first_name": "Alex",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Marchi Industriale ha lo stabilimento produttivo a Marano Veneziano, in un gruppo con sede anche a Firenze. Qui trova come lavoriamo e cosa potremmo fare per Marchi Industriale.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Marchi Industriale.",
+ "evidence": [
+  {
+   "claim": "Marchi Industriale ha lo stabilimento produttivo a Marano Veneziano, in un gruppo con sede anche a Firenze.",
+   "url": "https://www.marchi-industriale.it/",
+   "quote": "Il Gruppo impiega oggi 117 dipendenti, tra lo stabilimento produttivo di Marchi Industriale a Marano Veneziano (Venezia) e la sede di Firenze. || Il Gruppo impiega oggi 117 dipendenti, tra lo stabilimento produttivo di Marchi Industriale a Marano Veneziano (Venezia) e la sede di Firenze."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

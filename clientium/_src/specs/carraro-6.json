@@ -1,0 +1,28 @@
+{
+ "slug": "carraro-6",
+ "company": "Carraro",
+ "first_name": "Tomaso",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Carraro produce sistemi di trasmissione per trattori e veicoli off highway, con sede a Campodarsego e stabilimenti anche in India e Cina. Qui trova come lavoriamo e cosa potremmo fare per Carraro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Carraro.",
+ "evidence": [
+  {
+   "claim": "Carraro produce sistemi di trasmissione per trattori e veicoli off highway, con sede a Campodarsego e stabilimenti anche in India e Cina.",
+   "url": "https://www.carraro.com/it",
+   "quote": "Produciamo sistemi di trasmissione per trattori e veicoli off-highway, siamo i partner di riferimento per i più importanti costruttori di macchine agricole e movimento terra. || Campodarsego (sede centrale) SIAP Plant Carraro Agritalia – Plant & R&D Center Driveservice – Spare Parts Logistic Hub Carraro India – Plant 1, Plant 2, R&D Center Carraro China – Plant || siamo i partner di riferimento per i più importanti costruttori di macchine agricole e movimento terra"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "biolchim-2",
+ "company": "Biolchim",
+ "first_name": "Yana",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Biolchim lavora dal 1972 su fertilizzanti speciali e biostimolanti, partita da Medicina e oggi con filiali in Spagna, Germania, Brasile, India e Australia. Qui trova come lavoriamo e cosa potremmo fare per Biolchim.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Biolchim.",
+ "evidence": [
+  {
+   "claim": "Biolchim lavora dal 1972 su fertilizzanti speciali e biostimolanti, partita da Medicina e oggi con filiali in Spagna, Germania, Brasile, India e Australia.",
+   "url": "https://www.biolchim.com/chi-siamo",
+   "quote": "La storia di Biolchim affonda le sue radici sino al 1972, quando l’azienda ha iniziato il suo straordinario percorso nel settore dei fertilizzanti speciali e dei biostimolanti. Fondata nella piccola città di Medicina (BO) || Le nostre filiali Biolchim Spagna, SLU Biolchim Deutschland GmbH Biolchim do Brasil Imp. e Com. Ltda. Biolchim Hungary Kft. Biolchim Polonia Biolchim Cina Biolchim Nuova Zelanda Biolchim Australia Biolchim India Private Limited"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

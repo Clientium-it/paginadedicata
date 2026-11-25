@@ -1,0 +1,28 @@
+{
+ "slug": "roverplastik-2",
+ "company": "Roverplastik",
+ "first_name": "Veronica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Roverplastik in 60 anni ha sviluppato sistemi per il comfort abitativo, dalla tapparella al foro finestra, che si integrano in porte e finestre. Qui trova come lavoriamo e cosa potremmo fare per Roverplastik.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Roverplastik.",
+ "evidence": [
+  {
+   "claim": "Roverplastik in 60 anni ha sviluppato sistemi per il comfort abitativo, dalla tapparella al foro finestra, che si integrano in porte e finestre.",
+   "url": "https://www.roverplastik.it/chi-siamo/",
+   "quote": "Roverplastik , in 60 anni di attività, ampliando l’offerta di prodotti, ha sviluppato numerose competenze accomunate da un unico obiettivo: realizzare soluzioni per il comfort abitativo . Dalla tapparella al foro finestra sono così nati articoli tecnici e sistemi che si integrano all’interno di porte e finestre realizzate dal serramentista. || ROVERPLASTIK S.p.a. Zona Industriale, 10 38060 – Volano (Trento)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

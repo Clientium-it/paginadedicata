@@ -1,0 +1,28 @@
+{
+ "slug": "coccinelle-4",
+ "company": "Coccinelle",
+ "first_name": "Nouzha",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Coccinelle vende borse e piccola pelletteria da donna anche attraverso il proprio negozio online. Qui trova come lavoriamo e cosa potremmo fare per Coccinelle.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Coccinelle.",
+ "evidence": [
+  {
+   "claim": "Coccinelle vende borse e piccola pelletteria da donna anche attraverso il proprio negozio online.",
+   "url": "https://www.coccinelle.com/it_it/",
+   "quote": "Coccinelle Online Store: Borse e Piccola Pelletteria da Donna"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

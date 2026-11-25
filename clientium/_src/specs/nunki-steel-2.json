@@ -1,0 +1,28 @@
+{
+ "slug": "nunki-steel-2",
+ "company": "Nunki Steel",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nunki Steel produce a San Giorgio di Nogaro 150.000 tonnellate l'anno di lingotti legati, inox e duplex per oil and gas, nucleare e navale. Qui trova come lavoriamo e cosa potremmo fare per Nunki Steel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nunki Steel.",
+ "evidence": [
+  {
+   "claim": "Nunki Steel produce a San Giorgio di Nogaro 150.000 tonnellate l'anno di lingotti legati, inox e duplex per oil and gas, nucleare e navale.",
+   "url": "https://www.nunkisteel.it/chi-siamo/",
+   "quote": "Grazie a una capacità produttiva annua di 150.000 tonnellate, realizziamo lingotti medio-basso legati, inox e duplex con un range di colata flessibile || Headquarter e produzione sono situati a San Giorgio di Nogaro (Udine), nella zona di “Aussa Corno”, polo industriale di primaria importanza nel tessuto economico del Nord Est Italiano. || OIL & GAS POWER GEN SHIPBUILDING MECHANICAL ENGINEERING NUCLEAR PETROCHEMICAL"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

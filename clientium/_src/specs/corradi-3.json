@@ -1,0 +1,28 @@
+{
+ "slug": "corradi-3",
+ "company": "Corradi",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Corradi progetta e realizza soluzioni per l'arredamento d'esterno dal 1978 con un HQ a Bologna di 70.000 mq tra produzione, showroom e uffici. Qui trova come lavoriamo e cosa potremmo fare per Corradi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Corradi.",
+ "evidence": [
+  {
+   "claim": "Corradi progetta e realizza soluzioni per l'arredamento d'esterno dal 1978 con un HQ a Bologna di 70.000 mq tra produzione, showroom e uffici.",
+   "url": "https://www.corradi.eu/chi-siamo",
+   "quote": "E Corradi lo fa sin dal 1978, progettando e realizzando soluzioni per l’ arredamento d’esterno || 2023 Il Corradi HQ di Bologna aggiunge due nuovi spazi che portano a 70.000 mq lo spazio complessivo, tra area produttiva, showroom e uffici."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

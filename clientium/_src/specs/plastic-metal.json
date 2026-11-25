@@ -1,0 +1,28 @@
+{
+ "slug": "plastic-metal",
+ "company": "Plastic Metal",
+ "first_name": "Martina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Plastic Metal produce presse a iniezione per termoplastici da 50 a 3200 tonnellate ed è presente dall'Europa agli Stati Uniti fino al Medio Oriente. Qui trova come lavoriamo e cosa potremmo fare per Plastic Metal.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Plastic Metal.",
+ "evidence": [
+  {
+   "claim": "Plastic Metal produce presse a iniezione per termoplastici da 50 a 3200 tonnellate ed è presente dall'Europa agli Stati Uniti fino al Medio Oriente.",
+   "url": "https://plasticmetal.it/azienda/npm-group/",
+   "quote": "Produzione di presse a iniezione per lo stampaggio dei termoplastici, con sistema di chiusura a doppia ginocchiera e forza di chiusura da 50 a 3200 t e sistema di chiusura a due piani da 610 a 2120 tonnellate. || Plastic Metal è presente in quasi tutte le regioni italiane e nei principali paesi stranieri, dall’Europa agli Stati Uniti, dall’America Latina al Medio Oriente."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

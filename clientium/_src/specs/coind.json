@@ -1,0 +1,28 @@
+{
+ "slug": "coind",
+ "company": "Coind",
+ "first_name": "Kristina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Coind produce circa il 50% del caffè a marchio del distributore in Italia e ha un nuovo magazzino di 10.000 mq a Castel Maggiore. Qui trova come lavoriamo e cosa potremmo fare per Coind.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Coind.",
+ "evidence": [
+  {
+   "claim": "Coind produce circa il 50% del caffè a marchio del distributore in Italia e ha un nuovo magazzino di 10.000 mq a Castel Maggiore.",
+   "url": "https://www.coind.it/it/storia",
+   "quote": "Produce oggi circa il 50% del caffè a marchio del distributore in Italia nella Distribuzione Moderna , ed è attiva in tutti i principali segmenti del mercato. || Completamento delle opere ed entrata in funzione del nuovo magazzino logistico di 10.000 Mq di proprietà Coind, adiacente al sito di Castel Maggiore."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "laica",
+ "company": "Laica",
+ "first_name": "Federica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Laica da oltre 50 anni produce filtri per l'acqua e piccoli elettrodomestici, con mercati aperti in Germania, Hong Kong, Sud America e Africa. Qui trova come lavoriamo e cosa potremmo fare per Laica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Laica.",
+ "evidence": [
+  {
+   "claim": "Laica da oltre 50 anni produce filtri per l'acqua e piccoli elettrodomestici, con mercati aperti in Germania, Hong Kong, Sud America e Africa.",
+   "url": "https://www.laica.com/laica-experience/",
+   "quote": "LAICA is an Italian company with more than 50 years of history as a leader in the production of domestic water filter systems and small appliances for the kitchen, and personal health and well-being. || LAICA expanded internationally during the 1990s, attending global trade shows and opening new markets in Germany, Hong Kong, South America, and Africa."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

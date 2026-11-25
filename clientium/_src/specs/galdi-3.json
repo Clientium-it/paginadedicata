@@ -1,0 +1,28 @@
+{
+ "slug": "galdi-3",
+ "company": "Galdi",
+ "first_name": "Alessandra",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Galdi progetta e realizza a Paese macchine riempitrici per alimenti e bevande. Qui trova come lavoriamo e cosa potremmo fare per Galdi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Galdi.",
+ "evidence": [
+  {
+   "claim": "Galdi progetta e realizza a Paese macchine riempitrici per alimenti e bevande.",
+   "url": "https://www.galdi.it/",
+   "quote": "Macchine riempitrici per alimenti e bevande Progettiamo e realizziamo soluzioni e servizi con un obiettivo chiaro: semplificare la vita dei nostri clienti || SEDE PRINCIPALE Via E. Fermi, 43/B 31038 Paese (TV) Italia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

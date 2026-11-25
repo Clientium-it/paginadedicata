@@ -1,0 +1,28 @@
+{
+ "slug": "vivisol-5",
+ "company": "Vivisol",
+ "first_name": "Chris",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vivisol è nata nel 1989 dal Gruppo SOL e opera nella home care con oltre 35 anni di esperienza, in paesi dall'Italia al Brasile e al Kuwait. Qui trova come lavoriamo e cosa potremmo fare per Vivisol.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vivisol.",
+ "evidence": [
+  {
+   "claim": "Vivisol è nata nel 1989 dal Gruppo SOL e opera nella home care con oltre 35 anni di esperienza, in paesi dall'Italia al Brasile e al Kuwait.",
+   "url": "https://vivisol.com/about-us",
+   "quote": "Our firm was established by the SOL Group in 1989. Today, with over 35 years of experience in the field, we have become one of Europe’s largest home care groups. || Select your Country Italy France Greece Austria Belgium Germany Ireland The Netherlands Spain Slovenia Portugal Switzerland Brazil Turkey Poland Poland Romania UK Czechia Kuwait"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

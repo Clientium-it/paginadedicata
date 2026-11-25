@@ -1,0 +1,28 @@
+{
+ "slug": "ferplast",
+ "company": "Ferplast",
+ "first_name": "Antonella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ferplast produce 4000 articoli per animali domestici in 3 stabilimenti tra Italia, Ucraina e Slovacchia ed esporta in 85 paesi. Qui trova come lavoriamo e cosa potremmo fare per Ferplast.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ferplast.",
+ "evidence": [
+  {
+   "claim": "Ferplast produce 4000 articoli per animali domestici in 3 stabilimenti tra Italia, Ucraina e Slovacchia ed esporta in 85 paesi.",
+   "url": "https://int.ferplast.com/pages/our-story",
+   "quote": "4000 Items for the comfort of all kind of pets produced in our plants 3 Production plants in: Italy, Ukraine, Slovakia 12 Commercial branches 85 Export countries 107 International patents || 3 Production plants in: Italy, Ukraine, Slovakia 12 Commercial branches 85 Export countries"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

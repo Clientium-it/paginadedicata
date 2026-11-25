@@ -1,0 +1,28 @@
+{
+ "slug": "viar-2",
+ "company": "Viar",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Viar dal 1980 progetta e produce a Sumirago raccordi di uscita, flange speciali, connettori e pezzi forgiati speciali. Qui trova come lavoriamo e cosa potremmo fare per Viar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Viar.",
+ "evidence": [
+  {
+   "claim": "Viar dal 1980 progetta e produce a Sumirago raccordi di uscita, flange speciali, connettori e pezzi forgiati speciali.",
+   "url": "https://www.viargroup.com/about-us/",
+   "quote": "design, manufacture and supply of outlet fittings, special flanges, connectors and special forged pieces. Since 1980, the foundation year, concreteness has always guided our company life. || Head offices and plan Via Del Saliccio, 11/A 21040 Sumirago (VA) Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

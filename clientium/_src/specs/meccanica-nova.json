@@ -1,0 +1,28 @@
+{
+ "slug": "meccanica-nova",
+ "company": "Meccanica Nova",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Meccanica Nova progetta sistemi di rettifica per interni, esterni e celle automatizzate in uno stabilimento di 10.000 mq alla periferia di Bologna. Qui trova come lavoriamo e cosa potremmo fare per Meccanica Nova.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Meccanica Nova.",
+ "evidence": [
+  {
+   "claim": "Meccanica Nova progetta sistemi di rettifica per interni, esterni e celle automatizzate in uno stabilimento di 10.000 mq alla periferia di Bologna.",
+   "url": "https://www.meccanicanova.com/chi-siamo/",
+   "quote": "progettando e realizzando sistemi di rettifica per interni, esterni e celle produttive completamente automatizzate. Il nostro stabilimento produttivo si trova nella periferia di Bologna. È esteso su una superficie di 10.000 mq || 1995 Nasce negli Stati Uniti la Meccanica Nova Corporation al fine di estendere il nostro business nell’area NAFTA. || Applicazioni Aerospaziale Ferroviario Automotive Medicale Sostenibilità Industriale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

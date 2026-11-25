@@ -1,0 +1,28 @@
+{
+ "slug": "oikos-2",
+ "company": "Oikos",
+ "first_name": "Angelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Oikos sviluppa dal 1984 pitture e soluzioni decorative per gli ambienti e ha sede a Gatteo. Qui trova come lavoriamo e cosa potremmo fare per Oikos.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Oikos.",
+ "evidence": [
+  {
+   "claim": "Oikos sviluppa dal 1984 pitture e soluzioni decorative per gli ambienti e ha sede a Gatteo.",
+   "url": "https://oikos-group.it/it-IT/chi-siamo",
+   "quote": "dal 1984, la ricerca Oikos non si è mai fermata, sviluppando pitture e soluzioni decorative capaci di portare bellezza negli ambienti || Sede legale in Gatteo (FC), Via Cherubini n. 2"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

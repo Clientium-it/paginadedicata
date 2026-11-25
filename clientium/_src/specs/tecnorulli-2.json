@@ -1,0 +1,28 @@
+{
+ "slug": "tecnorulli-2",
+ "company": "Tecnorulli",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecnorulli riveste dal 1948 rulli grafici e industriali in gomma e poliuretano nel suo stabilimento di Rastignano. Qui trova come lavoriamo e cosa potremmo fare per Tecnorulli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecnorulli.",
+ "evidence": [
+  {
+   "claim": "Tecnorulli riveste dal 1948 rulli grafici e industriali in gomma e poliuretano nel suo stabilimento di Rastignano.",
+   "url": "https://www.tecnorulli.it/chi-siamo/",
+   "quote": "Dal 1948, Tecnorulli è il punto di riferimento nella produzione di rivestimenti per rulli grafici e industriali in gomma e poliuretano. || SEDE LEGALE E STABILIMENTO Via Rossini 5 40067 Rastignano – Bologna – ITALY"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

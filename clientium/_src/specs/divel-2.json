@@ -1,0 +1,28 @@
+{
+ "slug": "divel-2",
+ "company": "Divel",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Divel propone lenti progressive, office, antifatica, bifocali e monofocali, anche nella versione Gaia eco-lens. Qui trova come lavoriamo e cosa potremmo fare per Divel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Divel.",
+ "evidence": [
+  {
+   "claim": "Divel propone lenti progressive, office, antifatica, bifocali e monofocali, anche nella versione Gaia eco-lens.",
+   "url": "https://www.divelitalia.it/it/products/vista/",
+   "quote": "VISTA LENTI DA VISTA Lenti Progressive Lenti Office Lenti Antifatica Lenti Bifocali Miopia Lenti Monofocali Lenti Vista sole MATERIALI 1.50 1.50 Gaia eco-lens 1.56 1.61 1.61 Gaia eco-lens 1.67 1.74 1.74 Gaia eco-lens || Via Verde 5/A | 40012 | Calderara di Reno (BO) R.E.A. n. 452917"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

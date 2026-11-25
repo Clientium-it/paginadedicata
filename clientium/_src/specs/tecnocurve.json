@@ -1,0 +1,28 @@
+{
+ "slug": "tecnocurve",
+ "company": "Tecnocurve",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecnocurve dal 1991 curva a freddo tubi e profilati in acciaio, inox e alluminio a San Pietro di Morubio, anche per cabine e macchine agricole. Qui trova come lavoriamo e cosa potremmo fare per Tecnocurve.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecnocurve.",
+ "evidence": [
+  {
+   "claim": "Tecnocurve dal 1991 curva a freddo tubi e profilati in acciaio, inox e alluminio a San Pietro di Morubio, anche per cabine e macchine agricole.",
+   "url": "https://www.tecnocurve.com/",
+   "quote": "Since 1991 we have been engaged in the cold bending and processing of tubes, tubular elements and section bars in steel, stainless steel and aluminum. || Tecnocurve Srl Via IV Novembre, 38 37050 San Pietro di Morubio, Verona, Italy || Bending aluminium and steel section bars for cabs ⟶ Bent tubes for industrial systems ⟶ Bent steel tubular elements for agricultural machinery ⟶"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

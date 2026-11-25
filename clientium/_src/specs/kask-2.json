@@ -1,0 +1,28 @@
+{
+ "slug": "kask-2",
+ "company": "Kask",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Kask, fondata nel 2004 e con sede nella zona di Bergamo, progetta e produce attrezzature e accessori per ciclismo, sci, equitazione, soccorso e lavoro. Qui trova come lavoriamo e cosa potremmo fare per Kask.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kask.",
+ "evidence": [
+  {
+   "claim": "Kask, fondata nel 2004 e con sede nella zona di Bergamo, progetta e produce attrezzature e accessori per ciclismo, sci, equitazione, soccorso e lavoro.",
+   "url": "https://www.kask.com/en-it/aboutus.html",
+   "quote": "Founded in 2004 by Angelo Gotti and based in the area of Bergamo, Italy, KASK has brought a remarkable evolution in the quality of safety products. The company designs and produces premium equipment and accessories for cycling, skiing, equestrian sports, rescue operations and workplace"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

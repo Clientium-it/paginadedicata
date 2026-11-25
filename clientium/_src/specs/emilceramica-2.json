@@ -1,0 +1,28 @@
+{
+ "slug": "emilceramica-2",
+ "company": "Emilceramica",
+ "first_name": "Giulio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Emilceramica progetta collezioni in gres porcellanato per spazi residenziali e commerciali con una vasta scelta di formati, texture e colori. Qui trova come lavoriamo e cosa potremmo fare per Emilceramica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Emilceramica.",
+ "evidence": [
+  {
+   "claim": "Emilceramica progetta collezioni in gres porcellanato per spazi residenziali e commerciali con una vasta scelta di formati, texture e colori.",
+   "url": "https://www.emilgroup.it/",
+   "quote": "Un’ampia gamma di collezioni in gres porcellanato progettate per offrire ampia libertà compositiva in spazi residenziali e commerciali, con una vasta scelta di formati , texture e colori . || Fiorano Modenese (MO), Via Ghiarola Nuova n. 29 || progettate per offrire ampia libertà compositiva in spazi residenziali e commerciali"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

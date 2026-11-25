@@ -1,0 +1,28 @@
+{
+ "slug": "ammeraal-beltech-2",
+ "company": "Ammeraal Beltech",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ammeraal Beltech dal 1950 progetta, produce e assiste nastri di processo e trasportatori, conta oltre 3.000 persone e vende in oltre 40 paesi. Qui trova come lavoriamo e cosa potremmo fare per Ammeraal Beltech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ammeraal Beltech.",
+ "evidence": [
+  {
+   "claim": "Ammeraal Beltech dal 1950 progetta, produce e assiste nastri di processo e trasportatori, conta oltre 3.000 persone e vende in oltre 40 paesi.",
+   "url": "https://ammeraalbeltech.com/en/about/",
+   "quote": "Founded in 1950, Ammeraal Beltech is a global market leader in the design, manufacturing, fabrication and servicing of high-quality, high-performance process and conveyor belts. We employ over 3,000 of the best people in the business || Our extensive product portfolio is available globally in over 40 countries and 170 locations."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

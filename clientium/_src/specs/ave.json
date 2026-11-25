@@ -1,0 +1,28 @@
+{
+ "slug": "ave",
+ "company": "AVE",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "AVE offre più di 3.000 prodotti tra serie civili e domotica, esporta in più di 70 paesi e lavora con installatori e progettisti. Qui trova come lavoriamo e cosa potremmo fare per AVE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per AVE.",
+ "evidence": [
+  {
+   "claim": "AVE offre più di 3.000 prodotti tra serie civili e domotica, esporta in più di 70 paesi e lavora con installatori e progettisti.",
+   "url": "https://www.ave.it/azienda/",
+   "quote": "Una realtà in continua crescita che può vantare l’offerta di più di 3.000 prodotti nelle sei divisioni strategiche costituite da: Serie Civili (interruttori, prese di corrente, placche e più di 200 funzioni modulari); Domotica e Gestione Alberghiera; || AVE S.p.A. esporta in più di 70 paesi nel mondo ed è presente in vari paesi con filiali commerciali e joint venture industriali. || consentono al marchio AVE di presentarsi con sicurezza ad Installatori, Progettisti e Architetti, offrendo risposte razionali e adeguate alla evoluzione delle esigenze impiantistiche civili e industriali."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

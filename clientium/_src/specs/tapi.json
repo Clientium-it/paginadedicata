@@ -1,0 +1,28 @@
+{
+ "slug": "tapi",
+ "company": "Tapì",
+ "first_name": "Eva",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tapì progetta e produce chiusure per bottiglie e lavora con settori come distillati, vino, birra, condimenti e cosmetica. Qui trova come lavoriamo e cosa potremmo fare per Tapì.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tapì.",
+ "evidence": [
+  {
+   "claim": "Tapì progetta e produce chiusure per bottiglie e lavora con settori come distillati, vino, birra, condimenti e cosmetica.",
+   "url": "https://tapigroup.com/",
+   "quote": "Design and manufacture of closures for innovative, elegant bottles || TAPÌ S.P.A - HEADQUARTERS Via Arzari, 3/A 35011 Campodarsego (PD) Italy || Industry Spirits Condiments Wine Beer Cosmetics"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

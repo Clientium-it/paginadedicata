@@ -1,0 +1,28 @@
+{
+ "slug": "g7",
+ "company": "G7",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "G7 ha 11 linee da oltre 12 milioni di chili di gelato l'anno e sviluppa marche private per la distribuzione moderna italiana e internazionale. Qui trova come lavoriamo e cosa potremmo fare per G7.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per G7.",
+ "evidence": [
+  {
+   "claim": "G7 ha 11 linee da oltre 12 milioni di chili di gelato l'anno e sviluppa marche private per la distribuzione moderna italiana e internazionale.",
+   "url": "https://g7gelati.it/it/chi-siamo",
+   "quote": "3 marchi dedicati al retail (G7, Siviero Maria e GelatoMadre) capacità produttiva di oltre 12 milioni di chili di gelato per anno più di 100 persone impiegate 11 linee produttive || Con una presenza ormai consolidata in più di 60 Paesi nel mondo, G7 è diventata oggi partner dei più importanti retailer della distribuzione moderna italiana ed internazionale || G7 è diventata oggi partner dei più importanti retailer della distribuzione moderna italiana ed internazionale sia per la commercializzazione dei propri prodotti a marchio che per lo sviluppo dei progetti di marca privata"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

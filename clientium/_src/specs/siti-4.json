@@ -1,0 +1,28 @@
+{
+ "slug": "siti-4",
+ "company": "SITI",
+ "first_name": "Simone",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SITI progetta e produce motoriduttori, riduttori e variatori meccanici per automazione, packaging e trattamento acque, con 4 filiali estere e oltre 100 partner. Qui trova come lavoriamo e cosa potremmo fare per SITI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SITI.",
+ "evidence": [
+  {
+   "claim": "SITI progetta e produce motoriduttori, riduttori e variatori meccanici per automazione, packaging e trattamento acque, con 4 filiali estere e oltre 100 partner.",
+   "url": "https://www.sitiriduttori.it/azienda/",
+   "quote": "Siamo specializzati nella progettazione e produzione di soluzioni per la trasmissione di potenza, offrendo una gamma completa di motoriduttori, riduttori e variatori meccanici. || Con 4 filiali all’estero e una rete globale di oltre 100 partner commerciali distribuiti in ogni continente || Le nostre soluzioni trovano applicazione in numerosi settori industriali, dall’automazione al packaging, dal trattamento acque, fino alle applicazioni più complesse e personalizzate su specifiche esigenze del cliente."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

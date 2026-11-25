@@ -1,0 +1,28 @@
+{
+ "slug": "siderforgerossi-2",
+ "company": "Siderforgerossi",
+ "first_name": "Simone",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Siderforgerossi produce anelli laminati e forgiati in acciai speciali fino a 30.000 kg per energia e trasporti con 5 stabilimenti in Italia. Qui trova come lavoriamo e cosa potremmo fare per Siderforgerossi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Siderforgerossi.",
+ "evidence": [
+  {
+   "claim": "Siderforgerossi produce anelli laminati e forgiati in acciai speciali fino a 30.000 kg per energia e trasporti con 5 stabilimenti in Italia.",
+   "url": "https://siderforgerossi.com/",
+   "quote": "Seamless rolled rings, open die and closed die forgings in special steels, up to 30,000 kg per piece. For energy, mechanical engineering and transport, worldwide. || 5 production plants in Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

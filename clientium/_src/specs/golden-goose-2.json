@@ -1,0 +1,28 @@
+{
+ "slug": "golden-goose-2",
+ "company": "Golden Goose",
+ "first_name": "Rudy",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Golden Goose crea sneaker e abbigliamento per uomo e donna. Qui trova come lavoriamo e cosa potremmo fare per Golden Goose.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Golden Goose.",
+ "evidence": [
+  {
+   "claim": "Golden Goose crea sneaker e abbigliamento per uomo e donna.",
+   "url": "https://www.goldengoose.com/it/it",
+   "quote": "Golden Goose: sneaker e abbigliamento uomo e donna | Golden Goose IT"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

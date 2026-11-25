@@ -1,0 +1,28 @@
+{
+ "slug": "hrsflow",
+ "company": "HRSflow",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "HRSflow progetta e produce sistemi a canale caldo per lo stampaggio plastico a iniezione con 3 stabilimenti e clienti in oltre 50 paesi. Qui trova come lavoriamo e cosa potremmo fare per HRSflow.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per HRSflow.",
+ "evidence": [
+  {
+   "claim": "HRSflow progetta e produce sistemi a canale caldo per lo stampaggio plastico a iniezione con 3 stabilimenti e clienti in oltre 50 paesi.",
+   "url": "https://www.hrsflow.com/ww/en/who-we-are",
+   "quote": "we design and manufacture hot runner systems for a wide range of applications in the plastic injection molding industry. || 3 Production plants 80% Our export percentage 1000+ Employees all around the world 50+ The number of countries to which we provide hot runner systems || We welcome the challenge of complex design requirements in the industries of Logistics & Environmental, Domestic Appliances, Technical Applications, Mobility, Houseware & Gardening."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

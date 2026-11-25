@@ -1,0 +1,28 @@
+{
+ "slug": "farmac-zabban",
+ "company": "Farmac Zabban",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Farmac Zabban produce articoli per la medicazione e dispositivi chirurgici a Calderara di Reno per oltre 5.000 clienti tra ospedali, farmacie e case di cura. Qui trova come lavoriamo e cosa potremmo fare per Farmac Zabban.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Farmac Zabban.",
+ "evidence": [
+  {
+   "claim": "Farmac Zabban produce articoli per la medicazione e dispositivi chirurgici a Calderara di Reno per oltre 5.000 clienti tra ospedali, farmacie e case di cura.",
+   "url": "https://www.farmaczabban.it/storia/",
+   "quote": "è leader nella produzione di articoli per la medicazione e di dispositivi chirurgici e sanitari e di prodotti per la salute, l’igiene e la nutraceutica che distribuisce in ospedali, case di cura, farmacie e sanitarie fino a contare oltre 5.000 clienti in Italia ed all’estero e circa 180 collaboratori tra dipendenti e forza vendite || Negli anni ‘70 l’azienda si sposta nell’attuale stabilimento industriale di Calderara di Reno in una posizione strategica per la logistica || Le principali categorie di clienti–ospedali, case di cura e di riposo, farmacie, cooperative farmaceutiche e grossisti, sanitarie e laboratori"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

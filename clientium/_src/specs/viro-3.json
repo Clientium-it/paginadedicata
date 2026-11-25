@@ -1,0 +1,28 @@
+{
+ "slug": "viro-3",
+ "company": "VIRO",
+ "first_name": "Stefania",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "VIRO ha un nuovo stabilimento di 25.000 mq a Zola Predosa e dal 2023 fa parte di DOM Security del gruppo francese SFPI. Qui trova come lavoriamo e cosa potremmo fare per VIRO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VIRO.",
+ "evidence": [
+  {
+   "claim": "VIRO ha un nuovo stabilimento di 25.000 mq a Zola Predosa e dal 2023 fa parte di DOM Security del gruppo francese SFPI.",
+   "url": "https://viro.it/it-it/storia/",
+   "quote": "Nuovo stabilimento a Zola Predosa, a 10 km da Bologna, su di una superficie di 25.000 mq. || In data 9 Marzo 2023, VIRO è entrata a far parte di DOM Security , divisione dedicata alla sicurezza, del gruppo industriale francese SFPI Group"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

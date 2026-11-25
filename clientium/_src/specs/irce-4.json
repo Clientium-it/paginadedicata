@@ -1,0 +1,28 @@
+{
+ "slug": "irce-4",
+ "company": "IRCE",
+ "first_name": "Stanley",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IRCE produce fili smaltati per macchine elettriche e cavi isolati per l'energia, con lo stabilimento di Imola attivo dalla metà degli anni settanta. Qui trova come lavoriamo e cosa potremmo fare per IRCE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IRCE.",
+ "evidence": [
+  {
+   "claim": "IRCE produce fili smaltati per macchine elettriche e cavi isolati per l'energia, con lo stabilimento di Imola attivo dalla metà degli anni settanta.",
+   "url": "https://www.irce.it/ita/storia.php",
+   "quote": "IRCE è un gruppo industriale di rilevanza europea, con due aree di attività: • conduttori per avvolgimento di macchine elettriche, comunemente chiamati fili smaltati; • cavi isolati per il trasporto di energia. || Risale alla metà degli anni settanta l'inaugurazione dello stabilimento di Imola."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

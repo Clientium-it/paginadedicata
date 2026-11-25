@@ -1,0 +1,28 @@
+{
+ "slug": "teknoice",
+ "company": "Teknoice",
+ "first_name": "Cristiana",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Teknoice realizza linee complete per il gelato, dalla pastorizzazione al confezionamento, per artigiani e grandi produttori. Qui trova come lavoriamo e cosa potremmo fare per Teknoice.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Teknoice.",
+ "evidence": [
+  {
+   "claim": "Teknoice realizza linee complete per il gelato, dalla pastorizzazione al confezionamento, per artigiani e grandi produttori.",
+   "url": "https://www.teknoice.com/our-company/",
+   "quote": "Teknoice can satisfy all customer’s needs, from semi-industrial to industrial, with complete lines that cover all stages of production: pasteurizing plants, continuous freezers, ice cream filling machines, extrusion lines, hardening tunnels and wrapping machines. || Teknoice S.r.l. Via Lazio, 37 – 20090 Buccinasco (Milano) Italy || Teknoice has a solution for everyone, from artisan makers to large producers."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

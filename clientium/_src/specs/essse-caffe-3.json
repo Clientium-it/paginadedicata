@@ -1,0 +1,28 @@
+{
+ "slug": "essse-caffe-3",
+ "company": "Essse Caffè",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Essse Caffè lavora per i professionisti del bar, è presente in oltre 60 Paesi e dal 2015 ha un flagship store a Bologna. Qui trova come lavoriamo e cosa potremmo fare per Essse Caffè.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Essse Caffè.",
+ "evidence": [
+  {
+   "claim": "Essse Caffè lavora per i professionisti del bar, è presente in oltre 60 Paesi e dal 2015 ha un flagship store a Bologna.",
+   "url": "https://www.esssecaffe.com/il-mondo-di-esse/la-nostra-storia/",
+   "quote": "ad oggi l’azienda è presente in oltre 60 Paesi con una posizione internazionale di rilievo. || Nel 2015, Essse Caffè apre il proprio flagship store in Via Galliera, nel centro storico di Bologna || Per i professionisti del bar Da sempre Essse è riconosciuto come il caffè dei professionisti"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

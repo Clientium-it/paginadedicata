@@ -1,0 +1,28 @@
+{
+ "slug": "bgroup",
+ "company": "BGroup",
+ "first_name": "Peter",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "BGroup ha 6 siti produttivi, un reparto di ricerca e sviluppo e distribuisce i suoi prodotti in oltre 50 paesi su 4 continenti. Qui trova come lavoriamo e cosa potremmo fare per BGroup.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BGroup.",
+ "evidence": [
+  {
+   "claim": "BGroup ha 6 siti produttivi, un reparto di ricerca e sviluppo e distribuisce i suoi prodotti in oltre 50 paesi su 4 continenti.",
+   "url": "https://www.bgroup.info/www/it/company",
+   "quote": "Con 6 siti produttivi, un intero reparto di ricerca e sviluppo e delle capacità di design e produzione senza rivali, vede i propri risultati commerciali crescere costantemente. Distribuendo i propri prodotti in oltre 50 paesi su 4 continenti || Sedi del gruppo IMOLA – BOLOGNA Via della Bicocca, 16 40026 Imola (BO) – Italy tel. (+39) 0542 648511 MANDURIA – TARANTO"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

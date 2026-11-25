@@ -1,0 +1,28 @@
+{
+ "slug": "trafimet",
+ "company": "Trafimet",
+ "first_name": "Dirk",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Trafimet è nata come bottega artigiana 50 anni fa, ha oltre 22.000 metri quadri produttivi in Italia e dal 2019 fa parte del gruppo Kemppi. Qui trova come lavoriamo e cosa potremmo fare per Trafimet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Trafimet.",
+ "evidence": [
+  {
+   "claim": "Trafimet è nata come bottega artigiana 50 anni fa, ha oltre 22.000 metri quadri produttivi in Italia e dal 2019 fa parte del gruppo Kemppi.",
+   "url": "https://www.trafimet.com/en/about-us/company",
+   "quote": "Founded as an artisan workshop 50 years ago, the company has evolved to more than 22,000 square meters of cutting-edge production facilities located in Italy. || Since 2019, Trafimet has been part of Kemppi Oy Group, a strategic move that marks the brand's alignment with a leading welding company."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "vimercati",
+ "company": "Vimercati",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vimercati è fornitore di primo impianto automotive nel mondo con una gamma centrata sulla meccatronica e dal 2007 uno stabilimento a Bacau in Romania. Qui trova come lavoriamo e cosa potremmo fare per Vimercati.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vimercati.",
+ "evidence": [
+  {
+   "claim": "Vimercati è fornitore di primo impianto automotive nel mondo con una gamma centrata sulla meccatronica e dal 2007 uno stabilimento a Bacau in Romania.",
+   "url": "https://www.vimercati.com/chi-siamo/",
+   "quote": "Oggi VIMERCATI è saldamente presente come fornitore di primo impianto del mercato automotive a livello mondiale, con una gamma di prodotti molto ampia e che vede nella meccatronica la sua area principale. || l'azienda apre nel 2007 un nuovo stabilimento produttivo a Bacau, in Romania che, dopo l'apertura, raggiunge in pochi anni circa 500 dipendenti."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

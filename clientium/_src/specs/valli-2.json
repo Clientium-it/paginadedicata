@@ -1,0 +1,28 @@
+{
+ "slug": "valli-2",
+ "company": "Valli",
+ "first_name": "Milena",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Valli da oltre 60 anni realizza attrezzature avicole e progetti chiavi in mano con installazione e assistenza in oltre 70 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Valli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Valli.",
+ "evidence": [
+  {
+   "claim": "Valli da oltre 60 anni realizza attrezzature avicole e progetti chiavi in mano con installazione e assistenza in oltre 70 Paesi.",
+   "url": "https://www.valli-italy.com/azienda/",
+   "quote": "VALLI , da oltre 60 anni sul mercato, offre soluzioni ottimali, installazione e servizio post-vendita per le sue attrezzature avicole. || Presente in oltre 70 Paesi in tutto il mondo, VALLI realizza progetti personalizzati “chiavi in mano” ai più alti livelli di qualità."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

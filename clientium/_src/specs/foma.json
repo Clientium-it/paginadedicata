@@ -1,0 +1,28 @@
+{
+ "slug": "foma",
+ "company": "Foma",
+ "first_name": "Monica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Foma lavora nella pressocolata per l'automotive con 38 isole automatizzate, oltre 100 CNC e la costruzione degli stampi a Lumezzane. Qui trova come lavoriamo e cosa potremmo fare per Foma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Foma.",
+ "evidence": [
+  {
+   "claim": "Foma lavora nella pressocolata per l'automotive con 38 isole automatizzate, oltre 100 CNC e la costruzione degli stampi a Lumezzane.",
+   "url": "https://www.foma.it/",
+   "quote": "Oggi, con 38 isole di pressocolata automatizzate e oltre 100 CNC , siamo una delle realtà internazionali più autorevoli del mondo della pressocolata per il settore automotive . || Nello stabilimento di Lumezzane (BS) viene ancora oggi realizzata la progettazione e la costruzione degli stampi, che sono considerati strategici per la realizzazione del processo produttivo."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

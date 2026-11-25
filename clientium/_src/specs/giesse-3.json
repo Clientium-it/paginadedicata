@@ -1,0 +1,28 @@
+{
+ "slug": "giesse-3",
+ "company": "Giesse",
+ "first_name": "Annalisa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Giesse si è trasferita in un nuovo stabilimento a Budrio in provincia di Bologna. Qui trova come lavoriamo e cosa potremmo fare per Giesse.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Giesse.",
+ "evidence": [
+  {
+   "claim": "Giesse si è trasferita in un nuovo stabilimento a Budrio in provincia di Bologna.",
+   "url": "https://www.quanex-international.com/company/about-us/",
+   "quote": "Giesse relocates to a new plant in Budrio (Bologna) || Giesse relocates to a new plant in Budrio (Bologna)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

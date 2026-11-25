@@ -1,0 +1,28 @@
+{
+ "slug": "rhutten",
+ "company": "Rhütten",
+ "first_name": "Manuela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rhütten è un'azienda chimica nata nelle Marche con core nell'automotive, attiva anche in home care e bricolage per brand in GDO, GDS e canali professionali. Qui trova come lavoriamo e cosa potremmo fare per Rhütten.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rhütten.",
+ "evidence": [
+  {
+   "claim": "Rhütten è un'azienda chimica nata nelle Marche con core nell'automotive, attiva anche in home care e bricolage per brand in GDO, GDS e canali professionali.",
+   "url": "https://www.rhutten.com/chi-siamo/",
+   "quote": "Nata nelle Marche, Rhütten è un'azienda chimica con core nel settore dell'Automotive, attiva anche nell'Home Care, Bricolage, “Fai da Te” e nel mondo professionale. || Brand internazionali e marchi di riferimento ci scelgono per portare valore a scaffale in GDO, GDS e canali professionali."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

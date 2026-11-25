@@ -1,0 +1,28 @@
+{
+ "slug": "veroni",
+ "company": "Veroni",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Veroni ha quattro società e sei stabilimenti in Emilia Romagna e dal 2016 un impianto a Logan, nel New Jersey, per affettare salumi. Qui trova come lavoriamo e cosa potremmo fare per Veroni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Veroni.",
+ "evidence": [
+  {
+   "claim": "Veroni ha quattro società e sei stabilimenti in Emilia Romagna e dal 2016 un impianto a Logan, nel New Jersey, per affettare salumi.",
+   "url": "https://www.veroni.it/azienda/gli-stabilimenti/",
+   "quote": "Oggi Veroni è organizzata in quattro società controllate e sei stabilimenti, tutti dislocati in Emilia-Romagna e specializzati per tipologia di prodotto. || Dal 2016 siamo attivi negli Stati Uniti con l’ impianto di Logan , New Jersey dove vengono affettati i salumi 100% Made in Italy che importiamo per il mercato locale."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}
