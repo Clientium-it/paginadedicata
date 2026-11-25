@@ -1,0 +1,28 @@
+{
+ "slug": "tosti-2",
+ "company": "Tosti",
+ "first_name": "Raffaele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tosti lavora con macchine a controllo numerico dal 1983 e serve settori come legno e vetro, energia, elettronica, edilizia, automotive e food e pharma. Qui trova come lavoriamo e cosa potremmo fare per Tosti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tosti.",
+ "evidence": [
+  {
+   "claim": "Tosti lavora con macchine a controllo numerico dal 1983 e serve settori come legno e vetro, energia, elettronica, edilizia, automotive e food e pharma.",
+   "url": "https://www.tostisrl.it/storia/",
+   "quote": "Nel 1983 acquistiamo la prima macchina a controllo numerico, che ci ha dato la spinta per allargare la nostra visione e espanderci in nuovi mercati || Componenti vari Legno e vetro Energia e settore elettronico Construction Automotive Food & Pharma"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "omp-4",
+ "company": "OMP",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OMP dal 1983 progetta e produce componenti per sedute e arredi da ufficio e collettività con tre stabilimenti ed export in 85 paesi. Qui trova come lavoriamo e cosa potremmo fare per OMP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OMP.",
+ "evidence": [
+  {
+   "claim": "OMP dal 1983 progetta e produce componenti per sedute e arredi da ufficio e collettività con tre stabilimenti ed export in 85 paesi.",
+   "url": "https://www.ompgroup.com/it/chi-siamo/",
+   "quote": "Dal 1983 OMP Group progetta e produce componenti per sedute e arredi destinati ai settori ufficio, collettività, education e home. || 42 anni di attività 150 dipendenti 22.000 m² di superficie coperta 85 paesi di esportazione Tre stabilimenti produttivi integrati || Dal 1983 OMP Group progetta e produce componenti per sedute e arredi destinati ai settori ufficio, collettività, education e home."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

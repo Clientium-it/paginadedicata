@@ -1,0 +1,28 @@
+{
+ "slug": "cecomp-2",
+ "company": "Cecomp",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cecomp dal 1978 dà forma alle idee di designer e centri stile delle case automobilistiche con 4 siti produttivi in Italia e uno in Slovenia. Qui trova come lavoriamo e cosa potremmo fare per Cecomp.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cecomp.",
+ "evidence": [
+  {
+   "claim": "Cecomp dal 1978 dà forma alle idee di designer e centri stile delle case automobilistiche con 4 siti produttivi in Italia e uno in Slovenia.",
+   "url": "https://cecomp.it/",
+   "quote": "CECOMP è un gruppo industriale italiano di proprietà della famiglia Forneris fondato nel 1978, ad oggi composto da 4 siti produttivi in Italia e uno in Slovenia. || ad oggi composto da 4 siti produttivi in Italia e uno in Slovenia || Da oltre 40 anni CECOMP dà forma alle idee sviluppate da designers, centri stile, enti di ricerca & sviluppo per le case automobilistiche di tutto il mondo."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

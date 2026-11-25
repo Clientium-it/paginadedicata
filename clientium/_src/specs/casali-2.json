@@ -1,0 +1,28 @@
+{
+ "slug": "casali-2",
+ "company": "Casali",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Casali lavora con quattro divisioni, membrane, sintetici, geomembrane sintetiche e acustica, in Italia e in oltre ottanta paesi. Qui trova come lavoriamo e cosa potremmo fare per Casali.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Casali.",
+ "evidence": [
+  {
+   "claim": "Casali lavora con quattro divisioni, membrane, sintetici, geomembrane sintetiche e acustica, in Italia e in oltre ottanta paesi.",
+   "url": "https://www.casali-group.com/it/it/chi_siamo",
+   "quote": "Organizzata in quattro divisioni aziendali ( Membrane, Sintetici, Geomembrane Sintetiche e Acustica ), la Casali è oggi una realtà orientata al cliente, che può contare su una forte specializzazione di prodotto. || In Italia come in oltre ottanta Paesi nel mondo, Casali è ormai un marchio di riferimento"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

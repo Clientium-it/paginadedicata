@@ -1,0 +1,28 @@
+{
+ "slug": "unifarco-3",
+ "company": "Unifarco",
+ "first_name": "Aldo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Unifarco da Santa Giustina serve più di 6.800 farmacie in 6 paesi europei con 7 brand e oltre 61.000 prodotti confezionati al giorno. Qui trova come lavoriamo e cosa potremmo fare per Unifarco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Unifarco.",
+ "evidence": [
+  {
+   "claim": "Unifarco da Santa Giustina serve più di 6.800 farmacie in 6 paesi europei con 7 brand e oltre 61.000 prodotti confezionati al giorno.",
+   "url": "https://www.unifarco.it/",
+   "quote": "Con più di 6.800 farmacie clienti in 6 paesi europei , siamo la più vasta rete indipendente in Europa. Oltre a questo 24 brevetti, 7 brand e più di 61.000 prodotti confezionati ogni giorno. || Italia Unifarco S.p.A. Via Cal Longa, 62 32035 Santa Giustina ( BL) || Con più di 6.800 farmacie clienti in 6 paesi europei"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

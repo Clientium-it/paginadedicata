@@ -1,0 +1,28 @@
+{
+ "slug": "altergon",
+ "company": "Altergon",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Altergon a Morra De Sanctis ha 4 stabilimenti, 3 laboratori di ricerca e 2 impianti pilota per biotech e cerotti medicati su circa 50.000 mq. Qui trova come lavoriamo e cosa potremmo fare per Altergon.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Altergon.",
+ "evidence": [
+  {
+   "claim": "Altergon a Morra De Sanctis ha 4 stabilimenti, 3 laboratori di ricerca e 2 impianti pilota per biotech e cerotti medicati su circa 50.000 mq.",
+   "url": "https://altergon.com/azienda.php",
+   "quote": "Il sito ad oggi è composto da 4 stabilimenti produttivi, 3 laboratori R&D (800 mq), 2 impianti pilota: biotech (350 mq) e cerotti medicati (200 mq) || Il sito produttivo è ubicato nel nucleo industriale ASI di Morra de Sanctis (AV), su un'area complessiva di circa 50.000 mq"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

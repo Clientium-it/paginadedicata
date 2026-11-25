@@ -1,0 +1,28 @@
+{
+ "slug": "atlantic-fluid-tech-2",
+ "company": "Atlantic Fluid Tech",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Atlantic Fluid Tech produce in 6 stabilimenti su 15.400 mq per macchine agricole, movimento terra e perforazione, con filiali in Giappone, Cina e Francia. Qui trova come lavoriamo e cosa potremmo fare per Atlantic Fluid Tech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Atlantic Fluid Tech.",
+ "evidence": [
+  {
+   "claim": "Atlantic Fluid Tech produce in 6 stabilimenti su 15.400 mq per macchine agricole, movimento terra e perforazione, con filiali in Giappone, Cina e Francia.",
+   "url": "https://www.atlanticfluidtech.com/pages/corporate-history/",
+   "quote": "We manufacture in 6 production plants for an overall covered surface of 15,400 sqm || we have opened 6 branches in Japan, China, South Korea, France, United Kingdom, Holland and established a widespread distribution network in the United States, Australia and many other countries || like agriculture and service machines, earth moving machines, drilling and lifting equipment, industrial vehicles, industrial automation"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

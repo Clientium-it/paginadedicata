@@ -1,0 +1,28 @@
+{
+ "slug": "fratelli-martini",
+ "company": "Fratelli Martini",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fratelli Martini affianca oltre 1200 famiglie di agricoltori del basso Piemonte nella coltivazione delle loro uve e ha cantine a Cossano Belbo, Gavi e Neive. Qui trova come lavoriamo e cosa potremmo fare per Fratelli Martini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fratelli Martini.",
+ "evidence": [
+  {
+   "claim": "Fratelli Martini affianca oltre 1200 famiglie di agricoltori del basso Piemonte nella coltivazione delle loro uve e ha cantine a Cossano Belbo, Gavi e Neive.",
+   "url": "https://www.fratellimartini.it/azienda/",
+   "quote": "Oltre 1200 famiglie di agricoltori dislocati in tutto il basso Piemonte coltivano con amore e dedizione e con il supporto dell’azienda, le proprie uve || Cellars In: Cossano Belbo (Cn) - Loc.San Bovo Via statale 26 - Tel: +39 0141 837211 / Gavi (Al) - Loc. Lomellina 2 / Neive (Cn) - C.so Giolitti 51"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "elica-8",
+ "company": "Elica",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Elica produce cappe, piani aspiranti, piani cottura, forni e cantinette per la cucina. Qui trova come lavoriamo e cosa potremmo fare per Elica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Elica.",
+ "evidence": [
+  {
+   "claim": "Elica produce cappe, piani aspiranti, piani cottura, forni e cantinette per la cucina.",
+   "url": "https://www.elica.com/IT-it",
+   "quote": "Extraordinary Cooking. La promessa dei nostri elettrodomestici. Cappe Piani aspiranti Piani cottura Lhov Forni Cantinette"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

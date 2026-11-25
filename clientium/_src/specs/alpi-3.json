@@ -1,0 +1,28 @@
+{
+ "slug": "alpi-3",
+ "company": "Alpi",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Alpi produce superfici decorative in legno composto per aziende del lusso, dell'automotive, della nautica e dell'arredamento, con uno stabilimento in Camerun dal 1975. Qui trova come lavoriamo e cosa potremmo fare per Alpi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Alpi.",
+ "evidence": [
+  {
+   "claim": "Alpi produce superfici decorative in legno composto per aziende del lusso, dell'automotive, della nautica e dell'arredamento, con uno stabilimento in Camerun dal 1975.",
+   "url": "https://www.alpi.it/it/azienda",
+   "quote": "Prima azienda al mondo ad industrializzare il processo produttivo del legno composto, ALPI nasce come laboratorio di alta ebanisteria e diventa rapidamente un’industria leader nella produzione di superfici decorative. || Nel 1975 il Gruppo apre il primo stabilimento in Camerun per assicurarsi la costante fornitura di materie prime. || Partner di grandi aziende del lusso, dell'automotive e della nautica oltre a prestigiose realtà dell'arredamento, del product design, dell'architettura di interni e del contract"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

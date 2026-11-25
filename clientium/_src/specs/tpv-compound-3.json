@@ -1,0 +1,28 @@
+{
+ "slug": "tpv-compound-3",
+ "company": "TPV Compound",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TPV Compound ad Argenta produce compound per estrusione e stampaggio, medicali e tecnici, standard e su misura, anche per chi estrude guarnizioni. Qui trova come lavoriamo e cosa potremmo fare per TPV Compound.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TPV Compound.",
+ "evidence": [
+  {
+   "claim": "TPV Compound ad Argenta produce compound per estrusione e stampaggio, medicali e tecnici, standard e su misura, anche per chi estrude guarnizioni.",
+   "url": "https://www.tpvcompound.com/",
+   "quote": "La gamma di compound che TPV può offrire comprende sia prodotti per estrusione che per stampaggio, medicali e tecnici, sia standard che su misura || Sede Di Argenta (FE) Via Leonardo da Vinci, 5 44011 Argenta (FE) – ITALIA || Un’azienda nostra cliente operante nel settore delle costruzioni e, nello specifico, dell’estrusione di barre, lastre e guarnizioni, ci ha coinvolti"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

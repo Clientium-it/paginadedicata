@@ -1,0 +1,28 @@
+{
+ "slug": "baco",
+ "company": "Baco",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Baco produce i semilavorati per Battistella e Novamobili. Qui trova come lavoriamo e cosa potremmo fare per Baco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Baco.",
+ "evidence": [
+  {
+   "claim": "Baco produce i semilavorati per Battistella e Novamobili.",
+   "url": "https://www.battistellacompany.it/it/chi-siamo/",
+   "quote": "Baco srl Produce i semilavorati per Battistella spa e Novamobili spa || Paesi forniti 40"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

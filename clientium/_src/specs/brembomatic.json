@@ -1,0 +1,28 @@
+{
+ "slug": "brembomatic",
+ "company": "Brembomatic",
+ "first_name": "Alessandra",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Brembomatic fa meccanica di precisione dal 1960 a Trezzano sul Naviglio per automotive, vending, ottica, termoidraulica, nautica e aeronautica. Qui trova come lavoriamo e cosa potremmo fare per Brembomatic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Brembomatic.",
+ "evidence": [
+  {
+   "claim": "Brembomatic fa meccanica di precisione dal 1960 a Trezzano sul Naviglio per automotive, vending, ottica, termoidraulica, nautica e aeronautica.",
+   "url": "https://www.brembomatic.it/azienda/",
+   "quote": "Fondata nel 1960 Brembomatic è, da oltre cinquant’anni, azienda leader nella meccanica di precisione. || BREMBOMATIC SEDE OPERATIVA Via D. Galimberti, 88, 20090 Trezzano sul Naviglio Milano – Italia || automotive, veicoli industriali, HO.RE.CA., vending, ottica, termoidraulica, pneumatica, meccano tessile, industria navale e da diporto, raccorderia medicale, connettori, industria aeronautica, lighting, sonde termiche e automazione industriale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "meccanostampi-3",
+ "company": "Meccanostampi",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Meccanostampi progetta e produce stampi di precisione e stampa tecnopolimeri con 260 dipendenti, 4 stabilimenti e 140 presse. Qui trova come lavoriamo e cosa potremmo fare per Meccanostampi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Meccanostampi.",
+ "evidence": [
+  {
+   "claim": "Meccanostampi progetta e produce stampi di precisione e stampa tecnopolimeri con 260 dipendenti, 4 stabilimenti e 140 presse.",
+   "url": "https://www.meccanostampi.it/",
+   "quote": "Siamo specializzati nella progettazione e produzione di stampi di precisione e nello stampaggio di tecnopolimeri || 260 dipendenti, 4 stabilimenti, 140 presse e 25.000 mq di strutture produttive."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

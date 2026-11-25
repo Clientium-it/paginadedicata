@@ -1,0 +1,28 @@
+{
+ "slug": "transtecno",
+ "company": "Transtecno",
+ "first_name": "Alexandros",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Transtecno produce motoriduttori con coppie da 900 a 3500 Nm e con FireTecno ha una linea dedicata a caldaie e stufe a biomassa. Qui trova come lavoriamo e cosa potremmo fare per Transtecno.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Transtecno.",
+ "evidence": [
+  {
+   "claim": "Transtecno produce motoriduttori con coppie da 900 a 3500 Nm e con FireTecno ha una linea dedicata a caldaie e stufe a biomassa.",
+   "url": "https://transtecno.com/it/riduttori-e-motoriduttori/",
+   "quote": "Gamma che comprende motoriduttori con coppie da 900 a 3500 Nm, carcasse e coperchi in ghisa ad alta resistenza. || Transtecno Group è composto da aziende dislocate in diversi Paesi, punti strategici a livello internazionale. || FireTecno è la linea di motoriduttori dedicata al settore delle caldaie e stufe a biomassa."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

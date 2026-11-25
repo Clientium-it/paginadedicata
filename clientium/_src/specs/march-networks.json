@@ -1,0 +1,28 @@
+{
+ "slug": "march-networks",
+ "company": "March Networks",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "March Networks offre videosorveglianza con intelligenza artificiale gestita in cloud, da 1 a oltre 10.000 telecamere, per banche e catene retail. Qui trova come lavoriamo e cosa potremmo fare per March Networks.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per March Networks.",
+ "evidence": [
+  {
+   "claim": "March Networks offre videosorveglianza con intelligenza artificiale gestita in cloud, da 1 a oltre 10.000 telecamere, per banche e catene retail.",
+   "url": "https://www.marchnetworks.com/",
+   "quote": "AI-powered video security for 1 to 10,000+ camera deployments Protect every location from one cloud video management platform. || AI security cameras and enterprise video surveillance trusted by the world’s largest banks and retailers."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

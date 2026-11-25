@@ -1,0 +1,28 @@
+{
+ "slug": "segafredo-2",
+ "company": "Segafredo",
+ "first_name": "Ya",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Segafredo serve oltre 100 paesi con più di 400 shop e lavora con bar, ristoranti, pasticcerie, hotel e aziende. Qui trova come lavoriamo e cosa potremmo fare per Segafredo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Segafredo.",
+ "evidence": [
+  {
+   "claim": "Segafredo serve oltre 100 paesi con più di 400 shop e lavora con bar, ristoranti, pasticcerie, hotel e aziende.",
+   "url": "https://www.segafredo.it/pages/chi-siamo",
+   "quote": "100+ Paesi serviti 400+ Segafredo shop Dall'Italia ai principali mercati internazionali, la nostra presenza si estende attraverso caffetterie, ristorazione e punti vendita selezionati. || Segafredo Zanetti S.p.a. Via Puccini, 1 - 40067 Sesto di Rastignano, Pianoro (BO) || Tipologia Business Bar Ristoranti Pasticcerie Hotel Corporate"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

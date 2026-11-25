@@ -1,0 +1,28 @@
+{
+ "slug": "starline-2",
+ "company": "Starline",
+ "first_name": "Monica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Starline ha una capacità produttiva di 200.000 valvole l'anno, per oltre il 70% destinate all'upstream oil & gas, e produce a 30 km da Milano. Qui trova come lavoriamo e cosa potremmo fare per Starline.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Starline.",
+ "evidence": [
+  {
+   "claim": "Starline ha una capacità produttiva di 200.000 valvole l'anno, per oltre il 70% destinate all'upstream oil & gas, e produce a 30 km da Milano.",
+   "url": "https://starline.it/products/",
+   "quote": "Today Starline, with a production capacity of 200.000 valves/year, a complete size range and pressure ratings ½” to 36” – class 150 – 2500lbs, API6A rate 3000-15000PSI in all the possible configurations and materials, is considered both by Customers and other Valve Manufacturers one of the Worldwide Market Leaders in Upstream Oil & Gas Applications which represent more than 70% of the final products destination. || Production plant located in northern Italy – 30 km from Milan"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "tegola-canadese-2",
+ "company": "Tegola Canadese",
+ "first_name": "Simone",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tegola Canadese è nata nel 1977 a Vittorio Veneto, fa parte del gruppo IWIS e dal 2004 ha un secondo punto produttivo vicino a Mosca. Qui trova come lavoriamo e cosa potremmo fare per Tegola Canadese.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tegola Canadese.",
+ "evidence": [
+  {
+   "claim": "Tegola Canadese è nata nel 1977 a Vittorio Veneto, fa parte del gruppo IWIS e dal 2004 ha un secondo punto produttivo vicino a Mosca.",
+   "url": "https://tegolacanadese.com/azienda/",
+   "quote": "Tegola Canadese Srl nasce nel 1977 a Vittorio Veneto (TV) e fa parte del gruppo IWIS, interamente a capitale italiano. || Nel 2004 abbiamo aperto vicino a Mosca un secondo punto produttivo, che si è distinto per la sua modernità ed efficienza. || siamo sempre pronti ad affiancare i rivenditori, i progettisti, le imprese, gli applicatori, i proprietari di casa, sia prima della vendita che dopo."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

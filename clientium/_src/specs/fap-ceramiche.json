@@ -1,0 +1,28 @@
+{
+ "slug": "fap-ceramiche",
+ "company": "Fap Ceramiche",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fap Ceramiche fa parte del Gruppo Concorde dal 1997 e propone oltre 30 collezioni in pasta bianca e gres porcellanato fino al formato 120x278. Qui trova come lavoriamo e cosa potremmo fare per Fap Ceramiche.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fap Ceramiche.",
+ "evidence": [
+  {
+   "claim": "Fap Ceramiche fa parte del Gruppo Concorde dal 1997 e propone oltre 30 collezioni in pasta bianca e gres porcellanato fino al formato 120x278.",
+   "url": "https://www.fapceramiche.com/it/azienda/",
+   "quote": "Oltre 30 collezioni di wall tiles in pasta bianca e piastrelle in gres porcellanato che spaziano dai formati tradizionali alle superfici di grandi dimensioni fino al MAXXI formato 120x278 cm || Nel 1997 , dopo trent’anni di successi sui mercati di tutto il mondo, l’azienda entra a far parte del Gruppo Concorde, uno dei principali attori mondiali del settore ceramico."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

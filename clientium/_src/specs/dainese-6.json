@@ -1,0 +1,28 @@
+{
+ "slug": "dainese-6",
+ "company": "Dainese",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dainese realizza giacche moto con tecnologia D-air e protezioni per mountain bike e sci scelte da sportivi di tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Dainese.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dainese.",
+ "evidence": [
+  {
+   "claim": "Dainese realizza giacche moto con tecnologia D-air e protezioni per mountain bike e sci scelte da sportivi di tutto il mondo.",
+   "url": "https://www.dainese.com/de/de/",
+   "quote": "Von Motorradjacken mit der fortschrittlichen D-air®-Technologie bis hin zu Spezialprotektoren für Mountainbiking (MTB) und Skifahren – jedes unserer Produkte ist darauf ausgelegt, höchsten Komfort und Schutz zu bieten. || Sportler und Enthusiasten auf der ganzen Welt wählen uns, um neue Kapitel in der Geschichte von Performance und Sicherheit zu schreiben."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

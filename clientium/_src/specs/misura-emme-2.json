@@ -1,0 +1,28 @@
+{
+ "slug": "misura-emme-2",
+ "company": "Misura Emme",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Misura Emme produce mobili dal 1902 a Mariano Comense, nel distretto brianzolo del mobile, in uno stabilimento di 35.000 mq. Qui trova come lavoriamo e cosa potremmo fare per Misura Emme.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Misura Emme.",
+ "evidence": [
+  {
+   "claim": "Misura Emme produce mobili dal 1902 a Mariano Comense, nel distretto brianzolo del mobile, in uno stabilimento di 35.000 mq.",
+   "url": "https://www.misuraemme.it/it/azienda/storia",
+   "quote": "nel 1902 pose le basi del primo stabilimento dell’azienda a Mariano Comense, nel cuore del prolifico distretto brianzolo del mobile, conosciuto per la sua eccellenza manifatturiera. Oggi lo stabilimento ha una superficie di 35.000 mq. || Oggi lo stabilimento ha una superficie di 35.000 mq."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

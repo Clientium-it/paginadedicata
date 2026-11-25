@@ -1,0 +1,28 @@
+{
+ "slug": "sabaf-3",
+ "company": "Sabaf",
+ "first_name": "Pietro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sabaf progetta, costruisce e distribuisce in tutto il mondo rubinetti, termostati, bruciatori, cerniere e componenti elettronici, con 1.800 persone e 404 clienti. Qui trova come lavoriamo e cosa potremmo fare per Sabaf.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sabaf.",
+ "evidence": [
+  {
+   "claim": "Sabaf progetta, costruisce e distribuisce in tutto il mondo rubinetti, termostati, bruciatori, cerniere e componenti elettronici, con 1.800 persone e 404 clienti.",
+   "url": "https://www.sabafgroup.com/it",
+   "quote": "Il Gruppo Sabaf progetta, costruisce e distribuisce in tutto il mondo rubinetti, termostati, bruciatori, cerniere e componenti elettronici per il settore domestico e professionale. || 1.800 Persone 404 Clienti 54 Paesi 278 Fatturato (Mln €)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

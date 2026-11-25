@@ -1,0 +1,28 @@
+{
+ "slug": "maser",
+ "company": "Maser",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Maser ha i suoi sistemi installati in più di 3.500 stazioni di servizio, siti e depositi in Italia e in alcuni paesi esteri. Qui trova come lavoriamo e cosa potremmo fare per Maser.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Maser.",
+ "evidence": [
+  {
+   "claim": "Maser ha i suoi sistemi installati in più di 3.500 stazioni di servizio, siti e depositi in Italia e in alcuni paesi esteri.",
+   "url": "https://www.maseritalia.it/azienda/",
+   "quote": "Ad oggi i sistemi Maser sono installati in più di 3.500 stazioni di servizio, siti e depositi in Italia ed in alcuni paesi esteri || Maser Italia srl Via degli Artigiani, 20/E 40024 Castel San Pietro Terme (BO)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

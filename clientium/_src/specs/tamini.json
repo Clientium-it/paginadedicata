@@ -1,0 +1,28 @@
+{
+ "slug": "tamini",
+ "company": "Tamini",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tamini progetta, produce e manutiene trasformatori di grande potenza per la rete elettrica e trasformatori industriali per metallurgia, con sedi in USA e India. Qui trova come lavoriamo e cosa potremmo fare per Tamini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tamini.",
+ "evidence": [
+  {
+   "claim": "Tamini progetta, produce e manutiene trasformatori di grande potenza per la rete elettrica e trasformatori industriali per metallurgia, con sedi in USA e India.",
+   "url": "https://www.tamini.it/it/",
+   "quote": "Progettiamo trasformatori di grande potenza per generazione, trasmissione e distribuzione di energia elettrica. Realizziamo inoltre trasformatori industriali per metallurgia e raddrizzatori. || attraverso un’estesa rete commerciale e sedi in USA e India || progettiamo, produciamo e manuteniamo in tutto il mondo trasformatori per industrie ad alta intensità energetica e per operatori del settore energetico"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

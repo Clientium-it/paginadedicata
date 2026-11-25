@@ -1,0 +1,28 @@
+{
+ "slug": "simonelli-group-3",
+ "company": "Simonelli Group",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Simonelli Group da Belforte del Chienti destina il 95% della produzione ai mercati internazionali e opera in oltre 130 paesi. Qui trova come lavoriamo e cosa potremmo fare per Simonelli Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Simonelli Group.",
+ "evidence": [
+  {
+   "claim": "Simonelli Group da Belforte del Chienti destina il 95% della produzione ai mercati internazionali e opera in oltre 130 paesi.",
+   "url": "https://simonelligroup.com/company/",
+   "quote": "Operiamo in oltre 130 paesi, con il 95% della nostra produzione destinata ai mercati internazionali. || Headquarter Simonelli Group Spa Via E. Betti, 1 62020 Belforte del Chienti"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

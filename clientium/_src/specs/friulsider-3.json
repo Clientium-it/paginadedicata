@@ -1,0 +1,28 @@
+{
+ "slug": "friulsider-3",
+ "company": "Friulsider",
+ "first_name": "Amanda",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Friulsider produce fissaggi metallici, plastici e chimici, viti e bulloneria con 125 impianti e distribuisce stabilmente in oltre 30 nazioni europee. Qui trova come lavoriamo e cosa potremmo fare per Friulsider.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Friulsider.",
+ "evidence": [
+  {
+   "claim": "Friulsider produce fissaggi metallici, plastici e chimici, viti e bulloneria con 125 impianti e distribuisce stabilmente in oltre 30 nazioni europee.",
+   "url": "https://www.friulsider.com/chi-siamo.html",
+   "quote": "dai 125 impianti produttivi dedicati alle 4 linee di prodotto (fissaggi metallici/plastici/chimici, viti autofilettanti/autoperforanti, fissaggi per legno e bulloneria) || FRIULSIDER ha una distribuzione stabile in oltre 30 Nazioni europee, raggiunge commercialmente oltre 60 Paesi nel mondo. || YOUR FIXING SCHOOL User Rivenditori Installatori Progettisti"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "twt-2",
+ "company": "TWT",
+ "first_name": "Tomas",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TWT unisce tre storiche realtà trentine che progettano utensili per lavorare il legno, con una filiale in Spagna, al servizio dei produttori di infissi. Qui trova come lavoriamo e cosa potremmo fare per TWT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TWT.",
+ "evidence": [
+  {
+   "claim": "TWT unisce tre storiche realtà trentine che progettano utensili per lavorare il legno, con una filiale in Spagna, al servizio dei produttori di infissi.",
+   "url": "https://twt.tools/utensili-per-lavorare-il-legno-storia-radici-di-twt/",
+   "quote": "TWT è l’unione di tre storiche realtà imprenditoriali trentine, specializzate nella progettazione e realizzazione di utensili per lavorare il legno. || FILIALE SPAGNOLA Simatec S.L. Sistemas para madera de alta tecnologia Polígono Rio Gállego C/e Parcela-15 50840 San Mateo de Gállego – España || ogni soluzione ha l’obiettivo di supportare il lavoro dei produttori di infissi in legno con un’offerta sempre più diversificata ed efficace."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

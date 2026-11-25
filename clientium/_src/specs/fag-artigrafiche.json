@@ -1,0 +1,28 @@
+{
+ "slug": "fag-artigrafiche",
+ "company": "FAG Artigrafiche",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FAG Artigrafiche dal 1969 progetta e produce packaging ed espositori in cartone ondulato stampato in offset, negli stabilimenti di Dogliani e Canneto sull'Oglio. Qui trova come lavoriamo e cosa potremmo fare per FAG Artigrafiche.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FAG Artigrafiche.",
+ "evidence": [
+  {
+   "claim": "FAG Artigrafiche dal 1969 progetta e produce packaging ed espositori in cartone ondulato stampato in offset, negli stabilimenti di Dogliani e Canneto sull'Oglio.",
+   "url": "https://fagartigrafiche.com/company/",
+   "quote": "Nata nel 1969, FAG Artigrafiche oggi è una realtà industriale solida e strutturata, specializzata nella progettazione e produzione di packaging ed espositori in cartone ondulato accoppiato con stampa offset. || Oltre alla sede e allo stabilimento produttivo di Dogliani (CN), oggi l'azienda si è ampliata grazie al secondo stabilimento di Canneto sull'Oglio (MN). || ALIMENTARE BEVANDE CURA DELLA PERSONA CIBO E ACCESSORI PER ANIMALI PRODOTTI PER LA CASA INDUSTRIALE"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

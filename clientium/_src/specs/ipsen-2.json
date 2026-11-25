@@ -1,0 +1,28 @@
+{
+ "slug": "ipsen-2",
+ "company": "Ipsen",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ipsen ha prodotti registrati in 88 Paesi e lavora con 5.000 persone per creare valore per i pazienti in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Ipsen.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ipsen.",
+ "evidence": [
+  {
+   "claim": "Ipsen ha prodotti registrati in 88 Paesi e lavora con 5.000 persone per creare valore per i pazienti in tutto il mondo.",
+   "url": "https://www.ipsen.com/company/",
+   "quote": "Ipsen’s products are registered in 88 countries. With 5,000 employees working to create value for patients and society around the world, we have global reach while remaining an agile company with an entrepreneurial mindset. || Ipsen’s products are registered in 88 countries."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

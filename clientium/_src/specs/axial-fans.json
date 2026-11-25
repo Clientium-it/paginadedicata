@@ -1,0 +1,28 @@
+{
+ "slug": "axial-fans",
+ "company": "Axial Fans",
+ "first_name": "Sinan",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Axial Fans fornisce dalla sede di Besnate ventilatori assiali brevettati all'industria del raffreddamento in tutto il mondo, anche in climi difficili. Qui trova come lavoriamo e cosa potremmo fare per Axial Fans.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Axial Fans.",
+ "evidence": [
+  {
+   "claim": "Axial Fans fornisce dalla sede di Besnate ventilatori assiali brevettati all'industria del raffreddamento in tutto il mondo, anche in climi difficili.",
+   "url": "https://www.axialfansint.com/company/",
+   "quote": "We are a leading global company providing axial fans and services to the cooling industries worldwide. Our patented products are installed in thousands of applications and operating in critical environments and challenging climates. || Axial Fans International srl: via L. da Vinci 21010 Besnate (VA)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

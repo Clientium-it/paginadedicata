@@ -1,0 +1,28 @@
+{
+ "slug": "erlacher-2",
+ "company": "Erlacher",
+ "first_name": "Manfred",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Erlacher ha oltre 100 anni di esperienza nell'arredamento d'interni e realizza progetti su misura per alberghi, ristorazione, negozi, architettura sacra ed edifici pubblici. Qui trova come lavoriamo e cosa potremmo fare per Erlacher.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Erlacher.",
+ "evidence": [
+  {
+   "claim": "Erlacher ha oltre 100 anni di esperienza nell'arredamento d'interni e realizza progetti su misura per alberghi, ristorazione, negozi, architettura sacra ed edifici pubblici.",
+   "url": "https://www.erlacher.it/it/about-us/",
+   "quote": "Con oltre 100 anni di esperienza nell’arredamento d’interni di qualità, Erlacher realizza progetti di interior design su misura, scaturiti dalla penna di architetti e arredatori, nel settore alberghiero e gastronomico, così come nell’ambito dello shop fitting e dell’architettura sacra, negli edifici dell’amministrazione pubblica e nelle abitazioni private. || Erlacher srl Italy - Alto Adige 39040 Barbiano (BZ) Via Brennero 4 || nel settore alberghiero e gastronomico, così come nell’ambito dello shop fitting e dell’architettura sacra, negli edifici dell’amministrazione pubblica e nelle abitazioni private"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

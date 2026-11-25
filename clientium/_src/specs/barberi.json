@@ -1,0 +1,28 @@
+{
+ "slug": "barberi",
+ "company": "Barberi",
+ "first_name": "Pascal",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Barberi da 70 anni sviluppa, produce e distribuisce valvole e componenti per impianti termici, idrosanitari, industria e agricoltura. Qui trova come lavoriamo e cosa potremmo fare per Barberi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Barberi.",
+ "evidence": [
+  {
+   "claim": "Barberi da 70 anni sviluppa, produce e distribuisce valvole e componenti per impianti termici, idrosanitari, industria e agricoltura.",
+   "url": "https://www.barberi.it/it/it/chi-siamo",
+   "quote": "è un'azienda a conduzione familiare che da 70 anni sviluppa, produce e distribuisce valvole e componenti per impianti termici, idrosanitari, industria e agricoltura. || Barberi® distribuisce tutti i suoi prodotti in Italia e nel resto del mondo con una rete commerciale diretta e con collaboratori esterni nei vari paesi europei ed extraeuropei. || Un dipartimento aziendale completamente dedicato alla progettazione di componenti per costruttori di caldaie, pompe di calore, sistemi a biomassa e produttori di sistemi completi."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "adr",
+ "company": "ADR",
+ "first_name": "Srikanth",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ADR progetta e produce soluzioni per mezzi agricoli, forestali e stradali con 1500 dipendenti, 9 siti produttivi e vendite in 72 Paesi. Qui trova come lavoriamo e cosa potremmo fare per ADR.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ADR.",
+ "evidence": [
+  {
+   "claim": "ADR progetta e produce soluzioni per mezzi agricoli, forestali e stradali con 1500 dipendenti, 9 siti produttivi e vendite in 72 Paesi.",
+   "url": "https://www.adraxles.com/it/about/il-gruppo/",
+   "quote": "Progettiamo, produciamo e distribuiamo soluzioni efficaci e personalizzate per tutti i tipi di applicazioni nei settori agricoli, industriali e speciali. || Dipendenti 1500 Sedi 14 Paesi nella rete di distribuzione 50 Dati finanziari Turnover Plant Siti produttivi 9 Branches Distribuzione 6 Countries Paesi in cui vendiamo 72 || Le nostre soluzioni sono adatte ad essere installate su mezzi agricoli, forestali, stradali, mezzi per usi speciali in porti, cave e molti altri settori."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

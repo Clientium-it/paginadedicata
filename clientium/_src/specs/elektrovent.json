@@ -1,0 +1,28 @@
+{
+ "slug": "elektrovent",
+ "company": "Elektrovent",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Elektrovent da Soiano del Lago serve OEM, system integrator e progettisti in tutta Europa con uno stabilimento di 11.000 m². Qui trova come lavoriamo e cosa potremmo fare per Elektrovent.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Elektrovent.",
+ "evidence": [
+  {
+   "claim": "Elektrovent da Soiano del Lago serve OEM, system integrator e progettisti in tutta Europa con uno stabilimento di 11.000 m².",
+   "url": "https://www.elektrovent.it/azienda",
+   "quote": "11.000 m² di stabilimento a servizio di OEM, system integrator e progettisti in tutta Europa || L'azienda si trasferisce nell'attuale sede a Soiano del Lago. || 11.000 m² di stabilimento a servizio di OEM, system integrator e progettisti in tutta Europa"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

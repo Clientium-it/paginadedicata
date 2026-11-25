@@ -1,0 +1,28 @@
+{
+ "slug": "system-logistics-4",
+ "company": "System Logistics",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "System Logistics sviluppa da Fiorano Modenese magazzini automatici su misura con trasloelevatori, movimentazione e software, soprattutto per food & beverage e grande distribuzione. Qui trova come lavoriamo e cosa potremmo fare per System Logistics.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per System Logistics.",
+ "evidence": [
+  {
+   "claim": "System Logistics sviluppa da Fiorano Modenese magazzini automatici su misura con trasloelevatori, movimentazione e software, soprattutto per food & beverage e grande distribuzione.",
+   "url": "https://www.systemlogistics.com/ita/azienda/chi-siamo",
+   "quote": "Con un'attenzione particolare al settore Food & Beverage e Grande Distribuzione , sviluppa soluzioni su misura per lo stoccaggio e il picking automatizzati, che comprendono trasloelevatori, sistemi di movimentazione, software e servizi. || System Logistics S.p.A. Headquarters and main plant System Logistics S.p.A. Via Ghiarola Vecchia, 50 , 41042 Fiorano Modenese (Modena) Italy || Con un'attenzione particolare al settore Food & Beverage e Grande Distribuzione"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

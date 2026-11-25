@@ -1,0 +1,28 @@
+{
+ "slug": "radiatori-2000",
+ "company": "Radiatori 2000",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Radiatori 2000 produce radiatori pressofusi ed estrusi in alluminio 100% riciclato a filiera corta e ha avviato una joint venture in Algeria. Qui trova come lavoriamo e cosa potremmo fare per Radiatori 2000.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Radiatori 2000.",
+ "evidence": [
+  {
+   "claim": "Radiatori 2000 produce radiatori pressofusi ed estrusi in alluminio 100% riciclato a filiera corta e ha avviato una joint venture in Algeria.",
+   "url": "https://www.radiatori2000.it/chi-siamo/",
+   "quote": "Radiatori 2000 produce radiatori pressofusi ed estrusi utilizzando alluminio 100% riciclato e a filiera corta . || Radiatori 2000 S.p.A. e Condor Electronics hanno avviato una Joint-Venture Italo-Algerina per la produzione in Algeria di radiatori in alluminio pressofuso"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

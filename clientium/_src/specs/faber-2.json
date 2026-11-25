@@ -1,0 +1,28 @@
+{
+ "slug": "faber-2",
+ "company": "Faber",
+ "first_name": "Alice",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Faber progetta, produce e collauda bombole ad alta pressione per metano e idrogeno, gas industriali e medicali e autorespiratori. Qui trova come lavoriamo e cosa potremmo fare per Faber.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Faber.",
+ "evidence": [
+  {
+   "claim": "Faber progetta, produce e collauda bombole ad alta pressione per metano e idrogeno, gas industriali e medicali e autorespiratori.",
+   "url": "https://faber-italy.com/",
+   "quote": "Faber Industrie is a world’s leading company in the design, manufacturing, testing and marketing of high-pressure gas cylinders and systems used for Clean Energy (CNG & Hydrogen), Industrial (Technical, Medical, Special, Food&Beverage and Fire-Fighting gases) and Air Breathing Apparatus (SCUBA & SCBA)."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "acquaviva-3",
+ "company": "Acquaviva",
+ "first_name": "Alessio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Acquaviva porta acqua nelle aziende italiane dal 1994 con 160 collaboratori, 2 impianti e 18 sedi operative per uffici, scuole e ospedali. Qui trova come lavoriamo e cosa potremmo fare per Acquaviva.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Acquaviva.",
+ "evidence": [
+  {
+   "claim": "Acquaviva porta acqua nelle aziende italiane dal 1994 con 160 collaboratori, 2 impianti e 18 sedi operative per uffici, scuole e ospedali.",
+   "url": "https://acquaviva.com/",
+   "quote": "Acquaviva porta acqua buona nelle aziende italiane dal 1994. Scegli l’acqua di sorgente con EcoBoccione, o l’acqua microfiltrata dalla rete con ReteViva. Erogatore sempre incluso, assistenza 365 giorni. || Con 160 collaboratori, 2 impianti e 18 sedi operative, Acquaviva è leader nel settore dei distributori acqua per uffici, scuole, ospedali e industrie. || Servizi su misura per ogni realtà: uffici, ospedali, scuole, industrie, ristoranti e palestre."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

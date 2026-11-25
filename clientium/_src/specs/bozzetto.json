@@ -1,0 +1,28 @@
+{
+ "slug": "bozzetto",
+ "company": "Bozzetto",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bozzetto nasce a Bergamo nel 1919 e oggi produce ausiliari chimici per tessile, edilizia, trattamento acque e personal care con sedi in 9 paesi. Qui trova come lavoriamo e cosa potremmo fare per Bozzetto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bozzetto.",
+ "evidence": [
+  {
+   "claim": "Bozzetto nasce a Bergamo nel 1919 e oggi produce ausiliari chimici per tessile, edilizia, trattamento acque e personal care con sedi in 9 paesi.",
+   "url": "https://www.bozzetto-group.com/about-us/",
+   "quote": "a chemical company founded in Bergamo in 1919 , grown and developed over a century, becoming the successful international Group it is now. The Bozzetto Group produces chemical auxiliaries for the textile industry, the construction industry, the water treatment segment, the personal care industry, the agrochemical sector, and many others. || be present with head offices in 9 countries worldwide: Italy, Germany, Spain, Poland, Turkey, China, Indonesia, United States, and Bangladesh. || The Bozzetto Group produces chemical auxiliaries for the textile industry, the construction industry, the water treatment segment, the personal care industry, the agrochemical sector, and many others."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

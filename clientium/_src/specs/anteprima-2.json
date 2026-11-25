@@ -1,0 +1,28 @@
+{
+ "slug": "anteprima-2",
+ "company": "Anteprima",
+ "first_name": "Alice",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Anteprima nobilita e commercializza tessuti d'arredamento a Montemurlo per contract, nautica, caravan, motorhome, calzatura e accessorio. Qui trova come lavoriamo e cosa potremmo fare per Anteprima.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Anteprima.",
+ "evidence": [
+  {
+   "claim": "Anteprima nobilita e commercializza tessuti d'arredamento a Montemurlo per contract, nautica, caravan, motorhome, calzatura e accessorio.",
+   "url": "https://anteprimatessuti.it/company/",
+   "quote": "Siamo specializzati nella nobilitazione e commercializzazione dei tessuti d’arredamento. Complementi d'arredo, contract, nautica, caravan, motorhome, calzatura e accessorio. || Anteprima S.p.A. Via Montalese 33 – 35, 59013 Montemurlo, Prato - Italia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

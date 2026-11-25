@@ -1,0 +1,28 @@
+{
+ "slug": "forgiatura-vienna",
+ "company": "Forgiatura Vienna",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Forgiatura Vienna nasce nel 1962 con la prima officina di Antonio Vienna a Rho e ha poi integrato OFP e TTV. Qui trova come lavoriamo e cosa potremmo fare per Forgiatura Vienna.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Forgiatura Vienna.",
+ "evidence": [
+  {
+   "claim": "Forgiatura Vienna nasce nel 1962 con la prima officina di Antonio Vienna a Rho e ha poi integrato OFP e TTV.",
+   "url": "https://www.givagroup.it/history/",
+   "quote": "1962 Forgiatura A. Vienna Mr. Antonio Vienna set the first workshop of Forgiatura A. Vienna in Rho (Milan). || Merger between F.Vienna (merger agent) and OFP and TTV (merged)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

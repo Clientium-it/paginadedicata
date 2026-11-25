@@ -1,0 +1,28 @@
+{
+ "slug": "better-silver-3",
+ "company": "Better Silver",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Better Silver progetta e produce catene, gioielli e componenti in argento per grandi marchi e retailer internazionali e ha aperto un ufficio negli USA. Qui trova come lavoriamo e cosa potremmo fare per Better Silver.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Better Silver.",
+ "evidence": [
+  {
+   "claim": "Better Silver progetta e produce catene, gioielli e componenti in argento per grandi marchi e retailer internazionali e ha aperto un ufficio negli USA.",
+   "url": "https://www.bettersilver.it/corporate/our-history/",
+   "quote": "specializes in the design, manufacture and marketing of classic, innovative and customized silver chains, jewelry, and other precious components for a host of major international brands and retailers. || Opening of new office in the USA. || for a host of major international brands and retailers."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

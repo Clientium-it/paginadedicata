@@ -1,0 +1,28 @@
+{
+ "slug": "rico",
+ "company": "RICO",
+ "first_name": "Alessandra",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "RICO dal 1978 lavora a Castelfidardo in uno stabilimento di 20.000 mq e fornisce direttamente OEM come Audi, Volkswagen, Lamborghini e Bugatti. Qui trova come lavoriamo e cosa potremmo fare per RICO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RICO.",
+ "evidence": [
+  {
+   "claim": "RICO dal 1978 lavora a Castelfidardo in uno stabilimento di 20.000 mq e fornisce direttamente OEM come Audi, Volkswagen, Lamborghini e Bugatti.",
+   "url": "https://www.ricoitaly.com/chi-siamo/",
+   "quote": "RICO nasce nel 1978 a Castelfidardo (AN) e dispone di uno stabilimento produttivo di 20.000 mq . || RICO nasce nel 1978 a Castelfidardo (AN) e dispone di uno stabilimento produttivo di 20.000 mq . || RICO lavora in fornitura diretta con i principali OEM automobilistici al mondo (fra cui Audi, Volkswagen, Lamborghini, Bugatti) e in fornitura indiretta per i più grandi gruppi industriali."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

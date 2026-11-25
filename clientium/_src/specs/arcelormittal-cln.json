@@ -1,0 +1,28 @@
+{
+ "slug": "arcelormittal-cln",
+ "company": "ArcelorMittal CLN",
+ "first_name": "Angela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ArcelorMittal CLN da Caselette serve oltre 3.000 clienti dell'automotive, dell'elettrodomestico e delle costruzioni con 1 milione di tonnellate vendute l'anno. Qui trova come lavoriamo e cosa potremmo fare per ArcelorMittal CLN.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ArcelorMittal CLN.",
+ "evidence": [
+  {
+   "claim": "ArcelorMittal CLN da Caselette serve oltre 3.000 clienti dell'automotive, dell'elettrodomestico e delle costruzioni con 1 milione di tonnellate vendute l'anno.",
+   "url": "https://arcelormittalcln.com/it/azienda",
+   "quote": "Dipendenti 500 Clienti Oltre 3.000 Vendite 1 milione di tonnellate/anno Fatturato* 615 milioni di Euro Sede principale Corso Susa, 13/15 10040 Caselette (TO) Italia || Sede principale Corso Susa, 13/15 10040 Caselette (TO) Italia || sostenendo i settori dell’automotive e dell’elettrodomestico, così come quello delle costruzioni e dell’industria nel produrre beni di alto valore"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

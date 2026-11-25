@@ -1,0 +1,28 @@
+{
+ "slug": "lazzerini-3",
+ "company": "Lazzerini",
+ "first_name": "Alice",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lazzerini dal 1967 progetta sedili per autobus, scuolabus, treni, navi e veicoli speciali e ha una sede negli Stati Uniti per il Nord America. Qui trova come lavoriamo e cosa potremmo fare per Lazzerini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lazzerini.",
+ "evidence": [
+  {
+   "claim": "Lazzerini dal 1967 progetta sedili per autobus, scuolabus, treni, navi e veicoli speciali e ha una sede negli Stati Uniti per il Nord America.",
+   "url": "https://lazzerini.it/azienda/",
+   "quote": "Since 1967, Lazzerini has not just built seats—it has designed travel experiences. With a rich history, the company has become a global reference in seating solutions for buses, school buses, trains, ships, cars, and special vehicles. || Lazzerini Corporation is established in the United States to strategically serve the North American market."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

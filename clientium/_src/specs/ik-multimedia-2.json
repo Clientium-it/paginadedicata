@@ -1,0 +1,28 @@
+{
+ "slug": "ik-multimedia-2",
+ "company": "IK Multimedia",
+ "first_name": "Sopan",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IK Multimedia sviluppa da Modena tecnologie per chitarra, registrazione, strumenti e creator, con una sede anche in Florida. Qui trova come lavoriamo e cosa potremmo fare per IK Multimedia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IK Multimedia.",
+ "evidence": [
+  {
+   "claim": "IK Multimedia sviluppa da Modena tecnologie per chitarra, registrazione, strumenti e creator, con una sede anche in Florida.",
+   "url": "https://ikmultimedia.com/",
+   "quote": "We are innovators of guitar, recording, instruments and creator technologies that make you sound better. || IK Multimedia Production srl - Via dell'Industria, 46 - 41122 Modena, Italy - Phone: +39 059 285496 - CF/PI: IT02359550361 IK Multimedia US, LLC - 590 Sawgrass Corporate Pkwy. - Sunrise, FL 33325 || GUITAR Guitar tech for your perfect tone Shop now RECORDING Recording tools for professional sound Shop now INSTRUMENTS Instruments and software for every sound Shop now CREATORS Mobile tools for creators"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

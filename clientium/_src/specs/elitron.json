@@ -1,0 +1,28 @@
+{
+ "slug": "elitron",
+ "company": "Elitron",
+ "first_name": "Joao",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Elitron ha oltre 25 brevetti e più di 2800 installazioni in oltre 30 settori tra cui arredamento e automotive e presenza in oltre 50 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Elitron.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Elitron.",
+ "evidence": [
+  {
+   "claim": "Elitron ha oltre 25 brevetti e più di 2800 installazioni in oltre 30 settori tra cui arredamento e automotive e presenza in oltre 50 Paesi.",
+   "url": "https://www.elitron.com/chi-siamo/",
+   "quote": "Oltre 25 brevetti, oltre 100 soluzioni uniche ed originali, più di 2800 installazioni in oltre 30 settori, presenza in oltre 50 Paesi. || Elitron Head Office Viale I Maggio, 42, Zona Ind.le 63813 Monte Urano (FM) Italy || 2004 Ingresso dei sistemi Elitron nei settori ARREDAMENTO e AUTOMOTIVE"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

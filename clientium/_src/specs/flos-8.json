@@ -1,0 +1,28 @@
+{
+ "slug": "flos-8",
+ "company": "Flos",
+ "first_name": "Joffrey",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Flos crea illuminazione che va dalle lampade da scrivania fino a grandi progetti su commissione. Qui trova come lavoriamo e cosa potremmo fare per Flos.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Flos.",
+ "evidence": [
+  {
+   "claim": "Flos crea illuminazione che va dalle lampade da scrivania fino a grandi progetti su commissione.",
+   "url": "https://flos.com/de/de/",
+   "quote": "Von ikonischen Schreibtischleuchten bis zu monumentalen Auftragsprojekten ist jede Flos-Kreation eine Synthese aus Form, Funktion und Fantasie."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

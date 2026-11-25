@@ -1,0 +1,28 @@
+{
+ "slug": "hyster-yale",
+ "company": "Hyster Yale",
+ "first_name": "Amedeo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hyster Yale produce carrelli elevatori e soluzioni energetiche con i marchi Hyster e Yale e a Masate ha stabilimento, magazzino e centro sviluppo prodotto. Qui trova come lavoriamo e cosa potremmo fare per Hyster Yale.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hyster Yale.",
+ "evidence": [
+  {
+   "claim": "Hyster Yale produce carrelli elevatori e soluzioni energetiche con i marchi Hyster e Yale e a Masate ha stabilimento, magazzino e centro sviluppo prodotto.",
+   "url": "https://www.hyster-yale.com/en-us/company/about/",
+   "quote": "Hyster-Yale Materials Handling is a leading global manufacturer of lift trucks, and technology and energy solutions, marketed primarily under the Hyster® and Yale® brands. || Masate, Italy: Manufacturing Plant, Administrative Offices, Warehouse Product Development Center"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

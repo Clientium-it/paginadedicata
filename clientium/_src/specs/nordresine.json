@@ -1,0 +1,28 @@
+{
+ "slug": "nordresine",
+ "company": "NordResine",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "NordResine dal 1987 lavora nell'edilizia industriale con gli stabilimenti di Susegana e Spilimbergo e forma applicatori professionisti. Qui trova come lavoriamo e cosa potremmo fare per NordResine.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per NordResine.",
+ "evidence": [
+  {
+   "claim": "NordResine dal 1987 lavora nell'edilizia industriale con gli stabilimenti di Susegana e Spilimbergo e forma applicatori professionisti.",
+   "url": "https://nordresine.com/it/",
+   "quote": "NordResine, dal 1987, è attiva nel settore industriale edile offrendo soluzioni innovative e creando valore attraverso prodotti e servizi di eccellenza. || Sede e Stabilimento di Susegana Stabilimento di Spilimbergo || Condividiamo la nostra esperienza con applicatori professionisti, formando figure autonome e qualificate, capaci di garantire risultati a regola d’arte."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

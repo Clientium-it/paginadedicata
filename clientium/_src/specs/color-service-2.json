@@ -1,0 +1,28 @@
+{
+ "slug": "color-service-2",
+ "company": "Color Service",
+ "first_name": "Victor",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Color Service produce sistemi di dosaggio automatico per industria tessile, gomma, pneumatici, cosmetica, masterbatch e alimentare con 180 addetti. Qui trova come lavoriamo e cosa potremmo fare per Color Service.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Color Service.",
+ "evidence": [
+  {
+   "claim": "Color Service produce sistemi di dosaggio automatico per industria tessile, gomma, pneumatici, cosmetica, masterbatch e alimentare con 180 addetti.",
+   "url": "https://colorservice.eu/history/",
+   "quote": "Color Service conducts engineering and production for their cutting-edge machinery across four premises, with a total production area of 25,500 square meters and 180 highly skilled employees. || Color Service conducts engineering and production for their cutting-edge machinery across four premises, with a total production area of 25,500 square meters and 180 highly skilled employees. || Color Service is an Italian leading company in the production of automatic dosing systems for textile, rubber, tire, cosmetics, color masterbatch and food industry."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

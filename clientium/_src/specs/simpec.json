@@ -1,0 +1,28 @@
+{
+ "slug": "simpec",
+ "company": "Simpec",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Simpec dal 1993 progetta, costruisce, installa e assiste impianti di trattamento acque e depurazione reflui per l'industria in Italia e all'estero. Qui trova come lavoriamo e cosa potremmo fare per Simpec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Simpec.",
+ "evidence": [
+  {
+   "claim": "Simpec dal 1993 progetta, costruisce, installa e assiste impianti di trattamento acque e depurazione reflui per l'industria in Italia e all'estero.",
+   "url": "https://www.simpec.it/",
+   "quote": "SIMPEC, azienda fondata nel 1993, è il partner ideale per la Progettazione, Costruzione, Installazione e Assistenza post-vendita di impianti di trattamento acque e depurazione reflui. La società opera prevalentemente nel settore industriale a livello nazionale e internazionale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

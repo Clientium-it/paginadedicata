@@ -1,0 +1,28 @@
+{
+ "slug": "turboden-6",
+ "company": "Turboden",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Turboden progetta, costruisce e manutiene sistemi a ciclo Rankine organico per la generazione distribuita con 483 impianti in 52 paesi. Qui trova come lavoriamo e cosa potremmo fare per Turboden.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Turboden.",
+ "evidence": [
+  {
+   "claim": "Turboden progetta, costruisce e manutiene sistemi a ciclo Rankine organico per la generazione distribuita con 483 impianti in 52 paesi.",
+   "url": "https://www.turboden.com/",
+   "quote": "Turboden is an Italian firm and a global leader in the design, manufacture and maintenance of Organic Rankine Cycle (ORC) systems, highly suitable for distributed generation || 52 Countries 483 Plants"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

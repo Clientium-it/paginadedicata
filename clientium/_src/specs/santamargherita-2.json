@@ -1,0 +1,28 @@
+{
+ "slug": "santamargherita-2",
+ "company": "Santamargherita",
+ "first_name": "Monica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Santamargherita ha una capacità di oltre 7.000 m² al giorno di materiali da rivestimento in lastre e mattonelle distribuiti in oltre 70 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Santamargherita.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Santamargherita.",
+ "evidence": [
+  {
+   "claim": "Santamargherita ha una capacità di oltre 7.000 m² al giorno di materiali da rivestimento in lastre e mattonelle distribuiti in oltre 70 Paesi.",
+   "url": "https://www.santamargherita.net/lazienda/",
+   "quote": "Santamargherita vanta una capacità produttiva giornaliera di materiali da rivestimento che supera i 7.000 m², distribuiti sotto forma di lastre e mattonelle in oltre 70 Paesi. || L’azienda include impianti di produzione, uffici amministrativi e R&S. || Qui vengono accolti clienti, architetti, designer, marmisti, posatori, per condividere idee e renderle reali."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

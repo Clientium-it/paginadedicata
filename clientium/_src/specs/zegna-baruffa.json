@@ -1,0 +1,28 @@
+{
+ "slug": "zegna-baruffa",
+ "company": "Zegna Baruffa",
+ "first_name": "Alessia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Zegna Baruffa produce i filati pettinati classici interamente in Italia nello storico stabilimento di Borgosesia, con tutte le fasi di lavorazione integrate. Qui trova come lavoriamo e cosa potremmo fare per Zegna Baruffa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Zegna Baruffa.",
+ "evidence": [
+  {
+   "claim": "Zegna Baruffa produce i filati pettinati classici interamente in Italia nello storico stabilimento di Borgosesia, con tutte le fasi di lavorazione integrate.",
+   "url": "https://www.baruffa.com/company/",
+   "quote": "I filati pettinati classici sono prodotti interamente in Italia nello storico stabilimento di Borgosesia, nel quale vengono realizzate tutte le fasi di lavorazione secondo un principio di completa integrazione verticale. || La struttura industriale di Botto Poala, interamente collocata nello stabilimento di Lessona"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}
