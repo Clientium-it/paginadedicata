@@ -1,0 +1,21 @@
+{
+ "slug": "caredent",
+ "company": "Caredent",
+ "full_name": "Matteo Chiodi",
+ "first": "Matteo",
+ "cover_note": "Caredent è un network di oltre 160 centri dentistici presente in Italia da oltre dieci anni con oltre 1700 tra dipendenti e odontoiatri.",
+ "evidence": [
+  {
+   "claim": "Caredent è un network di oltre 160 centri dentistici presente in Italia da oltre dieci anni con oltre 1700 tra dipendenti e odontoiatri.",
+   "url": "https://www.care-dent.it/",
+   "quote": "Un network con oltre 160 centri Presente in Italia da oltre dieci anni, il network mette a disposizione della salute delle persone dentisti"
+  },
+  {
+   "claim": "Caredent è un network di oltre 160 centri dentistici presente in Italia da oltre dieci anni con oltre 1700 tra dipendenti e odontoiatri.",
+   "url": "https://www.care-dent.it/",
+   "quote": "Oltre 1700 fra dipendenti, odontoiatri e medici lavorano ogni giorno nei centri dentistici"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

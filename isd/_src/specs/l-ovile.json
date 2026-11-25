@@ -1,0 +1,21 @@
+{
+ "slug": "l-ovile",
+ "company": "L'Ovile",
+ "full_name": "Gabriele Mariani",
+ "first": "Gabriele",
+ "cover_note": "L'Ovile ha sedi a Reggio Emilia, Bagno, Rubiera e Casina e conta 418 lavoratrici e lavoratori.",
+ "evidence": [
+  {
+   "claim": "L'Ovile ha sedi a Reggio Emilia, Bagno, Rubiera e Casina e conta 418 lavoratrici e lavoratori.",
+   "url": "https://www.ovile.coop/contatti-e-sedi/",
+   "quote": "Sede operativa Via Filippo De Pisis 9 42124 Reggio Emilia (RE) 0522 271736 Sede di Bagno Sede di Rubiera Sede di Casina Sede legale Largo M.Gerra, 1 – 42124 Reggio Emilia"
+  },
+  {
+   "claim": "L'Ovile ha sedi a Reggio Emilia, Bagno, Rubiera e Casina e conta 418 lavoratrici e lavoratori.",
+   "url": "https://www.ovile.coop/",
+   "quote": "418 Lavoratrici e lavoratori"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

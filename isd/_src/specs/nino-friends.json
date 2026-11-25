@@ -1,0 +1,22 @@
+{
+ "slug": "nino-friends",
+ "company": "Nino & Friends",
+ "full_name": "Antonino Desposito",
+ "first": "Antonino",
+ "cover_note": "Nino & Friends ha store a Capri, Anacapri, Venezia, Firenze, Taormina, Siena, Amalfi, Sorrento e San Gimignano, nata nel 2015 a Sorrento.",
+ "evidence": [
+  {
+   "claim": "Nino & Friends ha store a Capri, Anacapri, Venezia, Firenze, Taormina, Siena, Amalfi, Sorrento e San Gimignano, nata nel 2015 a Sorrento.",
+   "url": "https://ninoandfriends.com/pages/chi-siamo",
+   "quote": "I nostri store, presenti nelle più belle città d’Italia — Capri, Anacapri, Venezia, Firenze, Taormina, Siena, Amalfi, Sorrento e San Gimignano"
+  },
+  {
+   "claim": "Nino & Friends ha store a Capri, Anacapri, Venezia, Firenze, Taormina, Siena, Amalfi, Sorrento e San Gimignano, nata nel 2015 a Sorrento.",
+   "url": "https://ninoandfriends.com/pages/chi-siamo",
+   "quote": "Nasce nel 2015 da una piccola bottega nel cuore di Sorrento"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/nino-friends/logo.png"
+}

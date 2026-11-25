@@ -1,0 +1,22 @@
+{
+ "slug": "proges",
+ "company": "Proges",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Proges ha una rete di 500 strutture e servizi distribuita su 11 regioni, tra nidi, centri diurni, reparti riabilitativi e hospice.",
+ "evidence": [
+  {
+   "claim": "Proges ha una rete di 500 strutture e servizi distribuita su 11 regioni, tra nidi, centri diurni, reparti riabilitativi e hospice.",
+   "url": "https://proges.it/",
+   "quote": "una rete di servizi alla persona di 500 strutture/servizi distribuita su 11 regioni del territorio nazionale"
+  },
+  {
+   "claim": "Proges ha una rete di 500 strutture e servizi distribuita su 11 regioni, tra nidi, centri diurni, reparti riabilitativi e hospice.",
+   "url": "https://proges.it/",
+   "quote": "Operiamo nel settore educativo con nidi, scuole dell’infanzia, comunità educative; lavoriamo nell’ assistenza con servizi residenziali e domiciliari, centri diurni, reparti riabilitativi e hospice"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/proges/logo.webp"
+}

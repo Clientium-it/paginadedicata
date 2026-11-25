@@ -1,0 +1,17 @@
+{
+ "slug": "smart-clinic",
+ "company": "Smart Clinic",
+ "full_name": "M Tutuianu",
+ "first": "M",
+ "cover_note": "Smart Clinic ha 13 sedi con oltre 500 specialisti, più di 30 specializzazioni e 200000 prestazioni.",
+ "evidence": [
+  {
+   "claim": "Smart Clinic ha 13 sedi con oltre 500 specialisti, più di 30 specializzazioni e 200000 prestazioni.",
+   "url": "https://www.smartclinic.it/",
+   "quote": "500 + specialisti 13 sedi 200000 prestazioni 30 + specializzazioni"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/smart-clinic/logo.svg"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "prenatal",
+ "company": "Prénatal",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Prénatal ha 169 punti vendita ed è arrivata in Italia nel 1963 con il primo negozio a Milano.",
+ "evidence": [
+  {
+   "claim": "Prénatal ha 169 punti vendita ed è arrivata in Italia nel 1963 con il primo negozio a Milano.",
+   "url": "https://www.prenatal.com/conosci-prenatal/",
+   "quote": "è diventata un punto di riferimento importante con i suoi 169 punti di vendita"
+  },
+  {
+   "claim": "Prénatal ha 169 punti vendita ed è arrivata in Italia nel 1963 con il primo negozio a Milano.",
+   "url": "https://www.prenatal.com/conosci-prenatal/",
+   "quote": "sbarca in Italia nel 1963 con il primo punto vendita a Milano"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/prenatal/logo.svg"
+}

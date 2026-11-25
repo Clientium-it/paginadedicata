@@ -1,0 +1,21 @@
+{
+ "slug": "vista-vision",
+ "company": "Vista Vision",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Vista Vision ha 18 cliniche oculistiche da Milano a Messina ed è il più grande network del settore in Italia.",
+ "evidence": [
+  {
+   "claim": "Vista Vision ha 18 cliniche oculistiche da Milano a Messina ed è il più grande network del settore in Italia.",
+   "url": "https://www.vistavisiongroup.com/dove-siamo/",
+   "quote": "18 cliniche, 1 filosofia . Da Milano a Messina il nostro modo di lavorare non cambia"
+  },
+  {
+   "claim": "Vista Vision ha 18 cliniche oculistiche da Milano a Messina ed è il più grande network del settore in Italia.",
+   "url": "https://www.vistavisiongroup.com/dove-siamo/",
+   "quote": "Vista Vision è il più grande network di cliniche oculistiche in Italia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

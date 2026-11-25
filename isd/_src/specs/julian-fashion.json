@@ -1,0 +1,22 @@
+{
+ "slug": "julian-fashion",
+ "company": "Julian Fashion",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Julian Fashion ha boutique a Milano Marittima, Rimini e nella Repubblica di San Marino, dalla prima aperta sul lungomare nel 1960.",
+ "evidence": [
+  {
+   "claim": "Julian Fashion ha boutique a Milano Marittima, Rimini e nella Repubblica di San Marino, dalla prima aperta sul lungomare nel 1960.",
+   "url": "https://www.julian-fashion.com/en-eu/pages/about",
+   "quote": "Boutique Milano Marittima Rimini Republic of San Marino"
+  },
+  {
+   "claim": "Julian Fashion ha boutique a Milano Marittima, Rimini e nella Repubblica di San Marino, dalla prima aperta sul lungomare nel 1960.",
+   "url": "https://www.julian-fashion.com/en-eu/pages/about",
+   "quote": "In 1960, Giuliano Zabberoni opened a small clothing boutique on the seafront of Milano Marittima."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/julian-fashion/logo.png"
+}

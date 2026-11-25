@@ -1,0 +1,22 @@
+{
+ "slug": "anna-virgili",
+ "company": "Anna Virgili",
+ "full_name": "Ermanno Gaetani",
+ "first": "Ermanno",
+ "cover_note": "Anna Virgili ha una rete di 56 punti vendita su tutto il territorio nazionale, partita nel 1988 a San Benedetto del Tronto.",
+ "evidence": [
+  {
+   "claim": "Anna Virgili ha una rete di 56 punti vendita su tutto il territorio nazionale, partita nel 1988 a San Benedetto del Tronto.",
+   "url": "https://www.annavirgili.com/it-eu/pages/chi-siamo-anna-virgili",
+   "quote": "una rete di 56 punti vendita distribuiti su tutto il territorio nazionale"
+  },
+  {
+   "claim": "Anna Virgili ha una rete di 56 punti vendita su tutto il territorio nazionale, partita nel 1988 a San Benedetto del Tronto.",
+   "url": "https://www.annavirgili.com/it-eu/pages/chi-siamo-anna-virgili",
+   "quote": "Tutto ha inizio nel 1988, a San Benedetto del Tronto, con l'apertura della prima boutique"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/anna-virgili/logo.png"
+}

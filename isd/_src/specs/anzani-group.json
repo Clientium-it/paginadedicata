@@ -1,0 +1,22 @@
+{
+ "slug": "anzani-group",
+ "company": "Anzani Group",
+ "full_name": "De Natale",
+ "first": "De",
+ "cover_note": "Anzani Group ha 8 punti vendita sul territorio e oltre cinquant'anni di esperienza nel settore dell'ottica e dell'optometria.",
+ "evidence": [
+  {
+   "claim": "Anzani Group ha 8 punti vendita sul territorio e oltre cinquant'anni di esperienza nel settore dell'ottica e dell'optometria.",
+   "url": "https://anzanigroup.it/pages/busto-arsizio",
+   "quote": "storica realtà imprenditoriale con 8 punti vendita sul territorio e oltre cinquant'anni di esperienza"
+  },
+  {
+   "claim": "Anzani Group ha 8 punti vendita sul territorio e oltre cinquant'anni di esperienza nel settore dell'ottica e dell'optometria.",
+   "url": "https://anzanigroup.it/pages/busto-arsizio",
+   "quote": "radicata nella tradizione familiare e proiettata all'innovazione nel settore dell'ottica e dell'optometria"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/anzani-group/logo.png"
+}

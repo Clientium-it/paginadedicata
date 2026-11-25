@@ -1,0 +1,17 @@
+{
+ "slug": "nico",
+ "company": "Nico",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Nico ha undici punti vendita in Italia, oltre sessant'anni di attività e più di seicento dipendenti.",
+ "evidence": [
+  {
+   "claim": "Nico ha undici punti vendita in Italia, oltre sessant'anni di attività e più di seicento dipendenti.",
+   "url": "https://www.nico.it/",
+   "quote": "Undici punti vendita in Italia. Più di sessant’anni alle spalle (ma siamo ancora in ottima forma). Oltre seicento dipendenti."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/nico/logo.svg"
+}

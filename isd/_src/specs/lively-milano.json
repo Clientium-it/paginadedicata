@@ -1,0 +1,22 @@
+{
+ "slug": "lively-milano",
+ "company": "Lively Milano",
+ "full_name": "Massimo Quaglia",
+ "first": "Massimo",
+ "cover_note": "Lively Milano è una catena di beauty store con 27 punti vendita a Milano e in Lombardia, nata nel 1952 all'ombra della Madonnina.",
+ "evidence": [
+  {
+   "claim": "Lively Milano è una catena di beauty store con 27 punti vendita a Milano e in Lombardia, nata nel 1952 all'ombra della Madonnina.",
+   "url": "https://www.lively.it/chi-siamo",
+   "quote": "oggi Lively Milano rappresenta un'importante catena di Beauty Store presente con 27 punti vendita a Milano e in Lombardia."
+  },
+  {
+   "claim": "Lively Milano è una catena di beauty store con 27 punti vendita a Milano e in Lombardia, nata nel 1952 all'ombra della Madonnina.",
+   "url": "https://www.lively.it/chi-siamo",
+   "quote": "Era il 1952 quando Mario Galli decise di aprire un negozio di chincaglierie proprio all'ombra della Madonnina, nel cuore di Milano"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/lively-milano/logo.png"
+}

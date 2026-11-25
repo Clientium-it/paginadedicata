@@ -1,0 +1,17 @@
+{
+ "slug": "sorbino",
+ "company": "Sorbino",
+ "full_name": "Ciro Sorbino",
+ "first": "Ciro",
+ "cover_note": "Sorbino gestisce internamente la logistica, con circa 10.000 mq all'Interporto Campano e 7000 mq al Cis di Nola.",
+ "evidence": [
+  {
+   "claim": "Sorbino gestisce internamente la logistica, con circa 10.000 mq all'Interporto Campano e 7000 mq al Cis di Nola.",
+   "url": "https://sorbino.com/pages/chi-siamo",
+   "quote": "la logistica del gruppo che è interamente interna e non esternalizzata, può contare su spazi non indifferenti, circa 10.000 mq presso l’Interporto Campano e ben 7000 mq la struttura logisitica presente al Cis di Nola"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/sorbino/logo.png"
+}

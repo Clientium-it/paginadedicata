@@ -1,0 +1,22 @@
+{
+ "slug": "capello-point",
+ "company": "Capello Point",
+ "full_name": "Fabio Accettura",
+ "first": "Fabio",
+ "cover_note": "Capello Point ha 75 punti vendita nei principali centri commerciali e nelle più importanti città italiane, con prodotti per capelli, estetica e beauty care.",
+ "evidence": [
+  {
+   "claim": "Capello Point ha 75 punti vendita nei principali centri commerciali e nelle più importanti città italiane, con prodotti per capelli, estetica e beauty care.",
+   "url": "https://www.capellopoint.it/pages/chi-siamo",
+   "quote": "Con 75 punti vendita nei principali centri commerciali e nelle più importanti città italiane, Capello Point è il punto di riferimento in Italia"
+  },
+  {
+   "claim": "Capello Point ha 75 punti vendita nei principali centri commerciali e nelle più importanti città italiane, con prodotti per capelli, estetica e beauty care.",
+   "url": "https://www.capellopoint.it/pages/chi-siamo",
+   "quote": "Con 75 punti vendita nei principali centri commerciali e nelle più importanti città italiane, Capello Point è il punto di riferimento in Italia per chi cerca prodotti professionali per capelli, estetica e beauty care"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/capello-point/logo.png"
+}

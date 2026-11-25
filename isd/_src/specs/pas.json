@@ -1,0 +1,21 @@
+{
+ "slug": "pas",
+ "company": "PAS",
+ "full_name": "Gianluca Chiarelli",
+ "first": "Gianluca",
+ "cover_note": "PAS ha una rete di sedi ambulatoriali a Pontassieve, Firenze e Scandicci, dove oltre 200 professionisti offrono consulenze specialistiche.",
+ "evidence": [
+  {
+   "claim": "PAS ha una rete di sedi ambulatoriali a Pontassieve, Firenze e Scandicci, dove oltre 200 professionisti offrono consulenze specialistiche.",
+   "url": "https://www.fondazionepas.it/rete-pas/",
+   "quote": "Ambulatori PAS Pontassieve via Rosano 17, Pontassieve (FI); Ambulatori PAS Ponte Alle Mosse via del Ponte alle Mosse 179/F, Firenze; Fisioterapia PAS Scandicci via Aleardi 2, Scandicci (FI, primo piano della Coop)"
+  },
+  {
+   "claim": "PAS ha una rete di sedi ambulatoriali a Pontassieve, Firenze e Scandicci, dove oltre 200 professionisti offrono consulenze specialistiche.",
+   "url": "https://www.fondazionepas.it/rete-pas/",
+   "quote": "La Rete PAS garantisce i servizi distribuiti nelle sedi ambulatoriali dove oltre 200 professionisti offrono consulenze specialistiche."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

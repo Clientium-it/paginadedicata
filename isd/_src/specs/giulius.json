@@ -1,0 +1,21 @@
+{
+ "slug": "giulius",
+ "company": "Giulius",
+ "full_name": "Daniela Di Bella",
+ "first": "Daniela",
+ "cover_note": "Giulius ha 9 Pet-Store nel Lazio e un progetto di ampliamento al nord con 6 store tra Veneto e Friuli e 4 in Lombardia.",
+ "evidence": [
+  {
+   "claim": "Giulius ha 9 Pet-Store nel Lazio e un progetto di ampliamento al nord con 6 store tra Veneto e Friuli e 4 in Lombardia.",
+   "url": "https://www.gruppodemas.com/chi-siamo/",
+   "quote": "la catena di 9 Pet-Store nel Lazio e un progetto in continuo ampliamento nel nord dell’Italia con 6 store tra Veneto e Friuli e 4 in Lombardia"
+  },
+  {
+   "claim": "Giulius ha 9 Pet-Store nel Lazio e un progetto di ampliamento al nord con 6 store tra Veneto e Friuli e 4 in Lombardia.",
+   "url": "https://www.gruppodemas.com/chi-siamo/",
+   "quote": "Giulius è il punto di riferimento del mercato al dettaglio con la catena di 9 Pet-Store nel Lazio e un progetto in continuo ampliamento nel nord dell’Italia con 6 store tra Veneto e Friuli e 4 in Lombardia."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "usi",
+ "company": "USI",
+ "full_name": "Alessandro Giannetti",
+ "first": "Alessandro",
+ "cover_note": "USI è al servizio della salute da oltre 70 anni con centri nel Lazio e in Toscana.",
+ "evidence": [
+  {
+   "claim": "USI è al servizio della salute da oltre 70 anni con centri nel Lazio e in Toscana.",
+   "url": "https://www.usi.it/",
+   "quote": "Da oltre 70 anni al servizio della tua salute Centri nel Lazio e in Toscana"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/usi/logo.svg"
+}

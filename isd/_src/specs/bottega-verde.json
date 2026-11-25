@@ -1,0 +1,21 @@
+{
+ "slug": "bottega-verde",
+ "company": "Bottega Verde",
+ "full_name": "Matteo Cerreia",
+ "first": "Matteo",
+ "cover_note": "Bottega Verde ha oltre 350 negozi monomarca ed è nata nel 1972 da una piccola erboristeria nel cuore della Val d'Orcia.",
+ "evidence": [
+  {
+   "claim": "Bottega Verde ha oltre 350 negozi monomarca ed è nata nel 1972 da una piccola erboristeria nel cuore della Val d'Orcia.",
+   "url": "https://www.bottegaverde.com/en-de/pages/chisiamo.html",
+   "quote": "Bottega Verde Toscana today is a leading Italian cosmetics company with over 350 single-brand stores"
+  },
+  {
+   "claim": "Bottega Verde ha oltre 350 negozi monomarca ed è nata nel 1972 da una piccola erboristeria nel cuore della Val d'Orcia.",
+   "url": "https://www.bottegaverde.com/en-de/pages/chisiamo.html",
+   "quote": "In 1972, in the heart of the Val d'Orcia , a small herbalist shop began creating plant- and flower-based preparations"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

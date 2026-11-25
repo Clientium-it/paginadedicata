@@ -1,0 +1,22 @@
+{
+ "slug": "caritas-roma",
+ "company": "Caritas Roma",
+ "full_name": "Antonio D'Onofrio",
+ "first": "Antonio",
+ "cover_note": "Caritas Roma promuove direttamente 50 servizi nella città di Roma, tra centri di accoglienza, case famiglia, mense sociali e presidi sanitari.",
+ "evidence": [
+  {
+   "claim": "Caritas Roma promuove direttamente 50 servizi nella città di Roma, tra centri di accoglienza, case famiglia, mense sociali e presidi sanitari.",
+   "url": "https://www.caritasroma.it/chi-siamo/",
+   "quote": "La Caritas inoltre promuove direttamente 50 servizi nella città di Roma quali centri di accoglienza, comunità alloggio, case famiglia, mense sociali, presidi sanitari, centri di ascolto."
+  },
+  {
+   "claim": "Caritas Roma promuove direttamente 50 servizi nella città di Roma, tra centri di accoglienza, case famiglia, mense sociali e presidi sanitari.",
+   "url": "https://www.caritasroma.it/chi-siamo/",
+   "quote": "mentre i servizi e le attività da essa promosse sono gestite dalla “Cooperativa Roma Solidarietà” – Società Cooperativa Onlus"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/caritas-roma/logo.jpg"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "bianalisi",
+ "company": "Bianalisi",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Bianalisi è presente in 13 regioni con oltre 400 strutture tra laboratori, punti prelievo e poliambulatori, e accoglie ogni giorno più di 15.000 pazienti.",
+ "evidence": [
+  {
+   "claim": "Bianalisi è presente in 13 regioni con oltre 400 strutture tra laboratori, punti prelievo e poliambulatori, e accoglie ogni giorno più di 15.000 pazienti.",
+   "url": "https://bianalisi.it/chi-siamo",
+   "quote": "Presente in 13 Regioni con oltre 400 strutture tra laboratori, punti prelievo, poliambulatori e centri di diagnostica per immagini"
+  },
+  {
+   "claim": "Bianalisi è presente in 13 regioni con oltre 400 strutture tra laboratori, punti prelievo e poliambulatori, e accoglie ogni giorno più di 15.000 pazienti.",
+   "url": "https://bianalisi.it/chi-siamo",
+   "quote": "nei quali accoglie ogni giorno più di 15.000 pazienti"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/bianalisi/logo.png"
+}

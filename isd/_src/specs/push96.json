@@ -1,0 +1,17 @@
+{
+ "slug": "push96",
+ "company": "Push96",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Push96 ha un network di più di 155 negozi con un'esperienza ultraventennale e una copertura capillare del territorio.",
+ "evidence": [
+  {
+   "claim": "Push96 ha un network di più di 155 negozi con un'esperienza ultraventennale e una copertura capillare del territorio.",
+   "url": "https://www.gh-stores.com/chi-siamo",
+   "quote": "Con un'esperienza ultraventennale e un network di più di 155 negozi , sempre in evoluzione, offre una copertura capillare del territorio"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/push96/logo.webp"
+}

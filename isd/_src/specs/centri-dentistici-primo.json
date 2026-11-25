@@ -1,0 +1,21 @@
+{
+ "slug": "centri-dentistici-primo",
+ "company": "Centri Dentistici Primo",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Centri Dentistici Primo è un network di più di 160 centri in Italia da oltre 10 anni, con oltre 1700 tra dipendenti, odontoiatri e medici.",
+ "evidence": [
+  {
+   "claim": "Centri Dentistici Primo è un network di più di 160 centri in Italia da oltre 10 anni, con oltre 1700 tra dipendenti, odontoiatri e medici.",
+   "url": "https://www.centridentisticiprimo.it/",
+   "quote": "presenti in Italia da oltre 10 anni, hanno dato vita ad un network pensato per mettere a tua disposizione più di 160 centri dentistici"
+  },
+  {
+   "claim": "Centri Dentistici Primo è un network di più di 160 centri in Italia da oltre 10 anni, con oltre 1700 tra dipendenti, odontoiatri e medici.",
+   "url": "https://www.centridentisticiprimo.it/",
+   "quote": "Oltre 1700 fra dipendenti, odontoiatri e medici lavorano ogni giorno nei centri dentistici"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

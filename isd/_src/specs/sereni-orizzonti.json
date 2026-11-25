@@ -1,0 +1,21 @@
+{
+ "slug": "sereni-orizzonti",
+ "company": "Sereni Orizzonti",
+ "full_name": "Angelo De Filippis",
+ "first": "Angelo",
+ "cover_note": "Sereni Orizzonti gestisce 110 strutture tra Italia e Spagna, dove accoglie 7.500 ospiti e occupa quasi 3.800 persone.",
+ "evidence": [
+  {
+   "claim": "Sereni Orizzonti gestisce 110 strutture tra Italia e Spagna, dove accoglie 7.500 ospiti e occupa quasi 3.800 persone.",
+   "url": "https://sereniorizzonti.it/it/la-nostra-storia/",
+   "quote": "Sereni Orizzonti 1 SpA opera non soltanto in tutta Italia ma anche in Spagna. Nelle sue 110 facilities accoglie 7.500 ospiti e occupa quasi 3.800 persone."
+  },
+  {
+   "claim": "Sereni Orizzonti gestisce 110 strutture tra Italia e Spagna, dove accoglie 7.500 ospiti e occupa quasi 3.800 persone.",
+   "url": "https://sereniorizzonti.it/it/la-nostra-storia/",
+   "quote": "con una presenza particolarmente significativa in Toscana, Emilia-Romagna, Liguria, Lombardia, Veneto, Sardegna e Sicilia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

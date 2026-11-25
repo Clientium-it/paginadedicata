@@ -1,0 +1,17 @@
+{
+ "slug": "audika",
+ "company": "Audika",
+ "full_name": "Daniela Pighini",
+ "first": "Daniela",
+ "cover_note": "Audika ha più di 120 centri acustici e oltre 100.000 clienti soddisfatti seguiti da audioprotesisti certificati.",
+ "evidence": [
+  {
+   "claim": "Audika ha più di 120 centri acustici e oltre 100.000 clienti soddisfatti seguiti da audioprotesisti certificati.",
+   "url": "https://www.audika.it/",
+   "quote": "+ di 120 centri acustici + di 100.000 clienti soddisfatti Apparecchi prova gratuita Consulenza Audioprotesisti certificati"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/audika/logo.svg"
+}

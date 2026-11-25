@@ -1,0 +1,17 @@
+{
+ "slug": "clayton",
+ "company": "Clayton",
+ "full_name": "Maurizio Maisto",
+ "first": "Maurizio",
+ "cover_note": "Clayton ha oltre 100 punti vendita diretti tra centri commerciali, centri storici e vie della moda, con lo store di Via Torino a Milano.",
+ "evidence": [
+  {
+   "claim": "Clayton ha oltre 100 punti vendita diretti tra centri commerciali, centri storici e vie della moda, con lo store di Via Torino a Milano.",
+   "url": "https://www.claytonitalia.com/pages/chi-siamo",
+   "quote": "Con oltre 100 punti vendita diretti presenti nei principali centri commerciali, nei centri storici e nelle vie della moda — come lo store di riferimento in Via Torino a Milano"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/clayton/logo.png"
+}

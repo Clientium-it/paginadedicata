@@ -1,0 +1,22 @@
+{
+ "slug": "pittarello",
+ "company": "Pittarello",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Pittarello ha 62 filiali in Italia e 2 in Austria, con la sede centrale a Tribano e circa 1.100 dipendenti.",
+ "evidence": [
+  {
+   "claim": "Pittarello ha 62 filiali in Italia e 2 in Austria, con la sede centrale a Tribano e circa 1.100 dipendenti.",
+   "url": "https://www.pittarello.com/de-eu/pages/chi-siamo",
+   "quote": "die sich auf den Hauptsitz in Tribano sowie auf 62 Filialen in Italien und 2 in Österreich verteilen"
+  },
+  {
+   "claim": "Pittarello ha 62 filiali in Italia e 2 in Austria, con la sede centrale a Tribano e circa 1.100 dipendenti.",
+   "url": "https://www.pittarello.com/de-eu/pages/chi-siamo",
+   "quote": "Heute beschäftigt das Unternehmen rund 1.100 Mitarbeiter, die sich auf den Hauptsitz in Tribano sowie auf 62 Filialen in Italien und 2 in Österreich verteilen."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/pittarello/logo.svg"
+}

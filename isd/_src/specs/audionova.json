@@ -1,0 +1,22 @@
+{
+ "slug": "audionova",
+ "company": "AudioNova",
+ "full_name": "Andrea Bartolini",
+ "first": "Andrea",
+ "cover_note": "AudioNova è presente in Italia con oltre 200 Centri Acustici di proprietà.",
+ "evidence": [
+  {
+   "claim": "AudioNova è presente in Italia con oltre 200 Centri Acustici di proprietà.",
+   "url": "https://www.audionovaitalia.it/chi-siamo/",
+   "quote": "In Italia, AudioNova è presente con oltre 200 Centri Acustici di proprietà"
+  },
+  {
+   "claim": "AudioNova è presente in Italia con oltre 200 Centri Acustici di proprietà.",
+   "url": "https://www.audionovaitalia.it/chi-siamo/",
+   "quote": "Con una presenza in oltre 90 Paesi e più di 3.300 Centri Acustici nel mondo, Sonova è un punto di riferimento internazionale"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/audionova/logo.webp"
+}

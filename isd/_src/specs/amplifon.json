@@ -1,0 +1,22 @@
+{
+ "slug": "amplifon",
+ "company": "Amplifon",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Amplifon ha in Italia una rete di oltre 800 Centri e più di 3.000 punti di assistenza, con oltre 75 anni di esperienza.",
+ "evidence": [
+  {
+   "claim": "Amplifon ha in Italia una rete di oltre 800 Centri e più di 3.000 punti di assistenza, con oltre 75 anni di esperienza.",
+   "url": "https://www.amplifon.com/it/metodo-amplifon/esperienza-amplifon-e-audioprotesisti/chi-siamo",
+   "quote": "In Italia ha una rete di oltre 800 Centri Amplifon e più di 3.000 punti di assistenza."
+  },
+  {
+   "claim": "Amplifon ha in Italia una rete di oltre 800 Centri e più di 3.000 punti di assistenza, con oltre 75 anni di esperienza.",
+   "url": "https://www.amplifon.com/it/metodo-amplifon/esperienza-amplifon-e-audioprotesisti/chi-siamo",
+   "quote": "Approfitta di oltre 75 anni di esperienza e di un servizio completo."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/amplifon/logo.svg"
+}

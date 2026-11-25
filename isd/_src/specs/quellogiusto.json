@@ -1,0 +1,22 @@
+{
+ "slug": "quellogiusto",
+ "company": "QuelloGiusto",
+ "full_name": "Michele R",
+ "first": "Michele",
+ "cover_note": "QuelloGiusto ha 16 punti vendita tra Veneto, Friuli Venezia Giulia ed Emilia Romagna, con spazi mai inferiori ai 1800 mq.",
+ "evidence": [
+  {
+   "claim": "QuelloGiusto ha 16 punti vendita tra Veneto, Friuli Venezia Giulia ed Emilia Romagna, con spazi mai inferiori ai 1800 mq.",
+   "url": "https://www.quellogiusto.it/pages/chi-siamo",
+   "quote": "espandendosi fino ad aprire 16 punti vendita distribuiti tra Veneto, Friuli Venezia Giulia ed Emilia Romagna"
+  },
+  {
+   "claim": "QuelloGiusto ha 16 punti vendita tra Veneto, Friuli Venezia Giulia ed Emilia Romagna, con spazi mai inferiori ai 1800 mq.",
+   "url": "https://www.quellogiusto.it/pages/chi-siamo",
+   "quote": "le dimensioni degli spazi non sono mai inferiori ai 1800 mq"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/quellogiusto/logo.png"
+}

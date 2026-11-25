@@ -1,0 +1,22 @@
+{
+ "slug": "dmo",
+ "company": "DMO",
+ "full_name": "",
+ "first": "",
+ "cover_note": "DMO ha 387 punti vendita, oltre 1.700 dipendenti e 40.000 metri quadrati di magazzino, con sede operativa a Pernumia.",
+ "evidence": [
+  {
+   "claim": "DMO ha 387 punti vendita, oltre 1.700 dipendenti e 40.000 metri quadrati di magazzino, con sede operativa a Pernumia.",
+   "url": "https://www.dmogroup.it/",
+   "quote": "I Nostri Numeri 387 Punti Vendita 1.700+ Dipendenti 40.000 Mq di magazzino"
+  },
+  {
+   "claim": "DMO ha 387 punti vendita, oltre 1.700 dipendenti e 40.000 metri quadrati di magazzino, con sede operativa a Pernumia.",
+   "url": "https://www.dmogroup.it/",
+   "quote": "ospita dal 2016 la sede operativa e direzionale del gruppo, nella storica città di Pernumia (PD)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/dmo/logo.png"
+}

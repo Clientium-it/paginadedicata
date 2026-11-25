@@ -1,0 +1,16 @@
+{
+ "slug": "golf-house",
+ "company": "Golf House",
+ "full_name": "Federico Avanzini",
+ "first": "Federico",
+ "cover_note": "Golf House ha 6 megastore in Italia, 4 in Spagna e 5 in Francia, oltre a quasi 50 proshop nei circoli di golf più prestigiosi.",
+ "evidence": [
+  {
+   "claim": "Golf House ha 6 megastore in Italia, 4 in Spagna e 5 in Francia, oltre a quasi 50 proshop nei circoli di golf più prestigiosi.",
+   "url": "https://www.golfus.it/about",
+   "quote": "Oggi 6 megastore in Italia, 4 in Spagna, 5 in Francia e quasi 50 proshop nei circoli di golf più prestigiosi."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

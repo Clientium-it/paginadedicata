@@ -1,0 +1,21 @@
+{
+ "slug": "anni-azzurri",
+ "company": "Anni Azzurri",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Anni Azzurri ha residenze in 8 regioni d'Italia, tra cui Lombardia, Piemonte, Liguria e Marche, da 20 anni nell'assistenza residenziale.",
+ "evidence": [
+  {
+   "claim": "Anni Azzurri ha residenze in 8 regioni d'Italia, tra cui Lombardia, Piemonte, Liguria e Marche, da 20 anni nell'assistenza residenziale.",
+   "url": "https://anniazzurri.it/",
+   "quote": "Le nostre residenze in 8 regioni d'Italia Vedi tutte Lombardia Scopri Piemonte Scopri Liguria Scopri Marche Scopri"
+  },
+  {
+   "claim": "Anni Azzurri ha residenze in 8 regioni d'Italia, tra cui Lombardia, Piemonte, Liguria e Marche, da 20 anni nell'assistenza residenziale.",
+   "url": "https://anniazzurri.it/",
+   "quote": "Da 20 anni ci occupiamo di assistenza socio-sanitaria, cronicità residenziale, riabilitazione, psichiatria, diagnostica e medicina per acuti."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "porzio",
+ "company": "Porzio",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Porzio ha 8 punti vendita in Friuli Venezia Giulia ed è un'azienda storica nata nel 1929 con una consolidata esperienza in ambito ortopedico.",
+ "evidence": [
+  {
+   "claim": "Porzio ha 8 punti vendita in Friuli Venezia Giulia ed è un'azienda storica nata nel 1929 con una consolidata esperienza in ambito ortopedico.",
+   "url": "https://www.porziogroup.it/chisiamo/",
+   "quote": "Porzio, con i suoi 8 punti vendita in Friuli-Venezia Giulia , opera sia con enti e istituzioni sanitarie sia con privati"
+  },
+  {
+   "claim": "Porzio ha 8 punti vendita in Friuli Venezia Giulia ed è un'azienda storica nata nel 1929 con una consolidata esperienza in ambito ortopedico.",
+   "url": "https://www.porziogroup.it/chisiamo/",
+   "quote": "Porzio, azienda storica nata nel 1929, è oggi riconosciuta nel territorio per la sua profonda e consolidata esperienza in ambito ortopedico"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/porzio/logo.png"
+}

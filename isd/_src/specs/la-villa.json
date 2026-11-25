@@ -1,0 +1,17 @@
+{
+ "slug": "la-villa",
+ "company": "La Villa",
+ "full_name": "",
+ "first": "",
+ "cover_note": "La Villa ha 47 strutture in 8 regioni, con 3.795 posti letto, 55 posti nei centri diurni e oltre 2.000 dipendenti.",
+ "evidence": [
+  {
+   "claim": "La Villa ha 47 strutture in 8 regioni, con 3.795 posti letto, 55 posti nei centri diurni e oltre 2.000 dipendenti.",
+   "url": "https://www.lavillaspa.it/",
+   "quote": "47 Strutture 8 Regioni 3.795 Posti letto 55 Posti Centri Diurni +2.000 Dipendenti"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/la-villa/logo.png"
+}

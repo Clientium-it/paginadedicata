@@ -1,0 +1,21 @@
+{
+ "slug": "nau",
+ "company": "NAU",
+ "full_name": "Roberto Bruno",
+ "first": "Roberto",
+ "cover_note": "NAU ha una rete di negozi in Italia e all'estero ed è nata nel 2005 a Castiglione Olona, in provincia di Varese.",
+ "evidence": [
+  {
+   "claim": "NAU ha una rete di negozi in Italia e all'estero ed è nata nel 2005 a Castiglione Olona, in provincia di Varese.",
+   "url": "https://www.nau.it/it/chi-siamo-nau",
+   "quote": "Abbiamo sviluppato una rete di negozi in Italia e all’estero, mettendo sempre al centro le Persone"
+  },
+  {
+   "claim": "NAU ha una rete di negozi in Italia e all'estero ed è nata nel 2005 a Castiglione Olona, in provincia di Varese.",
+   "url": "https://www.nau.it/it/chi-siamo-nau",
+   "quote": "Siamo nati nel 2005 a Castiglione Olona, in provincia di Varese, nel cuore del primo distretto dell'occhialeria italiana. Qui si trovano ancora oggi la nostra sede e la nostra fabbrica."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "cab",
+ "company": "Cab",
+ "full_name": "Giangiacomo Conrado",
+ "first": "Giangiacomo",
+ "cover_note": "Cab conta 16 centri medici e 50 punti prelievo con oltre 800 professionisti, e nel 2026 apre a Mornico al Serio la prima sede bergamasca.",
+ "evidence": [
+  {
+   "claim": "Cab conta 16 centri medici e 50 punti prelievo con oltre 800 professionisti, e nel 2026 apre a Mornico al Serio la prima sede bergamasca.",
+   "url": "https://www.cabpolidiagnostico.it/chi-siamo/",
+   "quote": "Con 16 Centri Medici , 50 Punti Prelievo e oltre 800 professionisti sanitari per oltre 50 specialità mediche"
+  },
+  {
+   "claim": "Cab conta 16 centri medici e 50 punti prelievo con oltre 800 professionisti, e nel 2026 apre a Mornico al Serio la prima sede bergamasca.",
+   "url": "https://www.cabpolidiagnostico.it/chi-siamo/",
+   "quote": "Nel 2026 apre Cab Mornico Al Serio , prima sede bergamasca"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/cab/logo.svg"
+}

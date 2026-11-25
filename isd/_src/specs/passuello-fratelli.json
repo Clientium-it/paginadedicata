@@ -1,0 +1,22 @@
+{
+ "slug": "passuello-fratelli",
+ "company": "Passuello Fratelli",
+ "full_name": "Nicola Menegatti",
+ "first": "Nicola",
+ "cover_note": "Passuello Fratelli ha una sede centrale e altre 17 sedi territoriali tra Veneto, Friuli Venezia Giulia e Alto Adige.",
+ "evidence": [
+  {
+   "claim": "Passuello Fratelli ha una sede centrale e altre 17 sedi territoriali tra Veneto, Friuli Venezia Giulia e Alto Adige.",
+   "url": "https://www.passuellofratelli.it/sedi/",
+   "quote": "dove si trova la sede centrale, da cui dipendono attualmente altre 17 sedi territoriali: Perca (BZ), Lana (BZ), Belluno, Feltre, (BL), Treviso, Fontanelle (TV)"
+  },
+  {
+   "claim": "Passuello Fratelli ha una sede centrale e altre 17 sedi territoriali tra Veneto, Friuli Venezia Giulia e Alto Adige.",
+   "url": "https://www.passuellofratelli.it/",
+   "quote": "La nostra azienda è presente capillarmente in Veneto, Friuli Venezia Giulia ed Alto Adige."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/passuello-fratelli/logo.svg"
+}

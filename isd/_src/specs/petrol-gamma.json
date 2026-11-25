@@ -1,0 +1,21 @@
+{
+ "slug": "petrol-gamma",
+ "company": "Petrol Gamma",
+ "full_name": "Antonello Avicolli",
+ "first": "Antonello",
+ "cover_note": "Petrol Gamma conta più di 60 stazioni di servizio ed è tra le prime 15 compagnie petrolifere private italiane per numero di punti vendita.",
+ "evidence": [
+  {
+   "claim": "Petrol Gamma conta più di 60 stazioni di servizio ed è tra le prime 15 compagnie petrolifere private italiane per numero di punti vendita.",
+   "url": "https://www.petrolgamma.com/chi-siamo/",
+   "quote": "Oggi il marchio Petrol Gamma può contare su più 60 stazioni di servizio e altre sono già in fase di acquisizione"
+  },
+  {
+   "claim": "Petrol Gamma conta più di 60 stazioni di servizio ed è tra le prime 15 compagnie petrolifere private italiane per numero di punti vendita.",
+   "url": "https://www.petrolgamma.com/chi-siamo/",
+   "quote": "nel 2022 la Petrol Gamma è stato inserita tra le prime 15 compagnie petrolifere private italiane per numero di punti vendita"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

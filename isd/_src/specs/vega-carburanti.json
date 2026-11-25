@@ -1,0 +1,21 @@
+{
+ "slug": "vega-carburanti",
+ "company": "Vega Carburanti",
+ "full_name": "Andrea Fortin",
+ "first": "Andrea",
+ "cover_note": "Vega Carburanti gestisce 121 punti vendita Vega, 14 Enercoop e 2 Tatanka, e ha acquisito Rubicone con 11 stazioni in Emilia Romagna.",
+ "evidence": [
+  {
+   "claim": "Vega Carburanti gestisce 121 punti vendita Vega, 14 Enercoop e 2 Tatanka, e ha acquisito Rubicone con 11 stazioni in Emilia Romagna.",
+   "url": "https://www.vegacarburanti.it/azienda/il-gruppo/",
+   "quote": "Vega 121 Punti vendita Trova le stazioni Vega Enercoop 14 Punti vendita Trova le stazioni Enercoop Tatanka 2 Punti vendita"
+  },
+  {
+   "claim": "Vega Carburanti gestisce 121 punti vendita Vega, 14 Enercoop e 2 Tatanka, e ha acquisito Rubicone con 11 stazioni in Emilia Romagna.",
+   "url": "https://www.vegacarburanti.it/azienda/il-gruppo/",
+   "quote": "Vega Carburanti acquisisce Rubicone Srl, società proprietaria di 11 punti vendita in Emilia Romagna"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

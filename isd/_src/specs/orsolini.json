@@ -1,0 +1,22 @@
+{
+ "slug": "orsolini",
+ "company": "Orsolini",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Orsolini ha filiali per la distribuzione di materiale edile tra Lazio, Lombardia, Umbria, Abruzzo, Toscana e Molise, con oltre 500 dipendenti.",
+ "evidence": [
+  {
+   "claim": "Orsolini ha filiali per la distribuzione di materiale edile tra Lazio, Lombardia, Umbria, Abruzzo, Toscana e Molise, con oltre 500 dipendenti.",
+   "url": "https://www.orsolini.it/presentazione-orsolini/",
+   "quote": "Le filiali Orsolini per la distribuzione di materiale edile, dislocate tra Lazio, Lombardia, Umbria, Abruzzo, Toscana e Molise"
+  },
+  {
+   "claim": "Orsolini ha filiali per la distribuzione di materiale edile tra Lazio, Lombardia, Umbria, Abruzzo, Toscana e Molise, con oltre 500 dipendenti.",
+   "url": "https://www.orsolini.it/presentazione-orsolini/",
+   "quote": "La Orsolini spa rappresenta una realtà di oltre 500 dipendenti in continua crescita"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/orsolini/logo.png"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "sportland",
+ "company": "Sportland",
+ "full_name": "Michele Odolini",
+ "first": "Michele",
+ "cover_note": "Sportland è una catena di 18 negozi sportivi, 16 dei quali in Lombardia, e fa parte del Gruppo Italmark.",
+ "evidence": [
+  {
+   "claim": "Sportland è una catena di 18 negozi sportivi, 16 dei quali in Lombardia, e fa parte del Gruppo Italmark.",
+   "url": "https://www.sportlandweb.it/pagine/chi-siamo-4",
+   "quote": "16 NEGOZI IN LOMBARDIA NEGOZI IN LOMBARDIA PUNTI VENDITA COLLEGATI Sportland è una catena di 18 negozi per lo sport altamente specializzata"
+  },
+  {
+   "claim": "Sportland è una catena di 18 negozi sportivi, 16 dei quali in Lombardia, e fa parte del Gruppo Italmark.",
+   "url": "https://www.sportlandweb.it/pagine/chi-siamo-4",
+   "quote": "Sportland fa parte del Gruppo italmark, realtà fortemente radicata sul territorio dal 1965"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/sportland/logo.svg"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "foppa",
+ "company": "Foppa",
+ "full_name": "Andrea Caroli",
+ "first": "Andrea",
+ "cover_note": "Foppa ha 26 punti vendita in Italia ed è nata da un primo negozio di 50 mq a Grassobbio, in provincia di Bergamo.",
+ "evidence": [
+  {
+   "claim": "Foppa ha 26 punti vendita in Italia ed è nata da un primo negozio di 50 mq a Grassobbio, in provincia di Bergamo.",
+   "url": "https://foppa.it/pages/chi-siamo",
+   "quote": "in Italia puoi contare anche su 26 punti vendita e sulla competenza dei nostri ottici."
+  },
+  {
+   "claim": "Foppa ha 26 punti vendita in Italia ed è nata da un primo negozio di 50 mq a Grassobbio, in provincia di Bergamo.",
+   "url": "https://foppa.it/pages/chi-siamo",
+   "quote": "Da quel primo negozio di 50 mq a Grassobbio, in provincia di Bergamo, è iniziato un percorso che ha portato FOPPA a diventare una realtà strutturata"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/foppa/logo.svg"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "eismann",
+ "company": "Eismann",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Eismann ha 49 filiali in Italia, oltre 300.000 clienti e più di 350 specialità gastronomiche nella sua catena del freddo.",
+ "evidence": [
+  {
+   "claim": "Eismann ha 49 filiali in Italia, oltre 300.000 clienti e più di 350 specialità gastronomiche nella sua catena del freddo.",
+   "url": "https://www.eismann.it/chi-siamo/la-nostra-storia",
+   "quote": "350+ specialità gastronomiche 300.000+ clienti in Italia 49 filiali sul territorio −18 °C catena del freddo"
+  },
+  {
+   "claim": "Eismann ha 49 filiali in Italia, oltre 300.000 clienti e più di 350 specialità gastronomiche nella sua catena del freddo.",
+   "url": "https://www.eismann.it/chi-siamo/la-nostra-storia",
+   "quote": "Nel 1988 Eismann avvia il proprio percorso in Italia."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/eismann/logo.svg"
+}
