@@ -1,0 +1,23 @@
+{
+ "slug": "p-c-costruzioni-s-r-l",
+ "company": "P.C. Costruzioni",
+ "full_name": "Paolo Paratico",
+ "first": "Paolo",
+ "linkedin": "https://www.linkedin.com/in/paolo-paratico-872784157",
+ "cover_note": "P.C. Costruzioni da oltre trent'anni realizza ville, villette, condomini e appartamenti tra Bergamo, Monza e la Brianza, con una selezione accurata di materiali certificati.",
+ "evidence": [
+  {
+   "url": "https://www.costruzioniparatico.com/servizi-edili-residenziale/",
+   "quote": "Da oltre trent’anni realizziamo, ville, villette, condomini e appartamenti puntando su una accurata selezione di materiali certificati"
+  },
+  {
+   "url": "https://www.costruzioniparatico.com/",
+   "quote": "L’impresa edile di riferimento per Bergamo, Monza, la Brianza e l’intera Lombardia"
+  },
+  {
+   "url": "https://www.costruzioniparatico.com/servizi-edili-residenziale/",
+   "quote": "per strutture nuove oppure per interventi di ristrutturazione"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

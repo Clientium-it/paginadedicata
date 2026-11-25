@@ -1,0 +1,19 @@
+{
+ "slug": "blasi-costruzioni-s-r-l",
+ "company": "Blasi Costruzioni",
+ "full_name": "Alessandro Blasi",
+ "first": "Alessandro",
+ "linkedin": "https://www.linkedin.com/in/alessandro-blasi-09ba1172",
+ "cover_note": "Blasi Costruzioni, nata nel 1978 come impresa artigiana, ristruttura immobili residenziali e commerciali.",
+ "evidence": [
+  {
+   "url": "https://www.blasicostruzioni.it/",
+   "quote": "la ristrutturazione di immobili residenziali e commerciali nonché la realizzazione di nuove costruzioni ad uso abitativo e terziario"
+  },
+  {
+   "url": "https://www.blasicostruzioni.it/",
+   "quote": "Blasi Costruzioni fondata nel 1978 come impresa artigiana"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

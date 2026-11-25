@@ -1,0 +1,19 @@
+{
+ "slug": "piovan-service-srl",
+ "company": "Piovan Service",
+ "full_name": "Alex Piovan",
+ "first": "Alex",
+ "linkedin": "https://www.linkedin.com/in/alex-piovan-a4993067",
+ "cover_note": "Piovan Service esegue ristrutturazioni chiavi in mano di appartamenti e abitazioni, nata nel 1993 da un'idea di Giuseppe Piovan come ditta individuale.",
+ "evidence": [
+  {
+   "url": "https://www.piovanservice.com/servizi/",
+   "quote": "Eseguiamo ristrutturazioni “chiavi in mano” di appartamenti o abitazioni."
+  },
+  {
+   "url": "https://www.piovanservice.com/azienda/",
+   "quote": "Nata nel 1993 da un'idea di Giuseppe Piovan come Ditta individuale"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

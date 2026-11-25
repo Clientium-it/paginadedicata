@@ -1,0 +1,23 @@
+{
+ "slug": "edilvi-s-p-a",
+ "company": "Edilvi",
+ "full_name": "Diego Pavan",
+ "first": "Diego",
+ "linkedin": "https://www.linkedin.com/in/diego-pavan-78863366",
+ "cover_note": "Edilvi è un'impresa edile attiva a Treviso dal 1984 e costruisce case nZEB, amplia e ristruttura abitazioni, operando anche come ESCo in Veneto.",
+ "evidence": [
+  {
+   "url": "https://www.edilvi.it/azienda/",
+   "quote": "Attraverso il brand Casa Smart Plus ci occupiamo di: Costruzione di case ecosostenibili nZEB (ad energia quasi zero); ampliamenti di case esistenti; ristrutturazione di case esistenti e lavori di manutenzione ordinaria e straordinaria."
+  },
+  {
+   "url": "https://www.edilvi.it/azienda/",
+   "quote": "Siamo un’impresa edile attiva a Treviso dal 1984 ed una Energy Service Company (ESCo) presente in Veneto dal 2011."
+  },
+  {
+   "url": "https://www.edilvi.it/azienda/",
+   "quote": "I nostri principali clienti sono: privati che vogliono costruire casa ; privati che vogliono ristrutturare casa ;"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

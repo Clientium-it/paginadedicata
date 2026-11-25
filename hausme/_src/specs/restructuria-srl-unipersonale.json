@@ -1,0 +1,23 @@
+{
+ "slug": "restructuria-srl-unipersonale",
+ "company": "Restructuria",
+ "full_name": "Massimiliano Petrocchi",
+ "first": "Massimiliano",
+ "linkedin": "https://www.linkedin.com/in/massimiliano-petrocchi-423770117",
+ "cover_note": "Restructuria è specializzata in ristrutturazioni a trecentosessanta gradi su Roma con servizi chiavi in mano, dal restauro conservativo al rinnovamento integrale.",
+ "evidence": [
+  {
+   "url": "https://www.restructuria.it/servizi",
+   "quote": "La nostra attività mira ad offrire a tutti i nostri clienti dei servizi completi e chiavi in mano."
+  },
+  {
+   "url": "https://www.restructuria.it/",
+   "quote": "Ditta specializzata in Ristrutturazioni edili a 360° su tutta Roma"
+  },
+  {
+   "url": "https://www.restructuria.it/servizi",
+   "quote": "lo staff tecnico vi proporrà le migliori soluzioni di design per il vostro appartamento, sia per un restauro conservativo che per un rinnovamento integrale"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "rebedo-s-r-l",
+ "company": "Rebedo",
+ "full_name": "Chiara Plantamura",
+ "first": "Chiara",
+ "linkedin": "https://www.linkedin.com/in/chiara-plantamura-836b11196",
+ "cover_note": "Rebedo da oltre vent'anni ristruttura e rifinisce abitazioni occupandosi anche delle opere di impiantistica con maestranze esperte e un'organizzazione stabile.",
+ "evidence": [
+  {
+   "url": "https://www.rebedo.com/",
+   "quote": "Ristrutturiamo e forniamo servizi completi per la ristrutturazione e la finitura di abitazioni, realizzando anche opere di impiantistica."
+  },
+  {
+   "url": "https://www.rebedo.com/",
+   "quote": "esperienza maturata in oltre 20 anni di attività"
+  },
+  {
+   "url": "https://www.rebedo.com/",
+   "quote": "Grazie a maestranze esperte e qualificate e ad un’organizzazione stabile, siamo in grado di fornire servizi completi per ogni ambiente della casa."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

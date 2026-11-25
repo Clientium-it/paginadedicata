@@ -1,0 +1,19 @@
+{
+ "slug": "ar-arte-e-restauro-s-r-l",
+ "company": "AR Arte e Restauro",
+ "full_name": "Socrate Giorgio",
+ "first": "Socrate",
+ "linkedin": "https://www.linkedin.com/in/socrate-giorgio-23512b8a",
+ "cover_note": "AR Arte e Restauro restaura edifici storici come Villa Amoretti a Torino e la Chiesa di Santa Giustina in Colle.",
+ "evidence": [
+  {
+   "url": "https://www.arpadova.com/",
+   "quote": "Torino – Edifici storici sedi delle biblioteche civiche – Villa Amoretti – Interventi di restauro e manutenzione"
+  },
+  {
+   "url": "https://www.arpadova.com/",
+   "quote": "Inaugurazione dei lavori di restauro della Chiesa di Santa Giustina in Colle (PD)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

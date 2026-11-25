@@ -1,0 +1,15 @@
+{
+ "slug": "glaeserer-s-r-l",
+ "company": "Glaeserer",
+ "full_name": "Wolfgang Gläserer",
+ "first": "Wolfgang",
+ "linkedin": "https://www.linkedin.com/in/wolfgang-gläserer-771170101",
+ "cover_note": "Glaeserer si occupa di risanamento e restauro di edifici tutelati dai beni culturali e costruisce aziende industriali e turistiche oltre ad abitazioni chiavi in mano.",
+ "evidence": [
+  {
+   "url": "http://glaeserer.it/it/l-azienda.html",
+   "quote": "risanamento e restauro di edifici sottoposti ai beni culturali costruzione di edifici speciali aziende industriali e turistiche abitazioni unifamiliari e plurifamiliari costruzioni chiavi in mano"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

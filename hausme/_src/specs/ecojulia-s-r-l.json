@@ -1,0 +1,23 @@
+{
+ "slug": "ecojulia-s-r-l",
+ "company": "Ecojulia",
+ "full_name": "Davide Andrea G",
+ "first": "Davide",
+ "linkedin": "https://www.linkedin.com/in/davide-andrea-g-88410713b",
+ "cover_note": "Ecojulia offre ristrutturazioni edilizie complete nel centro nord Italia per aziende e privati con attenzione al risparmio energetico.",
+ "evidence": [
+  {
+   "url": "https://www.ecojulia.com/ristrutturazioni",
+   "quote": "Ecojulia offre un servizio completo di ristrutturazioni edilizie nel Centro-Nord Italia , rivolto sia alle aziende sia ai privati che desiderano rinnovare i propri spazi con uno sguardo attento al risparmio energetico."
+  },
+  {
+   "url": "https://www.ecojulia.com/ristrutturazioni",
+   "quote": "I nostri uffici sono in Friuli Venezia Giulia e operiamo in tutto il centro nord Italia"
+  },
+  {
+   "url": "https://www.ecojulia.com/ristrutturazioni",
+   "quote": "ci rivolgiamo alle aziende e ai privati"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

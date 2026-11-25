@@ -1,0 +1,19 @@
+{
+ "slug": "f-lli-moramarco-s-r-l",
+ "company": "Moramarco",
+ "full_name": "Gaetano Moramarco",
+ "first": "Gaetano",
+ "linkedin": "https://www.linkedin.com/in/gaetano-moramarco-75154a140",
+ "cover_note": "Moramarco si occupa di ristrutturazioni complete di case appartamenti ville e immobili commerciali oltre al rifacimento di singoli locali a Castel Maggiore vicino a Bologna.",
+ "evidence": [
+  {
+   "url": "https://edilemoramarco.it/ristrutturazioni-edili-complete/",
+   "quote": "la nostra azienda vi offre ristrutturazioni complete di case, appartamenti, ville e immobili commerciali, o il rifacimento di singoli locali."
+  },
+  {
+   "url": "https://edilemoramarco.it/",
+   "quote": "Siamo a Castel Maggiore – Bologna, vieni a scoprire i nostri lavori"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

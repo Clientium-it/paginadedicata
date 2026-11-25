@@ -1,0 +1,23 @@
+{
+ "slug": "lady-colors-societa-cooperativa",
+ "company": "Lady Colors",
+ "full_name": "Colors Scrl",
+ "first": "Colors",
+ "linkedin": "https://www.linkedin.com/in/lady-colors-scrl-18a02430",
+ "cover_note": "Lady Colors ristruttura interni privati e commerciali con rifacimento di bagni cucine e pavimenti e collabora con ditte artigiane per tempi rapidi.",
+ "evidence": [
+  {
+   "url": "https://ladycolors.it/servizi/",
+   "quote": "Offriamo servizi di ristrutturazione totale o parziale di interni privati o commerciali: rifacimento o nuove installazioni di bagni e cucine , pavimenti (piastrelle, parquet, resina…), realizzazione di contropareti e controsoffitti ."
+  },
+  {
+   "url": "https://ladycolors.it/servizi/",
+   "quote": "Collaboriamo con ditte artigiane che condividono i nostri valori e la stessa professionalità, per realizzare interventi di ristrutturazione in tempi rapidi"
+  },
+  {
+   "url": "https://ladycolors.it/servizi/",
+   "quote": "Ristrutturare la propria abitazione può creare diversi disagi: interveniamo con attenzione, cura e grande considerazione della vostra quotidianità , garantendo tempi rapidi di conclusione degli interventi."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

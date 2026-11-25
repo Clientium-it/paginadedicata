@@ -1,0 +1,23 @@
+{
+ "slug": "mr-handyman-s-r-l",
+ "company": "Mr. Handyman",
+ "full_name": "Fabrizio Miano",
+ "first": "Fabrizio",
+ "linkedin": "https://www.linkedin.com/in/fabrizio-miano-139b49b5",
+ "cover_note": "Mr. Handyman si occupa di ristrutturazione interna a 360 gradi con un project manager dedicato e segue anche le pratiche edilizie.",
+ "evidence": [
+  {
+   "url": "https://mrhandyman.it/ristrutturazione/",
+   "quote": "Ci occupiamo di ristrutturazione interna a 360° Ristrutturazione completa Scopri di più Ristrutturazione Bagno Scopri di più Ristrutturazione Cucina"
+  },
+  {
+   "url": "https://mrhandyman.it/ristrutturazione/",
+   "quote": "Project Manager Dedicato Team affiatato di comprovata esperienza Documenti per operare sempre in regola Gestione pratiche edilizie"
+  },
+  {
+   "url": "https://mrhandyman.it/ristrutturazione/",
+   "quote": "Ogni casa è un riflesso di chi la vive. Raccontaci le tue idee, i tuoi gusti, le tue esigenze"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

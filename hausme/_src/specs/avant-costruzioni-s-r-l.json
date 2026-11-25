@@ -1,0 +1,23 @@
+{
+ "slug": "avant-costruzioni-s-r-l",
+ "company": "Avant Costruzioni",
+ "full_name": "Avant Costruzioni",
+ "first": "Avant",
+ "linkedin": "https://www.linkedin.com/in/avant-costruzioni-b1666560",
+ "cover_note": "Avant Costruzioni è specializzata nella riqualificazione energetica di abitazioni private e di edifici ricettivi, con interventi chiavi in mano ad alta efficienza energetica.",
+ "evidence": [
+  {
+   "url": "https://ecosmartbuilding.it/ristrutturazioni/",
+   "quote": "La nostra specializzazione riguarda la riqualificazione energetica di abitazioni private e di edifici ad uso terziario e ricettivo"
+  },
+  {
+   "url": "https://ecosmartbuilding.it/",
+   "quote": "offrendo soluzioni chiavi in mano che garantiscono elevata efficienza energetica e risultati durevoli nel tempo"
+  },
+  {
+   "url": "https://ecosmartbuilding.it/",
+   "quote": "Rinnoviamo il vostro spazio abitativo, trasformando case ed appartamenti in ambienti di classe, che rispecchiano la vostra personalità."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "impresa-edile-franco-cibolla-s-r-l-2",
+ "company": "Impresa Edile Franco Cibolla",
+ "full_name": "Sebastiano Prosperino",
+ "first": "Sebastiano",
+ "linkedin": "https://www.linkedin.com/in/sebastiano-prosperino-bb8122b1",
+ "cover_note": "L'Impresa Cibolla lavora dal rifacimento di un bagno alla completa riqualificazione di appartamenti e alloggi in tutta la provincia di Biella e Vercelli.",
+ "evidence": [
+  {
+   "url": "https://www.impresaedilecibollasrl.it/servizi/",
+   "quote": "dal rifacimento di un bagno alla completa riqualificazione di appartamenti e alloggi"
+  },
+  {
+   "url": "https://www.impresaedilecibollasrl.it/servizi/",
+   "quote": "in tutta la provincia di Biella e Vercelli"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "ga-be-solutions-s-r-l",
+ "company": "GA.BE Solutions",
+ "full_name": "Antonella Lorenzon",
+ "first": "Antonella",
+ "linkedin": "https://www.linkedin.com/in/antonella-lorenzon-138178222",
+ "cover_note": "GA.BE Solutions consegna progetti chiavi in mano tra Treviso e Milano, con costruzioni residenziali e commerciali e l'ampliamento di una villa a Porto Rotondo.",
+ "evidence": [
+  {
+   "url": "https://www.gabesolutions.com/servizi/",
+   "quote": "Grazie al nostro Know-how siamo specializzati in consegna di progetti chiavi in mano, ristrutturazioni, costruzioni residenziali e commerciali"
+  },
+  {
+   "url": "https://www.gabesolutions.com/servizi/",
+   "quote": "Corso del Popolo, 50/A, 31100 – TREVISO (TV) T. +39 0422 264092 Via Pietrasanta 12, 20141 – MILANO (MI)"
+  },
+  {
+   "url": "https://www.gabesolutions.com/",
+   "quote": "Il progetto di ristrutturazione e ampliamento della spettacolare villa che affaccia a Porto Rotondo..."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

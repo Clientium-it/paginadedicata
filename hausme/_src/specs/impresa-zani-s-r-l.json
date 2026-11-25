@@ -1,0 +1,19 @@
+{
+ "slug": "impresa-zani-s-r-l",
+ "company": "Impresa Zani",
+ "full_name": "Ardi Zani",
+ "first": "Ardi",
+ "linkedin": "https://www.linkedin.com/in/ardi-zani-363956112",
+ "cover_note": "Impresa Zani nasce a Como nel 2005 e lavora tra le province di Como, Milano e Varese su ristrutturazioni.",
+ "evidence": [
+  {
+   "url": "http://impresazani.it/",
+   "quote": "opera nel settore delle ristrutturazioni e delle nuove costruzioni, fornendo i propri servizi sul territorio della provincia di Como, Milano e Varese"
+  },
+  {
+   "url": "http://impresazani.it/",
+   "quote": "srl nasce a Como nel 2005 a coronamento"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

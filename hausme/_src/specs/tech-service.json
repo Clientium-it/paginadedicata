@@ -1,0 +1,23 @@
+{
+ "slug": "tech-service",
+ "company": "Tech Service",
+ "full_name": "Mario Guelfi",
+ "first": "Mario",
+ "linkedin": "https://www.linkedin.com/in/mario-guelfi-282863224",
+ "cover_note": "Tech Service segue quattro nuovi cantieri per unità abitative e realizza interventi di efficientamento energetico con un pacchetto completo di servizi e forniture.",
+ "evidence": [
+  {
+   "url": "https://www.techservicesrl.net/",
+   "quote": "In questo momento abbiamo 4 nuovi cantieri per la realizzazione di nr. 4 unità abitative, ad unico livello di dimensioni che variano dai 120 mq ai 230 mq."
+  },
+  {
+   "url": "https://www.techservicesrl.net/",
+   "quote": "Abbiamo già realizzato interventi di efficientamento negli anni passati e attualmente ne stiamo realizzando di nuovi in immobili privati."
+  },
+  {
+   "url": "https://www.techservicesrl.net/",
+   "quote": "Realizziamo interventi per l'efficentamento energetico, in abitazioni ed edifici a bassa classe, fornendo un pacchetto completo di servizi e forniture"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}
