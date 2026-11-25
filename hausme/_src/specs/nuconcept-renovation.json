@@ -1,0 +1,15 @@
+{
+ "slug": "nuconcept-renovation",
+ "company": "Nuconcept",
+ "full_name": "Claudio",
+ "first": "Claudio",
+ "linkedin": "https://www.linkedin.com/in/claudio-riva",
+ "cover_note": "Nuconcept porta un'esperienza ventennale nella progettazione, nella costruzione e nel rinnovo di immobili.",
+ "evidence": [
+  {
+   "url": "https://nuconcept.it/",
+   "quote": "Nuconcept mette in campo un'esperienza ventennale nel campo della progettazione, della costruzione e del rinnovo di immobili"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

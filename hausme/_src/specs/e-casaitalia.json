@@ -1,0 +1,15 @@
+{
+ "slug": "e-casaitalia",
+ "company": "E-Casaitalia",
+ "full_name": "Flavio",
+ "first": "Flavio",
+ "linkedin": "https://www.linkedin.com/in/flavio-pinton-47478169",
+ "cover_note": "E-Casaitalia lavora nella bioedilizia e nelle energie rinnovabili per rendere più ecologiche le strutture immobiliari.",
+ "evidence": [
+  {
+   "url": "https://e-casaitalia.it/azienda/",
+   "quote": "bioedilizia, nelle energie rinnovabili e nella possibilità di rendere più ecologiche le strutture immobiliari"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

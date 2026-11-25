@@ -1,0 +1,19 @@
+{
+ "slug": "paolin-srl",
+ "company": "Paolin",
+ "full_name": "Elisa",
+ "first": "Elisa",
+ "linkedin": "https://www.linkedin.com/in/elisa-facchinello",
+ "cover_note": "Paolin nasce nel 1952 e oggi ristruttura ville venete, costruisce residenziale di pregio e realizza complessi industriali su misura.",
+ "evidence": [
+  {
+   "url": "https://paolincostruzioni.it/chi-siamo/",
+   "quote": "ci occupiamo con successo di ristrutturazioni di ville venete, costruzioni residenziali di pregio e realizzazione di complessi industriali su misura"
+  },
+  {
+   "url": "https://paolincostruzioni.it/chi-siamo/",
+   "quote": "Nel 1952, quel sogno d'infanzia si trasforma in realtà con la nascita dell'impresa edile Paolin"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "m-m-s-r-l",
+ "company": "M&M",
+ "full_name": "William",
+ "first": "William",
+ "linkedin": "https://www.linkedin.com/in/william-marini-008544ab",
+ "cover_note": "M&M opera nel settore edile dagli anni '90 con costruzioni e ristrutturazioni di edifici residenziali, commerciali e produttivi.",
+ "evidence": [
+  {
+   "url": "https://www.mem.srl/",
+   "quote": "specializzata nella costruzione e ristrutturazione di edifici residenziali, commerciali e produttivi"
+  },
+  {
+   "url": "https://www.mem.srl/",
+   "quote": "M&M dagli anni '90 opera nel settore edile con particolare interesse nell'ambito delle costruzioni e ristrutturazioni"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

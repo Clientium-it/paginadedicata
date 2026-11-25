@@ -1,0 +1,19 @@
+{
+ "slug": "gruppo-castaldi",
+ "company": "Gruppo Castaldi",
+ "full_name": "Alessio",
+ "first": "Alessio",
+ "linkedin": "https://www.linkedin.com/in/alessio-di-giandomenico-1713a57b",
+ "cover_note": "Gruppo Castaldi mette insieme più di 200 professionisti tra architetti, ingegneri, imprese e artigiani ed è operativo a Roma e provincia.",
+ "evidence": [
+  {
+   "url": "https://www.gruppocastaldi.it/gruppo-castaldi-ristrutturare-casa/",
+   "quote": "più di 200 professionisti tra architetti, ingegneri, imprese e artigiani"
+  },
+  {
+   "url": "https://www.gruppocastaldi.it/gruppo-castaldi-ristrutturare-casa/",
+   "quote": "Attualmente siamo operativi a Roma e provincia"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

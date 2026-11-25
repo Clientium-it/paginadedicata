@@ -1,0 +1,19 @@
+{
+ "slug": "castelli-costruzioni-s-r-l",
+ "company": "Castelli Costruzioni",
+ "full_name": "Antonio",
+ "first": "Antonio",
+ "linkedin": "https://www.linkedin.com/in/antonio-castelli-518089b9",
+ "cover_note": "Castelli Costruzioni ha ristrutturato un appartamento privato a Milano di un designer e una villa privata a Cannes.",
+ "evidence": [
+  {
+   "url": "https://castellicostruzioni.it/",
+   "quote": "Renovation of the private apartment in Milan belonging to designer Marcelo"
+  },
+  {
+   "url": "https://castellicostruzioni.it/",
+   "quote": "Renovation of a private villa in Cannes, on the French Riviera"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

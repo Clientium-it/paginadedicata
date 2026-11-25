@@ -1,0 +1,15 @@
+{
+ "slug": "air-innovation-srl",
+ "company": "Air Innovation",
+ "full_name": "Daniele",
+ "first": "Daniele",
+ "linkedin": "https://www.linkedin.com/in/daniele-corticelli-2b389716",
+ "cover_note": "Air Innovation si occupa di ristrutturazione e riqualificazione energetica di abitazioni e condomini.",
+ "evidence": [
+  {
+   "url": "https://www.air-innovation.it/cosa-facciamo/ristrutturazioni-edilizie",
+   "quote": "ristrutturazione e riqualificazione energetica della tua abitazione o del condominio"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

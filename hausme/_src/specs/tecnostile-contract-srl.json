@@ -1,0 +1,19 @@
+{
+ "slug": "tecnostile-contract-srl",
+ "company": "Tecnostile",
+ "full_name": "Daniele",
+ "first": "Daniele",
+ "linkedin": "https://www.linkedin.com/in/daniele-zocca-22634a24",
+ "cover_note": "Tecnostile si occupa di ristrutturazioni chiavi in mano di case, ville ed edifici residenziali tra Verona e Vicenza.",
+ "evidence": [
+  {
+   "url": "https://www.tecnostile.com/case-e-ville/",
+   "quote": "Siamo specializzati nella ristrutturazione e realizzazione di abitazioni, ville ed edifici residenziali."
+  },
+  {
+   "url": "https://www.tecnostile.com/case-e-ville/",
+   "quote": "Ristrutturazioni Chiavi in Mano Case e Ville Verona, Vicenza"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

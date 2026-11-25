@@ -1,0 +1,19 @@
+{
+ "slug": "impresa-tilatti-rinaldo-s-r-l",
+ "company": "Impresa Tilatti",
+ "full_name": "Paolo",
+ "first": "Paolo",
+ "linkedin": "https://www.linkedin.com/in/paolo-tilatti-5ab539197",
+ "cover_note": "Impresa Tilatti ha seguito il risanamento conservativo e la riqualificazione energetica di un edificio storico con 16 appartamenti e tre spazi commerciali.",
+ "evidence": [
+  {
+   "url": "https://www.impresatilatti.it/casa-cavour/",
+   "quote": "Il progetto ha previsto un intervento di risanamento conservativo, miglioramento strutturale e riqualificazione energetica dell'edificio storico"
+  },
+  {
+   "url": "https://www.impresatilatti.it/casa-cavour/",
+   "quote": "16 appartamenti e tre spazi commerciali al piano terra"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

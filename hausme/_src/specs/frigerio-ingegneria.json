@@ -1,0 +1,15 @@
+{
+ "slug": "frigerio-ingegneria",
+ "company": "Frigerio Ingegneria",
+ "full_name": "Francesco",
+ "first": "Francesco",
+ "linkedin": "https://www.linkedin.com/in/francesco-frigerio",
+ "cover_note": "Frigerio Ingegneria progetta interventi su misura per abitazioni, condomini e immobili esistenti seguendo anche pratiche edilizie, direzione lavori e sicurezza.",
+ "evidence": [
+  {
+   "url": "https://www.frigerioingegneria.it/",
+   "quote": "Progettiamo interventi su misura per abitazioni, condomini e immobili esistenti, gestendo pratiche edilizie, direzione lavori, sicurezza e tutti gli aspetti tecnici necessari alla realizzazione dell'opera"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "butteri-costruzioni",
+ "company": "Butteri Costruzioni",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/ACwAAAnkvTwBN610VoaE99FxYMkzW5Dix5E_ewY",
+ "cover_note": "Butteri Costruzioni ha seguito la ristrutturazione di una villa signorile in contesto rurale non vincolata dalla soprintendenza.",
+ "evidence": [
+  {
+   "url": "https://www.buttericostruzioni.it/opere-e-realizzazioni",
+   "quote": "Ristrutturazione villa signorile non vincolata dalla soprintendenza inserita in contesto rurale"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

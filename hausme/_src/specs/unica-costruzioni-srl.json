@@ -1,0 +1,19 @@
+{
+ "slug": "unica-costruzioni-srl",
+ "company": "Unica Costruzioni",
+ "full_name": "Vitaliano",
+ "first": "Vitaliano",
+ "linkedin": "https://www.linkedin.com/in/vitaliano-scardigno-7434a150",
+ "cover_note": "Unica Costruzioni è certificata Passivhaus e CasaClima Gold e costruisce su misura per chi vuole benessere per la propria famiglia.",
+ "evidence": [
+  {
+   "url": "https://unicacostruzioni.com/",
+   "quote": "Non costruiamo edifici, costruiamo soluzioni su misura per chi vuole benessere per la propria famiglia."
+  },
+  {
+   "url": "https://unicacostruzioni.com/",
+   "quote": "Certificata Passivhaus e CasaClima Gold 2012"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

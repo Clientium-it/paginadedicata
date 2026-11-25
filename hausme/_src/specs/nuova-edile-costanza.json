@@ -1,0 +1,15 @@
+{
+ "slug": "nuova-edile-costanza",
+ "company": "Nuova Edile Costanza",
+ "full_name": "Gianluigi",
+ "first": "Gianluigi",
+ "linkedin": "https://www.linkedin.com/in/ACwAAGzTZ9cBcvceB65NbVrUyDhrhrL-LOj3ZK0",
+ "cover_note": "Nuova Edile Costanza gestisce ristrutturazioni di appartamenti, abitazioni indipendenti e immobili residenziali.",
+ "evidence": [
+  {
+   "url": "https://nuovaedilecostanza.it/servizi/ristrutturazioni-chiavi-in-mano",
+   "quote": "Gestiamo ristrutturazioni di appartamenti, abitazioni indipendenti e immobili residenziali"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

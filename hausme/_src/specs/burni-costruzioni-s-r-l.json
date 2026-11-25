@@ -1,0 +1,19 @@
+{
+ "slug": "burni-costruzioni-s-r-l",
+ "company": "Burni Costruzioni",
+ "full_name": "Yuri",
+ "first": "Yuri",
+ "linkedin": "https://www.linkedin.com/in/yuri-burni-95b99b134",
+ "cover_note": "Burni Costruzioni progetta e ristruttura case, ville di lusso e piscine ed è arrivata alla seconda generazione.",
+ "evidence": [
+  {
+   "url": "https://www.burnicostruzioni.it/chi-siamo/",
+   "quote": "progettazione, realizzazione e ristrutturazione di case, ville di lusso, piscine"
+  },
+  {
+   "url": "https://www.burnicostruzioni.it/chi-siamo/",
+   "quote": "alla sua seconda generazione"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "imprecom",
+ "company": "Imprecom",
+ "full_name": "Matteo",
+ "first": "Matteo",
+ "linkedin": "https://www.linkedin.com/in/matteo-valente-1522b9b2",
+ "cover_note": "Imprecom ha trasformato un palazzo storico milanese in sedici nuove abitazioni senza compromessi sull'identità dell'edificio.",
+ "evidence": [
+  {
+   "url": "https://imprecomsrl.it/casehistory/cellini-11/",
+   "quote": "Un palazzo storico milanese. Sedici nuove abitazioni. Zero compromessi sull'identità dell'edificio"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}

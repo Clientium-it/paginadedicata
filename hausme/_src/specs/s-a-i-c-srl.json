@@ -1,0 +1,19 @@
+{
+ "slug": "s-a-i-c-srl",
+ "company": "SAIC",
+ "full_name": "Mauro",
+ "first": "Mauro",
+ "linkedin": "https://www.linkedin.com/in/mauro-molinari-69777b70",
+ "cover_note": "SAIC si occupa di demolizioni, cuci scuci e consolidamento strutturale e ha ristrutturato un'abitazione privata a Carpi dopo il sisma del 2012.",
+ "evidence": [
+  {
+   "url": "https://www.saicsrl.net/it-it/ristrutturazione-post-sisma-2012-di-abitazione-privata-carpi-mo.aspx",
+   "quote": "Demolizioni, interventi cuci-scuci, consolidamento strutturale, realizzazione tramezze, ristrutturazione"
+  },
+  {
+   "url": "https://www.saicsrl.net/it-it/ristrutturazione-post-sisma-2012-di-abitazione-privata-carpi-mo.aspx",
+   "quote": "Ristrutturazione Post-Sisma 2012 di abitazione privata - Carpi (MO)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim"
+}
