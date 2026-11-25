@@ -1,0 +1,28 @@
+{
+ "slug": "oscartielle",
+ "company": "Oscartielle",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Oscartielle produce banchi frigoriferi e soluzioni su misura per il retail e l'industria alimentare. Qui trova come lavoriamo e cosa potremmo fare per Oscartielle.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Oscartielle.",
+ "evidence": [
+  {
+   "claim": "Oscartielle produce banchi frigoriferi e soluzioni su misura per il retail e l'industria alimentare.",
+   "url": "https://www.oscartielle.it/chi-siamo",
+   "quote": "Oscartielle è tra i primi produttori europei di banchi frigoriferi e soluzioni su misura per il retail e l’industria alimentare. || Oscartielle è tra i primi produttori europei di banchi frigoriferi e soluzioni su misura per il retail e l’industria alimentare."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

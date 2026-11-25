@@ -1,0 +1,28 @@
+{
+ "slug": "ad-tubi",
+ "company": "AD Tubi",
+ "first_name": "Fabiola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "AD Tubi produce dal 1997 a Casnate con Bernate tubi saldati in inox, duplex, leghe di nichel e titanio per raffinerie e dissalatori. Qui trova come lavoriamo e cosa potremmo fare per AD Tubi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per AD Tubi.",
+ "evidence": [
+  {
+   "claim": "AD Tubi produce dal 1997 a Casnate con Bernate tubi saldati in inox, duplex, leghe di nichel e titanio per raffinerie e dissalatori.",
+   "url": "https://adtubi.com/en/",
+   "quote": "A.D. Tubi Inossidabili is the leading Italian manufacturer of welded tubes in stainless steel, duplex, nickel alloys and titanium , based in Casnate con Bernate (Como). Founded in 1997 || A.D. TUBI INOSSIDABILI SpA Headquarters Via Adige 2 22070 Casnate con Bernate (CO) Italy || power stations, chemical and petrochemical plants, petroleum refineries, natural-gas processing, waste water treatment, desalination plants, nuclear power stations, solar energy plants"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

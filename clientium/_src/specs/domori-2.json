@@ -1,0 +1,28 @@
+{
+ "slug": "domori-2",
+ "company": "Domori",
+ "first_name": "Filippo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Domori fa ricerca sul cacao da 27 anni, coltiva oltre 10 varietà di criollo in 2 piantagioni di proprietà e ha aperto uno store a Torino. Qui trova come lavoriamo e cosa potremmo fare per Domori.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Domori.",
+ "evidence": [
+  {
+   "claim": "Domori fa ricerca sul cacao da 27 anni, coltiva oltre 10 varietà di criollo in 2 piantagioni di proprietà e ha aperto uno store a Torino.",
+   "url": "https://domori.com/it/content/38-la-nostra-storia",
+   "quote": "27 Anni di ricerca 2 Piantagioni di Criollo di proprietà >10 Varietà di criollo coltivate 0.0 conservanti e aromi || Apre in Piazza San Carlo a Torino il primo Domori Store."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

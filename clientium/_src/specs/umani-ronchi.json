@@ -1,0 +1,28 @@
+{
+ "slug": "umani-ronchi",
+ "company": "Umani Ronchi",
+ "first_name": "Emanuele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Umani Ronchi coltiva in biologico 210 ettari di vigna dalle Marche all'Abruzzo. Qui trova come lavoriamo e cosa potremmo fare per Umani Ronchi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Umani Ronchi.",
+ "evidence": [
+  {
+   "claim": "Umani Ronchi coltiva in biologico 210 ettari di vigna dalle Marche all'Abruzzo.",
+   "url": "https://umanironchi.com/",
+   "quote": "Dalle Marche all’ Abruzzo coltiviamo in biologico i nostri 210 ettari di vigna, nel rispetto della Natura, della terra che ci ospita e degli uomini che la lavorano || Nel 2001 Michele e Massimo Bernetti osservarono per la prima volta la tenuta Centovie a Roseto degli Abruzzi , tra il Gran Sasso e il mare Adriatico"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

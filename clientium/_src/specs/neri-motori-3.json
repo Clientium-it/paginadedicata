@@ -1,0 +1,28 @@
+{
+ "slug": "neri-motori-3",
+ "company": "Neri Motori",
+ "first_name": "Jan",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Neri Motori progetta e produce motori elettrici asincroni e sincroni per diverse applicazioni e settori industriali a San Giovanni in Persiceto. Qui trova come lavoriamo e cosa potremmo fare per Neri Motori.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Neri Motori.",
+ "evidence": [
+  {
+   "claim": "Neri Motori progetta e produce motori elettrici asincroni e sincroni per diverse applicazioni e settori industriali a San Giovanni in Persiceto.",
+   "url": "https://nerimotori.com/",
+   "quote": "Neri Motori, azienda specializzata nella progettazione e produzione di motori elettrici asincroni e sincroni per varie applicazioni e settori industriali. || Legal Head Office: Via A. Fleming 6-8, 40017 S.Giovanni P. (BO) Italy Operations & Logistics: Via A.Fleming 10 40017 S.Giovanni P. (BO) Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

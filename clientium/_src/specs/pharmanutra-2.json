@@ -1,0 +1,28 @@
+{
+ "slug": "pharmanutra-2",
+ "company": "Pharmanutra",
+ "first_name": "Chiara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pharmanutra dal 2003 sviluppa integratori alimentari e dispositivi medici per medici, farmacisti e fisioterapisti in oltre 85 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Pharmanutra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pharmanutra.",
+ "evidence": [
+  {
+   "claim": "Pharmanutra dal 2003 sviluppa integratori alimentari e dispositivi medici per medici, farmacisti e fisioterapisti in oltre 85 Paesi.",
+   "url": "https://www.pharmanutra.it/it/azienda/",
+   "quote": "Pharmanutra è un’azienda italiana specializzata in ricerca, sviluppo e commercializzazione di integratori alimentari e dispositivi medici ad alto valore scientifico. Fondata nel 2003 dai fratelli Andrea e Roberto Lacorte || presenti in oltre 85 Paesi nel mondo || supportare medici, farmacisti e fisioterapisti nel loro lavoro quotidiano"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

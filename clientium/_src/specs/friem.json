@@ -1,0 +1,28 @@
+{
+ "slug": "friem",
+ "company": "Friem",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Friem progetta e produce convertitori per l'industria elettrochimica e la raffinazione dei metalli, con oltre 3.000 unità fornite e sedi in più di 80 paesi. Qui trova come lavoriamo e cosa potremmo fare per Friem.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Friem.",
+ "evidence": [
+  {
+   "claim": "Friem progetta e produce convertitori per l'industria elettrochimica e la raffinazione dei metalli, con oltre 3.000 unità fornite e sedi in più di 80 paesi.",
+   "url": "https://friem.com/",
+   "quote": "Nel corso della nostra storia abbiamo fornito più di 3.000 convertitori per una potenza totale superiore ai 20 GW. || Siamo un gruppo internazionale che opera con uffici, stabilimenti e filiali, in più di 80 paesi in tutto il mondo distribuiti in 5 continenti. || L’azienda progetta e produce convertitori di elevata potenza per l’industria elettrochimica e della raffinazione dei metalli."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

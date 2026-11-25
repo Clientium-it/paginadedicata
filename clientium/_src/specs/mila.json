@@ -1,0 +1,28 @@
+{
+ "slug": "mila",
+ "company": "Mila",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mila riunisce 2.100 contadini e 500 dipendenti e produce oltre 140 prodotti negli stabilimenti di Bolzano e Brunico, dallo yogurt al mascarpone. Qui trova come lavoriamo e cosa potremmo fare per Mila.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mila.",
+ "evidence": [
+  {
+   "claim": "Mila riunisce 2.100 contadini e 500 dipendenti e produce oltre 140 prodotti negli stabilimenti di Bolzano e Brunico, dallo yogurt al mascarpone.",
+   "url": "https://www.mila.it/it/la-cooperativa/",
+   "quote": "Siamo una grande famiglia di 2.100 contadini e 500 dipendenti: il nostro obiettivo è di supportare l’economia del latte di montagna dell’Alto Adige, offrendo solo prodotti di alta qualità. || 2 stabilimenti: Bolzano e Brunico Bolzano: latte, yogurt, panna, burro e SKYR Brunico: formaggio, mascarpone e SKYR 2 negozi: Bolzano e Brunico una varietà di oltre 140 prodotti"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

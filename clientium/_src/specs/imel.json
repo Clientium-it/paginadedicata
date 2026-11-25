@@ -1,0 +1,28 @@
+{
+ "slug": "imel",
+ "company": "IMEL",
+ "first_name": "Lucio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IMEL ha realizzato più di 1500 impianti esportando in oltre 70 Paesi per automotive, industry e white appliances. Qui trova come lavoriamo e cosa potremmo fare per IMEL.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IMEL.",
+ "evidence": [
+  {
+   "claim": "IMEL ha realizzato più di 1500 impianti esportando in oltre 70 Paesi per automotive, industry e white appliances.",
+   "url": "https://www.imelspa.com/chi-siamo/",
+   "quote": "esportando in oltre 70 Paesi e realizzando più di 1500 impianti || Fa parte del Gruppo anche la Avin di Valvasone (PN) , società compartecipata, che si occupa di service e montaggi. || Settori Automotive → Settori Industry → Settori ACE → Settori White Appliances →"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

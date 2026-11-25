@@ -1,0 +1,28 @@
+{
+ "slug": "plastotecnica-2",
+ "company": "Plastotecnica",
+ "first_name": "Daniela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Plastotecnica produce dal 1976 imballaggi flessibili in polietilene a Bagnoli di Sopra per settori come alimentare, pet food, edilizia e vetrerie. Qui trova come lavoriamo e cosa potremmo fare per Plastotecnica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Plastotecnica.",
+ "evidence": [
+  {
+   "claim": "Plastotecnica produce dal 1976 imballaggi flessibili in polietilene a Bagnoli di Sopra per settori come alimentare, pet food, edilizia e vetrerie.",
+   "url": "https://www.plastotecnica.com/it/chi-siamo",
+   "quote": "Oggi, Plastotecnica è il leader italiano nella produzione di imballaggi flessibili in polietilene. Dal 1976 Dal 1976 , Plastotecnica è sinonimo di qualità e innovazione nel settore degli imballaggi flessibili. || Viale dell'Industria, 5a Strada nr. 2/I 35023 Bagnoli di Sopra (PD) || Arredamento, Beverage, Chimica e Gomma, Converting tecnico, Edilizia e Costruzioni, Imballaggio alimentare primario, Industria alimentare e Pet Food, Pellet di legno, Produttori di sale, Trasporti e Logistica, Vetrerie"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

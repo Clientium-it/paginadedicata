@@ -1,0 +1,28 @@
+{
+ "slug": "dompe-4",
+ "company": "Dompé",
+ "first_name": "Eriona",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dompé è un'azienda biofarmaceutica attiva dalla ricerca e sviluppo fino alla produzione e commercializzazione, con headquarter a Milano e centri in Europa e Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per Dompé.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dompé.",
+ "evidence": [
+  {
+   "claim": "Dompé è un'azienda biofarmaceutica attiva dalla ricerca e sviluppo fino alla produzione e commercializzazione, con headquarter a Milano e centri in Europa e Stati Uniti.",
+   "url": "https://www.dompe.com/it/about-us/",
+   "quote": "è un’azienda biofarmaceutica internazionale attiva in tutte le fasi della filiera farmaceutica, dalla ricerca e sviluppo alla produzione, fino alla commercializzazione. || Dal nostro headquarter di Milano ai centri di ricerca e sviluppo e commerciali in Europa e negli Stati Uniti, Dompé opera come un unico team globale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

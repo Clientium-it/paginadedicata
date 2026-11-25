@@ -1,0 +1,28 @@
+{
+ "slug": "mapal",
+ "company": "Mapal",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mapal segue costruttori di auto e loro fornitori con soluzioni di asportazione truciolo, dai motori a combustione alla propulsione per veicoli elettrici. Qui trova come lavoriamo e cosa potremmo fare per Mapal.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mapal.",
+ "evidence": [
+  {
+   "claim": "Mapal segue costruttori di auto e loro fornitori con soluzioni di asportazione truciolo, dai motori a combustione alla propulsione per veicoli elettrici.",
+   "url": "https://mapal.com/it-it/",
+   "quote": "Nel comparto automobilistico, dove efficienza e precisione vanno di pari passo, MAPAL offre soluzioni di asportazione truciolo altamente specializzate. L’esperienza spazia dai classici motori a combustione alle più recenti tecnologie di propulsione per veicoli elettrici. || MAPAL supporta i costruttori di automobili e i rispettivi fornitori nella produzione di componenti precisi e duraturi."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

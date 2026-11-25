@@ -1,0 +1,28 @@
+{
+ "slug": "officine-tecnosider-3",
+ "company": "Officine Tecnosider",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Officine Tecnosider produce lamiere da treno a San Giorgio di Nogaro, con 350 KT l'anno su un'area di 90.000 m2. Qui trova come lavoriamo e cosa potremmo fare per Officine Tecnosider.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Officine Tecnosider.",
+ "evidence": [
+  {
+   "claim": "Officine Tecnosider produce lamiere da treno a San Giorgio di Nogaro, con 350 KT l'anno su un'area di 90.000 m2.",
+   "url": "https://www.officinetecnosider.it/",
+   "quote": "Lo stabilimento ha una capacità produttiva di 350 KT l’anno di lamiere da treno e gode di una collocazione strategica a San Giorgio di Nogaro || Sorge su di un area di 90.000 m2 di cui 20.000 coperti."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "fg-valvole-3",
+ "company": "FG Valvole",
+ "first_name": "Federica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FG Valvole produce a Zanica valvole personalizzate e ingegnerizzate per oil and gas, acqua, vapore e produzione di energia. Qui trova come lavoriamo e cosa potremmo fare per FG Valvole.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FG Valvole.",
+ "evidence": [
+  {
+   "claim": "FG Valvole produce a Zanica valvole personalizzate e ingegnerizzate per oil and gas, acqua, vapore e produzione di energia.",
+   "url": "https://www.fgvalvole.com/",
+   "quote": "FG Valvole is committed to manufacture costumized and highly engineered valves to serve Oil, Gas, Water, Steam and Power Generating Industry. || HEADQUARTER AND MANUFACTURING PLANT Via XXV Aprile 1945, n. 27/29/31 - 24050 Zanica (BG) - Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

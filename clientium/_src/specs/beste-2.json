@@ -1,0 +1,28 @@
+{
+ "slug": "beste-2",
+ "company": "Beste",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Beste segue tutto il ciclo produttivo e progettuale dietro un capo di abbigliamento, con sede principale a Cantagallo vicino a Prato. Qui trova come lavoriamo e cosa potremmo fare per Beste.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Beste.",
+ "evidence": [
+  {
+   "claim": "Beste segue tutto il ciclo produttivo e progettuale dietro un capo di abbigliamento, con sede principale a Cantagallo vicino a Prato.",
+   "url": "https://beste.it/beste-group/azienda",
+   "quote": "Non più semplice azienda tessile, Beste è ormai una realtà capace di seguire in maniera organica tutto il ciclo produttivo e progettuale che sta alle spalle di qualsiasi prodotto di abbigliamento. || l’azienda trasferisce a Cantagallo, a quindici minuti da Prato, la sua sede principale."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

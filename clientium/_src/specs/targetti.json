@@ -1,0 +1,28 @@
+{
+ "slug": "targetti",
+ "company": "Targetti",
+ "first_name": "Camilla",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Targetti è nata a Firenze nel 1928 e da allora progetta e produce apparecchi di illuminazione architettonica esportati in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Targetti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Targetti.",
+ "evidence": [
+  {
+   "claim": "Targetti è nata a Firenze nel 1928 e da allora progetta e produce apparecchi di illuminazione architettonica esportati in tutto il mondo.",
+   "url": "https://www.targetti.com/it/Azienda/Chi-Siamo",
+   "quote": "Siamo nati a Firenze nel 1928, da allora progettiamo e produciamo apparecchi di illuminazione architettonica che esportiamo in tutto il mondo. || i due marchi offrono assieme un portfolio prodotti completo che porta con orgoglio il Made in Italy in oltre 50 paesi nel mondo. || una realtà coesa che si presenta come partner unico al servizio di professionisti e progettisti in cerca di soluzioni di qualità."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "pezzutti",
+ "company": "Pezzutti",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pezzutti è nato nel 1966 come officina di stampi a iniezione e oggi ha oltre 160 presse da 10 a 2.000 tonnellate in 4 stabilimenti. Qui trova come lavoriamo e cosa potremmo fare per Pezzutti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pezzutti.",
+ "evidence": [
+  {
+   "claim": "Pezzutti è nato nel 1966 come officina di stampi a iniezione e oggi ha oltre 160 presse da 10 a 2.000 tonnellate in 4 stabilimenti.",
+   "url": "https://pezzutti.it/azienda/",
+   "quote": "Nato come piccola officina di produzione di stampi a iniezione nel 1966, il Gruppo Pezzutti è oggi dotato di oltre 160 presse a iniezione da 10 a 2.000 tonnellate || 25.000 mq: strutture produttive con 4 stabilimenti >300.00 pallets: movimentati all’anno 18.000 mq: strutture logistiche e magazzini con 2 unità || I nostri Clienti appartengono ai più diversi settori industriali inclusi la Grande Distribuzione Organizzata, il Fai Da Te, il Packaging Alimentare, Contenitori per uso alimentare, Componenti e prodotti per l’Arredo"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

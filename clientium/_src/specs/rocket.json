@@ -1,0 +1,28 @@
+{
+ "slug": "rocket",
+ "company": "Rocket",
+ "first_name": "Daniel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rocket produce a Truccazzano macchine espresso domestiche e professionali con un piccolo team di artigiani. Qui trova come lavoriamo e cosa potremmo fare per Rocket.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rocket.",
+ "evidence": [
+  {
+   "claim": "Rocket produce a Truccazzano macchine espresso domestiche e professionali con un piccolo team di artigiani.",
+   "url": "https://rocket-espresso.com/about",
+   "quote": "Our small team of craftsmen produce both premium domestic and commercial espresso machines, beautifully made with meticulous care and attention to detail. || Rocket Milano srl Via Achille Grandi, 1 20060 Truccazzano Milan, Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

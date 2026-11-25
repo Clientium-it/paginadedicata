@@ -1,0 +1,28 @@
+{
+ "slug": "felicetti",
+ "company": "Felicetti",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Felicetti ha inaugurato a Molina di Fiemme un nuovo stabilimento di 16.200 metri quadrati con due linee e produce Monograno per la ristorazione. Qui trova come lavoriamo e cosa potremmo fare per Felicetti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Felicetti.",
+ "evidence": [
+  {
+   "claim": "Felicetti ha inaugurato a Molina di Fiemme un nuovo stabilimento di 16.200 metri quadrati con due linee e produce Monograno per la ristorazione.",
+   "url": "https://www.felicetti.it/it/pastificio/storia/",
+   "quote": "Nasce Monograno Felicetti, la linea di vertice della produzione, per andare incontro alle richieste dei consumatori più esigenti e dei professionisti della ristorazione. || Inaugurazione nuovo stabilimento produttivo a Molina di Fiemme: 16.200 metri quadrati che ampliano la capacità produttiva e introducono due nuove linee. || per andare incontro alle richieste dei consumatori più esigenti e dei professionisti della ristorazione."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "slim-aluminium-3",
+ "company": "Slim Aluminium",
+ "first_name": "Emilio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Slim Aluminium ha a Cisterna di Latina uno stabilimento da circa 92.000 tonnellate l'anno e a Merseburg produce laminati sottili per il packaging. Qui trova come lavoriamo e cosa potremmo fare per Slim Aluminium.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Slim Aluminium.",
+ "evidence": [
+  {
+   "claim": "Slim Aluminium ha a Cisterna di Latina uno stabilimento da circa 92.000 tonnellate l'anno e a Merseburg produce laminati sottili per il packaging.",
+   "url": "https://www.slimalu.com/it/about-slim/",
+   "quote": "La struttura, situata a Cisterna di Latina, vicino a Roma, ha una capacità massima di circa 92.000 tonnellate all’anno su una superficie totale coperta di 17,5 ettari. || Situata a Merseburg, vicino a Lipsia, Germania, è specializzata nella produzione di laminati sottili da 6 a 50 micron per il settore Packaging. || diversi mercati come edilizia e soluzioni architettoniche, industria navale e automobilistica, trasporto commerciale, industria alimentare e cosmetica."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

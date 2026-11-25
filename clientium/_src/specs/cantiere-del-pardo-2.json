@@ -1,0 +1,28 @@
+{
+ "slug": "cantiere-del-pardo-2",
+ "company": "Cantiere del Pardo",
+ "first_name": "Carola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cantiere del Pardo dal 1973 ha prodotto oltre 5000 barche in un cantiere di 40.000 metri quadrati coperti. Qui trova come lavoriamo e cosa potremmo fare per Cantiere del Pardo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cantiere del Pardo.",
+ "evidence": [
+  {
+   "claim": "Cantiere del Pardo dal 1973 ha prodotto oltre 5000 barche in un cantiere di 40.000 metri quadrati coperti.",
+   "url": "https://cantieredelpardo.com/company/our-values/",
+   "quote": "Cantiere del Pardo, established in 1973, has a proud history of producing over 5000 boats. The shipyard is spread over an indoor area of 40,000 square meters and is divided into three macro-departments"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

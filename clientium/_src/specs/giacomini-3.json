@@ -1,0 +1,28 @@
+{
+ "slug": "giacomini-3",
+ "company": "Giacomini",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Giacomini produce in Italia ed esporta nel mondo componenti e sistemi per climatizzazione, gestione dell'energia termica e distribuzione di acqua e gas. Qui trova come lavoriamo e cosa potremmo fare per Giacomini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Giacomini.",
+ "evidence": [
+  {
+   "claim": "Giacomini produce in Italia ed esporta nel mondo componenti e sistemi per climatizzazione, gestione dell'energia termica e distribuzione di acqua e gas.",
+   "url": "https://www.giacomini.com/about-us",
+   "quote": "We manufacture in Italy and export components and systems for healthy room air conditioning, thermal energy management and domestic water and gas distribution worldwide. || Via per Alzo, 39 28017 San Maurizio d’Opaglio (NO), Italy || professional formation to our planner, distributor and installer clients"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "lampre-4",
+ "company": "Lampre",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lampre propone oltre 500 tipi di rivestimento con 7 linee produttive, 5 centri servizio e impianti in Italia, Polonia, Portogallo e Benelux. Qui trova come lavoriamo e cosa potremmo fare per Lampre.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lampre.",
+ "evidence": [
+  {
+   "claim": "Lampre propone oltre 500 tipi di rivestimento con 7 linee produttive, 5 centri servizio e impianti in Italia, Polonia, Portogallo e Benelux.",
+   "url": "https://www.lampre.com/about/",
+   "quote": "7 linee produttive, 5 centri servizio, 50 country manager, sono a disposizione della clientela per proporre le migliori soluzioni di rivestimento, scegliendo fra oltre 500 tipi di rivestimento. || L’impianto produttivo di Lampre Polska porta a sette il totale delle linee, di cui quattro in Lampre Italia, una in Lampre Portuguesa e una in Lampre Benelux."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

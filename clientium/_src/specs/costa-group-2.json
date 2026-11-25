@@ -1,0 +1,28 @@
+{
+ "slug": "costa-group-2",
+ "company": "Costa Group",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Costa Group progetta e arreda ristoranti, pizzerie, bar ed enoteche, con oltre 5.000 realizzazioni nel mondo, da Riccò del Golfo. Qui trova come lavoriamo e cosa potremmo fare per Costa Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Costa Group.",
+ "evidence": [
+  {
+   "claim": "Costa Group progetta e arreda ristoranti, pizzerie, bar ed enoteche, con oltre 5.000 realizzazioni nel mondo, da Riccò del Golfo.",
+   "url": "https://costagroup.net/",
+   "quote": "Costa Group è un’azienda specializzata nella progettazione e arredamento di locali pubblici legati alla ristorazione che vanta oltre 5.000 realizzazioni in tutto il Mondo || L’azienda si sviluppa in 13.000 metri quadri immersi nel verde a Riccò del Golfo, in provincia di La Spezia. || progettiamo e allestiamo ristoranti, pizzerie, bar, pub, enoteche, fiere ed eventi"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

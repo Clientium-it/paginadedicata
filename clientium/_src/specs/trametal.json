@@ -1,0 +1,28 @@
+{
+ "slug": "trametal",
+ "company": "Trametal",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Trametal lamina lamiere d'acciaio per il mercato europeo e copre circa il 14% del consumo italiano, anche per ponti, edifici e navi. Qui trova come lavoriamo e cosa potremmo fare per Trametal.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Trametal.",
+ "evidence": [
+  {
+   "claim": "Trametal lamina lamiere d'acciaio per il mercato europeo e copre circa il 14% del consumo italiano, anche per ponti, edifici e navi.",
+   "url": "https://trametal.metinvestholding.com/it-it/about/",
+   "quote": "Trametal è uno degli stabilimenti di laminazione di Metinvest in Europa, specializzato nella produzione di lamiere d’acciaio per i mercati europei. Trametal fornisce circa il 14% del consumo totale di lamiere in Italia e il 5% dell’intera domanda dell’UE. || Forniamo grandi quantità di acciaio strutturale ad alta resistenza per la costruzione di ponti, autostrade e edifici a più piani. Trametal è uno dei pochi fornitori europei di acciaio per la costruzione di navi"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

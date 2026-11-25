@@ -1,0 +1,28 @@
+{
+ "slug": "inxpect",
+ "company": "Inxpect",
+ "first_name": "Daigoro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Inxpect progetta e costruisce radar a corto raggio per la sicurezza industriale, con uffici in Italia, Germania, Nord America e Cina. Qui trova come lavoriamo e cosa potremmo fare per Inxpect.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Inxpect.",
+ "evidence": [
+  {
+   "claim": "Inxpect progetta e costruisce radar a corto raggio per la sicurezza industriale, con uffici in Italia, Germania, Nord America e Cina.",
+   "url": "https://www.inxpect.com/en/about-us/company/",
+   "quote": "Inxpect is a young tech company that designs and builds small range radar for the industrial safety. || Inxpect is an international company with offices in Italy, Germany, North America, China and with future plans to have a direct presence in many other countries."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

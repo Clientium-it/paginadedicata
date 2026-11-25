@@ -1,0 +1,28 @@
+{
+ "slug": "edilkamin-2",
+ "company": "Edilkamin",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Edilkamin dal 1963 offre soluzioni a pellet e legna per ogni esigenza di riscaldamento. Qui trova come lavoriamo e cosa potremmo fare per Edilkamin.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Edilkamin.",
+ "evidence": [
+  {
+   "claim": "Edilkamin dal 1963 offre soluzioni a pellet e legna per ogni esigenza di riscaldamento.",
+   "url": "https://edilkamin.com/it/index.html",
+   "quote": "Dal 1963, Edilkamin offre le soluzioni a pellet e legna più adatte per ogni esigenza di riscaldamento. || EDILKAMIN S.p.A. - 20045 Lainate (MI) - Via Mascagni, 7 - Sede legale: EDILKAMIN S.p.A., via P. Moscati 8, 20154 Milano"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

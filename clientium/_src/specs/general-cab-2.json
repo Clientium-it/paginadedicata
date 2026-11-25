@@ -1,0 +1,28 @@
+{
+ "slug": "general-cab-2",
+ "company": "General Cab",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "General Cab fornisce motoventilatori elettrici e soluzioni meccatroniche agli OEM di camion, bus e macchine agricole, con produzione in Italia, Tunisia e Cina. Qui trova come lavoriamo e cosa potremmo fare per General Cab.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per General Cab.",
+ "evidence": [
+  {
+   "claim": "General Cab fornisce motoventilatori elettrici e soluzioni meccatroniche agli OEM di camion, bus e macchine agricole, con produzione in Italia, Tunisia e Cina.",
+   "url": "https://generalcab.com/general-cab-group/",
+   "quote": "General Cab is a privately owned Italian company delivering electric motor-fans and integrated mechatronic solutions to global OEMs operating in truck, bus, agricultural, off-highway and heavy-duty equipment sectors. || With production facilities in Italy , Tunisia and China , and a U.S. -based warehouse and commercial team supporting the North American market || global OEMs operating in truck, bus, agricultural, off-highway and heavy-duty equipment sectors"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

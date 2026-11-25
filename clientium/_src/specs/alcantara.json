@@ -1,0 +1,28 @@
+{
+ "slug": "alcantara",
+ "company": "Alcantara",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Alcantara lavora con marchi del lusso nell'automotive, nella moda, nell'interior design e nell'elettronica, con sede a Milano e produzione a Nera Montoro. Qui trova come lavoriamo e cosa potremmo fare per Alcantara.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Alcantara.",
+ "evidence": [
+  {
+   "claim": "Alcantara lavora con marchi del lusso nell'automotive, nella moda, nell'interior design e nell'elettronica, con sede a Milano e produzione a Nera Montoro.",
+   "url": "https://www.alcantara.com/corporate/",
+   "quote": "Over the years, Alcantara has developed strong partnerships with some of the world’s most prestigious luxury brands, operating across automotive, fashion and accessories, interior design, and consumer electronics sectors. || Alcantara S.p.A. operates through two locations: its corporate headquarters in Milan and its production site in Nera Montoro (Terni). || Over the years, Alcantara has developed strong partnerships with some of the world’s most prestigious luxury brands, operating across automotive, fashion and accessories, interior design, and consumer electronics sectors."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

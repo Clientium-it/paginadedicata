@@ -1,0 +1,28 @@
+{
+ "slug": "taghleef",
+ "company": "Taghleef",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Taghleef produce film in BOPP, CPP e BoPLA in stabilimenti distribuiti su più continenti, con centri di ricerca e sviluppo nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Taghleef.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Taghleef.",
+ "evidence": [
+  {
+   "claim": "Taghleef produce film in BOPP, CPP e BoPLA in stabilimenti distribuiti su più continenti, con centri di ricerca e sviluppo nel mondo.",
+   "url": "https://www.ti-films.com/about-us/investors/",
+   "quote": "Ti produces biaxially oriented polypropylene (BOPP), cast polypropylene (CPP) and biaxially oriented polylactic acid (BoPLA) films across eleven manufacturing facilities on six continents, supported by distribution centers, sales offices and six R&D centers worldwide. || across eleven manufacturing facilities on six continents, supported by distribution centers, sales offices and six R&D centers worldwide."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

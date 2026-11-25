@@ -1,0 +1,28 @@
+{
+ "slug": "galdabini",
+ "company": "Galdabini",
+ "first_name": "Donato",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Galdabini dal 1890 produce raddrizzatrici di precisione, macchine per prove sui materiali e presse idrauliche, con 10.000 macchine installate nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Galdabini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Galdabini.",
+ "evidence": [
+  {
+   "claim": "Galdabini dal 1890 produce raddrizzatrici di precisione, macchine per prove sui materiali e presse idrauliche, con 10.000 macchine installate nel mondo.",
+   "url": "https://www.galdabini.eu/",
+   "quote": "Galdabini manufactures precision straightening machines, material testing machines and hydraulic presses. The company is composed of two corporate headquarters located in Italy and Switzerland. || Since 1890 2 plants in Europe 10.000 machines installed worldwide 85 export || Automotive, Transportation, E-mobility Oil & Gas, Steel mills and Forgings Precision Mechanics Profiles"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

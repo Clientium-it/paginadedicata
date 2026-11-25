@@ -1,0 +1,28 @@
+{
+ "slug": "guerra-2",
+ "company": "Guerra",
+ "first_name": "Federica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Guerra affianca fornai, pasticcieri, baristi, chef e industrie con prodotti presenti in più di 20 Paesi e una Linea Frozen. Qui trova come lavoriamo e cosa potremmo fare per Guerra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Guerra.",
+ "evidence": [
+  {
+   "claim": "Guerra affianca fornai, pasticcieri, baristi, chef e industrie con prodotti presenti in più di 20 Paesi e una Linea Frozen.",
+   "url": "https://www.guerra.it/azienda/",
+   "quote": "i nostri prodotti sono ormai presenti in più di 20 Paesi nel mondo || Nel primo trimestre viene ultimata la nuova ala dello stabilimento (2.000 mq), destinata alla Linea Frozen. || Ogni giorno con i nostri prodotti siamo al fianco di fornai e pasticcieri, baristi, chef e industrie, pronti a dare ascolto alle loro esigenze."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "scs-concept-3",
+ "company": "SCS Concept",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SCS Concept dal 2005 sviluppa e produce macchine per controllo qualità e produzione per automotive e aerospazio, con oltre 150 persone nel mondo. Qui trova come lavoriamo e cosa potremmo fare per SCS Concept.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SCS Concept.",
+ "evidence": [
+  {
+   "claim": "SCS Concept dal 2005 sviluppa e produce macchine per controllo qualità e produzione per automotive e aerospazio, con oltre 150 persone nel mondo.",
+   "url": "https://www.scsconcept.com/about-us/",
+   "quote": "SCS Concept was founded in 2005, with Head Quarters in Milan, Italy. It is a young and innovative company, developing and manufacturing advanced quality control and production equipment, with over 150 persons world wide. || Legal head office: Via Po, 77 – 20032 Cormano (MI) - Operational headquarters: Via Po, 77/85 – 20032 Cormano (MI) || Operating globally in all prime vertical markets – Automotive Industry – Aerospace – General Industry."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

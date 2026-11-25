@@ -1,0 +1,28 @@
+{
+ "slug": "more-3",
+ "company": "MORE",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MORE sviluppa dal 1989 bruciatori laterali e manipolatori di lance ossigeno e carbonio, fa parte del Gruppo Danieli e ha filiali in Cina e USA. Qui trova come lavoriamo e cosa potremmo fare per MORE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MORE.",
+ "evidence": [
+  {
+   "claim": "MORE sviluppa dal 1989 bruciatori laterali e manipolatori di lance ossigeno e carbonio, fa parte del Gruppo Danieli e ha filiali in Cina e USA.",
+   "url": "https://more-oxy.com/history/",
+   "quote": "1989 Development and supply of side-wall burners and oxygen/carbon lance manipulators 1997 MORE became part of Danieli Group || 2020 New subsidiary Suzhou MORE Metallurgy Technology Co. Ltd. in China 2022 New subsidiary MORE North America Corp. in USA"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

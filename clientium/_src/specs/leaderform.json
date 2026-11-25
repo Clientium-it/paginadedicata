@@ -1,0 +1,28 @@
+{
+ "slug": "leaderform",
+ "company": "Leaderform",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Leaderform lavora da più di quarant'anni nella stampa a Sona con soluzioni per la comunicazione esterna B2B e B2C. Qui trova come lavoriamo e cosa potremmo fare per Leaderform.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Leaderform.",
+ "evidence": [
+  {
+   "claim": "Leaderform lavora da più di quarant'anni nella stampa a Sona con soluzioni per la comunicazione esterna B2B e B2C.",
+   "url": "https://leaderform.leaderformgroup.com/chisiamo",
+   "quote": "Da più di quarant’anni nel settore della stampa, Leaderform si è distinta per l’offerta di soluzioni innovative a supporto della comunicazione esterna B2B e B2C. || Leaderform s.r.l. a socio unico Via Molina, 14 37060 Sona (VR)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

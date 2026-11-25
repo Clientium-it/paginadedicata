@@ -1,0 +1,28 @@
+{
+ "slug": "ebara-2",
+ "company": "Ebara",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ebara produce elettropompe in acciaio inox a Cles dal 1992 per drenaggio, acque reflue, industria ed edilizia civile, con sede a Gambellara. Qui trova come lavoriamo e cosa potremmo fare per Ebara.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ebara.",
+ "evidence": [
+  {
+   "claim": "Ebara produce elettropompe in acciaio inox a Cles dal 1992 per drenaggio, acque reflue, industria ed edilizia civile, con sede a Gambellara.",
+   "url": "https://www.ebaraeurope.com/ebara-pumps-europe/",
+   "quote": "the opening of the Cles plant (Trento province) in 1992 . It is one of Europe’s top manufacturing centres for stainless steel electric pumps. || with headquarters first in Brendola, and since 2018 in Gambellara , in Vicenza province. || one of the biggest manufacturers of electric pumps for Europe’s industrial and domestic markets, operating in the drainage, waste water, industry, water supply and civil construction sectors."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

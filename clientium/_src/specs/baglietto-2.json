@@ -1,0 +1,28 @@
+{
+ "slug": "baglietto-2",
+ "company": "Baglietto",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Baglietto ha la sede di La Spezia su circa 35.000 mq, da poco ampliata, e uffici di rappresentanza a Fort Lauderdale. Qui trova come lavoriamo e cosa potremmo fare per Baglietto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Baglietto.",
+ "evidence": [
+  {
+   "claim": "Baglietto ha la sede di La Spezia su circa 35.000 mq, da poco ampliata, e uffici di rappresentanza a Fort Lauderdale.",
+   "url": "https://www.baglietto.com/chi-siamo/shipyard/",
+   "quote": "La sede di La Spezia, che si espande su una superficie di circa 35.000mq, è stata recentemente oggetto di un importante progetto di ampliamento || Uffici di rappresen­tanza FORT LAUDERDALE 1535 SE 17th Street, Suite B111 Fort Lauderdale FL 33316 – USA"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

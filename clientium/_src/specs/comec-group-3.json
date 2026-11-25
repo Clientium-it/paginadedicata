@@ -1,0 +1,28 @@
+{
+ "slug": "comec-group-3",
+ "company": "Comec Group",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Comec Group progetta e fornisce dal 1970 macchine speciali per tutto il processo di lavorazione del legno, con oltre 100 collaboratori. Qui trova come lavoriamo e cosa potremmo fare per Comec Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Comec Group.",
+ "evidence": [
+  {
+   "claim": "Comec Group progetta e fornisce dal 1970 macchine speciali per tutto il processo di lavorazione del legno, con oltre 100 collaboratori.",
+   "url": "https://www.comecgroup.it/",
+   "quote": "Dal 1970 Comec Group è universalmente riconosciuta come punto di riferimento e sinonimo di innovazione continua per la progettazione e la fornitura di macchine speciali per l’intero processo di lavorazione del legno. || Oggi, Comec Group impegna oltre 100 collaboratori."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

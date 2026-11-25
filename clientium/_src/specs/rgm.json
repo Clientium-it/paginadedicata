@@ -1,0 +1,28 @@
+{
+ "slug": "rgm",
+ "company": "RGM",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "RGM sviluppa e produce sistemi custom per la conversione di energia per trasporti, accumulo, industria e medicale, con un'unità metalworks a Lerma. Qui trova come lavoriamo e cosa potremmo fare per RGM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RGM.",
+ "evidence": [
+  {
+   "claim": "RGM sviluppa e produce sistemi custom per la conversione di energia per trasporti, accumulo, industria e medicale, con un'unità metalworks a Lerma.",
+   "url": "https://www.rgm.it/welcome-to-rgm/",
+   "quote": "RGM has specialized in development and production of complex custom systems for energy conversion, for a wide range of applications in transportation, hybrid systems and energy storage, industrial and medical markets. || RGM has founded another major facility in Lerma (AL), the Metalworks Business Unit || transportation, hybrid systems and energy storage, industrial and medical markets"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

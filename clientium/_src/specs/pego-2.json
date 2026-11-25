@@ -1,0 +1,28 @@
+{
+ "slug": "pego-2",
+ "company": "Pego",
+ "first_name": "Cinzia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pego produce tutto nello stabilimento di Occhiobello con energia rinnovabile, è distribuita in oltre 50 paesi e segue distributori, costruttori e installatori. Qui trova come lavoriamo e cosa potremmo fare per Pego.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pego.",
+ "evidence": [
+  {
+   "claim": "Pego produce tutto nello stabilimento di Occhiobello con energia rinnovabile, è distribuita in oltre 50 paesi e segue distributori, costruttori e installatori.",
+   "url": "https://www.pego.it/azienda/",
+   "quote": "Con una produzione interamente realizzata in Italia presso lo stabilimento di Occhiobello (RO), con energia rinnovabile ed in totale autonomia energetica, PEGO è distribuita in più di 50 paesi nel mondo || Con una produzione interamente realizzata in Italia presso lo stabilimento di Occhiobello (RO), con energia rinnovabile ed in totale autonomia energetica, PEGO è distribuita in più di 50 paesi nel mondo || Uno dei punti di forza di PEGO è la costante assistenza tecnica telefonica fornita, non solo ai distributori ed ai costruttori, ma anche direttamente agli installatori"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

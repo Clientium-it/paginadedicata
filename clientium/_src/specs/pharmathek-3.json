@@ -1,0 +1,28 @@
+{
+ "slug": "pharmathek-3",
+ "company": "Pharmathek",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pharmathek sviluppa, produce e installa magazzini automatizzati e robot per farmacie, progettati e assemblati nello stabilimento di Verona. Qui trova come lavoriamo e cosa potremmo fare per Pharmathek.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pharmathek.",
+ "evidence": [
+  {
+   "claim": "Pharmathek sviluppa, produce e installa magazzini automatizzati e robot per farmacie, progettati e assemblati nello stabilimento di Verona.",
+   "url": "https://www.pharmathek.com/azienda/",
+   "quote": "progettiamo, produciamo e assembliamo i nostri prodotti in Italia, nello stabilimento di Verona, garantendo il miglior controllo dei processi produttivi. || Nata all’interno del Gruppo Th.Kohl, Pharmathek è oggi uno dei principali produttori e fornitori di robot e magazzini automatizzati per la farmacia. || Pharmathek sviluppa, produce e installa magazzini automatizzati e robot per tutte le farmacie."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

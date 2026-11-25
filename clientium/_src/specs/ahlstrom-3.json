@@ -1,0 +1,28 @@
+{
+ "slug": "ahlstrom-3",
+ "company": "Ahlstrom",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ahlstrom produce media filtranti per liquidi e aria, packaging alimentare compostabile e tessuti medicali, con 7000 persone e 36 stabilimenti in 13 paesi. Qui trova come lavoriamo e cosa potremmo fare per Ahlstrom.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ahlstrom.",
+ "evidence": [
+  {
+   "claim": "Ahlstrom produce media filtranti per liquidi e aria, packaging alimentare compostabile e tessuti medicali, con 7000 persone e 36 stabilimenti in 13 paesi.",
+   "url": "https://www.ahlstrom.com/About-us/",
+   "quote": "Sustainability, innovation and quality are central in all our solutions such as compostable food and beverage processing and packaging materials, liquid and air filtration media, diagnostic materials and protective medical fabrics. || 7000 employees representing over 50 nationalities 36 plants in 13 countries"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

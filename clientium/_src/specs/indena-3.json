@@ -1,0 +1,28 @@
+{
+ "slug": "indena-3",
+ "company": "Indena",
+ "first_name": "Edwin",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Indena da oltre 100 anni fa ricerca e produzione fitochimica per l'industria farmaceutica e nutraceutica, con il sito principale a Settala vicino a Milano. Qui trova come lavoriamo e cosa potremmo fare per Indena.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Indena.",
+ "evidence": [
+  {
+   "claim": "Indena da oltre 100 anni fa ricerca e produzione fitochimica per l'industria farmaceutica e nutraceutica, con il sito principale a Settala vicino a Milano.",
+   "url": "https://www.indena.com/about-us/",
+   "quote": "At our main production site in Settala, near Milan, we carry out many of the activities now at the core of cutting-edge phytochemical research and production. || At our main production site in Settala, near Milan, we carry out many of the activities now at the core of cutting-edge phytochemical research and production. || 100+ YEARS OF BOTANICAL EXCELLENCE FOR THE PHARMACEUTICAL AND NUTRACEUTICAL INDUSTRY"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

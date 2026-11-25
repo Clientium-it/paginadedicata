@@ -1,0 +1,28 @@
+{
+ "slug": "illy",
+ "company": "illy",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Illy propone caffè in grani, macinato, cialde E.S.E., filtro e solubile e ha anche un'offerta business per bar, pasticcerie, panifici, ristoranti, hotel e alimentari. Qui trova come lavoriamo e cosa potremmo fare per illy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per illy.",
+ "evidence": [
+  {
+   "claim": "Illy propone caffè in grani, macinato, cialde E.S.E., filtro e solubile e ha anche un'offerta business per bar, pasticcerie, panifici, ristoranti, hotel e alimentari.",
+   "url": "https://www.illy.com/de-de",
+   "quote": "E.S.E.-Kaffeepads Kaffeebohnen Gemahlener Kaffee Arabica Selection Kaffee Filterkaffee Instantkaffee || BUSINESS-ANGEBOT Cafés Konditoreien und Bäckereien Restaurants Hotels Lebensmittelgeschäfte"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "urania",
+ "company": "Urania",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Urania da oltre 40 anni sviluppa soluzioni per più di 500 moduli prefabbricati abitativi, partendo da Toscana e Umbria fino agli Stati Uniti e alla Francia. Qui trova come lavoriamo e cosa potremmo fare per Urania.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Urania.",
+ "evidence": [
+  {
+   "claim": "Urania da oltre 40 anni sviluppa soluzioni per più di 500 moduli prefabbricati abitativi, partendo da Toscana e Umbria fino agli Stati Uniti e alla Francia.",
+   "url": "https://urania.group/",
+   "quote": "Con oltre 40 anni di esperienza, abbiamo sviluppato soluzioni per più di 500 diversi moduli prefabbricati utilizzati per creare spazi abitativi. || Dalle nostre prime sedi in Toscana e in Umbria , siamo arrivati a espanderci aprendo un ufficio commerciale negli Stati Uniti e una filiale in Francia ."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

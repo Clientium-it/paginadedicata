@@ -1,0 +1,28 @@
+{
+ "slug": "renco-3",
+ "company": "Renco",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Renco, con sede a Pesaro, lavora su edifici sostenibili, energia naturale e progetti come le Hydrogen Valleys nelle Marche. Qui trova come lavoriamo e cosa potremmo fare per Renco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Renco.",
+ "evidence": [
+  {
+   "claim": "Renco, con sede a Pesaro, lavora su edifici sostenibili, energia naturale e progetti come le Hydrogen Valleys nelle Marche.",
+   "url": "https://www.renco.it/",
+   "quote": "Sustainable buildings, natural energy What we do Find out more Image projects Hydrogen Valleys in Marche || Legal Seat and Operational Headquarter Str. di Montefeltro 51, 61122 Pesaro (PU), Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

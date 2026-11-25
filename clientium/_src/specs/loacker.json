@@ -1,0 +1,28 @@
+{
+ "slug": "loacker",
+ "company": "Loacker",
+ "first_name": "Lydie",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Loacker ha sede ad Auna di Sotto a 1.000 metri con vista sulle Dolomiti e usa solo nocciole italiane, coltivate anche in Toscana. Qui trova come lavoriamo e cosa potremmo fare per Loacker.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Loacker.",
+ "evidence": [
+  {
+   "claim": "Loacker ha sede ad Auna di Sotto a 1.000 metri con vista sulle Dolomiti e usa solo nocciole italiane, coltivate anche in Toscana.",
+   "url": "https://www.loacker.com:443/int/en/about-us.html",
+   "quote": "These are the geographical coordinates of the Loacker headquarters in Auna di Sotto at 1,000 meters above sea level with view of the Dolomites and the Sciliar. || We use only 100 per cent Italian hazelnuts, grown on our estates in Tuscany and in the hazelnut groves of our partner families."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

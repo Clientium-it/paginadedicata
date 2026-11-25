@@ -1,0 +1,28 @@
+{
+ "slug": "effer-2",
+ "company": "EFFER",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "EFFER costruisce dal 1965 vicino a Bologna gru di carico pesanti e super pesanti da 30 tonnellate metro in su per edilizia, logistica e arboricoltura. Qui trova come lavoriamo e cosa potremmo fare per EFFER.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per EFFER.",
+ "evidence": [
+  {
+   "claim": "EFFER costruisce dal 1965 vicino a Bologna gru di carico pesanti e super pesanti da 30 tonnellate metro in su per edilizia, logistica e arboricoltura.",
+   "url": "https://www.hiab.com/en/brands/effer",
+   "quote": "EFFER is the go-to brand for heavy (from 30 tm to 100 tm) and super-heavy (from 100 tm) loader cranes, trusted worldwide for their exceptional strength, precision, and durability. || 1965 – Launch of the P65, the first EFFER loader crane, marking the company’s foundation near Bologna, Italy. || Create the ideal loader crane to work in construction, logistics, arboriculture and many other specialty areas."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

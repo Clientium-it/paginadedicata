@@ -1,0 +1,28 @@
+{
+ "slug": "plax-4",
+ "company": "Plax",
+ "first_name": "Eric",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Plax progetta e costruisce stampi in 7 siti produttivi tra Italia, Romania, Cina e Tunisia, con magazzini in Nord America ed Europa Centrale. Qui trova come lavoriamo e cosa potremmo fare per Plax.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Plax.",
+ "evidence": [
+  {
+   "claim": "Plax progetta e costruisce stampi in 7 siti produttivi tra Italia, Romania, Cina e Tunisia, con magazzini in Nord America ed Europa Centrale.",
+   "url": "https://www.plax.it/chi-siamo/plax-group/",
+   "quote": "7 siti produttivi (Italia, Romania, Cina, Tunisia) per progettare e costruire stampi || Magazzini in Nord America ed Europa Centrale."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}
