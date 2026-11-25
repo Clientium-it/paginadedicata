@@ -1,0 +1,17 @@
+{
+ "slug": "ing",
+ "company": "ING",
+ "full_name": "",
+ "first": "",
+ "cover_note": "ING mette a disposizione 36 punti fisici per un supporto mirato nella scelta dei prodotti.",
+ "evidence": [
+  {
+   "claim": "ING mette a disposizione 36 punti fisici per un supporto mirato nella scelta dei prodotti.",
+   "url": "https://www.ing.it/chi-e-ing/il-gruppo-ing.html?intcmp=chisiamo-hp:homepage-contatti",
+   "quote": "mettiamo anche a disposizione un servizio telefonico e 36 punti fisici per offrire un supporto mirato nella scelta dei prodotti"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/ing/logo.svg"
+}

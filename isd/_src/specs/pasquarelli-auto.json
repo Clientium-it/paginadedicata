@@ -1,0 +1,17 @@
+{
+ "slug": "pasquarelli-auto",
+ "company": "Pasquarelli Auto",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Pasquarelli Auto è presente con oltre dieci sedi nelle regioni Lazio, Abruzzo e Molise.",
+ "evidence": [
+  {
+   "claim": "Pasquarelli Auto è presente con oltre dieci sedi nelle regioni Lazio, Abruzzo e Molise.",
+   "url": "https://www.pasquarelliauto.it/chi-siamo/",
+   "quote": "Pasquarelli Auto è presente in maniera capillare nelle regioni Lazio, Abruzzo e Molise attraverso oltre dieci sedi: Roma in via Tiburtina 779 , San Salvo , San Giovanni Teatino in via Po 17, via Po 127, via Adige 17 e via Aldo Moro 140 , Rocca San Giovanni , Vasto e Campobasso ."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/pasquarelli-auto/logo.png"
+}

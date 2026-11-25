@@ -1,0 +1,17 @@
+{
+ "slug": "birindelli-auto",
+ "company": "Birindelli Auto",
+ "full_name": "Salvatore Cassese",
+ "first": "Salvatore",
+ "cover_note": "Birindelli Auto conta 6 showroom con officine ufficiali BMW e MINI.",
+ "evidence": [
+  {
+   "claim": "Birindelli Auto conta 6 showroom con officine ufficiali BMW e MINI.",
+   "url": "https://www.birindelli.com/chi-siamo/",
+   "quote": "oggi contiamo 6 showroom con officine ufficiali BMW e MINI"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/birindelli-auto/logo.svg"
+}
