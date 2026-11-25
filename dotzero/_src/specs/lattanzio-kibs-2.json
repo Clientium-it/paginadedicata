@@ -1,0 +1,25 @@
+{
+ "slug": "lattanzio-kibs-2",
+ "company": "Lattanzio KIBS",
+ "full_name": "Greta",
+ "cover_note": "Lattanzio KIBS affianca istituzioni e governi nazionali e locali su progetti di sviluppo in Italia e all'estero, con un network di oltre 1.000 key expert.",
+ "idea": "Sui progetti di sviluppo che seguite possiamo realizzare video che raccontano i risultati, con interviste e sottotitoli per ogni paese.",
+ "evidence": [
+  {
+   "claim": "Lattanzio KIBS affianca istituzioni e governi nazionali e locali su progetti di sviluppo in Italia e all'estero, con un network di oltre 1.000 key expert.",
+   "url": "https://lattanziokibs.com/about/team.html",
+   "quote": "Alla struttura interna si affianca un network consolidato di oltre 1.000 Key Expert italiani ed esteri, con cui collaboriamo stabilmente per offrire ai nostri clienti soluzioni globali in tutti i settori d’intervento."
+  },
+  {
+   "claim": "Lattanzio KIBS affianca istituzioni e governi nazionali e locali su progetti di sviluppo in Italia e all'estero, con un network di oltre 1.000 key expert.",
+   "url": "https://lattanziokibs.com/about.html",
+   "quote": "Siamo al fianco delle istituzioni per qualificare progetti e programmi di sviluppo in Italia e all’estero."
+  },
+  {
+   "claim": "Lattanzio KIBS affianca istituzioni e governi nazionali e locali su progetti di sviluppo in Italia e all'estero, con un network di oltre 1.000 key expert.",
+   "url": "https://lattanziokibs.com/about/team.html",
+   "quote": "operare a fianco dei governi nazionali e locali per promuovere una cultura che incentiva l’efficienza, l’innovazione, il miglioramento continuo e soprattutto i risultati."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

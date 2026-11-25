@@ -1,0 +1,15 @@
+{
+ "slug": "beta-80",
+ "company": "Beta 80",
+ "full_name": "Francesco",
+ "cover_note": "Beta 80 con la sua Stockager Suite offre una piattaforma per gestire e ottimizzare magazzini manuali, automatici e ibridi.",
+ "idea": "Sulla Stockager Suite possiamo realizzare video demo con riprese in magazzino e motion design per spiegare la piattaforma.",
+ "evidence": [
+  {
+   "claim": "Beta 80 con la sua Stockager Suite offre una piattaforma per gestire e ottimizzare magazzini manuali, automatici e ibridi.",
+   "url": "https://beta80group.it/",
+   "quote": "Stockager® Suite La piattaforma all-in-one di Beta 80 per gestire e ottimizzare magazzini manuali, automatici e ibridi, integrando processi, persone e tecnologie in un unico sistema."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

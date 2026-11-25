@@ -1,0 +1,25 @@
+{
+ "slug": "bticino-3",
+ "company": "BTicino",
+ "full_name": "Monica",
+ "cover_note": "BTicino ha sede a Varese, fa parte del gruppo Legrand e si rivolge ad architetti, progettisti, installatori e rivenditori.",
+ "idea": "Per architetti, progettisti e installatori possiamo realizzare video di prodotto e tutorial con motion design, con versioni brevi per ogni canale.",
+ "evidence": [
+  {
+   "claim": "BTicino ha sede a Varese, fa parte del gruppo Legrand e si rivolge ad architetti, progettisti, installatori e rivenditori.",
+   "url": "https://www.bticino.it/",
+   "quote": "BTicino Spa - Viale Borri 231, 21100 Varese - Capitale sociale 98.800.000 i.v. - R.I. Varese e C.F./P.I. 10991860155 - R.E.A. Varese 237038 BTicino è una società del gruppo Legrand"
+  },
+  {
+   "claim": "BTicino ha sede a Varese, fa parte del gruppo Legrand e si rivolge ad architetti, progettisti, installatori e rivenditori.",
+   "url": "https://www.bticino.it/",
+   "quote": "BTicino Spa - Viale Borri 231, 21100 Varese"
+  },
+  {
+   "claim": "BTicino ha sede a Varese, fa parte del gruppo Legrand e si rivolge ad architetti, progettisti, installatori e rivenditori.",
+   "url": "https://www.bticino.it/",
+   "quote": "PER I PROFESSIONISTI Architetti, progettisti, installatori e rivenditori"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "beta",
+ "company": "Beta",
+ "full_name": "Margherita",
+ "cover_note": "Beta nasce a Firenze nel 1905 dalla famiglia Bianchi e dall'officina artigianale si è sviluppata nel mondo del fuoristrada.",
+ "idea": "Su una storia che parte da un'officina fiorentina possiamo realizzare video sul fuoristrada, riprese in azione e contenuti brevi per i vostri canali.",
+ "evidence": [
+  {
+   "claim": "Beta nasce a Firenze nel 1905 dalla famiglia Bianchi e dall'officina artigianale si è sviluppata nel mondo del fuoristrada.",
+   "url": "https://www.betamotor.com/it-it/azienda/",
+   "quote": "Beta nasce a Firenze nel 1905 dalla visione della famiglia Bianchi, evolvendosi da un’officina artigianale a una realtà di riferimento nel mondo del fuoristrada."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

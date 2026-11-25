@@ -1,0 +1,20 @@
+{
+ "slug": "directa",
+ "company": "Directa",
+ "full_name": "Elena",
+ "cover_note": "Directa da 30 anni conta 165k investitori, oltre 11 miliardi di asset totali e più di 3.8 milioni di ordini eseguiti, da Torino.",
+ "idea": "Sulla vostra piattaforma possiamo realizzare video tutorial e motion design che spiegano gli strumenti agli investitori.",
+ "evidence": [
+  {
+   "claim": "Directa da 30 anni conta 165k investitori, oltre 11 miliardi di asset totali e più di 3.8 milioni di ordini eseguiti, da Torino.",
+   "url": "https://www.directa.it/chi-siamo",
+   "quote": "ABBIAMO 30 anni CON NOI 165k investitori PIÙ 11mld asset totali OLTRE 3.8mln ordini eseguiti"
+  },
+  {
+   "claim": "Directa da 30 anni conta 165k investitori, oltre 11 miliardi di asset totali e più di 3.8 milioni di ordini eseguiti, da Torino.",
+   "url": "https://www.directa.it/chi-siamo",
+   "quote": "Via Bruno Buozzi 5, 10121 Torino"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

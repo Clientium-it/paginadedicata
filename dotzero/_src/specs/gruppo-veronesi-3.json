@@ -1,0 +1,15 @@
+{
+ "slug": "gruppo-veronesi-3",
+ "company": "Gruppo Veronesi",
+ "full_name": "Giulia",
+ "cover_note": "Gruppo Veronesi si occupa di produzione di mangimi e di trasformazione e distribuzione delle carni e dei salumi della tradizione gastronomica italiana.",
+ "idea": "Sulla vostra filiera possiamo realizzare video che raccontano la produzione e la tradizione dei salumi, con contenuti brevi per i canali social.",
+ "evidence": [
+  {
+   "claim": "Gruppo Veronesi si occupa di produzione di mangimi e di trasformazione e distribuzione delle carni e dei salumi della tradizione gastronomica italiana.",
+   "url": "https://www.gruppoveronesi.it/",
+   "quote": "produzione mangimi, trasformazione e distribuzione delle carni e dei salumi della tradizione gastronomica italiana"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

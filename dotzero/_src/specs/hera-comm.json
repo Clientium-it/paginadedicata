@@ -1,0 +1,25 @@
+{
+ "slug": "hera-comm",
+ "company": "Hera Comm",
+ "full_name": "Emanuela",
+ "cover_note": "Hera Comm propone offerte luce e gas e ha installato più di 3.000 colonnine in tutto il territorio italiano per imprese, condomini e pubbliche amministrazioni.",
+ "idea": "Sulle offerte e sulle colonnine di ricarica possiamo realizzare video brevi e motion design che spiegano i servizi a imprese e condomini.",
+ "evidence": [
+  {
+   "claim": "Hera Comm propone offerte luce e gas e ha installato più di 3.000 colonnine in tutto il territorio italiano per imprese, condomini e pubbliche amministrazioni.",
+   "url": "https://heracomm.gruppohera.it/",
+   "quote": "Scopri l’offerta più adatta alle tue esigenze. Offerte luce e gas Hera IN EVIDENZA Hera Protezione 5 Hera Hybrid Special"
+  },
+  {
+   "claim": "Hera Comm propone offerte luce e gas e ha installato più di 3.000 colonnine in tutto il territorio italiano per imprese, condomini e pubbliche amministrazioni.",
+   "url": "https://heracomm.gruppohera.it/",
+   "quote": "Più di 3.000 colonnine già installate in tutto il territorio italiano."
+  },
+  {
+   "claim": "Hera Comm propone offerte luce e gas e ha installato più di 3.000 colonnine in tutto il territorio italiano per imprese, condomini e pubbliche amministrazioni.",
+   "url": "https://heracomm.gruppohera.it/",
+   "quote": "Partite Iva e professionisti Piccole e medie imprese Amministratori condominio Pubbliche amministrazioni Grandi clienti"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

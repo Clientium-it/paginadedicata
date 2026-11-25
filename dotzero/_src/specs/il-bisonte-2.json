@@ -1,0 +1,15 @@
+{
+ "slug": "il-bisonte-2",
+ "company": "Il Bisonte",
+ "full_name": "Giulia",
+ "cover_note": "Il Bisonte è un marchio di artigianato fiorentino fondato nel 1970 da Wanny Di Filippo con manifattura realizzata in Toscana e concia vegetale delle pelli.",
+ "idea": "Sull'artigianato fiorentino e sulla concia vegetale possiamo realizzare riprese in manifattura e video brevi che raccontano come nasce ogni pezzo.",
+ "evidence": [
+  {
+   "claim": "Il Bisonte è un marchio di artigianato fiorentino fondato nel 1970 da Wanny Di Filippo con manifattura realizzata in Toscana e concia vegetale delle pelli.",
+   "url": "https://www.ilbisonte.com/it-eu/pages/chi-siamo",
+   "quote": "Il Bisonte è un marchio di alto artigianato fiorentino fondato nel 1970 da Wanny Di Filippo. La manifattura è realizzata esclusivamente in Toscana, utilizzando pelli pregiate lavorate con la tecnica naturale della concia vegetale."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "wintech",
+ "company": "Wintech",
+ "full_name": "Beatrice",
+ "cover_note": "Wintech dal 1987 opera nel settore dell'informatica come System Integrator, realizzando soluzioni per i propri clienti da Padova e Milano.",
+ "idea": "Sui progetti che realizzate per i clienti possiamo costruire casi video con interviste e motion design per spiegare le soluzioni in modo chiaro.",
+ "evidence": [
+  {
+   "claim": "Wintech dal 1987 opera nel settore dell'informatica come System Integrator, realizzando soluzioni per i propri clienti da Padova e Milano.",
+   "url": "https://www.wintech.it/",
+   "quote": "Dal 1987, attivi nel settore dell’informatica: accompagniamo e realizziamo soluzioni vincenti per i nostri clienti. Siamo System Integrator: combiniamo competenze e tecnologie per dare risposte innovative e di valore."
+  },
+  {
+   "claim": "Wintech dal 1987 opera nel settore dell'informatica come System Integrator, realizzando soluzioni per i propri clienti da Padova e Milano.",
+   "url": "https://www.wintech.it/",
+   "quote": "SEDE CENTRALE Via Vigonovese, 79/B – 35127 Padova (PD) Tel. +39 049 2011000 FILIALE Via Giovanni Paisiello, 3/5 – 20131 Milano (MI)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

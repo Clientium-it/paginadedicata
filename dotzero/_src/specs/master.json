@@ -1,0 +1,20 @@
+{
+ "slug": "master",
+ "company": "Master",
+ "full_name": "Gianvito",
+ "cover_note": "Master dal 1986 progetta e realizza accessori e componentistica per serramenti in alluminio ed è presente in oltre 58 paesi nel mondo.",
+ "idea": "Su accessori e componenti per serramenti possiamo realizzare video di prodotto e tutorial di montaggio, con sottotitoli per i paesi dove siete presenti.",
+ "evidence": [
+  {
+   "claim": "Master dal 1986 progetta e realizza accessori e componentistica per serramenti in alluminio ed è presente in oltre 58 paesi nel mondo.",
+   "url": "https://www.masteritaly.com/chi-siamo/",
+   "quote": "Dal 1986 il gruppo Master progetta e realizza accessori e componentistica per serramenti in alluminio"
+  },
+  {
+   "claim": "Master dal 1986 progetta e realizza accessori e componentistica per serramenti in alluminio ed è presente in oltre 58 paesi nel mondo.",
+   "url": "https://www.masteritaly.com/chi-siamo/",
+   "quote": "Presente in oltre 58 paesi del mondo, oggi il brand Master è un marchio globale"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

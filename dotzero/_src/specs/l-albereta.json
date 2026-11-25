@@ -1,0 +1,20 @@
+{
+ "slug": "l-albereta",
+ "company": "L'Albereta",
+ "full_name": "Giovanni",
+ "cover_note": "L'Albereta è un hotel in Franciacorta aperto il 23 settembre 1993 con le prime 9 camere e oggi forma due resort con L'Andana in Toscana.",
+ "idea": "Tra L'Albereta e L'Andana possiamo realizzare video delle strutture e contenuti brevi per raccontare l'ospitalità sui vostri canali.",
+ "evidence": [
+  {
+   "claim": "L'Albereta è un hotel in Franciacorta aperto il 23 settembre 1993 con le prime 9 camere e oggi forma due resort con L'Andana in Toscana.",
+   "url": "https://www.albereta.it/franciacorta/villa-franciacorta/",
+   "quote": "L’hotel in Franciacorta L’Albereta aprì i battenti il 23 settembre 1993 con le sue prime 9 camere, situate nel corpo della Casa Leone e nella Torre Bellavista."
+  },
+  {
+   "claim": "L'Albereta è un hotel in Franciacorta aperto il 23 settembre 1993 con le prime 9 camere e oggi forma due resort con L'Andana in Toscana.",
+   "url": "https://www.albereta.it/",
+   "quote": "L’Albereta in Franciacorta e L’Andana con Casa Badiola in Toscana: due resort, due territori, un unico modo di concepire l’ospitalità."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

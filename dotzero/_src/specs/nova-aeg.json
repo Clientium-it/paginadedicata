@@ -1,0 +1,25 @@
+{
+ "slug": "nova-aeg",
+ "company": "Nova AEG",
+ "full_name": "Francesca",
+ "cover_note": "Nova AEG fornisce energia elettrica e gas naturale a case e imprese, con offerte nei territori di Piemonte, Liguria, Lombardia e Sardegna.",
+ "idea": "Sulle offerte luce e gas possiamo realizzare video brevi e motion design che spiegano le soluzioni a case e imprese.",
+ "evidence": [
+  {
+   "claim": "Nova AEG fornisce energia elettrica e gas naturale a case e imprese, con offerte nei territori di Piemonte, Liguria, Lombardia e Sardegna.",
+   "url": "https://www.novaaeg.it/",
+   "quote": "NOVA AEG è il fornitore di energia elettrica e gas naturale assoggettato al controllo e coordinamento del socio unico Nova Coop, che opera direttamente per l’acquisto delle materie prime sui mercati europei dell’energia."
+  },
+  {
+   "claim": "Nova AEG fornisce energia elettrica e gas naturale a case e imprese, con offerte nei territori di Piemonte, Liguria, Lombardia e Sardegna.",
+   "url": "https://www.novaaeg.it/",
+   "quote": "EnerCasa Coop è il marchio che si rivolge ai clienti domestici per la fornitura di utenze di energia elettrica e gas naturale nei territori di Piemonte, Liguria, Lombardia e Sardegna, presso i punti vendita Coop."
+  },
+  {
+   "claim": "Nova AEG fornisce energia elettrica e gas naturale a case e imprese, con offerte nei territori di Piemonte, Liguria, Lombardia e Sardegna.",
+   "url": "https://www.novaaeg.it/",
+   "quote": "Le offerte Luce e Gas per la tua casa e per la tua impresa"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

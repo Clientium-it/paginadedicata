@@ -1,0 +1,20 @@
+{
+ "slug": "aetna-group-2",
+ "company": "Aetna Group",
+ "full_name": "Giada",
+ "cover_note": "Aetna Group produce e commercializza macchine e linee per soluzioni di imballaggio su misura, lavorando in 11 stabilimenti in tutto il mondo.",
+ "idea": "Su macchine e linee di imballaggio su misura possiamo realizzare video di prodotto e motion design per spiegare le soluzioni ai clienti nel mondo.",
+ "evidence": [
+  {
+   "claim": "Aetna Group produce e commercializza macchine e linee per soluzioni di imballaggio su misura, lavorando in 11 stabilimenti in tutto il mondo.",
+   "url": "https://www.aetnagroup.com/en/the-group/about-us",
+   "quote": "Aetna Group manufactures and markets a wide range of machines and lines capable of responding to equally vast production needs, offering tailor-made packaging solutions"
+  },
+  {
+   "claim": "Aetna Group produce e commercializza macchine e linee per soluzioni di imballaggio su misura, lavorando in 11 stabilimenti in tutto il mondo.",
+   "url": "https://www.aetnagroup.com/en/the-group/about-us",
+   "quote": "working in 11 plants located all over the world"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

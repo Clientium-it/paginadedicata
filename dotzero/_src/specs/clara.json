@@ -1,0 +1,25 @@
+{
+ "slug": "clara",
+ "company": "Clara",
+ "full_name": "Mirna",
+ "cover_note": "Clara gestisce la raccolta dei rifiuti urbani in 19 dei 21 Comuni della provincia di Ferrara, servendo circa 200.000 persone su quasi 2.000 chilometri quadrati.",
+ "idea": "Per un servizio che raggiunge tante persone possiamo realizzare video chiari sulla raccolta, con motion design e sottotitoli per i cittadini.",
+ "evidence": [
+  {
+   "claim": "Clara gestisce la raccolta dei rifiuti urbani in 19 dei 21 Comuni della provincia di Ferrara, servendo circa 200.000 persone su quasi 2.000 chilometri quadrati.",
+   "url": "https://www.clarambiente.it/azienda/clara-spa/",
+   "quote": "che gestisce la raccolta dei rifiuti urbani in 19 dei 21 Comuni della provincia di Ferrara."
+  },
+  {
+   "claim": "Clara gestisce la raccolta dei rifiuti urbani in 19 dei 21 Comuni della provincia di Ferrara, servendo circa 200.000 persone su quasi 2.000 chilometri quadrati.",
+   "url": "https://www.clarambiente.it/azienda/clara-spa/",
+   "quote": "su un territorio di quasi 2.000 chilometri quadrati in cui vivono circa 200.000 persone"
+  },
+  {
+   "claim": "Clara gestisce la raccolta dei rifiuti urbani in 19 dei 21 Comuni della provincia di Ferrara, servendo circa 200.000 persone su quasi 2.000 chilometri quadrati.",
+   "url": "https://www.clarambiente.it/azienda/clara-spa/",
+   "quote": "un bacino d’utenza che conta 120.000 utenze domestiche e 13.500 non domestiche"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

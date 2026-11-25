@@ -1,0 +1,20 @@
+{
+ "slug": "cosberg",
+ "company": "Cosberg",
+ "full_name": "Judy",
+ "cover_note": "Dal 1982 Cosberg studia, progetta e costruisce macchine e moduli per l'automazione dei processi di montaggio, con due filiali italiane e una francese.",
+ "idea": "Su macchine per l'automazione del montaggio possiamo realizzare video di prodotto e motion design che mostrano i moduli al lavoro.",
+ "evidence": [
+  {
+   "claim": "Dal 1982 Cosberg studia, progetta e costruisce macchine e moduli per l'automazione dei processi di montaggio, con due filiali italiane e una francese.",
+   "url": "https://www.cosberg.com/it/azienda/",
+   "quote": "Dal 1982 Cosberg studia, progetta e costruisce macchine e moduli per l'automazione dei processi di montaggio."
+  },
+  {
+   "claim": "Dal 1982 Cosberg studia, progetta e costruisce macchine e moduli per l'automazione dei processi di montaggio, con due filiali italiane e una francese.",
+   "url": "https://www.cosberg.com/it/sedi-e-filiali/",
+   "quote": "Oggi Cosberg sviluppa le attività di costruzione dei macchinari nelle due filiali italiane e in quella francese; conta inoltre sulla forza commerciale della filiale in Brasile e Slovenia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

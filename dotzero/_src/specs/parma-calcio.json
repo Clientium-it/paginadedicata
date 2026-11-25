@@ -1,0 +1,20 @@
+{
+ "slug": "parma-calcio",
+ "company": "Parma Calcio",
+ "full_name": "Fabio",
+ "cover_note": "Parma Calcio porta avanti Parma Academy, i progetti che coinvolgono società sportive, atleti e allenatori, con sede operativa a Collecchio.",
+ "idea": "Sui progetti della Parma Academy possiamo realizzare riprese sul campo, interviste ad atleti e allenatori e contenuti brevi per i vostri canali.",
+ "evidence": [
+  {
+   "claim": "Parma Calcio porta avanti Parma Academy, i progetti che coinvolgono società sportive, atleti e allenatori, con sede operativa a Collecchio.",
+   "url": "https://www.parmacalcio1913.com/academy/",
+   "quote": "Parma Academy è l'insieme dei progetti dedicati al coinvolgimento di società sportive, atleti ed allenatori nel percorso di crescita sportiva"
+  },
+  {
+   "claim": "Parma Calcio porta avanti Parma Academy, i progetti che coinvolgono società sportive, atleti e allenatori, con sede operativa a Collecchio.",
+   "url": "https://www.parmacalcio1913.com/academy/",
+   "quote": "SEDE OPERATIVA: Centro Sportivo Strada Nazionale Est, 1, 43044 Collecchio (PR) Italia SEDE LEGALE: Borgo Venti Marzo, 4 43121 Parma (PR) Italia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

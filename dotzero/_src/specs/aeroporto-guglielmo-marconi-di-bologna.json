@@ -1,0 +1,15 @@
+{
+ "slug": "aeroporto-guglielmo-marconi-di-bologna",
+ "company": "Aeroporto di Bologna",
+ "full_name": "Antonello",
+ "cover_note": "L'Aeroporto di Bologna offre il terminal e diverse opzioni di parcheggio tra Business, Comfort, Long Stay e Smart Parking.",
+ "idea": "Per i servizi ai passeggeri, come i parcheggi, possiamo realizzare video brevi e motion design che spiegano le opzioni in pochi secondi.",
+ "evidence": [
+  {
+   "claim": "L'Aeroporto di Bologna offre il terminal e diverse opzioni di parcheggio tra Business, Comfort, Long Stay e Smart Parking.",
+   "url": "https://www.bologna-airport.it/benvenuto-all-aeroporto-di-bologna/?idC=62175",
+   "quote": "Terminal Parking Business Parking Comfort Parking Long Stay Parking Smart Parking"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

@@ -1,0 +1,25 @@
+{
+ "slug": "alcantara-2",
+ "company": "Alcantara",
+ "full_name": "Daniela",
+ "cover_note": "Alcantara opera nei settori automotive, moda e accessori, interior design ed elettronica di consumo con sede a Milano e produzione a Nera Montoro.",
+ "idea": "Su settori diversi come moda, automotive e design possiamo realizzare video che mostrano il materiale da vicino, con versioni brevi per ogni canale.",
+ "evidence": [
+  {
+   "claim": "Alcantara opera nei settori automotive, moda e accessori, interior design ed elettronica di consumo con sede a Milano e produzione a Nera Montoro.",
+   "url": "https://www.alcantara.com/corporate/",
+   "quote": "operating across automotive, fashion and accessories, interior design, and consumer electronics sectors."
+  },
+  {
+   "claim": "Alcantara opera nei settori automotive, moda e accessori, interior design ed elettronica di consumo con sede a Milano e produzione a Nera Montoro.",
+   "url": "https://www.alcantara.com/corporate/",
+   "quote": "Alcantara S.p.A. operates through two locations: its corporate headquarters in Milan and its production site in Nera Montoro (Terni)."
+  },
+  {
+   "claim": "Alcantara opera nei settori automotive, moda e accessori, interior design ed elettronica di consumo con sede a Milano e produzione a Nera Montoro.",
+   "url": "https://www.alcantara.com/corporate/",
+   "quote": "Alcantara has developed strong partnerships with some of the world’s most prestigious luxury brands, operating across automotive, fashion and accessories, interior design, and consumer electronics sectors."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

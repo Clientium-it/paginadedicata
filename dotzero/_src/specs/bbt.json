@@ -1,0 +1,20 @@
+{
+ "slug": "bbt",
+ "company": "BBT",
+ "full_name": "Filippo",
+ "cover_note": "BBT sta costruendo il tunnel di base del Brennero, lungo 55 km tra l'Italia e l'Austria, da Innsbruck a Fortezza.",
+ "idea": "Su un cantiere come quello del tunnel possiamo documentare l'avanzamento dei lavori con riprese periodiche, interviste e motion design per spiegare l'opera.",
+ "evidence": [
+  {
+   "claim": "BBT sta costruendo il tunnel di base del Brennero, lungo 55 km tra l'Italia e l'Austria, da Innsbruck a Fortezza.",
+   "url": "https://www.bbt-se.com/",
+   "quote": "Im Herzen der Alpen, zwischen Italien und Österreich, entsteht mit dem 55 km langen Brenner Basistunnel eines der wichtigsten Eisenbahnprojekte Europas. Die flach verlaufende Hochleistungsstrecke zwischen Innsbruck (Österreich) und Franzensfeste (Italien)"
+  },
+  {
+   "claim": "BBT sta costruendo il tunnel di base del Brennero, lungo 55 km tra l'Italia e l'Austria, da Innsbruck a Fortezza.",
+   "url": "https://www.bbt-se.com/",
+   "quote": "INSGESAMT UMFASST DAS TUNNELSYSTEM DES BBT ETWA 230 TUNNELKILOMETER."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "giochi-preziosi-2",
+ "company": "Giochi Preziosi",
+ "full_name": "Clemente",
+ "cover_note": "Giochi Preziosi da oltre 40 anni sviluppa giocattoli e attività di marketing, con bambini che giocano in Inghilterra, Francia, Spagna, Grecia e Turchia.",
+ "idea": "Sui vostri giocattoli possiamo realizzare video di prodotto e contenuti brevi, con versioni e sottotitoli per ogni paese.",
+ "evidence": [
+  {
+   "claim": "Giochi Preziosi da oltre 40 anni sviluppa giocattoli e attività di marketing, con bambini che giocano in Inghilterra, Francia, Spagna, Grecia e Turchia.",
+   "url": "https://giochipreziosi.it/la-nostra-storia/",
+   "quote": "Innovazione e creatività guidano ogni giorno, da più di 40 anni il nostro lavoro: dalla ricerca e sviluppo di nuovi prodotti, all’ideazione di nuove attività di comunicazione e marketing."
+  },
+  {
+   "claim": "Giochi Preziosi da oltre 40 anni sviluppa giocattoli e attività di marketing, con bambini che giocano in Inghilterra, Francia, Spagna, Grecia e Turchia.",
+   "url": "https://giochipreziosi.it/la-nostra-storia/",
+   "quote": "Anche i bambini in Inghilterra, Francia, Spagna, Grecia e Turchia si divertono con i nostri giocattoli!"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

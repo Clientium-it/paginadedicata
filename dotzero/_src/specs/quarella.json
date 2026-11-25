@@ -1,0 +1,25 @@
+{
+ "slug": "quarella",
+ "company": "Quarella",
+ "full_name": "Eveline",
+ "cover_note": "Quarella produce superfici in marmo e quarzo negli stabilimenti di Verona e affianca designer e architetti per retail, nautica, cucine e hotellerie.",
+ "idea": "Sulle superfici in marmo e quarzo possiamo realizzare riprese in stabilimento e video dei progetti con designer e architetti, con versioni brevi per i social.",
+ "evidence": [
+  {
+   "claim": "Quarella produce superfici in marmo e quarzo negli stabilimenti di Verona e affianca designer e architetti per retail, nautica, cucine e hotellerie.",
+   "url": "https://quarella.com/company/",
+   "quote": "Quarella has developed a highly qualified production of engineered marble and quartz surfaces in its Verona plants."
+  },
+  {
+   "claim": "Quarella produce superfici in marmo e quarzo negli stabilimenti di Verona e affianca designer e architetti per retail, nautica, cucine e hotellerie.",
+   "url": "https://quarella.com/company/",
+   "quote": "QUARELLA GROUP LIMITED Unit 3606, Wu Chung House, 213 Queens' Road East, Wanchai, Hong Kong"
+  },
+  {
+   "claim": "Quarella produce superfici in marmo e quarzo negli stabilimenti di Verona e affianca designer e architetti per retail, nautica, cucine e hotellerie.",
+   "url": "https://quarella.com/company/",
+   "quote": "By offering our support to designers and architects through our team of consultants, each specialist of a particular segment of the market: retail, naval, kitchens and furnishings, hotellerie, major works."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

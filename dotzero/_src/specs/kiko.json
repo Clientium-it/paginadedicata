@@ -1,0 +1,15 @@
+{
+ "slug": "kiko",
+ "company": "Kiko",
+ "full_name": "Grazia",
+ "cover_note": "Kiko sviluppa e realizza prodotti beauty per portare nel mondo l'arte italiana della bellezza.",
+ "idea": "Sui vostri prodotti beauty possiamo affiancarvi con riprese, montaggio e contenuti brevi per ogni canale.",
+ "evidence": [
+  {
+   "claim": "Kiko sviluppa e realizza prodotti beauty per portare nel mondo l'arte italiana della bellezza.",
+   "url": "https://www.kikocosmetics.com/de-de/ueber-kiko/unsere-marke/",
+   "quote": "Wir engagieren uns dafür, Menschen weltweit die italienische Kunst der Schönheit zu vermitteln, indem wir innovative und hochwertige Beauty-Produkte entwickeln und gestalten, die ihnen helfen, ihre Persönlichkeit zum Ausdruck zu bringen."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

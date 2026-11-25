@@ -1,0 +1,25 @@
+{
+ "slug": "asdm",
+ "company": "ASDM",
+ "full_name": "Ludovica",
+ "cover_note": "ASDM seleziona e gestisce lo staff per eventi di aziende e organizzatori, con oltre 50.000 professionisti iscritti e 1.800 eventi gestiti nel 2025.",
+ "idea": "Dagli eventi che gestite possiamo ricavare video dell'evento, interviste allo staff e contenuti brevi per mostrare il vostro lavoro ai clienti.",
+ "evidence": [
+  {
+   "claim": "ASDM seleziona e gestisce lo staff per eventi di aziende e organizzatori, con oltre 50.000 professionisti iscritti e 1.800 eventi gestiti nel 2025.",
+   "url": "https://www.toget4u.com/chi-siamo/",
+   "quote": "La rete conta oggi oltre 50.000 professionisti iscritti, con più di 1.800 eventi gestiti nel 2025."
+  },
+  {
+   "claim": "ASDM seleziona e gestisce lo staff per eventi di aziende e organizzatori, con oltre 50.000 professionisti iscritti e 1.800 eventi gestiti nel 2025.",
+   "url": "https://www.toget4u.com/chi-siamo/",
+   "quote": "società con sede legale a Torino, in via Davide Bertolotti 7, e con una sede a Milano, in Corso Venezia 37, 20121 Milano"
+  },
+  {
+   "claim": "ASDM seleziona e gestisce lo staff per eventi di aziende e organizzatori, con oltre 50.000 professionisti iscritti e 1.800 eventi gestiti nel 2025.",
+   "url": "https://www.toget4u.com/chi-siamo/",
+   "quote": "seleziona e gestisce lo staff per eventi di aziende, brand e organizzatori"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

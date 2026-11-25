@@ -1,0 +1,20 @@
+{
+ "slug": "casino-di-venezia-gioco",
+ "company": "Casinò di Venezia",
+ "full_name": "Nicoletta",
+ "cover_note": "Il Casinò di Venezia ha sede a Ca' Vendramin Calergi sul Canal Grande e nel 1999 ha aperto Ca' Noghera, primo Casinò all'americana in Italia.",
+ "idea": "In sedi come Ca' Vendramin Calergi possiamo realizzare riprese delle serate e degli eventi, con contenuti brevi per i vostri canali.",
+ "evidence": [
+  {
+   "claim": "Il Casinò di Venezia ha sede a Ca' Vendramin Calergi sul Canal Grande e nel 1999 ha aperto Ca' Noghera, primo Casinò all'americana in Italia.",
+   "url": "https://casinovenezia.it/it/sedi/canoghera",
+   "quote": "Nel 1999, vicino all'aeroporto Marco Polo, è nato Ca' Noghera, il primo Casinò all'americana in Italia."
+  },
+  {
+   "claim": "Il Casinò di Venezia ha sede a Ca' Vendramin Calergi sul Canal Grande e nel 1999 ha aperto Ca' Noghera, primo Casinò all'americana in Italia.",
+   "url": "https://casinovenezia.it/it/sedi",
+   "quote": "Il cuore del Casinò di Venezia batte sul Canal Grande a Ca' Vendramin Calergi, il sofisticato teatro dei giochi più classici."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

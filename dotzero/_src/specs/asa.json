@@ -1,0 +1,20 @@
+{
+ "slug": "asa",
+ "company": "ASA",
+ "full_name": "Dennis",
+ "cover_note": "ASA dal 1975 realizza soluzioni di elettrificazione per arredo, spazi di lavoro, hospitality e ambienti architettonici, presente in oltre 50 paesi.",
+ "idea": "Sulle soluzioni di elettrificazione possiamo realizzare video di prodotto e motion design, con versioni per ogni paese dove siete presenti.",
+ "evidence": [
+  {
+   "claim": "ASA dal 1975 realizza soluzioni di elettrificazione per arredo, spazi di lavoro, hospitality e ambienti architettonici, presente in oltre 50 paesi.",
+   "url": "https://www.asaplastici.com/about",
+   "quote": "Since 1975, ASA has evolved from its manufacturing roots into an international company specialising in electrification solutions for furniture, workplaces, hospitality and architectural environments."
+  },
+  {
+   "claim": "ASA dal 1975 realizza soluzioni di elettrificazione per arredo, spazi di lavoro, hospitality e ambienti architettonici, presente in oltre 50 paesi.",
+   "url": "https://www.asaplastici.com/about",
+   "quote": "Present in over 50 countries worldwide, ASA’s international growth is built on strong markets, long-term partnerships and, above all, people connecting our expertise with customers and projects around the world"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

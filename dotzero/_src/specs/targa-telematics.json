@@ -1,0 +1,25 @@
+{
+ "slug": "targa-telematics",
+ "company": "Targa Telematics",
+ "full_name": "Elena",
+ "cover_note": "Targa Telematics da oltre 25 anni offre soluzioni di telematica, smart mobility e piattaforme AIoT per società di noleggio, grandi flotte e compagnie assicurative.",
+ "idea": "Sulle soluzioni di telematica possiamo realizzare video demo e motion design che spiegano la piattaforma a flotte e noleggi.",
+ "evidence": [
+  {
+   "claim": "Targa Telematics da oltre 25 anni offre soluzioni di telematica, smart mobility e piattaforme AIoT per società di noleggio, grandi flotte e compagnie assicurative.",
+   "url": "https://targatelematics.com/about/about-us/",
+   "quote": "For over 25 years, the company has been bringing to the market a range of telematics technology solutions, smart mobility and AIoT platforms for short and long-term rental companies, financial companies and large fleets and Insurance company"
+  },
+  {
+   "claim": "Targa Telematics da oltre 25 anni offre soluzioni di telematica, smart mobility e piattaforme AIoT per società di noleggio, grandi flotte e compagnie assicurative.",
+   "url": "https://targatelematics.com/about/about-us/",
+   "quote": "thanks to a strong presence in countries such as Italy, the UK, France, Spain, Portugal, Belgium, Poland and Romania – as well as Chile"
+  },
+  {
+   "claim": "Targa Telematics da oltre 25 anni offre soluzioni di telematica, smart mobility e piattaforme AIoT per società di noleggio, grandi flotte e compagnie assicurative.",
+   "url": "https://targatelematics.com/about/about-us/",
+   "quote": "for short and long-term rental companies, financial companies and large fleets and Insurance company"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

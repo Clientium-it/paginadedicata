@@ -1,0 +1,20 @@
+{
+ "slug": "alkemy",
+ "company": "Alkemy",
+ "full_name": "Giulia",
+ "cover_note": "Alkemy è nata nel 2012 a Milano per aiutare le aziende nella trasformazione digitale e oggi opera tra Italia, Spagna, Serbia e Messico.",
+ "idea": "Accanto ai vostri progetti digitali possiamo affiancarvi con riprese, montaggio e motion design per i video dei clienti.",
+ "evidence": [
+  {
+   "claim": "Alkemy è nata nel 2012 a Milano per aiutare le aziende nella trasformazione digitale e oggi opera tra Italia, Spagna, Serbia e Messico.",
+   "url": "https://www.alkemy.com/",
+   "quote": "Siamo nati nel 2012 per aiutare le aziende ad affrontare la trasformazione digitale. Oggi andiamo oltre: integriamo dati , tecnologia , AI , media , design e creatività"
+  },
+  {
+   "claim": "Alkemy è nata nel 2012 a Milano per aiutare le aziende nella trasformazione digitale e oggi opera tra Italia, Spagna, Serbia e Messico.",
+   "url": "https://www.alkemy.com/",
+   "quote": "La nostra storia nasce a Milano e oggi si estende tra Italia e Spagna - due centri di eccellenza che guidano la nostra Unified Experience - supportati da sedi operative in Serbia e Messico."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

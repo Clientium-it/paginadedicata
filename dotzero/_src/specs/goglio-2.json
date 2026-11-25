@@ -1,0 +1,20 @@
+{
+ "slug": "goglio-2",
+ "company": "Goglio",
+ "full_name": "Federica",
+ "cover_note": "Goglio dal 1850 progetta sistemi di imballaggio flessibile e macchine per il confezionamento, con stabilimenti in Italia, Olanda, Stati Uniti, Brasile e Cina.",
+ "idea": "Su imballaggi e macchine per il confezionamento possiamo realizzare video di prodotto e motion design per spiegare i sistemi ai clienti di ogni paese.",
+ "evidence": [
+  {
+   "claim": "Goglio dal 1850 progetta sistemi di imballaggio flessibile e macchine per il confezionamento, con stabilimenti in Italia, Olanda, Stati Uniti, Brasile e Cina.",
+   "url": "https://www.goglio.it/azienda/",
+   "quote": "Dal 1850 il Gruppo Goglio progetta, sviluppa e realizza sistemi di imballaggio completi. L’offerta si compone di imballaggi flessibili, accessori in plastica rigida e macchine per ogni esigenza di confezionamento."
+  },
+  {
+   "claim": "Goglio dal 1850 progetta sistemi di imballaggio flessibile e macchine per il confezionamento, con stabilimenti in Italia, Olanda, Stati Uniti, Brasile e Cina.",
+   "url": "https://www.goglio.it/azienda/nel-mondo/",
+   "quote": "Goglio è presente nel mondo con stabilimenti produttivi in Italia, Olanda, Stati Uniti, Brasile e Cina, e uffici commerciali dislocati in vari paesi europei nel sud est asiatico."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

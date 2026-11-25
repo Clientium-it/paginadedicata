@@ -1,0 +1,15 @@
+{
+ "slug": "giovia",
+ "company": "Giovia",
+ "full_name": "Gregorio",
+ "cover_note": "Giovia si occupa di pulizia su piazzali esterni, superfici a verde e servizi igienici.",
+ "idea": "Sui servizi di pulizia che svolgete possiamo realizzare video brevi che mostrano il lavoro sul campo, utili per presentarvi ai nuovi clienti.",
+ "evidence": [
+  {
+   "claim": "Giovia si occupa di pulizia su piazzali esterni, superfici a verde e servizi igienici.",
+   "url": "https://www.autostrade.it/it/home",
+   "quote": "Giovia attività di pulizia su piazzali esterni, superfici a verde e servizi igienici"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

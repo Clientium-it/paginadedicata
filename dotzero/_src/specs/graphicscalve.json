@@ -1,0 +1,25 @@
+{
+ "slug": "graphicscalve",
+ "company": "Graphicscalve",
+ "full_name": "Chiara",
+ "cover_note": "Graphicscalve lavora con stampa digitale e offset da Vilminore di Scalve e da svariati anni stampa per editori come Il Saggiatore e Gruppo Mondadori.",
+ "idea": "Sulla stampa per gli editori possiamo realizzare riprese in tipografia e video brevi che mostrano come nasce un libro.",
+ "evidence": [
+  {
+   "claim": "Graphicscalve lavora con stampa digitale e offset da Vilminore di Scalve e da svariati anni stampa per editori come Il Saggiatore e Gruppo Mondadori.",
+   "url": "https://www.graphicscalve.it/case-study/editori/",
+   "quote": "come la stampa digitale, offset e roto-offset di ultima generazione, per assicurare colori fedeli e testi perfettamente nitidi."
+  },
+  {
+   "claim": "Graphicscalve lavora con stampa digitale e offset da Vilminore di Scalve e da svariati anni stampa per editori come Il Saggiatore e Gruppo Mondadori.",
+   "url": "https://www.graphicscalve.it/case-study/editori/",
+   "quote": "Sede Legale e Operativa Località Ponte Formello, 1/3/4 24020 Vilminore di Scalve (BG)"
+  },
+  {
+   "claim": "Graphicscalve lavora con stampa digitale e offset da Vilminore di Scalve e da svariati anni stampa per editori come Il Saggiatore e Gruppo Mondadori.",
+   "url": "https://www.graphicscalve.it/case-study/editori/",
+   "quote": "Le case editrici come Il Saggiatore, Phoenix e Gruppo Mondadori da svariati anni ci scelgono come loro partner per le loro pubblicazioni."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

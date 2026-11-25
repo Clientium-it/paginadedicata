@@ -1,0 +1,20 @@
+{
+ "slug": "avanade",
+ "company": "Avanade",
+ "full_name": "Olga",
+ "cover_note": "Avanade aiuta le organizzazioni a modernizzarsi combinando ingegno umano e intelligenza artificiale, in settori come banche, sanità, manifattura, retail e pubblica amministrazione.",
+ "idea": "Sui progetti che seguite nei diversi settori possiamo realizzare casi video con interviste e motion design per spiegare le soluzioni in modo semplice.",
+ "evidence": [
+  {
+   "claim": "Avanade aiuta le organizzazioni a modernizzarsi combinando ingegno umano e intelligenza artificiale, in settori come banche, sanità, manifattura, retail e pubblica amministrazione.",
+   "url": "https://www.avanade.com/it-it/about",
+   "quote": "aiutiamo le organizzazioni a modernizzarsi in modo sicuro, combinando l'ingegno umano e l'innovazione dell'intelligenza artificiale per offrire un impatto pratico e scalabile dove conta di più"
+  },
+  {
+   "claim": "Avanade aiuta le organizzazioni a modernizzarsi combinando ingegno umano e intelligenza artificiale, in settori come banche, sanità, manifattura, retail e pubblica amministrazione.",
+   "url": "https://www.avanade.com/it-it/about",
+   "quote": "Automotive Servizi bancari Capital Markets Beni di consumo Energy Pubblica Amministrazione Sanità Life Science Manufacturing Non profit Retail Utilities"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

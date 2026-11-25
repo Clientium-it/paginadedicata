@@ -1,0 +1,25 @@
+{
+ "slug": "ovs-3",
+ "company": "OVS",
+ "full_name": "Gloria",
+ "cover_note": "OVS progetta e produce scambiatori di calore a fascio tubiero e apparecchiature in pressione per impianti oil & gas e petrolchimici in tutto il mondo.",
+ "idea": "Su scambiatori di calore e apparecchiature in pressione possiamo realizzare riprese in produzione e motion design per spiegare i prodotti nel mondo.",
+ "evidence": [
+  {
+   "claim": "OVS progetta e produce scambiatori di calore a fascio tubiero e apparecchiature in pressione per impianti oil & gas e petrolchimici in tutto il mondo.",
+   "url": "https://ovsspa.it/it/",
+   "quote": "OVS si occupa della progettazione e produzione scambiatori di calore a fascio tubiero e apparecchiature in pressione per impianti oil & gas, chimici e petrolchimici, per l’industria dei fertilizzanti e per le raffinerie di tutto il mondo."
+  },
+  {
+   "claim": "OVS progetta e produce scambiatori di calore a fascio tubiero e apparecchiature in pressione per impianti oil & gas e petrolchimici in tutto il mondo.",
+   "url": "https://ovsspa.it/it/",
+   "quote": "Via 5 Martiri, 33 24029 Vertova (BG) Italy"
+  },
+  {
+   "claim": "OVS progetta e produce scambiatori di calore a fascio tubiero e apparecchiature in pressione per impianti oil & gas e petrolchimici in tutto il mondo.",
+   "url": "https://ovsspa.it/it/",
+   "quote": "per impianti oil & gas, chimici e petrolchimici, per l’industria dei fertilizzanti e per le raffinerie di tutto il mondo."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

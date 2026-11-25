@@ -1,0 +1,25 @@
+{
+ "slug": "tosconova",
+ "company": "Tosconova",
+ "full_name": "Silvia",
+ "cover_note": "Tosconova lavora il legno nei propri laboratori in Toscana su oltre 6.000 metri quadrati, come partner produttivo e progettuale per architetti e designer.",
+ "idea": "Nei laboratori dove lavorate il legno possiamo realizzare riprese in produzione e video dei progetti con architetti e designer.",
+ "evidence": [
+  {
+   "claim": "Tosconova lavora il legno nei propri laboratori in Toscana su oltre 6.000 metri quadrati, come partner produttivo e progettuale per architetti e designer.",
+   "url": "https://tosconova.com/it/",
+   "quote": "Falegnameria, tappezzeria, finitura e illuminazione sono gestite internamente nei nostri laboratori in Toscana."
+  },
+  {
+   "claim": "Tosconova lavora il legno nei propri laboratori in Toscana su oltre 6.000 metri quadrati, come partner produttivo e progettuale per architetti e designer.",
+   "url": "https://tosconova.com/it/",
+   "quote": "Oltre 6.000 metri quadrati dedicati alla lavorazione del legno e alla verniciatura, dove tecnologia, esperienza artigianale e progettazione convivono all’interno di un unico processo produttivo."
+  },
+  {
+   "claim": "Tosconova lavora il legno nei propri laboratori in Toscana su oltre 6.000 metri quadrati, come partner produttivo e progettuale per architetti e designer.",
+   "url": "https://tosconova.com/it/",
+   "quote": "PROFESSIONALS Un partner produttivo e progettuale per architetti, designer e consulenti."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "autolocatelli",
+ "company": "Autolocatelli",
+ "full_name": "Chiara",
+ "cover_note": "Autolocatelli dal 1998 è concessionaria ufficiale Jeep, Opel, Leapmotor e Mitsubishi tra Monza, Vedano al Lambro e Cinisello Balsamo.",
+ "idea": "Con più marchi e più sedi possiamo realizzare video delle novità in concessionaria e contenuti brevi per i vostri canali, con una sola squadra.",
+ "evidence": [
+  {
+   "claim": "Autolocatelli dal 1998 è concessionaria ufficiale Jeep, Opel, Leapmotor e Mitsubishi tra Monza, Vedano al Lambro e Cinisello Balsamo.",
+   "url": "https://www.locatelligroup.eu/chi-siamo/",
+   "quote": "Fondata nel 1998, Autolocatelli è la concessionaria ufficiale Jeep, Opel, Leapmotor e Mitsubishi per le province di Milano e Monza Brianza."
+  },
+  {
+   "claim": "Autolocatelli dal 1998 è concessionaria ufficiale Jeep, Opel, Leapmotor e Mitsubishi tra Monza, Vedano al Lambro e Cinisello Balsamo.",
+   "url": "https://www.locatelligroup.eu/chi-siamo/",
+   "quote": "Gestisce le sedi di Monza, Vedano al Lambro e Cinisello Balsamo, con showroom, officine autorizzate e reparto usato certificato Spoticar."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

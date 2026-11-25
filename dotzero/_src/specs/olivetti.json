@@ -1,0 +1,20 @@
+{
+ "slug": "olivetti",
+ "company": "Olivetti",
+ "full_name": "Emanuela",
+ "cover_note": "Olivetti è la società del Gruppo TIM specializzata nell'IoT, attiva sul mercato domestico e internazionale, con sedi a Milano, Roma e Bari.",
+ "idea": "Su soluzioni IoT come le vostre possiamo realizzare video di prodotto e motion design per spiegare la tecnologia ai clienti.",
+ "evidence": [
+  {
+   "claim": "Olivetti è la società del Gruppo TIM specializzata nell'IoT, attiva sul mercato domestico e internazionale, con sedi a Milano, Roma e Bari.",
+   "url": "https://olivetti.com/it/corporate/chi-siamo",
+   "quote": "Olivetti è la società del Gruppo TIM specializzata nell’IoT, che opera nell’ambito di TIM Enterprise , attiva sul mercato domestico e internazionale come realtà rinnovata e in evoluzione ."
+  },
+  {
+   "claim": "Olivetti è la società del Gruppo TIM specializzata nell'IoT, attiva sul mercato domestico e internazionale, con sedi a Milano, Roma e Bari.",
+   "url": "https://olivetti.com/it/corporate/dove-siamo",
+   "quote": "Altre sedi: Via Copernico, 16/D - 20125 Milano - Italia Via Bartolomeo Marliano, 27 - 00162 Roma - Italia Via Pietro Oreste, 20 - 70123 Bari - Italia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

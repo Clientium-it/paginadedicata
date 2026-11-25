@@ -1,0 +1,20 @@
+{
+ "slug": "dpv",
+ "company": "DPV",
+ "full_name": "Fabrizio",
+ "cover_note": "DPV conta 2.550 risorse attive sul territorio e oltre 200 su 5 sedi operative, raggiungendo 48.770 punti vendita ogni anno in tutta Italia.",
+ "idea": "Con una rete così diffusa sul territorio possiamo realizzare video per la formazione delle risorse e contenuti brevi che raccontano il lavoro sul campo.",
+ "evidence": [
+  {
+   "claim": "DPV conta 2.550 risorse attive sul territorio e oltre 200 su 5 sedi operative, raggiungendo 48.770 punti vendita ogni anno in tutta Italia.",
+   "url": "https://dpv.it/it",
+   "quote": "2.550 Risorse attive sul territorio. E oltre 200 su 5 sedi operative. 48.770 Punti vendita raggiunti ogni anno in tutta Italia."
+  },
+  {
+   "claim": "DPV conta 2.550 risorse attive sul territorio e oltre 200 su 5 sedi operative, raggiungendo 48.770 punti vendita ogni anno in tutta Italia.",
+   "url": "https://dpv.it/it",
+   "quote": "E oltre 200 su 5 sedi operative."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

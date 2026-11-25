@@ -1,0 +1,25 @@
+{
+ "slug": "cofidis",
+ "company": "Cofidis",
+ "full_name": "Chiara",
+ "cover_note": "Cofidis da 30 anni propone soluzioni di credito semplici e innovative a oltre 3,5 milioni di clienti in Italia da Milano.",
+ "idea": "Sulle vostre soluzioni di credito possiamo realizzare video brevi e motion design che spiegano ogni offerta in modo chiaro.",
+ "evidence": [
+  {
+   "claim": "Cofidis da 30 anni propone soluzioni di credito semplici e innovative a oltre 3,5 milioni di clienti in Italia da Milano.",
+   "url": "https://www.cofidis.it/it/index.html",
+   "quote": "Da 30 anni Cofidis propone soluzioni di credito semplici e innovative ad oltre 3,5 milioni di clienti in Italia."
+  },
+  {
+   "claim": "Cofidis da 30 anni propone soluzioni di credito semplici e innovative a oltre 3,5 milioni di clienti in Italia da Milano.",
+   "url": "https://www.cofidis.it/it/chi-siamo/le-nostre-sedi.html",
+   "quote": "Milano Via Amadeo, 59 – 20134 Email: ufficiomilano@cofidis.it"
+  },
+  {
+   "claim": "Cofidis da 30 anni propone soluzioni di credito semplici e innovative a oltre 3,5 milioni di clienti in Italia da Milano.",
+   "url": "https://www.cofidis.it/it/index.html",
+   "quote": "Prestiti pensionati Prestiti dipendenti pubblici Prestiti dipendenti privati"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

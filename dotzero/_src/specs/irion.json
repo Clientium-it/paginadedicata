@@ -1,0 +1,15 @@
+{
+ "slug": "irion",
+ "company": "Irion",
+ "full_name": "Flavio",
+ "cover_note": "Irion con la sua piattaforma Irion EDM aiuta le aziende a governare, integrare e migliorare la qualità dei dati, anche con l'intelligenza artificiale.",
+ "idea": "Su una piattaforma come Irion EDM possiamo realizzare video demo e motion design che spiegano la gestione dei dati in modo semplice.",
+ "evidence": [
+  {
+   "claim": "Irion con la sua piattaforma Irion EDM aiuta le aziende a governare, integrare e migliorare la qualità dei dati, anche con l'intelligenza artificiale.",
+   "url": "https://www.irion-edm.com/",
+   "quote": "Turn your data and metadata into value: with Irion EDM ® , you govern, integrate, rapidly and smartly enhance quality, also leveraging Artificial Intelligence."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

@@ -1,0 +1,25 @@
+{
+ "slug": "comau-2",
+ "company": "Comau",
+ "full_name": "Fabiola",
+ "cover_note": "Comau lavora con 15 stabilimenti produttivi in 12 paesi tra Europa, Americhe e Asia Pacifico, in settori come automotive, aerospazio ed energie rinnovabili.",
+ "idea": "Con stabilimenti in tanti paesi possiamo realizzare video sui progetti e motion design per spiegare le soluzioni, con sottotitoli per ogni mercato.",
+ "evidence": [
+  {
+   "claim": "Comau lavora con 15 stabilimenti produttivi in 12 paesi tra Europa, Americhe e Asia Pacifico, in settori come automotive, aerospazio ed energie rinnovabili.",
+   "url": "https://www.comau.com/en/about-us/",
+   "quote": "15 manufacturing plants that span 12 countries"
+  },
+  {
+   "claim": "Comau lavora con 15 stabilimenti produttivi in 12 paesi tra Europa, Americhe e Asia Pacifico, in settori come automotive, aerospazio ed energie rinnovabili.",
+   "url": "https://www.comau.com/en/about-us/",
+   "quote": "Our network spans Europe, North America, South America, and Asia Pacific"
+  },
+  {
+   "claim": "Comau lavora con 15 stabilimenti produttivi in 12 paesi tra Europa, Americhe e Asia Pacifico, in settori come automotive, aerospazio ed energie rinnovabili.",
+   "url": "https://www.comau.com/en/about-us/",
+   "quote": "In addition to automotive and e-Mobility, we support manufacturers in renewable energy, battery storage, hydrogen technologies, logistics, aerospace, pharmaceuticals and other industries"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

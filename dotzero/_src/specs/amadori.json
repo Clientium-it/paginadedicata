@@ -1,0 +1,20 @@
+{
+ "slug": "amadori",
+ "company": "Amadori",
+ "full_name": "Barbara",
+ "cover_note": "Amadori segue direttamente il percorso produttivo dalla selezione delle materie prime all'allevamento fino alla trasformazione alimentare e alla distribuzione da San Vittore di Cesena.",
+ "idea": "Su una filiera seguita dall'inizio alla fine possiamo raccontare ogni passaggio con riprese in azienda, interviste e video brevi per i vostri canali.",
+ "evidence": [
+  {
+   "claim": "Amadori segue direttamente il percorso produttivo dalla selezione delle materie prime all'allevamento fino alla trasformazione alimentare e alla distribuzione da San Vittore di Cesena.",
+   "url": "https://www.amadori.it/",
+   "quote": "Seguiamo direttamente le principali fasi del percorso produttivo: selezione delle materie prime, produzione dei mangimi, allevamento, trasformazione alimentare e distribuzione."
+  },
+  {
+   "claim": "Amadori segue direttamente il percorso produttivo dalla selezione delle materie prime all'allevamento fino alla trasformazione alimentare e alla distribuzione da San Vittore di Cesena.",
+   "url": "https://www.amadori.it/",
+   "quote": "GESCO Società Cooperativa Agricola Via Del Rio n.400 47522 San Vittore di Cesena (FC)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

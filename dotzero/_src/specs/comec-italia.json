@@ -1,0 +1,25 @@
+{
+ "slug": "comec-italia",
+ "company": "Comec Italia",
+ "full_name": "Deborah",
+ "cover_note": "Comec Italia produce macchine per tampografia da 1 a 8 colori che stampano su oggetti e materiali diversi, con distributori in più di 25 paesi.",
+ "idea": "Sulle macchine per tampografia possiamo realizzare video di prodotto che le mostrano al lavoro, con sottotitoli per i distributori di ogni paese.",
+ "evidence": [
+  {
+   "claim": "Comec Italia produce macchine per tampografia da 1 a 8 colori che stampano su oggetti e materiali diversi, con distributori in più di 25 paesi.",
+   "url": "https://comec-italia.com/it/azienda/il-presente/",
+   "quote": "Disponiamo infatti di una serie di macchine per tampografia standard da 1 a 8 colori in grado di realizzare stampe sui più svariati oggetti e materiali"
+  },
+  {
+   "claim": "Comec Italia produce macchine per tampografia da 1 a 8 colori che stampano su oggetti e materiali diversi, con distributori in più di 25 paesi.",
+   "url": "https://comec-italia.com/it/azienda/il-presente/",
+   "quote": "ogni giorno infatti selezioniamo accuratamente i nostri distributori in più di 25 paesi"
+  },
+  {
+   "claim": "Comec Italia produce macchine per tampografia da 1 a 8 colori che stampano su oggetti e materiali diversi, con distributori in più di 25 paesi.",
+   "url": "https://comec-italia.com/it/azienda/il-presente/",
+   "quote": "dalle piccole campionature e tirature delle aziende artigianali ai grandi numeri delle multinazionali, il tutto con precisione ed affidabilità"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

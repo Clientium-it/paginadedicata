@@ -1,0 +1,20 @@
+{
+ "slug": "consorzio-villoresi",
+ "company": "Consorzio Villoresi",
+ "full_name": "Carla",
+ "cover_note": "Il Consorzio Villoresi gestisce e amministra le opere pubbliche di bonifica rendendo fruibili i canali per l'irrigazione dei terreni da Milano.",
+ "idea": "Sui canali e sulle opere che gestite possiamo realizzare video chiari, con riprese sul territorio e motion design per spiegare come funziona l'irrigazione.",
+ "evidence": [
+  {
+   "claim": "Il Consorzio Villoresi gestisce e amministra le opere pubbliche di bonifica rendendo fruibili i canali per l'irrigazione dei terreni da Milano.",
+   "url": "https://etvilloresi.it/servizi/f-a-q/",
+   "quote": "provvede alla gestione e amministrazione delle opere pubbliche di bonifica. In sostanza si occupa di rendere fruibili ai consorziati i canali utilizzati per l’irrigazione dei terreni"
+  },
+  {
+   "claim": "Il Consorzio Villoresi gestisce e amministra le opere pubbliche di bonifica rendendo fruibili i canali per l'irrigazione dei terreni da Milano.",
+   "url": "https://etvilloresi.it/servizi/f-a-q/",
+   "quote": "Direzione centrale - Milano Via Lodovico Ariosto, 30 - 20145 Milano"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

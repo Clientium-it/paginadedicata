@@ -1,0 +1,25 @@
+{
+ "slug": "piloda",
+ "company": "Piloda",
+ "full_name": "Daniela",
+ "cover_note": "Piloda costruisce, mantiene e ripara yacht con una rete di cantieri nel Mediterraneo, per il 70% con enti pubblici e per il 30% con privati.",
+ "idea": "Sui lavori nei vostri cantieri possiamo realizzare riprese prima e dopo gli interventi e video brevi che mostrano ogni yacht.",
+ "evidence": [
+  {
+   "claim": "Piloda costruisce, mantiene e ripara yacht con una rete di cantieri nel Mediterraneo, per il 70% con enti pubblici e per il 30% con privati.",
+   "url": "https://pilodagroup.com/",
+   "quote": "We transform visions into reality through quality construction, maintenance, and repair—guided by strong partnerships and continuous improvement."
+  },
+  {
+   "claim": "Piloda costruisce, mantiene e ripara yacht con una rete di cantieri nel Mediterraneo, per il 70% con enti pubblici e per il 30% con privati.",
+   "url": "https://pilodagroup.com/",
+   "quote": "Advanced technologies and a network of shipyards in the Mediterranean allow us to offer high-quality maintenance and repair services, ensuring the preservation of your yacht's value."
+  },
+  {
+   "claim": "Piloda costruisce, mantiene e ripara yacht con una rete di cantieri nel Mediterraneo, per il 70% con enti pubblici e per il 30% con privati.",
+   "url": "https://pilodagroup.com/",
+   "quote": "we deliver tailored solutions across public and private sectors, with 70% of our focus on public institutions—including defense and military—and 30% on private enterprises."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

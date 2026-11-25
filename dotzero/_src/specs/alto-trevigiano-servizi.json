@@ -1,0 +1,20 @@
+{
+ "slug": "alto-trevigiano-servizi",
+ "company": "Alto Trevigiano Servizi",
+ "full_name": "Viviana",
+ "cover_note": "Alto Trevigiano Servizi gestisce il servizio idrico integrato di 51 Comuni tra Treviso, Belluno e Vicenza, servendo più di 500.000 persone.",
+ "idea": "Per un servizio idrico che raggiunge tante persone possiamo realizzare video chiari per i cittadini, con motion design e sottotitoli.",
+ "evidence": [
+  {
+   "claim": "Alto Trevigiano Servizi gestisce il servizio idrico integrato di 51 Comuni tra Treviso, Belluno e Vicenza, servendo più di 500.000 persone.",
+   "url": "https://altotrevigianoservizi.it/azienda/chi-siamo/",
+   "quote": "ATS gestisce il Servizio Idrico Integrato di 51 Comuni tra le province di Treviso, Belluno e Vicenza, per un totale di quasi 250.000 utenze, servendo più di 500.000 persone in un bacino territoriale di 1.374 Kmq."
+  },
+  {
+   "claim": "Alto Trevigiano Servizi gestisce il servizio idrico integrato di 51 Comuni tra Treviso, Belluno e Vicenza, servendo più di 500.000 persone.",
+   "url": "https://altotrevigianoservizi.it/",
+   "quote": "ATS gestisce il servizio idrico integrato in 51 comuni nelle province di Treviso, Belluno e Vicenza."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

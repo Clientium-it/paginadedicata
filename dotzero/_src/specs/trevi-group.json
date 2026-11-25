@@ -1,0 +1,15 @@
+{
+ "slug": "trevi-group",
+ "company": "Trevi Group",
+ "full_name": "Franco",
+ "cover_note": "Trevi Group è nato a Cesena nel 1957 da Davide Trevisani ed è oggi controllato da CDP Equity Investimenti e Polaris Capital Management.",
+ "idea": "Su una storia nata a Cesena possiamo realizzare video sui progetti e sui cantieri, con interviste e contenuti brevi per i vostri canali.",
+ "evidence": [
+  {
+   "claim": "Trevi Group è nato a Cesena nel 1957 da Davide Trevisani ed è oggi controllato da CDP Equity Investimenti e Polaris Capital Management.",
+   "url": "https://www.trevigroup.com/en/mission/",
+   "quote": "Set-up in Cesena (Italy) in 1957 by Davide Trevisani, Trevi Group is actually controlled by CDP Equity Investimenti S.p.a and Polaris Capital Management LLC."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

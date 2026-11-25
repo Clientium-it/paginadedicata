@@ -1,0 +1,20 @@
+{
+ "slug": "axa-mps",
+ "company": "AXA MPS",
+ "full_name": "Camillo",
+ "cover_note": "AXA MPS è operativa dal 1974 ed è specializzata nel ramo danni, con soluzioni di protezione per privati e aziende.",
+ "idea": "Sulle soluzioni di protezione per privati e aziende possiamo realizzare video brevi e motion design che spiegano le coperture in modo semplice.",
+ "evidence": [
+  {
+   "claim": "AXA MPS è operativa dal 1974 ed è specializzata nel ramo danni, con soluzioni di protezione per privati e aziende.",
+   "url": "https://www.axa-mps.it/catalogo-prodotti",
+   "quote": "Operativa dal 1974 è specializzata nel ramo danni. Offre un’ ampia gamma di soluzioni di protezione adatte alle esigenze di privati ed aziende."
+  },
+  {
+   "claim": "AXA MPS è operativa dal 1974 ed è specializzata nel ramo danni, con soluzioni di protezione per privati e aziende.",
+   "url": "https://www.axa-mps.it/catalogo-prodotti",
+   "quote": "Offre un’ ampia gamma di soluzioni di protezione adatte alle esigenze di privati ed aziende."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

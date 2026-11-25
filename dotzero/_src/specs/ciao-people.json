@@ -1,0 +1,20 @@
+{
+ "slug": "ciao-people",
+ "company": "Ciao People",
+ "full_name": "Francesca",
+ "cover_note": "Ciao People edita Fanpage.it con 26 milioni di utenti unici e 140 milioni di page views, prima testata italiana per unique audience video.",
+ "idea": "Accanto alla vostra produzione video possiamo affiancarvi con riprese, montaggio e motion design quando i progetti si moltiplicano.",
+ "evidence": [
+  {
+   "claim": "Ciao People edita Fanpage.it con 26 milioni di utenti unici e 140 milioni di page views, prima testata italiana per unique audience video.",
+   "url": "https://www.ciaopeople.it/servizi",
+   "quote": "Fanpage.it vanta un pubblico di 26 milioni di utenti unici e 140 milioni di page views, ed è la prima testata italiana per unique audience video."
+  },
+  {
+   "claim": "Ciao People edita Fanpage.it con 26 milioni di utenti unici e 140 milioni di page views, prima testata italiana per unique audience video.",
+   "url": "https://www.ciaopeople.it/sedi",
+   "quote": "Napoli Headquarter Napoli Redazione Fanpage.it Napoli The Jackal Ciaopeople Studios Milano Ciaopeople Advertising Roma Ciaopeople Advertising Redazione Fanpage.it"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

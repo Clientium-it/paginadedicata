@@ -1,0 +1,15 @@
+{
+ "slug": "valentino",
+ "company": "Valentino",
+ "full_name": "Giulia",
+ "cover_note": "Valentino è la maison fondata nel 1960 da Valentino Garavani e Giancarlo Giammetti.",
+ "idea": "Per la maison possiamo affiancarvi con riprese, montaggio e contenuti brevi quando i progetti video aumentano.",
+ "evidence": [
+  {
+   "claim": "Valentino è la maison fondata nel 1960 da Valentino Garavani e Giancarlo Giammetti.",
+   "url": "https://www.valentino.com/en-us/v-universe/maison/history",
+   "quote": "Maison Valentino is formally founded in 1960 following by Valentino Garavani and Giancarlo Giammetti"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

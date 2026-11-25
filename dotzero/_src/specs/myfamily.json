@@ -1,0 +1,20 @@
+{
+ "slug": "myfamily",
+ "company": "MyFamily",
+ "full_name": "Beatrice",
+ "cover_note": "MyFamily realizza tutto nello stabilimento di Valenza con 15 reparti e 150 persone, presente in 109 Paesi con sedi dirette in USA e Brasile.",
+ "idea": "Da uno stabilimento con 15 reparti possiamo ricavare un video sulla manifattura e contenuti brevi da usare nei mercati dove siete presenti.",
+ "evidence": [
+  {
+   "claim": "MyFamily realizza tutto nello stabilimento di Valenza con 15 reparti e 150 persone, presente in 109 Paesi con sedi dirette in USA e Brasile.",
+   "url": "https://www.myfamily.it/pages/company-tour",
+   "quote": "Tutto avviene all'interno del nostro stabilimento di Valenza: dal concept iniziale alla realizzazione degli stampi, dalla produzione dei componenti al loro assemblaggio, fino alle realizzazioni tipografiche e alle iniziative pubblicitarie. Oggi i nostri 15 reparti interni sono vere “ aziende nell'azienda ” con 150 persone"
+  },
+  {
+   "claim": "MyFamily realizza tutto nello stabilimento di Valenza con 15 reparti e 150 persone, presente in 109 Paesi con sedi dirette in USA e Brasile.",
+   "url": "https://www.myfamily.it/pages/la-nostra-storia",
+   "quote": "Presenza globale 109 Paesi nel mondo Rete specializzata Oltre 20k pet shop partner Filiali internazionali Sedi dirette in USA e Brasile"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

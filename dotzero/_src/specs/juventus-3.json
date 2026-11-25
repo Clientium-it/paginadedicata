@@ -1,0 +1,20 @@
+{
+ "slug": "juventus-3",
+ "company": "Juventus",
+ "full_name": "Lorenzo",
+ "cover_note": "Juventus riunisce la prima squadra maschile e femminile, la Next Gen e i settori giovanili maschili e femminili, con sede a Torino in Via Druento.",
+ "idea": "Per squadre e settori giovanili possiamo affiancarvi con riprese, interviste e contenuti brevi quando i progetti video aumentano.",
+ "evidence": [
+  {
+   "claim": "Juventus riunisce la prima squadra maschile e femminile, la Next Gen e i settori giovanili maschili e femminili, con sede a Torino in Via Druento.",
+   "url": "https://www.juventus.com/it/news/articoli/standout-stats-lazio-juventus-women-22-11-26",
+   "quote": "Prima Squadra Maschile Prima Squadra Femminile Next Gen U20 M U19 F Giovanili maschili Giovanili femminili"
+  },
+  {
+   "claim": "Juventus riunisce la prima squadra maschile e femminile, la Next Gen e i settori giovanili maschili e femminili, con sede a Torino in Via Druento.",
+   "url": "https://www.juventus.com/it/news/articoli/standout-stats-lazio-juventus-women-22-11-26",
+   "quote": "Juventus Football Club S.p.A. Via Druento, 175 10151 Torino - Italia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

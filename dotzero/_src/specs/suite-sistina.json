@@ -1,0 +1,20 @@
+{
+ "slug": "suite-sistina",
+ "company": "Suite Sistina",
+ "full_name": "Daniela",
+ "cover_note": "Suite Sistina propone suite romantiche per soggiorni di coppia nel cuore di Roma, tra le sue sedi in Via Sistina e un rooftop.",
+ "idea": "Sulle vostre suite e sul rooftop possiamo realizzare video della struttura e contenuti brevi per i vostri canali.",
+ "evidence": [
+  {
+   "claim": "Suite Sistina propone suite romantiche per soggiorni di coppia nel cuore di Roma, tra le sue sedi in Via Sistina e un rooftop.",
+   "url": "https://www.suitesistina.com/",
+   "quote": "SuiteSistina for Brave Lovers propone sensuali suite romantiche , perfette per un soggiorno di coppia nel cuore di Roma"
+  },
+  {
+   "claim": "Suite Sistina propone suite romantiche per soggiorni di coppia nel cuore di Roma, tra le sue sedi in Via Sistina e un rooftop.",
+   "url": "https://www.suitesistina.com/",
+   "quote": "Guesthouse Suite Sistina - Via Sistina 53 Suite Sistina For Brave Lovers Guesthouse Suite Sistina II – Via Sistina 55 Suite Sistina For Brave Lovers 5000 Stars Rooftop Via Sistina 55 Suite Sistina For Brave Lovers Loft Via Sistina 55 Suite Sistina For Brave Lovers Hotel Via Sistina 91"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "amahorse",
+ "company": "Amahorse",
+ "full_name": "Andrea Palazzeschi",
+ "cover_note": "Amahorse gestisce a San Giustino un hub logistico di 10.000 m² e distribuisce oltre un milione di prodotti in tutto il mondo.",
+ "idea": "Su un hub logistico come il vostro possiamo realizzare riprese in magazzino e video brevi per raccontare come i prodotti arrivano ai clienti.",
+ "evidence": [
+  {
+   "claim": "Amahorse gestisce a San Giustino un hub logistico di 10.000 m² e distribuisce oltre un milione di prodotti in tutto il mondo.",
+   "url": "https://amahorse.com/it/about-us",
+   "quote": "Oggi Amahorse gestisce un hub logistico di 10.000 m² e distribuisce oltre un milione di prodotti in tutto il mondo."
+  },
+  {
+   "claim": "Amahorse gestisce a San Giustino un hub logistico di 10.000 m² e distribuisce oltre un milione di prodotti in tutto il mondo.",
+   "url": "https://amahorse.com/it/about-us",
+   "quote": "Adagiata sulle belle colline umbre a San Giustino (PG), l’edificio si compone di 10.000 m2 di magazzino e 2.800 m2 di uffici"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

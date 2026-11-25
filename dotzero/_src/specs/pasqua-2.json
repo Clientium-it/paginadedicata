@@ -1,0 +1,15 @@
+{
+ "slug": "pasqua-2",
+ "company": "Pasqua",
+ "full_name": "Margherita",
+ "cover_note": "Pasqua produce vini che uniscono cultura enologica e tradizione familiare, rinnovando i grandi vini del Veneto e i classici italiani.",
+ "idea": "Sui vostri vini possiamo realizzare video in cantina e nei vigneti, interviste alla famiglia e contenuti brevi per i canali social.",
+ "evidence": [
+  {
+   "claim": "Pasqua produce vini che uniscono cultura enologica e tradizione familiare, rinnovando i grandi vini del Veneto e i classici italiani.",
+   "url": "https://pasqua.it/portfolio/",
+   "quote": "Our wines express both enological culture and family tradition, renovating the great Veneto wines and the Italian classics."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

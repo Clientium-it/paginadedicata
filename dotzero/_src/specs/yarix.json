@@ -1,0 +1,20 @@
+{
+ "slug": "yarix",
+ "company": "Yarix",
+ "full_name": "Giulia",
+ "cover_note": "Yarix gestisce un SOC attivo 24/7/365 per la cyber security combinando AI e Threat Intelligence con sedi in Italia e in Europa.",
+ "idea": "Sul lavoro del vostro SOC possiamo realizzare video e motion design che spiegano la cyber security in modo chiaro ai clienti.",
+ "evidence": [
+  {
+   "claim": "Yarix gestisce un SOC attivo 24/7/365 per la cyber security combinando AI e Threat Intelligence con sedi in Italia e in Europa.",
+   "url": "https://www.yarix.com/",
+   "quote": "Il SOC Yarix, attivo 24/7/365, è uno dei più avanzati in Europa e garantisce rilevamento e risposta alle minacce attraverso un approccio proattivo che combina AI, Threat Intelligence e competenze specialistiche."
+  },
+  {
+   "claim": "Yarix gestisce un SOC attivo 24/7/365 per la cyber security combinando AI e Threat Intelligence con sedi in Italia e in Europa.",
+   "url": "https://www.yarix.com/About-us",
+   "quote": "Siamo un centro di eccellenza, con sedi in Italia e in Europa, impegnato a garantire una difesa avanzata nei settori della cyber security."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "rolfo",
+ "company": "Rolfo",
+ "full_name": "Danilo",
+ "cover_note": "Rolfo dal 1885 produce allestimenti per il trasporto veicoli e furgonature isotermiche, con sede a Bra in provincia di Cuneo da oltre 140 anni.",
+ "idea": "Sugli allestimenti per il trasporto veicoli possiamo realizzare riprese in produzione e video di prodotto, con contenuti brevi per i canali.",
+ "evidence": [
+  {
+   "claim": "Rolfo dal 1885 produce allestimenti per il trasporto veicoli e furgonature isotermiche, con sede a Bra in provincia di Cuneo da oltre 140 anni.",
+   "url": "https://rolfo.it/chi-siamo",
+   "quote": "Dal 1885, Rolfo è sinonimo di eccellenza nella produzione di allestimenti per il trasporto veicoli e allestimenti di furgonature isotermiche, un’eccellenza che nasce in Italia e si afferma nel mondo."
+  },
+  {
+   "claim": "Rolfo dal 1885 produce allestimenti per il trasporto veicoli e furgonature isotermiche, con sede a Bra in provincia di Cuneo da oltre 140 anni.",
+   "url": "https://rolfo.it/chi-siamo",
+   "quote": "La sede principale è a Bra (Cuneo), cuore pulsante di un’impresa che da oltre 140 anni porta nel mondo l’ingegno e il carattere dell’industria italiana."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

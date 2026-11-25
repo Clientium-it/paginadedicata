@@ -1,0 +1,25 @@
+{
+ "slug": "ecosystem",
+ "company": "Ecosystem",
+ "full_name": "Paulina",
+ "cover_note": "Ecosystem lavora ogni anno 200.000 tonnellate di rifiuti nel suo impianto di Pomezia, con 165 addetti e 200 conferimenti in entrata al giorno.",
+ "idea": "Su un impianto come quello di Pomezia possiamo realizzare video che mostrano il lavoro ogni giorno, con riprese sul posto e motion design per spiegare il processo.",
+ "evidence": [
+  {
+   "claim": "Ecosystem lavora ogni anno 200.000 tonnellate di rifiuti nel suo impianto di Pomezia, con 165 addetti e 200 conferimenti in entrata al giorno.",
+   "url": "https://www.ecosystemspa.com/ecosystem-oggi/",
+   "quote": "I numeri 80.000 mq di Impianto 200 conferimenti in entrata ogni giorno 165 Addetti 200.000 ton/y rifiuti lavorati ogni anno"
+  },
+  {
+   "claim": "Ecosystem lavora ogni anno 200.000 tonnellate di rifiuti nel suo impianto di Pomezia, con 165 addetti e 200 conferimenti in entrata al giorno.",
+   "url": "https://www.ecosystemspa.com/ecosystem-oggi/",
+   "quote": "Sede Legale e Impianto Via della Solforata Km 10.750 00071 Pomezia (Roma)"
+  },
+  {
+   "claim": "Ecosystem lavora ogni anno 200.000 tonnellate di rifiuti nel suo impianto di Pomezia, con 165 addetti e 200 conferimenti in entrata al giorno.",
+   "url": "https://www.ecosystemspa.com/",
+   "quote": "Da aziende multinazionali chimico – farmaceutiche a piccoli artigiani fino a piccole e medie imprese ed alla gestione di isole ecologiche comunali."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

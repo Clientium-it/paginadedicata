@@ -1,0 +1,20 @@
+{
+ "slug": "apogeo",
+ "company": "Apogeo",
+ "full_name": "Federica",
+ "cover_note": "Apogeo è il marchio editoriale del Gruppo Feltrinelli che dal 1989 mette in circolo competenze digitali da Milano.",
+ "idea": "Sulle competenze digitali che pubblicate possiamo realizzare video con gli autori, motion design e contenuti brevi per presentare i libri.",
+ "evidence": [
+  {
+   "claim": "Apogeo è il marchio editoriale del Gruppo Feltrinelli che dal 1989 mette in circolo competenze digitali da Milano.",
+   "url": "https://www.apogeonline.com/chi-siamo/",
+   "quote": "Siamo Apogeo, il marchio editoriale del Gruppo Feltrinelli che dal 1989 mette in circolo competenze digitali."
+  },
+  {
+   "claim": "Apogeo è il marchio editoriale del Gruppo Feltrinelli che dal 1989 mette in circolo competenze digitali da Milano.",
+   "url": "https://www.apogeonline.com/chi-siamo/",
+   "quote": "sede legale: via Maurizio Quadrio 17, 20154 Milano"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

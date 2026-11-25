@@ -1,0 +1,20 @@
+{
+ "slug": "cesena-fc",
+ "company": "Cesena FC",
+ "full_name": "Filippo",
+ "cover_note": "Cesena FC dal 2021 è guidato dalla proprietà della famiglia Aiello e nel 2024 è tornato in Serie B dopo un campionato da record.",
+ "idea": "Su una stagione come questa possiamo realizzare video del dietro le quinte, interviste e contenuti brevi per i vostri tifosi sui canali social.",
+ "evidence": [
+  {
+   "claim": "Cesena FC dal 2021 è guidato dalla proprietà della famiglia Aiello e nel 2024 è tornato in Serie B dopo un campionato da record.",
+   "url": "https://www.cesenafc.com/it/society/history",
+   "quote": "Nel 2021 la JRL, guidata oggi dalla famiglia Aiello, acquisisce la maggioranza delle quote del club, divenendo la prima proprietà straniera nella storia calcistica del Cesena. Dopo un campionato trionfale in Serie C, con un record di punti tuttora imbattuto, nel 2024 il Cesena FC torna in Serie B"
+  },
+  {
+   "claim": "Cesena FC dal 2021 è guidato dalla proprietà della famiglia Aiello e nel 2024 è tornato in Serie B dopo un campionato da record.",
+   "url": "https://www.cesenafc.com/it",
+   "quote": "Sede : Via Giovanni Spadolini 110, 47521 Cesena"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

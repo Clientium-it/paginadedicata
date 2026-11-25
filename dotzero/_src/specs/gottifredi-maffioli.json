@@ -1,0 +1,25 @@
+{
+ "slug": "gottifredi-maffioli",
+ "company": "Gottifredi Maffioli",
+ "full_name": "Gianluca",
+ "cover_note": "Gottifredi Maffioli usa filati sintetici ad alta tenacità per creare prodotti per settori come cartiere, industria automobilistica, pesca e sollevamento da Novara.",
+ "idea": "Sui vostri prodotti tessili tecnici possiamo realizzare video di prodotto e riprese in produzione, con versioni per ogni settore che servite.",
+ "evidence": [
+  {
+   "claim": "Gottifredi Maffioli usa filati sintetici ad alta tenacità per creare prodotti per settori come cartiere, industria automobilistica, pesca e sollevamento da Novara.",
+   "url": "https://www.gottifredimaffioli.com/prodotti/",
+   "quote": "l’impiego esclusivo di filati sintetici ad alta tenacità ci consentono di creare prodotti idonei per una moltitudine di settori: cartiere, vulcanizzazione della gomma, industria automobilistica, elettromeccanica, pesca, sollevamento e molti altri."
+  },
+  {
+   "claim": "Gottifredi Maffioli usa filati sintetici ad alta tenacità per creare prodotti per settori come cartiere, industria automobilistica, pesca e sollevamento da Novara.",
+   "url": "https://www.gottifredimaffioli.com/prodotti/",
+   "quote": "Gottifredi Maffioli S.r.l. Via Wild 2/c-4, 28100 Novara (Italy)"
+  },
+  {
+   "claim": "Gottifredi Maffioli usa filati sintetici ad alta tenacità per creare prodotti per settori come cartiere, industria automobilistica, pesca e sollevamento da Novara.",
+   "url": "https://www.gottifredimaffioli.com/prodotti/",
+   "quote": "cartiere, vulcanizzazione della gomma, industria automobilistica, elettromeccanica, pesca, sollevamento e molti altri."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

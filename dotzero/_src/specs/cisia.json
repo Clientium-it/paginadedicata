@@ -1,0 +1,15 @@
+{
+ "slug": "cisia",
+ "company": "CISIA",
+ "full_name": "Fabrizio",
+ "cover_note": "CISIA è un consorzio universitario senza fini di lucro nato nel 2010, che oggi riunisce 63 università.",
+ "idea": "Per un consorzio che riunisce tante università possiamo realizzare video chiari per gli studenti, con motion design e sottotitoli per ogni canale.",
+ "evidence": [
+  {
+   "claim": "CISIA è un consorzio universitario senza fini di lucro nato nel 2010, che oggi riunisce 63 università.",
+   "url": "https://cisiaonline.it/CISIA/chi-siamo",
+   "quote": "È un consorzio senza fini di lucro istituito nel 2010, preceduto nel 2005 dalla realizzazione di un centro interuniversitario. Sono 63 le università che formano CISIA"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

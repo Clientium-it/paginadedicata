@@ -1,0 +1,20 @@
+{
+ "slug": "asem",
+ "company": "ASEM",
+ "full_name": "Laura",
+ "cover_note": "ASEM opera nell'automazione industriale e nel test e misura con una gamma completa di PC, monitor industriali e sistemi HMI, dalla sede di Artegna.",
+ "idea": "Su PC industriali e sistemi HMI possiamo realizzare video di prodotto e motion design per spiegare le soluzioni in modo chiaro.",
+ "evidence": [
+  {
+   "claim": "ASEM opera nell'automazione industriale e nel test e misura con una gamma completa di PC, monitor industriali e sistemi HMI, dalla sede di Artegna.",
+   "url": "https://www.asem.it/it/chi-siamo.html",
+   "quote": "ASEM opera nei mercati dell'Automazione Industriale, del Test, Misura con un'offerta di una gamma completa di PC e monitor industriali e di una gamma completa di sistemi di HMI"
+  },
+  {
+   "claim": "ASEM opera nell'automazione industriale e nel test e misura con una gamma completa di PC, monitor industriali e sistemi HMI, dalla sede di Artegna.",
+   "url": "https://www.asem.it/it/chi-siamo.html",
+   "quote": "Artegna (UD) Headquarters (8450mq)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

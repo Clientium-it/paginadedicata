@@ -1,0 +1,20 @@
+{
+ "slug": "dompe-2",
+ "company": "Dompé",
+ "full_name": "Morgana",
+ "cover_note": "Dompé è un'azienda biofarmaceutica internazionale attiva in tutta la filiera, dalla ricerca alla produzione fino alla commercializzazione, con il polo produttivo dell'Aquila.",
+ "idea": "Su una filiera che va dalla ricerca alla produzione possiamo realizzare video chiari, con riprese al polo dell'Aquila e motion design per spiegare la scienza.",
+ "evidence": [
+  {
+   "claim": "Dompé è un'azienda biofarmaceutica internazionale attiva in tutta la filiera, dalla ricerca alla produzione fino alla commercializzazione, con il polo produttivo dell'Aquila.",
+   "url": "https://www.dompe.com/it/about-us/",
+   "quote": "è un’azienda biofarmaceutica internazionale attiva in tutte le fasi della filiera farmaceutica, dalla ricerca e sviluppo alla produzione, fino alla commercializzazione."
+  },
+  {
+   "claim": "Dompé è un'azienda biofarmaceutica internazionale attiva in tutta la filiera, dalla ricerca alla produzione fino alla commercializzazione, con il polo produttivo dell'Aquila.",
+   "url": "https://www.dompe.com/it/about-us/dove-siamo/",
+   "quote": "Il nostro polo produttivo dell’Aquila ospita due officine di produzione. La prima è dedicata alla produzione di farmaci nel settore della primary care, mentre la seconda produce principi attivi biotecnologici per il trattamento di malattie rare."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "eps",
+ "company": "EPS",
+ "full_name": "Erika",
+ "cover_note": "EPS produce particolari in plastica durevole in 5 stabilimenti su oltre 15.000 mq, per settori come automotive, meccanico e HVAC.",
+ "idea": "Nei vostri stabilimenti possiamo realizzare riprese in produzione e video di prodotto per i settori che servite, con versioni brevi per i canali.",
+ "evidence": [
+  {
+   "claim": "EPS produce particolari in plastica durevole in 5 stabilimenti su oltre 15.000 mq, per settori come automotive, meccanico e HVAC.",
+   "url": "https://www.eps-srl.com/chi-siamo/",
+   "quote": "In oltre 15.000 mq, i 5 stabilimenti di EPS sono organizzati con l’adozione delle più innovative tecnologie e sistemi di automazione utili a servire clienti in tutto il mondo"
+  },
+  {
+   "claim": "EPS produce particolari in plastica durevole in 5 stabilimenti su oltre 15.000 mq, per settori come automotive, meccanico e HVAC.",
+   "url": "https://www.eps-srl.com/",
+   "quote": "per la produzione di particolari in plastica durevole per settori: diversi dall’Automotive al meccanico, dall’HVAC al Professional, dall’Horeca al Vending"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

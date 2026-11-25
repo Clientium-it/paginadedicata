@@ -1,0 +1,25 @@
+{
+ "slug": "fortna",
+ "company": "Fortna",
+ "full_name": "Erika",
+ "cover_note": "Fortna progetta soluzioni di distribuzione basate sui dati per grandi marchi, con una sede a Parma in via Segrè.",
+ "idea": "Su soluzioni di distribuzione come le vostre possiamo realizzare video con riprese negli impianti e motion design per spiegare i flussi.",
+ "evidence": [
+  {
+   "claim": "Fortna progetta soluzioni di distribuzione basate sui dati per grandi marchi, con una sede a Parma in via Segrè.",
+   "url": "https://www.fortna.com/about/",
+   "quote": "FORTNA is an end-to-end design-build firm, delivering transformative, data-driven distribution solutions to the world’s leading brands."
+  },
+  {
+   "claim": "Fortna progetta soluzioni di distribuzione basate sui dati per grandi marchi, con una sede a Parma in via Segrè.",
+   "url": "https://www.fortna.com/about/careers/",
+   "quote": "Italy Via Segrè 5/A 43122 Parma Italy"
+  },
+  {
+   "claim": "Fortna progetta soluzioni di distribuzione basate sui dati per grandi marchi, con una sede a Parma in via Segrè.",
+   "url": "https://www.fortna.com/about/",
+   "quote": "Consumer Packaged Goods Data Center Logistics Electronics Food and Beverage"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

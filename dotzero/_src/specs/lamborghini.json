@@ -1,0 +1,15 @@
+{
+ "slug": "lamborghini",
+ "company": "Lamborghini",
+ "full_name": "Martina",
+ "cover_note": "Lamborghini realizza super sport car con modelli come Revuelto, Urus SE e Temerario.",
+ "idea": "Sui vostri modelli possiamo affiancarvi con riprese, montaggio e motion design per i progetti video, con versioni brevi per ogni canale.",
+ "evidence": [
+  {
+   "claim": "Lamborghini realizza super sport car con modelli come Revuelto, Urus SE e Temerario.",
+   "url": "https://www.lamborghini.com/en-en/company",
+   "quote": "is synonymous with design excellence and super sports car performance, with iconic models such as Revuelto, Urus SE and Temerario"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "alajmo",
+ "company": "Alajmo",
+ "full_name": "Giulia",
+ "cover_note": "Alajmo gestisce il ristorante tre stelle Michelin Le Calandre a Rubano in provincia di Padova e altre insegne tra Venezia, Cortina e Parigi.",
+ "idea": "Nei vostri ristoranti possiamo realizzare riprese in cucina e in sala, con contenuti brevi per raccontare ogni insegna sui canali social.",
+ "evidence": [
+  {
+   "claim": "Alajmo gestisce il ristorante tre stelle Michelin Le Calandre a Rubano in provincia di Padova e altre insegne tra Venezia, Cortina e Parigi.",
+   "url": "https://alajmo.it/",
+   "quote": "Rubano (PD) Le Calandre Un’esperienza tre stelle Michelin Il Calandrino"
+  },
+  {
+   "claim": "Alajmo gestisce il ristorante tre stelle Michelin Le Calandre a Rubano in provincia di Padova e altre insegne tra Venezia, Cortina e Parigi.",
+   "url": "https://alajmo.it/",
+   "quote": "Rubano (PD) Venezia Cortina d'Ampezzo Roncade (TV) Parigi Marrakech Tamuda Bay Crystal Cruises Serenity Crystal Cruises Symphony H-Farm (TV) Padova"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

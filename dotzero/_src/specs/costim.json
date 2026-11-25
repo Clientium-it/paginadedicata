@@ -1,0 +1,20 @@
+{
+ "slug": "costim",
+ "company": "Costim",
+ "full_name": "Giulia",
+ "cover_note": "Costim è una società di sviluppo immobiliare attiva nella riqualificazione urbana che segue l'intero ciclo di vita dei progetti con sede a Bergamo.",
+ "idea": "Sui progetti di riqualificazione possiamo documentare il cantiere con riprese periodiche e realizzare video di presentazione per ogni progetto.",
+ "evidence": [
+  {
+   "claim": "Costim è una società di sviluppo immobiliare attiva nella riqualificazione urbana che segue l'intero ciclo di vita dei progetti con sede a Bergamo.",
+   "url": "https://costim.com/chi-siamo",
+   "quote": "Costim Real Estate è una società di sviluppo immobiliare attiva nella riqualificazione urbana e focalizzata sulla gestione dell’intero ciclo vita dei progetti, dalla progettazione alla gestione degli spazi e dei servizi."
+  },
+  {
+   "claim": "Costim è una società di sviluppo immobiliare attiva nella riqualificazione urbana che segue l'intero ciclo di vita dei progetti con sede a Bergamo.",
+   "url": "https://costim.com/chi-siamo",
+   "quote": "Sede legale: viale Vittorio Emanuele II n. 10/L, 24121 Bergamo"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

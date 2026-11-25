@@ -1,0 +1,25 @@
+{
+ "slug": "satech",
+ "company": "Satech",
+ "full_name": "Andrea",
+ "cover_note": "Satech produce sistemi modulari di recinzione che isolano macchinari, robot e linee produttive automatizzate per i settori agroalimentare, chimico e farmaceutico, da Bulciago.",
+ "idea": "Sui sistemi di recinzione possiamo realizzare video di prodotto e motion design che mostrano come proteggono macchinari e linee.",
+ "evidence": [
+  {
+   "claim": "Satech produce sistemi modulari di recinzione che isolano macchinari, robot e linee produttive automatizzate per i settori agroalimentare, chimico e farmaceutico, da Bulciago.",
+   "url": "https://www.satech.it/",
+   "quote": "sono sistemi modulari di recinzione fisica conformi a EN ISO 14120 e alla Direttiva Macchine 2006/42/CE , che isolano macchinari industriali, robot e linee produttive automatizzate"
+  },
+  {
+   "claim": "Satech produce sistemi modulari di recinzione che isolano macchinari, robot e linee produttive automatizzate per i settori agroalimentare, chimico e farmaceutico, da Bulciago.",
+   "url": "https://www.satech.it/",
+   "quote": "Satech Safety Technology SpA Via Conte Taverna, 1 - 23892 Bulciago (LC), Italy"
+  },
+  {
+   "claim": "Satech produce sistemi modulari di recinzione che isolano macchinari, robot e linee produttive automatizzate per i settori agroalimentare, chimico e farmaceutico, da Bulciago.",
+   "url": "https://www.satech.it/",
+   "quote": "elevati standard igienici richiesti nei settori agroalimentare, chimico e farmaceutico"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

@@ -1,0 +1,25 @@
+{
+ "slug": "mz-events",
+ "company": "MZ Events",
+ "full_name": "Diana",
+ "cover_note": "MZ Events dal 1987 organizza congressi in campo medico scientifico e veterinario, con servizi di segreteria per associazioni no profit ed enti del terzo settore.",
+ "idea": "Dai congressi che organizzate possiamo ricavare il video dell'evento, le interviste ai relatori e i contenuti brevi da usare dopo.",
+ "evidence": [
+  {
+   "claim": "MZ Events dal 1987 organizza congressi in campo medico scientifico e veterinario, con servizi di segreteria per associazioni no profit ed enti del terzo settore.",
+   "url": "https://www.mzevents.it/",
+   "quote": "Siamo Professional Congress Consultant Organizer (PCCO) dal 1987, specializzati in campo medico-scientifico e veterinario con certificati ISO 9001:2015."
+  },
+  {
+   "claim": "MZ Events dal 1987 organizza congressi in campo medico scientifico e veterinario, con servizi di segreteria per associazioni no profit ed enti del terzo settore.",
+   "url": "https://www.mzevents.it/",
+   "quote": "MZ EVENTS SRL Via Carlo Farini, 81 - 20159 Milano 6° Piano Citofono: n. 81"
+  },
+  {
+   "claim": "MZ Events dal 1987 organizza congressi in campo medico scientifico e veterinario, con servizi di segreteria per associazioni no profit ed enti del terzo settore.",
+   "url": "https://www.mzevents.it/",
+   "quote": "Forniamo servizi di segreteria tecnico-organizzativa ed amministrativa per Associazioni no profit ed Enti del Terzo Settore."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

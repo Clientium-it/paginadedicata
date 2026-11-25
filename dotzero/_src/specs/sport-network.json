@@ -1,0 +1,20 @@
+{
+ "slug": "sport-network",
+ "company": "Sport Network",
+ "full_name": "Antonio",
+ "cover_note": "Sport Network dal 1999 è la prima concessionaria italiana dedicata al mondo dello sport con sedi a Milano e Roma.",
+ "idea": "Per una realtà che vive di sport possiamo realizzare video per i vostri partner, dalle riprese agli eventi fino ai contenuti brevi per i canali social.",
+ "evidence": [
+  {
+   "claim": "Sport Network dal 1999 è la prima concessionaria italiana dedicata al mondo dello sport con sedi a Milano e Roma.",
+   "url": "https://www.sportnetwork.it/",
+   "quote": "Sport Network è stata fondata nel luglio 1999 diventando subito la prima concessionaria italiana dedicata al mondo dello sport"
+  },
+  {
+   "claim": "Sport Network dal 1999 è la prima concessionaria italiana dedicata al mondo dello sport con sedi a Milano e Roma.",
+   "url": "https://www.sportnetwork.it/",
+   "quote": "MILANO Via Messina 38 – 20154 Telefono +39 02 34.96.21 ROMA Piazza Indipendenza 11/b – 00185 Telefono +39 06 49.24.61"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

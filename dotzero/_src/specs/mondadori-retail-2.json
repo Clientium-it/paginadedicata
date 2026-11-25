@@ -1,0 +1,20 @@
+{
+ "slug": "mondadori-retail-2",
+ "company": "Mondadori Retail",
+ "full_name": "Elena",
+ "cover_note": "Mondadori Retail da ottobre 1998 conta più di 570 librerie affiliate in franchising, con imprenditori che danno valore al rapporto con la clientela.",
+ "idea": "Per la rete di librerie affiliate possiamo realizzare video per gli imprenditori, con interviste e contenuti brevi per i canali.",
+ "evidence": [
+  {
+   "claim": "Mondadori Retail da ottobre 1998 conta più di 570 librerie affiliate in franchising, con imprenditori che danno valore al rapporto con la clientela.",
+   "url": "https://www.mondadoriretail.com/",
+   "quote": "da ottobre 1998 più di 570 librerie affiliate in franchising"
+  },
+  {
+   "claim": "Mondadori Retail da ottobre 1998 conta più di 570 librerie affiliate in franchising, con imprenditori che danno valore al rapporto con la clientela.",
+   "url": "https://www.mondadoriretail.com/",
+   "quote": "Imprenditori determinati che danno valore al rapporto con la clientela"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

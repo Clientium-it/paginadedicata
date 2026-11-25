@@ -1,0 +1,25 @@
+{
+ "slug": "spea",
+ "company": "SPEA",
+ "full_name": "Daniela",
+ "cover_note": "SPEA realizza macchinari per i produttori di elettronica e semiconduttori, con oltre 12.000 macchine installate, 1.200 persone e attività in 38 nazioni.",
+ "idea": "Su macchinari complessi come i vostri possiamo realizzare video di prodotto e motion design che spiegano come funzionano, con sottotitoli per ogni nazione.",
+ "evidence": [
+  {
+   "claim": "SPEA realizza macchinari per i produttori di elettronica e semiconduttori, con oltre 12.000 macchine installate, 1.200 persone e attività in 38 nazioni.",
+   "url": "https://www.spea.com/it/chi-siamo/",
+   "quote": "Con oltre 12.000 macchine installate in tutto il mondo , siamo una realtà consolidata e affidabile Il cuore pulsante: le persone Il nostro team è composto da oltre 1.200 persone altamente qualificate"
+  },
+  {
+   "claim": "SPEA realizza macchinari per i produttori di elettronica e semiconduttori, con oltre 12.000 macchine installate, 1.200 persone e attività in 38 nazioni.",
+   "url": "https://www.spea.com/it/chi-siamo/",
+   "quote": "Attività in 38 nazioni"
+  },
+  {
+   "claim": "SPEA realizza macchinari per i produttori di elettronica e semiconduttori, con oltre 12.000 macchine installate, 1.200 persone e attività in 38 nazioni.",
+   "url": "https://www.spea.com/it/chi-siamo/",
+   "quote": "i nostri macchinari vengono utilizzati dai produttori di elettronica e semiconduttori di tutto il mondo"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

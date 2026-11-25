@@ -1,0 +1,20 @@
+{
+ "slug": "sciuker-frames",
+ "company": "Sciuker Frames",
+ "full_name": "Caterina",
+ "cover_note": "Sciuker Frames da 30 anni progetta e realizza finestre Made in Italy ad Avellino.",
+ "idea": "Su trent'anni di finestre progettate e prodotte ad Avellino possiamo realizzare riprese in produzione, video di prodotto e contenuti brevi per i canali social.",
+ "evidence": [
+  {
+   "claim": "Sciuker Frames da 30 anni progetta e realizza finestre Made in Italy ad Avellino.",
+   "url": "https://sciuker.it/",
+   "quote": "Da 30 anni progettiamo e realizziamo finestre Made in Italy , dove estetica , tecnologia e prestazioni si incontrano."
+  },
+  {
+   "claim": "Sciuker Frames da 30 anni progetta e realizza finestre Made in Italy ad Avellino.",
+   "url": "https://sciuker.it/",
+   "quote": "Area PIP – Via Fratte, Contrada 83020 Avellino – Italy"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

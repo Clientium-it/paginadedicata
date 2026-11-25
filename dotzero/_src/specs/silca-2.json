@@ -1,0 +1,20 @@
+{
+ "slug": "silca-2",
+ "company": "Silca",
+ "full_name": "Francesca",
+ "cover_note": "Silca è specializzata in chiavi e macchine duplicatrici di chiavi ed è partner dell'industria automobilistica e dei produttori di serrature.",
+ "idea": "Su chiavi e macchine duplicatrici possiamo realizzare video di prodotto e tutorial con motion design, utili ai partner e ai produttori.",
+ "evidence": [
+  {
+   "claim": "Silca è specializzata in chiavi e macchine duplicatrici di chiavi ed è partner dell'industria automobilistica e dei produttori di serrature.",
+   "url": "https://www.silca.it/",
+   "quote": "Specialisti in chiavi e macchine duplicatrici di chiavi"
+  },
+  {
+   "claim": "Silca è specializzata in chiavi e macchine duplicatrici di chiavi ed è partner dell'industria automobilistica e dei produttori di serrature.",
+   "url": "https://www.silca.it/",
+   "quote": "Partner dell'Industria Automobilistica e dei Produttori di Serrature"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

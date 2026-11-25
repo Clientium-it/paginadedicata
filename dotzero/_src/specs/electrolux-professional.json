@@ -1,0 +1,25 @@
+{
+ "slug": "electrolux-professional",
+ "company": "Electrolux Professional",
+ "full_name": "Francesca",
+ "cover_note": "Electrolux Professional vende le sue soluzioni in 110 paesi per ristoranti, hotel, bar e caffè, pasticcerie e panifici, grazie a 4.000 dipendenti.",
+ "idea": "Per ristoranti, hotel e panifici possiamo realizzare video delle vostre soluzioni in uso, con versioni brevi e sottotitoli per ogni paese.",
+ "evidence": [
+  {
+   "claim": "Electrolux Professional vende le sue soluzioni in 110 paesi per ristoranti, hotel, bar e caffè, pasticcerie e panifici, grazie a 4.000 dipendenti.",
+   "url": "https://www.electroluxprofessional.com/about-us/",
+   "quote": "Our solutions are sold in 110 countries, with a group sale of 10 billion SEK"
+  },
+  {
+   "claim": "Electrolux Professional vende le sue soluzioni in 110 paesi per ristoranti, hotel, bar e caffè, pasticcerie e panifici, grazie a 4.000 dipendenti.",
+   "url": "https://www.electroluxprofessional.com/about-us/",
+   "quote": "thanks to 4,000 dedicated employees and a clear culture, driven by four guiding principles"
+  },
+  {
+   "claim": "Electrolux Professional vende le sue soluzioni in 110 paesi per ristoranti, hotel, bar e caffè, pasticcerie e panifici, grazie a 4.000 dipendenti.",
+   "url": "https://www.electroluxprofessional.com/about-us/",
+   "quote": "Restaurants Solutions for restaurants Restaurant chains Hotels Bars and Cafés Pastry and Bakery Education, Leisure & Sports"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

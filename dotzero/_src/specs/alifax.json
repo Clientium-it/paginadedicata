@@ -1,0 +1,20 @@
+{
+ "slug": "alifax",
+ "company": "Alifax",
+ "full_name": "Chiara",
+ "cover_note": "Alifax sviluppa strumenti diagnostici per migliorare la cura dei pazienti in oltre 130 Paesi con sedi in Italia, Germania, Spagna, Brasile e Russia.",
+ "idea": "Per strumenti diagnostici come i vostri possiamo realizzare video di prodotto e motion design che spiegano la tecnologia, con sottotitoli per ogni paese.",
+ "evidence": [
+  {
+   "claim": "Alifax sviluppa strumenti diagnostici per migliorare la cura dei pazienti in oltre 130 Paesi con sedi in Italia, Germania, Spagna, Brasile e Russia.",
+   "url": "https://www.alifax.com/",
+   "quote": "Alifax develops innovative diagnostic instruments to support better patient care in more than 130 countries."
+  },
+  {
+   "claim": "Alifax sviluppa strumenti diagnostici per migliorare la cura dei pazienti in oltre 130 Paesi con sedi in Italia, Germania, Spagna, Brasile e Russia.",
+   "url": "https://www.alifax.com/",
+   "quote": "Alifax S.r.l. | Italy » Alifax Deutschland GmbH | Germany » Alifax S.L. | Spain » Alifax Brasil | Brasil » OOO Alifax | Russia »"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

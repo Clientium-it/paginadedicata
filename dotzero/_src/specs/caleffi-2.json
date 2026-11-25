@@ -1,0 +1,20 @@
+{
+ "slug": "caleffi-2",
+ "company": "Caleffi",
+ "full_name": "Annalisa",
+ "cover_note": "Caleffi sviluppa soluzioni HVAC e idrauliche per il comfort domestico ed è la holding di un gruppo internazionale con 17 società controllate e 3 collegate.",
+ "idea": "Su soluzioni HVAC e idrauliche possiamo realizzare video di prodotto e motion design per spiegare il funzionamento, con versioni per ogni società del gruppo.",
+ "evidence": [
+  {
+   "claim": "Caleffi sviluppa soluzioni HVAC e idrauliche per il comfort domestico ed è la holding di un gruppo internazionale con 17 società controllate e 3 collegate.",
+   "url": "https://www.caleffi.com/en-us/company",
+   "quote": "We build more sustainable futures with high-quality HVAC and Plumbing solutions that redesign home comfort."
+  },
+  {
+   "claim": "Caleffi sviluppa soluzioni HVAC e idrauliche per il comfort domestico ed è la holding di un gruppo internazionale con 17 società controllate e 3 collegate.",
+   "url": "https://www.caleffi.com/en-us/company",
+   "quote": "Caleffi is the industrial holding of an international group of 17 subsidiary companies and 3 affiliated companies."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

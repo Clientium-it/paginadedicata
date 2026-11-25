@@ -1,0 +1,20 @@
+{
+ "slug": "parco-augusto",
+ "company": "Parco Augusto",
+ "full_name": "Monique",
+ "cover_note": "Parco Augusto racchiude nel suo parco secolare il Grand Hotel e le Terme Fonte di Venere con piscina interna.",
+ "idea": "Tra il parco, il Grand Hotel e le terme possiamo realizzare video della struttura e contenuti brevi per i vostri canali.",
+ "evidence": [
+  {
+   "claim": "Parco Augusto racchiude nel suo parco secolare il Grand Hotel e le Terme Fonte di Venere con piscina interna.",
+   "url": "https://parcoaugusto.com/",
+   "quote": "All’interno del suo Parco secolare, il Grand Hotel racchiude anche le Terme Fonte di Venere, tra le più grandi e moderni d’Italia con piscina interna"
+  },
+  {
+   "claim": "Parco Augusto racchiude nel suo parco secolare il Grand Hotel e le Terme Fonte di Venere con piscina interna.",
+   "url": "https://parcoaugusto.com/",
+   "quote": "Corporate Parco Augusto Grand Hotel Terme **** Capo Peloro Hotel **** La Sciara Hotel **** Europa Palace Hotel **** Le Dune Beach Club ****"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}

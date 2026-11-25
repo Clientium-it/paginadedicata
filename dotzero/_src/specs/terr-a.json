@@ -1,0 +1,25 @@
+{
+ "slug": "terr-a",
+ "company": "Terr.A",
+ "full_name": "Elisa",
+ "cover_note": "Terr.A, nata nel 1982, gestisce progetti di animazione sociale, educativi, formativi e terapeutici a Padova e provincia e nel territorio del Veneto.",
+ "idea": "Sui progetti sociali ed educativi possiamo realizzare video che raccontano il lavoro con le persone, con interviste e sottotitoli.",
+ "evidence": [
+  {
+   "claim": "Terr.A, nata nel 1982, gestisce progetti di animazione sociale, educativi, formativi e terapeutici a Padova e provincia e nel territorio del Veneto.",
+   "url": "https://www.coopterra.it/",
+   "quote": "Nata nel 1982 , qualificata come cooperativa sociale di tipo “A” nel 1992 , gestisce vari progetti di animazione sociale, informativi, educativi, formativi e terapeutici a Padova e provincia e nel territorio del Veneto"
+  },
+  {
+   "claim": "Terr.A, nata nel 1982, gestisce progetti di animazione sociale, educativi, formativi e terapeutici a Padova e provincia e nel territorio del Veneto.",
+   "url": "https://www.coopterra.it/",
+   "quote": "gestisce vari progetti di animazione sociale, informativi, educativi, formativi e terapeutici a Padova e provincia e nel territorio del Veneto"
+  },
+  {
+   "claim": "Terr.A, nata nel 1982, gestisce progetti di animazione sociale, educativi, formativi e terapeutici a Padova e provincia e nel territorio del Veneto.",
+   "url": "https://www.coopterra.it/",
+   "quote": "ampliando l'offerta di servizi in collaborazione con vari committenti (numerosi Comuni, AULSS, Università ed altri enti della Provincia di Padova e della Regione del Veneto, senza contare le singole famiglie)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (dotzero_refill_b1)"
+}
