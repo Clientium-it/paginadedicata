@@ -1,0 +1,19 @@
+{
+ "slug": "bahaus-srl",
+ "company": "Bahaus",
+ "full_name": "Francesco Sbalchiero",
+ "first": "Francesco",
+ "linkedin": "https://www.linkedin.com/in/francesco-sbalchiero-7994251b9",
+ "cover_note": "Bahaus costruisce in legno con sede a Cornedo Vicentino e fa della personalizzazione il proprio tratto.",
+ "evidence": [
+  {
+   "url": "https://bahaus.it/",
+   "quote": "Non esiste un sistema costruttivo, un impianto, o una finitura standard: è nel DNA di Bahaus la personalizzazione, la ricerca della miglior soluzione nel rispetto del legno"
+  },
+  {
+   "url": "https://bahaus.it/",
+   "quote": "Sede Via Monte Cengio 67A Cornedo V.no 36073 (VI)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}
