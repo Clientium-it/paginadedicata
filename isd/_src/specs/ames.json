@@ -1,0 +1,22 @@
+{
+ "slug": "ames",
+ "company": "AMES",
+ "full_name": "Massimo De",
+ "first": "Massimo",
+ "cover_note": "AMES gestisce 14 farmacie nel Comune di Venezia più una a Salzano e oggi conta più di 330 dipendenti.",
+ "evidence": [
+  {
+   "claim": "AMES gestisce 14 farmacie nel Comune di Venezia più una a Salzano e oggi conta più di 330 dipendenti.",
+   "url": "https://www.amesvenezia.it/node/128",
+   "quote": "gestisce 14 farmacie distribuite su tutto il territorio del Comune di Venezia più una farmacia nel Comune di Salzano"
+  },
+  {
+   "claim": "AMES gestisce 14 farmacie nel Comune di Venezia più una a Salzano e oggi conta più di 330 dipendenti.",
+   "url": "https://www.amesvenezia.it/node/128",
+   "quote": "passando dai circa 80 dipendenti a più dei 330 di oggi"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/ames/logo.png"
+}

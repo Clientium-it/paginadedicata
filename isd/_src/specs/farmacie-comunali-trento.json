@@ -1,0 +1,17 @@
+{
+ "slug": "farmacie-comunali-trento",
+ "company": "Farmacie Comunali Trento",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Farmacie Comunali Trento ha 20 farmacie, 10 in città e 10 in comuni come Riva del Garda e Rabbi, più un dispensario a Nogaredo.",
+ "evidence": [
+  {
+   "claim": "Farmacie Comunali Trento ha 20 farmacie, 10 in città e 10 in comuni come Riva del Garda e Rabbi, più un dispensario a Nogaredo.",
+   "url": "https://www.farcomtrento.com/chi-siamo/",
+   "quote": "20 farmacie di cui 10 nel Comune di Trento e le altre 10 nei Comuni di Lavis, Pergine Valsugana, Riva del Garda, Arco, Dro, Tenno, Volano, Pomarolo, Besenello, Rabbi e 1 dispensario farmaceutico a Nogaredo."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/farmacie-comunali-trento/logo.png"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "forlifarma",
+ "company": "Forlifarma",
+ "full_name": "Forlifarma Cangini",
+ "first": "Forlifarma",
+ "cover_note": "Forlifarma gestisce 9 farmacie nei comuni di Forlì e Forlimpopoli ed è nata nel 2003 dalle farmacie comunali della città.",
+ "evidence": [
+  {
+   "claim": "Forlifarma gestisce 9 farmacie nei comuni di Forlì e Forlimpopoli ed è nata nel 2003 dalle farmacie comunali della città.",
+   "url": "https://www.forlifarma.it/news/forlifarma-chi-siamo/",
+   "quote": "Attualmente gestisce 9 farmacie distribuite nei comuni di Forlì e Forlimpopoli."
+  },
+  {
+   "claim": "Forlifarma gestisce 9 farmacie nei comuni di Forlì e Forlimpopoli ed è nata nel 2003 dalle farmacie comunali della città.",
+   "url": "https://www.forlifarma.it/news/forlifarma-chi-siamo/",
+   "quote": "La società Forlifarma SPA è nata il 1 gennaio 2003 dalla trasformazione dell'Azienda Speciale Farmaceutica di Forlì, che gestiva le farmacie comunali della città fin dal 1962."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/forlifarma/logo.png"
+}

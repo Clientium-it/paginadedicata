@@ -1,0 +1,22 @@
+{
+ "slug": "renord",
+ "company": "Renord",
+ "full_name": "Patrizia Bolciaghi",
+ "first": "Patrizia",
+ "cover_note": "Renord, nata nel 1970 come concessionaria Renault, ha showroom a Sesto San Giovanni, Milano, Monza, Piacenza, Stradella e Voghera.",
+ "evidence": [
+  {
+   "claim": "Renord, nata nel 1970 come concessionaria Renault, ha showroom a Sesto San Giovanni, Milano, Monza, Piacenza, Stradella e Voghera.",
+   "url": "https://www.renord.com/",
+   "quote": "Gli showroom Renord si trovano a Sesto San Giovanni, sede anche degli headquarter aziendali, a Milano, Inzago, Baranzate, Monza, Piacenza, Castel San Giovanni e, in provincia di Pavia, a San Martino Siccomario, Stradella e Voghera."
+  },
+  {
+   "claim": "Renord, nata nel 1970 come concessionaria Renault, ha showroom a Sesto San Giovanni, Milano, Monza, Piacenza, Stradella e Voghera.",
+   "url": "https://www.renord.com/",
+   "quote": "Renord è nata come concessionaria milanese Renault nel 1970"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/renord/logo.png"
+}

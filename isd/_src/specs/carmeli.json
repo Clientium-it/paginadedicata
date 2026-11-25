@@ -1,0 +1,22 @@
+{
+ "slug": "carmeli",
+ "company": "Carmeli",
+ "full_name": "Mirko Caffi",
+ "first": "Mirko",
+ "cover_note": "Carmeli ha 9 sedi tra Brescia, Bergamo e Cremona ed è concessionaria e service ufficiale di Renault, Dacia, Nissan e altri marchi.",
+ "evidence": [
+  {
+   "claim": "Carmeli ha 9 sedi tra Brescia, Bergamo e Cremona ed è concessionaria e service ufficiale di Renault, Dacia, Nissan e altri marchi.",
+   "url": "https://www.gruppocarmeli.com/gruppo-carmeli-brescia-bergamo/",
+   "quote": "50 anni di storia e 9 sedi autorevoli tra Brescia, Bergamo e Cremona, diventando così la concessionaria di fiducia di migliaia di automobilisti"
+  },
+  {
+   "claim": "Carmeli ha 9 sedi tra Brescia, Bergamo e Cremona ed è concessionaria e service ufficiale di Renault, Dacia, Nissan e altri marchi.",
+   "url": "https://www.gruppocarmeli.com/gruppo-carmeli-brescia-bergamo/",
+   "quote": "Concessionaria e service ufficiale dei marchi Renault, Dacia, Nissan, DR, SPORTEQUIPE e ICH-X."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/carmeli/logo.svg"
+}

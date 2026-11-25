@@ -1,0 +1,22 @@
+{
+ "slug": "vetrocar",
+ "company": "VetroCar",
+ "full_name": "Giorgia Lovato",
+ "first": "Giorgia",
+ "cover_note": "VetroCar ha previsto 12 nuove aperture nei primi quattro mesi del 2025 e altre in arrivo tra Aosta, Como, Parma, Padova e Milano.",
+ "evidence": [
+  {
+   "claim": "VetroCar ha previsto 12 nuove aperture nei primi quattro mesi del 2025 e altre in arrivo tra Aosta, Como, Parma, Padova e Milano.",
+   "url": "https://www.vetrocar.it/riparazione-e-sostituzione-vetri-auto-vetrocar-segna-un-importante-passo-avanti-nello-sviluppo-territoriale/",
+   "quote": "annuncia per il 2025 un intenso piano di espansione volto a rafforzare la presenza sul territorio nazionale delle filiali corporate (centri di proprietà). Nei primi quattro mesi dell'anno sono previste 12 nuove aperture tutte localizzate in aree strategiche"
+  },
+  {
+   "claim": "VetroCar ha previsto 12 nuove aperture nei primi quattro mesi del 2025 e altre in arrivo tra Aosta, Como, Parma, Padova e Milano.",
+   "url": "https://www.vetrocar.it/riparazione-e-sostituzione-vetri-auto-vetrocar-segna-un-importante-passo-avanti-nello-sviluppo-territoriale/",
+   "quote": "Le ulteriori aperture che seguiranno saranno localizzate in zone con intenso traffico veicolare nevralgiche per il business come VetroCar Pero, VetroCar Aosta, VetroCar Como, VetroCar Saronno, VetroCar Parma, VetroCar Fidenza, VetroCar Padova, VetroCar Milano e VetroCar Varese."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/vetrocar/logo.svg"
+}

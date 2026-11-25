@@ -1,0 +1,21 @@
+{
+ "slug": "ciro-amodio",
+ "company": "Ciro Amodio",
+ "full_name": "Cristian Gambardella",
+ "first": "Cristian",
+ "cover_note": "Ciro Amodio ha oltre 60 punti vendita in Campania, botteghe di vicinato di concezione moderna.",
+ "evidence": [
+  {
+   "claim": "Ciro Amodio ha oltre 60 punti vendita in Campania, botteghe di vicinato di concezione moderna.",
+   "url": "https://www.ciroamodio.it/punti-vendita/",
+   "quote": "vanta oltre 60 punti vendita in Campania"
+  },
+  {
+   "claim": "Ciro Amodio ha oltre 60 punti vendita in Campania, botteghe di vicinato di concezione moderna.",
+   "url": "https://www.ciroamodio.it/punti-vendita/",
+   "quote": "botteghe di vicinato puro di concezione moderna"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B"
+}

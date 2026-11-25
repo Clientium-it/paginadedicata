@@ -1,0 +1,22 @@
+{
+ "slug": "sandonauto",
+ "company": "Sandonauto",
+ "full_name": "Enrico Cattai",
+ "first": "Enrico",
+ "cover_note": "Sandonauto ha 4 sedi operative, oltre 100 dipendenti e lavora 10.000 veicoli all'anno dal 1978.",
+ "evidence": [
+  {
+   "claim": "Sandonauto ha 4 sedi operative, oltre 100 dipendenti e lavora 10.000 veicoli all'anno dal 1978.",
+   "url": "https://www.sandonauto.it/chi-siamo-officina-camion-autobus-veneto/",
+   "quote": "100+ Dipendenti 4 Sedi operative sul territorio 10.000 Veicoli lavorati all'anno"
+  },
+  {
+   "claim": "Sandonauto ha 4 sedi operative, oltre 100 dipendenti e lavora 10.000 veicoli all'anno dal 1978.",
+   "url": "https://www.sandonauto.it/chi-siamo-officina-camion-autobus-veneto/",
+   "quote": "In movimento lungo la strada dell'eccellenza, dal 1978."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/sandonauto/logo.svg"
+}

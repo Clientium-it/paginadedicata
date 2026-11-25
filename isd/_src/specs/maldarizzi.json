@@ -1,0 +1,21 @@
+{
+ "slug": "maldarizzi",
+ "company": "Maldarizzi",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Maldarizzi opera dal 1979 tra Puglia e Basilicata e rappresenta marchi come Mercedes, Lamborghini, Aston Martin, Jeep e Skoda.",
+ "evidence": [
+  {
+   "claim": "Maldarizzi opera dal 1979 tra Puglia e Basilicata e rappresenta marchi come Mercedes, Lamborghini, Aston Martin, Jeep e Skoda.",
+   "url": "https://www.maldarizzi.com/chi-siamo/",
+   "quote": "Dal 1979 siamo una delle realtà di riferimento del mercato automotive italiano, con sede in Puglia e Basilicata."
+  },
+  {
+   "claim": "Maldarizzi opera dal 1979 tra Puglia e Basilicata e rappresenta marchi come Mercedes, Lamborghini, Aston Martin, Jeep e Skoda.",
+   "url": "https://www.maldarizzi.com/chi-siamo/",
+   "quote": "Rappresentiamo i brand più iconici: Aston Martin, Lamborghini, Mercedes-Benz, Fiat, Jeep, Alfa Romeo, Abarth, Lancia, MG Motor, Skoda, smart e le novità Dongfeng, Ineos, Leapmotor e Geely."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B"
+}

@@ -1,0 +1,21 @@
+{
+ "slug": "autotorino",
+ "company": "Autotorino",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Autotorino ha 74 sedi e 23 marchi tra Lombardia, Piemonte, Emilia Romagna, Veneto, Friuli Venezia Giulia e Lazio.",
+ "evidence": [
+  {
+   "claim": "Autotorino ha 74 sedi e 23 marchi tra Lombardia, Piemonte, Emilia Romagna, Veneto, Friuli Venezia Giulia e Lazio.",
+   "url": "https://www.autotorino.it/gruppo-autotorino",
+   "quote": "Con le nostre 74 sedi diamo libertà ad ogni desiderio"
+  },
+  {
+   "claim": "Autotorino ha 74 sedi e 23 marchi tra Lombardia, Piemonte, Emilia Romagna, Veneto, Friuli Venezia Giulia e Lazio.",
+   "url": "https://www.autotorino.it/gruppo-autotorino",
+   "quote": "Rappresentiamo 23 marchi automobilistici di primissimo piano in numerose province nelle regioni di Lombardia, Piemonte, Emilia-Romagna, Veneto, Friuli-Venezia Giulia e Lazio, offrendo una rete di vendita ed assistenza ufficiale e specializzata."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B"
+}

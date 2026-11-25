@@ -1,0 +1,22 @@
+{
+ "slug": "barchetti",
+ "company": "Barchetti",
+ "full_name": "Giuseppe Bruno",
+ "first": "Giuseppe",
+ "cover_note": "Barchetti ha oltre 40 sedi e 17 brand tra Bolzano, Trento, Verona, Vicenza, Brescia, Mantova, Merano, Bressanone, Brunico, Schio e Padova.",
+ "evidence": [
+  {
+   "claim": "Barchetti ha oltre 40 sedi e 17 brand tra Bolzano, Trento, Verona, Vicenza, Brescia, Mantova, Merano, Bressanone, Brunico, Schio e Padova.",
+   "url": "https://www.barchetti.it/sedi/",
+   "quote": "Siamo presenti con 17 brand e oltre 40 sedi a Bolzano, Trento, Verona, Vicenza, Brescia, Mantova, Merano, Bressanone, Brunico, Schio e Padova."
+  },
+  {
+   "claim": "Barchetti ha oltre 40 sedi e 17 brand tra Bolzano, Trento, Verona, Vicenza, Brescia, Mantova, Merano, Bressanone, Brunico, Schio e Padova.",
+   "url": "https://www.barchetti.it/sedi/",
+   "quote": "Dal 1924 offriamo ai nostri clienti con passione e professionalità servizi e soluzioni di mobilità personalizzati"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/barchetti/logo.png"
+}

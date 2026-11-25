@@ -1,0 +1,22 @@
+{
+ "slug": "clerici-auto",
+ "company": "Clerici Auto",
+ "full_name": "Stefano Falbo",
+ "first": "Stefano",
+ "cover_note": "Clerici Auto ha 8 concessionarie multimarca e 11 officine tra le province di Como e Varese e il comune di Milano.",
+ "evidence": [
+  {
+   "claim": "Clerici Auto ha 8 concessionarie multimarca e 11 officine tra le province di Como e Varese e il comune di Milano.",
+   "url": "https://www.clericiauto.it/chi-siamo/",
+   "quote": "con 8 concessionarie multimarca e 11 officine specializzate distribuite nelle provincie di Como e Varese e nel comune di Milano"
+  },
+  {
+   "claim": "Clerici Auto ha 8 concessionarie multimarca e 11 officine tra le province di Como e Varese e il comune di Milano.",
+   "url": "https://www.clericiauto.it/chi-siamo/",
+   "quote": "Da più di quarant'anni e due generazioni, la famiglia Clerici vive la passione per l'auto."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/clerici-auto/logo.png"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "fimauto",
+ "company": "Fimauto",
+ "full_name": "Flora Bonafini",
+ "first": "Flora",
+ "cover_note": "Fimauto da più di 40 anni è punto di riferimento per il marchio Bavarese nelle province di Verona e Vicenza.",
+ "evidence": [
+  {
+   "claim": "Fimauto da più di 40 anni è punto di riferimento per il marchio Bavarese nelle province di Verona e Vicenza.",
+   "url": "https://www.fimautogemelli.it/",
+   "quote": "Da più di 40 anni punto di riferimento per gli estimatori del marchio Bavarese, per le province di Verona e Vicenza"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/fimauto/logo.png"
+}

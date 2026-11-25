@@ -1,0 +1,22 @@
+{
+ "slug": "maresca-e-fiorentino",
+ "company": "Maresca e Fiorentino",
+ "full_name": "Daniele Barbieri",
+ "first": "Daniele",
+ "cover_note": "Maresca e Fiorentino è concessionaria esclusiva IVECO BUS per Emilia Romagna, Marche, Toscana, Umbria e San Marino con oltre 100 dipendenti.",
+ "evidence": [
+  {
+   "claim": "Maresca e Fiorentino è concessionaria esclusiva IVECO BUS per Emilia Romagna, Marche, Toscana, Umbria e San Marino con oltre 100 dipendenti.",
+   "url": "https://bus.marescafiorentino.com/chi-siamo/",
+   "quote": "Concessionaria esclusiva per Emilia Romagna, Marche, Toscana, Umbria e San Marino di autobus, minibus e scuolabus IVECO BUS"
+  },
+  {
+   "claim": "Maresca e Fiorentino è concessionaria esclusiva IVECO BUS per Emilia Romagna, Marche, Toscana, Umbria e San Marino con oltre 100 dipendenti.",
+   "url": "https://bus.marescafiorentino.com/chi-siamo/",
+   "quote": "Maresca e Fiorentino apre a Bologna nel 1957. La passione e l'impegno dei soci fondatori Pietro Maresca e Alberto Fiorentino hanno consentito una continua crescita, ed oggi possiamo orgogliosamente dire di aver soddisfatto più di 1.300.000 clienti, grazie ad una squadra di oltre 100 dipendenti."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/maresca-e-fiorentino/logo.png"
+}

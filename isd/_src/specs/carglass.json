@@ -1,0 +1,21 @@
+{
+ "slug": "carglass",
+ "company": "Carglass",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Carglass ha oltre 220 centri diretti e 56 partner affiliati in tutta Italia e serve 300.000 automobilisti ogni anno.",
+ "evidence": [
+  {
+   "claim": "Carglass ha oltre 220 centri diretti e 56 partner affiliati in tutta Italia e serve 300.000 automobilisti ogni anno.",
+   "url": "https://www.carglass.it/",
+   "quote": "un network di oltre 220 centri diretti e 56 partner affiliati operativo sul tutto il territorio nazionale"
+  },
+  {
+   "claim": "Carglass ha oltre 220 centri diretti e 56 partner affiliati in tutta Italia e serve 300.000 automobilisti ogni anno.",
+   "url": "https://www.carglass.it/",
+   "quote": "Serviamo 300.000 automobilisti ogni anno attraverso un network di oltre 220 centri diretti e 56 partner affiliati operativo sul tutto il territorio nazionale."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B"
+}

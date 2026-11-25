@@ -1,0 +1,17 @@
+{
+ "slug": "lombarda-motori",
+ "company": "Lombarda Motori",
+ "full_name": "Thomas Acerbi",
+ "first": "Thomas",
+ "cover_note": "Lombarda Motori ha 10 sedi e 350 dipendenti e rappresenta Audi, Volkswagen, SEAT e CUPRA.",
+ "evidence": [
+  {
+   "claim": "Lombarda Motori ha 10 sedi e 350 dipendenti e rappresenta Audi, Volkswagen, SEAT e CUPRA.",
+   "url": "https://www.lombardamotori.it/chi-siamo/",
+   "quote": "Ad oggi, Lombarda Motori conta 350 dipendenti e 10 sedi sul territorio, rappresentando i marchi Audi, Volkswagen, Volkswagen Veicoli Commerciali, SEAT e CUPRA."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/lombarda-motori/logo.webp"
+}

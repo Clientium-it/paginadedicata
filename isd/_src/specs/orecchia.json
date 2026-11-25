@@ -1,0 +1,17 @@
+{
+ "slug": "orecchia",
+ "company": "Orecchia",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Orecchia ha otto sedi in tutto il Nord Ovest e lavora come un'unica azienda con una rete di competenze.",
+ "evidence": [
+  {
+   "claim": "Orecchia ha otto sedi in tutto il Nord Ovest e lavora come un'unica azienda con una rete di competenze.",
+   "url": "https://www.iveco-orecchia.it/azienda/sedi/",
+   "quote": "Un'unica azienda, una rete di competenze, otto sedi in tutto il Nord Ovest."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/orecchia/logo.png"
+}

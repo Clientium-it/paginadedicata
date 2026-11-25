@@ -1,0 +1,22 @@
+{
+ "slug": "trivellato",
+ "company": "Trivellato",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Trivellato ha 14 sedi nel territorio e 400 dipendenti e nel 2022 ha festeggiato il centenario di storia.",
+ "evidence": [
+  {
+   "claim": "Trivellato ha 14 sedi nel territorio e 400 dipendenti e nel 2022 ha festeggiato il centenario di storia.",
+   "url": "https://www.trivellato.it/pagina/la-storia",
+   "quote": "14 sedi nel territorio, 400 dipendenti e un know how unico"
+  },
+  {
+   "claim": "Trivellato ha 14 sedi nel territorio e 400 dipendenti e nel 2022 ha festeggiato il centenario di storia.",
+   "url": "https://www.trivellato.it/pagina/la-storia",
+   "quote": "Nel 2022 il Gruppo Trivellato festeggia il centenario di storia e attività"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/trivellato/logo.svg"
+}

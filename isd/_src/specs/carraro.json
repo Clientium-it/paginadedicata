@@ -1,0 +1,22 @@
+{
+ "slug": "carraro",
+ "company": "Carraro",
+ "full_name": "Massimo Granzotto",
+ "first": "Massimo",
+ "cover_note": "Carraro ha 13 sedi tra Susegana, Treviso, Sedico, Mestre, Pordenone, Pradamano e Muggia come concessionaria ufficiale Mercedes Benz e Subaru.",
+ "evidence": [
+  {
+   "claim": "Carraro ha 13 sedi tra Susegana, Treviso, Sedico, Mestre, Pordenone, Pradamano e Muggia come concessionaria ufficiale Mercedes Benz e Subaru.",
+   "url": "https://www.gruppocarraro.it/",
+   "quote": "Vieni a trovarci in una delle nostre 13 sedi Carraro. Ci trovi a Susegana (TV), Nervesa della Battaglia (TV), Sedico (BL), Treviso, Castelfranco Veneto (TV), Mestre (VE), Santa Maria di Sala (VE), Pordenone (PN), Pradamano (UD) e Muggia (TS)."
+  },
+  {
+   "claim": "Carraro ha 13 sedi tra Susegana, Treviso, Sedico, Mestre, Pordenone, Pradamano e Muggia come concessionaria ufficiale Mercedes Benz e Subaru.",
+   "url": "https://www.gruppocarraro.it/",
+   "quote": "Concessionaria Ufficiale Mercedes-Benz, Smart, Subaru, Fuso, Unimog, Omoda&Jaecoo e Lepas"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/carraro/logo.svg"
+}

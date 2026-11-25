@@ -1,0 +1,21 @@
+{
+ "slug": "intesa-sanpaolo",
+ "company": "Intesa Sanpaolo",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Intesa Sanpaolo ha oltre 2.600 filiali in Italia e circa 14 milioni di clienti, e oltre 900 sportelli all'estero.",
+ "evidence": [
+  {
+   "claim": "Intesa Sanpaolo ha oltre 2.600 filiali in Italia e circa 14 milioni di clienti, e oltre 900 sportelli all'estero.",
+   "url": "https://group.intesasanpaolo.com/it/chi-siamo/profilo",
+   "quote": "Il Gruppo Intesa Sanpaolo è il maggiore gruppo bancario in Italia, con circa 14 milioni di clienti e oltre 2.600 filiali."
+  },
+  {
+   "claim": "Intesa Sanpaolo ha oltre 2.600 filiali in Italia e circa 14 milioni di clienti, e oltre 900 sportelli all'estero.",
+   "url": "https://group.intesasanpaolo.com/it/chi-siamo/profilo",
+   "quote": "Inoltre il Gruppo ha una presenza internazionale strategica, con oltre 900 sportelli e circa 7,5 milioni di clienti."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B"
+}

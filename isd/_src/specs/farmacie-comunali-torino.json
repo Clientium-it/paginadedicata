@@ -1,0 +1,17 @@
+{
+ "slug": "farmacie-comunali-torino",
+ "company": "Farmacie Comunali Torino",
+ "full_name": "Erminia Venturino",
+ "first": "Erminia",
+ "cover_note": "Farmacie Comunali Torino gestisce le 34 farmacie comunali torinesi più quelle di San Maurizio Canavese, Mappano, Chivasso e tre a Chieri.",
+ "evidence": [
+  {
+   "claim": "Farmacie Comunali Torino gestisce le 34 farmacie comunali torinesi più quelle di San Maurizio Canavese, Mappano, Chivasso e tre a Chieri.",
+   "url": "https://www.farmaciecomunalitorino.it/",
+   "quote": "Farmacie Comunali Torino S.p.A. gestisce le 34 farmacie comunali torinesi, la farmacia comunale di San Maurizio Canavese, la farmacia comunale di Mappano, la Farmacia Comunale di Chivasso e le tre farmacie comunali di Chieri"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/farmacie-comunali-torino/logo.png"
+}

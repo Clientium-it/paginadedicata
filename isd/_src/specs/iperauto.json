@@ -1,0 +1,22 @@
+{
+ "slug": "iperauto",
+ "company": "Iperauto",
+ "full_name": "Luca Scaramuzzi",
+ "first": "Luca",
+ "cover_note": "Iperauto è presente a Bergamo, Pavia, Como, Lecco, Monza Brianza, Sondrio e Piacenza ed è nata in Valtellina nel 1988.",
+ "evidence": [
+  {
+   "claim": "Iperauto è presente a Bergamo, Pavia, Como, Lecco, Monza Brianza, Sondrio e Piacenza ed è nata in Valtellina nel 1988.",
+   "url": "https://www.iperauto.it/chi-siamo",
+   "quote": "Concessionaria Iperauto Bergamo, Pavia, Como, Lecco, Monza Brianza, Sondrio, Piacenza dal 1988"
+  },
+  {
+   "claim": "Iperauto è presente a Bergamo, Pavia, Como, Lecco, Monza Brianza, Sondrio e Piacenza ed è nata in Valtellina nel 1988.",
+   "url": "https://www.iperauto.it/chi-siamo",
+   "quote": "Nato in Valtellina nel 1988, oggi Iperauto è diventato un gruppo automotive di riferimento in Lombardia, dove vanta una presenza capillare sul territorio, costruita attraverso una crescita solida e continua"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/iperauto/logo.svg"
+}

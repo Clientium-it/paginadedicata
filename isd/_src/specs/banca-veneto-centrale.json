@@ -1,0 +1,22 @@
+{
+ "slug": "banca-veneto-centrale",
+ "company": "Banca Veneto Centrale",
+ "full_name": "Claudio Bertollo",
+ "first": "Claudio",
+ "cover_note": "Banca Veneto Centrale ha 85 filiali e 597 collaboratori in 273 comuni tra Vicenza, Padova, Rovigo, Verona, Treviso e Ferrara.",
+ "evidence": [
+  {
+   "claim": "Banca Veneto Centrale ha 85 filiali e 597 collaboratori in 273 comuni tra Vicenza, Padova, Rovigo, Verona, Treviso e Ferrara.",
+   "url": "https://www.bvrbancavenetocentrale.it/chi-siamo/",
+   "quote": "n. 85 filiali 273 comuni di competenza n. 597 collaboratori n. 130.788 clienti n. 20.398 soci"
+  },
+  {
+   "claim": "Banca Veneto Centrale ha 85 filiali e 597 collaboratori in 273 comuni tra Vicenza, Padova, Rovigo, Verona, Treviso e Ferrara.",
+   "url": "https://www.bvrbancavenetocentrale.it/chi-siamo/",
+   "quote": "Siamo una banca di credito cooperativo che dal 1896 spazia fra le province Vicenza, Padova, Rovigo, Verona, Treviso e Ferrara"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/banca-veneto-centrale/logo.png"
+}

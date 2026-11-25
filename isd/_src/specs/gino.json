@@ -1,0 +1,22 @@
+{
+ "slug": "gino",
+ "company": "Gino",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Gino ha più di 15 sedi tra Piemonte, Liguria, Toscana e Lombardia ed è nata nel 1959 come prima concessionaria Mercedes del Cuneese.",
+ "evidence": [
+  {
+   "claim": "Gino ha più di 15 sedi tra Piemonte, Liguria, Toscana e Lombardia ed è nata nel 1959 come prima concessionaria Mercedes del Cuneese.",
+   "url": "https://www.ginospa.com/pagina/chi-siamo/",
+   "quote": "15+ SEDI in Piemonte, Liguria, Toscana e Lombardia."
+  },
+  {
+   "claim": "Gino ha più di 15 sedi tra Piemonte, Liguria, Toscana e Lombardia ed è nata nel 1959 come prima concessionaria Mercedes del Cuneese.",
+   "url": "https://www.ginospa.com/pagina/chi-siamo/",
+   "quote": "1959 - Nasce la Gino Rag. Felice & Figlio snc, prima concessionaria Mercedes-Benz della provincia di Cuneo."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/gino/logo.svg"
+}

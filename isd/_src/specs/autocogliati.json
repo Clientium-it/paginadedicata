@@ -1,0 +1,22 @@
+{
+ "slug": "autocogliati",
+ "company": "Autocogliati",
+ "full_name": "Lorenzo Cogliati",
+ "first": "Lorenzo",
+ "cover_note": "Autocogliati è concessionaria ufficiale Volkswagen e ŠKODA in provincia di Lecco e SEAT e CUPRA tra Lecco e Sondrio, con oltre 50 anni nel settore.",
+ "evidence": [
+  {
+   "claim": "Autocogliati è concessionaria ufficiale Volkswagen e ŠKODA in provincia di Lecco e SEAT e CUPRA tra Lecco e Sondrio, con oltre 50 anni nel settore.",
+   "url": "https://www.autocogliati.it/",
+   "quote": "Concessionaria ufficiale per i marchi Volkswagen, ŠKODA e Volkswagen Veicoli Commerciali nella provincia di Lecco; concessionaria ufficiale per SEAT e CUPRA sia nella provincia di Lecco che nella provincia di Sondrio"
+  },
+  {
+   "claim": "Autocogliati è concessionaria ufficiale Volkswagen e ŠKODA in provincia di Lecco e SEAT e CUPRA tra Lecco e Sondrio, con oltre 50 anni nel settore.",
+   "url": "https://www.autocogliati.it/",
+   "quote": "Oltre 50 anni di esperienza e passione nel settore automotive, è questo che definisce Autocogliati."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req_all.json)",
+ "case": "B",
+ "logo": "../assets/leads/autocogliati/logo.png"
+}
