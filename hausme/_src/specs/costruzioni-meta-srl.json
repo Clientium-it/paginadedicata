@@ -1,0 +1,19 @@
+{
+ "slug": "costruzioni-meta-srl",
+ "company": "Costruzioni Meta",
+ "full_name": "Matteo Tagliente",
+ "first": "Matteo",
+ "linkedin": "https://www.linkedin.com/in/matteo-tagliente-871b46112",
+ "cover_note": "Costruzioni Meta ha oltre 50 anni di esperienza nella progettazione, costruzione e vendita di immobili, con sede a San Giovanni Lupatoto.",
+ "evidence": [
+  {
+   "url": "https://costruzionimeta.it/",
+   "quote": "Costruzioni Meta nasce dall’esperienza, di oltre 50 anni, in attività nell’ambito della progettazione, costruzione e vendita di immobili."
+  },
+  {
+   "url": "https://costruzionimeta.it/",
+   "quote": "Via Monte Comun, 9 - 37057 San Giovanni Lupatoto (VR)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

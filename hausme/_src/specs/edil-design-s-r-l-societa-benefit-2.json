@@ -1,0 +1,19 @@
+{
+ "slug": "edil-design-s-r-l-societa-benefit-2",
+ "company": "Edil Design",
+ "full_name": "Adrian Jedynak",
+ "first": "Adrian",
+ "linkedin": "https://www.linkedin.com/in/adrian-jedynak-40105bb3",
+ "cover_note": "Edil Design si occupa di costruzione, ristrutturazione ed efficientamento energetico di appartamenti, ville, casolari e condomini con 15 anni di esperienza e 206 progetti completati.",
+ "evidence": [
+  {
+   "url": "https://edildesign.it/",
+   "quote": "La Edil Design si occupa di costruzione e ristrutturazione ed efficientamento energetico di appartamenti, ville, casolari, condomini."
+  },
+  {
+   "url": "https://edildesign.it/",
+   "quote": "15 Anni di esperienza 206 + Progetti completati"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "tetris-project-srl",
+ "company": "Tetris Project",
+ "full_name": "Gabriel Mitterrutzner",
+ "first": "Gabriel",
+ "linkedin": "https://www.linkedin.com/in/gabriel-mitterrutzner-tetrisproject-ceo",
+ "cover_note": "Tetris Project realizza ville sul lago di Garda a Torri del Benaco e Bardolino e residenze in Alto Adige a Partschins e Kastelbell.",
+ "evidence": [
+  {
+   "url": "https://www.tetris.bz.it/",
+   "quote": "Villa in Torri del Benaco | Gardasee Wohnbau Villa in Torri del Benaco | Gardasee Wohnbau Details Villa in Bardolino | Gardasee Wohnbau"
+  },
+  {
+   "url": "https://www.tetris.bz.it/",
+   "quote": "Residence Helena in Partschins | Südtirol Wohnbau Residence Helena in Partschins | Südtirol Wohnbau Details Einfamilienhaus in Kastelbell | Südtirol Wohnbau"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

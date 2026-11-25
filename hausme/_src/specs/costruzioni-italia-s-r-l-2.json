@@ -1,0 +1,19 @@
+{
+ "slug": "costruzioni-italia-s-r-l-2",
+ "company": "Costruzioni Italia",
+ "full_name": "Lorenzo Minozzi",
+ "first": "Lorenzo",
+ "linkedin": "https://www.linkedin.com/in/lorenzo-minozzi-930332151",
+ "cover_note": "Costruzioni Italia ha un portfolio di oltre 500 clienti e una stima lavori di oltre 50 milioni di euro, con sede a Marano sul Panaro.",
+ "evidence": [
+  {
+   "url": "https://www.costruzioniitalia.it/chi-siamo/",
+   "quote": "portfolio di oltre 500 clienti e una stima lavori di oltre 50 Milioni di euro"
+  },
+  {
+   "url": "https://www.costruzioniitalia.it/chi-siamo/",
+   "quote": "Via Gramsci 1293 – 41054 – Marano sul Panaro (MO)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "cires-societa-cooperativa",
+ "company": "Cires",
+ "full_name": "Paolo Fabbri",
+ "first": "Paolo",
+ "linkedin": "https://www.linkedin.com/in/paolo-fabbri-96741054",
+ "cover_note": "Cires si occupa di edilizia e restauro, con 49 anni di esperienza, 380 progetti realizzati e 384 aziende associate.",
+ "evidence": [
+  {
+   "url": "https://cires-bo.it/",
+   "quote": "380 Progetti realizzati 2600 Clienti soddisfatti 49 Anni di esperienza 384 Aziende associate"
+  },
+  {
+   "url": "https://cires-bo.it/",
+   "quote": "CIRES si occupa di EDILIZIA e RESTAURO, vale a dire la vera sfida della cittа del domani, il punto cruciale di una cultura che sta cambiando, che vede l'uomo come principio primo attorno al quale costruire le nuove regole dell'abitare"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

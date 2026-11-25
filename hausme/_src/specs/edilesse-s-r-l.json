@@ -1,0 +1,15 @@
+{
+ "slug": "edilesse-s-r-l",
+ "company": "Edilesse",
+ "full_name": "Emanuele Pedroni",
+ "first": "Emanuele",
+ "linkedin": "https://www.linkedin.com/in/emanuele-pedroni-2b583b234",
+ "cover_note": "Edilesse a Cavriago ha costruito un nuovo polo produttivo per la prefabbricazione in cemento armato, con uffici e magazzini edili.",
+ "evidence": [
+  {
+   "url": "https://www.edilesse.it/chi-siamo/storia/",
+   "quote": "A Corte Tegge di Cavriago (RE), su un’area di 20.000 mq, viene costruito il nuovo polo produttivo per la prefabbricazione in cemento armato, oltre agli uffici e ai magazzini edili."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

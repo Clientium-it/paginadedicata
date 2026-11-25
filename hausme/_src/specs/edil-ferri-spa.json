@@ -1,0 +1,15 @@
+{
+ "slug": "edil-ferri-spa",
+ "company": "Edil Ferri",
+ "full_name": "Ferri Giuseppe",
+ "first": "Ferri",
+ "linkedin": "https://www.linkedin.com/in/ferri-giuseppe-890592101",
+ "cover_note": "Edil Ferri si occupa di rinforzo strutturale e ristrutturazione edilizia di un immobile residenziale.",
+ "evidence": [
+  {
+   "url": "https://edilferrispa.it/opere/",
+   "quote": "Rinforzo strutturale e ristrutturazione edilizia di immobile ad uso residenziale"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

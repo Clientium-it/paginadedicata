@@ -1,0 +1,15 @@
+{
+ "slug": "fabbri-services-s-r-l",
+ "company": "Fabbri Services",
+ "full_name": "Matteo Fabbri",
+ "first": "Matteo",
+ "linkedin": "https://www.linkedin.com/in/matteo-fabbri-838551116",
+ "cover_note": "Fabbri Services lavora nel mondo della moda e del design, tra studi di progettazione, aeroporti, poli logistici, affreschi antichi, arredi e fiere di settore.",
+ "evidence": [
+  {
+   "url": "https://www.fabbriservices.it/services/",
+   "quote": "Fabbri have developed a strong reputation in the fashion and design industry for navigating the complex waters of Design Studios and Starchitects, Authorities, Landlords, Airports, Logistic Poles, ancient frescoes, furniture and trade fairs"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

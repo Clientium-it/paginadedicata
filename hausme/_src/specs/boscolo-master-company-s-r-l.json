@@ -1,0 +1,15 @@
+{
+ "slug": "boscolo-master-company-s-r-l",
+ "company": "Boscolo Master Company",
+ "full_name": "Renato Boscolo",
+ "first": "Renato",
+ "linkedin": "https://www.linkedin.com/in/renato-boscolo-96601212b",
+ "cover_note": "Boscolo Master Company dal 1991 lavora nel settore immobiliare, dalle piccole ristrutturazioni ai più importanti complessi residenziali.",
+ "evidence": [
+  {
+   "url": "https://www.boscolomastercompany.com/it/azienda/",
+   "quote": "Dalle piccole ristrutturazioni ai più importanti complessi residenziali, la nostra esperienza nel settore immobiliare prende avvio nel 1991"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

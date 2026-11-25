@@ -1,0 +1,19 @@
+{
+ "slug": "chiawe-costruzioni-srl",
+ "company": "Chiawe Costruzioni",
+ "full_name": "Stefano Sinigaglia",
+ "first": "Stefano",
+ "linkedin": "https://www.linkedin.com/in/stefano-sinigaglia-728696113",
+ "cover_note": "Chiawe Costruzioni sta ristrutturando la storica bottega dell'orefice in Palazzo Luna e che ha sede a Brendola in provincia di Vicenza.",
+ "evidence": [
+  {
+   "url": "https://www.chiawe.it/portfolio/palazzo-luna/",
+   "quote": "la storica “bottega dell’orefice” trova nuova vita in Palazzo Luna , un intervento di ristrutturazione completa che porterà a un edificio elegante e di prestigio"
+  },
+  {
+   "url": "https://www.chiawe.it/azienda/",
+   "quote": "Ci trovi a Brendola (VI) in Piazzetta Risorgive, 27."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

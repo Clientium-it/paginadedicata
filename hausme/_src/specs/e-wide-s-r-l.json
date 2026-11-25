@@ -1,0 +1,19 @@
+{
+ "slug": "e-wide-s-r-l",
+ "company": "E-Wide",
+ "full_name": "Andrea Papageorgiou",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-papageorgiou-05a40b188",
+ "cover_note": "E-Wide a Bologna lavora sui condomini con interventi di sismabonus e cappotto termico.",
+ "evidence": [
+  {
+   "url": "https://www.e-wide.it/progetti/",
+   "quote": "Condomini Boccaccio 10 Bonus - SismaBonus Scopri il progetto Condomini Signorelli 6 Bonus - Cappotto termico Scopri il progetto"
+  },
+  {
+   "url": "https://www.e-wide.it/progetti/",
+   "quote": "Via De’ Carracci, 69/2 40129 Bologna BO T. 051 0404015 P. IVA 3926161203"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

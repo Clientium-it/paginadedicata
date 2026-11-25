@@ -1,0 +1,15 @@
+{
+ "slug": "flecchia-srl",
+ "company": "Flecchia",
+ "full_name": "Luca Flecchia",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-flecchia-51994a78",
+ "cover_note": "Flecchia costruisce ville indipendenti e recupera con ristrutturazioni radicali casali e palazzi storici sia in conto proprio sia per committenti privati.",
+ "evidence": [
+  {
+   "url": "https://www.flecchia.it/la-storia/",
+   "quote": "ville indipendenti, recuperando con radicali ristrutturazioni casali e palazzi storici, sia in conto proprio che per committenti privati"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

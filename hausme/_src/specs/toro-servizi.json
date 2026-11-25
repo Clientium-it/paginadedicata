@@ -1,0 +1,15 @@
+{
+ "slug": "toro-servizi",
+ "company": "Toro Servizi",
+ "full_name": "Luigi Leto",
+ "first": "Luigi",
+ "linkedin": "https://www.linkedin.com/in/luigi-leto-638b651a8",
+ "cover_note": "Toro Servizi offre consulenze alle imprese che partecipano ad appalti pubblici e si occupa anche di progettazioni e ricerche di mercato.",
+ "evidence": [
+  {
+   "url": "https://gruppo-toro.it/toro-servizi/",
+   "quote": "si occupa di fornire consulenze alle imprese che intendono partecipare ad appalti pubblici, inoltre svolgiamo attività di: Progettazioni Ricerche di mercato"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

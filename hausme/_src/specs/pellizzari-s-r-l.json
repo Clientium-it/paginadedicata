@@ -1,0 +1,19 @@
+{
+ "slug": "pellizzari-s-r-l",
+ "company": "Pellizzari",
+ "full_name": "Micol Basso",
+ "first": "Micol",
+ "linkedin": "https://www.linkedin.com/in/micol-basso-a88011135",
+ "cover_note": "Pellizzari lavora da vent'anni e ha realizzato un nuovo capannone per acciaierie a Vicenza e l'ampliamento di un impianto di zincatura.",
+ "evidence": [
+  {
+   "url": "https://www.pellizzari-srl.it/",
+   "quote": "Da 20 anni trasformiamo le idee dei nostri clienti in progetti concreti e solide realtà"
+  },
+  {
+   "url": "https://www.pellizzari-srl.it/",
+   "quote": "Acciaierie Valbruna S.p.A. - Nuovo capannone sabbiatrice Vicenza Zincol Italia S.p.A. - Ampliamento impianto di zincatura Barbarano Vicentino (VI)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

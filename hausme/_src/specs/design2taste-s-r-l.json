@@ -1,0 +1,19 @@
+{
+ "slug": "design2taste-s-r-l",
+ "company": "Design2Taste",
+ "full_name": "Simone Baldan",
+ "first": "Simone",
+ "linkedin": "https://www.linkedin.com/in/simone-baldan-50651482",
+ "cover_note": "Design2Taste riunisce progettisti e ingegneri e coordina oltre 1000 professionisti in tutta Italia per trasformare spazi commerciali e residenziali.",
+ "evidence": [
+  {
+   "url": "https://design2taste.org/",
+   "quote": "un'organizzazione professionale di progettisti e ingegneri che trasforma spazi commerciali e residenziali in ambienti belli, funzionali e redditizi"
+  },
+  {
+   "url": "https://design2taste.org/",
+   "quote": "in tutta Italia con una rete di oltre 1.000 professionisti coordinati dalla sede centrale"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "gabetti-lab-s-p-a-2",
+ "company": "Gabetti Lab",
+ "full_name": "Gianfranco Timillero",
+ "first": "Gianfranco",
+ "linkedin": "https://www.linkedin.com/in/gianfranco-timillero-2659a542",
+ "cover_note": "Gabetti Lab mette insieme imprese e progettisti e che i suoi tecnici compongono team dedicati ai lavori di ristrutturazione.",
+ "evidence": [
+  {
+   "url": "https://gabettilab.it/gabetti-lab-imprese/",
+   "quote": "Gabetti Lab Imprese è utilizzato anche dai tecnici di Gabetti Lab Progettisti per comporre i team dedicati ai lavori di ristrutturazione"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

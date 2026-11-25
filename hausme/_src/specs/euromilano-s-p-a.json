@@ -1,0 +1,15 @@
+{
+ "slug": "euromilano-s-p-a",
+ "company": "Euromilano",
+ "full_name": "Eugenio Kannés",
+ "first": "Eugenio",
+ "linkedin": "https://www.linkedin.com/in/eugenio-kannés-64b3a496",
+ "cover_note": "Euromilano ha avviato il progetto UpTown, il più grande intervento residenziale mai realizzato a Milano e primo smart district della Città Metropolitana.",
+ "evidence": [
+  {
+   "url": "https://www.euromilano.net/profilo/",
+   "quote": "ha avviato il progetto UpTown , il più grande intervento a destinazione residenziale mai realizzato a Milano e primo smart district della Città Metropolitana"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

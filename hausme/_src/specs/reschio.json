@@ -1,0 +1,19 @@
+{
+ "slug": "reschio",
+ "company": "Reschio",
+ "full_name": "Catherine Micoli",
+ "first": "Catherine",
+ "linkedin": "https://www.linkedin.com/in/catherine-micoli-a714618",
+ "cover_note": "Reschio è una tenuta privata nelle colline umbre attorno a un castello millenario con fattorie restaurate e trasformate dalla famiglia Bolza.",
+ "evidence": [
+  {
+   "url": "https://www.reschio.com/",
+   "quote": "Reschio is a 3,700 acres private estate in the Umbrian hills, centred around a thousand-year-old castle and a collection of over 50 farmhouses, many of which have now been restored and transformed."
+  },
+  {
+   "url": "https://www.reschio.com/",
+   "quote": "it has been carefully revived over the past three decades by the Bolza family, architects, designers and custodians of the land"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

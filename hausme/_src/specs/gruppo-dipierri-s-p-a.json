@@ -1,0 +1,19 @@
+{
+ "slug": "gruppo-dipierri-s-p-a",
+ "company": "Gruppo Dipierri",
+ "full_name": "Gino Dipierri",
+ "first": "Gino",
+ "linkedin": "https://www.linkedin.com/in/gino-dipierri-00795a20",
+ "cover_note": "Gruppo Dipierri nasce nel 1992 a Bologna come impresa edile e oggi ha realizzato oltre 1.000 alloggi residenziali con una presenza anche a Milano.",
+ "evidence": [
+  {
+   "url": "https://dipierri.it/chi-siamo",
+   "quote": "Oggi siamo tra i principali operatori del mercato residenziale bolognese, con oltre 1.000 alloggi realizzati e una presenza consolidata anche a Milano."
+  },
+  {
+   "url": "https://dipierri.it/chi-siamo",
+   "quote": "Il Gruppo Dipierri nasce nel 1992 a Bologna come impresa edile e nel corso degli anni si è affermato come azienda leader nello sviluppo immobiliare residenziale della città."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

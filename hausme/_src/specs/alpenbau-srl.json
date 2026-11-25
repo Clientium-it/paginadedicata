@@ -1,0 +1,19 @@
+{
+ "slug": "alpenbau-srl",
+ "company": "Alpenbau",
+ "full_name": "Georg Niederkofler",
+ "first": "Georg",
+ "linkedin": "https://www.linkedin.com/in/georg-niederkofler-a07a2b46",
+ "cover_note": "Alpenbau da oltre quattro decenni accresce il proprio valore attraverso processi di apprendimento continui e condivisi.",
+ "evidence": [
+  {
+   "url": "https://www.alpenbau.com/",
+   "quote": "Seit mehr als vier Jahrzehnten steigern wir durch kontinuierliche und kollektive Lernprozesse den Wert der ALPENBAU GmbH."
+  },
+  {
+   "url": "https://www.alpenbau.com/",
+   "quote": "Handwerkerzone 4 I-39030 Terenten (BZ)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "coccia-srl-2",
+ "company": "Coccia",
+ "full_name": "Gianluca Coccia",
+ "first": "Gianluca",
+ "linkedin": "https://www.linkedin.com/in/gianluca-coccia-1a78bb184",
+ "cover_note": "Coccia si occupa di riqualificazione edilizia residenziale trasformando gli ambienti privati in spazi più moderni e confortevoli.",
+ "evidence": [
+  {
+   "url": "https://www.cocciasrl.it/aree-di-intervento",
+   "quote": "La riqualificazione edilizia residenziale trasforma gli ambienti privati in spazi più moderni e confortevoli"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

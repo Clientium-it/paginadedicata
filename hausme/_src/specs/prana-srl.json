@@ -1,0 +1,19 @@
+{
+ "slug": "prana-srl",
+ "company": "Prana",
+ "full_name": "Claudia Trentin",
+ "first": "Claudia",
+ "linkedin": "https://www.linkedin.com/in/claudia-trentin-1ab59b100",
+ "cover_note": "Prana è una realtà italiana fondata nel 2011 per sviluppare progetti nel campo dell'edilizia civile e industriale.",
+ "evidence": [
+  {
+   "url": "https://www.prana-europe.com/chi-siamo",
+   "quote": "Prana S.r.l. è una realtà italiana fondata nel 2011 con l'obiettivo di sviluppare progetti nel campo dell'edilizia civile e industriale"
+  },
+  {
+   "url": "https://www.prana-europe.com/chi-siamo",
+   "quote": "Strada Ruale sn 10090 San Giorgio Canavese (TO)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

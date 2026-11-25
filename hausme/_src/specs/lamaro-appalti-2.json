@@ -1,0 +1,19 @@
+{
+ "slug": "lamaro-appalti-2",
+ "company": "Lamaro Appalti",
+ "full_name": "Walter Iafrate",
+ "first": "Walter",
+ "linkedin": "https://www.linkedin.com/in/walter-iafrate-71431537",
+ "cover_note": "Lamaro Appalti nasce a Roma negli anni Venti nell'edilizia residenziale e si è poi estesa alle opere pubbliche come strade, autostrade, aeroporti e gallerie.",
+ "evidence": [
+  {
+   "url": "https://lamaroappalti.it/it/azienda/storia/",
+   "quote": "Lamaro Appalti nasce a Roma negli anni Venti dalla volontà di Antonio, Guglielmo e Vincenzo Lamaro. Attiva sin dall’inizio nel settore dell’edilizia residenziale, l’azienda si pone come primo obiettivo la diffusione del concetto di proprietà della casa."
+  },
+  {
+   "url": "https://lamaroappalti.it/it/azienda/storia/",
+   "quote": "esteso anche al settore delle opere pubbliche con la realizzazione di strade, autostrade, aeroporti e gallerie"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

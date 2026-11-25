@@ -1,0 +1,19 @@
+{
+ "slug": "edilrestauri-srl",
+ "company": "Edilrestauri",
+ "full_name": "Luca Passerini",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-passerini-457a5442",
+ "cover_note": "Edilrestauri ha eseguito più di 300 interventi di restauro su monumenti storici come il Pantheon e la Cappella degli Scrovegni con un ufficio tecnico interno.",
+ "evidence": [
+  {
+   "url": "https://edilrestaurisrl.it/",
+   "quote": "Edilrestauri Srl ha eseguito più di 300 interventi di restauro su edifici e monumenti di grande interesse storico e artistico quali il Pantheon, L'Arco della Pace e la Cappella degli Scrovegni"
+  },
+  {
+   "url": "https://www.edilrestaurisrl.it/chi-siamo/",
+   "quote": "Nella sede di Brendola (VI) l'attività di cantiere è coordinata dall'ufficio tecnico aziendale che comprende al suo interno restauratori di beni culturali, architetti conservatori e geometri di cantiere"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

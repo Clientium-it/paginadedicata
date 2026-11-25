@@ -1,0 +1,19 @@
+{
+ "slug": "zanutta-servizi-srl",
+ "company": "Zanutta",
+ "full_name": "Gilberto Sarti",
+ "first": "Gilberto",
+ "linkedin": "https://www.linkedin.com/in/gilberto-sarti-1a0b8388",
+ "cover_note": "Zanutta gestisce costruzione ristrutturazione e vendita di complessi residenziali case indipendenti ed edifici commerciali tra Friuli Venezia Giulia e Veneto orientale.",
+ "evidence": [
+  {
+   "url": "https://www.zanuttaspa.it/",
+   "quote": "Con il Gruppo Immobiliare Zanutta gestiamo la costruzione, ristrutturazione e vendita di complessi residenziali, case indipendenti ed edifici commerciali sul territorio del Friuli Venezia Giulia e del Veneto orientale."
+  },
+  {
+   "url": "https://www.zanuttaspa.it/",
+   "quote": "Sede legale Via Castions 5 33055 Muzzana del Turgnano – UD 0431 69003"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

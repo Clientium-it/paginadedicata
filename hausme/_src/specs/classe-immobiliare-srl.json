@@ -1,0 +1,19 @@
+{
+ "slug": "classe-immobiliare-srl",
+ "company": "Classe Immobiliare",
+ "full_name": "Alessandro Piccolo",
+ "first": "Alessandro",
+ "linkedin": "https://www.linkedin.com/in/alessandro-piccolo-0568496a",
+ "cover_note": "Classe Immobiliare dal 1992 realizza residenze in Classe A4 ad alta efficienza energetica con oltre 574 unità consegnate in più di 54 progetti.",
+ "evidence": [
+  {
+   "url": "https://classeimmobiliare.com/",
+   "quote": "Dal 1992 realizziamo residenze in Classe A4, gas-free, ad alta efficienza energetica. Oltre 574 unità abitative consegnate in 54+ progetti completati."
+  },
+  {
+   "url": "https://classeimmobiliare.com/",
+   "quote": "Opera in Emilia-Romagna e su tutto il territorio nazionale, con una presenza consolidata nelle province di Modena e Bologna."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

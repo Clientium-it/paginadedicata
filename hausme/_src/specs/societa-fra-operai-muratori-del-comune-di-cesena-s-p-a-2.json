@@ -1,0 +1,19 @@
+{
+ "slug": "societa-fra-operai-muratori-del-comune-di-cesena-s-p-a-2",
+ "company": "SOM",
+ "full_name": "Davide Fusi",
+ "first": "Davide",
+ "linkedin": "https://www.linkedin.com/in/davide-fusi-81b60423",
+ "cover_note": "SOM esegue dalle piccole ristrutturazioni alle grandi opere come ospedali, scuole e strutture sportive e che lavora anche nel restauro conservativo per committenti privati.",
+ "evidence": [
+  {
+   "url": "https://www.somcesena.it/realizzazioni/",
+   "quote": "esegue dalle piccole ristrutturazioni alle grandi opere come edifici industriali e commerciali, complessi adibiti a uffici, ospedali, strutture sportive, scuole, importanti interventi di edilizia residenziale"
+  },
+  {
+   "url": "https://www.somcesena.it/realizzazioni/",
+   "quote": "SOM ha maturato una significativa esperienza anche nel settore delle ristrutturazioni e del restauro conservativo, realizzando e portando a termine con successo prestigiosi progetti per committenti privati"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

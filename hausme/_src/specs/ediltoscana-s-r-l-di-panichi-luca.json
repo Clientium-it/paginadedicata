@@ -1,0 +1,19 @@
+{
+ "slug": "ediltoscana-s-r-l-di-panichi-luca",
+ "company": "Ediltoscana",
+ "full_name": "Luca Panichi",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-panichi-732353351",
+ "cover_note": "Ediltoscana è al servizio dell'edilizia toscana da più di 70 anni, da quando Paris Panichi la fondò nel 1954.",
+ "evidence": [
+  {
+   "url": "https://www.ediltoscana.net/chi-siamo/",
+   "quote": "Da più di 70 anni, al servizio dell'edilizia toscana"
+  },
+  {
+   "url": "https://www.ediltoscana.net/chi-siamo/",
+   "quote": "Tutto ha avuto inizio nel 1954, quando Paris Panichi ha fondato Ediltoscana"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "rasom-wood-technology-s-r-l",
+ "company": "Rasom Wood Technology",
+ "full_name": "Florian Paolo",
+ "first": "Florian",
+ "linkedin": "https://www.linkedin.com/in/florian-paolo-784583105",
+ "cover_note": "Rasom Wood Technology ha costruito oltre 1000 edifici in 30 anni di attività tra case in legno, ville prefabbricate, scuole, capannoni industriali e centri benessere.",
+ "evidence": [
+  {
+   "url": "https://rasom.it/",
+   "quote": "abbiamo costruito oltre 1000 edifici in ben 30 anni di attività"
+  },
+  {
+   "url": "https://rasom.it/",
+   "quote": "case ecologiche in legno o ville prefabbricate, edifici pubblici e scuole, capannoni industriali e centri benessere"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

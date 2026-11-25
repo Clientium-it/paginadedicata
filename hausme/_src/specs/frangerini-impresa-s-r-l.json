@@ -1,0 +1,19 @@
+{
+ "slug": "frangerini-impresa-s-r-l",
+ "company": "Frangerini",
+ "full_name": "Neri Nicolosi",
+ "first": "Neri",
+ "linkedin": "https://www.linkedin.com/in/neri-nicolosi-b1b8555a",
+ "cover_note": "Frangerini opera come general contractor tra costruzioni ed energie rinnovabili e ha installato un impianto fotovoltaico su un deposito a Livorno.",
+ "evidence": [
+  {
+   "url": "https://www.frangerini.it/la-nostra-storia/",
+   "quote": "il più grande impianto fotovoltaico da 8oo Kw installato sulla copertura di un deposito di prodotti forestali a Livorno"
+  },
+  {
+   "url": "https://www.frangerini.it/",
+   "quote": "operando oggi come General Contractor in una pluralità di specializzazioni sia nel mondo delle costruzioni sia in quello delle energie rinnovabili"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

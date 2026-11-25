@@ -1,0 +1,19 @@
+{
+ "slug": "c-g-r-costruzioni-s-r-l",
+ "company": "CGR Costruzioni",
+ "full_name": "Christian Patelli",
+ "first": "Christian",
+ "linkedin": "https://www.linkedin.com/in/christian-patelli-ba8a6b53",
+ "cover_note": "CGR Costruzioni accompagna il cliente dalla scelta dell'immobile fino alla casa arredata con un'esperienza arrivata alla terza generazione.",
+ "evidence": [
+  {
+   "url": "https://cgrcostruzioni.it/servizi.html",
+   "quote": "affiancamento per la scelta dell'immobile e finisce con la tua casa arredata"
+  },
+  {
+   "url": "https://cgrcostruzioni.it/servizi.html",
+   "quote": "esperienza ormai alla terza generazione"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

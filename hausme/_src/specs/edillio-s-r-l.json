@@ -1,0 +1,19 @@
+{
+ "slug": "edillio-s-r-l",
+ "company": "Edillio",
+ "full_name": "Diego Zanotti",
+ "first": "Diego",
+ "linkedin": "https://www.linkedin.com/in/diego-zanotti-8934012b3",
+ "cover_note": "Edillio a Spirano, in provincia di Bergamo, costruisce complessi residenziali come quello di quattro appartamenti e attico in via Boglio.",
+ "evidence": [
+  {
+   "url": "https://edillio.it/",
+   "quote": "Costruzione di un complesso residenziale composto da quattro appartamenti e attico, in via Boglio a Spirano (Bergamo)...."
+  },
+  {
+   "url": "https://edillio.it/",
+   "quote": "Edillio S.r.l. SEDE LEGALE E OPERATIVA: Viale del Lavoro, 17 24050 Spirano (BG) - Italy"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}
