@@ -1,0 +1,28 @@
+{
+ "slug": "profilitec-2",
+ "company": "Profilitec",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Profilitec ha oltre 50 brevetti e invenzioni dal 1966, una sede a Charleston negli USA e conosce il lavoro di posatori, rivenditori e architetti. Qui trova come lavoriamo e cosa potremmo fare per Profilitec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Profilitec.",
+ "evidence": [
+  {
+   "claim": "Profilitec ha oltre 50 brevetti e invenzioni dal 1966, una sede a Charleston negli USA e conosce il lavoro di posatori, rivenditori e architetti.",
+   "url": "https://www.profilitec.com/it/chi-siamo",
+   "quote": "Il numero di brevetti e invenzioni nati in Profilitec è impressionante: dal 1966 ad oggi sono oltre 50 e sempre di più negli ultimi anni. || Profilitec Corp. 472 Meeting Street, Suite C #301 29403 - Charleston (South Carolina) USA || conosciamo il lavoro del posatore, del rivenditore, dell’architetto e del contractor, ognuno con le proprie esigenze specifiche e priorità."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

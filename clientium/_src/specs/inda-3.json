@@ -1,0 +1,28 @@
+{
+ "slug": "inda-3",
+ "company": "Inda",
+ "first_name": "Veronica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Inda propone maniglie di serie in alluminio satinato laccabili in 35 colori opachi e 35 lucidi. Qui trova come lavoriamo e cosa potremmo fare per Inda.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Inda.",
+ "evidence": [
+  {
+   "claim": "Inda propone maniglie di serie in alluminio satinato laccabili in 35 colori opachi e 35 lucidi.",
+   "url": "https://inda.net/it/prodotti/mobili",
+   "quote": "La maniglia di serie in alluminio satinato può essere laccata in 35 colori opachi e 35 lucidi"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

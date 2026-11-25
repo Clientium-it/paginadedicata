@@ -1,0 +1,28 @@
+{
+ "slug": "resstende",
+ "company": "Resstende",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Resstende esporta dalla Brianza oltre 1.000 varianti di prodotto in più di 30 paesi e studia soluzioni su misura per progettisti, rivenditori e architetti. Qui trova come lavoriamo e cosa potremmo fare per Resstende.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Resstende.",
+ "evidence": [
+  {
+   "claim": "Resstende esporta dalla Brianza oltre 1.000 varianti di prodotto in più di 30 paesi e studia soluzioni su misura per progettisti, rivenditori e architetti.",
+   "url": "https://www.resstende.com/about-us/",
+   "quote": "today finds expression in over 1,000 product variants, exported to more than 30 countries around the world. || In the heart of Brianza, our headquarters responds to the most modern production and regulatory needs, being essential for guaranteeing quality production. || We study tailor-made solutions by offering collaborations and assistance to designers, retailers and architectural firms"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

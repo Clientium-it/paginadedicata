@@ -1,0 +1,28 @@
+{
+ "slug": "italgreen-2",
+ "company": "Italgreen",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Italgreen nasce nel 1983 a Villa d'Adda e propone linee di prodotti per campi sportivi e giardini, controllando la filiera dalla produzione alla posa. Qui trova come lavoriamo e cosa potremmo fare per Italgreen.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Italgreen.",
+ "evidence": [
+  {
+   "claim": "Italgreen nasce nel 1983 a Villa d'Adda e propone linee di prodotti per campi sportivi e giardini, controllando la filiera dalla produzione alla posa.",
+   "url": "https://www.italgreen.it/it/azienda",
+   "quote": "controllando l'intera filiera dalla produzione alla posa. Proponiamo diverse linee di prodotti per campi sportivi e giardini || Il 12 Agosto 1983 nasce Italgreen con sede a Villa d'Adda in provincia di Bergamo"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "argotec-2",
+ "company": "Argotec",
+ "first_name": "Aurora",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Argotec progetta, costruisce e gestisce satelliti fino a 200 kg per missioni nello spazio profondo e in orbita, con sedi in Italia, Germania e USA. Qui trova come lavoriamo e cosa potremmo fare per Argotec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Argotec.",
+ "evidence": [
+  {
+   "claim": "Argotec progetta, costruisce e gestisce satelliti fino a 200 kg per missioni nello spazio profondo e in orbita, con sedi in Italia, Germania e USA.",
+   "url": "https://www.argotecgroup.com/who-we-are/our-company",
+   "quote": "We design, manufacture, and operate small satellites (up to 200 kg) for Deep Space and Earth orbits, including LEO, MEO, and GEO, to facilitate science and telecommunications. || OFFICES ITALY Via Luigi Burgo, 8 10099 - San Mauro T.se, Torino, Italy GERMANY European Astronaut Center Linder Hoehe, 51147 Troisdorf, Cologne, Germany USA 744 North Dr, Ste B Melbourne, FL, 32934"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

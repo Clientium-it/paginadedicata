@@ -1,0 +1,28 @@
+{
+ "slug": "carel",
+ "company": "Carel",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Carel sviluppa dal 1973 l'intelligenza di controllo che rende più efficienti, connessi e sostenibili i sistemi HVAC/R con una presenza internazionale. Qui trova come lavoriamo e cosa potremmo fare per Carel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Carel.",
+ "evidence": [
+  {
+   "claim": "Carel sviluppa dal 1973 l'intelligenza di controllo che rende più efficienti, connessi e sostenibili i sistemi HVAC/R con una presenza internazionale.",
+   "url": "https://corporate.carel.com/about-us",
+   "quote": "We develop the control intelligence that helps HVAC/R systems become more efficient, connected and sustainable. || from our roots in 1973 to our international presence today."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

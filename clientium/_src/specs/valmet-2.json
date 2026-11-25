@@ -1,0 +1,28 @@
+{
+ "slug": "valmet-2",
+ "company": "Valmet",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Valmet offre tecnologie, servizi e automazione per l'industria della cellulosa, dell'energia e della carta. Qui trova come lavoriamo e cosa potremmo fare per Valmet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Valmet.",
+ "evidence": [
+  {
+   "claim": "Valmet offre tecnologie, servizi e automazione per l'industria della cellulosa, dell'energia e della carta.",
+   "url": "https://www.valmet.com/",
+   "quote": "Valmet: technologies, services and automation to pulp, energy and paper industries"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

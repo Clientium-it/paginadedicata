@@ -1,0 +1,28 @@
+{
+ "slug": "arcansas",
+ "company": "Arcansas",
+ "first_name": "Isabel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Arcansas dal 1980 progetta e produce profili per rivestimenti, pavimenti e ferramenta con oltre 200 collaboratori e 4 sedi all'estero. Qui trova come lavoriamo e cosa potremmo fare per Arcansas.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Arcansas.",
+ "evidence": [
+  {
+   "claim": "Arcansas dal 1980 progetta e produce profili per rivestimenti, pavimenti e ferramenta con oltre 200 collaboratori e 4 sedi all'estero.",
+   "url": "https://www.arcansas.it/",
+   "quote": "Dal 1980 progettiamo, realizziamo e commercializziamo profili per rivestimenti, raccordo igienico, pavimenti e ferramenta/fai da te || 22000mq di spazio con tecnologie all’avanguardia, oltre 200 collaboratori e 4 sedi all’estero con distributori in più di 30 paesi. || A CHI CI RIVOLGIAMO GDO RIVENDITORI FERRAMENTA RIVENDITORI EDILI CERAMICA ARCHITETTI"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "ipm-2",
+ "company": "IPM",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IPM produce a Lugo macchine per l'estrusione e il confezionamento di tubi e profili in plastica, in una sede di 18.200 mq. Qui trova come lavoriamo e cosa potremmo fare per IPM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IPM.",
+ "evidence": [
+  {
+   "claim": "IPM produce a Lugo macchine per l'estrusione e il confezionamento di tubi e profili in plastica, in una sede di 18.200 mq.",
+   "url": "https://www.ipm-italy.it/chi-siamo",
+   "quote": "La sede IPM moderna e funzionale, sorge a LUGO (RA), su un’area che oggi è di complessivi 18.200mq coperta per circa 8.000mq. || IPM RAPPRESENTA UNA REALTA’ CONSOLIDATA NELLA PRODUZIONE DI MACCHINE PER L’ESTRUSIONE ED IL CONFEZIONAMENTO DI TUBI E PROFILI IN PLASTICA."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

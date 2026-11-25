@@ -1,0 +1,28 @@
+{
+ "slug": "hydromec-2",
+ "company": "Hydromec",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hydromec ha sede a Sovizzo e ha iniziato nel 1983 producendo riduttori di velocità per Var-Spe. Qui trova come lavoriamo e cosa potremmo fare per Hydromec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hydromec.",
+ "evidence": [
+  {
+   "claim": "Hydromec ha sede a Sovizzo e ha iniziato nel 1983 producendo riduttori di velocità per Var-Spe.",
+   "url": "https://hydromec.com/en/company",
+   "quote": "Started in 1983 producing speed reducers for Var-Spe || HYDRO-MEC S.P.A., Viale della Tecnica, 19 36049 SOVIZZO (VI) ITALY"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

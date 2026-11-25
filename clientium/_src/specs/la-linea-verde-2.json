@@ -1,0 +1,28 @@
+{
+ "slug": "la-linea-verde-2",
+ "company": "La Linea Verde",
+ "first_name": "Mattia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "La Linea Verde produce insalate, piatti pronti e bevande fresche anche per la grande distribuzione europea, con 3 stabilimenti italiani e 5 esteri. Qui trova come lavoriamo e cosa potremmo fare per La Linea Verde.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per La Linea Verde.",
+ "evidence": [
+  {
+   "claim": "La Linea Verde produce insalate, piatti pronti e bevande fresche anche per la grande distribuzione europea, con 3 stabilimenti italiani e 5 esteri.",
+   "url": "https://lalineaverde.it/chi-siamo/",
+   "quote": "Produciamo con il nostro brand DimmidiSì e con i marchi della grande distribuzione europea: • Insalate in busta, • Piatti pronti freschi a base vegetale, • Bevande fresche. || ai 3 stabilimenti italiani si sono aggiunti altri 5 siti produttivi strategicamente dislocati in tutta Europa , vicini alle nostre aree di coltivazione : 3 in Spagna, 1 in Francia e 1 in Serbia."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "inarca",
+ "company": "Inarca",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Inarca dal 1964 progetta terminali, connettori e macchine per connessioni elettriche per costruttori di elettrodomestici, motori elettrici e componenti automotive. Qui trova come lavoriamo e cosa potremmo fare per Inarca.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Inarca.",
+ "evidence": [
+  {
+   "claim": "Inarca dal 1964 progetta terminali, connettori e macchine per connessioni elettriche per costruttori di elettrodomestici, motori elettrici e componenti automotive.",
+   "url": "https://inarca.com/company/",
+   "quote": "Since 1964 we design and develop terminals, connectors, connection technologies and machines for electric connections. || We supply leading manufacturers of household appliances, electric motors, drives and automotive components."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

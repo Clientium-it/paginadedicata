@@ -1,0 +1,28 @@
+{
+ "slug": "amut-2",
+ "company": "Amut",
+ "first_name": "Sasa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Amut a Novara progetta e costruisce impianti di selezione e lavaggio per bottiglie e contenitori in PET, HDPE e PP e per film in PE. Qui trova come lavoriamo e cosa potremmo fare per Amut.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Amut.",
+ "evidence": [
+  {
+   "claim": "Amut a Novara progetta e costruisce impianti di selezione e lavaggio per bottiglie e contenitori in PET, HDPE e PP e per film in PE.",
+   "url": "https://www.amut.it/en/",
+   "quote": "AMUT Recycling specializes in the design and construction of plastic sorting and washing plants for PET/HDPE/PP bottles and containers and PE film. || Via Cameri, 16 - 28100 Novara (Italy)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

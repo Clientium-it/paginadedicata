@@ -1,0 +1,28 @@
+{
+ "slug": "artsana-7",
+ "company": "Artsana",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Artsana compete a livello globale nel mondo del parenting, ben oltre la sola cura del neonato. Qui trova come lavoriamo e cosa potremmo fare per Artsana.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Artsana.",
+ "evidence": [
+  {
+   "claim": "Artsana compete a livello globale nel mondo del parenting, ben oltre la sola cura del neonato.",
+   "url": "https://www.artsana.com/",
+   "quote": "Artsana Group is the leading Italian company competing at a global level in the parenting space, which goes well beyond baby-care."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "euroverde-2",
+ "company": "Euroverde",
+ "first_name": "Franco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Euroverde nel 2022 si è attestata secondo player nazionale nei piatti pronti freschi e nel 2021 ha ampliato la sede principale di Azzano Mella. Qui trova come lavoriamo e cosa potremmo fare per Euroverde.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Euroverde.",
+ "evidence": [
+  {
+   "claim": "Euroverde nel 2022 si è attestata secondo player nazionale nei piatti pronti freschi e nel 2021 ha ampliato la sede principale di Azzano Mella.",
+   "url": "https://euroverde.it/chi-siamo/",
+   "quote": "2022 Euroverde si attesta secondo player nazionale nella produzione di piatti pronti freschi. || 2021 Si concludono i lavori di ampliamento della sede pricipale di Azzano Mella."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

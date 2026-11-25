@@ -1,0 +1,28 @@
+{
+ "slug": "siliconiton",
+ "company": "Siliconiton",
+ "first_name": "Nicolò",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Siliconiton produce componenti in gomma, tra cui guarnizioni e soluzioni ingegnerizzate, con certificazioni di qualità sui suoi prodotti. Qui trova come lavoriamo e cosa potremmo fare per Siliconiton.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Siliconiton.",
+ "evidence": [
+  {
+   "claim": "Siliconiton produce componenti in gomma, tra cui guarnizioni e soluzioni ingegnerizzate, con certificazioni di qualità sui suoi prodotti.",
+   "url": "https://www.siliconiton.it/company/quality",
+   "quote": "As we continue to produce rubber components, including O-rings, gaskets, and engineered solutions, we do so with the knowledge that our quality certifications ensure our products meet and surpass industry standards."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

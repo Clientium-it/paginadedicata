@@ -1,0 +1,28 @@
+{
+ "slug": "finproject-3",
+ "company": "Finproject",
+ "first_name": "Mirko",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Finproject da oltre 50 anni a Morrovalle produce compound in PVC e suole per calzature e altri settori, con 11 unità produttive. Qui trova come lavoriamo e cosa potremmo fare per Finproject.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Finproject.",
+ "evidence": [
+  {
+   "claim": "Finproject da oltre 50 anni a Morrovalle produce compound in PVC e suole per calzature e altri settori, con 11 unità produttive.",
+   "url": "https://www.finproject.com/azienda/profilo/",
+   "quote": "con sede e quartier generale da oltre 50 anni in Italia a Morrovalle, nella regione Marche, è leader internazionale nella produzione di PVC compounds compatti ed espansi e nella produzione, commercializzazione, stampaggio di suole per scarpe e manufatti in materiali ultraleggeri || si avvale di 11 unità produttive, 5 in Italia e 6 all’estero tra cui la divisione Nord Americana Foam Creations || per i più importanti brand del mercato calzaturiero e di altri settori industriali: spa industry, automotive, furniture, industria della sicurezza"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "safra-2",
+ "company": "Safra",
+ "first_name": "Pierluigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Safra produce dal 1970 fili per saldatura e brasatura in alluminio e rame per navale, automotive e ferroviario, con altre tre sedi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Safra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Safra.",
+ "evidence": [
+  {
+   "claim": "Safra produce dal 1970 fili per saldatura e brasatura in alluminio e rame per navale, automotive e ferroviario, con altre tre sedi nel mondo.",
+   "url": "https://www.safraspa.it/",
+   "quote": "Dal 1970 Safra sviluppa e produce fili per saldatura e brasatura in lega di alluminio e in lega di rame per settori altamente specializzati come cantieristica navale, automotive, ferroviario. || Alla storica sede in Italia si affiancano oggi altre tre sedi nei diversi continenti. || dall’industria alimentare all’automotive, dalla chimica alle costruzioni navali e ferroviarie"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

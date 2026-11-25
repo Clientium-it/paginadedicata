@@ -1,0 +1,28 @@
+{
+ "slug": "fedegari",
+ "company": "Fedegari",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fedegari affianca l'industria farmaceutica e biotech con tecnologie di sterilizzazione e biodecontaminazione. Qui trova come lavoriamo e cosa potremmo fare per Fedegari.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fedegari.",
+ "evidence": [
+  {
+   "claim": "Fedegari affianca l'industria farmaceutica e biotech con tecnologie di sterilizzazione e biodecontaminazione.",
+   "url": "https://fedegari.com/",
+   "quote": "Strategic business partner to the pharmaceutical and biotech industries in sterilization and bio-decontamination technologies || Strategic business partner to the pharmaceutical and biotech industries in sterilization and bio-decontamination technologies"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

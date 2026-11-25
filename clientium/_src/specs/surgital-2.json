@@ -1,0 +1,28 @@
+{
+ "slug": "surgital-2",
+ "company": "Surgital",
+ "first_name": "Andres",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Surgital propone al food service pasta fresca surgelata, piatti pronti e sughi, con uno stabilimento di 35.000 m2 ed è presente in oltre 63 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Surgital.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Surgital.",
+ "evidence": [
+  {
+   "claim": "Surgital propone al food service pasta fresca surgelata, piatti pronti e sughi, con uno stabilimento di 35.000 m2 ed è presente in oltre 63 Paesi.",
+   "url": "https://www.surgital.it/azienda/",
+   "quote": "STABILIMENTO 35.000 m 2 di superficie produttiva 34 linee produttive || Siamo presenti in oltre 63 Paesi nel mondo Filiale Surgital France S.A.R.L. (Lione, Francia) Filiale Surgital America Inc. (NYC, USA) || Food Service Per il mondo del food service proponiamo pasta fresca surgelata, piatti pronti surgelati, sughi surgelati e pasta e riso espressi."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

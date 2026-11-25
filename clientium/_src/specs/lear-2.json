@@ -1,0 +1,28 @@
+{
+ "slug": "lear-2",
+ "company": "Lear",
+ "first_name": "Valentina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lear ha oltre 100 anni di storia, 164.300 dipendenti e 258 stabilimenti in 36 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Lear.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lear.",
+ "evidence": [
+  {
+   "claim": "Lear ha oltre 100 anni di storia, 164.300 dipendenti e 258 stabilimenti in 36 Paesi.",
+   "url": "https://www.lear.com/company",
+   "quote": "With over 100 years of experience, Lear has earned a legacy of operational excellence while building its future on innovation. || 164,300 employees globally with industry leading talent and technical expertise. 258 Facilities in 36 countries"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

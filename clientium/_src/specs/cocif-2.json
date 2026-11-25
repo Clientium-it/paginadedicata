@@ -1,0 +1,28 @@
+{
+ "slug": "cocif-2",
+ "company": "Cocif",
+ "first_name": "Samuele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cocif produce a Longiano porte e finestre con oltre 300 modelli e finiture scelte da architetti, progettisti, interior designer e costruttori. Qui trova come lavoriamo e cosa potremmo fare per Cocif.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cocif.",
+ "evidence": [
+  {
+   "claim": "Cocif produce a Longiano porte e finestre con oltre 300 modelli e finiture scelte da architetti, progettisti, interior designer e costruttori.",
+   "url": "https://www.cocif.com/chi-siamo/azienda/",
+   "quote": "Benvenuto in Cocif, produttore italiano di porte e finestre e grande player internazionale con oltre 300 modelli || COCIF Headquarters via Ponte Ospedaletto, 1560 47020 Longiano FC Italy || con materiali e finiture a esclusiva scelta di architetti, progettisti, interior designer, ingegneri e costruttori"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

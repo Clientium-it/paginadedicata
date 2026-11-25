@@ -1,0 +1,28 @@
+{
+ "slug": "vivolo-2",
+ "company": "Vivolo",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vivolo progetta e produce accessori per la moda a San Lazzaro di Savena, oltre 15 milioni l'anno, ed è presente in oltre 40 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Vivolo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vivolo.",
+ "evidence": [
+  {
+   "claim": "Vivolo progetta e produce accessori per la moda a San Lazzaro di Savena, oltre 15 milioni l'anno, ed è presente in oltre 40 Paesi.",
+   "url": "https://www.vivolo.com/azienda/",
+   "quote": "Oggi, con oltre 15 milioni di accessori prodotti all’anno e una presenza in oltre 40 Paesi, Vivolo rappresenta l’evoluzione di un percorso imprenditoriale iniziato quasi cinquant’anni fa || Con sede a San Lazzaro di Savena, Bologna, Vivolo è leader internazionale nella progettazione e produzione di accessori e dettagli per il settore moda. || Meta di riferimento per gli uffici stile delle principali maison internazionali, la sede accoglie in un unico ecosistema industriale i reparti di creatività, R&D e produzione, cuore pulsante dell’azienda."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

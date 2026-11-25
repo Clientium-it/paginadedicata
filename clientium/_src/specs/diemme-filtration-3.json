@@ -1,0 +1,28 @@
+{
+ "slug": "diemme-filtration-3",
+ "company": "Diemme Filtration",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Diemme Filtration produce a Lugo filtropresse e ispessitori su misura per settori come minerario, chimico farmaceutico, alimentare e trattamento acque reflue. Qui trova come lavoriamo e cosa potremmo fare per Diemme Filtration.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Diemme Filtration.",
+ "evidence": [
+  {
+   "claim": "Diemme Filtration produce a Lugo filtropresse e ispessitori su misura per settori come minerario, chimico farmaceutico, alimentare e trattamento acque reflue.",
+   "url": "https://www.diemmefiltration.com/",
+   "quote": "We manufacture a wide range of filter presses and thickeners of various sizes and features that can be customised for any type of application and sector. || Via Gessi 16 48022 Lugo, RA - Italy || Chemical & Pharmaceutical Dredging & Soil Remediation Food & Beverage Mining & Metals Oil & Gas Power Industry Quarrying & Recycling Red Mud Second-generation Bioethanol Wastewater Treatment"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "siat-2",
+ "company": "SIAT",
+ "first_name": "Nicoletta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SIAT da oltre 50 anni costruisce nastratrici, reggiatrici e avvolgitori per il fine linea, con stabilimenti a Turate, Marcallo con Casone e in Ohio. Qui trova come lavoriamo e cosa potremmo fare per SIAT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SIAT.",
+ "evidence": [
+  {
+   "claim": "SIAT da oltre 50 anni costruisce nastratrici, reggiatrici e avvolgitori per il fine linea, con stabilimenti a Turate, Marcallo con Casone e in Ohio.",
+   "url": "https://www.siat.com/about-siat/",
+   "quote": "SIAT has established itself as a quality leader in end-of-line industrial packaging solutions , specializing in taping , strapping and wrapping machines, as well as flexographic printing machines. For over 50 years, we have been manufacturing packaging equipment || headquartered in the heart of Northern Italy with production site in Turate (Italy), Ohio (USA) and Marcallo con Casone (Italy) || Our solutions are utilized across various industries, including food and beverage, e-commerce, logistics, packaging, and consumer products."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

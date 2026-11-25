@@ -1,0 +1,28 @@
+{
+ "slug": "mp3-3",
+ "company": "MP3",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MP3 fornisce da oltre 45 anni lastre e bobine per la termoformatura in Italia e nel mondo, e dal 2019 anche con MP3 USA. Qui trova come lavoriamo e cosa potremmo fare per MP3.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MP3.",
+ "evidence": [
+  {
+   "claim": "MP3 fornisce da oltre 45 anni lastre e bobine per la termoformatura in Italia e nel mondo, e dal 2019 anche con MP3 USA.",
+   "url": "https://www.ilpa-mp3.com/it/",
+   "quote": "MP3 extrusion, da oltre 45 anni partner tecnologico per la fornitura industriale di lastre e bobine per la termoformatura in Italia e nel mondo. || Sull’onda della crescente espansione della rete clienti, nel 2019 nasce la divisione MP3 USA Inc. su suolo nord americano. || Progetto volto a fornire direttamente oltre oceano i settori sanitario, veicoli tempo libero e agricultura"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

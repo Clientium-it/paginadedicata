@@ -1,0 +1,28 @@
+{
+ "slug": "verbano-film",
+ "company": "Verbano Film",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Verbano Film produce dal 1987 film in polipropilene cast con cinque linee di estrusione per alimentare, medicale, tessile, automotive e adesivi. Qui trova come lavoriamo e cosa potremmo fare per Verbano Film.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Verbano Film.",
+ "evidence": [
+  {
+   "claim": "Verbano Film produce dal 1987 film in polipropilene cast con cinque linee di estrusione per alimentare, medicale, tessile, automotive e adesivi.",
+   "url": "https://www.verbanofilm.it/azienda/",
+   "quote": "Verbano Film Srl opera nel settore dell’imballaggio flessibile dal 1987 producendo film in polipropilene cast con particolare attenzione ai mercati internazionali. || Stabilimento/Plant automatizzato con cinque linee di estrusione. || Settori alimentare, medico, tessile, cartario, florovivaistico, automobilistico e adesivo"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "mg-2",
+ "company": "MG",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MG produce a Quinto Vicentino film flessibili da 7 a 1000 micron fino a 11 strati per alimentare, pet food, fotovoltaico e medicale. Qui trova come lavoriamo e cosa potremmo fare per MG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MG.",
+ "evidence": [
+  {
+   "claim": "MG produce a Quinto Vicentino film flessibili da 7 a 1000 micron fino a 11 strati per alimentare, pet food, fotovoltaico e medicale.",
+   "url": "https://mg-spa.it/ita/",
+   "quote": "produciamo film flessibili da 7 a 1000 micron, fino a 11 strati, con molteplici proprietà. Siamo specializzati in soluzioni per il converting e l’imballo. || Via G.Stefani 48, 36050 Lanzè di Quinto Vicentino (Vicenza) Italy || Soluzioni altamente performanti per l’industria alimentare: dagli alimenti al caffè e ai liquidi, fino al pet food. TECHNICAL Rispondiamo alle esigenze del settore fotovoltaico, del mercato dei compositi e di quello medicale."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

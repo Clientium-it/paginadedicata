@@ -1,0 +1,28 @@
+{
+ "slug": "ep",
+ "company": "EP",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "EP è un'azienda italiana fondata nel 1991 con sede in Toscana che progetta, sviluppa, produce e vende prodotti per l'elevazione di persone e cose. Qui trova come lavoriamo e cosa potremmo fare per EP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per EP.",
+ "evidence": [
+  {
+   "claim": "EP è un'azienda italiana fondata nel 1991 con sede in Toscana che progetta, sviluppa, produce e vende prodotti per l'elevazione di persone e cose.",
+   "url": "https://epelevators.com/chi-siamo/",
+   "quote": "EP è una azienda Italiana fondata nel 1991 con sede in Toscana che progetta, sviluppa, produce e vende prodotti per elevazione di persone e cose. || Sede legale Via Querceto, 27 59100 - Prato (PO) P.I. 01129050470 Sede Operativa Via Pavoncella, 12/14 56019 - Vecchiano PI"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

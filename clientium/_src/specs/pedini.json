@@ -1,0 +1,28 @@
+{
+ "slug": "pedini",
+ "company": "Pedini",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pedini nasce nel 1957 a Lucrezia come impresa artigiana di cucine e oggi realizza cucine, living e bagni su misura in oltre 60 paesi. Qui trova come lavoriamo e cosa potremmo fare per Pedini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pedini.",
+ "evidence": [
+  {
+   "claim": "Pedini nasce nel 1957 a Lucrezia come impresa artigiana di cucine e oggi realizza cucine, living e bagni su misura in oltre 60 paesi.",
+   "url": "https://www.pedini.it/chi-siamo/",
+   "quote": "La nostra azienda nasce nel 1957 a Lucrezia, in provincia di Pesaro, come impresa artigiana nel settore delle cucine d’arredamento. || Oggi il marchio Pedini è riconosciuto anche per l’attenzione all’ambiente, la presenza in oltre 60 paesi e le collaborazioni con designer prestigiosi da tutto il mondo. || Siamo in grado di realizzare cucine, living e bagni su misura per privati e contract in tutto il mondo"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

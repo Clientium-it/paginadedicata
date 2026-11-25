@@ -1,0 +1,28 @@
+{
+ "slug": "dinamic-oil-2",
+ "company": "Dinamic Oil",
+ "first_name": "Peter",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dinamic Oil produce argani e riduttori epicicloidali dal 1970, con filiali in Europa, America e Asia, per mining, settore navale e applicazioni mobili. Qui trova come lavoriamo e cosa potremmo fare per Dinamic Oil.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dinamic Oil.",
+ "evidence": [
+  {
+   "claim": "Dinamic Oil produce argani e riduttori epicicloidali dal 1970, con filiali in Europa, America e Asia, per mining, settore navale e applicazioni mobili.",
+   "url": "https://www.dinamicoil.com/about-us/",
+   "quote": "With over 50 years of experience, Dinamic Oil, founded in 1970, is an Italian company specializing in the production of winches and planetary gearboxes. || with three production units, nine branches across Europe, America, and Asia, and an extensive network of distributors worldwide. || Markets Mining & Drilling Applications Industrial Applications Mobile Applications Marine Applications"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

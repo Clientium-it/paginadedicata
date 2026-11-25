@@ -1,0 +1,28 @@
+{
+ "slug": "truffini",
+ "company": "Truffini",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Truffini, fondata nel 1917, sviluppa e produce integratori, alimenti a fini medici speciali e dispositivi medici solo per conto terzi, con sede a Milano. Qui trova come lavoriamo e cosa potremmo fare per Truffini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Truffini.",
+ "evidence": [
+  {
+   "claim": "Truffini, fondata nel 1917, sviluppa e produce integratori, alimenti a fini medici speciali e dispositivi medici solo per conto terzi, con sede a Milano.",
+   "url": "https://truffini.it/it/",
+   "quote": "Fondata nel 1917 come Azienda Farmaceutica, La Truffini & ReggÃ¨ si Ã¨ specializzata nello sviluppo e produzione di Integratori Alimentari, Alimenti a fini medici speciali e Dispositivi medici, esclusivamente per conto di terzi || Via Oslavia 18 20134 Milano - Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "eiq-industrial-2",
+ "company": "EiQ Industrial",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "EiQ Industrial progetta e produce quadri elettrici in acciaio inox per il confezionamento alimentare e farmaceutico, l'Oil&Gas e il comparto ferroviario e navale. Qui trova come lavoriamo e cosa potremmo fare per EiQ Industrial.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per EiQ Industrial.",
+ "evidence": [
+  {
+   "claim": "EiQ Industrial progetta e produce quadri elettrici in acciaio inox per il confezionamento alimentare e farmaceutico, l'Oil&Gas e il comparto ferroviario e navale.",
+   "url": "https://www.eiqindustrial.com/chi-siamo/",
+   "quote": "EiQ Industrial si occupa di progettazione e produzione di quadri elettrici in acciaio inox AISI 304 e AISI 316L certificati IP66, IP69K e UL, di coperture e carpenteria in acciaio inox e di lavorazioni speciali conto terzi. || Via Lago di Alleghe, 48 z.i. - 36015 Schio (VI) Italy || Ci rivolgiamo alle aziende produttrici di impianti industriali per il confezionamento alimentare e farmaceutico , ai costruttori di impianti per l’industria dell’ Oil&Gas , al comparto ferroviario e navale , ai distributori di materiale elettrico , e ai quadristi ."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "witor-s-2",
+ "company": "Witor's",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Witor's produce cioccolato in modo industriale a Corte de' Frati e lo porta in oltre 80 paesi in quattro continenti. Qui trova come lavoriamo e cosa potremmo fare per Witor's.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Witor's.",
+ "evidence": [
+  {
+   "claim": "Witor's produce cioccolato in modo industriale a Corte de' Frati e lo porta in oltre 80 paesi in quattro continenti.",
+   "url": "https://www.witors.it/it/la-nostra-storia",
+   "quote": "oggi, si consuma il suo cioccolato in oltre 80 paesi del mondo, nei quattro continenti. || L’apertura della nuova azienda di Corte de’ Frati ha segnato il passaggio dalla produzione artigianale a quella industriale, con processi automatizzati."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

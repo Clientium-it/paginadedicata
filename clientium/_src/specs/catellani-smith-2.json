@@ -1,0 +1,28 @@
+{
+ "slug": "catellani-smith-2",
+ "company": "Catellani & Smith",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Catellani & Smith costruisce ancora a mano le sue lampade, tutte fatte in Italia a Villa di Serio. Qui trova come lavoriamo e cosa potremmo fare per Catellani & Smith.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Catellani & Smith.",
+ "evidence": [
+  {
+   "claim": "Catellani & Smith costruisce ancora a mano le sue lampade, tutte fatte in Italia a Villa di Serio.",
+   "url": "https://www.catellanismith.com/azienda/",
+   "quote": "Le nostre lampade sono costruite ancora con le mani, in spazi di lavoro bellissimi. Sono fatte tutte in Italia, sul Serio . || Catellani & Smith Srl Via Cimitero 1/A, 24020 Villa di Serio, BG"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

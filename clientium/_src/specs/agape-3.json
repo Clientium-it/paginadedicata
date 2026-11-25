@@ -1,0 +1,28 @@
+{
+ "slug": "agape-3",
+ "company": "Agape",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Agape realizza interamente in Italia la sua gamma, dalla sede sulle rive del Mincio vicino a Mantova, lavorando con architetti e designer. Qui trova come lavoriamo e cosa potremmo fare per Agape.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Agape.",
+ "evidence": [
+  {
+   "claim": "Agape realizza interamente in Italia la sua gamma, dalla sede sulle rive del Mincio vicino a Mantova, lavorando con architetti e designer.",
+   "url": "https://www.agapedesign.it/about",
+   "quote": "La gamma Agape è interamente realizzata in Italia con materie prime di qualità, cura artigianale per i dettagli, processi produttivi efficienti e rispettosi dell’ambiente, come attestato dalla certificazione LEED. || siamo profondamente innamorati della nostra sede sulle rive del Mincio a due passi da Mantova rinascimentale || Siamo architetti nel cuore e lavoriamo con architetti e designer per disegnare oggetti affinché diventino parte di un'architettura."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

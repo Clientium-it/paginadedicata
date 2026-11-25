@@ -1,0 +1,28 @@
+{
+ "slug": "ml-engraving-3",
+ "company": "ML Engraving",
+ "first_name": "Silvano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ML Engraving a Onore fa progettazione digitale, incisioni laser e fotoincisioni chimiche su stampi per personalizzare i prodotti. Qui trova come lavoriamo e cosa potremmo fare per ML Engraving.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ML Engraving.",
+ "evidence": [
+  {
+   "claim": "ML Engraving a Onore fa progettazione digitale, incisioni laser e fotoincisioni chimiche su stampi per personalizzare i prodotti.",
+   "url": "https://www.mlengraving.com/it",
+   "quote": "Personalizziamo i tuoi prodotti con la progettazione digitale ed esclusive incisioni laser e fotoincisioni chimiche su stampi. || Via Presolana, 114 - 24020 Onore (BG)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "wisycom",
+ "company": "Wisycom",
+ "first_name": "Marika",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Wisycom dal 1999 sviluppa a Tombolo tecnologia RF e apparati audio per broadcast, live e presa diretta, lavorando con emittenti TV e radio internazionali. Qui trova come lavoriamo e cosa potremmo fare per Wisycom.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Wisycom.",
+ "evidence": [
+  {
+   "claim": "Wisycom dal 1999 sviluppa a Tombolo tecnologia RF e apparati audio per broadcast, live e presa diretta, lavorando con emittenti TV e radio internazionali.",
+   "url": "https://wisycom.com/about-us/",
+   "quote": "Founded in 1999, Wisycom has decades of experience in RF technology and is recognized as one of the main player in the worldwide market of Audio equipment for Broadcast, Live and Location Sound applications. || Wisycom Srl Via Tiepolo, 7/E 35019 Tombolo (PD) – Italy || International TV, Radio broadcasters, Audio operators and Sound engineers can find in Wisycom team a true partner ready to offer worldwide constant presence and support for the realization of any project."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

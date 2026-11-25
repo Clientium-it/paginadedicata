@@ -1,0 +1,28 @@
+{
+ "slug": "eurofork-2",
+ "company": "Eurofork",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Eurofork da Roletto ha installato oltre 130.000 sistemi di movimentazione automatica in più di 93 Paesi lavorando con i system integrator. Qui trova come lavoriamo e cosa potremmo fare per Eurofork.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Eurofork.",
+ "evidence": [
+  {
+   "claim": "Eurofork da Roletto ha installato oltre 130.000 sistemi di movimentazione automatica in più di 93 Paesi lavorando con i system integrator.",
+   "url": "https://eurofork.com/",
+   "quote": "Con oltre 130.000 applicazioni installate in più di 93 Paesi, i nostri sistemi di movimentazione automatica sono considerati tra i più affidabili nel panorama dell’automazione intralogistica. || © 2026 Eurofork S.p.A. Via Roma 93, 10060 Roletto (TO) – Italy || permettendoci di essere il partner ideale per i System Integrators e offrendo supporto come solution provider per qualsiasi progetto."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

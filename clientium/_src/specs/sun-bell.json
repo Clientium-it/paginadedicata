@@ -1,0 +1,28 @@
+{
+ "slug": "sun-bell",
+ "company": "Sun Bell",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sun Bell produce tende dal 1977 e ne realizza oltre 100.000 ogni anno nella sede di Rovato. Qui trova come lavoriamo e cosa potremmo fare per Sun Bell.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sun Bell.",
+ "evidence": [
+  {
+   "claim": "Sun Bell produce tende dal 1977 e ne realizza oltre 100.000 ogni anno nella sede di Rovato.",
+   "url": "https://www.sunbell.it/azienda/",
+   "quote": "Sun Bell, fondata nel 1977 da Giuseppe Zuelli, produce tende di qualità e di design. Con oltre 100.000 tende prodotte ogni anno nella sede di Rovato || Con oltre 100.000 tende prodotte ogni anno nella sede di Rovato"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

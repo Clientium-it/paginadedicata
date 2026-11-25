@@ -1,0 +1,28 @@
+{
+ "slug": "vibo-2",
+ "company": "Vibo",
+ "first_name": "Vladislav",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vibo produce oltre 5000 articoli, molti brevettati, in 7 stabilimenti con più di 200 dipendenti e li vende in oltre 70 paesi. Qui trova come lavoriamo e cosa potremmo fare per Vibo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vibo.",
+ "evidence": [
+  {
+   "claim": "Vibo produce oltre 5000 articoli, molti brevettati, in 7 stabilimenti con più di 200 dipendenti e li vende in oltre 70 paesi.",
+   "url": "https://viboitaly.com/it/chi-siamo",
+   "quote": "La produzione attuale conta più di 5000 articoli, molti dei quali brevettati e commercializzati in più di 70 paesi del mondo || 7 stabilimenti + 1 nuovo stabilimento per la logistica e l’assemblaggio + 70 paesi nel mondo 180 rivenditori 75 % export + 200 dipendenti || considerati complementi di riferimento per il top di gamma dei più importanti produttori, nonché dei grandi gruppi distributori del settore"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

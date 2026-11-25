@@ -1,0 +1,28 @@
+{
+ "slug": "flou",
+ "company": "Flou",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Flou è nata nel 1978 con Nathalie, il primo letto tessile moderno imbottito e sfoderabile, e oggi propone un total living Made in Italy. Qui trova come lavoriamo e cosa potremmo fare per Flou.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Flou.",
+ "evidence": [
+  {
+   "claim": "Flou è nata nel 1978 con Nathalie, il primo letto tessile moderno imbottito e sfoderabile, e oggi propone un total living Made in Italy.",
+   "url": "https://www.flou.it/it/company",
+   "quote": "Nata nel 1978 con il lancio di Nathalie, primo letto tessile moderno imbottito e sfoderabile, Flou oggi propone un total living all’insegna del benessere, del design e della qualità Made in Italy."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

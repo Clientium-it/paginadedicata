@@ -1,0 +1,28 @@
+{
+ "slug": "caffe-carraro",
+ "company": "Caffè Carraro",
+ "first_name": "Giulio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Caffè Carraro torrefà su 10.000 mq e confeziona capsule e cialde su altri 5.000, servendo più di 2.600 bar, il retail e il vending. Qui trova come lavoriamo e cosa potremmo fare per Caffè Carraro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Caffè Carraro.",
+ "evidence": [
+  {
+   "claim": "Caffè Carraro torrefà su 10.000 mq e confeziona capsule e cialde su altri 5.000, servendo più di 2.600 bar, il retail e il vending.",
+   "url": "https://www.carraro1927.com/it/content/4-mondo-carraro",
+   "quote": "L’azienda opera su 2 stabilimenti produttivi: uno dedicato alla torrefazione (10.000 mq) e uno al confezionamento Caps & Pods (5.000 mq). || In Italia, serviamo il settore Ho.Re.Ca. con oltre 2.600 bar, oltre al canale retail e al vending. || In Italia, serviamo il settore Ho.Re.Ca. con oltre 2.600 bar, oltre al canale retail e al vending."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

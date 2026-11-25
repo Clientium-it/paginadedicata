@@ -1,0 +1,28 @@
+{
+ "slug": "la-fabbrica-ava",
+ "company": "La Fabbrica Ava",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "La Fabbrica Ava si occupa da Castel Bolognese di pavimenti e rivestimenti in ceramica italiana di alta gamma. Qui trova come lavoriamo e cosa potremmo fare per La Fabbrica Ava.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per La Fabbrica Ava.",
+ "evidence": [
+  {
+   "claim": "La Fabbrica Ava si occupa da Castel Bolognese di pavimenti e rivestimenti in ceramica italiana di alta gamma.",
+   "url": "https://www.lafabbrica.it/",
+   "quote": "Benvenuti nel mondo della ceramica italiana di alta gamma! Siamo LA FABBRICA AVA , brand leader nel settore dei pavimenti e rivestimenti, dedicato a trasformare i vostri spazi in autentiche opere d’arte. || ITALCER S.p.A. SB – LA FABBRICA AVA Via Emilia Ponente, 2070 – 48014 Castel Bolognese (RA)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

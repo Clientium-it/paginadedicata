@@ -1,0 +1,28 @@
+{
+ "slug": "cattaneo-impianti-2",
+ "company": "Cattaneo Impianti",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cattaneo Impianti offre servizi specialistici nei settori farmaceutico, chimico e alimentare, maturati con esperienze dirette in ciascuno di questi ambiti. Qui trova come lavoriamo e cosa potremmo fare per Cattaneo Impianti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cattaneo Impianti.",
+ "evidence": [
+  {
+   "claim": "Cattaneo Impianti offre servizi specialistici nei settori farmaceutico, chimico e alimentare, maturati con esperienze dirette in ciascuno di questi ambiti.",
+   "url": "https://cattaneoimpianti.com/index.php/it/settori-specialistici-ita",
+   "quote": "Cattaneo Impianti S.r.l. ha acquisito esperienze settoriali che consentono di offrire servizi specialistici nei settori farmaceutico, chimico e alimentare. || Industria farmaceutica di produzione, ricerca e commercializzazione"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

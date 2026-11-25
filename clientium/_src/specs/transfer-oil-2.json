@@ -1,0 +1,28 @@
+{
+ "slug": "transfer-oil-2",
+ "company": "Transfer Oil",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Transfer Oil assembla e testa tubi flessibili fino a 3.800 bar e li fornisce a distributori e OEM tramite tre filiali e rivenditori autorizzati. Qui trova come lavoriamo e cosa potremmo fare per Transfer Oil.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Transfer Oil.",
+ "evidence": [
+  {
+   "claim": "Transfer Oil assembla e testa tubi flessibili fino a 3.800 bar e li fornisce a distributori e OEM tramite tre filiali e rivenditori autorizzati.",
+   "url": "https://www.transferoil.com/it/chi-siamo.aspx",
+   "quote": "Grazie alla sua capacità di assemblare e testare prodotti ad altissima pressione fino a 3.800 bar / 55.000 psi, Transfer Oil è oggi l'unico produttore indipendente di tubi flessibili || La nostra rete si basa su tre filiali principali sui mercati strategici più rivenditori autorizzati per garantire una presenza globale || I prodotti Transfer Oil sono la scelta dei più importanti distributori del nostro settore nonché di rinomati produttori di apparecchiature originali (OEM)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

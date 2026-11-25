@@ -1,0 +1,28 @@
+{
+ "slug": "progress-profiles-2",
+ "company": "Progress Profiles",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Progress Profiles produce su oltre 16000 mq finiture d'interni per edilizia residenziale e commerciale, con agenti in 70 paesi e tre filiali estere. Qui trova come lavoriamo e cosa potremmo fare per Progress Profiles.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Progress Profiles.",
+ "evidence": [
+  {
+   "claim": "Progress Profiles produce su oltre 16000 mq finiture d'interni per edilizia residenziale e commerciale, con agenti in 70 paesi e tre filiali estere.",
+   "url": "https://progressprofiles.com/it/azienda",
+   "quote": "Oltre 16000 mq di spazio coperto, con un parco strumentazioni di ultima generazione, dedicati alla produzione di soluzioni innovative per finiture d’interni destinati all’edilizia residenziale e commerciale. || Fitta la rete di agenti professionisti sviluppata capillarmente in tutta Italia e in 70 Paesi del mondo. Tre filiali estere posizionate in America, Medio Oriente e Oceania, punti nevralgici del business globale. || dedicati alla produzione di soluzioni innovative per finiture d’interni destinati all’edilizia residenziale e commerciale."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

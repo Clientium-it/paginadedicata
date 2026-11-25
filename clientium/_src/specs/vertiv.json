@@ -1,0 +1,28 @@
+{
+ "slug": "vertiv",
+ "company": "Vertiv",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vertiv progetta, produce e mantiene infrastrutture critiche per reti IT dal cloud all'edge. Qui trova come lavoriamo e cosa potremmo fare per Vertiv.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vertiv.",
+ "evidence": [
+  {
+   "claim": "Vertiv progetta, produce e mantiene infrastrutture critiche per reti IT dal cloud all'edge.",
+   "url": "https://www.vertiv.com/de-emea/about/careers/",
+   "quote": "Vertiv ist ein weltweit führender Anbieter für die Gestaltung, Fertigung und Instandhaltung von geschäftskritischen Infrastrukturtechnologien für IT-Netzwerke von Cloud bis Edge."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

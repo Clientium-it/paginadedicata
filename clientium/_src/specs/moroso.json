@@ -1,0 +1,28 @@
+{
+ "slug": "moroso",
+ "company": "Moroso",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Moroso dal 1952 progetta e produce imbottiti e arredi di design per il residenziale, l'hospitality, gli ambienti corporate e il settore navale. Qui trova come lavoriamo e cosa potremmo fare per Moroso.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Moroso.",
+ "evidence": [
+  {
+   "claim": "Moroso dal 1952 progetta e produce imbottiti e arredi di design per il residenziale, l'hospitality, gli ambienti corporate e il settore navale.",
+   "url": "https://moroso.it/azienda/",
+   "quote": "Fondata nel 1952, Moroso è oggi un’azienda di riferimento nel panorama del design contemporaneo internazionale. Specializzata nella progettazione e produzione di imbottiti e arredi di design per il residenziale e per gli spazi collettivi || I suoi arredi trovano applicazione in contesti diversificati, dall’hospitality agli ambienti corporate, fino a progetti nel settore navale."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

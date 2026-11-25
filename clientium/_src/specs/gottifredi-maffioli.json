@@ -1,0 +1,28 @@
+{
+ "slug": "gottifredi-maffioli",
+ "company": "Gottifredi Maffioli",
+ "first_name": "Rossella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gottifredi Maffioli crea a Novara prodotti in filati sintetici ad alta tenacità per cartiere, vulcanizzazione della gomma, automotive, elettromeccanica, pesca e sollevamento. Qui trova come lavoriamo e cosa potremmo fare per Gottifredi Maffioli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gottifredi Maffioli.",
+ "evidence": [
+  {
+   "claim": "Gottifredi Maffioli crea a Novara prodotti in filati sintetici ad alta tenacità per cartiere, vulcanizzazione della gomma, automotive, elettromeccanica, pesca e sollevamento.",
+   "url": "https://www.gottifredimaffioli.com/prodotti/",
+   "quote": "L’adozione di elevati standard qualitativi e l’impiego esclusivo di filati sintetici ad alta tenacità ci consentono di creare prodotti idonei per una moltitudine di settori: cartiere, vulcanizzazione della gomma, industria automobilistica, elettromeccanica, pesca, sollevamento e molti altri. || Gottifredi Maffioli S.r.l. Via Wild 2/c-4, 28100 Novara (Italy) || cartiere, vulcanizzazione della gomma, industria automobilistica, elettromeccanica, pesca, sollevamento e molti altri."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

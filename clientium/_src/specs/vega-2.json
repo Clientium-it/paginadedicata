@@ -1,0 +1,28 @@
+{
+ "slug": "vega-2",
+ "company": "Vega",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vega produce componenti per ascensori e piattaforme elevatrici, dalle pulsantiere ai display fino agli operatori porte, con filiali commerciali dotate di magazzino. Qui trova come lavoriamo e cosa potremmo fare per Vega.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vega.",
+ "evidence": [
+  {
+   "claim": "Vega produce componenti per ascensori e piattaforme elevatrici, dalle pulsantiere ai display fino agli operatori porte, con filiali commerciali dotate di magazzino.",
+   "url": "https://vegalift.it/news/azienda/certificazione-iso-14001/",
+   "quote": "Vega produce componenti di alto design italiano per ascensori, elevatori e piattaforme elevatrici. Dalle pulsantiere ai display, dalle schede quadro agli operatori porte, fino ai sistemi di controllo della destinazione. || Rivolgiti alle nostre filiali commerciali, dotate di magazzini per la fornitura di prodotti Vega."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "huhtamaki",
+ "company": "Huhtamaki",
+ "first_name": "Santa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Huhtamaki produce imballaggi che proteggono alimenti, bevande e prodotti per la cura della persona, con 17.400 persone in 35 paesi. Qui trova come lavoriamo e cosa potremmo fare per Huhtamaki.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Huhtamaki.",
+ "evidence": [
+  {
+   "claim": "Huhtamaki produce imballaggi che proteggono alimenti, bevande e prodotti per la cura della persona, con 17.400 persone in 35 paesi.",
+   "url": "https://www.huhtamaki.com/",
+   "quote": "Our innovative products protect on-the-go and on-the-shelf food and beverages, and personal care products. || 35 Operating countries 17,400 employees A Nordic heritage of more than 100 years"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

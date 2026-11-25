@@ -1,0 +1,28 @@
+{
+ "slug": "linz-electric-2",
+ "company": "Linz Electric",
+ "first_name": "Sandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Linz Electric lavora con i principali costruttori di gruppi elettrogeni in più di 80 paesi e nel 2025 ha acquisito il 60% di KWGenerator. Qui trova come lavoriamo e cosa potremmo fare per Linz Electric.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Linz Electric.",
+ "evidence": [
+  {
+   "claim": "Linz Electric lavora con i principali costruttori di gruppi elettrogeni in più di 80 paesi e nel 2025 ha acquisito il 60% di KWGenerator.",
+   "url": "https://www.linzelectric.com/it/azienda/",
+   "quote": "i cui elevati standard qualitativi sono riconosciuti e apprezzati in più di 80 paesi dai principali costruttori di gruppi elettrogeni || Nel 2025 Linz Electric acquisisce il 60% di KWGenerator, consolidando la collaborazione iniziata oltre vent’anni fa. || i principali costruttori di gruppi elettrogeni"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

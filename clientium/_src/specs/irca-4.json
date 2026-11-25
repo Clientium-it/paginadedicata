@@ -1,0 +1,28 @@
+{
+ "slug": "irca-4",
+ "company": "IRCA",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IRCA da oltre un secolo fornisce soluzioni di ingredienti a pasticceri, cioccolatieri, gelatieri e produttori alimentari in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per IRCA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IRCA.",
+ "evidence": [
+  {
+   "claim": "IRCA da oltre un secolo fornisce soluzioni di ingredienti a pasticceri, cioccolatieri, gelatieri e produttori alimentari in tutto il mondo.",
+   "url": "https://www.ircagroup.com/de/irca-group-intern/chi-siamo",
+   "quote": "Seit über einem Jahrhundert ist die IRCA Group der vertrauenswürdige Partner von Konditor*innen, Chocolatiers, Gelatieri und Lebensmittelherstellern weltweit. || Gemeinsam versorgen wir über einhundert Länder mit hochwertigen, genussvollen Zutatenlösungen. || Seit über einem Jahrhundert ist die IRCA Group der vertrauenswürdige Partner von Konditor*innen, Chocolatiers, Gelatieri und Lebensmittelherstellern weltweit."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

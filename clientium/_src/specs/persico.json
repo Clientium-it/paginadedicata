@@ -1,0 +1,28 @@
+{
+ "slug": "persico",
+ "company": "Persico",
+ "first_name": "Sergio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Persico progetta e produce stampi e impianti per l'automotive e la nautica, con oltre 900 collaboratori tra Italia, Stati Uniti, Messico, Germania e Cina. Qui trova come lavoriamo e cosa potremmo fare per Persico.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Persico.",
+ "evidence": [
+  {
+   "claim": "Persico progetta e produce stampi e impianti per l'automotive e la nautica, con oltre 900 collaboratori tra Italia, Stati Uniti, Messico, Germania e Cina.",
+   "url": "https://www.persico.com/en/about-us/careers/work-with-us",
+   "quote": "ideazione, progettazione, ingegnerizzazione e produzione di stampi, sistemi di automazione e impianti complessi per il settore automotive. Oltre che in automotive siamo attivi anche in altri settori, tra cui il rotostampaggio, l'aerospaziale, il medicale e la nautica. || Con sede centrale in Italia, il Gruppo Persico ha unità produttive e commerciali in Stati Uniti, Messico, Germania e Cina per gestire progetti internazionali, contando su oltre 900 collaboratori."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

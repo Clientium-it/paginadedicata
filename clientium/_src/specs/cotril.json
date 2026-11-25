@@ -1,0 +1,28 @@
+{
+ "slug": "cotril",
+ "company": "Cotril",
+ "first_name": "Rinaldo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cotril è un'azienda 100% made in Italy legata al mondo del cinema e a Milano. Qui trova come lavoriamo e cosa potremmo fare per Cotril.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cotril.",
+ "evidence": [
+  {
+   "claim": "Cotril è un'azienda 100% made in Italy legata al mondo del cinema e a Milano.",
+   "url": "https://cotril.it/about/",
+   "quote": "Cotril è un’azienda 100% Made in Italy , profondamente legata al mondo del cinema e a Milano, la città del glamour"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

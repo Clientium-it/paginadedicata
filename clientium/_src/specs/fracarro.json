@@ -1,0 +1,28 @@
+{
+ "slug": "fracarro",
+ "company": "Fracarro",
+ "first_name": "Simone",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fracarro dal 1933 progetta e produce soluzioni per ricevere e distribuire segnali audio video dati in impianti singoli, condominiali e hospitality, con sede a Castelfranco Veneto. Qui trova come lavoriamo e cosa potremmo fare per Fracarro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fracarro.",
+ "evidence": [
+  {
+   "claim": "Fracarro dal 1933 progetta e produce soluzioni per ricevere e distribuire segnali audio video dati in impianti singoli, condominiali e hospitality, con sede a Castelfranco Veneto.",
+   "url": "https://fracarro.com/it/azienda/gruppo-fracarro/",
+   "quote": "Dal 1933 Fracarro progetta e produce soluzioni per la ricezione e la distribuzione dei segnali audio video dati in impianti singoli, condominiali e hospitality, utilizzando la tecnologia coassiale, IP e fibra ottica. || La sede principale è in Italia, a Castelfranco Veneto, ma l’orizzonte è molto ampio: l’azienda opera in tutti e 5 i continenti attraverso le sue consociate commerciali e produttive o con distributori. || in impianti singoli, condominiali e hospitality, utilizzando la tecnologia coassiale, IP e fibra ottica."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

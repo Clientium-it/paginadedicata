@@ -1,0 +1,28 @@
+{
+ "slug": "pietro-carnaghi-2",
+ "company": "Pietro Carnaghi",
+ "first_name": "Stéphane",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pietro Carnaghi costruisce torni verticali fino a 5 assi e fresatrici a portale per energia e aeronautica, con filiali anche negli USA e in Cina. Qui trova come lavoriamo e cosa potremmo fare per Pietro Carnaghi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pietro Carnaghi.",
+ "evidence": [
+  {
+   "claim": "Pietro Carnaghi costruisce torni verticali fino a 5 assi e fresatrici a portale per energia e aeronautica, con filiali anche negli USA e in Cina.",
+   "url": "https://www.pietrocarnaghi.it/",
+   "quote": "Pietro Carnaghi, specialized in high-performance, high-quality machine tools, manufactures: - VERTICAL LATHES WITH TURNING AND MILLING CAPACITY UP TO 5 AXES - GANTRY MILLING MACHINES WITH MOVABLE PORTAL - FLEXIBLE MANUFACTURING CELLS – FMS || BRANCHES PIETRO CARNAGHI GmbH PIETRO CARNAGHI USA Inc. PIETRO CARNAGHI CHINA Co. Ltd. || The main application sectors for Pietro Carnaghi products are: – ENERGY: CONVENTIONAL, NUCLEAR, GREEN – AERONAUTICS; AIRCRAFT ENGINES – AEROSPACE – EARTH-MOVING MACHINERY – BEARINGS – FORGING"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

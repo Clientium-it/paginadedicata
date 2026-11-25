@@ -1,0 +1,28 @@
+{
+ "slug": "faeda-2",
+ "company": "Faeda",
+ "first_name": "Maura",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Faeda produce pellami bovini Made in Italy per pelletteria, calzatura e arredamento di lusso in tre siti tra Arzignano e Montorso Vicentino. Qui trova come lavoriamo e cosa potremmo fare per Faeda.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Faeda.",
+ "evidence": [
+  {
+   "claim": "Faeda produce pellami bovini Made in Italy per pelletteria, calzatura e arredamento di lusso in tre siti tra Arzignano e Montorso Vicentino.",
+   "url": "https://www.faeda.com/about-us",
+   "quote": "specializzata nella produzione di pellami bovini 100% Made in Italy, destinati ai segmenti premium e di lusso della pelletteria, calzatura e arredamento. || Faeda si articola in tre principali siti produttivi, tutti situati nelle aree dei comuni di Arzignano e Montorso Vicentino || Le prime due divisioni servono clienti internazionali, principalmente grandi marchi della moda, che integrano nei loro assortimenti articoli in pelle di alta qualità."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "giona",
+ "company": "Giona",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Giona produce scaldabagni, bollitori in acciaio smaltato o inox e pompe di calore per acqua calda sanitaria, presenti in Svizzera, Germania e Nord America. Qui trova come lavoriamo e cosa potremmo fare per Giona.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Giona.",
+ "evidence": [
+  {
+   "claim": "Giona produce scaldabagni, bollitori in acciaio smaltato o inox e pompe di calore per acqua calda sanitaria, presenti in Svizzera, Germania e Nord America.",
+   "url": "https://www.gionaholding.it/azienda/",
+   "quote": "Oggi offre una gamma completa di prodotti, tra cui scaldabagni elettrici e ad accumulo, bollitori indiretti con serbatoi in acciaio smaltato o inox, e una linea completa di pompe di calore per acqua calda sanitaria (ACS). || Ha sviluppato con successo la propria presenza in mercati esigenti come Svizzera, Germania e Nord America."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "tci-2",
+ "company": "TCI",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TCI produce driver LED, moduli LED, COB, OLED e soluzioni wireless su oltre 50.000 metri quadri tra unità produttive e laboratori di ricerca e sviluppo. Qui trova come lavoriamo e cosa potremmo fare per TCI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TCI.",
+ "evidence": [
+  {
+   "claim": "TCI produce driver LED, moduli LED, COB, OLED e soluzioni wireless su oltre 50.000 metri quadri tra unità produttive e laboratori di ricerca e sviluppo.",
+   "url": "https://www.tci.it/azienda/",
+   "quote": "Attualmente la nostra gamma di prodotti include DRIVER LED, MODULI LED, COB, OLED e SOLUZIONI WIRELESS, oltre alla tecnologia tradizionale. || L’azienda si sviluppa su una superficie di oltre 50.000 metri quadri, comprendente diverse unità produttive e magazzini, laboratori di ricerca e sviluppo"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

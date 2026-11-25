@@ -1,0 +1,28 @@
+{
+ "slug": "aster-cucine-2",
+ "company": "Aster Cucine",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Aster Cucine conta 12 collezioni, 496 finiture, 92 dipendenti, oltre 900 clienti, oltre 38 anni di attività e 75 Paesi, con sede a Villa Fastiggi. Qui trova come lavoriamo e cosa potremmo fare per Aster Cucine.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aster Cucine.",
+ "evidence": [
+  {
+   "claim": "Aster Cucine conta 12 collezioni, 496 finiture, 92 dipendenti, oltre 900 clienti, oltre 38 anni di attività e 75 Paesi, con sede a Villa Fastiggi.",
+   "url": "https://www.astercucine.it/",
+   "quote": "Our milestones 12 Collezioni 92 Dipendenti 496 Finiture 900+ Clienti 38+ Anni di attività 75 Paesi || ASTER CUCINE SPA Via Ferraro Manlio, 45 Villa Fastiggi, (PU) 61122"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "crastan",
+ "company": "Crastan",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Crastan è l'unico produttore italiano di orzo solubile, realizza sostitutivi istantanei del caffè ed esporta in 40 paesi. Qui trova come lavoriamo e cosa potremmo fare per Crastan.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Crastan.",
+ "evidence": [
+  {
+   "claim": "Crastan è l'unico produttore italiano di orzo solubile, realizza sostitutivi istantanei del caffè ed esporta in 40 paesi.",
+   "url": "https://crastanitalia.it/",
+   "quote": "Crastan è 100% Made in Italy, unico produttore italiano di orzo solubile nonché la più grande azienda italiana di produzione di sostitutivi istantanei del caffè. || Export in 40 Paesi"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}
