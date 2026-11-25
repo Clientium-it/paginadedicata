@@ -1,0 +1,17 @@
+{
+ "slug": "chrono-express",
+ "company": "Chrono Express",
+ "full_name": "Dario Paletto",
+ "first": "Dario",
+ "cover_note": "Chrono Express è presente in 12 luoghi in Italia, dal Piemonte alla Lombardia, dall'Emilia Romagna alla Toscana, fino a Campania e Abruzzo.",
+ "evidence": [
+  {
+   "claim": "Chrono Express è presente in 12 luoghi in Italia, dal Piemonte alla Lombardia, dall'Emilia Romagna alla Toscana, fino a Campania e Abruzzo.",
+   "url": "https://chronoexpress.it/chi-siamo",
+   "quote": "dislocati in 12 luoghi in Italia, coprendo quasi tutte le principali regioni. Dal Piemonte, alla Lombardia, all'Emilia Romagna, alla Toscana, alla Campania, all'Abruzzo."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/chrono-express/logo.png"
+}

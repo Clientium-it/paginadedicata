@@ -1,0 +1,17 @@
+{
+ "slug": "butangas",
+ "company": "Butangas",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Butangas conta 15 filiali, 15 unità operative e 10 grandi impianti di stoccaggio e imbottigliamento.",
+ "evidence": [
+  {
+   "claim": "Butangas conta 15 filiali, 15 unità operative e 10 grandi impianti di stoccaggio e imbottigliamento.",
+   "url": "https://butangas.it/direzione-generale/filiali-italia/",
+   "quote": "15 Filiali, 15 Unità Operative e da 10 grandi impianti di stoccaggio ed imbottigliamento"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/butangas/logo.png"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "dachser-fercam",
+ "company": "Dachser & Fercam",
+ "full_name": "Giuseppe Rubini",
+ "first": "Giuseppe",
+ "cover_note": "Dachser & Fercam conta oltre 30 centri logistici di diverse dimensioni.",
+ "evidence": [
+  {
+   "claim": "Dachser & Fercam conta oltre 30 centri logistici di diverse dimensioni.",
+   "url": "https://dachser.fercam.it/it-it/benvenuti-1.html",
+   "quote": "Con oltre 30 centri logistici di diverse dimensioni, offriamo soluzioni logistiche su misura"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/dachser-fercam/logo.webp"
+}

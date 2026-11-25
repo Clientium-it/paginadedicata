@@ -1,0 +1,16 @@
+{
+ "slug": "sina-hotels",
+ "company": "Sina Hotels",
+ "full_name": "Paolo Morra",
+ "first": "Paolo",
+ "cover_note": "Sina Hotels gestisce alberghi 4 e 5 stelle a Roma, Firenze, Milano, Capri, Venezia e Perugia.",
+ "evidence": [
+  {
+   "claim": "Sina Hotels gestisce alberghi 4 e 5 stelle a Roma, Firenze, Milano, Capri, Venezia e Perugia.",
+   "url": "https://www.sinahotels.com/it/",
+   "quote": "Sina Hotels, 4 e 5 stelle a Roma, Firenze, Milano, Capri Venezia e Perugia."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

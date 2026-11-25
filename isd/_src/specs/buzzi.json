@@ -1,0 +1,22 @@
+{
+ "slug": "buzzi",
+ "company": "Buzzi",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Buzzi è presente in Italia con 8 cementerie e 3 centri di macinazione, e impiega circa 1.500 dipendenti.",
+ "evidence": [
+  {
+   "claim": "Buzzi è presente in Italia con 8 cementerie e 3 centri di macinazione, e impiega circa 1.500 dipendenti.",
+   "url": "https://www.buzziunicem.it/it/chi-siamo",
+   "quote": "presente in Italia con 8 cementerie e 3 centri di macinazione"
+  },
+  {
+   "claim": "Buzzi è presente in Italia con 8 cementerie e 3 centri di macinazione, e impiega circa 1.500 dipendenti.",
+   "url": "https://www.buzziunicem.it/it/chi-siamo",
+   "quote": "Buzzi Unicem impiega circa 1.500 dipendenti, presente in Italia con 8 cementerie e 3 centri di macinazione"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/buzzi/logo.png"
+}

@@ -1,0 +1,21 @@
+{
+ "slug": "orasesta",
+ "company": "Orasesta",
+ "full_name": "Alessandro Palummieri",
+ "first": "Alessandro",
+ "cover_note": "Orasesta opera con sedi tra Milano, Torino, Padova e Roma per la distribuzione automatica di caffè e snack da oltre 40 anni.",
+ "evidence": [
+  {
+   "claim": "Orasesta opera con sedi tra Milano, Torino, Padova e Roma per la distribuzione automatica di caffè e snack da oltre 40 anni.",
+   "url": "https://www.orasesta.com/le-sedi/",
+   "quote": "opera attraverso le proprie sedi di Milano, Olgiate Olona (VA), Torino, Vercelli, Alba (CN), Savona, Padova e Roma, riuscendo così a servire capillarmente Lombardia, Piemonte, Valle d'Aosta, Liguria, Veneto e Lazio"
+  },
+  {
+   "claim": "Orasesta opera con sedi tra Milano, Torino, Padova e Roma per la distribuzione automatica di caffè e snack da oltre 40 anni.",
+   "url": "https://www.orasesta.com/le-sedi/",
+   "quote": "Il Gruppo Orasesta, leader nella distribuzione automatica di caffè, bevande calde/fredde e snack da oltre 40 anni"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

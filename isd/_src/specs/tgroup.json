@@ -1,0 +1,16 @@
+{
+ "slug": "tgroup",
+ "company": "TGROUP",
+ "full_name": "",
+ "first": "",
+ "cover_note": "TGROUP ha una rete in espansione di oltre 45 filiali logistiche e 150.000 m² di superfici dedicate.",
+ "evidence": [
+  {
+   "claim": "TGROUP ha una rete in espansione di oltre 45 filiali logistiche e 150.000 m² di superfici dedicate.",
+   "url": "https://www.tgroupspa.com/chi-siamo/",
+   "quote": "Con una rete in espansione di +45 filiali logistiche e 150.000 m² di superfici dedicate"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

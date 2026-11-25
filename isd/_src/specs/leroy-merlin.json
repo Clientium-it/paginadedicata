@@ -1,0 +1,21 @@
+{
+ "slug": "leroy-merlin",
+ "company": "Leroy Merlin",
+ "full_name": "Marco Ravagnati",
+ "first": "Marco",
+ "cover_note": "Leroy Merlin è presente nelle principali città italiane con 52 punti vendita e oltre 7.800 collaboratori.",
+ "evidence": [
+  {
+   "claim": "Leroy Merlin è presente nelle principali città italiane con 52 punti vendita e oltre 7.800 collaboratori.",
+   "url": "https://lavoro.leroymerlin.it/departments/negozi",
+   "quote": "siamo presenti nelle principali città in tutta Italia con 52 punti vendita"
+  },
+  {
+   "claim": "Leroy Merlin è presente nelle principali città italiane con 52 punti vendita e oltre 7.800 collaboratori.",
+   "url": "https://lavoro.leroymerlin.it/departments/negozi",
+   "quote": "Con oltre 7800 collaboratrici e collaboratori, siamo presenti nelle principali città in tutta Italia con 52 punti vendita."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

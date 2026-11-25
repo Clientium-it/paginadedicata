@@ -1,0 +1,17 @@
+{
+ "slug": "levorato-marcevaggi",
+ "company": "Levorato Marcevaggi",
+ "full_name": "Massimo Dispensa",
+ "first": "Massimo",
+ "cover_note": "Levorato Marcevaggi ha una rete di 13 uffici distribuiti in 6 nazioni europee.",
+ "evidence": [
+  {
+   "claim": "Levorato Marcevaggi ha una rete di 13 uffici distribuiti in 6 nazioni europee.",
+   "url": "https://www.levoratomarcevaggi.it/sedi/",
+   "quote": "Con una rete di 13 uffici distribuiti in 6 nazioni europee, ci impegniamo costantemente per raggiungere l'eccellenza internazionale."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/levorato-marcevaggi/logo.svg"
+}

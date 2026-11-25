@@ -1,0 +1,16 @@
+{
+ "slug": "compagnia-turistico-alberghiera",
+ "company": "Compagnia-turistico Alberghiera",
+ "full_name": "Gaspare Putaggio",
+ "first": "Gaspare",
+ "cover_note": "C-hotels ha 4 hotel a Firenze, 3 a Milano, 2 a Roma e 1 a Rimini.",
+ "evidence": [
+  {
+   "claim": "C-hotels ha 4 hotel a Firenze, 3 a Milano, 2 a Roma e 1 a Rimini.",
+   "url": "https://www.c-hotels.it/",
+   "quote": "Firenze 4 Hotel 457 Stanze Milano 3 Hotel 269 Stanze Roma 2 Hotel 162 Stanze Rimini 1 Hotel 67 Stanze"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

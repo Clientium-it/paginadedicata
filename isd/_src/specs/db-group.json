@@ -1,0 +1,17 @@
+{
+ "slug": "db-group",
+ "company": "DB Group",
+ "full_name": "Cristina Enaudi",
+ "first": "Cristina",
+ "cover_note": "DB Group ha filiali in Italia a Milano, Prato, Verona e Montebelluna, con oltre 70.000 mq di spazi di magazzino.",
+ "evidence": [
+  {
+   "claim": "DB Group ha filiali in Italia a Milano, Prato, Verona e Montebelluna, con oltre 70.000 mq di spazi di magazzino.",
+   "url": "https://dbgroup.net/en/network/europe/italy",
+   "quote": "The other branch offices in Italy are in Milan, Prato and Verona which, with Montebelluna, serve all the most developed industrial districts in Italy, using over 70,000 sq.m of warehousing space."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/db-group/logo.png"
+}

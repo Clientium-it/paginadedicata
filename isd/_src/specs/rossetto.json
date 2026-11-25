@@ -1,0 +1,22 @@
+{
+ "slug": "rossetto",
+ "company": "Rossetto",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Rossetto dal 1965 conta 29 punti vendita, 2 centri di distribuzione e 12 laboratori con 2.750 collaboratori.",
+ "evidence": [
+  {
+   "claim": "Rossetto dal 1965 conta 29 punti vendita, 2 centri di distribuzione e 12 laboratori con 2.750 collaboratori.",
+   "url": "https://rossettogroup.it/il-gruppo/",
+   "quote": "2.750 Collaboratori 1 Sede direzionale 52 Automezzi 2 Centri distribuzione 29 Punti vendita 12 Laboratori"
+  },
+  {
+   "claim": "Rossetto dal 1965 conta 29 punti vendita, 2 centri di distribuzione e 12 laboratori con 2.750 collaboratori.",
+   "url": "https://rossettogroup.it/il-gruppo/",
+   "quote": "Dal 1965 i Supermercati Rossetto un punto di riferimento per tutta la famiglia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/rossetto/logo.svg"
+}

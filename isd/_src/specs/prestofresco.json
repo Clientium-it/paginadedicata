@@ -1,0 +1,22 @@
+{
+ "slug": "prestofresco",
+ "company": "Prestofresco",
+ "full_name": "Barbara Buscaglia",
+ "first": "Barbara",
+ "cover_note": "Prestofresco è una catena di supermercati con 100 punti vendita nel Nord Ovest Italia, nata negli anni 80 dalle macellerie di famiglia.",
+ "evidence": [
+  {
+   "claim": "Prestofresco è una catena di supermercati con 100 punti vendita nel Nord Ovest Italia, nata negli anni 80 dalle macellerie di famiglia.",
+   "url": "https://prestofresco.it/chi-siamo/",
+   "quote": "Prestofresco oggi è una catena di supermercati con 100 punti vendita nel Nord Ovest Italia."
+  },
+  {
+   "claim": "Prestofresco è una catena di supermercati con 100 punti vendita nel Nord Ovest Italia, nata negli anni 80 dalle macellerie di famiglia.",
+   "url": "https://prestofresco.it/chi-siamo/",
+   "quote": "La sua è una storia che inizia negli anni 80: la famiglia di Prestofresco, da sempre guidata da valori di territorialità e sostenibilità, inizia la propria esperienza nella gestione di macellerie tradizionali"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/prestofresco/logo.png"
+}

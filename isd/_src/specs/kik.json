@@ -1,0 +1,21 @@
+{
+ "slug": "kik",
+ "company": "KiK",
+ "full_name": "Annalisa Giannetto",
+ "first": "Annalisa",
+ "cover_note": "KiK ha oltre 180 punti vendita in Italia, con in media 15.000 prodotti diversi in ciascuno.",
+ "evidence": [
+  {
+   "claim": "KiK ha oltre 180 punti vendita in Italia, con in media 15.000 prodotti diversi in ciascuno.",
+   "url": "https://azienda.kik.it/azienda/chi-siamo/le-nostre-sedi",
+   "quote": "Oltre 180 punti vendita in Italia E probabilmente ce n'è una anche vicino a te! Con il nostro localizzatore di filiali puoi trovare in modo semplice e veloce tutti i punti vendita KiK nelle tue vicinanze."
+  },
+  {
+   "claim": "KiK ha oltre 180 punti vendita in Italia, con in media 15.000 prodotti diversi in ciascuno.",
+   "url": "https://azienda.kik.it/azienda/chi-siamo/le-nostre-sedi",
+   "quote": "Nei nostri punti vendita presentiamo in media 15.000 prodotti diversi."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

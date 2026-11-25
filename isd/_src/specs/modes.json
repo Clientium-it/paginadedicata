@@ -1,0 +1,21 @@
+{
+ "slug": "modes",
+ "company": "MODES",
+ "full_name": "Alberto Cantoni",
+ "first": "Alberto",
+ "cover_note": "MODES ha 22 store tra Italia, Francia e Svizzera, con sede a Milano e una rete di boutique multimarca, negozi per bambini e franchising monomarca.",
+ "evidence": [
+  {
+   "claim": "MODES ha 22 store tra Italia, Francia e Svizzera, con sede a Milano e una rete di boutique multimarca, negozi per bambini e franchising monomarca.",
+   "url": "https://modes.com/en-de/pages/story",
+   "quote": "Headquartered in Milan and present in Italy, France, and Switzerland, MODES currently counts 22 stores. Eleven are signature multi-brand boutiques, specialized in menswear, womenswear, and accessories from today's most relevant designers. Four are MINIMODES multi-brand boutiques dedicated to children, and seven are mono-brand franchises."
+  },
+  {
+   "claim": "MODES ha 22 store tra Italia, Francia e Svizzera, con sede a Milano e una rete di boutique multimarca, negozi per bambini e franchising monomarca.",
+   "url": "https://modes.com/en-de/pages/story",
+   "quote": "MODES works with more than 300 brands and employs more than 180 individuals."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

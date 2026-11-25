@@ -1,0 +1,22 @@
+{
+ "slug": "italmark",
+ "company": "Italmark",
+ "full_name": "Alessandro Odolini",
+ "first": "Alessandro",
+ "cover_note": "Italmark conta 100 punti vendita in Lombardia, soprattutto nelle province di Brescia, Bergamo, Cremona e Mantova.",
+ "evidence": [
+  {
+   "claim": "Italmark conta 100 punti vendita in Lombardia, soprattutto nelle province di Brescia, Bergamo, Cremona e Mantova.",
+   "url": "https://www.italmark.it/azienda/",
+   "quote": "Oggi fanno parte di Italmark 100 punti vendita distribuiti sul territorio lombardo, prevalentemente nelle province di Brescia, Bergamo, Cremona e Mantova."
+  },
+  {
+   "claim": "Italmark conta 100 punti vendita in Lombardia, soprattutto nelle province di Brescia, Bergamo, Cremona e Mantova.",
+   "url": "https://www.italmark.it/azienda/",
+   "quote": "Nel Febbraio del 65, l'incontro tra la visione imprenditoriale e il coraggio di Giuseppe, con le risorse finanziarie di Faustino sancisce l'inizio di una nuova avventura: Italfrutta."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/italmark/logo.svg"
+}

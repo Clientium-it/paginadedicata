@@ -1,0 +1,17 @@
+{
+ "slug": "attanasio",
+ "company": "Attanasio",
+ "full_name": "Vittorio Milazzo",
+ "first": "Vittorio",
+ "cover_note": "Attanasio dispone di nove magazzini per oltre 20.000 metri quadri, dove depositare la merce a breve e lungo termine.",
+ "evidence": [
+  {
+   "claim": "Attanasio dispone di nove magazzini per oltre 20.000 metri quadri, dove depositare la merce a breve e lungo termine.",
+   "url": "https://attanasio.biz/servizi/area-logistica",
+   "quote": "Disponiamo di nove magazzini di oltre mq. 20.000, dove depositare la vostra merce sia a breve che a lungo termine"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/attanasio/logo.png"
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "promoclub",
+ "company": "Promoclub",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Promoclub conta oltre 150.000 iscritti alla community e 28 negozi in Italia.",
+ "evidence": [
+  {
+   "claim": "Promoclub conta oltre 150.000 iscritti alla community e 28 negozi in Italia.",
+   "url": "https://www.promoclub.it/",
+   "quote": "la continua crescita della community promoclub che ora conta oltre 150.000 iscritti e 28 negozi in Italia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

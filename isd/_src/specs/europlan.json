@@ -1,0 +1,17 @@
+{
+ "slug": "europlan",
+ "company": "Europlan",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Europlan gestisce 20 alloggi sul Lago di Garda.",
+ "evidence": [
+  {
+   "claim": "Europlan gestisce 20 alloggi sul Lago di Garda.",
+   "url": "https://www.europlan.it/strutture",
+   "quote": "Tutti gli alloggi di Europlan Scopri 20 alloggi sul Lago di Garda"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/europlan/logo.png"
+}

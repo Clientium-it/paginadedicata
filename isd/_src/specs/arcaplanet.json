@@ -1,0 +1,21 @@
+{
+ "slug": "arcaplanet",
+ "company": "Arcaplanet",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Arcaplanet ha 596 pet store in tutta Italia e oltre 3.000 collaboratori, con una community fidelizzata grazie alla Arcacard.",
+ "evidence": [
+  {
+   "claim": "Arcaplanet ha 596 pet store in tutta Italia e oltre 3.000 collaboratori, con una community fidelizzata grazie alla Arcacard.",
+   "url": "https://magazine.arcaplanet.it/eventi/eventi-speciali/30-anni-arcaplanet/",
+   "quote": "Oltre 590 negozi in tutta Italia accolgono ogni giorno migliaia di Pet-parent con personale esperto, pronto ad ascoltare, consigliare e offrire soluzioni personalizzate per ogni esigenza"
+  },
+  {
+   "claim": "Arcaplanet ha 596 pet store in tutta Italia e oltre 3.000 collaboratori, con una community fidelizzata grazie alla Arcacard.",
+   "url": "https://magazine.arcaplanet.it/eventi/eventi-speciali/30-anni-arcaplanet/",
+   "quote": "diventando leader nel mondo del Pet Care con 596 pet store, oltre 3.000 collaboratori e una community sempre più ampia e fidelizzata grazie alla Arcacard"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

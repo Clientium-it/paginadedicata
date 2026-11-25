@@ -1,0 +1,17 @@
+{
+ "slug": "t-o-delta",
+ "company": "T.O. Delta",
+ "full_name": "Enrico Serlenga",
+ "first": "Enrico",
+ "cover_note": "T.O. Delta opera attraverso 34 uffici nel mondo e terminal marittimi, dal bacino del Mediterraneo fino ai porti del Far East.",
+ "evidence": [
+  {
+   "claim": "T.O. Delta opera attraverso 34 uffici nel mondo e terminal marittimi, dal bacino del Mediterraneo fino ai porti del Far East.",
+   "url": "https://todelta.it/the-group/",
+   "quote": "Its operational capability covers from the Mediterranean basin to the rapidly growing Far-East ports, through 34 offices worldwide and marine terminals (container and break-bulk)."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/t-o-delta/logo.svg"
+}

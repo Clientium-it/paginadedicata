@@ -1,0 +1,22 @@
+{
+ "slug": "number-1",
+ "company": "Number 1",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Number 1 ha 9 hub tra Milano, Parma, Bologna, Roma, Caserta, Catania, Cagliari, Verona e Bari e gestisce in tutto 54 siti.",
+ "evidence": [
+  {
+   "claim": "Number 1 ha 9 hub tra Milano, Parma, Bologna, Roma, Caserta, Catania, Cagliari, Verona e Bari e gestisce in tutto 54 siti.",
+   "url": "https://number1.it/azienda/",
+   "quote": "9 HUB (Milano, Parma, Bologna, Roma, Caserta, Catania, Cagliari, Verona, Bari) servono direttamente la grande distribuzione con consegne punto a punto o multi punto."
+  },
+  {
+   "claim": "Number 1 ha 9 hub tra Milano, Parma, Bologna, Roma, Caserta, Catania, Cagliari, Verona e Bari e gestisce in tutto 54 siti.",
+   "url": "https://number1.it/azienda/",
+   "quote": "54 siti gestiti"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/number-1/logo.png"
+}

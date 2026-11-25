@@ -1,0 +1,21 @@
+{
+ "slug": "fedex",
+ "company": "FedEx",
+ "full_name": "",
+ "first": "",
+ "cover_note": "FedEx ha 35 filiali operative in tutta la penisola, con 405 veicoli e oltre 1.300 persone, e opera in Italia dal 1986.",
+ "evidence": [
+  {
+   "claim": "FedEx ha 35 filiali operative in tutta la penisola, con 405 veicoli e oltre 1.300 persone, e opera in Italia dal 1986.",
+   "url": "https://newsroom.fedex.com/newsroom/europe/da-30-anni-le-aziende-italiane-diventano-internazionali-con-fedex",
+   "quote": "35 filiali operative in tutta la penisola, 405 veicoli e oltre 1.300 persone"
+  },
+  {
+   "claim": "FedEx ha 35 filiali operative in tutta la penisola, con 405 veicoli e oltre 1.300 persone, e opera in Italia dal 1986.",
+   "url": "https://newsroom.fedex.com/newsroom/europe/da-30-anni-le-aziende-italiane-diventano-internazionali-con-fedex",
+   "quote": "La società ha iniziato ad operare sul suolo italiano nel 1986, con una continua crescita che l'ha condotta ad avere 35 filiali operative in tutta la penisola"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

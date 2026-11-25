@@ -1,0 +1,22 @@
+{
+ "slug": "prix",
+ "company": "Prix",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Prix supera i 190 punti vendita con oltre 2100 dipendenti nel canale discount del Triveneto.",
+ "evidence": [
+  {
+   "claim": "Prix supera i 190 punti vendita con oltre 2100 dipendenti nel canale discount del Triveneto.",
+   "url": "https://www.prixquality.com/storia/",
+   "quote": "Oggi si superano i 190 punti vendita con oltre 2100 dipendenti, confermandosi leader del Triveneto nel canale discount."
+  },
+  {
+   "claim": "Prix supera i 190 punti vendita con oltre 2100 dipendenti nel canale discount del Triveneto.",
+   "url": "https://www.prixquality.com/storia/",
+   "quote": "nel 1971 inaugurano il primo dei Supermercati Vicentini"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/prix/logo.png"
+}

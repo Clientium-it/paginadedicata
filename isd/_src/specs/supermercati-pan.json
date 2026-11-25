@@ -1,0 +1,22 @@
+{
+ "slug": "supermercati-pan",
+ "company": "Supermercati Pan",
+ "full_name": "Davide Locci",
+ "first": "Davide",
+ "cover_note": "Supermercati Pan ha oltre 30 punti vendita in 16 comuni della Sardegna con più di 1000 collaboratori.",
+ "evidence": [
+  {
+   "claim": "Supermercati Pan ha oltre 30 punti vendita in 16 comuni della Sardegna con più di 1000 collaboratori.",
+   "url": "https://www.supermercatipan.it/storia/le-nostre-insegne",
+   "quote": "30+ Punti vendita di diverse dimensioni 16 Comuni in Sardegna 1000+ Collaboratori nei punti vendita"
+  },
+  {
+   "claim": "Supermercati Pan ha oltre 30 punti vendita in 16 comuni della Sardegna con più di 1000 collaboratori.",
+   "url": "https://www.supermercatipan.it/storia/le-nostre-insegne",
+   "quote": "1000+ Collaboratori nei punti vendita"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/supermercati-pan/logo.svg"
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "hotel-fonzari",
+ "company": "Hotel Fonzari",
+ "full_name": "Marco Ive",
+ "first": "Marco",
+ "cover_note": "Hotel Fonzari fa parte del Gruppo Gallerini Hotels, che conta 20 strutture ricettive in città come Udine, Grado, Lignano, Cormons e Venezia.",
+ "evidence": [
+  {
+   "claim": "Hotel Fonzari fa parte del Gruppo Gallerini Hotels, che conta 20 strutture ricettive in città come Udine, Grado, Lignano, Cormons e Venezia.",
+   "url": "https://www.hotelfonzari.com/chi-siamo/",
+   "quote": "L'Hotel Fonzari fa parte del Gruppo Gallerini Hotels che conta 20 strutture ricettive a Udine, Grado, Lignano, Cormons, San Daniele, Redipuglia, Cervignano, Tarvisio, Cervignano del Friuli, Pontebba, Venezia, Moena."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

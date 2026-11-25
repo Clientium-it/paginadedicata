@@ -1,0 +1,21 @@
+{
+ "slug": "parc-hotels",
+ "company": "Parc Hotels",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Parc Hotels ha 9 strutture sulle rive del lago più grande d'Italia e 4 alberghi sulla costa orientale della Sicilia.",
+ "evidence": [
+  {
+   "claim": "Parc Hotels ha 9 strutture sulle rive del lago più grande d'Italia e 4 alberghi sulla costa orientale della Sicilia.",
+   "url": "https://www.parchotels.it/",
+   "quote": "9 strutture per ogni tipologia di vacanza sulle rive del lago più grande e famoso d'Italia"
+  },
+  {
+   "claim": "Parc Hotels ha 9 strutture sulle rive del lago più grande d'Italia e 4 alberghi sulla costa orientale della Sicilia.",
+   "url": "https://www.parchotels.it/",
+   "quote": "4 alberghi sulla costa orientale della Sicilia, ricca di storia e meraviglie naturali"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

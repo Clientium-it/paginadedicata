@@ -1,0 +1,22 @@
+{
+ "slug": "in-s-mercato",
+ "company": "IN'S Mercato",
+ "full_name": "",
+ "first": "",
+ "cover_note": "IN'S Mercato ha una rete di oltre 560 punti vendita in 12 regioni italiane, con oltre 3.900 collaboratori, partita nel 1994 in Veneto.",
+ "evidence": [
+  {
+   "claim": "IN'S Mercato ha una rete di oltre 560 punti vendita in 12 regioni italiane, con oltre 3.900 collaboratori, partita nel 1994 in Veneto.",
+   "url": "https://www.insmercato.it/trenta-anni-ins-mercato/",
+   "quote": "Da quel momento siamo cresciuti con impegno e costanza, raggiungendo una rete di oltre 560 punti vendita in 12 regioni Italiane, con oltre 3.900 collaboratori."
+  },
+  {
+   "claim": "IN'S Mercato ha una rete di oltre 560 punti vendita in 12 regioni italiane, con oltre 3.900 collaboratori, partita nel 1994 in Veneto.",
+   "url": "https://www.insmercato.it/trenta-anni-ins-mercato/",
+   "quote": "Nel 1994 infatti abbiamo inaugurato il primo punto vendita in Veneto."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/in-s-mercato/logo.svg"
+}

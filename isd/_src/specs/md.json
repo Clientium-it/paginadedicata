@@ -1,0 +1,22 @@
+{
+ "slug": "md",
+ "company": "MD",
+ "full_name": "",
+ "first": "",
+ "cover_note": "MD ha 785 punti vendita a marchio MD in tutto il territorio nazionale, con 3,75 miliardi di euro di fatturato nel 2025.",
+ "evidence": [
+  {
+   "claim": "MD ha 785 punti vendita a marchio MD in tutto il territorio nazionale, con 3,75 miliardi di euro di fatturato nel 2025.",
+   "url": "https://www.mdspa.it/chi-siamo/",
+   "quote": "785 punti vendita a marchio MD dislocati in tutto il territorio nazionale"
+  },
+  {
+   "claim": "MD ha 785 punti vendita a marchio MD in tutto il territorio nazionale, con 3,75 miliardi di euro di fatturato nel 2025.",
+   "url": "https://www.mdspa.it/chi-siamo/",
+   "quote": "3,75 miliardi di euro di Fatturato nel 2025"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/md/logo.svg"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "speedy",
+ "company": "Speedy",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Speedy ha 13 punti tra Toscana e Sardegna con una presenza capillare su questi territori.",
+ "evidence": [
+  {
+   "claim": "Speedy ha 13 punti tra Toscana e Sardegna con una presenza capillare su questi territori.",
+   "url": "https://www.speedyworld.it/point",
+   "quote": "13 punti tra Toscana e Sardegna. Clicca su \"Apri in Maps\" per ottenere le indicazioni stradali."
+  },
+  {
+   "claim": "Speedy ha 13 punti tra Toscana e Sardegna con una presenza capillare su questi territori.",
+   "url": "https://www.speedyworld.it/point",
+   "quote": "Presenza capillare in Toscana e Sardegna"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/speedy/logo.png"
+}

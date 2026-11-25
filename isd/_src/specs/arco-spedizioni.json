@@ -1,0 +1,22 @@
+{
+ "slug": "arco-spedizioni",
+ "company": "Arco Spedizioni",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Arco Spedizioni ha 125 filiali in tutta Italia e 325.000 metri quadri di magazzini.",
+ "evidence": [
+  {
+   "claim": "Arco Spedizioni ha 125 filiali in tutta Italia e 325.000 metri quadri di magazzini.",
+   "url": "https://www.arcospedizioni.it/azienda/",
+   "quote": "125 filiali in tutta Italia"
+  },
+  {
+   "claim": "Arco Spedizioni ha 125 filiali in tutta Italia e 325.000 metri quadri di magazzini.",
+   "url": "https://www.arcospedizioni.it/azienda/",
+   "quote": "325.000 MQ di magazzini"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/arco-spedizioni/logo.svg"
+}

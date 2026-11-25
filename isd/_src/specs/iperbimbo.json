@@ -1,0 +1,22 @@
+{
+ "slug": "iperbimbo",
+ "company": "Iperbimbo",
+ "full_name": "Paolo Soloperto",
+ "first": "Paolo",
+ "cover_note": "Iperbimbo ha oltre 40 punti vendita in tutta Italia ed è al tuo fianco dal 1994.",
+ "evidence": [
+  {
+   "claim": "Iperbimbo ha oltre 40 punti vendita in tutta Italia ed è al tuo fianco dal 1994.",
+   "url": "https://www.iperbimbo.it/pages/chi-siamo",
+   "quote": "oltre 40 punti vendita in tutta Italia"
+  },
+  {
+   "claim": "Iperbimbo ha oltre 40 punti vendita in tutta Italia ed è al tuo fianco dal 1994.",
+   "url": "https://www.iperbimbo.it/pages/chi-siamo",
+   "quote": "Dal 1994 sempre al tuo fianco"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/iperbimbo/logo.svg"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "torello-trasporti",
+ "company": "Torello Trasporti",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Torello Trasporti ha aperto a Reggio Emilia, ampliato il magazzino di Padova all'Interporto e consolidato le due filiali in provincia di Verona.",
+ "evidence": [
+  {
+   "claim": "Torello Trasporti ha aperto a Reggio Emilia, ampliato il magazzino di Padova all'Interporto e consolidato le due filiali in provincia di Verona.",
+   "url": "https://tntorello.com/snella-e-presente-la-distribuzione-di-torello/",
+   "quote": "L'apertura di Reggio Emilia, la decisione a Padova di spostarsi in un magazzino più grande – sempre all'interno di Interporto Padova -, il consolidamento delle due filiali in provincia di Verona"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/torello-trasporti/logo.svg"
+}

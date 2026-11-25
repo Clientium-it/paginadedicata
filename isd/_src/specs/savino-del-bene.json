@@ -1,0 +1,21 @@
+{
+ "slug": "savino-del-bene",
+ "company": "Savino Del Bene",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Savino Del Bene ha oltre 300 uffici in 60 paesi nel mondo e più di 6.400 dipendenti.",
+ "evidence": [
+  {
+   "claim": "Savino Del Bene ha oltre 300 uffici in 60 paesi nel mondo e più di 6.400 dipendenti.",
+   "url": "https://www.savinodelbene.com/company/",
+   "quote": "We are a global network because we guarantee you a worldwide presence with over 300 offices strategically located in 60 countries and knowledge of the customs and administrative regulations followed on all five continents."
+  },
+  {
+   "claim": "Savino Del Bene ha oltre 300 uffici in 60 paesi nel mondo e più di 6.400 dipendenti.",
+   "url": "https://www.savinodelbene.com/company/",
+   "quote": "With a network of more than 6,400 employees in 60 countries around the world, we handle complex shipments and provide customized solutions tailored to meet the needs of every business."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

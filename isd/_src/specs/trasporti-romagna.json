@@ -1,0 +1,21 @@
+{
+ "slug": "trasporti-romagna",
+ "company": "Trasporti Romagna",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Trasporti Romagna ha una rete di depositi in tutta Italia su oltre 250.000 metri quadrati e fa partire più di 300 mezzi ogni giorno.",
+ "evidence": [
+  {
+   "claim": "Trasporti Romagna ha una rete di depositi in tutta Italia su oltre 250.000 metri quadrati e fa partire più di 300 mezzi ogni giorno.",
+   "url": "https://website.trasportiromagna.com/it/sedi",
+   "quote": "La rete di depositi dislocati in Italia destinati allo stoccaggio ed alla movimentazione di ogni tipologia di merce, dall'alimentare al no food, si sviluppa su oltre 250.000 metri quadrati di superficie"
+  },
+  {
+   "claim": "Trasporti Romagna ha una rete di depositi in tutta Italia su oltre 250.000 metri quadrati e fa partire più di 300 mezzi ogni giorno.",
+   "url": "https://website.trasportiromagna.com/it/sedi",
+   "quote": "si sviluppa su oltre 250.000 metri quadrati di superficie e fa partire oltre 300 mezzi, distribuendo così più di 700.000 colli ogni giorno in tutta Italia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

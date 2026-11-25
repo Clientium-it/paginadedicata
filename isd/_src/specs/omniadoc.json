@@ -1,0 +1,22 @@
+{
+ "slug": "omniadoc",
+ "company": "OMNIADOC",
+ "full_name": "Stefano Dogliani",
+ "first": "Stefano",
+ "cover_note": "OMNIADOC ha 14 sedi operative distribuite sul territorio nazionale e una rete commerciale che raggiunge i clienti in tutta Italia.",
+ "evidence": [
+  {
+   "claim": "OMNIADOC ha 14 sedi operative distribuite sul territorio nazionale e una rete commerciale che raggiunge i clienti in tutta Italia.",
+   "url": "https://www.omniadoc.it/contatti/",
+   "quote": "Con 14 sedi operative distribuite strategicamente sul territorio nazionale e una rete commerciale in grado di raggiungere i clienti ovunque si trovino"
+  },
+  {
+   "claim": "OMNIADOC ha 14 sedi operative distribuite sul territorio nazionale e una rete commerciale che raggiunge i clienti in tutta Italia.",
+   "url": "https://www.omniadoc.it/contatti/",
+   "quote": "Con 14 sedi operative distribuite strategicamente sul territorio nazionale e una rete commerciale in grado di raggiungere i clienti ovunque si trovino, OMNIADOC garantisce un servizio capillare, tempestivo e coerente in tutta Italia."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/omniadoc/logo.png"
+}

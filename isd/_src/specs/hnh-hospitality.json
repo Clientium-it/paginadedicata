@@ -1,0 +1,21 @@
+{
+ "slug": "hnh-hospitality",
+ "company": "HNH Hospitality",
+ "full_name": "",
+ "first": "",
+ "cover_note": "HNH Hospitality riunisce diciannove alberghi in tutta Italia, da Milano e Verona fino a Venezia, Roma, Sicilia e Sardegna, con altri quattro in arrivo.",
+ "evidence": [
+  {
+   "claim": "HNH Hospitality riunisce diciannove alberghi in tutta Italia, da Milano e Verona fino a Venezia, Roma, Sicilia e Sardegna, con altri quattro in arrivo.",
+   "url": "https://www.hnh.it/",
+   "quote": "Fanno riferimento al Gruppo diciannove alberghi (più quattro in pipeline) ubicati in tutta Italia"
+  },
+  {
+   "claim": "HNH Hospitality riunisce diciannove alberghi in tutta Italia, da Milano e Verona fino a Venezia, Roma, Sicilia e Sardegna, con altri quattro in arrivo.",
+   "url": "https://www.hnh.it/",
+   "quote": "da Nord a Sud in città come Milano, Torino, Trento, Bergamo, Verona, Padova, Trieste e Bologna, fino alle destinazioni a più alta vocazione turistica come Jesolo, Venezia, Roma, Sicilia e Sardegna"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

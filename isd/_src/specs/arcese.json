@@ -1,0 +1,22 @@
+{
+ "slug": "arcese",
+ "company": "Arcese",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Arcese conta 70 filiali nei 5 continenti, con oltre 3.500 dipendenti e più di un miliardo di euro di fatturato.",
+ "evidence": [
+  {
+   "claim": "Arcese conta 70 filiali nei 5 continenti, con oltre 3.500 dipendenti e più di un miliardo di euro di fatturato.",
+   "url": "https://arcese.com/chi-siamo/",
+   "quote": "70 filiali nei 5 continenti"
+  },
+  {
+   "claim": "Arcese conta 70 filiali nei 5 continenti, con oltre 3.500 dipendenti e più di un miliardo di euro di fatturato.",
+   "url": "https://arcese.com/chi-siamo/",
+   "quote": "+1.000 mio/euro fatturato +3.500 dipendenti 70 filiali nei 5 continenti"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/arcese/logo.png"
+}

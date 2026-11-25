@@ -1,0 +1,22 @@
+{
+ "slug": "rialto",
+ "company": "Rialto",
+ "full_name": "Carlo Zanutto",
+ "first": "Carlo",
+ "cover_note": "Il Gigante dal 1972 gestisce grandi superfici, centri commerciali e supermercati cittadini in Lombardia, Piemonte ed Emilia Romagna con circa 5.000 dipendenti.",
+ "evidence": [
+  {
+   "claim": "Il Gigante dal 1972 gestisce grandi superfici, centri commerciali e supermercati cittadini in Lombardia, Piemonte ed Emilia Romagna con circa 5.000 dipendenti.",
+   "url": "https://ilgigante.net/azienda/",
+   "quote": "Dal lontano 1972 ad oggi il Gruppo il Gigante ha portato avanti la propria politica di apertura di grandi superfici, centri commerciali e supermercati cittadini sviluppando la propria area di attività nelle Regioni Lombardia, Piemonte ed Emilia Romagna."
+  },
+  {
+   "claim": "Il Gigante dal 1972 gestisce grandi superfici, centri commerciali e supermercati cittadini in Lombardia, Piemonte ed Emilia Romagna con circa 5.000 dipendenti.",
+   "url": "https://ilgigante.net/azienda/",
+   "quote": "Oggi Il Gigante conta circa 5.000 dipendenti."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/rialto/logo.svg"
+}

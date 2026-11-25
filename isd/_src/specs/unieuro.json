@@ -1,0 +1,22 @@
+{
+ "slug": "unieuro",
+ "company": "Unieuro",
+ "full_name": "",
+ "first": "",
+ "cover_note": "Unieuro ha oltre 400 punti vendita con una rete di distribuzione capillare presente su tutto il territorio nazionale.",
+ "evidence": [
+  {
+   "claim": "Unieuro ha oltre 400 punti vendita con una rete di distribuzione capillare presente su tutto il territorio nazionale.",
+   "url": "https://www.unieuro.it/online/negozi",
+   "quote": "Oltre 400 punti vendita al tuo servizio"
+  },
+  {
+   "claim": "Unieuro ha oltre 400 punti vendita con una rete di distribuzione capillare presente su tutto il territorio nazionale.",
+   "url": "https://www.unieuro.it/online/negozi",
+   "quote": "una capillare rete di distribuzione presente su tutto il territorio nazionale"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/unieuro/logo.svg"
+}
