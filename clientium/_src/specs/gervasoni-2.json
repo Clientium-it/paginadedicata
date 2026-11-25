@@ -1,0 +1,28 @@
+{
+ "slug": "gervasoni-2",
+ "company": "Gervasoni",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gervasoni lavora nell'arredo indoor e outdoor e ha uno showroom a New York su Lexington Avenue. Qui trova come lavoriamo e cosa potremmo fare per Gervasoni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gervasoni.",
+ "evidence": [
+  {
+   "claim": "Gervasoni lavora nell'arredo indoor e outdoor e ha uno showroom a New York su Lexington Avenue.",
+   "url": "https://gervasoni1882.com/it/azienda/about-us",
+   "quote": "Ad oggi, è una realtà affermata nel mondo dell’arredo indoor e outdoor. || Showroom New York 192 Lexington Ave New York, NY 10016 United States"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

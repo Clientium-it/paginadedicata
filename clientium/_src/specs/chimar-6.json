@@ -1,0 +1,28 @@
+{
+ "slug": "chimar-6",
+ "company": "Chimar",
+ "first_name": "Manuel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Chimar progetta imballaggi su misura con oltre diecimila modelli, anche in legno o cartone, dalla sede di Limidi di Soliera su 20.000 metri quadri. Qui trova come lavoriamo e cosa potremmo fare per Chimar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Chimar.",
+ "evidence": [
+  {
+   "claim": "Chimar progetta imballaggi su misura con oltre diecimila modelli, anche in legno o cartone, dalla sede di Limidi di Soliera su 20.000 metri quadri.",
+   "url": "https://chimar.eu/",
+   "quote": "Con oltre diecimila modelli siamo in grado di garantire la massima sicurezza e di creare, insieme al cliente e senza vincoli di materiale, la soluzione di imballaggio su misura più idonea, anche con packaging sostenibile in legno o cartone. || CHIMAR 1 – Headquarter, Production plant Via Archimede, 175 – 41019 Limidi di Soliera (MO). Area 20.000 Mq. di cui 10.000 coperti"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "apa",
+ "company": "APA",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "APA da 40 anni lavora nel materiale adesivo con cast film e calandrati da intaglio per interior design e car wrapping. Qui trova come lavoriamo e cosa potremmo fare per APA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per APA.",
+ "evidence": [
+  {
+   "claim": "APA da 40 anni lavora nel materiale adesivo con cast film e calandrati da intaglio per interior design e car wrapping.",
+   "url": "https://www.apaspa.com/chi-siamo/",
+   "quote": "La costante ricerca di nuove tecnologie e sviluppi fa da motore a un’azienda che, da ormai 40 anni occupa stabilmente il mercato del materiale adesivo. Cast film e calandrati da intaglio, interior design e car wrapping."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

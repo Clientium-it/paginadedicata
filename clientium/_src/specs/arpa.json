@@ -1,0 +1,28 @@
+{
+ "slug": "arpa",
+ "company": "Arpa",
+ "first_name": "Jonathan",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Arpa produce dal 1954 superfici in HPL per l'interior design e la progettazione di prodotto. Qui trova come lavoriamo e cosa potremmo fare per Arpa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Arpa.",
+ "evidence": [
+  {
+   "claim": "Arpa produce dal 1954 superfici in HPL per l'interior design e la progettazione di prodotto.",
+   "url": "https://www.arpaforinteriors.com/de-DE",
+   "quote": "Seit 1954 stellt Arpa hochwertige HPL-Oberflächen für die Innenraum- und Produktgestaltung her. || Arpa Industriale S.p.A. is a private company under the laws of Italy, whose registered office is at Via Piumati 91, 12042 Bra (CN), registered at Chamber of Commerce of Cuneo at n. 123700."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

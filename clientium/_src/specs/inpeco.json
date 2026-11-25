@@ -1,0 +1,28 @@
+{
+ "slug": "inpeco",
+ "company": "Inpeco",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Inpeco dal 1995 ha progettato oltre 2800 sistemi di automazione di laboratorio per clienti in 78 paesi, con uffici in Europa e America. Qui trova come lavoriamo e cosa potremmo fare per Inpeco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Inpeco.",
+ "evidence": [
+  {
+   "claim": "Inpeco dal 1995 ha progettato oltre 2800 sistemi di automazione di laboratorio per clienti in 78 paesi, con uffici in Europa e America.",
+   "url": "https://www.inpeco.com/our-company/our-purpose/",
+   "quote": "Since we invented lab automation in 1995, we have designed and built over 2800 systems for customers in 78 countries. || Over the years, our group has unfolded as an international reality, with different offices located both in Europe and America."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

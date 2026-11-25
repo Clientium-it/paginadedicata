@@ -1,0 +1,28 @@
+{
+ "slug": "frigosystem-2",
+ "company": "Frigosystem",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Frigosystem offre oltre 500 modelli di refrigeratori d'acqua per plastica, aeronautica, flessografia e packaging, con filiali in Messico, Stati Uniti, Germania, India e Cina. Qui trova come lavoriamo e cosa potremmo fare per Frigosystem.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Frigosystem.",
+ "evidence": [
+  {
+   "claim": "Frigosystem offre oltre 500 modelli di refrigeratori d'acqua per plastica, aeronautica, flessografia e packaging, con filiali in Messico, Stati Uniti, Germania, India e Cina.",
+   "url": "https://www.frigosystem.it/",
+   "quote": "Frigosystem Corema offers over 500 water chiller models for all cooling capacities, designed for both stand-alone and centralized systems. || The company’s global expansion began in 2014 with the opening of its branch in Mexico, followed by the United States in 2015 and Germany in 2016. In recent years, the company has further strengthened its presence in Asia with new subsidiaries in India (2023) and China (2024). || Our extensive product range serves a wide variety of industries, from plastics processing to advanced applications in aeronautics , flexography , converting , packaging , and woodworking ."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "goglio-3",
+ "company": "Goglio",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Goglio realizza dal 1850 imballaggi flessibili e macchine per alimentare, pet food e detergenza con stabilimenti in Italia, Olanda, Stati Uniti, Brasile e Cina. Qui trova come lavoriamo e cosa potremmo fare per Goglio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Goglio.",
+ "evidence": [
+  {
+   "claim": "Goglio realizza dal 1850 imballaggi flessibili e macchine per alimentare, pet food e detergenza con stabilimenti in Italia, Olanda, Stati Uniti, Brasile e Cina.",
+   "url": "https://www.goglio.it/azienda/",
+   "quote": "Dal 1850 il Gruppo Goglio progetta, sviluppa e realizza sistemi di imballaggio completi. L’offerta si compone di imballaggi flessibili, accessori in plastica rigida e macchine per ogni esigenza di confezionamento. || Goglio è presente nel mondo con stabilimenti produttivi in Italia, Olanda, Stati Uniti, Brasile e Cina, e uffici commerciali dislocati in vari paesi europei nel sud est asiatico. || per il confezionamento dell’industria alimentare, cibo per animali, detergenza, prodotti industriali, confezioni asettiche, hot filling ed etichette."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

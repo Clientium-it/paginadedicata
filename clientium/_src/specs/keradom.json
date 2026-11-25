@@ -1,0 +1,28 @@
+{
+ "slug": "keradom",
+ "company": "Keradom",
+ "first_name": "Monia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Keradom idea e produce oltre 300 articoli nei suoi stabilimenti del distretto ceramico di Sassuolo, tra Baiso e Polinago. Qui trova come lavoriamo e cosa potremmo fare per Keradom.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Keradom.",
+ "evidence": [
+  {
+   "claim": "Keradom idea e produce oltre 300 articoli nei suoi stabilimenti del distretto ceramico di Sassuolo, tra Baiso e Polinago.",
+   "url": "https://www.keradom.it/azienda/",
+   "quote": "Ognuno degli oltre 300 articoli Keradom viene interamente ideato e prodotto nei nostri laboratori e stabilimenti, situati nel distretto ceramico di Sassuolo || Validazione CAM Edilizia – Stabilimento di Baiso (RE) Validazione CAM Edilizia – Stabilimento di Polinago (MO)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

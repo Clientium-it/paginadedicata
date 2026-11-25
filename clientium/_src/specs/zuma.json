@@ -1,0 +1,28 @@
+{
+ "slug": "zuma",
+ "company": "Zuma",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Zuma produce pellami pregiati certificati CITES per il lusso in una conceria di 6500 mq e dal 2018 alleva alligatori in Louisiana. Qui trova come lavoriamo e cosa potremmo fare per Zuma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Zuma.",
+ "evidence": [
+  {
+   "claim": "Zuma produce pellami pregiati certificati CITES per il lusso in una conceria di 6500 mq e dal 2018 alleva alligatori in Louisiana.",
+   "url": "https://www.zumapellipregiate.com/",
+   "quote": "Zuma Pelli Pregiate è una conceria di 6500 mq con uno staff di oltre trenta addetti, specializzata nella produzione di pellami pregiati certificati CITES per il mercato del Lusso. || Nel 2018, inoltre, il polo è stato integrato con l’allevamento di alligatori in Louisiana. || Garantire il miglior prodotto per i più prestigiosI brand del lusso"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

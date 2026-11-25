@@ -1,0 +1,28 @@
+{
+ "slug": "mep",
+ "company": "MEP",
+ "first_name": "Enzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MEP produce 4000 segatrici l'anno su 75 modelli a catalogo, con 4 stabilimenti in 3 continenti e distribuzione in 65 nazioni. Qui trova come lavoriamo e cosa potremmo fare per MEP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MEP.",
+ "evidence": [
+  {
+   "claim": "MEP produce 4000 segatrici l'anno su 75 modelli a catalogo, con 4 stabilimenti in 3 continenti e distribuzione in 65 nazioni.",
+   "url": "https://mepsaws.it/it/azienda/chi-e-mep",
+   "quote": "4 Stabilimenti produttivi in 3 continenti 75 Modelli di segatrici a catalogo 65 Nazioni in cui distribuiamo i nostri prodotti 4000 Macchine prodotte all'anno 280 Dipendenti || è presente con stabilimenti produttivi anche in Canada, USA e Cina."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "myfamily-3",
+ "company": "MyFamily",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MyFamily realizza tutto nello stabilimento di Valenza, dagli stampi all'assemblaggio, con sedi in USA e Brasile e oltre 20 mila pet shop partner. Qui trova come lavoriamo e cosa potremmo fare per MyFamily.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MyFamily.",
+ "evidence": [
+  {
+   "claim": "MyFamily realizza tutto nello stabilimento di Valenza, dagli stampi all'assemblaggio, con sedi in USA e Brasile e oltre 20 mila pet shop partner.",
+   "url": "https://www.myfamily.it/pages/company-tour",
+   "quote": "Tutto avviene all'interno del nostro stabilimento di Valenza: dal concept iniziale alla realizzazione degli stampi, dalla produzione dei componenti al loro assemblaggio, fino alle realizzazioni tipografiche e alle iniziative pubblicitarie. || Filiali internazionali Sedi dirette in USA e Brasile || Rete specializzata Oltre 20k pet shop partner"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

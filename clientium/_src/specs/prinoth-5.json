@@ -1,0 +1,28 @@
+{
+ "slug": "prinoth-5",
+ "company": "Prinoth",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Prinoth produce macchine pesanti per movimento terra, preparazione delle piste e gestione della vegetazione, con sedi principali in Italia, Canada e Austria. Qui trova come lavoriamo e cosa potremmo fare per Prinoth.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Prinoth.",
+ "evidence": [
+  {
+   "claim": "Prinoth produce macchine pesanti per movimento terra, preparazione delle piste e gestione della vegetazione, con sedi principali in Italia, Canada e Austria.",
+   "url": "https://prinoth.com/",
+   "quote": "Prinoth is specialized in producing heavy equipment for challenging conditions. We go where most others can’t. All our machines are designed for specific purposes, whether moving earth, grooming snow or managing vegetation || In addition, we source 100 percent renewable electricity for our main sites in Italy, Canada, and Austria. || It was a perfect strategic fit and enabled Prinoth to expand its field of operations into more industries, including construction, power electric and environmental work."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "biotec-2",
+ "company": "Biotec",
+ "first_name": "Chiara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Biotec da Povolaro di Dueville offre oltre 2.000 componenti protesiche a odontoiatri e odontotecnici, per tecnica tradizionale e workflow digitale. Qui trova come lavoriamo e cosa potremmo fare per Biotec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Biotec.",
+ "evidence": [
+  {
+   "claim": "Biotec da Povolaro di Dueville offre oltre 2.000 componenti protesiche a odontoiatri e odontotecnici, per tecnica tradizionale e workflow digitale.",
+   "url": "https://www.btk.dental/prodotti/prosthesis/",
+   "quote": "Abbiamo un catalogo di oltre 2.000 componenti protesiche, per dare supporto ad odontoiatra ed a odontotecnico nella realizzazione delle protesi, sia con tecnica tradizionale, sia con workflow digitale || Biotec srl Via Industria, 53 36031 Povolaro di Dueville (VI) , Italia || per dare supporto ad odontoiatra ed a odontotecnico nella realizzazione delle protesi"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

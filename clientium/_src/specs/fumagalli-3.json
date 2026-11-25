@@ -1,0 +1,28 @@
+{
+ "slug": "fumagalli-3",
+ "company": "Fumagalli",
+ "first_name": "Annabelle",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fumagalli segue la filiera dei salumi da Nerviano a Tavernerio fino a Langhirano, dalla selezione genetica alla stagionatura e al confezionamento. Qui trova come lavoriamo e cosa potremmo fare per Fumagalli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fumagalli.",
+ "evidence": [
+  {
+   "claim": "Fumagalli segue la filiera dei salumi da Nerviano a Tavernerio fino a Langhirano, dalla selezione genetica alla stagionatura e al confezionamento.",
+   "url": "https://www.fumagallisalumi.it/essere-fumagalli/",
+   "quote": "NERVIANO (MI) Selezione genetica, riproduzione e accrescimento TAVERNERIO (CO) Macellazione e trasformazione delle carni Stagionatura e confezionamento LANGHIRANO (PR) Lavorazione e stagionatura del crudo Confezionamento || NERVIANO (MI) Selezione genetica, riproduzione e accrescimento TAVERNERIO (CO) Macellazione e trasformazione delle carni Stagionatura e confezionamento LANGHIRANO (PR) Lavorazione e stagionatura del crudo Confezionamento"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

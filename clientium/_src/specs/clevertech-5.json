@@ -1,0 +1,28 @@
+{
+ "slug": "clevertech-5",
+ "company": "Clevertech",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Clevertech si occupa di sistemi di automazione per linee a secco e umido per pet food e beverage, con sedi dal Nord America all'Asia. Qui trova come lavoriamo e cosa potremmo fare per Clevertech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Clevertech.",
+ "evidence": [
+  {
+   "claim": "Clevertech si occupa di sistemi di automazione per linee a secco e umido per pet food e beverage, con sedi dal Nord America all'Asia.",
+   "url": "https://clevertech-group.com/it/",
+   "quote": "SISTEMI DI AUTOMAZIONE PER LINEE DI PRODUZIONE A SECCO E UMIDO || ITALY HEADQUARTERS FRANCE CHOLET NORTH AMERICA Fort Myers ASIA PACIFIC Changshu City UK Doncaster SOUTH ASIA Pune EAST EUROPE Poland GERMANY Dülmen || Pet Food Personal & Hair Care Beverage Food Baby care & Tissue Home Care & Chemical Wine & Spirits Cans & Ends Making"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

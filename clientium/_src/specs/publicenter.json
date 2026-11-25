@@ -1,0 +1,28 @@
+{
+ "slug": "publicenter",
+ "company": "Publicenter",
+ "first_name": "Sjdriv",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Publicenter ha una capacità produttiva di oltre 400 milioni di card all'anno, usate in oltre 40 paesi, e lavora con realtà bancarie, retail e GDO. Qui trova come lavoriamo e cosa potremmo fare per Publicenter.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Publicenter.",
+ "evidence": [
+  {
+   "claim": "Publicenter ha una capacità produttiva di oltre 400 milioni di card all'anno, usate in oltre 40 paesi, e lavora con realtà bancarie, retail e GDO.",
+   "url": "https://www.publicenter.it/",
+   "quote": "PUBLICENTER ha all'attivo una capacità produttiva di oltre 400 milioni di card all'anno ed i suoi prodotti vengono utilizzati quotidianamente in oltre 40 paesi nel mondo. || Località Braine, 54/A - Frazione Rioveggio - 40036 Monzuno (BO) || PUBLICENTER annovera tra i propri clienti importanti realtà del mondo bancario, retail, GDO, identificativo, automotive, trasporti, telecomunicazioni ed altre ancora."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

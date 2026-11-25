@@ -1,0 +1,28 @@
+{
+ "slug": "n-and",
+ "company": "N-and",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "N-and dal 2015 progetta e produce prodotti e piattaforme software per l'interazione uomo macchina, con sedi in Italia, Cina e Hong Kong. Qui trova come lavoriamo e cosa potremmo fare per N-and.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per N-and.",
+ "evidence": [
+  {
+   "claim": "N-and dal 2015 progetta e produce prodotti e piattaforme software per l'interazione uomo macchina, con sedi in Italia, Cina e Hong Kong.",
+   "url": "https://www.n-andgroup.com/",
+   "quote": "Since its inception in 2015, N-and Group specialize in the design, development and manufacturing of cutting-edge products and software platforms to empower businesses and revolutionize the way human-machine interaction works. || With operations and trade sites in Italy, China and Hong Kong and partner network across Europe, Asia and America"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

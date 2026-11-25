@@ -1,0 +1,28 @@
+{
+ "slug": "gnutti-carlo-5",
+ "company": "Gnutti Carlo",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gnutti Carlo da Maclodio affianca OEM di auto, truck, movimento terra e marino con 4.000 addetti e 12 stabilimenti in 9 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Gnutti Carlo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gnutti Carlo.",
+ "evidence": [
+  {
+   "claim": "Gnutti Carlo da Maclodio affianca OEM di auto, truck, movimento terra e marino con 4.000 addetti e 12 stabilimenti in 9 Paesi.",
+   "url": "https://www.gnutticarlo.com/it/azienda",
+   "quote": "Con circa 800 milioni di Euro di fatturato e 4.000 addetti, l’azienda con sede a Maclodio (Brescia) ha fatto il giro del mondo: 12 stabilimenti distribuiti in 9 Paesi, tra Europa, America e Asia. || I siti produttivi e di ricerca & sviluppo si trovano in Italia (Maclodio), Svezia (Kungsör, Södra Vi, Göteborg), Repubblica Ceca (Čáslav), USA (Webberville), Canada (Huron Park), India (Ranipet) e Cina (Wuxi). || È partner di diversi OEM’s attivi nei settori auto, truck, movimento terra, motociclistico, marino, gruppi elettrogeni, e-mobility."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

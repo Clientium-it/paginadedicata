@@ -1,0 +1,28 @@
+{
+ "slug": "pedrollo",
+ "company": "Pedrollo",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pedrollo produce elettropompe dal 1974 per uso domestico, civile, industriale, agricolo e piscine, con filiali nei cinque continenti. Qui trova come lavoriamo e cosa potremmo fare per Pedrollo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pedrollo.",
+ "evidence": [
+  {
+   "claim": "Pedrollo produce elettropompe dal 1974 per uso domestico, civile, industriale, agricolo e piscine, con filiali nei cinque continenti.",
+   "url": "https://www.pedrollo.com/storia/",
+   "quote": "Quel qualcuno si chiama Silvano Pedrollo che nel 1974 fonda la Pedrollo SpA. Nasce una delle più importanti aziende produttrici di elettropompe del mondo || estende e consolida la propria presenza nei cinque continenti attraverso le proprie filiali || Domestico / Residenziale Civile / Commerciale Industriale Agricoltura / Irrigazione Piscine"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

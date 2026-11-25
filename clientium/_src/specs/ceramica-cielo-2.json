@@ -1,0 +1,28 @@
+{
+ "slug": "ceramica-cielo-2",
+ "company": "Ceramica Cielo",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ceramica Cielo realizza collezioni di arredo bagno in ceramica e accoglie architetti e interior designer nello showroom Spazio Cielo di Milano. Qui trova come lavoriamo e cosa potremmo fare per Ceramica Cielo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ceramica Cielo.",
+ "evidence": [
+  {
+   "claim": "Ceramica Cielo realizza collezioni di arredo bagno in ceramica e accoglie architetti e interior designer nello showroom Spazio Cielo di Milano.",
+   "url": "https://www.ceramicacielo.it/it/azienda/chi+siamo",
+   "quote": "Ceramica Cielo nasce dalla tradizione ed esperienza dei maestri ceramisti, con l’intento di valorizzare questa nobile materia prima, e realizzare attraverso di essa delle collezioni di arredo bagno innovative ed originali || Milano / Showroom Spazio Cielo Via Pontaccio 4/6 - 20121 Milano || luoghi dove architetti, interior designer e clienti possono vivere un’esperienza immersiva a contatto diretto con la ceramica"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

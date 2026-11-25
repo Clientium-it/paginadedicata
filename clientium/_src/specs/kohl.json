@@ -1,0 +1,28 @@
+{
+ "slug": "kohl",
+ "company": "Kohl",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Kohl progetta, costruisce e installa farmacie e ha aperto la prima filiale italiana a Badia Calavena, in provincia di Verona. Qui trova come lavoriamo e cosa potremmo fare per Kohl.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kohl.",
+ "evidence": [
+  {
+   "claim": "Kohl progetta, costruisce e installa farmacie e ha aperto la prima filiale italiana a Badia Calavena, in provincia di Verona.",
+   "url": "https://thkohl.it/",
+   "quote": "Progettiamo, costruiamo e installiamo farmacie. || Theodor Kohl (figlio del fondatore) apre la prima filiale italiana a Badia Calavena, in provincia di Verona. || Perciò abbiamo scelto di abbracciare l’evoluzione del retail design e rispondere alle nuove esigenze della clientela."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

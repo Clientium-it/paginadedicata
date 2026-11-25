@@ -1,0 +1,28 @@
+{
+ "slug": "gilbarco",
+ "company": "Gilbarco",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gilbarco, dopo vent'anni con le maggiori compagnie petrolifere, ha creato da Firenze una linea di servizi avanzati pensata per il mercato Indipendenti. Qui trova come lavoriamo e cosa potremmo fare per Gilbarco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gilbarco.",
+ "evidence": [
+  {
+   "claim": "Gilbarco, dopo vent'anni con le maggiori compagnie petrolifere, ha creato da Firenze una linea di servizi avanzati pensata per il mercato Indipendenti.",
+   "url": "https://www.gilbarco.it/pag/manutentori/servizi/advanced-services",
+   "quote": "Dalla ventennale esperienza con le maggiori Compagnie Petrolifere, nasce oggi una nuova linea di servizi avanzati pensata specificatamente per il mercato Indipendenti. || Via de’ Cattani 220/G - 50145 Firenze (Italy) || per i tecnici delle aziende di manutenzione, delle compagnie petrolifere e dei gestori di aree di servizio"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

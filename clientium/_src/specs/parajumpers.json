@@ -1,0 +1,28 @@
+{
+ "slug": "parajumpers",
+ "company": "Parajumpers",
+ "first_name": "Gianvittore",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Parajumpers dal 2006 crea outerwear di lusso con piumini per l'inverno e nylon leggero per l'estate, con sede tra Venezia e Segusino. Qui trova come lavoriamo e cosa potremmo fare per Parajumpers.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Parajumpers.",
+ "evidence": [
+  {
+   "claim": "Parajumpers dal 2006 crea outerwear di lusso con piumini per l'inverno e nylon leggero per l'estate, con sede tra Venezia e Segusino.",
+   "url": "https://www.parajumpers.it/de/de/about-us/",
+   "quote": "Parajumpers ist ein 2006 gegründetes italienisches Label für Luxus-Outerwear. Inspiriert von den echten Parajumpers aus Anchorage, Alaska, werden die Kollektionen aus innovativen und langlebigen Materialien mit zusätzlicher Daunenfüllung für Herbst und Winter und leichtem, atmungsaktivem Nylon für Frühling und Sommer hergestellt. || FIRMENSITZ Sestiere San Marco 3877 - 30124 Venezia (VE) – Italia REA: VE – 435171 GESCHÄFTS- UND VERWALTUNGSSITZ Viale Italia, 33 – 31040 Segusino (TV) – Italia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

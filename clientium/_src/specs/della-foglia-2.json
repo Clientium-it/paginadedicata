@@ -1,0 +1,28 @@
+{
+ "slug": "della-foglia-2",
+ "company": "Della Foglia",
+ "first_name": "Elisabetta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Della Foglia da 60 anni produce valvole su misura a Gorla Minore, con 40.000 mq di stabilimento e 10.000 valvole personalizzate l'anno. Qui trova come lavoriamo e cosa potremmo fare per Della Foglia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Della Foglia.",
+ "evidence": [
+  {
+   "claim": "Della Foglia da 60 anni produce valvole su misura a Gorla Minore, con 40.000 mq di stabilimento e 10.000 valvole personalizzate l'anno.",
+   "url": "https://www.dellafoglia.it/",
+   "quote": "A 60 year old Italian company based in Gorla Minore, with more than 40.000 m² of production plant and offices. Read more 100% Made in Italy 40.000 m² of production plant 10.000 Customized valves/year || Our production plant: 40.000 sqm located in Gorla Minore || Our goal towards clients, EPC, licensee and end users is to satisfy their needs using a problem-solving approach."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

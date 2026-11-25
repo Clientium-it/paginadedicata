@@ -1,0 +1,28 @@
+{
+ "slug": "vis-hydraulics-2",
+ "company": "VIS Hydraulics",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "VIS Hydraulics progetta e produce soluzioni oleodinamiche ed esporta in tutti i mercati del mondo, con linee di assemblaggio e reparto collaudi in sede. Qui trova come lavoriamo e cosa potremmo fare per VIS Hydraulics.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VIS Hydraulics.",
+ "evidence": [
+  {
+   "claim": "VIS Hydraulics progetta e produce soluzioni oleodinamiche ed esporta in tutti i mercati del mondo, con linee di assemblaggio e reparto collaudi in sede.",
+   "url": "https://www.vishydraulics.com/en/vis-store",
+   "quote": "We design and manufacture state-of-the-art solutions in the field of hydraulics and we export our products to all markets around the world. || Our headquarter, now used for assembly lines, hydraulic testing department, quality control laboratories, and IT, administrative and logistics offices."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

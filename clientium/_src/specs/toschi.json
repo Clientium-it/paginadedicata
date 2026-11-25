@@ -1,0 +1,28 @@
+{
+ "slug": "toschi",
+ "company": "Toschi",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Toschi propone più di 400 referenze tra frutta e spirits, con le amarene come prodotto simbolo, per bar, ristorazione, gelateria e pasticceria in oltre 80 paesi. Qui trova come lavoriamo e cosa potremmo fare per Toschi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Toschi.",
+ "evidence": [
+  {
+   "claim": "Toschi propone più di 400 referenze tra frutta e spirits, con le amarene come prodotto simbolo, per bar, ristorazione, gelateria e pasticceria in oltre 80 paesi.",
+   "url": "https://www.toschi.it/",
+   "quote": "Oggi, con le amarene come prodotto simbolo, Toschi vanta più di 400 referenze nel mondo frutta e spirits ed è conosciuta in Italia e all’estero con proposte che conquistano il mondo bar, ristorazione, gelateria e pasticceria. || siamo arrivati a operare in più di 80 paesi || proposte che conquistano il mondo bar, ristorazione, gelateria e pasticceria"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

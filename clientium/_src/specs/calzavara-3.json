@@ -1,0 +1,28 @@
+{
+ "slug": "calzavara-3",
+ "company": "Calzavara",
+ "first_name": "Antonino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Calzavara progetta e produce infrastrutture per le telecomunicazioni in contesti urbani, con sede a Roma e sede operativa a Basiliano. Qui trova come lavoriamo e cosa potremmo fare per Calzavara.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Calzavara.",
+ "evidence": [
+  {
+   "claim": "Calzavara progetta e produce infrastrutture per le telecomunicazioni in contesti urbani, con sede a Roma e sede operativa a Basiliano.",
+   "url": "https://calzavara.it/",
+   "quote": "Calzavara is internationally recognized for the design and manufacturing of telecommunications infrastructure in high-profile urban environments. || Head Office Piazza Camillo Finocchiaro Aprile, 3 int. B27 – 00181 Roma – Italy Operative Headquarters via Corecian, 60 – 33031 Basiliano – Italy || operating in a niche sector involving a variety of stakeholders, such as town councils, tower companies and, of course, network operators."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

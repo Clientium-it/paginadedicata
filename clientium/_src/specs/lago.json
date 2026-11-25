@@ -1,0 +1,28 @@
+{
+ "slug": "lago",
+ "company": "Lago",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lago è un'industria dolciaria con stabilimenti a Galliera Veneta e Tombolo che esporta i suoi prodotti in più di 100 paesi. Qui trova come lavoriamo e cosa potremmo fare per Lago.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lago.",
+ "evidence": [
+  {
+   "claim": "Lago è un'industria dolciaria con stabilimenti a Galliera Veneta e Tombolo che esporta i suoi prodotti in più di 100 paesi.",
+   "url": "https://www.lagogroup.it/azienda/",
+   "quote": "Oggi siamo un'industria dolciaria che esporta i suoi prodotti in più di 100 Paesi del mondo || Uffici e stabilimento di Galliera Veneta via Roma 24, 35015 (PD) Stabilimento di Tombolo via Vittorio Veneto 103, 35019 (PD)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

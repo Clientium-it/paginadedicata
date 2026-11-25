@@ -1,0 +1,28 @@
+{
+ "slug": "mapro",
+ "company": "Mapro",
+ "first_name": "Erica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mapro da oltre 60 anni produce in Italia e vende nel mondo macchine per comprimere e aspirare aria, biogas, metano e gas industriali. Qui trova come lavoriamo e cosa potremmo fare per Mapro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mapro.",
+ "evidence": [
+  {
+   "claim": "Mapro da oltre 60 anni produce in Italia e vende nel mondo macchine per comprimere e aspirare aria, biogas, metano e gas industriali.",
+   "url": "https://maproint.com/",
+   "quote": "Da oltre 60 anni MAPRO ® produce in Italia e vende in tutto il mondo varie tipologie di macchine per la compressione, l’aspirazione e il vuoto di fluidi gassosi quali aria, biogas, metano e gas industriali || Apertura dei nuovi uffici ed officina in Nova Milanese (MB) – via Enrico Fermi, 3 || L’impiego di tali macchine nei più svariati settori industriali, da quello alimentare al farmaceutico, da quello dello stampaggio a quello delle macchine per il confezionamento"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

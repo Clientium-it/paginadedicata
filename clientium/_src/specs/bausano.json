@@ -1,0 +1,28 @@
+{
+ "slug": "bausano",
+ "company": "Bausano",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bausano dal 1946 sviluppa soluzioni per l'estrusione della plastica per agricoltura, automotive, edilizia, energia, gestione acque, medicale e telecomunicazioni. Qui trova come lavoriamo e cosa potremmo fare per Bausano.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bausano.",
+ "evidence": [
+  {
+   "claim": "Bausano dal 1946 sviluppa soluzioni per l'estrusione della plastica per agricoltura, automotive, edilizia, energia, gestione acque, medicale e telecomunicazioni.",
+   "url": "https://www.bausano.com/en/company",
+   "quote": "Since 1946, Bausano has been developing engineering solutions for plastic extrusion, with an approach focused on precision and results. || Production moved to the outskirts of the town, into a larger and more modern facility. Today, it is still the company’s headquarters after more than half a century. || Industries Agriculture Automotive Building Energy Water management Medical Telecommunication"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

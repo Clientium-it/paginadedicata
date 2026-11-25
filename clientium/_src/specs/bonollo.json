@@ -1,0 +1,28 @@
+{
+ "slug": "bonollo",
+ "company": "Bonollo",
+ "first_name": "Mario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bonollo produce grappa, distillati e alcool per uso alimentare ed energetico con una capacità di 750 ettanidri al giorno. Qui trova come lavoriamo e cosa potremmo fare per Bonollo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bonollo.",
+ "evidence": [
+  {
+   "claim": "Bonollo produce grappa, distillati e alcool per uso alimentare ed energetico con una capacità di 750 ettanidri al giorno.",
+   "url": "https://bonollo.com/chi-siamo/",
+   "quote": "producono acqueviti di eccellente qualità, che le hanno rese celebri nel mondo. Fra queste un posto d’onore è riservato alla Grappa, la prestigiosa acquavite italiana || Con una capacità produttiva di 750 ettanidri al giorno di Alcool puro è tra i più grandi stabilimenti europei per la produzione di Grappa, di Distillati, ed Alcool per Uso Energetico e Alimentare"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "nova-2",
+ "company": "NOVA",
+ "first_name": "Lavinia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "NOVA realizza oltre 1000 progetti di ascensori l'anno per negozi, banche, scuole e hotel, con un nuovo centro produttivo a Bevilacqua di oltre 2.200 mq. Qui trova come lavoriamo e cosa potremmo fare per NOVA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per NOVA.",
+ "evidence": [
+  {
+   "claim": "NOVA realizza oltre 1000 progetti di ascensori l'anno per negozi, banche, scuole e hotel, con un nuovo centro produttivo a Bevilacqua di oltre 2.200 mq.",
+   "url": "https://www.nova-elevators.com/",
+   "quote": "Oggi, più di 1000 progetti ogni anno prendono forma in tutto il mondo, portando comfort , bellezza e accessibilità negli spazi che viviamo. || Diventa operativo il nuovo centro produttivo e logistico di NOVA Elevators posto in località Bevilacqua: distante poco meno di 5 Km. dalla sede storica di Palata Pepoli, copre un’area di oltre 2.200 mq. || Perfetti per negozi, centri commerciali, banche, uffici, scuole, hotel e ristoranti"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

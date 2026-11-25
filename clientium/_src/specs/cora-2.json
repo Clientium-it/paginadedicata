@@ -1,0 +1,28 @@
+{
+ "slug": "cora-2",
+ "company": "Corà",
+ "first_name": "Daniela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Corà, nata nel 1919 per produrre e vendere legname, oggi rifornisce oltre 8.000 clienti del legno nel mondo con più di cento venditori in Italia. Qui trova come lavoriamo e cosa potremmo fare per Corà.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Corà.",
+ "evidence": [
+  {
+   "claim": "Corà, nata nel 1919 per produrre e vendere legname, oggi rifornisce oltre 8.000 clienti del legno nel mondo con più di cento venditori in Italia.",
+   "url": "https://www.coralegnami.it/chi-siamo/",
+   "quote": "Corà Domenico & figli S.p.A., nata nel 1919 come azienda di produzione e vendita di legname nel mercato locale, oggi rifornisce oltre 8.000 Clienti nel settore del legno in tutto il mondo || Corà dispone di una rete commerciale che conta più di cento esperti addetti alle vendite che coprono l’intero territorio nazionale. || SICAM rappresenta lo spazio d’incontro privilegiato per progettisti, designer e professionisti della filiera del mobile."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

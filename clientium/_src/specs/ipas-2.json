@@ -1,0 +1,28 @@
+{
+ "slug": "ipas-2",
+ "company": "IPAS",
+ "first_name": "Stefania",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IPAS da oltre 40 anni offre più di 100.000 impianti pubblicitari a oltre 20.000 aziende, dai piccoli negozi alla grande industria. Qui trova come lavoriamo e cosa potremmo fare per IPAS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IPAS.",
+ "evidence": [
+  {
+   "claim": "IPAS da oltre 40 anni offre più di 100.000 impianti pubblicitari a oltre 20.000 aziende, dai piccoli negozi alla grande industria.",
+   "url": "https://www.ipas.it/",
+   "quote": "è leader nella pubblicità esterna in Italia da oltre 40 anni, con più di 100.000 impianti pubblicitari disponibili. Partner di oltre 2.000 città, serve una clientela diversificata di oltre 20.000 aziende || Con sede principale a San Mauro Torinese, presso l’Autoporto Pescarito (Torino), l’azienda opera capillarmente sul territorio italiano grazie alle sue filiali || dai piccoli negozi alla grande industria"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

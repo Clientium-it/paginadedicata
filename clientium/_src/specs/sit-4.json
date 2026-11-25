@@ -1,0 +1,28 @@
+{
+ "slug": "sit-4",
+ "company": "SIT",
+ "first_name": "Shashank",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SIT nasce a Padova nel 1953 nella meccanica di precisione e oggi crea soluzioni per il controllo del clima e la misura dei consumi. Qui trova come lavoriamo e cosa potremmo fare per SIT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SIT.",
+ "evidence": [
+  {
+   "claim": "SIT nasce a Padova nel 1953 nella meccanica di precisione e oggi crea soluzioni per il controllo del clima e la misura dei consumi.",
+   "url": "https://www.sitgroup.it/",
+   "quote": "Our commitment is to create smart solutions for climate control and consumption measurement for a more sustainable world || 1953 Pierluigi e Giancarlo de’ Stefani fondano a Padova SIT La Precisa (Società Italiana Tecnomeccanica “La Precisa”), operante nella meccanica di precisione."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "gatti-precorvi",
+ "company": "Gatti Precorvi",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gatti Precorvi realizza lamiere forate e bugnate con punzonatura a freddo seguita da operazioni supplementari. Qui trova come lavoriamo e cosa potremmo fare per Gatti Precorvi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gatti Precorvi.",
+ "evidence": [
+  {
+   "claim": "Gatti Precorvi realizza lamiere forate e bugnate con punzonatura a freddo seguita da operazioni supplementari.",
+   "url": "https://gattiprecorvi.com/prodotti.asp",
+   "quote": "Le lamiere forate e bugnate sono ottenute mediante punzonatura a freddo seguita da alcune operazioni supplementari, che oggi però sono ritenute indispensabili. || Sede Legale: 24030 Medolago (BG) , via Lombardia n 1"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

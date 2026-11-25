@@ -1,0 +1,28 @@
+{
+ "slug": "kab-lem",
+ "company": "Kab-lem",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Kab-lem realizza cablaggi automotive con circa 2.000 dipendenti e stabilimenti in Moldavia e Romania per OEM come Audi, BMW, Ferrari e Toyota. Qui trova come lavoriamo e cosa potremmo fare per Kab-lem.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kab-lem.",
+ "evidence": [
+  {
+   "claim": "Kab-lem realizza cablaggi automotive con circa 2.000 dipendenti e stabilimenti in Moldavia e Romania per OEM come Audi, BMW, Ferrari e Toyota.",
+   "url": "https://www.kablem.com/en/company/our-story/",
+   "quote": "Kab-lem has around 2,000 employees and a turnover of 73 million euros, confirming itself as an international player in the automotive wiring sector. || Kab-lem decided to completely acquire Moldova and Romania Plants and to establish a solid partnership with Tunisia suppliers. || Kab-lem S.p.A. supplies its products directly and indirectly to the major OEMs at international level like Alfa Romeo, Audi, BMW, Chrysler, Citroën, Ferrari, Fiat, General Motors, Lancia, Maserati, Mercedes, Opel, Peugeot, Renault, Seat, Toyota e Volkswagen."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

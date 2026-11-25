@@ -1,0 +1,28 @@
+{
+ "slug": "cotto",
+ "company": "Cotto",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cotto d'Este da oltre 30 anni produce piastrelle in gres porcellanato per case, negozi, uffici, hotel e spazi pubblici, con sede a Sassuolo. Qui trova come lavoriamo e cosa potremmo fare per Cotto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cotto.",
+ "evidence": [
+  {
+   "claim": "Cotto d'Este da oltre 30 anni produce piastrelle in gres porcellanato per case, negozi, uffici, hotel e spazi pubblici, con sede a Sassuolo.",
+   "url": "https://www.cottodeste.it",
+   "quote": "Da oltre 30 anni, Cotto d’Este produce piastrelle per rivestimenti e pavimenti in gres porcellanato di altissimo livello. || Cotto d'Este ha sede a Sassuolo in provincia di Modena dove si trovano gli uffici direzionali e commerciali oltre a un’ampia sala mostra || Settori Residenziale Retail Uffici e Aziende Ho.Re.Ca. Wellness Spazi pubblici"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

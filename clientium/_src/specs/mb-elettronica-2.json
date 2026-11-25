@@ -1,0 +1,28 @@
+{
+ "slug": "mb-elettronica-2",
+ "company": "MB Elettronica",
+ "first_name": "Daniela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MB Elettronica progetta e produce schede elettroniche da oltre 50 anni per aerospaziale, militare, ferroviario e telecomunicazioni in uno stabilimento di 4.000 mq. Qui trova come lavoriamo e cosa potremmo fare per MB Elettronica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MB Elettronica.",
+ "evidence": [
+  {
+   "claim": "MB Elettronica progetta e produce schede elettroniche da oltre 50 anni per aerospaziale, militare, ferroviario e telecomunicazioni in uno stabilimento di 4.000 mq.",
+   "url": "https://www.mbelettronica.com/",
+   "quote": "MB Elettronica è un’azienda italiana operante da oltre 50 anni nel settore dell’elettronica e alta tecnologia in grado di collaborare con i propri clienti nella progettazione , lo sviluppo e la produzione di schede elettroniche ed apparati elettronici || 2013 Inaugurazione del nuovo stabilimento (4.000 m 2 coperti) || principalmente nei settori Aerospaziale, Militare, Ferroviario, Sicurezza e Telecomunicazioni"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

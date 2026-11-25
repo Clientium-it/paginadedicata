@@ -1,0 +1,28 @@
+{
+ "slug": "giuliani-3",
+ "company": "Giuliani",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Giuliani è una società farmaceutica italiana che fa ricerca e sviluppo in area gastroenterologica, tricologica e dermatologica con sede in via Pelagio Palagi. Qui trova come lavoriamo e cosa potremmo fare per Giuliani.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Giuliani.",
+ "evidence": [
+  {
+   "claim": "Giuliani è una società farmaceutica italiana che fa ricerca e sviluppo in area gastroenterologica, tricologica e dermatologica con sede in via Pelagio Palagi.",
+   "url": "https://www.giulianipharma.com/chi-siamo/",
+   "quote": "Giuliani, società farmaceutica al 100% italiana, è riconosciuta come punto di riferimento per la ricerca e lo sviluppo in area gastroenterologica, tricologica e dermatologica. || il primo stabilimento per la produzione su larga scala dell’Amaro Medicinale apre in via Pelagio Palagi, ancora oggi sede dell’Azienda."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

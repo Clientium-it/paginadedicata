@@ -1,0 +1,28 @@
+{
+ "slug": "sirca-2",
+ "company": "Sirca",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sirca è attivo in oltre 85 paesi con quattro marchi e più di 100 punti di distribuzione, soprattutto per nautica, automotive e arredo. Qui trova come lavoriamo e cosa potremmo fare per Sirca.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sirca.",
+ "evidence": [
+  {
+   "claim": "Sirca è attivo in oltre 85 paesi con quattro marchi e più di 100 punti di distribuzione, soprattutto per nautica, automotive e arredo.",
+   "url": "https://www.sirca.it/",
+   "quote": "Sirca S.p.A. coi quattro marchi Sirca , Polistuc , Technogel e D’aqua è attivo in oltre 85 paesi nel mondo con una rete di oltre 100 punti di distribuzione. || Stabilimenti: San Dono di Massanzago (PD) Viale Roma, 85 - Tel. 049/9322311 - Fax 049/5797262 / San Giovanni Al Natisone (UD) - Via Comunale del Rovere,4 || I mercati dove è maggiormente presente sono l’industria nautica, l’automotive e i complementi d’arredo."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

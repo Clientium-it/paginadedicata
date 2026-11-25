@@ -1,0 +1,28 @@
+{
+ "slug": "mazzucchelli",
+ "company": "Mazzucchelli",
+ "first_name": "Cristina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mazzucchelli propone un'analisi delle tendenze 2027 su materiali, motivi e colori per l'occhialeria creata con Peclers Paris e ha una sede a Brooklyn. Qui trova come lavoriamo e cosa potremmo fare per Mazzucchelli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mazzucchelli.",
+ "evidence": [
+  {
+   "claim": "Mazzucchelli propone un'analisi delle tendenze 2027 su materiali, motivi e colori per l'occhialeria creata con Peclers Paris e ha una sede a Brooklyn.",
+   "url": "https://www.mazzucchelli1849.it/products/trendbook-eyewear-trends-27",
+   "quote": "Created in collaboration with Peclers Paris, it analyzes future trends in materials, patterns and colors shaping eyewear design in 2027. || MAZZUCCHELLI USA corp Soho Works 55 Water Street, Third Floor, Brooklyn, NY 11201, USA || dedicated to aesthetic evolution of colors and patterns for the eyewear market developed for designers and industry professionals"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "magni",
+ "company": "Magni",
+ "first_name": "Alexander",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Magni produce a Castelfranco Emilia, ha filiali in Francia, Germania, Regno Unito e Stati Uniti e lavora per edilizia, cave, logistica pesante e difesa. Qui trova come lavoriamo e cosa potremmo fare per Magni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Magni.",
+ "evidence": [
+  {
+   "claim": "Magni produce a Castelfranco Emilia, ha filiali in Francia, Germania, Regno Unito e Stati Uniti e lavora per edilizia, cave, logistica pesante e difesa.",
+   "url": "https://www.magnith.com/azienda/",
+   "quote": "Fondazione dell’azienda da parte di Riccardo Magni con i figli Carlo, Eugenio, Carlotta e Chiara e Avvio della produzione industriale a Castelfranco Emilia || Apertura di nuove filiali in Francia, Germania e Regno Unito con Creazione della prima filiale oltreoceano con sede negli Stati Uniti. || Edilizia Logistica Eventi e Cinema Forestale Cave e Miniere Logistica pesante Difesa Petrolifero Alimentare Chimica Agricoltura"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "borgwarner",
+ "company": "BorgWarner",
+ "first_name": "Emilio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "BorgWarner progetta e produce sistemi per la mobilità insieme agli OEM e ad Arcore ha uno stabilimento produttivo e un centro tecnico. Qui trova come lavoriamo e cosa potremmo fare per BorgWarner.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BorgWarner.",
+ "evidence": [
+  {
+   "claim": "BorgWarner progetta e produce sistemi per la mobilità insieme agli OEM e ad Arcore ha uno stabilimento produttivo e un centro tecnico.",
+   "url": "https://www.borgwarner.com/company",
+   "quote": "We design and manufacture the systems that define the way the world moves forward. With the world’s foremost technologists, engineers and OEMs, we’re accelerating the world’s transformation to clean mobility. || Arcore, Italy Production Plant, Technical Center Via Cesare Battisti, 122, 20862 Arcore (MB)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}
