@@ -1,0 +1,28 @@
+{
+ "slug": "thun-5",
+ "company": "Thun",
+ "first_name": "Takwing",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Thun nasce a Bolzano nel 1950 con il primo Angelo in ceramica, modellato da Lene Thun guardando i figli che dormivano. Qui trova come lavoriamo e cosa potremmo fare per Thun.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Thun.",
+ "evidence": [
+  {
+   "claim": "Thun nasce a Bolzano nel 1950 con il primo Angelo in ceramica, modellato da Lene Thun guardando i figli che dormivano.",
+   "url": "https://www.thun.com/it_it/thun-world/chi-siamo",
+   "quote": "La storia di THUN ha inizio nel 1950 con la nascita del primo Angelo di Bolzano, la dolce figura ceramica che Lene Thun modellò guardando i figli che dormivano. || THUN S.p.A. Società Benefit | Via L. Galvani 29 - 39100 Bolzano"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

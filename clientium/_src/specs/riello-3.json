@@ -1,0 +1,28 @@
+{
+ "slug": "riello-3",
+ "company": "Riello",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Riello da oltre 100 anni sviluppa tecnologie per riscaldamento, climatizzazione e gestione dell'energia, residenziali e industriali, con una sede anche a Bochum. Qui trova come lavoriamo e cosa potremmo fare per Riello.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Riello.",
+ "evidence": [
+  {
+   "claim": "Riello da oltre 100 anni sviluppa tecnologie per riscaldamento, climatizzazione e gestione dell'energia, residenziali e industriali, con una sede anche a Bochum.",
+   "url": "https://www.riello.com/about-us",
+   "quote": "For over 100 years, Riello has been developing technologies and systems for heating, air conditioning and energy management, with the aim of accompanying the evolution of the industry || Riello S.p.A Zweigniederlassung Deutschland Josef-Baumann-Str. 19a 44805 BOCHUM || We design our solutions to meet the needs of users, both in residential and industrial applications, and to facilitate their use and maintenance activities."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "argus-security-2",
+ "company": "Argus Security",
+ "first_name": "Anuska",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Argus Security da 20 anni progetta, produce e fornisce prodotti antincendio per OEM internazionali, panel partner e integratori di sistemi con oltre 100 esperti. Qui trova come lavoriamo e cosa potremmo fare per Argus Security.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Argus Security.",
+ "evidence": [
+  {
+   "claim": "Argus Security da 20 anni progetta, produce e fornisce prodotti antincendio per OEM internazionali, panel partner e integratori di sistemi con oltre 100 esperti.",
+   "url": "https://www.argussecurity.it/brand-purpose/",
+   "quote": "Argus Security has been established for 20 years and today employs over 100 experts in the design, manufacture and supply of highperformance fire protection products for international OEMs, panel partners and fire system integrators. || Argus Security S.r.l. Via del Canneto, 14 | 34015 Muggia | Trieste | Italy || for international OEMs, panel partners and fire system integrators."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

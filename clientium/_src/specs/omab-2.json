@@ -1,0 +1,28 @@
+{
+ "slug": "omab-2",
+ "company": "OMAB",
+ "first_name": "Bruno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OMAB produce dal 1919 componenti metallici tranciati per automotive ed elettromeccanica, in uno stabilimento di 10.000 metri quadri con attrezzeria interna per gli stampi. Qui trova come lavoriamo e cosa potremmo fare per OMAB.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OMAB.",
+ "evidence": [
+  {
+   "claim": "OMAB produce dal 1919 componenti metallici tranciati per automotive ed elettromeccanica, in uno stabilimento di 10.000 metri quadri con attrezzeria interna per gli stampi.",
+   "url": "https://omab.eu/",
+   "quote": "Fondata nel 1919 , OMAB ha saputo crescere ed evolversi, distinguendosi come produttore versatile di componenti metallici tranciati . || Lo stabilimento si estende su un’area di 10.000 metri quadrati e include quattro reparti produttivi, due reparti attrezzeria per la costruzione e la manutenzione degli stampi || Automotive Elettromeccanica Industriale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

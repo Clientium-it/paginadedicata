@@ -1,0 +1,28 @@
+{
+ "slug": "esanastri-4",
+ "company": "Esanastri",
+ "first_name": "Alessio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Esanastri ha la sede a Calcinaia in provincia di Pisa e uno stabilimento produttivo a Bien Hoa in Vietnam. Qui trova come lavoriamo e cosa potremmo fare per Esanastri.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Esanastri.",
+ "evidence": [
+  {
+   "claim": "Esanastri ha la sede a Calcinaia in provincia di Pisa e uno stabilimento produttivo a Bien Hoa in Vietnam.",
+   "url": "https://www.esanastri.com/",
+   "quote": "Headquarters - Italy Via A. Barducci 18/a – 38 56012 Calcinaia (PI) – Italy +39 0587 48621 || Manufacturing Plant - Vietnam Lot 34, 6th Street, Tam Phuoc Industrial Zone Bien Hoa City, Dong Nai Province, Vietnam"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

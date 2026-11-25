@@ -1,0 +1,28 @@
+{
+ "slug": "baumer-2",
+ "company": "Baumer",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Baumer produce dal 1974 a Castelfranco Emilia macchine per il packaging secondario per beverage, alimentare e personal care, con una sede in Messico dal 2005. Qui trova come lavoriamo e cosa potremmo fare per Baumer.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Baumer.",
+ "evidence": [
+  {
+   "claim": "Baumer produce dal 1974 a Castelfranco Emilia macchine per il packaging secondario per beverage, alimentare e personal care, con una sede in Messico dal 2005.",
+   "url": "https://www.baumer.it/azienda/",
+   "quote": "Fondata nel 1974 a Castelfranco Emilia, nel cuore della Packaging Valley, la nostra azienda si è evoluta fino a diventare un punto di riferimento internazionale nella produzione di macchine per il packaging secondario. || Nel 2005, il successo delle nostre macchine in Centro America ci ha portato ad aprire una sede in Messico, Baumer México , per offrire assistenza dedicata ai clienti di tutto il continente americano. || Operiamo in settori come beverage, alimentare, conserviero, personal care e Dairy, offrendo soluzioni innovative e personalizzate."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "giovanni-ferrari-2",
+ "company": "Giovanni Ferrari",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Giovanni Ferrari nasce nel 1823 come piccolo caseificio in Pianura Padana e oggi ha due unità produttive a Ossago Lodigiano e Fontevivo di Parma. Qui trova come lavoriamo e cosa potremmo fare per Giovanni Ferrari.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Giovanni Ferrari.",
+ "evidence": [
+  {
+   "claim": "Giovanni Ferrari nasce nel 1823 come piccolo caseificio in Pianura Padana e oggi ha due unità produttive a Ossago Lodigiano e Fontevivo di Parma.",
+   "url": "https://www.ferrariformaggi.it/storia.html",
+   "quote": "Le origini dell'azienda risalgono al 1823: un piccolo caseificio che nasce nel cuore della Pianura Padana, la terra più ricca di latte di tutta Italia. || Oggi la Giovanni Ferrari S.p.A. conta due unità produttive (una ad Ossago Lodigiano e una a Fontevivo di Parma)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "mollebalestra-2",
+ "company": "Mollebalestra",
+ "first_name": "Gianluigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mollebalestra dal 1949 lavora sulle balestre per veicoli commerciali, industriali, agricoli e ferroviari, fornisce costruttori di rimorchi e assali ed esporta in 39 paesi. Qui trova come lavoriamo e cosa potremmo fare per Mollebalestra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mollebalestra.",
+ "evidence": [
+  {
+   "claim": "Mollebalestra dal 1949 lavora sulle balestre per veicoli commerciali, industriali, agricoli e ferroviari, fornisce costruttori di rimorchi e assali ed esporta in 39 paesi.",
+   "url": "https://mollebalestra.it/it/azienda.html",
+   "quote": "Dal 1949 presente nel mercato della sospensione LEADER italiano nel mercato After Market delle Balestre per veicoli Commerciali, Industriali, Agricoli e Ferroviari || ESPORTAZIONI in 39 paesi nel mondo, in continua crescita || PARTNER dei più importanti Costruttori di Rimorchi, Assali e dei migliori Distributori dell'After Market"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

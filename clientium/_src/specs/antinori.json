@@ -1,0 +1,28 @@
+{
+ "slug": "antinori",
+ "company": "Antinori",
+ "first_name": "Claudia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Antinori produce vino da più di seicento anni, dal 1385, e ha la sede operativa a Bargino, San Casciano in Val di Pesa. Qui trova come lavoriamo e cosa potremmo fare per Antinori.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Antinori.",
+ "evidence": [
+  {
+   "claim": "Antinori produce vino da più di seicento anni, dal 1385, e ha la sede operativa a Bargino, San Casciano in Val di Pesa.",
+   "url": "https://www.antinori.it/it/famiglia/",
+   "quote": "La Famiglia Antinori si dedica alla produzione vinicola da più di seicento anni: da quando, nel 1385, Giovanni di Piero Antinori entrò a far parte dell' Arte Fiorentina dei Vinattieri. || Sede Operativa: Marchesi Antinori S.p.A via Cassia per Siena, 133 Loc. Bargino, 50026 San Casciano val di Pesa, Firenze"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

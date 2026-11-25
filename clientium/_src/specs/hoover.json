@@ -1,0 +1,28 @@
+{
+ "slug": "hoover",
+ "company": "Hoover",
+ "first_name": "Laurence",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hoover lavora sulla pulizia da oltre un secolo con soluzioni per la vita di tutti i giorni e la sede amministrativa a Brugherio. Qui trova come lavoriamo e cosa potremmo fare per Hoover.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hoover.",
+ "evidence": [
+  {
+   "claim": "Hoover lavora sulla pulizia da oltre un secolo con soluzioni per la vita di tutti i giorni e la sede amministrativa a Brugherio.",
+   "url": "https://www.hoover-home.com/es_ES/",
+   "quote": "Con más de un siglo de experiencia en limpieza, Hoover sigue mejorando la vida diaria de las personas creando soluciones innovadoras diseñadas en función de tus necesidades. || Sede administrativa: Via Privata Eden Fumagalli - 20861 Brugherio (MB)."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

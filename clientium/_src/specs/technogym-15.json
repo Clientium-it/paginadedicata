@@ -1,0 +1,28 @@
+{
+ "slug": "technogym-15",
+ "company": "Technogym",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Technogym dal 1983 attrezza centri salute e wellness con tecnologia e un ecosistema integrato pensato per fidelizzare i clienti. Qui trova come lavoriamo e cosa potremmo fare per Technogym.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Technogym.",
+ "evidence": [
+  {
+   "claim": "Technogym dal 1983 attrezza centri salute e wellness con tecnologia e un ecosistema integrato pensato per fidelizzare i clienti.",
+   "url": "https://www.technogym.com/de-DE/",
+   "quote": "Wir rüsten seit 1983 Gesundheits- und Wellnesszentren mit hochmoderner Technologie aus. Revolutionieren Sie Ihr Unternehmen und stärken Sie Ihre Kundenbindung mit unserem integrierten Ökosystem."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

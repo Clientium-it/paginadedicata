@@ -1,0 +1,28 @@
+{
+ "slug": "silicon-biosystems-2",
+ "company": "Silicon Biosystems",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Silicon Biosystems unisce CELLSEARCH e DEPArray per contare, isolare e caratterizzare le cellule tumorali circolanti da un prelievo di sangue, tra Bologna e Huntingdon Valley. Qui trova come lavoriamo e cosa potremmo fare per Silicon Biosystems.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Silicon Biosystems.",
+ "evidence": [
+  {
+   "claim": "Silicon Biosystems unisce CELLSEARCH e DEPArray per contare, isolare e caratterizzare le cellule tumorali circolanti da un prelievo di sangue, tra Bologna e Huntingdon Valley.",
+   "url": "https://www.menarinisiliconbiosystems.com/en/vision-and-mission.html",
+   "quote": "The integration of CELLSEARCH and DEPArray provides an end-to-end workflow solution for the enumeration, isolation, and molecular characterization of CTCs from a simple blood test in the clinical research setting. || Menarini Silicon Biosystems, based in Bologna, Italy, and Huntingdon Valley, Pa., U.S., is a wholly owned subsidiary of the Menarini Group || Menarini Silicon Biosystems is committed to providing clinicians, pharma companies and researchers worldwide, with unparalleled cell-based products and services for advanced diagnostic solutions"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

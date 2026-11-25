@@ -1,0 +1,28 @@
+{
+ "slug": "santo-stefano",
+ "company": "Santo Stefano",
+ "first_name": "Giulia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Santo Stefano lavora carne dal 1962 a Sandrigo. Qui trova come lavoriamo e cosa potremmo fare per Santo Stefano.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Santo Stefano.",
+ "evidence": [
+  {
+   "claim": "Santo Stefano lavora carne dal 1962 a Sandrigo.",
+   "url": "https://www.santostefanospa.it/",
+   "quote": "Dal 1962 ci adoperiamo a migliorare costantemente il nostro metodo di lavoro e oggi disponiamo di tutta l’esperienza necessaria per poter garantire a voi carne genuina, gustosa e sicura. || SANTO STEFANO S.P.A. Via L. Galvani, 97 36066 - Sandrigo (VI)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

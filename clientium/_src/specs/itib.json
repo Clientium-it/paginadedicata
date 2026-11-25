@@ -1,0 +1,28 @@
+{
+ "slug": "itib",
+ "company": "ITIB",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ITIB produce dal 1946 corrugatori raffreddati ad acqua per tubi in PP, PVC e PE e dal 2020 ha una sede anche a Mumbai. Qui trova come lavoriamo e cosa potremmo fare per ITIB.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ITIB.",
+ "evidence": [
+  {
+   "claim": "ITIB produce dal 1946 corrugatori raffreddati ad acqua per tubi in PP, PVC e PE e dal 2020 ha una sede anche a Mumbai.",
+   "url": "https://itib-machinery.com/",
+   "quote": "Since 1946 the core business of ITIB Machinery is the production of water-cooled corrugators. Thanks to the great experience acquired over the years, the company has extended the production to tools, downstream and ancillary equipment. || Since 2020 there is also a headquarter in Mumbai, India. || Building PP, PVC, PE single and multi-layer pipes for the protection of electrical cables"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

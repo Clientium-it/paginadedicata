@@ -1,0 +1,28 @@
+{
+ "slug": "rotork",
+ "company": "Rotork",
+ "first_name": "Avgoust",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rotork fornisce nel mondo soluzioni di controllo del flusso e strumentazione per oil & gas, acqua, energia, chimica e processo industriale. Qui trova come lavoriamo e cosa potremmo fare per Rotork.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rotork.",
+ "evidence": [
+  {
+   "claim": "Rotork fornisce nel mondo soluzioni di controllo del flusso e strumentazione per oil & gas, acqua, energia, chimica e processo industriale.",
+   "url": "https://rotork.com/en",
+   "quote": "We are a market-leading global provider of mission-critical intelligent flow control and instrumentation solutions for oil & gas, water and power and chemical, process and industrial markets || We are a market-leading global provider of mission-critical intelligent flow control and instrumentation solutions for oil & gas, water and power and chemical, process and industrial markets"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

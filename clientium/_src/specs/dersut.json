@@ -1,0 +1,28 @@
+{
+ "slug": "dersut",
+ "company": "Dersut",
+ "first_name": "Valentina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dersut serve in esclusiva oltre 4000 locali soprattutto nel Triveneto con 35 agenti e 42 dipendenti ed è arrivata negli Emirati, in Messico e Repubblica Dominicana. Qui trova come lavoriamo e cosa potremmo fare per Dersut.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dersut.",
+ "evidence": [
+  {
+   "claim": "Dersut serve in esclusiva oltre 4000 locali soprattutto nel Triveneto con 35 agenti e 42 dipendenti ed è arrivata negli Emirati, in Messico e Repubblica Dominicana.",
+   "url": "https://www.dersut.it/azienda",
+   "quote": "L’Azienda oggi ha una forza lavoro di ben 35 agenti monomandatari e 42 dipendenti e serve in esclusiva oltre 4000 esercizi pubblici distribuiti principalmente nel Triveneto || con una recente espansione in Piemonte ed una presenza, sempre più significativa, su alcuni importanti mercati europei e non solo, essendo di recente approdata anche nei mercati degli Emirati Arabi, del Messico e della Repubblica Dominicana"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

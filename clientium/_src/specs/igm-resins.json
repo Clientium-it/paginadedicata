@@ -1,0 +1,28 @@
+{
+ "slug": "igm-resins",
+ "company": "IGM Resins",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IGM Resins produce e distribuisce fotoiniziatori, oligomeri e monomeri per la polimerizzazione UV da Gerenzano per stampa e packaging, coating industriali, elettronica e adesivi. Qui trova come lavoriamo e cosa potremmo fare per IGM Resins.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IGM Resins.",
+ "evidence": [
+  {
+   "claim": "IGM Resins produce e distribuisce fotoiniziatori, oligomeri e monomeri per la polimerizzazione UV da Gerenzano per stampa e packaging, coating industriali, elettronica e adesivi.",
+   "url": "https://igmresins.com/en/about",
+   "quote": "We provide for the production and distribution of a broad range of raw materials for the UV curing: Photoinitiators, UV acrylate oligomers (epoxy, polyester and urethane) and monomers, Specialty acrylates, methacrylates and additives. || IGM Resins Italia S.r.l. Insubrias Biopark Via Roberto Lepetit, 34 21040 Gerenzano (VA), Italy || key markets Printing and Packaging, Industrial Coatings and 3D Printing, Electronics and Adhesives, and several niche markets"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

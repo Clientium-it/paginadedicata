@@ -1,0 +1,28 @@
+{
+ "slug": "arredo3",
+ "company": "Arredo3",
+ "first_name": "Gabriela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Arredo3 esporta in oltre 50 paesi e ha portato lo stabilimento di Scorzé a 90.000 m2 coperti con un nuovo impianto per top e mensole. Qui trova come lavoriamo e cosa potremmo fare per Arredo3.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Arredo3.",
+ "evidence": [
+  {
+   "claim": "Arredo3 esporta in oltre 50 paesi e ha portato lo stabilimento di Scorzé a 90.000 m2 coperti con un nuovo impianto per top e mensole.",
+   "url": "https://www.arredo3.com/it/azienda",
+   "quote": "È così che ogni giorno creiamo qualcosa di unico, esportato in oltre 50 paesi nel mondo. || un nuovo impianto di 9.700 m2 per lavorare top e mensole che porta lo stabilimento di Scorzé a 90.000 m2 di aree operative coperte"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

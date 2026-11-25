@@ -1,0 +1,28 @@
+{
+ "slug": "cmc-2",
+ "company": "CMC",
+ "first_name": "Simone",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CMC dal 1980 progetta e produce a Città di Castello soluzioni di automazione per e-commerce, retail, logistica e industria in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per CMC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CMC.",
+ "evidence": [
+  {
+   "claim": "CMC dal 1980 progetta e produce a Città di Castello soluzioni di automazione per e-commerce, retail, logistica e industria in tutto il mondo.",
+   "url": "https://www.cmcsolutions.com/about-us/",
+   "quote": "Founded in 1980, CMC designs and manufactures solutions for e-commerce, retail, logistics and industrial operations worldwide. || From its headquarters and manufacturing operations in Città di Castello, Italy, CMC supports international customers through regional offices, subsidiaries and technology centres. || helping leading players across retail, e-commerce and logistics advance their automation journey"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

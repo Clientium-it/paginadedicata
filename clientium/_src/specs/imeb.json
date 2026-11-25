@@ -1,0 +1,28 @@
+{
+ "slug": "imeb",
+ "company": "IMEB",
+ "first_name": "Pino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IMEB produce dal 1973 ad Acqui Terme quadri di media e bassa tensione per impianti di produzione e distribuzione dell'energia elettrica. Qui trova come lavoriamo e cosa potremmo fare per IMEB.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IMEB.",
+ "evidence": [
+  {
+   "claim": "IMEB produce dal 1973 ad Acqui Terme quadri di media e bassa tensione per impianti di produzione e distribuzione dell'energia elettrica.",
+   "url": "https://www.imeb.it/",
+   "quote": "IMEB produce quadri di Media e Bassa Tensione per impianti di produzione, trasformazione e distribuzione dell’energia elettrica dal 1973. || Nei rinnovati insediamenti produttivi di Acqui Terme (AL), IMEB realizza quadri di media tensione di tipo LSC 2B-PM fino a 36 KV"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

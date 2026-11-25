@@ -1,0 +1,28 @@
+{
+ "slug": "siad",
+ "company": "SIAD",
+ "first_name": "Angelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SIAD fornisce gas industriali e medicinali, progetta impianti di frazionamento dell'aria e compressori, con oltre 250 filiali e rivenditori in Italia e in 13 paesi. Qui trova come lavoriamo e cosa potremmo fare per SIAD.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SIAD.",
+ "evidence": [
+  {
+   "claim": "SIAD fornisce gas industriali e medicinali, progetta impianti di frazionamento dell'aria e compressori, con oltre 250 filiali e rivenditori in Italia e in 13 paesi.",
+   "url": "https://www.siad.com/it",
+   "quote": "produce gas industriali, progetta impianti di frazionamento dell'aria e compressori, fornisce gas medicinali e assistenza respiratoria a strutture sanitarie e a domicilio. || Oltre 250 filiali, agenzie e rivenditori in Italia e in 13 Paesi || Industria Alimentare Saldatura e Taglio Taratura e analisi Trattamento acque Metallurgia Produzione biometano Inertizzazione Trattamenti termici"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

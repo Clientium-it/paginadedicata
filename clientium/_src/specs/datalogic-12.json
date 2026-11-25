@@ -1,0 +1,28 @@
+{
+ "slug": "datalogic-12",
+ "company": "Datalogic",
+ "first_name": "Jessy",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Datalogic progetta e produce lettori di codici a barre, mobile computer, sensori, RFID e sistemi di visione per grande distribuzione, manifattura, logistica e sanità. Qui trova come lavoriamo e cosa potremmo fare per Datalogic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Datalogic.",
+ "evidence": [
+  {
+   "claim": "Datalogic progetta e produce lettori di codici a barre, mobile computer, sensori, RFID e sistemi di visione per grande distribuzione, manifattura, logistica e sanità.",
+   "url": "https://www.datalogic.com/ita/azienda-co-4033.html",
+   "quote": "L’azienda è specializzata nella progettazione e produzione di lettori di codici a barre, mobile computer, sensori per la rilevazione, misurazione e sicurezza, RFID, sistemi di visione e marcatura laser. || Le sue soluzioni all'avanguardia contribuiscono ad aumentare l'efficienza e la qualità dei processi nei settori grande distribuzione, manifatturiero, trasporti e logistica e sanità, lungo l'intera catena del valore."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

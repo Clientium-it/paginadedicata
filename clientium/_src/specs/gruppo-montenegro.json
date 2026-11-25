@@ -1,0 +1,28 @@
+{
+ "slug": "gruppo-montenegro",
+ "company": "Gruppo Montenegro",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gruppo Montenegro opera dal 1885 nei settori alimentare e bevande alcoliche con sede a Zola Predosa. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Montenegro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Montenegro.",
+ "evidence": [
+  {
+   "claim": "Gruppo Montenegro opera dal 1885 nei settori alimentare e bevande alcoliche con sede a Zola Predosa.",
+   "url": "https://gruppomontenegro.com/",
+   "quote": "Fondato nel 1885, Gruppo Montenegro è una realtà imprenditoriale italiana leader di mercato nei settori alimentare e bevande alcoliche || Montenegro S.r.l. – Via Enrico Fermi, 4 – 40069 Zola Predosa (BO) – Italia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

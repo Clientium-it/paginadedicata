@@ -1,0 +1,28 @@
+{
+ "slug": "imola-legno",
+ "company": "Imola Legno",
+ "first_name": "Chad",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Imola Legno produce a Lugo e con 4 depositi e 2.800 articoli in stock consegna in tutta Italia entro 48 ore. Qui trova come lavoriamo e cosa potremmo fare per Imola Legno.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Imola Legno.",
+ "evidence": [
+  {
+   "claim": "Imola Legno produce a Lugo e con 4 depositi e 2.800 articoli in stock consegna in tutta Italia entro 48 ore.",
+   "url": "https://www.imolalegno.com/azienda/",
+   "quote": "4 depositi sul territorio italiano 217.000 mq di superficie 130.000 mq di capannoni per lo stoccaggio delle merci 150.000 m3 di materiale in pronta consegna 2.800 articoli in stock Consegne in tutta Italia entro 48 ore dall’ordine || Imola (BO) La sede storica dell’azienda Lugo (RA) Lo stabilimento produttivo Molfetta (BA) Deposito e stoccaggio"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

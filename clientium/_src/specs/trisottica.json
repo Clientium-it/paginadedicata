@@ -1,0 +1,28 @@
+{
+ "slug": "trisottica",
+ "company": "Trisottica",
+ "first_name": "Laura",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Trisottica produce per conto terzi circa 700 mila occhiali in acetato l'anno per griffe del lusso in 3 unità operative. Qui trova come lavoriamo e cosa potremmo fare per Trisottica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Trisottica.",
+ "evidence": [
+  {
+   "claim": "Trisottica produce per conto terzi circa 700 mila occhiali in acetato l'anno per griffe del lusso in 3 unità operative.",
+   "url": "https://trisottica.com/chi-siamo/",
+   "quote": "Noi di Trisottica produciamo per conto terzi occhiali in acetato o in acetato combinato con il metallo. || Dirigiamo oltre 100 dipendenti distribuiti in 3 unità operative per una produzione di circa 700 mila occhiali ogni anno. || Le griffe e i brand del lusso si affidano alla nostra esperienza per realizzare progetti di alta qualità e creare collezioni sempre più innovative."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "tenova-14",
+ "company": "Tenova",
+ "first_name": "Martín",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tenova offre soluzioni dalla riduzione diretta del ferro ai forni elettrici ad arco fino a forni di trattamento termico e laminatoi a freddo. Qui trova come lavoriamo e cosa potremmo fare per Tenova.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tenova.",
+ "evidence": [
+  {
+   "claim": "Tenova offre soluzioni dalla riduzione diretta del ferro ai forni elettrici ad arco fino a forni di trattamento termico e laminatoi a freddo.",
+   "url": "https://tenova.com/about-us/our-commitment",
+   "quote": "From Direct Reduction Iron to Electrical Arc Furnaces , from reheating and heat treatment furnaces to cold mills , processing lines and roll grinders , we offer premium solutions"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

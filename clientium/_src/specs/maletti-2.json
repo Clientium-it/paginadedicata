@@ -1,0 +1,28 @@
+{
+ "slug": "maletti-2",
+ "company": "Maletti",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Maletti progetta arredi per saloni di parrucchieri, dai piccoli negozi alle catene e accademie, con concessionari esclusivi in 101 paesi. Qui trova come lavoriamo e cosa potremmo fare per Maletti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Maletti.",
+ "evidence": [
+  {
+   "claim": "Maletti progetta arredi per saloni di parrucchieri, dai piccoli negozi alle catene e accademie, con concessionari esclusivi in 101 paesi.",
+   "url": "https://www.maletti.it/azienda/",
+   "quote": "Maletti progetta e commercializza arredi di alta qualità per saloni di bellezza dei parrucchieri. Fornisce soluzioni personalizzate che soddisfano alle aspettative dei clienti più esigenti, dai piccoli negozi, alle catene e alle accademie per parrucchieri. || una rete commerciale estesa in tutti i 5 continenti, con concessionari esclusivi in 101 paesi che acquistano abitualmente e continuativamente prodotti Maletti || dai piccoli negozi, alle catene e alle accademie per parrucchieri"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "cmt",
+ "company": "CMT",
+ "first_name": "Simona",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CMT porta oltre 7.000 prodotti a industrie e artigiani del legno in tutto il mondo, con centri logistici a Pesaro e Udine. Qui trova come lavoriamo e cosa potremmo fare per CMT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CMT.",
+ "evidence": [
+  {
+   "claim": "CMT porta oltre 7.000 prodotti a industrie e artigiani del legno in tutto il mondo, con centri logistici a Pesaro e Udine.",
+   "url": "https://www.cmtorangetools.com/it-it/azienda",
+   "quote": "CMT offre oltre 7.000 prodotti, ma al giorno d’oggi non basta avere un ampio catalogo per rendere il cliente soddisfatto al 100%, bisogna rendere disponibile questa merce il prima possibile. || Con i suoi 2 centri logistici di Pesaro e Udine, e con un numero sempre crescente di distributori in tutto il mondo, CMT Orange Tools è vicina ai propri clienti. || offrire i prodotti delle \"Costruzioni Meccaniche Tommassini\" a industrie e artigiani del legno in un tutto il mondo"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

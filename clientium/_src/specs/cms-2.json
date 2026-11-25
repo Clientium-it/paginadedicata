@@ -1,0 +1,28 @@
+{
+ "slug": "cms-2",
+ "company": "CMS",
+ "first_name": "Angelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CMS ha costruito a Zogno, in provincia di Bergamo, oltre 10.000 centri di lavoro usati in settori come aerospazio, automotive, nautica ed eolico. Qui trova come lavoriamo e cosa potremmo fare per CMS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CMS.",
+ "evidence": [
+  {
+   "claim": "CMS ha costruito a Zogno, in provincia di Bergamo, oltre 10.000 centri di lavoro usati in settori come aerospazio, automotive, nautica ed eolico.",
+   "url": "https://www.cms.it/en/company/company",
+   "quote": "More than 10,000 CMS-branded machining centres have been constructed in the two production sites of Zogno, in the province of Bergamo, and are now in operation in the manufacturing departments of world-leading companies. || More than 10,000 CMS-branded machining centres have been constructed in the two production sites of Zogno, in the province of Bergamo || successfully operating in many sectors such as: aerospace automotive formula 1 marine industry eyewear wind turbines building architecture interior design street furniture sculpture"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

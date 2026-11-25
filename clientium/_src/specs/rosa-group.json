@@ -1,0 +1,28 @@
+{
+ "slug": "rosa-group",
+ "company": "Rosa Group",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rosa Group nasce nel 1965 con lo stabilimento Rosa Moduls e oggi conta 8 sedi produttive, 5 nel Nord Est e 3 in Polonia. Qui trova come lavoriamo e cosa potremmo fare per Rosa Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rosa Group.",
+ "evidence": [
+  {
+   "claim": "Rosa Group nasce nel 1965 con lo stabilimento Rosa Moduls e oggi conta 8 sedi produttive, 5 nel Nord Est e 3 in Polonia.",
+   "url": "https://rosagroup.com/it/azienda/storia.html",
+   "quote": "Attualmente Rosa Group conta 8 locations produttive di cui 5 situate in Italia nel Nord-Est e 3 in Polonia || Il Gruppo Rosa nasce negli anni sessanta con la costituzione , nel 1965, dello stabilimento di Rosa Moduls || in seguito la visione imprenditoriale e la capacità del titolare di interpretare le esigenze del mercato avvicinano l’azienda anche al settore dell’impiantistica civile e industriale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

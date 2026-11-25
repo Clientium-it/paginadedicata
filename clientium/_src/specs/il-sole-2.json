@@ -1,0 +1,28 @@
+{
+ "slug": "il-sole-2",
+ "company": "Il Sole",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Il Sole crea linee di prodotti personalizzati con un servizio al dettaglio sia per il mercato B2B sia per il B2C. Qui trova come lavoriamo e cosa potremmo fare per Il Sole.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Il Sole.",
+ "evidence": [
+  {
+   "claim": "Il Sole crea linee di prodotti personalizzati con un servizio al dettaglio sia per il mercato B2B sia per il B2C.",
+   "url": "https://www.ilsolesrl.com/azienda",
+   "quote": "OFFRIAMO UN SERVIZIO AL DETTAGLIO SIA PER IL MERCATO B2B SIA PER IL B2C CREANDO LINEE DI PRODOTTI PERSONALIZZATI"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

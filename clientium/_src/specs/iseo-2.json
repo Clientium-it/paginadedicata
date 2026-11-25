@@ -1,0 +1,28 @@
+{
+ "slug": "iseo-2",
+ "company": "ISEO",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ISEO realizza sistemi meccanici ed elettronici per il controllo degli accessi pensati per banche, sanità, scuole, student housing, energia e trasporti. Qui trova come lavoriamo e cosa potremmo fare per ISEO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ISEO.",
+ "evidence": [
+  {
+   "claim": "ISEO realizza sistemi meccanici ed elettronici per il controllo degli accessi pensati per banche, sanità, scuole, student housing, energia e trasporti.",
+   "url": "https://iseo.com/it",
+   "quote": "ISEO porta il valore della sicurezza in una nuova dimensione, la libertà, con i suoi sistemi meccanici ed elettronici per il controllo degli accessi || Banche Coliving Coworking Energia elettrica Energia solare ed eolica Healthcare Istruzione Settore del petrolio e del gas Settore idrico Student housing Telecomunicazioni Trasporti"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

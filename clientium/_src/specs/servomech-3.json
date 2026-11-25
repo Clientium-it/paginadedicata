@@ -1,0 +1,28 @@
+{
+ "slug": "servomech-3",
+ "company": "Servomech",
+ "first_name": "Orazio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Servomech dal 1989 progetta e produce attuatori lineari, martinetti a vite, rinvii angolari e viti a ricircolo di sfere, tutto nella fabbrica di Anzola dell'Emilia. Qui trova come lavoriamo e cosa potremmo fare per Servomech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Servomech.",
+ "evidence": [
+  {
+   "claim": "Servomech dal 1989 progetta e produce attuatori lineari, martinetti a vite, rinvii angolari e viti a ricircolo di sfere, tutto nella fabbrica di Anzola dell'Emilia.",
+   "url": "https://servomech.com/en/company/",
+   "quote": "SERVOMECH S.p.a. designs and manufactures a wide range of acme and ball screw linear actuators , ball screw jacks , acme screw jacks, bevel gears , ball screws and nuts . Since the foundation in 1989, all Servomech products are totally made inside our factory in Anzola dell’Emilia (Bologna), Italy. || Servomech is present in all major industrialized countries with a sales organization able to support the customer in product selection."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

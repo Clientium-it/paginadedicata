@@ -1,0 +1,28 @@
+{
+ "slug": "excen-2",
+ "company": "Excen",
+ "first_name": "Blanka",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Excen converte in versione ATEX e IECEx carrelli elevatori, piattaforme, gru e macchine movimento terra con sede a San Donato Milanese e presenza in Francia e Spagna. Qui trova come lavoriamo e cosa potremmo fare per Excen.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Excen.",
+ "evidence": [
+  {
+   "claim": "Excen converte in versione ATEX e IECEx carrelli elevatori, piattaforme, gru e macchine movimento terra con sede a San Donato Milanese e presenza in Francia e Spagna.",
+   "url": "https://www.excen.it/prodotti",
+   "quote": "We convert ATEX and IECEx electric and diesel-powered industrial machines : Forklifts, lifting platforms, cranes, earthmoving machines, and any other machines driven by electric or diesel engines || Excen is present in Italy with its administrative and production headquarters: Excen s.r.l. - Via Marcora 61/69 - San Donato Milanese (Milan) - Italy Excen is also represented in: France, Spain, Singapore, Malaysia and Thailand || All of our main customers and clients, with whom we are also technical partners, are amongst the world’s leading manufacturers of Forklifts, Generators and Ex- ap paratu s , along with Integrators of Solar Power and UPS systems ."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "olivari",
+ "company": "Olivari",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Olivari svolge dal 1911 l'intero ciclo produttivo nei propri stabilimenti di Borgomanero, a nord ovest di Milano. Qui trova come lavoriamo e cosa potremmo fare per Olivari.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Olivari.",
+ "evidence": [
+  {
+   "claim": "Olivari svolge dal 1911 l'intero ciclo produttivo nei propri stabilimenti di Borgomanero, a nord ovest di Milano.",
+   "url": "https://www.olivari.it/azienda-e-tecnologia/",
+   "quote": "l’intero ciclo produttivo si svolge dal 1911 esclusivamente all’interno degli stabilimenti Olivari di Borgomanero, a nord-ovest di Milano. || l’intero ciclo produttivo si svolge dal 1911 esclusivamente all’interno degli stabilimenti Olivari di Borgomanero, a nord-ovest di Milano."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

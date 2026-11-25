@@ -1,0 +1,28 @@
+{
+ "slug": "interfashion",
+ "company": "Interfashion",
+ "first_name": "Claire",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Interfashion, fondata nel 1992, progetta, produce e distribuisce con sede a Rimini e showroom a Milano, ed è stata acquisita da STRAVA nel 2023. Qui trova come lavoriamo e cosa potremmo fare per Interfashion.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Interfashion.",
+ "evidence": [
+  {
+   "claim": "Interfashion, fondata nel 1992, progetta, produce e distribuisce con sede a Rimini e showroom a Milano, ed è stata acquisita da STRAVA nel 2023.",
+   "url": "https://interfashion.it/",
+   "quote": "INTERFASHION, fondata nel 1992 e acquisita da STRAVA S.r.l. nel marzo 2023, è un’azienda di progettazione, produzione e distribuzione con sede a Rimini, Italia. || SHOWROOM Via Tortona 35 20144 Milan Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

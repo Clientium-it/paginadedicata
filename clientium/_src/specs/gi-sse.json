@@ -1,0 +1,28 @@
+{
+ "slug": "gi-sse",
+ "company": "Gi&sse",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gi&sse produce dal 1978 ciambelle e krapfen fritti surgelati, anche come terzista, per grossisti, GDO e HORECA in Italia e in Europa. Qui trova come lavoriamo e cosa potremmo fare per Gi&sse.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gi&sse.",
+ "evidence": [
+  {
+   "claim": "Gi&sse produce dal 1978 ciambelle e krapfen fritti surgelati, anche come terzista, per grossisti, GDO e HORECA in Italia e in Europa.",
+   "url": "https://www.dolcificiogiesse.it/it/dolcificio-giesse/",
+   "quote": "Dolcificio Gi&sse è specializzato nella produzione di dolci fritti surgelati, come ciambelle e krapfen, vuoti o ripieni. Fondata nel 1978, l’azienda si è da tempo affermata – anche come terzista – nel mercato dei grossisti alimentari, della GDO e dell’HORECA || sparsi non solo in Italia ma anche in Austria, Francia, Svizzera, Germania, Belgio e Spagna. || nel mercato dei grossisti alimentari, della GDO e dell’HORECA"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

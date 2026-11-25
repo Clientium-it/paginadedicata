@@ -1,0 +1,28 @@
+{
+ "slug": "ofolux-2",
+ "company": "OFOLux",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OFOLux dal 1974 progetta e produce sistemi di illuminazione e interni per autobus, metro, tram e veicoli speciali, con un sito produttivo anche in Messico. Qui trova come lavoriamo e cosa potremmo fare per OFOLux.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OFOLux.",
+ "evidence": [
+  {
+   "claim": "OFOLux dal 1974 progetta e produce sistemi di illuminazione e interni per autobus, metro, tram e veicoli speciali, con un sito produttivo anche in Messico.",
+   "url": "https://www.ofolux.it/it/",
+   "quote": "Fondata nel 1974, OFOLux è specializzata nel design e nella produzione di sistemi di illuminazione e interni per il settore Automotive e Ferroviario. || OFOMex S.A. de C.V.: apertura del nuovo sito produttivo in Messico a gennaio 2015. || OFOLux è in grado di offrire una vasta gamma di prodotti per svariate applicazioni nei diversi settori quali Autobus, Metro/Tram, Veicoli Speciali e Ricreazionali."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

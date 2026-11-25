@@ -1,0 +1,28 @@
+{
+ "slug": "quercetti",
+ "company": "Quercetti",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Quercetti, nata dalla passione di Alessandro Quercetti, oggi con la seconda generazione progetta giocattoli che stimolano curiosità, creatività e crescita nei bambini. Qui trova come lavoriamo e cosa potremmo fare per Quercetti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Quercetti.",
+ "evidence": [
+  {
+   "claim": "Quercetti, nata dalla passione di Alessandro Quercetti, oggi con la seconda generazione progetta giocattoli che stimolano curiosità, creatività e crescita nei bambini.",
+   "url": "https://www.quercettistore.com/",
+   "quote": "Our story began in the 1950s with Alessandro Quercetti’s passion for creating toys that truly speak to children. Today, the second generation continues that vision, designing toys that inspire curiosity, creativity and growth. || © 2022 Quercetti & C. S.r.l. Fabbrica Giocattoli Educativi P.IVA 00491490017 – REA TO - 431598 – Corso Vigevano 25, Torino"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

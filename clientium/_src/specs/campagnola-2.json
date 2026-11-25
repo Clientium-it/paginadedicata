@@ -1,0 +1,28 @@
+{
+ "slug": "campagnola-2",
+ "company": "Campagnola",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Campagnola da oltre sessant'anni progetta attrezzature professionali per raccolta, potatura e legatura, elettriche, pneumatiche e a motore, con una rete in 74 paesi. Qui trova come lavoriamo e cosa potremmo fare per Campagnola.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Campagnola.",
+ "evidence": [
+  {
+   "claim": "Campagnola da oltre sessant'anni progetta attrezzature professionali per raccolta, potatura e legatura, elettriche, pneumatiche e a motore, con una rete in 74 paesi.",
+   "url": "https://www.campagnola.co.uk/company/",
+   "quote": "For over sixty years , we have designed professional equipment for harvesting, pruning and tying , with electric, pneumatic, engine-driven and manual solutions. || An extensive network in 74 countries helps every customer find the right solution for harvesting, pruning and grounds maintenance. || Campagnola technologies offer farmers, professionals and grounds maintenance operators more choice"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

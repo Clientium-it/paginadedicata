@@ -1,0 +1,28 @@
+{
+ "slug": "hasler-rail",
+ "company": "Hasler Rail",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hasler Rail fornisce elettronica di bordo per la sicurezza, sensori, software e gestione dati per il ferroviario, usati da costruttori di rotabili e integratori. Qui trova come lavoriamo e cosa potremmo fare per Hasler Rail.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hasler Rail.",
+ "evidence": [
+  {
+   "claim": "Hasler Rail fornisce elettronica di bordo per la sicurezza, sensori, software e gestione dati per il ferroviario, usati da costruttori di rotabili e integratori.",
+   "url": "https://www.haslerrail.com/",
+   "quote": "supplier of safety-relevant on-board electronics, sensors, software and data management solutions for the railway industries || widely used by rail car builders, OEMs, and systems integrators worldwide"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

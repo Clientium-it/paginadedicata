@@ -1,0 +1,28 @@
+{
+ "slug": "rustici",
+ "company": "Rustici",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rustici ha sede e stabilimento a Montale su circa 23.000 mq, di cui 13.000 coperti, e monta arredi e impianti presso i clienti. Qui trova come lavoriamo e cosa potremmo fare per Rustici.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rustici.",
+ "evidence": [
+  {
+   "claim": "Rustici ha sede e stabilimento a Montale su circa 23.000 mq, di cui 13.000 coperti, e monta arredi e impianti presso i clienti.",
+   "url": "https://rusticispa.com/caratteristiche-aziendali/",
+   "quote": "La sede legale e lo stabilimento sono ubicati nella zona industriale di Montale (PT) . La superficie disponibile è di ca. 23.000 mq , di cui 13.000 mq coperti . || Inoltre, presso i siti industriali dei clienti viene svolta attività di montaggio di arredi e di impianti."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

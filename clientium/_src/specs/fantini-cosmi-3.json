@@ -1,0 +1,28 @@
+{
+ "slug": "fantini-cosmi-3",
+ "company": "Fantini Cosmi",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fantini Cosmi opera con una rete commerciale in oltre 70 paesi ed è presente in oltre 7.500 punti vendita in Italia. Qui trova come lavoriamo e cosa potremmo fare per Fantini Cosmi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fantini Cosmi.",
+ "evidence": [
+  {
+   "claim": "Fantini Cosmi opera con una rete commerciale in oltre 70 paesi ed è presente in oltre 7.500 punti vendita in Italia.",
+   "url": "https://www.fantinicosmi.it/azienda/",
+   "quote": "Fantini Cosmi opera attraverso una rete commerciale mondiale in oltre 70 paesi e vanta collaborazioni con industrie di primaria importanza in tutto il mondo. In Italia è presente in oltre 7.500 punti vendita. || Fantini Cosmi opera attraverso una rete commerciale mondiale in oltre 70 paesi"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

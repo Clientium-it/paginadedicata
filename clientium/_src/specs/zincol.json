@@ -1,0 +1,28 @@
+{
+ "slug": "zincol",
+ "company": "ZinCol",
+ "first_name": "Giosuè",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ZinCol dal 1962 si occupa di zincatura e verniciatura con 6 sedi e 444 addetti per artigiani, professionisti e grandi aziende. Qui trova come lavoriamo e cosa potremmo fare per ZinCol.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ZinCol.",
+ "evidence": [
+  {
+   "claim": "ZinCol dal 1962 si occupa di zincatura e verniciatura con 6 sedi e 444 addetti per artigiani, professionisti e grandi aziende.",
+   "url": "https://www.zincolitalia.it/",
+   "quote": "Dal 1962 , il gruppo ZinCol si occupa di zincatura, verniciatura e tutti i servizi correlati || 1.000 t/g capacità produttiva giornaliera 444 addetti e collaboratori ZinCol 60.000 mq gli spazi coperti ZinCol 400.000 mq gli spazi scoperti ZinCol rapidità Il gruppo ZinCol 6 sedi per essere + rapidi + vicini + completi || per piccoli artigiani, grandi aziende e i tanti professionisti che si rivolgono a noi"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "p-e-labellers-5",
+ "company": "P.E. Labellers",
+ "first_name": "Bogdan",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "P.E. Labellers progetta e produce etichettatrici automatiche adattando le soluzioni alle nuove esigenze produttive delle aziende. Qui trova come lavoriamo e cosa potremmo fare per P.E. Labellers.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per P.E. Labellers.",
+ "evidence": [
+  {
+   "claim": "P.E. Labellers progetta e produce etichettatrici automatiche adattando le soluzioni alle nuove esigenze produttive delle aziende.",
+   "url": "https://www.pelabellers.com/about/",
+   "quote": "in the design and production of automatic labelling machines, thanks to its ability to adapt labelling solutions to the new production requirements of companies"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

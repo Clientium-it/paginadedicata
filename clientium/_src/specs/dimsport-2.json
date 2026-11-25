@@ -1,0 +1,28 @@
+{
+ "slug": "dimsport-2",
+ "company": "Dimsport",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dimsport da Serralunga di Crea ha installato oltre centomila moduli Rapid e segue omologazione e sviluppo veicoli per OEM, prototipi e applicazioni speciali. Qui trova come lavoriamo e cosa potremmo fare per Dimsport.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dimsport.",
+ "evidence": [
+  {
+   "claim": "Dimsport da Serralunga di Crea ha installato oltre centomila moduli Rapid e segue omologazione e sviluppo veicoli per OEM, prototipi e applicazioni speciali.",
+   "url": "https://www.dimsport.it/it/",
+   "quote": "Con oltre centomila moduli installati, Rapid si distingue sul mercato per qualità ed affidabilità grazie all’utilizzo di componenti, materiali e standard automotive || Dimsport Srl Località San Iorio 8/B 15020 Serralunga di Crea (AL) || Dimsport mette a disposizione un’ampia gamma di servizi dedicati all’ omologazioane e allo sviluppo dei veicoli , rivolti a OEM , prototipi e applicazioni speciali"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

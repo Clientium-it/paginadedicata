@@ -1,0 +1,28 @@
+{
+ "slug": "euroacque",
+ "company": "Euroacque",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Euroacque progetta, produce, assiste e ripara componenti e impianti per il trattamento delle acque con un sistema qualità certificato ISO 9001. Qui trova come lavoriamo e cosa potremmo fare per Euroacque.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Euroacque.",
+ "evidence": [
+  {
+   "claim": "Euroacque progetta, produce, assiste e ripara componenti e impianti per il trattamento delle acque con un sistema qualità certificato ISO 9001.",
+   "url": "https://www.euroacque.it/certificazioni/",
+   "quote": "Euroacque ha conseguito le certificazioni, in conformità alla norma UNI EN ISO 9001:2015 , del proprio sistema di gestione per la Qualità relativamente all’attività di progettazione, produzione, assistenza e riparazione di componenti ed impianti per il trattamento delle acque"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

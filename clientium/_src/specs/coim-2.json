@@ -1,0 +1,28 @@
+{
+ "slug": "coim-2",
+ "company": "COIM",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "COIM ha società in Brasile, India, Singapore, Messico e Regno Unito. Qui trova come lavoriamo e cosa potremmo fare per COIM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per COIM.",
+ "evidence": [
+  {
+   "claim": "COIM ha società in Brasile, India, Singapore, Messico e Regno Unito.",
+   "url": "https://coimgroup.com/",
+   "quote": "COIM BRAZIL LTDA Brazil COIM INDIA PVT. LTD. India COIM ASIA PACIFIC PTE LTD Singapore GLOBOCOIM MEXICO, S.DE R.L.DE C.V Mexico Notedome Ltd United Kingdom"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

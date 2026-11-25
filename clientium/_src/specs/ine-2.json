@@ -1,0 +1,28 @@
+{
+ "slug": "ine-2",
+ "company": "INE",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "INE con 150 dipendenti e due siti produttivi in Italia fornisce sia il materiale d'apporto sia le macchine in cinque continenti. Qui trova come lavoriamo e cosa potremmo fare per INE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per INE.",
+ "evidence": [
+  {
+   "claim": "INE con 150 dipendenti e due siti produttivi in Italia fornisce sia il materiale d'apporto sia le macchine in cinque continenti.",
+   "url": "https://www.ine.it/company",
+   "quote": "Con 150 dipendenti e due siti produttivi, entrambi in Italia, propone una gamma prodotti ampia e profonda, fornendo sia il materiale d’apporto che le macchine. || UN'AZIENDA IN CINQUE CONTINENTI Ovunque nel mondo, siamo il punto di riferimento in un mercato in continua evoluzione."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

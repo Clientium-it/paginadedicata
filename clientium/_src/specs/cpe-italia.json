@@ -1,0 +1,28 @@
+{
+ "slug": "cpe-italia",
+ "company": "CPE Italia",
+ "first_name": "Alfredo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CPE Italia è nata distribuendo connettori e cavi per difesa e telecomunicazioni e oggi produce a Pastorano, in Cina, Romania, Brasile e Messico. Qui trova come lavoriamo e cosa potremmo fare per CPE Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CPE Italia.",
+ "evidence": [
+  {
+   "claim": "CPE Italia è nata distribuendo connettori e cavi per difesa e telecomunicazioni e oggi produce a Pastorano, in Cina, Romania, Brasile e Messico.",
+   "url": "https://www.cpeitalia.it/la-storia/",
+   "quote": "L’attività è iniziata come azienda commerciale per la distribuzione di connettori e cavi per impiego nei settori difesa e telecomunicazioni. || CPE Italia è oggi presente in tutto il mondo con Sede Centrale a Milano, uffici di Ricerca e Sviluppo a Firenze, stabilimenti di produzione a Pastorano (CE), in Cina, Romania, Brasile, Messico e filiali (uffici di rappresentanza) in India e negli Stati Uniti."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

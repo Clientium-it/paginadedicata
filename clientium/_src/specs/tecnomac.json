@@ -1,0 +1,28 @@
+{
+ "slug": "tecnomac",
+ "company": "Tecnomac",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecnomac con 100 dipendenti produce 13.000 macchinari l'anno per panificazione, pasticceria, gelateria e gastronomia ed è presente in 107 paesi. Qui trova come lavoriamo e cosa potremmo fare per Tecnomac.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecnomac.",
+ "evidence": [
+  {
+   "claim": "Tecnomac con 100 dipendenti produce 13.000 macchinari l'anno per panificazione, pasticceria, gelateria e gastronomia ed è presente in 107 paesi.",
+   "url": "https://tecnomac.eu/azienda/",
+   "quote": "100 dipendenti 107 paesi in cui siamo presenti 13.000 macchinari prodotti ogni anno || 107 paesi in cui siamo presenti || Creiamo ogni giorno prodotti che semplificano il lavoro dei nostri clienti, maestri nell’arte della panificazione, della pasticceria, della gelateria e della gastronomia."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

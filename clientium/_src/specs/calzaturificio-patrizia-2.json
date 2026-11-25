@@ -1,0 +1,28 @@
+{
+ "slug": "calzaturificio-patrizia-2",
+ "company": "Calzaturificio Patrizia",
+ "first_name": "Ottavio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Calzaturificio Patrizia produce calzature rifinite a mano con tecniche artigianali e le distribuisce in Italia e in Francia, Spagna, Germania e Olanda. Qui trova come lavoriamo e cosa potremmo fare per Calzaturificio Patrizia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Calzaturificio Patrizia.",
+ "evidence": [
+  {
+   "claim": "Calzaturificio Patrizia produce calzature rifinite a mano con tecniche artigianali e le distribuisce in Italia e in Francia, Spagna, Germania e Olanda.",
+   "url": "https://www.patriziashoes.com/lazienda/la-produzione/",
+   "quote": "la produzione di Calzaturificio Patrizia si basi ancora su tecniche tradizionali e artigianali, prevedendo che le calzature siano rifinite a mano || Ogni scarpa arriva al cliente finale grazie alla rete distributiva che copre non solo il territorio nazionale ma vanta collaborazioni anche nel resto d’Europa, con particolare riferimento a Francia, Spagna, Germania e Olanda."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

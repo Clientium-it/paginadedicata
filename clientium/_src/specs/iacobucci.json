@@ -1,0 +1,28 @@
+{
+ "slug": "iacobucci",
+ "company": "Iacobucci",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Iacobucci progetta e produce da oltre 50 anni galley insert, sedili VIP e trolley per l'aviazione, installati anche su business jet. Qui trova come lavoriamo e cosa potremmo fare per Iacobucci.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Iacobucci.",
+ "evidence": [
+  {
+   "claim": "Iacobucci progetta e produce da oltre 50 anni galley insert, sedili VIP e trolley per l'aviazione, installati anche su business jet.",
+   "url": "https://iacobucci.aero/",
+   "quote": "For over 50 years, we have been leaders in the design and production of premium solutions for the aviation industry, creating Galley Inserts, VIP Seats, and Trolleys. || Iacobucci HF AEROSPACE S.p.A. P.IVA (VAT NUMBER) 02316240601 REA – Frosinone 144268 Strada SC ASI 1/S nn. 16-18 03013 Ferentino (FR) Italy || Our products for the business aviation market have been installed on the most prestigious business jets, becoming a symbol of elegance and sophistication."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

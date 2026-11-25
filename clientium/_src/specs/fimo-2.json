@@ -1,0 +1,28 @@
+{
+ "slug": "fimo-2",
+ "company": "Fimo",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fimo serve oltre 700 clienti in più di 60 paesi con oltre 5000 prodotti standard e personalizzati e più di 35 brevetti. Qui trova come lavoriamo e cosa potremmo fare per Fimo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fimo.",
+ "evidence": [
+  {
+   "claim": "Fimo serve oltre 700 clienti in più di 60 paesi con oltre 5000 prodotti standard e personalizzati e più di 35 brevetti.",
+   "url": "https://www.fimoworld.com/",
+   "quote": "60+ countries Global reach and support 35+ patents Innovation is one of our pillars 700+ clients Customer-centric vision and focus 5000+ products Customized and standard solutions to address any customer demand || 60+ countries Global reach and support"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

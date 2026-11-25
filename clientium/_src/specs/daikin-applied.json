@@ -1,0 +1,28 @@
+{
+ "slug": "daikin-applied",
+ "company": "Daikin Applied",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Daikin Applied produce e fornisce componenti per impianti HVAC idronici con sedi a Roma, Milano e Vicenza oltre a Francoforte, Monaco e Cramlington. Qui trova come lavoriamo e cosa potremmo fare per Daikin Applied.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Daikin Applied.",
+ "evidence": [
+  {
+   "claim": "Daikin Applied produce e fornisce componenti per impianti HVAC idronici con sedi a Roma, Milano e Vicenza oltre a Francoforte, Monaco e Cramlington.",
+   "url": "https://www.daikinapplied.eu/about-us",
+   "quote": "Daikin Applied Europe is a leading company the HVAC sector, manufacturing and supplying components for hydronic HVAC systems, offering premium quality, reliability and efficiency. || Daikin's European Headquarter for the Applied technologies Located in Italy (Rome, Milan, Vicenza) Also present in Frankfurt and Munich, Germany and Cramlington, UK"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

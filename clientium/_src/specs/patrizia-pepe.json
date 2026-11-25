@@ -1,0 +1,28 @@
+{
+ "slug": "patrizia-pepe",
+ "company": "Patrizia Pepe",
+ "first_name": "Am",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Patrizia Pepe nasce a Firenze nel 1993 dalla creatività di Patrizia Bambi e dallo spirito imprenditoriale di Claudio Orrea. Qui trova come lavoriamo e cosa potremmo fare per Patrizia Pepe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Patrizia Pepe.",
+ "evidence": [
+  {
+   "claim": "Patrizia Pepe nasce a Firenze nel 1993 dalla creatività di Patrizia Bambi e dallo spirito imprenditoriale di Claudio Orrea.",
+   "url": "https://www.patriziapepe.com/de/de/about/",
+   "quote": "Florenz, 1993: Die Leidenschaft von Patrizia Bambi (Kreativdirektorin) und der Unternehmergeist von Claudio Orrea (Geschäftsleiter) führen zur Gründung von Patrizia Pepe."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}
