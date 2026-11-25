@@ -1,0 +1,19 @@
+{
+ "slug": "ts-casa-s-r-l",
+ "company": "TS Casa",
+ "full_name": "Francesco Ts",
+ "first": "Francesco",
+ "linkedin": "https://www.linkedin.com/in/francesco-ts-bbb2aa172",
+ "cover_note": "TS Casa è nata nel 2007 e da allora ha servito oltre quattromilacinquecento famiglie tra Reggio Emilia Modena e Parma.",
+ "evidence": [
+  {
+   "url": "https://serramenti.tscasa.it/chi-siamo-ts-serramenti-reggio-emilia",
+   "quote": "Siamo nati nel 2007 e da allora abbiamo servito oltre 4.500 famiglie tra Reggio Emilia, Modena e Parma"
+  },
+  {
+   "url": "https://serramenti.tscasa.it/chi-siamo-ts-serramenti-reggio-emilia",
+   "quote": "Via Omobono Tenni, 35/A 42123 Reggio Emilia RE"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

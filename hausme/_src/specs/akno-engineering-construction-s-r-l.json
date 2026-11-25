@@ -1,0 +1,19 @@
+{
+ "slug": "akno-engineering-construction-s-r-l",
+ "company": "AKNO",
+ "full_name": "Federica Folgori",
+ "first": "Federica",
+ "linkedin": "https://www.linkedin.com/in/federica-folgori-38b431253",
+ "cover_note": "AKNO opera dal 1971 nel settore edilizio civile e industriale a livello globale e progetta e costruisce edifici chiavi in mano.",
+ "evidence": [
+  {
+   "url": "https://aknogroup.com/",
+   "quote": "AKNO Engineering & Construction è specializzata nella progettazione e costruzione di edifici chiavi in mano."
+  },
+  {
+   "url": "https://aknogroup.com/",
+   "quote": "Il Gruppo AKNO opera a livello globale nel settore del mercato immobiliare ed edilizio , civile e industriale , dal 1971."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

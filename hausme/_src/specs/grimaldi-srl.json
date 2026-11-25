@@ -1,0 +1,23 @@
+{
+ "slug": "grimaldi-srl",
+ "company": "Grimaldi",
+ "full_name": "Marcello Codazzi",
+ "first": "Marcello",
+ "linkedin": "https://www.linkedin.com/in/marcello-codazzi",
+ "cover_note": "Grimaldi segue ristrutturazioni per conto di privati dalla progettazione alla consegna, tra Milano, San Remo e Piacenza, aiutando a confrontare le proposte delle imprese.",
+ "evidence": [
+  {
+   "url": "https://www.gruppo-grimaldi.it/",
+   "quote": "We manage renovation projects on behalf of private clients, from initial planning to handover. We help owners compare contractor proposals, coordinate architects and contractors"
+  },
+  {
+   "url": "https://www.gruppo-grimaldi.it/",
+   "quote": "Milano - San Remo - Piacenza"
+  },
+  {
+   "url": "https://www.gruppo-grimaldi.it/",
+   "quote": "We manage renovation projects on behalf of private clients, from initial planning to handover."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

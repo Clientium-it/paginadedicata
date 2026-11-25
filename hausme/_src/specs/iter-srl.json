@@ -1,0 +1,19 @@
+{
+ "slug": "iter-srl",
+ "company": "Iter Costruzioni",
+ "full_name": "Marco Chiucconi",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-chiucconi-b64b2113",
+ "cover_note": "Iter Costruzioni lavora al recupero del patrimonio edilizio danneggiato dagli eventi sismici che hanno colpito quelle aree e ha concluso 270 cantieri.",
+ "evidence": [
+  {
+   "url": "https://www.itercostruzioni.it/chi-siamo",
+   "quote": "ha volutamente scelto di contribuire con il suo operato al recupero del patrimonio edilizio fortemente danneggiato dagli eventi sismici che hanno colpito quelle aree"
+  },
+  {
+   "url": "https://www.itercostruzioni.it/",
+   "quote": "CANTIERI CONCLUSI 270"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

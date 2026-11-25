@@ -1,0 +1,19 @@
+{
+ "slug": "b-c-e",
+ "company": "BCE",
+ "full_name": "Davide Benedetti",
+ "first": "Davide",
+ "linkedin": "https://www.linkedin.com/in/davide-benedetti-b99b502bb",
+ "cover_note": "BCE nasce nel 2010 dalle radici della famiglia Benedetti, attiva dal 1987, e realizza reti fognarie e idriche, acquedotti, bonifiche e impianti di depurazione.",
+ "evidence": [
+  {
+   "url": "https://www.bcecostruzioni.com/",
+   "quote": "BCE nasce nel 2010. Affonda le sue radici nel tessuto imprenditoriale consolidato della famiglia Benedetti presente sul mercato dal 1987."
+  },
+  {
+   "url": "https://www.bcecostruzioni.com/",
+   "quote": "Reti fognarie, reti idriche, acquedotti, lavori di bonifica, impianti di depurazione, serbatoi idrici."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

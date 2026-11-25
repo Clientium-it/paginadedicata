@@ -1,0 +1,23 @@
+{
+ "slug": "terra-costruzioni-s-r-l",
+ "company": "Terra Costruzioni",
+ "full_name": "Domenico Scorza",
+ "first": "Domenico",
+ "linkedin": "https://www.linkedin.com/in/domenico-scorza-",
+ "cover_note": "Terra Costruzioni nasce nel 2000 dalla fusione di aziende con esperienza trentennale nel settore edile e segue ristrutturazioni private e interventi di efficienza energetica.",
+ "evidence": [
+  {
+   "url": "https://www.terracostruzioni.it/servizi/",
+   "quote": "Offriamo interventi completi che spaziano dal rifacimento degli interni al miglioramento dell’efficienza energetica, garantendo sempre tempi certi e soluzioni personalizzate."
+  },
+  {
+   "url": "https://www.terracostruzioni.it/azienda/",
+   "quote": "Terra Costruzioni s.r.l. è un’impresa che nasce nel 2000 come risultato della fusione di aziende con esperienza trentennale nel settore edile"
+  },
+  {
+   "url": "https://www.terracostruzioni.it/servizi/",
+   "quote": "Affidare a Terra Costruzioni Srl le ristrutturazioni private significa trasformare la propria casa in un luogo accogliente, funzionale e in linea con le esigenze moderne."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

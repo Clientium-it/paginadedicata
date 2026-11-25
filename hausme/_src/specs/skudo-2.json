@@ -1,0 +1,19 @@
+{
+ "slug": "skudo-2",
+ "company": "Skudo",
+ "full_name": "Giampaolo Galantini",
+ "first": "Giampaolo",
+ "linkedin": "https://www.linkedin.com/in/giampaolo-galantini",
+ "cover_note": "Skudo è un consorzio che da oltre trent'anni si occupa di coperture industriali carpenterie e strutture metalliche oltre a bonifiche amianto.",
+ "evidence": [
+  {
+   "url": "https://consorzio-skudo.com/",
+   "quote": "Come Consorzio ci occupiamo da oltre 30 anni di coperture industriali, carpenterie e strutture metalliche, rivestimenti, antisismica, isolamenti termici ed acustici, bonifiche amianto ed ambientali, Impianti Fotovoltaici."
+  },
+  {
+   "url": "https://consorzio-skudo.com/",
+   "quote": "SKUDO CONSORZIO STABILE Via Mezzacampagna, 34 - 37135 Cà di David (VR)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

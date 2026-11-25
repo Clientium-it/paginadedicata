@@ -1,0 +1,19 @@
+{
+ "slug": "edilbruny-srl",
+ "company": "Edilbruny",
+ "full_name": "Gianfranco Cucchi",
+ "first": "Gianfranco",
+ "linkedin": "https://www.linkedin.com/in/gianfranco-cucchi-31028a266",
+ "cover_note": "Edilbruny nasce nel 2005 a Torre Boldone e tra i primi lavori ha curato la ristrutturazione e il restauro di Palazzo Pelliccioli.",
+ "evidence": [
+  {
+   "url": "https://www.edilbruny.it/history/",
+   "quote": "Edilbruny dà il via ai primi lavori significativi con la ristrutturazione e il restauro di Palazzo Pelliccioli."
+  },
+  {
+   "url": "https://www.edilbruny.it/history/",
+   "quote": "Fondata da Gianfranco Cucchi Torre Boldone (BG), 2005"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

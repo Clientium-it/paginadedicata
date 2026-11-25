@@ -1,0 +1,23 @@
+{
+ "slug": "impresa-costruzioni-oppido-s-r-l",
+ "company": "Oppido",
+ "full_name": "Gaetano Oppido",
+ "first": "Gaetano",
+ "linkedin": "https://www.linkedin.com/in/gaetano-oppido-7a05171b3",
+ "cover_note": "Oppido nasce negli anni Cinquanta da Vincenzo Oppido e progetta e costruisce ville appartamenti e condomini con tecniche moderne.",
+ "evidence": [
+  {
+   "url": "https://www.oppido.it/",
+   "quote": "Progettazione e costruzione di edifici a scopo residenziale. Ville, appartamenti, condomìni realizzati con le più moderne tecniche."
+  },
+  {
+   "url": "https://www.oppido.it/lastoria/",
+   "quote": "Negli anni ’50 nasce, grazie all’inventiva ed al sacrifico, da Vincenzo Oppido, l’omonima “Impresa Costruzioni Oppido S.r.l.”"
+  },
+  {
+   "url": "https://www.oppido.it/",
+   "quote": "Siamo in grado di eseguire interventi di ripristino straordinari come: rifacimento del bagno, pavimenti e rivestimenti, etc…"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

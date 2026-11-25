@@ -1,0 +1,19 @@
+{
+ "slug": "tll-costruzioni-s-r-l",
+ "company": "TLL Costruzioni",
+ "full_name": "Kevin Tallarico",
+ "first": "Kevin",
+ "linkedin": "https://www.linkedin.com/in/kevin-tallarico-8243a32b6",
+ "cover_note": "TLL Costruzioni segue dalla progettazione alla gestione dei lavori compresi gli impianti elettrici idraulici e di riscaldamento fino alle finiture di case e uffici.",
+ "evidence": [
+  {
+   "url": "https://tllcostruzioni.it/servizi/ristrutturazioni-a-rho/",
+   "quote": "Ci occupiamo di tutto, dalla progettazione alla gestione dei lavori, compresi gli impianti elettrici, idraulici e di riscaldamento, fino alle finiture."
+  },
+  {
+   "url": "https://tllcostruzioni.it/servizi/ristrutturazioni-a-rho/",
+   "quote": "Trasformiamo case, appartamenti e uffici con soluzioni moderne e funzionali"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

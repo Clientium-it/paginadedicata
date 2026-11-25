@@ -1,0 +1,19 @@
+{
+ "slug": "preestige",
+ "company": "Preestige",
+ "full_name": "Giovanni Fieni",
+ "first": "Giovanni",
+ "linkedin": "https://www.linkedin.com/in/giovanni-fieni-38a281132",
+ "cover_note": "Preestige ha 20 anni di esperienza e ha completato 49 progetti con 17 contratti d'appalto e 12 case riqualificate.",
+ "evidence": [
+  {
+   "url": "https://www.preestige.it/",
+   "quote": "20 Anni di esperienza 49 Progetti completati 17 Contratti d'appalto 12 Case riqualificate"
+  },
+  {
+   "url": "https://www.preestige.it/",
+   "quote": "Ufficio principale Viale Amendola 41, Montecatini Terme - 51015 PISTOIA"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

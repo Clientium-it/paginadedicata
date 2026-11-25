@@ -1,0 +1,15 @@
+{
+ "slug": "progest-srl-2",
+ "company": "Progest",
+ "full_name": "Giuseppe Giorgi",
+ "first": "Giuseppe",
+ "linkedin": "https://www.linkedin.com/in/giuseppe-giorgi-54654967",
+ "cover_note": "Progest realizza piscine fuori terra di lusso pronte per l'inaugurazione in quindici giorni.",
+ "evidence": [
+  {
+   "url": "https://semplicementepiscina.it/come-lavoriamo/",
+   "quote": "In 15 giorni, la tua Piscina Fuori Terra di Lusso è pronta per l'inaugurazione."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

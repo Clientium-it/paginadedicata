@@ -1,0 +1,19 @@
+{
+ "slug": "swit-srl",
+ "company": "Swit",
+ "full_name": "Marco Edgardo Grossi",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-edgardo-grossi-aa59b5179",
+ "cover_note": "Swit realizza progetti residenziali privati con un contratto chiavi in mano che garantisce i tempi e i costi concordati, dalla sede operativa di Biella.",
+ "evidence": [
+  {
+   "url": "https://www.switsrl.it/servizi/",
+   "quote": "Swit realizza progetti residenziali privati, offre un contratto “ Chiavi in mano” garantendo i tempi ed i costi concordati."
+  },
+  {
+   "url": "https://www.switsrl.it/servizi/",
+   "quote": "Sede operativa : Via Bengasi, 9 – 13900, Biella"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

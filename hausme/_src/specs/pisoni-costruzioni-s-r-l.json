@@ -1,0 +1,23 @@
+{
+ "slug": "pisoni-costruzioni-s-r-l",
+ "company": "Pisoni Costruzioni",
+ "full_name": "Diego Pisoni",
+ "first": "Diego",
+ "linkedin": "https://www.linkedin.com/in/diego-pisoni-6a8158100",
+ "cover_note": "Pisoni Costruzioni porta avanti da tre generazioni ristrutturazioni complete chiavi in mano di appartamenti ville e condomini dalle demolizioni fino alle finiture e all'impiantistica certificata.",
+ "evidence": [
+  {
+   "url": "https://pisonicostruzioni.it/ristrutturazioni/",
+   "quote": "Siamo specializzati in ristrutturazioni complete, capaci di gestire ogni fase del progetto con la formula “chiavi in mano”: dalle demolizioni alla posa delle finiture, fino all’impiantistica certificata."
+  },
+  {
+   "url": "https://pisonicostruzioni.it/",
+   "quote": "attività che continua da 3 generazioni"
+  },
+  {
+   "url": "https://pisonicostruzioni.it/about-us/",
+   "quote": "Ci occupiamo della ristrutturazione completa di appartamenti, ville e condomini, seguendo i lavori dalla fase progettuale fino alla consegna dell’immobile."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

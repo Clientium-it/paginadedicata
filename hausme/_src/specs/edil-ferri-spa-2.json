@@ -1,0 +1,15 @@
+{
+ "slug": "edil-ferri-spa-2",
+ "company": "Edil Ferri",
+ "full_name": "Daniele Gualtieri",
+ "first": "Daniele",
+ "linkedin": "https://www.linkedin.com/in/daniele-gualtieri-b8a01b1b1",
+ "cover_note": "Edil Ferri si occupa di rinforzo strutturale e ristrutturazione edilizia di un immobile residenziale.",
+ "evidence": [
+  {
+   "url": "https://edilferrispa.it/opere/",
+   "quote": "Rinforzo strutturale e ristrutturazione edilizia di immobile ad uso residenziale"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "edilcantieri-s-r-l",
+ "company": "Impresa Venditti",
+ "full_name": "Riccardo Venditti",
+ "first": "Riccardo",
+ "linkedin": "https://www.linkedin.com/in/riccardo-venditti-1b2410166",
+ "cover_note": "Impresa Venditti, fondata nel 1968, vanta oltre cinquant'anni nelle costruzioni civili, industriali e nelle ristrutturazioni, dagli appartamenti alle ville di campagna.",
+ "evidence": [
+  {
+   "url": "https://impresavenditti.it/edilizia-civile-e-ristrutturazioni",
+   "quote": "dai moderni appartamenti condominiali alle eleganti ville e residenze di campagna. La nostra consolidata esperienza nel settore ci ha resi esperti nelle ristrutturazioni edilizie, con un occhio di riguardo per gli immobili situati nei centri storici"
+  },
+  {
+   "url": "https://impresavenditti.it/azienda",
+   "quote": "L’Impresa Venditti, fondata nel 1968 da Renato Venditti , vanta oltre cinquant’anni di esperienza significativa nel settore delle costruzioni civili, industriali e delle ristrutturazioni."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

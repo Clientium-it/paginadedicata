@@ -1,0 +1,23 @@
+{
+ "slug": "lova-edil-solutions-s-r-l",
+ "company": "Lova Edil Solutions",
+ "full_name": "Loris Falsanisi",
+ "first": "Loris",
+ "linkedin": "https://www.linkedin.com/in/loris-falsanisi-6a51a8116",
+ "cover_note": "Lova Edil Solutions esegue ristrutturazioni di interni a Milano e lavori chiavi in mano su appartamenti negozi e uffici oltre a bagni e cucine.",
+ "evidence": [
+  {
+   "url": "https://lovaedilsolutions.it/ristrutturazioni-interni/",
+   "quote": "Eseguiamo ristrutturazioni di interni a Milano per ogni tipo di appartamento, dai lavori più piccoli a quelli più complessi."
+  },
+  {
+   "url": "https://lovaedilsolutions.it/ristrutturazioni-interni/",
+   "quote": "Ristrutturazione chiavi in mano di appartamenti, negozi e uffici"
+  },
+  {
+   "url": "https://lovaedilsolutions.it/ristrutturazioni-interni/",
+   "quote": "Ristrutturazione di bagni e cucine"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

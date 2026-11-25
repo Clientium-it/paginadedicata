@@ -1,0 +1,19 @@
+{
+ "slug": "argo-renewables-srl",
+ "company": "Argo Renewables",
+ "full_name": "Giacomo Zanella",
+ "first": "Giacomo",
+ "linkedin": "https://www.linkedin.com/in/giacomo-zanella-59247a110",
+ "cover_note": "Argo Renewables nasce come società autonoma nel 2022 da un gruppo attivo dai primi anni Duemila nello sviluppo immobiliare residenziale terziario e retail.",
+ "evidence": [
+  {
+   "url": "https://argorenewables.com/",
+   "quote": "Argo Renewables S.r.l. è una società del gruppo Argo S.r.l. attivo dai primi anni 2000 nella gestione e sviluppo immobiliare sia diretta che con progetti di sviluppo in particolare nel settore residenziale, terziario e retail"
+  },
+  {
+   "url": "https://argorenewables.com/",
+   "quote": "l’ area di business diventa società autonoma nel 2022, e prende il nome di Argo Renewables S.r.l."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

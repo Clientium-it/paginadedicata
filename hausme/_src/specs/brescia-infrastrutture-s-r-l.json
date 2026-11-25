@@ -1,0 +1,19 @@
+{
+ "slug": "brescia-infrastrutture-s-r-l",
+ "company": "Brescia Infrastrutture",
+ "full_name": "Michele Ciccarelli",
+ "first": "Michele",
+ "linkedin": "https://www.linkedin.com/in/michele-ciccarelli-81a007166",
+ "cover_note": "Brescia Infrastrutture gestisce opere come la metropolitana leggera automatica e i parcheggi in struttura della città.",
+ "evidence": [
+  {
+   "url": "https://www.bresciainfrastrutture.it/",
+   "quote": "Più di 40 progetti realizzati in 10 anni"
+  },
+  {
+   "url": "https://www.bresciainfrastrutture.it/chi-siamo/profilo",
+   "quote": "le ha conferito un patrimonio immobiliare e infrastrutturale, fra cui la Metropolitana Leggera Automatica di Brescia ed i Parcheggi in struttura"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}
