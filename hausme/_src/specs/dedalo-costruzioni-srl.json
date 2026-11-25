@@ -1,0 +1,23 @@
+{
+ "slug": "dedalo-costruzioni-srl",
+ "company": "Dedalo Costruzioni",
+ "full_name": "Gaetano Cerci",
+ "first": "Gaetano",
+ "linkedin": "https://www.linkedin.com/in/gaetano-cerci-2981367b",
+ "cover_note": "Dedalo Costruzioni interviene su case appartamenti uffici e negozi tra Modena Cavezzo e provincia sia con ristrutturazioni complete sia con lavori mirati.",
+ "evidence": [
+  {
+   "url": "https://www.dedalocostruzionisrl.it/ristrutturazioni.html",
+   "quote": "Interveniamo su case, appartamenti, uffici e negozi a Modena, Cavezzo e in tutta la provincia, sia per ristrutturazioni complete sia per lavori mirati."
+  },
+  {
+   "url": "https://www.dedalocostruzionisrl.it/",
+   "quote": "Cantieri realizzati tra Modena, Bologna, Mantova e Trento"
+  },
+  {
+   "url": "https://www.dedalocostruzionisrl.it/ristrutturazioni.html",
+   "quote": "Ristrutturazione completa di appartamenti e case"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

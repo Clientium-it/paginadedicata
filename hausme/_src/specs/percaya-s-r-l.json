@@ -1,0 +1,19 @@
+{
+ "slug": "percaya-s-r-l",
+ "company": "Percaya",
+ "full_name": "Antonino Sarica",
+ "first": "Antonino",
+ "linkedin": "https://www.linkedin.com/in/antonino-sarica-845a30292",
+ "cover_note": "Percaya, fondata nel 2009, segue interventi su edifici, cantieri e impianti e dispone di oltre 20.000 mq di ponteggi di proprietà per lavori in quota.",
+ "evidence": [
+  {
+   "url": "https://www.percaya.it/chi-siamo/",
+   "quote": "Fondata nel 2009, l’azienda ha costruito nel tempo una struttura capace di seguire interventi su edifici, cantieri, impianti e commesse che richiedono competenze tecniche, organizzazione e presenza operativa."
+  },
+  {
+   "url": "https://www.percaya.it/chi-siamo/",
+   "quote": "20.000+ mq Ponteggi di proprietà Un asset operativo rilevante per facciate, coperture, manutenzioni esterne e lavori in quota."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

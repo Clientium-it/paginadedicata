@@ -1,0 +1,15 @@
+{
+ "slug": "ecoedile-srl",
+ "company": "Ecoedile",
+ "full_name": "Giulia Sciumè",
+ "first": "Giulia",
+ "linkedin": "https://www.linkedin.com/in/giulia-sciumè-1aa07b82",
+ "cover_note": "Ecoedile ha portato a termine oltre 300 cantieri e realizzato 200 mila metri quadrati residenziali con oltre 50 dipendenti e circa 100 professionisti qualificati.",
+ "evidence": [
+  {
+   "url": "https://ecoedilesrl.com/projects",
+   "quote": "Con oltre 300 cantieri terminati, 200 mila metri quadrati residenziali realizzati e oltre 50 collaboratori dipendenti e circa 100 professionisti altamente qualificati"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

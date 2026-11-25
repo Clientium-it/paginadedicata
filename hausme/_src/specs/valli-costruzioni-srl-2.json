@@ -1,0 +1,19 @@
+{
+ "slug": "valli-costruzioni-srl-2",
+ "company": "Valli Costruzioni",
+ "full_name": "Roberto Valli",
+ "first": "Roberto",
+ "linkedin": "https://www.linkedin.com/in/roberto-valli-58377b18a",
+ "cover_note": "Valli Costruzioni ha realizzato a Olgiate Comasco un piano integrato con destinazioni commerciali direzionali residenziali e pubbliche.",
+ "evidence": [
+  {
+   "url": "https://vallicostruzioni.it/index.php/history1",
+   "quote": "Piazza Italia è il più grosso intervento di edilizia eseguito ad Olgiate Comasco."
+  },
+  {
+   "url": "https://vallicostruzioni.it/index.php/history1",
+   "quote": "Si tratta di un piano integrato con destinazioni commerciali, direzionali, residenziali e pubbliche."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

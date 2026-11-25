@@ -1,0 +1,19 @@
+{
+ "slug": "olla-home-solution-s-r-l",
+ "company": "Olla Home Solution",
+ "full_name": "Samuel Olla",
+ "first": "Samuel",
+ "linkedin": "https://www.linkedin.com/in/samuel-olla",
+ "cover_note": "Olla Home Solution è una società ESCo certificata che accompagna ogni cliente verso l'indipendenza energetica, chiavi in mano dalla progettazione fino all'accesso agli incentivi.",
+ "evidence": [
+  {
+   "url": "https://www.ollahomesolution.it/",
+   "quote": "Olla Home Solution è una società ESCo certificata che accompagna ogni tipologia di cliente verso l’indipendenza energetica, gestendo l’intero percorso chiavi in mano: dalla progettazione all’accesso agli incentivi."
+  },
+  {
+   "url": "https://www.ollahomesolution.it/chi-siamo/",
+   "quote": "Olla Home Solution fa del proprio lavoro la propria missione: riqualificare il patrimonio immobiliare italiano per incrementare non solo il benessere abitativo delle famiglie"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

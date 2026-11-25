@@ -1,0 +1,23 @@
+{
+ "slug": "tecno-edil-vit-srl",
+ "company": "Tecno Edil Vit",
+ "full_name": "Cesare Scorzoso",
+ "first": "Cesare",
+ "linkedin": "https://www.linkedin.com/in/cesare-scorzoso-4316276a",
+ "cover_note": "Tecno Edil Vit dal 2006 realizza ristrutturazioni chiavi in mano e si dedica al recupero conservativo di immobili anche di pregio storico.",
+ "evidence": [
+  {
+   "url": "https://www.tecnoedilvit.it/portfolio-items/nuove-costruzioni-ristrutturazioni/",
+   "quote": "Realizziamo ristrutturazioni chiavi in mano di case, ville, appartamenti, uffici e attività commerciali. Ci occupiamo di ogni fase del rinnovo della struttura, dai rivestimenti esterni alle rifiniture interne."
+  },
+  {
+   "url": "https://www.tecnoedilvit.it/",
+   "quote": "presente sul mercato dal 2006 e specializzata in ristrutturazioni edili e recupero conservativo di immobili anche di pregio storico"
+  },
+  {
+   "url": "https://www.tecnoedilvit.it/portfolio-items/nuove-costruzioni-ristrutturazioni/",
+   "quote": "Siamo il partner affidabile sia per la ristrutturazione dell’intera casa che per i piccoli interventi."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

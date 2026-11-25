@@ -1,0 +1,19 @@
+{
+ "slug": "bazzichi-costruzioni-s-r-l",
+ "company": "Bazzichi Costruzioni",
+ "full_name": "Ennio Bazzichi",
+ "first": "Ennio",
+ "linkedin": "https://www.linkedin.com/in/ennio-bazzichi-9b70a648",
+ "cover_note": "Bazzichi Costruzioni conta su circa venti persone tra tecnici, muratura e carpenteria e segue costruzioni e ristrutturazioni di case, ville e appartamenti in Versilia.",
+ "evidence": [
+  {
+   "url": "https://www.bazzichicostruzionisrl.it/chi-siamo/",
+   "quote": "Contiamo su circa venti persone tra parte tecnica, muratura e carpenteria, affiancate da una rete collaudata di collaboratori."
+  },
+  {
+   "url": "https://www.bazzichicostruzionisrl.it/",
+   "quote": "Seguiamo nuove costruzioni e ristrutturazioni di case, ville e appartamenti in tutta la Versilia."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

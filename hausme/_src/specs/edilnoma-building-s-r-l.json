@@ -1,0 +1,19 @@
+{
+ "slug": "edilnoma-building-s-r-l",
+ "company": "Edilnoma",
+ "full_name": "Arianna Molla",
+ "first": "Arianna",
+ "linkedin": "https://www.linkedin.com/in/arianna-molla-06a050298",
+ "cover_note": "Edilnoma da oltre vent'anni realizza abitazioni su misura e ville chiavi in mano in provincia di Varese e Milano.",
+ "evidence": [
+  {
+   "url": "https://www.edilnoma.it/le-nostre-realizzazioni",
+   "quote": "Da oltre vent’anni realizziamo abitazioni su misura in provincia di Varese e Milano"
+  },
+  {
+   "url": "https://www.edilnoma.it/le-nostre-realizzazioni",
+   "quote": "impresa edile di riferimento in Lombardia per la costruzione di ville chiavi in mano"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

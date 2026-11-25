@@ -1,0 +1,19 @@
+{
+ "slug": "compet-team-srl",
+ "company": "Compet Team",
+ "full_name": "Hanny Michael",
+ "first": "Hanny",
+ "linkedin": "https://www.linkedin.com/in/hanny-michael-43969583",
+ "cover_note": "Compet Team lavora come general contractor dalla progettazione alla consegna chiavi in mano su progetti turistici, allestimenti di negozi, uffici e abitazioni private.",
+ "evidence": [
+  {
+   "url": "https://www.compet-team.com/",
+   "quote": "Unser Ziel ist es, Ihre Wünsche von der Konzeptentwicklung bis zur schlüsselfertigen Übergabe als Generalunternehmer zu realisieren."
+  },
+  {
+   "url": "https://www.compet-team.com/",
+   "quote": "Egal, ob es sich um touristische Projekte, Ladenbau, Büro- und Objekteinrichtungen oder Ihr eigenes Zuhause handelt"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

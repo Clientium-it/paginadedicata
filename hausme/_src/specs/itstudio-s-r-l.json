@@ -1,0 +1,15 @@
+{
+ "slug": "itstudio-s-r-l",
+ "company": "ITStudio",
+ "full_name": "Luigi Manlio Tassone",
+ "first": "Luigi",
+ "linkedin": "https://www.linkedin.com/in/manliotassone",
+ "cover_note": "ITStudio supporta i propri clienti nelle principali attività di sviluppo di iniziative immobiliari con un approccio dall'inizio alla fine.",
+ "evidence": [
+  {
+   "url": "https://www.itstudio.it/sviluppo-immobiliare",
+   "quote": "supporta i propri clienti nelle principali attività di sviluppo di iniziative immobiliari, con un approccio end-to-end"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

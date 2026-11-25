@@ -1,0 +1,23 @@
+{
+ "slug": "emmea-edilizia-srl",
+ "company": "Emmea Edilizia",
+ "full_name": "Antonio Mura",
+ "first": "Antonio",
+ "linkedin": "https://www.linkedin.com/in/antonio-mura-0bb3a294",
+ "cover_note": "Emmea Edilizia è un punto di riferimento nella provincia di Livorno per ristrutturare appartamenti e condomini chiavi in mano e rifare i bagni.",
+ "evidence": [
+  {
+   "url": "https://www.emmeaedilizia.it/",
+   "quote": "Le ristrutturazioni di appartamenti chiavi in mano e condomini sono soluzioni complete e convenienti per trasformare gli spazi abitativi secondo le tue esigenze e gli standard più recenti."
+  },
+  {
+   "url": "https://www.emmeaedilizia.it/",
+   "quote": "un punto di riferimento nella provincia di Livorno, offre una vasta gamma di servizi edili"
+  },
+  {
+   "url": "https://www.emmeaedilizia.it/",
+   "quote": "Il rifacimento del bagno e la realizzazione di bagni chiavi in mano offrono soluzioni complete e personalizzate per trasformare il tuo spazio in un ambiente confortevole e funzionale."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

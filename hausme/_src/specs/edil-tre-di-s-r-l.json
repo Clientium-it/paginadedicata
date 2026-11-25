@@ -1,0 +1,23 @@
+{
+ "slug": "edil-tre-di-s-r-l",
+ "company": "Edil Tre.Di",
+ "full_name": "Mario Daddario",
+ "first": "Mario",
+ "linkedin": "https://www.linkedin.com/in/mario-daddario-431b05122",
+ "cover_note": "Edil Tre.Di opera nell'edilizia dal 1982 tra Varese e Milano nella costruzione, ristrutturazione e manutenzione di edifici civili, industriali e commerciali.",
+ "evidence": [
+  {
+   "url": "https://www.ediltredi.it/ristrutturazioni/",
+   "quote": "Realizziamo interventi di manutenzione ordinaria e straordinaria nella provincia di Varese e nella provincia di Milano"
+  },
+  {
+   "url": "https://www.ediltredi.it/",
+   "quote": "è operativa nel settore dell’edilizia fin dal 1982, ed è specializzata nella costruzione, nella ristrutturazione e nella manutenzione di edifici civili, industriali e commerciali"
+  },
+  {
+   "url": "https://www.ediltredi.it/ristrutturazioni/",
+   "quote": "Ci occupiamo di tutti i lavori di edilizia, opere di ristrutturazione, costruzioni e manutenzione degli immobili destinati a svariati usi (appartamenti, ville, condomini, strutture commerciali, uffici, b&b, hotel)."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

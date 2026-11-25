@@ -1,0 +1,19 @@
+{
+ "slug": "fastpharma-s-r-l",
+ "company": "Fastpharma",
+ "full_name": "Giuseppe Scaramozzino",
+ "first": "Giuseppe",
+ "linkedin": "https://www.linkedin.com/in/giuseppe-scaramozzino-64157547",
+ "cover_note": "Fastpharma rinnova farmacie con sedi a Milano e Reggio Calabria e segue clienti al Nord al Centro al Sud e nelle Isole.",
+ "evidence": [
+  {
+   "url": "https://fastpharma.it/",
+   "quote": "La Farmacia Sant’Eustorgio di Milano, per esempio, è stata rinnovata in 7 giorni."
+  },
+  {
+   "url": "https://fastpharma.it/",
+   "quote": "Con sedi a Milano e Reggio Calabria seguiamo farmacie al Nord, al Centro, al Sud e nelle Isole"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

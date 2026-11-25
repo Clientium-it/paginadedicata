@@ -1,0 +1,23 @@
+{
+ "slug": "impresa-costruzioni-sparti-srl",
+ "company": "Sparti",
+ "full_name": "Simone Sparti",
+ "first": "Simone",
+ "linkedin": "https://www.linkedin.com/in/simone-sparti-b058a667",
+ "cover_note": "Sparti è specializzata nella ristrutturazione di case e immobili pubblici e privati e ha oltre trent'anni di attività.",
+ "evidence": [
+  {
+   "url": "https://sparti.it/cosa-facciamo/ristrutturazioni/",
+   "quote": "L’Impresa è specializzata soprattutto nella ristrutturazione di case e immobili, sia pubblici che privati, e offre un servizio completo e accurato, studiando la soluzione migliore per ogni diversa esigenza."
+  },
+  {
+   "url": "https://sparti.it/",
+   "quote": "Oltre 30 anni di passione e impegno"
+  },
+  {
+   "url": "https://sparti.it/cosa-facciamo/ristrutturazioni/",
+   "quote": "L’Impresa è specializzata soprattutto nella ristrutturazione di case e immobili, sia pubblici che privati"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

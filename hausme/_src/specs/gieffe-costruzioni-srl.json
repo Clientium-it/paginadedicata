@@ -1,0 +1,19 @@
+{
+ "slug": "gieffe-costruzioni-srl",
+ "company": "Gieffe Costruzioni",
+ "full_name": "Federica Frola",
+ "first": "Federica",
+ "linkedin": "https://www.linkedin.com/in/federica-frola-333201216",
+ "cover_note": "Gieffe Costruzioni nel 1973 ha realizzato a Novara in via Prestinari il primo grande complesso residenziale con quattro edifici e 90 appartamenti.",
+ "evidence": [
+  {
+   "url": "https://frolagroup.it/storia/",
+   "quote": "Costruzione del primo grande Complesso Residenziale a Novara di Via Prestinari: quattro Edifici per un totale di 90 appartamenti."
+  },
+  {
+   "url": "https://frolagroup.it/storia/",
+   "quote": "1973 Via Prestinari | Novara"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

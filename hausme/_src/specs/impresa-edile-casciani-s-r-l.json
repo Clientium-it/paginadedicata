@@ -1,0 +1,23 @@
+{
+ "slug": "impresa-edile-casciani-s-r-l",
+ "company": "Impresa Casciani",
+ "full_name": "Alberto Francalanci",
+ "first": "Alberto",
+ "linkedin": "https://www.linkedin.com/in/alberto-francalanci-5498a86b",
+ "cover_note": "Impresa Casciani nasce nel 1927 a Montecatini Terme e oggi segue restauri, opere di genio civile e ristrutturazioni su immobili condominiali con lavori di impermeabilizzazione.",
+ "evidence": [
+  {
+   "url": "https://www.impresacasciani.it/la-nostra-storia/",
+   "quote": "Attualmente siamo in grado di realizzare restauri, opere edili e di genio civile, servizi di assistenza e ristrutturazione su immobili condominiali ed opere di impermeabilizzazione"
+  },
+  {
+   "url": "https://www.impresacasciani.it/la-nostra-storia/",
+   "quote": "La nostra storia inizia il 29 Marzo del 1927 quando Giuseppe Casciani costituisce a Montecatini Terme una ditta individuale dedita alla muratura"
+  },
+  {
+   "url": "https://www.impresacasciani.it/",
+   "quote": "Condominio P.zza Mazzini, 6 Pescia. Lavori di rifacimento della copertura. Restauro delle cornici della facciata."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

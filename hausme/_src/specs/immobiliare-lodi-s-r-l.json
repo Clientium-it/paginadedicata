@@ -1,0 +1,15 @@
+{
+ "slug": "immobiliare-lodi-s-r-l",
+ "company": "Immobiliare Lodi",
+ "full_name": "Martino C",
+ "first": "Martino",
+ "linkedin": "https://www.linkedin.com/in/martino-cerri",
+ "cover_note": "Immobiliare Lodi ha firmato numerose ristrutturazioni di pregio nel centro storico di Lodi oltre a cascine, nuove palazzine, capannoni e uffici.",
+ "evidence": [
+  {
+   "url": "https://www.immobiliarelodi.com/chi-siamo",
+   "quote": "numerose ristrutturazioni di pregio nel centro storico di Lodi, cascine destinate a residenza e strutture industriali, nuove palazzine, capannoni, uffici"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

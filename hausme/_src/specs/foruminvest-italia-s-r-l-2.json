@@ -1,0 +1,19 @@
+{
+ "slug": "foruminvest-italia-s-r-l-2",
+ "company": "Foruminvest Italia",
+ "full_name": "Marco Mutti",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-mutti-542a3b13",
+ "cover_note": "Foruminvest Italia ha oltre 40 anni di esperienza internazionale e realizza appartamenti e abitazioni con un focus sui canoni di affitto accessibili.",
+ "evidence": [
+  {
+   "url": "https://www.foruminvest.com/it/",
+   "quote": "oltre 40 anni di esperienza internazionale"
+  },
+  {
+   "url": "https://www.foruminvest.com/it/",
+   "quote": "Realizziamo appartamenti ed abitazioni, con focus su canoni di affitto accessibili"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

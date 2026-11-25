@@ -1,0 +1,19 @@
+{
+ "slug": "betax-s-r-l",
+ "company": "Betax",
+ "full_name": "Marilena Giudici",
+ "first": "Marilena",
+ "linkedin": "https://www.linkedin.com/in/marilena-giudici-852564182",
+ "cover_note": "Betax lavora nell'edilizia dal 1974, con esperienza tramandata, e ha firmato residenze come Rosmini, la Trucca, via Cadorna, Cazzano e Ardesio.",
+ "evidence": [
+  {
+   "url": "https://www.betax.it/",
+   "quote": "Nell’edilizia, Betax è sinonimo di esperienza tramandata dal 1974, competenza e capacità."
+  },
+  {
+   "url": "https://www.betax.it/",
+   "quote": "Residenza Rosmini Residenza Iniziativa la Trucca Residenza via Cadorna Residenza Cazzano Residenza Ardesio"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

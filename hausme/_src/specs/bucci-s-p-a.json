@@ -1,0 +1,19 @@
+{
+ "slug": "bucci-s-p-a",
+ "company": "Bucci",
+ "full_name": "Lorenzo Piccinini",
+ "first": "Lorenzo",
+ "linkedin": "https://www.linkedin.com/in/lorenzo-piccinini-14566759",
+ "cover_note": "Bucci si dedica alla costruzione e ristrutturazione di fabbricati industriali e residenziali realizzando anche interventi di particolare pregio architettonico.",
+ "evidence": [
+  {
+   "url": "https://www.buccispa.com/la-nostra-storia/",
+   "quote": "si dedica alla costruzione e ristrutturazione di fabbricati industriali e residenziali, realizzando anche interventi di particolare pregio architettonico"
+  },
+  {
+   "url": "https://www.buccispa.com/la-nostra-storia/",
+   "quote": "di circa 1.800 mq con 20.000 mq di terreno nella splendida Lesignano Bagni (PR)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

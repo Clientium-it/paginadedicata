@@ -1,0 +1,19 @@
+{
+ "slug": "impredil-s-r-l",
+ "company": "Impredil",
+ "full_name": "Fulvio Valentini",
+ "first": "Fulvio",
+ "linkedin": "https://www.linkedin.com/in/fulvio-valentini-7b88825a",
+ "cover_note": "Impredil è un'impresa edile attiva in Veneto specializzata in costruzioni e ristrutturazioni e che negli ultimi anni ha completato oltre 2800 progetti.",
+ "evidence": [
+  {
+   "url": "https://impredil-costruzioni.it/",
+   "quote": "Negli ultimi anni abbiamo completato oltre 2.800 progetti con successo, soddisfacendo più di 1.500 clienti"
+  },
+  {
+   "url": "https://impredil-costruzioni.it/",
+   "quote": "Siamo un’impresa edile attiva in Veneto, specializzata in costruzioni e ristrutturazioni, con soluzioni di qualità ed efficienza"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "edilpianoro-s-r-l",
+ "company": "Edilpianoro",
+ "full_name": "Michele Sazzini",
+ "first": "Michele",
+ "linkedin": "https://www.linkedin.com/in/michele-sazzini-4020621b4",
+ "cover_note": "Edilpianoro lavora nell'edilizia residenziale e ha maturato sessant'anni di attività nel settore.",
+ "evidence": [
+  {
+   "url": "https://www.edilpianoro.it/azienda/",
+   "quote": "Edilpianoro si impegna per soddisfare le crescenti richieste del settore edile residenziale"
+  },
+  {
+   "url": "https://www.edilpianoro.it/azienda/",
+   "quote": "L'esperienza maturata in 60 anni di attività"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

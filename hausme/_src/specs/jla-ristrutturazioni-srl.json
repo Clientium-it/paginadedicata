@@ -1,0 +1,19 @@
+{
+ "slug": "jla-ristrutturazioni-srl",
+ "company": "JLA Ristrutturazioni",
+ "full_name": "Alessandro Crusco",
+ "first": "Alessandro",
+ "linkedin": "https://www.linkedin.com/in/alessandro-crusco-960206199",
+ "cover_note": "JLA Ristrutturazioni ha completato 148 progetti e consegnato 106 abitazioni occupandosi di ristrutturazioni di case e appartamenti.",
+ "evidence": [
+  {
+   "url": "https://jlaristrutturazioni.com/chi-siamo/",
+   "quote": "Vuoi ristrutturare la tua casa, il tuo appartamento o il tuo bagno"
+  },
+  {
+   "url": "https://jlaristrutturazioni.com/chi-siamo/",
+   "quote": "Dati che raccontano la nostra realtà 148 PROGETTI COMPLETI 106 ABITAZIONI CONSEGNATE"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

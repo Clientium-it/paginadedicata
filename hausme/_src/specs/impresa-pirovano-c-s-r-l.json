@@ -1,0 +1,19 @@
+{
+ "slug": "impresa-pirovano-c-s-r-l",
+ "company": "Impresa Pirovano",
+ "full_name": "Cesare Pirovano",
+ "first": "Cesare",
+ "linkedin": "https://www.linkedin.com/in/cesare-pirovano-5b042910b",
+ "cover_note": "Impresa Pirovano nasce nel 2008 dall'esperienza dei due titolari e ristruttura appartamenti ville e negozi di diversa metratura e prestigio.",
+ "evidence": [
+  {
+   "url": "http://impresapirovano.it/",
+   "quote": "Ristrutturazione di appartamenti, ville, e negozi di diversa metratura e prestigio"
+  },
+  {
+   "url": "http://impresapirovano.it/",
+   "quote": "nasce nel luglio del 2008 capitalizzando le esperienze professionali maturate dai due titolari"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

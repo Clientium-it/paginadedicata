@@ -1,0 +1,23 @@
+{
+ "slug": "condogreen-s-r-l",
+ "company": "Condogreen",
+ "full_name": "Manuel Orlandi",
+ "first": "Manuel",
+ "linkedin": "https://www.linkedin.com/in/manuel-orlandi",
+ "cover_note": "Condogreen fa da unico general contractor per i condomìni con una struttura a network di dieci hub nel nord e centro Italia.",
+ "evidence": [
+  {
+   "url": "https://condogreen.it/",
+   "quote": "Il condominio si interfaccia con una sola società di General Contract Il team è composto da professionisti con competenza ed esperienza sia nel campo edile e progettazione"
+  },
+  {
+   "url": "https://condogreen.it/",
+   "quote": "Struttura a network composta da 10 hub in tutto il nord e centro Italia"
+  },
+  {
+   "url": "https://condogreen.it/",
+   "quote": "La soluzione professionale, pratica ed immediata per l'efficientamento dei condomini italiani a costo zero."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

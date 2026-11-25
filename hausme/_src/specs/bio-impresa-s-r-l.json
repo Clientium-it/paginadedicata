@@ -1,0 +1,19 @@
+{
+ "slug": "bio-impresa-s-r-l",
+ "company": "Bio Impresa",
+ "full_name": "Cristian Reduzzi",
+ "first": "Cristian",
+ "linkedin": "https://www.linkedin.com/in/cristian-reduzzi-a2487a49",
+ "cover_note": "Bio Impresa ristruttura interni ed esterni per privati uffici e strutture alberghiere seguendo tutto dalla progettazione fino alla consegna a Roma e provincia.",
+ "evidence": [
+  {
+   "url": "https://bio-impresa.com/chi-siamo/",
+   "quote": "Realizziamo lavori di ristrutturazione di interni ed esterni, per privati, uffici, aziende e settore alberghiero, seguendo il processo dalla progettazione fino alla consegna dei lavori a regola d’arte."
+  },
+  {
+   "url": "https://bio-impresa.com/chi-siamo/",
+   "quote": "Operiamo su tutto il territorio nazionale e specificatamente su Roma e provincia."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

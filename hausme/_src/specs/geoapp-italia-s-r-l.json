@@ -1,0 +1,19 @@
+{
+ "slug": "geoapp-italia-s-r-l",
+ "company": "Geoapp Italia",
+ "full_name": "Alberto Protti",
+ "first": "Alberto",
+ "linkedin": "https://www.linkedin.com/in/alberto-protti-72164024",
+ "cover_note": "Geoapp Italia realizza lavori di manutenzione, ristrutturazione e costruzione civile in ambito residenziale, con sede a Vimodrone.",
+ "evidence": [
+  {
+   "url": "https://www.geoapp-italia.com/",
+   "quote": "realizza lavori di manutenzione, ristrutturazione, di nuove costruzioni civili nell'ambito residenziale"
+  },
+  {
+   "url": "https://www.geoapp-italia.com/",
+   "quote": "Vimodrone (MI) 20055 - Largo F.lli Cervi, 8"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

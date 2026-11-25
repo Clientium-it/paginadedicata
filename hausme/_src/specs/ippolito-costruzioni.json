@@ -1,0 +1,19 @@
+{
+ "slug": "ippolito-costruzioni",
+ "company": "Ippolito Costruzioni",
+ "full_name": "Cosimo Ippolito",
+ "first": "Cosimo",
+ "linkedin": "https://www.linkedin.com/in/cosimo-ippolito-67a3113a5",
+ "cover_note": "Ippolito Costruzioni dal 1996 opera a Lucca realizzando eleganti residence abitativi e curando il restauro di edifici di particolare interesse storico e artistico.",
+ "evidence": [
+  {
+   "url": "https://www.ippolitocostruzioni.it/chi-siamo/",
+   "quote": "distinguendosi nella realizzazione di eleganti residence abitativi , oltre che nel restauro e nel recupero di edifici di particolare interesse storico ed artistico"
+  },
+  {
+   "url": "https://www.ippolitocostruzioni.it/chi-siamo/",
+   "quote": "Nel 1996, grazie all’intuizione del suo fondatore, la Ippolito Costruzioni si trasferisce a Lucca"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "tota-s-r-l",
+ "company": "Gruppo Tota",
+ "full_name": "Alessandro Tota",
+ "first": "Alessandro",
+ "linkedin": "https://www.linkedin.com/in/alessandro-tota-11039794",
+ "cover_note": "Gruppo Tota ha sede a Prato e lavora tra Italia e Portogallo su abitazioni e condomini con ristrutturazioni chiavi in mano gestite internamente.",
+ "evidence": [
+  {
+   "url": "https://gruppotota.it/servizi",
+   "quote": "Interventi su abitazioni private, appartamenti, villette e condomini."
+  },
+  {
+   "url": "https://gruppotota.it/",
+   "quote": "Impresa edile con sede a Prato, attiva in Italia e Portogallo."
+  },
+  {
+   "url": "https://gruppotota.it/servizi",
+   "quote": "Ristrutturazioni chiavi in mano: prendiamo in carico l'immobile nelle sue condizioni attuali e lo consegniamo pronto all'uso, gestendo internamente ogni fase del processo."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

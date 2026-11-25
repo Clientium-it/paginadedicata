@@ -1,0 +1,19 @@
+{
+ "slug": "edilcres",
+ "company": "Edilcres",
+ "full_name": "Claudio Moronci",
+ "first": "Claudio",
+ "linkedin": "https://www.linkedin.com/in/claudio-moronci-6b358950",
+ "cover_note": "Edilcres opera nella provincia di Ancona con costruzioni e riqualificazioni ecosostenibili e si occupa di adeguamento sismico del patrimonio edilizio esistente.",
+ "evidence": [
+  {
+   "url": "https://edilcres.it/",
+   "quote": "impresa edile della provincia di Ancona, specializzata in costruzioni e riqualificazioni ecosostenibili"
+  },
+  {
+   "url": "https://edilcres.it/",
+   "quote": "La nostra azienda ha sede nel cuore delle Marche e, vivendo in un territorio ad alto rischio sismico, conosciamo bene l’importanza della messa in sicurezza, miglioramento e adeguamento sismico del patrimonio immobiliare esistente."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

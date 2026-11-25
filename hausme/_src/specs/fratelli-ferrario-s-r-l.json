@@ -1,0 +1,15 @@
+{
+ "slug": "fratelli-ferrario-s-r-l",
+ "company": "Fratelli Ferrario",
+ "full_name": "Bottigelli Fabrizio",
+ "first": "Bottigelli",
+ "linkedin": "https://www.linkedin.com/in/bottigelli-fabrizio-0200a073",
+ "cover_note": "Fratelli Ferrario si occupa di lavori che vanno dalla semplice ristrutturazione estetica fino alla costruzione di un'intera palazzina abitativa.",
+ "evidence": [
+  {
+   "url": "https://www.fratelliferrario.com/cosafacciamo.php",
+   "quote": "dalla semplice ristrutturazione estetica fino alla costruzione di una intera palazzina ad uso abitativo"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

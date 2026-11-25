@@ -1,0 +1,23 @@
+{
+ "slug": "santoni-group-s-r-l",
+ "company": "Santoni Group",
+ "full_name": "Francesco Santoni",
+ "first": "Francesco",
+ "linkedin": "https://www.linkedin.com/in/francesco-santoni-1ab56857",
+ "cover_note": "Santoni Group ha sessantun anni di esperienza e segue progetti edili dal concept alla realizzazione chiavi in mano di immobili residenziali e commerciali.",
+ "evidence": [
+  {
+   "url": "https://www.santonigroup.it/",
+   "quote": "Ci occupiamo di progetti edili, dal concept alla realizzazione finale chiavi in mano. Ristrutturiamo, costruiamo e commercializziamo immobili ad uso sia residenziale che commerciale."
+  },
+  {
+   "url": "https://www.santonigroup.it/",
+   "quote": "61 anni di esperienza nel settore delle costruzioni"
+  },
+  {
+   "url": "https://www.santonigroup.it/chi-siamo/",
+   "quote": "ristrutturazione di edifici storici, residenziali, pubblici e commerciali"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

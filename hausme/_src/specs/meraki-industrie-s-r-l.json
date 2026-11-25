@@ -1,0 +1,23 @@
+{
+ "slug": "meraki-industrie-s-r-l",
+ "company": "Meraki",
+ "full_name": "Antonio Petrucci",
+ "first": "Antonio",
+ "linkedin": "https://www.linkedin.com/in/antonio-petrucci-342a601ba",
+ "cover_note": "Meraki opera come General Contractor occupandosi della gestione completa del cantiere dalla direzione lavori alle pratiche burocratiche fino a forniture e maestranze.",
+ "evidence": [
+  {
+   "url": "https://merakiproject.it/",
+   "quote": "Come General Contractor ci occupiamo della gestione completa del cantiere: direzione lavori, pratiche burocratiche, forniture e maestranze."
+  },
+  {
+   "url": "https://merakiproject.it/",
+   "quote": "Ristrutturazione villa – Formia"
+  },
+  {
+   "url": "https://merakiproject.it/",
+   "quote": "Ristrutturazioni complete con la cura di ogni dettaglio."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

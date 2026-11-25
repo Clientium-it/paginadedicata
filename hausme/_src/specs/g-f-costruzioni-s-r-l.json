@@ -1,0 +1,19 @@
+{
+ "slug": "g-f-costruzioni-s-r-l",
+ "company": "G.F. Costruzioni",
+ "full_name": "Gf Fringuello",
+ "first": "Gf",
+ "linkedin": "https://www.linkedin.com/in/gf-patrizia-fringuello-6645a5ba",
+ "cover_note": "G.F. Costruzioni ha ristrutturato facciate e aree esterne di una residenza a Misano Adriatico e costruito due condomini a Morciano di Romagna.",
+ "evidence": [
+  {
+   "url": "https://www.gfcostruzioni.com/realizzazioni/",
+   "quote": "Residenza privata, Misano Adriatico Ristrutturazione delle facciate e delle aree esterne"
+  },
+  {
+   "url": "https://www.gfcostruzioni.com/realizzazioni/",
+   "quote": "Via Panoramica, Morciano di Romagna Nuova costruzione di due condominii composti da 20 appartamenti"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

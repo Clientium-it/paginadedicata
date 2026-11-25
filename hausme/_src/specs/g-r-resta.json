@@ -1,0 +1,23 @@
+{
+ "slug": "g-r-resta",
+ "company": "G.R. Resta",
+ "full_name": "Vincenzo Resta",
+ "first": "Vincenzo",
+ "linkedin": "https://www.linkedin.com/in/vincenzo-resta-9800b566",
+ "cover_note": "G.R. Resta è specializzata nella ristrutturazione completa di appartamenti chiavi in mano, dalla progettazione alla realizzazione, con supporto sulle pratiche edilizie, a Roma e provincia.",
+ "evidence": [
+  {
+   "url": "https://www.grupporesta.it/",
+   "quote": "Offriamo esperienza e specializzazione nella ristrutturazione completa di appartamenti chiavi in mano, garantendo un servizio completo dalla progettazione alla realizzazione, con supporto integrato sulle pratiche edilizie."
+  },
+  {
+   "url": "https://www.grupporesta.it/",
+   "quote": "Operiamo in tutta Roma e provincia, in particolare nella zona di Roma EUR"
+  },
+  {
+   "url": "https://www.grupporesta.it/",
+   "quote": "Il nostro personale qualificato è specializzato nella ristrutturazione di appartamenti, offrendo soluzioni chiavi in mano che coprono tutti gli aspetti del processo, dalla progettazione alla realizzazione finale."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

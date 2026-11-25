@@ -1,0 +1,23 @@
+{
+ "slug": "paolin-srl-2",
+ "company": "Paolin",
+ "full_name": "Elisa Facchinello",
+ "first": "Elisa",
+ "linkedin": "https://www.linkedin.com/in/elisa-facchinello-274452123",
+ "cover_note": "Paolin dal 1952 realizza ristrutturazioni di ville venete costruzioni residenziali di pregio e complessi industriali su misura seguendone anche la direzione lavori.",
+ "evidence": [
+  {
+   "url": "https://paolincostruzioni.it/chi-siamo/",
+   "quote": "ci occupiamo con successo di ristrutturazioni di ville venete , costruzioni residenziali di pregio e realizzazione di complessi industriali su misura"
+  },
+  {
+   "url": "https://paolincostruzioni.it/chi-siamo/",
+   "quote": "Nel 1952 , quel sogno d’infanzia si trasforma in realtà con la nascita dell’impresa edile Paolin"
+  },
+  {
+   "url": "https://paolincostruzioni.it/",
+   "quote": "Dalla ristrutturazione di appartamenti storici al recupero di edifici commerciali, il nostro studio di architettura si occupa di ogni fase: dal progetto alla direzione lavori."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

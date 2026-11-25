@@ -1,0 +1,19 @@
+{
+ "slug": "c-e-v-i-g-srl",
+ "company": "Cevig",
+ "full_name": "Susanna Sbrogio",
+ "first": "Susanna",
+ "linkedin": "https://www.linkedin.com/in/susanna-sbrogio-82198463",
+ "cover_note": "Cevig nasce nel 1976 e costruisce e rivende immobili abitativi, commerciali e industriali sia in conto proprio sia per privati.",
+ "evidence": [
+  {
+   "url": "https://cevig.it/chi-siamo.html",
+   "quote": "la CEVIG costruisce e rivende soluzioni abitative, commerciali ed industriali in conto proprio e per privati"
+  },
+  {
+   "url": "https://cevig.it/",
+   "quote": "La C.E.V.I.G. nasce nel 1976 dalla precisa volonta' dei suoi due soci fondatori"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

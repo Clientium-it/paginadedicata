@@ -1,0 +1,19 @@
+{
+ "slug": "siena-casa-s-p-a",
+ "company": "Siena Casa",
+ "full_name": "Roberto Martini",
+ "first": "Roberto",
+ "linkedin": "https://www.linkedin.com/in/roberto-martini-47b28284",
+ "cover_note": "Siena Casa ha sede a Siena a pochi passi dal centro storico e segue interventi di efficientamento energetico su alloggi nei comuni del Chianti.",
+ "evidence": [
+  {
+   "url": "https://www.sienacasa.net/",
+   "quote": "EFFICIENTAMENTO ENERGETICO DI N.24 ALLOGGI NEI COMUNI DI CASTELNUOVO B.GA VIA DEI PRATI N. 1 – GAIOLE IN CHIANTI LOCALITA’ MONTI N. 39 E RADDA IN CHIANTI VIA I° MAGGIO 5/7"
+  },
+  {
+   "url": "https://www.sienacasa.net/",
+   "quote": "La sede unica si trova in Siena, Via Biagio di Montluc 2, a pochi passi dal centro storico"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

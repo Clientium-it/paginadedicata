@@ -1,0 +1,19 @@
+{
+ "slug": "bertolini-costruzioni-s-r-l",
+ "company": "Bertolini Costruzioni",
+ "full_name": "Alessandro Bertolini",
+ "first": "Alessandro",
+ "linkedin": "https://www.linkedin.com/in/alessandro-bertolini-8366011a1",
+ "cover_note": "Bertolini Costruzioni ha realizzato edifici plurifamiliari con piscina a Gravedona nel 2023 per conto di un'altra impresa di costruzioni.",
+ "evidence": [
+  {
+   "url": "https://bertolini.so.it/lavori.php?id=pic14",
+   "quote": "Costruzione edifici plurifamiliari con piscina a Gravedona ed uniti (CO), anno 2023 - Committente: Bonfadini Costruzioni srl."
+  },
+  {
+   "url": "https://bertolini.so.it/lavori.php?id=pic14",
+   "quote": "via Pradelli 498/1 23010 Berbenno di Valtellina (SO)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

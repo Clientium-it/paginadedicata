@@ -1,0 +1,23 @@
+{
+ "slug": "zeta-concept-s-r-l",
+ "company": "Zeta Concept",
+ "full_name": "Alessandra Ponte",
+ "first": "Alessandra",
+ "linkedin": "https://www.linkedin.com/in/alessandra-ponte-3b40a0164",
+ "cover_note": "Zeta Concept affianca allo studio di interior design una propria impresa edile con personale assunto e lavora in Piemonte, Liguria, Lombardia e Val d'Aosta.",
+ "evidence": [
+  {
+   "url": "https://www.zetaconcept.it/chi-siamo/",
+   "quote": "Oltre allo studio di interior design abbiamo una nostra impresa edile che effettua i lavori di ristrutturazione con personale regolarmente assunto."
+  },
+  {
+   "url": "https://www.zetaconcept.it/chi-siamo/",
+   "quote": "Per il servizio di ristrutturazione chiavi in mano siamo operativi in Piemonte, Liguria, Lombardia e Val d'Aosta."
+  },
+  {
+   "url": "https://www.zetaconcept.it/",
+   "quote": "Mi sono rivolta a loro per ristrutturare completamente il mio appartamento e ho trovato un team di veri professionisti che realizzano qualsiasi progetto e richiesta del cliente."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}

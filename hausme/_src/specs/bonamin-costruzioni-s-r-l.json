@@ -1,0 +1,23 @@
+{
+ "slug": "bonamin-costruzioni-s-r-l",
+ "company": "Bonamin Costruzioni",
+ "full_name": "Adriano Bonamin",
+ "first": "Adriano",
+ "linkedin": "https://www.linkedin.com/in/adriano-bonamin-9a91b286",
+ "cover_note": "Bonamin Costruzioni opera nell'edilizia da oltre 50 anni e segue ristrutturazioni e ampliamenti, dalla villetta alla villa storica a Tezze sul Brenta.",
+ "evidence": [
+  {
+   "url": "http://bonamincostruzioni.it/lavori",
+   "quote": "Ristrutturazione ed ampliamento di una villetta sita in Bassano del Grappa."
+  },
+  {
+   "url": "http://bonamincostruzioni.it/chi-siamo",
+   "quote": "L'impresa edile Bonamin opera nell'ambito dell'edilizia da oltre 50 anni"
+  },
+  {
+   "url": "http://bonamincostruzioni.it/lavori",
+   "quote": "Ristrutturazione di una villa storica a Tezze sul Brenta."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch2)"
+}
