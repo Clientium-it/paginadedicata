@@ -1,0 +1,28 @@
+{
+ "slug": "faresin",
+ "company": "Faresin",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Faresin progetta e produce a Breganze carri miscelatori per la zootecnia e sollevatori telescopici agricoli e industriali, con filiali e distributori nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Faresin.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Faresin.",
+ "evidence": [
+  {
+   "claim": "Faresin progetta e produce a Breganze carri miscelatori per la zootecnia e sollevatori telescopici agricoli e industriali, con filiali e distributori nel mondo.",
+   "url": "https://www.faresin.com",
+   "quote": "Faresin Industries, con sede a Breganze (VI), progetta, produce e commercializza carri miscelatori e strumenti per l’analisi della razione per il settore zootecnico, sollevatori telescopici per uso agricolo ed industriale. || un gruppo internazionale presente a livello globale grazie ad una rete capillare di filiali, distributori e rivenditori || carri miscelatori e strumenti per l’analisi della razione per il settore zootecnico, sollevatori telescopici per uso agricolo ed industriale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

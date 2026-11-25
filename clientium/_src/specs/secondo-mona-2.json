@@ -1,0 +1,28 @@
+{
+ "slug": "secondo-mona-2",
+ "company": "Secondo Mona",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Secondo Mona sviluppa sistemi carburante per aerei ed elicotteri con circa 350 persone nella sede di Somma Lombardo acquisita dal fondatore nel 1918. Qui trova come lavoriamo e cosa potremmo fare per Secondo Mona.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Secondo Mona.",
+ "evidence": [
+  {
+   "claim": "Secondo Mona sviluppa sistemi carburante per aerei ed elicotteri con circa 350 persone nella sede di Somma Lombardo acquisita dal fondatore nel 1918.",
+   "url": "https://www.secondomona.com/company/",
+   "quote": "Secondo Mona evolved into a leading player in the global aerospace industry with a strong focus on fuel systems and equipment for aircraft and helicopter, thus maintaining solid routes in its territory of origin and employing today around 350 people. || The company is still located on the same site acquired by the founder in 1918 in Somma Lombardo on an area of 28,000 square metres || Our products are developed according to customer specifications and in close collaboration with airframer, engine and main systems OEMs at a global level."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "omsi",
+ "company": "OMSI",
+ "first_name": "Nils",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OMSI realizza unità di trasmissione di potenza per macchine industriali, agricole e ferroviarie. Qui trova come lavoriamo e cosa potremmo fare per OMSI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OMSI.",
+ "evidence": [
+  {
+   "claim": "OMSI realizza unità di trasmissione di potenza per macchine industriali, agricole e ferroviarie.",
+   "url": "https://www.omsitrasmissioni.com/company/",
+   "quote": "This is transformed into power transmission units for industrial, farming and rail equipment, which are everywhere renown for their quality and level of innovation."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "mondorevive-2",
+ "company": "Mondorevive",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mondorevive esporta oltre il 70% della produzione con linee PVC a Busto Arsizio, Ferentino e Marnate per comunicazione, automotive, alimentare, medicale ed edilizia. Qui trova come lavoriamo e cosa potremmo fare per Mondorevive.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mondorevive.",
+ "evidence": [
+  {
+   "claim": "Mondorevive esporta oltre il 70% della produzione con linee PVC a Busto Arsizio, Ferentino e Marnate per comunicazione, automotive, alimentare, medicale ed edilizia.",
+   "url": "https://www.mondorevive.com/pvc-film-pet-film-plastic-recycling-lazienda/",
+   "quote": "Mondorevive S.p.a. esporta oltre il 70% della sua produzione in tutto il mondo. || Mondorevive – PVC Production Lines | Warehouse Busto Arsizio (Varese, IT) Ferentino (Frosinone, IT) Marnate (Varese, IT) Caltek – PVC & PET Production Lines – Warehouse Chignolo Po (Pavia, IT) || Home Comunicazione Automotive Capsule Alimentare Medicale Cancelleria GDO Edilizia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

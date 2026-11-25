@@ -1,0 +1,28 @@
+{
+ "slug": "immergas-2",
+ "company": "Immergas",
+ "first_name": "Simone",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Immergas progetta in Italia 130 modelli di apparecchi con 13 linee produttive e oltre 600 dipendenti e produce anche a Poprad e in Cina. Qui trova come lavoriamo e cosa potremmo fare per Immergas.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Immergas.",
+ "evidence": [
+  {
+   "claim": "Immergas progetta in Italia 130 modelli di apparecchi con 13 linee produttive e oltre 600 dipendenti e produce anche a Poprad e in Cina.",
+   "url": "https://www.immergas.com/in-italia/",
+   "quote": "13 linee produttive , oltre 600 dipendenti, magazzini, uffici, centri formazione e ricerche per quasi 60mila metri quadrati di superfici coperte. || In Italia si progettano e realizzano 130 modelli di apparecchi , a Poprad in Slovacchia e in Cina si fabbricano prodotti per i mercati esteri. || Ovunque vogliamo portare sistemi evoluti e affidabili, servizi di qualità per le famiglie e le imprese."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

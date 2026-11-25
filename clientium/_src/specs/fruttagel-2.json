@@ -1,0 +1,28 @@
+{
+ "slug": "fruttagel-2",
+ "company": "Fruttagel",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fruttagel trasforma ortofrutta fresca, cereali e legumi ad Alfonsine per retail, food service, porta a porta, industria alimentare e mercato consumer. Qui trova come lavoriamo e cosa potremmo fare per Fruttagel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fruttagel.",
+ "evidence": [
+  {
+   "claim": "Fruttagel trasforma ortofrutta fresca, cereali e legumi ad Alfonsine per retail, food service, porta a porta, industria alimentare e mercato consumer.",
+   "url": "https://www.fruttagel.it/",
+   "quote": "Fruttagel è una società specializzata nella trasformazione di ortofrutta fresca, cereali e legumi. || SEDE LEGALE E STABILIMENTO ALFONSINE Via Nullo Baldini n° 26 48011 Alfonsine (RA) Italy || Accanto ai prodotti realizzati per gli operatori del retail, del food service, del porta a porta e dell’industria alimentare, produciamo referenze rivolte direttamente al mercato consumer."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "atlas-filtri",
+ "company": "Atlas Filtri",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Atlas Filtri produce contenitori e cartucce per filtri acqua, sistemi anticalcare, addolcitori, sistemi antimicrobici e filtri autopulenti. Qui trova come lavoriamo e cosa potremmo fare per Atlas Filtri.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Atlas Filtri.",
+ "evidence": [
+  {
+   "claim": "Atlas Filtri produce contenitori e cartucce per filtri acqua, sistemi anticalcare, addolcitori, sistemi antimicrobici e filtri autopulenti.",
+   "url": "https://atlasfiltri.com/",
+   "quote": "WATER FILTER HOUSINGS Water filter housings WATER FILTER CARTRIDGES Sediment filter cartridges Water treatment cartridges ANTI-SCALE PROTECTION Anti scale systems Water softeners ANTIMICROBIAL SYSTEMS Antimicrobial Systems Sanic SELF CLEANING FILTERS Self cleaning filters"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

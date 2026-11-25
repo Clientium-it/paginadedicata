@@ -1,0 +1,28 @@
+{
+ "slug": "cemas-elettra",
+ "company": "Cemas Elettra",
+ "first_name": "Fulvio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cemas Elettra lavora da oltre 40 anni sulla saldatura della plastica per gli OEM, con stabilimenti in Italia, Brasile, Cina, Messico e Turchia. Qui trova come lavoriamo e cosa potremmo fare per Cemas Elettra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cemas Elettra.",
+ "evidence": [
+  {
+   "claim": "Cemas Elettra lavora da oltre 40 anni sulla saldatura della plastica per gli OEM, con stabilimenti in Italia, Brasile, Cina, Messico e Turchia.",
+   "url": "https://www.cemaselettra.com/en/company",
+   "quote": "over 40 years of experience in plastic welding technology efficiency in energy consumption with advanced welding systems 3,000+ products developed across various industries 200+ yearly successful installations worldwide || Production plants Italy arrow_forward Brazil arrow_forward China arrow_forward Mexico arrow_forward Turkey arrow_forward Technical and commercial offices France arrow_forward Germany arrow_forward India arrow_forward Poland arrow_forward Portugal arrow_forward South Korea arrow_forward Spain arrow_forward USA || Main customers OEMs"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

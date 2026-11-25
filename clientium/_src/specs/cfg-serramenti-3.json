@@ -1,0 +1,28 @@
+{
+ "slug": "cfg-serramenti-3",
+ "company": "CFG Serramenti",
+ "first_name": "Cristiano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CFG Serramenti ha una squadra di oltre quaranta professionisti, la sede produttiva a Sant'Omobono Terme e lo showroom a Seriate. Qui trova come lavoriamo e cosa potremmo fare per CFG Serramenti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CFG Serramenti.",
+ "evidence": [
+  {
+   "claim": "CFG Serramenti ha una squadra di oltre quaranta professionisti, la sede produttiva a Sant'Omobono Terme e lo showroom a Seriate.",
+   "url": "https://www.cfgserramenti.com/",
+   "quote": "Una famiglia di oltre quaranta professionisti a tua disposizione. || SEDE PRODUTTIVA Via Brigata Lupi di Toscana 21 24038 Sant’Omobono Terme (BG) 035.852612 SHOWROOM SERIATE Via Nazionale 122 24068 Seriate (BG)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

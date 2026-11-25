@@ -1,0 +1,28 @@
+{
+ "slug": "zhermack-2",
+ "company": "Zhermack",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Zhermack produce dal 1981 alginati, gessi e siliconi per studi dentistici e laboratori odontotecnici, con rappresentanze in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Zhermack.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Zhermack.",
+ "evidence": [
+  {
+   "claim": "Zhermack produce dal 1981 alginati, gessi e siliconi per studi dentistici e laboratori odontotecnici, con rappresentanze in tutto il mondo.",
+   "url": "https://www.zhermack.com/it/",
+   "quote": "Zhermack SpA è da oltre 45 anni tra i maggiori produttori e distributori internazionali di alginati, gessi e composti siliconici per il settore dentale, oltre a tutta la gamma di prodotti destinati a diversi settori industriali e al mondo del benessere. || Fondata nel 1981, oggi Zhermack fa parte della multinazionale Dentsply Sirona e ha rappresentanze locali in tutto il mondo. || Ampia gamma di materiali e soluzioni per studi dentistici e laboratori odontotecnici."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "dea-flavor",
+ "company": "Dea Flavor",
+ "first_name": "Alessio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dea Flavor lavora da Lavis con 48 dipendenti e porta i suoi prodotti in oltre 5.000 punti vendita in Italia. Qui trova come lavoriamo e cosa potremmo fare per Dea Flavor.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dea Flavor.",
+ "evidence": [
+  {
+   "claim": "Dea Flavor lavora da Lavis con 48 dipendenti e porta i suoi prodotti in oltre 5.000 punti vendita in Italia.",
+   "url": "https://www.deaflavor.com/una-storia-tutta-italiana/",
+   "quote": "oggi possiamo contare su 48 dipendenti e i nostri prodotti sono presenti in oltre 5.000 punti vendita in Italia || Via Galileo Galilei, 33 – 38015 Lavis (TN) Italia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

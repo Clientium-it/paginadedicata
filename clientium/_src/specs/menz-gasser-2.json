@@ -1,0 +1,28 @@
+{
+ "slug": "menz-gasser-2",
+ "company": "Menz & Gasser",
+ "first_name": "John",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Menz & Gasser produce confetture e semilavorati di frutta e verdura in 3 siti tra Italia e Malesia e li porta in oltre 60 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Menz & Gasser.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Menz & Gasser.",
+ "evidence": [
+  {
+   "claim": "Menz & Gasser produce confetture e semilavorati di frutta e verdura in 3 siti tra Italia e Malesia e li porta in oltre 60 Paesi.",
+   "url": "https://www.menz-gasser.it/chi-siamo/",
+   "quote": "confetture, marmellate, semilavorati di frutta e verdura che portiamo in oltre 60 Paesi nel mondo || 3 Siti Produttivi 2 in Italia, 1 in Malesia || Lavoriamo ogni giorno per soddisfare le esigenze dei canali GDO, Ho.Re.Ca., pasticceria e industria alimentare"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

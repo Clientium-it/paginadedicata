@@ -1,0 +1,28 @@
+{
+ "slug": "k-array",
+ "company": "K-array",
+ "first_name": "Daniel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "K-array nasce in Toscana e riunisce i marchi K-ARRAY, KGEAR e KSCAPE con sistemi audio compatti per professionisti di design, integrazione e live production. Qui trova come lavoriamo e cosa potremmo fare per K-array.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per K-array.",
+ "evidence": [
+  {
+   "claim": "K-array nasce in Toscana e riunisce i marchi K-ARRAY, KGEAR e KSCAPE con sistemi audio compatti per professionisti di design, integrazione e live production.",
+   "url": "https://www.k-array.com/en/about-us",
+   "quote": "K-array is a family of three brands: K-ARRAY , KGEAR and KSCAPE . Rooted in Tuscany and driven by a shared philosophy of compact design, exceptional sound, and seamless integration || Together, they form one ecosystem that delivers precision, reliability and performance for professionals in design, integration and live production."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

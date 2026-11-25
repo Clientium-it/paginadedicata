@@ -1,0 +1,28 @@
+{
+ "slug": "albiero",
+ "company": "Albiero",
+ "first_name": "Silvia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Albiero ha costruito nel 1955 lo stabilimento di Montorso Vicentino e nel 2012 ha raddoppiato a Lonigo gli spazi di stagionatura e confezionamento. Qui trova come lavoriamo e cosa potremmo fare per Albiero.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Albiero.",
+ "evidence": [
+  {
+   "claim": "Albiero ha costruito nel 1955 lo stabilimento di Montorso Vicentino e nel 2012 ha raddoppiato a Lonigo gli spazi di stagionatura e confezionamento.",
+   "url": "https://albiero.it/it/azienda/chi-siamo",
+   "quote": "Nel 1955 costruisce lo stabilimento in località Montorso Vicentino, nella regione Veneto || Nel 2012 la sede di Lonigo è stata ampliata con un raddoppio dello spazio destinato a stagionatura e confezionamento"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "velati",
+ "company": "Velati",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Velati esporta il 60% dei suoi macchinari con soluzioni su misura per i clienti e ha sede a Tribiano. Qui trova come lavoriamo e cosa potremmo fare per Velati.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Velati.",
+ "evidence": [
+  {
+   "claim": "Velati esporta il 60% dei suoi macchinari con soluzioni su misura per i clienti e ha sede a Tribiano.",
+   "url": "https://www.velati.com/azienda-2/",
+   "quote": "Velati esporta il 60% dei suoi macchinari, garantendo ai clienti soluzioni su misura che combinano qualità e professionalità. || Velati srl Via Trento, 2 /20067 Tribiano (MI) IT"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

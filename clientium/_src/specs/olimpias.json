@@ -1,0 +1,28 @@
+{
+ "slug": "olimpias",
+ "company": "Olimpias",
+ "first_name": "Christopher",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Olimpias lavora filati, tessuti ed etichette nelle divisioni Olimpias Yarns, Olimpias Fabrics e Olimpias Labels per i settori dell'apparel e del labeling. Qui trova come lavoriamo e cosa potremmo fare per Olimpias.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Olimpias.",
+ "evidence": [
+  {
+   "claim": "Olimpias lavora filati, tessuti ed etichette nelle divisioni Olimpias Yarns, Olimpias Fabrics e Olimpias Labels per i settori dell'apparel e del labeling.",
+   "url": "https://olimpias.com/",
+   "quote": "in grado di fornire una vasta e articolata gamma di prodotti lavorati nelle sue divisioni Olimpias Yarns, Olimpias Fabrics e Olimpias Labels che operano adottando le migliori tecnologie e competenze disponibili. || Gli impianti di cogenerazione di Ponzano Veneto e Soave, hanno invece permesso di diminuire il consumo di combustibile fossile || Con la sua proposta Olimpias contribuisce a portare bellezza e novità nei settori dell’apparel e del labeling"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "e80-3",
+ "company": "E80",
+ "first_name": "Gabriele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "E80 è nata a Viano nel 1980 con Enrico Grassi, ancora oggi presidente, e nel tempo si è specializzata su mercati come il beverage. Qui trova come lavoriamo e cosa potremmo fare per E80.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per E80.",
+ "evidence": [
+  {
+   "claim": "E80 è nata a Viano nel 1980 con Enrico Grassi, ancora oggi presidente, e nel tempo si è specializzata su mercati come il beverage.",
+   "url": "https://www.e80group.com/en/our-group",
+   "quote": "Established in Viano (RE), Italy, in 1980, our Group began its journey under the leadership of Enrico Grassi, founder and current President of E80 Group. || Headquarters Via G. Marconi, 21 - 42030 Viano, Reggio Emilia - Italy || We specialized over the years to support these markets: Beverage"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

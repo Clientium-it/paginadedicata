@@ -1,0 +1,28 @@
+{
+ "slug": "spm",
+ "company": "SPM",
+ "first_name": "Edoardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SPM è diventata Società Benefit nel 2024 e oggi conta oltre 340 persone. Qui trova come lavoriamo e cosa potremmo fare per SPM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SPM.",
+ "evidence": [
+  {
+   "claim": "SPM è diventata Società Benefit nel 2024 e oggi conta oltre 340 persone.",
+   "url": "https://www.spmspa.it/spm-oltre-il-prodotto-la-nuova-competitivita-dellindustria-della-montagna/",
+   "quote": "La trasformazione in Società Benefit , avvenuta nel 2024, introduce un cambiamento giuridico prima ancora che organizzativo. || L’organico supera le 340 persone."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

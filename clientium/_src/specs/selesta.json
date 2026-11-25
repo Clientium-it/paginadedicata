@@ -1,0 +1,28 @@
+{
+ "slug": "selesta",
+ "company": "Selesta",
+ "first_name": "Alex",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Selesta progetta sistemi di controllo accessi e rilevazione presenze da 40 anni con 7 sedi e 2400 clienti tra banche, industria e pubblica amministrazione. Qui trova come lavoriamo e cosa potremmo fare per Selesta.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Selesta.",
+ "evidence": [
+  {
+   "claim": "Selesta progetta sistemi di controllo accessi e rilevazione presenze da 40 anni con 7 sedi e 2400 clienti tra banche, industria e pubblica amministrazione.",
+   "url": "https://www.seling.it/azienda/selesta/",
+   "quote": "Selesta Ingegneria progetta, produce e sviluppa soluzioni integrate per l’acquisizione dati dal campo nei settori specifici del controllo accessi, rilevazione e gestione delle presenze e realizzazione di sotto-sistemi elettronici. || LE NOSTRE RISORSE 40 anni di esperienza nel settore 7 sedi sul territorio 2400 clienti || soddisfare le esigenze di grandi imprese e PMI, operando nei settori più diversificati: bancario, manifatturiero, servizi, trasporti, pubblica amministrazione, etc."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

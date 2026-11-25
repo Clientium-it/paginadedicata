@@ -1,0 +1,28 @@
+{
+ "slug": "ernestomeda",
+ "company": "Ernestomeda",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ernestomeda progetta cucine su misura per yacht e megayacht con cantieri come CRN, Pershing e Ferretti e lavora col Real Estate. Qui trova come lavoriamo e cosa potremmo fare per Ernestomeda.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ernestomeda.",
+ "evidence": [
+  {
+   "claim": "Ernestomeda progetta cucine su misura per yacht e megayacht con cantieri come CRN, Pershing e Ferretti e lavora col Real Estate.",
+   "url": "https://www.ernestomeda.com/ww/it/about-us",
+   "quote": "la divisone dedicata alla progettazione di cucine per Yacht, Megayacht e grandi navi da diporto, che vanta collaborazioni con i cantieri CRN, Custom Line, Pershing, Mochi Craft e Ferretti , si distingue per la produzione di cucine “su misura”, appositamente sviluppate per il settore Marine. || il Contract Business offre un pacchetto di servizi per la promozione di nuove iniziative e attività di co-marketing con le imprese del Real Estate"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

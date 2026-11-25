@@ -1,0 +1,28 @@
+{
+ "slug": "medit-2",
+ "company": "Medit",
+ "first_name": "Ernesto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Medit mette a punto e produce i suoi sistemi a Cadriano di Bologna e ha headquarter e uffici commerciali a Milano. Qui trova come lavoriamo e cosa potremmo fare per Medit.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Medit.",
+ "evidence": [
+  {
+   "claim": "Medit mette a punto e produce i suoi sistemi a Cadriano di Bologna e ha headquarter e uffici commerciali a Milano.",
+   "url": "https://medit-italia.com/prodotti/",
+   "quote": "Da Cadriano, Bologna parte la nostra filiera di prodotto. Qui mettiamo a punto e produciamo i nostri sistemi. || A Milano, in via Joe Colombo 8, abbiamo il nostro Headquarter direttivo e gli uffici commerciali."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

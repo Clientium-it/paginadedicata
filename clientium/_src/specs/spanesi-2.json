@@ -1,0 +1,28 @@
+{
+ "slug": "spanesi-2",
+ "company": "Spanesi",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Spanesi progetta e produce l'intera gamma di attrezzature per la riparazione carrozzeria e le testa ogni giorno nel proprio centro riparazioni in sede. Qui trova come lavoriamo e cosa potremmo fare per Spanesi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Spanesi.",
+ "evidence": [
+  {
+   "claim": "Spanesi progetta e produce l'intera gamma di attrezzature per la riparazione carrozzeria e le testa ogni giorno nel proprio centro riparazioni in sede.",
+   "url": "https://spanesi.com/corporate-history/",
+   "quote": "Spanesi innovates, designs and manufactures the entire range of collision repair equipment. || With its worldwide reach incorporating local divisions and large distribution network, Spanesi is the only manufacturer that owns and operates a collision repair facility at its headquarters, where all products are tested and proven on a daily basis. || Elevate your bodyshop with modern styling and clean, organized workspaces that enhances both customer confidence and facility efficiency."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

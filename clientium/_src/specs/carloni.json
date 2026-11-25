@@ -1,0 +1,28 @@
+{
+ "slug": "carloni",
+ "company": "Carloni",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Carloni ricostruisce a Bastia Umbra pneumatici per autocarro e per macchine da movimento terra e movimentazione industriale, a caldo o a freddo. Qui trova come lavoriamo e cosa potremmo fare per Carloni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Carloni.",
+ "evidence": [
+  {
+   "claim": "Carloni ricostruisce a Bastia Umbra pneumatici per autocarro e per macchine da movimento terra e movimentazione industriale, a caldo o a freddo.",
+   "url": "https://carlonitires.com/",
+   "quote": "Siamo in grado di ricostruire con le più recenti tecnologie sia pneumatici per autocarro a caldo o a freddo, sia pneumatici per macchinari impiegati nel movimento terra e nella movimentazione industriale, sia in stampo che in autoclave. || Sede Viale Europa 19/21, 06083 Bastia Umbra (PG) – Italy"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

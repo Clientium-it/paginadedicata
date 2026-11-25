@@ -1,0 +1,28 @@
+{
+ "slug": "vighi",
+ "company": "Vighi",
+ "first_name": "Filippo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vighi costruisce interamente in Italia nella sua officina la blindata Viguard, porta antieffrazione in classe 4, con sede a Colorno. Qui trova come lavoriamo e cosa potremmo fare per Vighi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vighi.",
+ "evidence": [
+  {
+   "claim": "Vighi costruisce interamente in Italia nella sua officina la blindata Viguard, porta antieffrazione in classe 4, con sede a Colorno.",
+   "url": "https://www.vighi.it/it/index.php",
+   "quote": "La blindata Vighi Viguard ® è la porta blindata con i più elevati livelli di sicurezza antieffrazione (classe 4) costruita interamente in Italia nella grande officina Vighi || Via A. Volta, 3 43052 Colorno (PR)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

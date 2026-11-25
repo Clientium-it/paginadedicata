@@ -1,0 +1,28 @@
+{
+ "slug": "orsi",
+ "company": "Orsi",
+ "first_name": "Niccolò",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Orsi lavora con circa 110 persone nei due stabilimenti di Grizzana Morandi e Castello d'Argile in provincia di Bologna. Qui trova come lavoriamo e cosa potremmo fare per Orsi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Orsi.",
+ "evidence": [
+  {
+   "claim": "Orsi lavora con circa 110 persone nei due stabilimenti di Grizzana Morandi e Castello d'Argile in provincia di Bologna.",
+   "url": "https://orsigroup.it/it/azienda",
+   "quote": "Attualmente, nei due stabilimenti ORSI operano circa 110 persone. || L’atmosfera che si respira nei due stabilimenti produttivi di Grizzana Morandi e Castello d’Argile, entrambi situati in provincia di Bologna, è carica di entusiasmo e dedizione."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "hausbrandt",
+ "company": "Hausbrandt",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hausbrandt seleziona e tosta il caffè negli stabilimenti di Nervesa della Battaglia e tiene il prodotto nei magazzini del porto di Trieste. Qui trova come lavoriamo e cosa potremmo fare per Hausbrandt.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hausbrandt.",
+ "evidence": [
+  {
+   "claim": "Hausbrandt seleziona e tosta il caffè negli stabilimenti di Nervesa della Battaglia e tiene il prodotto nei magazzini del porto di Trieste.",
+   "url": "https://www.hausbrandt.it/cultura/storia-del-caffe/",
+   "quote": "il caffè Hausbrandt arriva nei nostri stabilimenti di Nervesa della Battaglia, in provincia di Treviso per le successive fasi di selezione e tostatura dei chicchi di caffè. || attraverso una capillare struttura logistica e la costante disponibilità di prodotto nei propri magazzini nel porto di Trieste"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

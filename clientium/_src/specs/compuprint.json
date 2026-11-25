@@ -1,0 +1,28 @@
+{
+ "slug": "compuprint",
+ "company": "Compuprint",
+ "first_name": "Fernando",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Compuprint progetta e produce stampanti da 50 anni, con oltre 3 milioni di pezzi prodotti, sede a Cornedo e filiali in Europa, Stati Uniti e Asia. Qui trova come lavoriamo e cosa potremmo fare per Compuprint.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Compuprint.",
+ "evidence": [
+  {
+   "claim": "Compuprint progetta e produce stampanti da 50 anni, con oltre 3 milioni di pezzi prodotti, sede a Cornedo e filiali in Europa, Stati Uniti e Asia.",
+   "url": "https://compuprint.com/page.php?id=5&tipo=articoli&lang=EN",
+   "quote": "the result are 50 years of presence in the market with more than 3 million printers produced, a worldwide and solid customers base that found an efficient partner and high quality \"high range\" products. || The headquarter is in Cornedo (VI) and it is present with several branches in Europe, United States and Asia. || Every product solution is designed and manufactured by Compuprint to be the best choice to meet the specific print requirements in manufacturing, distribution, transportation, government and post office environments"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

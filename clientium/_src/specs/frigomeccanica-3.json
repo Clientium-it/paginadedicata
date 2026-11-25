@@ -1,0 +1,28 @@
+{
+ "slug": "frigomeccanica-3",
+ "company": "Frigomeccanica",
+ "first_name": "Carolina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Frigomeccanica dal 1962 a Parma realizza linee di stagionatura per salumi e formaggi e impianti di scongelamento per carne e pesce. Qui trova come lavoriamo e cosa potremmo fare per Frigomeccanica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Frigomeccanica.",
+ "evidence": [
+  {
+   "claim": "Frigomeccanica dal 1962 a Parma realizza linee di stagionatura per salumi e formaggi e impianti di scongelamento per carne e pesce.",
+   "url": "https://frigomeccanica.it/ita/i/chi-siamo/",
+   "quote": "Frigomeccanica S.p.A. venne fondata nel 1962 a Parma, nel cuore della food-valley italiana, da dove hanno origine prodotti conosciuti in tutto il mondo. || Linee di stagionatura completa di salumi e formaggi. Impianti di scongelamento per la lavorazione di carne e pesce fresco"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

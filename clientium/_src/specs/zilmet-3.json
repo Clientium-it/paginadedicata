@@ -1,0 +1,28 @@
+{
+ "slug": "zilmet-3",
+ "company": "Zilmet",
+ "first_name": "Corrado",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Zilmet ha oltre 500 dipendenti, produce 8 milioni di pezzi all'anno su 150.000 m² ed esporta in più di 100 paesi. Qui trova come lavoriamo e cosa potremmo fare per Zilmet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Zilmet.",
+ "evidence": [
+  {
+   "claim": "Zilmet ha oltre 500 dipendenti, produce 8 milioni di pezzi all'anno su 150.000 m² ed esporta in più di 100 paesi.",
+   "url": "https://zilmet.it/azienda/",
+   "quote": "ha oltre 500 dipendenti e produce 8 milioni di pezzi all’anno; ha filiali in Italia, Francia, Germania, Gran Bretagna, USA e Cina; dispone di un’area produttiva totale di 150.000 m2; ed esporta i suoi prodotti in più di 100 paesi || ha filiali in Italia, Francia, Germania, Gran Bretagna, USA e Cina"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

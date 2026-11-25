@@ -1,0 +1,28 @@
+{
+ "slug": "dieffebi",
+ "company": "Dieffebi",
+ "first_name": "Alessandra",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dieffebi segue internamente progettazione, prototipazione, produzione e verniciatura per ambienti contract, hospitality e residenziali. Qui trova come lavoriamo e cosa potremmo fare per Dieffebi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dieffebi.",
+ "evidence": [
+  {
+   "claim": "Dieffebi segue internamente progettazione, prototipazione, produzione e verniciatura per ambienti contract, hospitality e residenziali.",
+   "url": "https://dieffebi.com/it/about-us",
+   "quote": "Dieffebi è una realtà produttiva strutturata, in grado di operare direttamente in tutte le fasi del processo manifatturiero: dalla progettazione, alla prototipazione, dalla produzione alla verniciatura. || offrendo ancora più versatilità agli ambienti contract, hospitality e residenziali."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

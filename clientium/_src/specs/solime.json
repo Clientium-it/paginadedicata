@@ -1,0 +1,28 @@
+{
+ "slug": "solime",
+ "company": "Solimè",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Solimè è nata a Cavriago nel 1975 e produce internamente ogni prodotto nei suoi stabilimenti di Reggio Emilia. Qui trova come lavoriamo e cosa potremmo fare per Solimè.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Solimè.",
+ "evidence": [
+  {
+   "claim": "Solimè è nata a Cavriago nel 1975 e produce internamente ogni prodotto nei suoi stabilimenti di Reggio Emilia.",
+   "url": "https://www.solime.it/pages/azienda",
+   "quote": "Produciamo internamente, nei nostri stabilimenti di Reggio Emilia, ogni singolo prodotto che porta il nome Solimè. || Siamo nati a Cavriago, nella provincia di Reggio Emilia, nel 1975."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

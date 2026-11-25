@@ -1,0 +1,28 @@
+{
+ "slug": "copan",
+ "company": "Copan",
+ "first_name": "Irene",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Copan progetta e produce a Brescia dispositivi per la raccolta di campioni e sistemi automatizzati che spedisce in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Copan.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Copan.",
+ "evidence": [
+  {
+   "claim": "Copan progetta e produce a Brescia dispositivi per la raccolta di campioni e sistemi automatizzati che spedisce in tutto il mondo.",
+   "url": "https://www.copangroup.com/about/",
+   "quote": "We are dedicated to developing high-quality and cutting-edge sample collection products for infectious diseases, human genomics, environmental and forensic applications, along with high-end automated workflow solutions. || In Brescia, all our star products have been conceived and designed. Here it’s also where these products are manufactured and shipped worldwide, and from where we launch all our global initiatives."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

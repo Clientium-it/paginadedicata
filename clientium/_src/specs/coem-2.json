@@ -1,0 +1,28 @@
+{
+ "slug": "coem-2",
+ "company": "Coem",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Coem realizza dal 1970 rivestimenti e pavimenti in gres porcellanato per l'edilizia residenziale e commerciale in 2 stabilimenti nel distretto ceramico. Qui trova come lavoriamo e cosa potremmo fare per Coem.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Coem.",
+ "evidence": [
+  {
+   "claim": "Coem realizza dal 1970 rivestimenti e pavimenti in gres porcellanato per l'edilizia residenziale e commerciale in 2 stabilimenti nel distretto ceramico.",
+   "url": "https://www.coem.it/azienda/storia-e-valori/",
+   "quote": "I rivestimenti e pavimenti in gres porcellanato di Coem sono realizzati in 2 stabilimenti produttivi all’avanguardia , situati nel cuore del distretto ceramico italiano. || UN VIAGGIO PIENO DI PASSIONE CHE INIZIA NEL 1970 || destinati all’edilizia residenziale e commerciale, è da sempre il nostro obiettivo primario."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

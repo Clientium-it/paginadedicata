@@ -1,0 +1,28 @@
+{
+ "slug": "dompe-2",
+ "company": "Dompé",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dompé ha a L'Aquila un sito di ricerca e produzione di 170.000 metri quadri da cui distribuisce nel mondo prodotti di Primary Care e Biotech. Qui trova come lavoriamo e cosa potremmo fare per Dompé.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dompé.",
+ "evidence": [
+  {
+   "claim": "Dompé ha a L'Aquila un sito di ricerca e produzione di 170.000 metri quadri da cui distribuisce nel mondo prodotti di Primary Care e Biotech.",
+   "url": "https://www.dompe.com/about-us/",
+   "quote": "Our 170,000‑square‑meter R&D and production site in L’Aquila, Italy, stands as the true heart of Dompé—where vital research is carried out and our Primary Care and Biotech products are produced and distributed worldwide. || From our headquarters in Milan, Italy - to research and commercial centers across Europe, and the U.S., Dompé operates as one global team"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

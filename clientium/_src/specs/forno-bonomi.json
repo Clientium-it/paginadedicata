@@ -1,0 +1,28 @@
+{
+ "slug": "forno-bonomi",
+ "company": "Forno Bonomi",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Forno Bonomi fa savoiardi, amaretti, frollini, sfogliatine glassate e frolle al burro, con sede a Roverè Veronese. Qui trova come lavoriamo e cosa potremmo fare per Forno Bonomi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Forno Bonomi.",
+ "evidence": [
+  {
+   "claim": "Forno Bonomi fa savoiardi, amaretti, frollini, sfogliatine glassate e frolle al burro, con sede a Roverè Veronese.",
+   "url": "https://www.fornobonomi.com/",
+   "quote": "Savoiardi Classici Amaretti Savoiardi Bigusto al Cacao Frollini Quadri Sfogliatine Glassate Frolle al Burro con Gocce di Cioccolato Sfogliatine Zuccherate Frolle al Burro || BONOMI S.P.A. C.F. E P.IVA 00222240236 Loc. Vazzi 7, 37028, Roverè Veronese (VR)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

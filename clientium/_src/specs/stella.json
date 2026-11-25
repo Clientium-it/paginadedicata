@@ -1,0 +1,28 @@
+{
+ "slug": "stella",
+ "company": "Stella",
+ "first_name": "Filippo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Stella usa fusioni in bronzo per le parti a incasso dei suoi rubinetti e serve case private, alta hotellerie e nautica. Qui trova come lavoriamo e cosa potremmo fare per Stella.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Stella.",
+ "evidence": [
+  {
+   "claim": "Stella usa fusioni in bronzo per le parti a incasso dei suoi rubinetti e serve case private, alta hotellerie e nautica.",
+   "url": "https://www.rubinetteriestella.it/it/sempre-rubinetti-sempre",
+   "quote": "Per questo Stella, unica nel panorama delle rubinetterie, mantiene ed impiega fusioni in bronzo per le parti a incasso dei propri rubinetti, garantendo durata illimitata nel tempo. || di ampliare il suo mercato, dall'utenza domestica a quella dell'alta Hotellerie e della nautica"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

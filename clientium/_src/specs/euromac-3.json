@@ -1,0 +1,28 @@
+{
+ "slug": "euromac-3",
+ "company": "Euromac",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Euromac ha 120 dipendenti in due sedi su 18.000 m² e vende circa l'80% della produzione annuale sui mercati esteri. Qui trova come lavoriamo e cosa potremmo fare per Euromac.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Euromac.",
+ "evidence": [
+  {
+   "claim": "Euromac ha 120 dipendenti in due sedi su 18.000 m² e vende circa l'80% della produzione annuale sui mercati esteri.",
+   "url": "https://www.euromacslitters.com/azienda/",
+   "quote": "Con un organico complessivo di 120 dipendenti dislocati in due sedi, per una superficie coperta totale di 18.000 m² la produzione annuale, in costante crescita, viene assorbita per circa l’80% dai mercati esteri. || Con un organico complessivo di 120 dipendenti dislocati in due sedi, per una superficie coperta totale di 18.000 m²"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

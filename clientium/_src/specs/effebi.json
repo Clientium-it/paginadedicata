@@ -1,0 +1,28 @@
+{
+ "slug": "effebi",
+ "company": "Effebi",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Effebi realizza da oltre 40 anni arredamenti su misura per retail, uffici, farmacie e hotel e li spedisce e allestisce in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Effebi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Effebi.",
+ "evidence": [
+  {
+   "claim": "Effebi realizza da oltre 40 anni arredamenti su misura per retail, uffici, farmacie e hotel e li spedisce e allestisce in tutto il mondo.",
+   "url": "https://effebispa.it/",
+   "quote": "Da oltre 40 anni, realizziamo arredamenti su misura per i più prestigiosi marchi italiani ed internazionali. || Spedizione e allestimento in tutto il mondo || nell'ambito del retail, uffici, farmacie ed hotel"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "lampo",
+ "company": "Lampo",
+ "first_name": "Annalisa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lampo nel 1955 si è assicurata l'esclusiva per l'Italia del brevetto Ruhrmann e oggi lavora con cinque sedi operative tra ideazione e produzione. Qui trova come lavoriamo e cosa potremmo fare per Lampo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lampo.",
+ "evidence": [
+  {
+   "claim": "Lampo nel 1955 si è assicurata l'esclusiva per l'Italia del brevetto Ruhrmann e oggi lavora con cinque sedi operative tra ideazione e produzione.",
+   "url": "https://www.lampo.eu/azienda/storia/in-un-lampo-al-centro-della-fantasia/",
+   "quote": "Nel 1955, la conversione diventa definitiva: l’azienda si assicura l’esclusiva per l’Italia del brevetto della ditta tedesca Ruhrmann, uno dei due unici al mondo, cui in seguito aggiungerà i propri. || Una grande impresa organizzata in cinque sedi operative, capaci di esaurire l’intero ciclo di ideazione e produzione."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "cattini",
+ "company": "Cattini",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cattini produce in modo integrato ingranaggi cilindrici, conici e corone epicicloidali per applicazioni ad alta densità di potenza su veicoli industriali, agricoli e speciali. Qui trova come lavoriamo e cosa potremmo fare per Cattini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cattini.",
+ "evidence": [
+  {
+   "claim": "Cattini produce in modo integrato ingranaggi cilindrici, conici e corone epicicloidali per applicazioni ad alta densità di potenza su veicoli industriali, agricoli e speciali.",
+   "url": "https://cattini.com/products/",
+   "quote": "Integrated production of cylindrical, bevel and planetary ring gears designed for high power density applications in industrial, agricultural and specialty vehicle sectors. || Integrated production of cylindrical, bevel and planetary ring gears designed for high power density applications in industrial, agricultural and specialty vehicle sectors."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

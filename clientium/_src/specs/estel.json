@@ -1,0 +1,28 @@
+{
+ "slug": "estel",
+ "company": "Estel",
+ "first_name": "Ammar",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Estel progetta e realizza mobili per l'ufficio da più di 40 anni, ha uno showroom a Parigi e affianca architetti e space planner. Qui trova come lavoriamo e cosa potremmo fare per Estel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Estel.",
+ "evidence": [
+  {
+   "claim": "Estel progetta e realizza mobili per l'ufficio da più di 40 anni, ha uno showroom a Parigi e affianca architetti e space planner.",
+   "url": "https://www.estel.com/",
+   "quote": "Con oltre 80 anni di esperienza nel settore dell’arredamento e più di 40 anni nella progettazione e realizzazione di mobili per l’ufficio, Estel è un’azienda che risponde con ingegno ai cambiamenti e alle sfide del mondo del lavoro || Estel inaugura il suo showroom a Parigi, nel cuore dell’8ᵒ arrondissement || Offriamo supporto e consulenza a architetti, space planner e piccole o grandi aziende che necessitano di spazi lavorativi sempre più tailor made"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

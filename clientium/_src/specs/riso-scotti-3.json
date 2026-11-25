@@ -1,0 +1,28 @@
+{
+ "slug": "riso-scotti-3",
+ "company": "Riso Scotti",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Riso Scotti da Pavia distribuisce i suoi prodotti in oltre 80 Paesi, molti dei quali fuori dall'Europa. Qui trova come lavoriamo e cosa potremmo fare per Riso Scotti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Riso Scotti.",
+ "evidence": [
+  {
+   "claim": "Riso Scotti da Pavia distribuisce i suoi prodotti in oltre 80 Paesi, molti dei quali fuori dall'Europa.",
+   "url": "https://www.risoscotti.it/la-nostra-storia/",
+   "quote": "Solidamente italiana, Riso Scotti guarda ai mercati internazionali e distribuisce i suoi prodotti in oltre 80 Paesi nel mondo, molti extraeuropei. || Sede di Pavia Via Angelo Scotti, 2 27100 Pavia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

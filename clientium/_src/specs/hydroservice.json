@@ -1,0 +1,28 @@
+{
+ "slug": "hydroservice",
+ "company": "Hydroservice",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hydroservice dal 1974 progetta e produce centrali oleodinamiche, skid e manifold per petrolchimico, energia e Oil&Gas con oltre 80 specialisti su 8.000 m². Qui trova come lavoriamo e cosa potremmo fare per Hydroservice.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hydroservice.",
+ "evidence": [
+  {
+   "claim": "Hydroservice dal 1974 progetta e produce centrali oleodinamiche, skid e manifold per petrolchimico, energia e Oil&Gas con oltre 80 specialisti su 8.000 m².",
+   "url": "https://www.hydroservice.it/it/profilo",
+   "quote": "Da oltre 50 anni progettiamo e produciamo : centrali oleodinamiche, skid per impianti petrolchimici, settore energia e Oil&Gas, manifold idraulici standard e speciali . || Sede Italia Team Oltre 80 specialisti Superficie produttiva Oltre 8.000 m² Fondazione 1974 || Hydroservice azienda di ingegneria per la progettazione e realizzazione di impianti nei settori industriale, petrolchimico, oil & gas e energia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

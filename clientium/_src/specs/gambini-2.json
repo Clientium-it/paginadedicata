@@ -1,0 +1,28 @@
+{
+ "slug": "gambini-2",
+ "company": "Gambini",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gambini da 150 anni crea linee di trasformazione professional e consumer e conta più di 200 collaboratori tra Italia, Stati Uniti e Brasile. Qui trova come lavoriamo e cosa potremmo fare per Gambini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gambini.",
+ "evidence": [
+  {
+   "claim": "Gambini da 150 anni crea linee di trasformazione professional e consumer e conta più di 200 collaboratori tra Italia, Stati Uniti e Brasile.",
+   "url": "https://gambini.group/chi-siamo/",
+   "quote": "In 150 anni di attività abbiamo imparato a creare tecnologie in grado di soddisfare il benessere del consumatore finale. Abbiamo creato linee di trasformazione , professional e consumer, da assemblare a seconda delle esigenze dei nostri clienti. || di più di 200 collaboratori, in Italia, negli Stati Uniti e in Brasile, ad oggi la Gambini è una famiglia allargata."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

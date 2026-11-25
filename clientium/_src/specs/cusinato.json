@@ -1,0 +1,28 @@
+{
+ "slug": "cusinato",
+ "company": "Cusinato",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cusinato ha installato oltre 2.600 silos in 85 stati per aziende di pasta, pet food, snack, cereali, farine e sementi. Qui trova come lavoriamo e cosa potremmo fare per Cusinato.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cusinato.",
+ "evidence": [
+  {
+   "claim": "Cusinato ha installato oltre 2.600 silos in 85 stati per aziende di pasta, pet food, snack, cereali, farine e sementi.",
+   "url": "https://cusinato.com/azienda/",
+   "quote": "oggi siamo presenti in 85 stati nel mondo con oltre 2.600 silos installati. || oggi siamo presenti in 85 stati nel mondo con oltre 2.600 silos installati. || aziende appartenenti a diversi settori, quali pasta, pet food, snack, frutta secca, cereali, farine e sfarinati, legumi secchi, sementi, caramelle e non food."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

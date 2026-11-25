@@ -1,0 +1,28 @@
+{
+ "slug": "para",
+ "company": "Parà",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Parà dal 1921 produce tessuti per protezione solare, arredamento di interni ed esterni e nautica ed è presente in più di 100 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Parà.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Parà.",
+ "evidence": [
+  {
+   "claim": "Parà dal 1921 produce tessuti per protezione solare, arredamento di interni ed esterni e nautica ed è presente in più di 100 Paesi.",
+   "url": "https://para.it/it/azienda/chi-siamo/",
+   "quote": "Fondata nel 1921, da tre generazioni produce tessuti di pregio estetico e di alta qualità tecnica utilizzati per la protezione solare, l’arredamento di interni ed esterni e la nautica. || l’azienda è presente in più di 100 Paesi in tutto il mondo attraverso filiali e distributori."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

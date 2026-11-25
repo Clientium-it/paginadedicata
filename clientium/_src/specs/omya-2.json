@@ -1,0 +1,28 @@
+{
+ "slug": "omya-2",
+ "company": "Omya",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Omya produce minerali e distribuisce materiali speciali in 50 paesi con 160 stabilimenti e 9000 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per Omya.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Omya.",
+ "evidence": [
+  {
+   "claim": "Omya produce minerali e distribuisce materiali speciali in 50 paesi con 160 stabilimenti e 9000 dipendenti.",
+   "url": "https://www.omya.com/en",
+   "quote": "Omya is a leading global producer of essential minerals and a worldwide distributor of specialty materials. || CHF 4 billion turnover 160 plants 50 countries 9000 employees"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

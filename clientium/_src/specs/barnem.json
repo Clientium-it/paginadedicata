@@ -1,0 +1,28 @@
+{
+ "slug": "barnem",
+ "company": "Barnem",
+ "first_name": "Marcello",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Barnem a Brescia costruisce stampi e segue stampaggio, verniciatura, cromatura, laseratura e assemblaggio in due stabilimenti. Qui trova come lavoriamo e cosa potremmo fare per Barnem.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Barnem.",
+ "evidence": [
+  {
+   "claim": "Barnem a Brescia costruisce stampi e segue stampaggio, verniciatura, cromatura, laseratura e assemblaggio in due stabilimenti.",
+   "url": "https://barnem.it/about-us/",
+   "quote": "Due stabilimenti, costruzione stampi, stampaggio, decorazione con verniciatura e cromatura, laseratura e assemblaggio. || Sede di Brescia – Via della Cascina Pontevica Sede di Brescia – Via del Mella"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "mp-gamma-3",
+ "company": "MP Gamma",
+ "first_name": "Aristide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MP Gamma progetta e produce dal 1997 armadi e casse in acciaio inox per quadri elettrici, usati dal food & beverage al ferroviario e al farmaceutico. Qui trova come lavoriamo e cosa potremmo fare per MP Gamma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MP Gamma.",
+ "evidence": [
+  {
+   "claim": "MP Gamma progetta e produce dal 1997 armadi e casse in acciaio inox per quadri elettrici, usati dal food & beverage al ferroviario e al farmaceutico.",
+   "url": "https://www.mpgamma.com/azienda/",
+   "quote": "MPGAMMA si occupa dal 1997 di progettazione e produzione di armadi e casse in acciaio inossidabile per quadri elettrici. || utilizzati in molteplici settori quali food & beverage, chimico e petrolchimico, farmaceutico, ferroviario, della cosmetica e delle telecomunicazioni"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

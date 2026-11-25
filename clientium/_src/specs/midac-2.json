@@ -1,0 +1,28 @@
+{
+ "slug": "midac-2",
+ "company": "Midac",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Midac è nata nel 1989 a Soave, ha uno stabilimento a Cremona dal 2008 e sedi in Francia, Paesi Bassi, Regno Unito, Svezia e Australia. Qui trova come lavoriamo e cosa potremmo fare per Midac.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Midac.",
+ "evidence": [
+  {
+   "claim": "Midac è nata nel 1989 a Soave, ha uno stabilimento a Cremona dal 2008 e sedi in Francia, Paesi Bassi, Regno Unito, Svezia e Australia.",
+   "url": "https://midacbatteries.com/storia/",
+   "quote": "Il primo mattone viene posato il 15 novembre 1989 a Soave , un borgo veronese che ancora oggi ospita il principale sito produttivo dell’azienda, accanto allo stabilimento di Cremona , operativo dal 2008. || con l’apertura di nuove filiali in Italia (Civitanova Marche, Pomezia e Budrio), ma anche oltre i confini nazionali, con sedi in Francia , Paesi Bassi , Regno Unito , Svezia e Australia"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

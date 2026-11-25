@@ -1,0 +1,28 @@
+{
+ "slug": "carraro-5",
+ "company": "Carraro",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Carraro ha lo stabilimento a Segrate vicino a Linate e propone soluzioni per Power, Oil&Gas e Refinery in Italia, EMEA, Americas e Asia Pacific. Qui trova come lavoriamo e cosa potremmo fare per Carraro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Carraro.",
+ "evidence": [
+  {
+   "claim": "Carraro ha lo stabilimento a Segrate vicino a Linate e propone soluzioni per Power, Oil&Gas e Refinery in Italia, EMEA, Americas e Asia Pacific.",
+   "url": "https://www.carrarovalvole.it/azienda/",
+   "quote": "Lo stabilimento CARRARO è situato a Segrate, a due passi dal vicino aeroporto di Linate, e dispone di un’area di circa 12’100 mq. di cui 6’500 coperti e suddivisi tra uffici e reparti di produzione. || strutturato per seguire da vicino le esigenze dei diversi territori di competenza (Italia, EMEA, Americas, Asia Pacific) || CARRARO propone a livello globale soluzioni concrete e professionali in ambito “Power”, “Oil&Gas”, “Refinery” e “General Industries”."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "swinger",
+ "company": "Swinger",
+ "first_name": "Diego",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Swinger sviluppa e produce collezioni per brand come Fendi, Missoni, Versace, Roberto Cavalli e Lamborghini. Qui trova come lavoriamo e cosa potremmo fare per Swinger.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Swinger.",
+ "evidence": [
+  {
+   "claim": "Swinger sviluppa e produce collezioni per brand come Fendi, Missoni, Versace, Roberto Cavalli e Lamborghini.",
+   "url": "https://www.swinger.it/profilo/",
+   "quote": "Abbiamo sviluppato e prodotto collezioni per brand come Fendi, Missoni, Versace, Roberto Cavalli e Lamborghini, solo per citarne alcuni"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "comau-10",
+ "company": "Comau",
+ "first_name": "Duilio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Comau affianca produttori di automotive, batterie, idrogeno e aerospazio con 15 stabilimenti in 12 paesi e oltre 1.200 brevetti. Qui trova come lavoriamo e cosa potremmo fare per Comau.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Comau.",
+ "evidence": [
+  {
+   "claim": "Comau affianca produttori di automotive, batterie, idrogeno e aerospazio con 15 stabilimenti in 12 paesi e oltre 1.200 brevetti.",
+   "url": "https://www.comau.com/en/about-us/",
+   "quote": "9 Innovation Centers 1,200+ Patents || 15 manufacturing plants that span 12 countries || In addition to automotive and e-Mobility, we support manufacturers in renewable energy, battery storage, hydrogen technologies, logistics, aerospace, pharmaceuticals and other industries"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

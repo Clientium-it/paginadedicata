@@ -1,0 +1,28 @@
+{
+ "slug": "logel-2",
+ "company": "Logel",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Logel è nata nel 1979 come laboratorio elettronico, si è allargata all'elettromeccanico e lavora con costruttori di macchine automatiche in Italia e all'estero. Qui trova come lavoriamo e cosa potremmo fare per Logel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Logel.",
+ "evidence": [
+  {
+   "claim": "Logel è nata nel 1979 come laboratorio elettronico, si è allargata all'elettromeccanico e lavora con costruttori di macchine automatiche in Italia e all'estero.",
+   "url": "https://logel.it/it/p/chi-siamo/17/",
+   "quote": "Logel srl nasce nel 1979 come laboratorio elettronico, ma nel corso degli anni l’azienda si è allargata inserendosi con dinamismo anche nel settore elettromeccanico || Operiamo con importanti costruttori di macchine automatiche e di utilizzatori finali sia in Italia che all’Estero."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

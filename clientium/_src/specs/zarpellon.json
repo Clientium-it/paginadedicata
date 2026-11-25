@@ -1,0 +1,28 @@
+{
+ "slug": "zarpellon",
+ "company": "Zarpellon",
+ "first_name": "Lorenza",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Zarpellon produce Grana Padano e burro a Camisano Vicentino lavorando 160.000 kg di latte al giorno e Parmigiano Reggiano a Busseto. Qui trova come lavoriamo e cosa potremmo fare per Zarpellon.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Zarpellon.",
+ "evidence": [
+  {
+   "claim": "Zarpellon produce Grana Padano e burro a Camisano Vicentino lavorando 160.000 kg di latte al giorno e Parmigiano Reggiano a Busseto.",
+   "url": "https://zarpellon.it/azienda/",
+   "quote": "Camisano Vicentino: Sede produttiva Grana Padano, Burro e stagionatura Superficie totale 15.000 m 2 Superficie coperta 8 200 m 2 Kg latte lavorati al giorno 160.000 || Busseto: Sede produttiva Parmigiano Reggiano, confezionamento e stagionatura"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

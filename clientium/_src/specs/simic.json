@@ -1,0 +1,28 @@
+{
+ "slug": "simic",
+ "company": "Simic",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Simic progetta e produce dal 1977 apparecchiature critiche di processo e monta impianti industriali con officine di 18.000 mq e sollevamento fino a 100 tonnellate. Qui trova come lavoriamo e cosa potremmo fare per Simic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Simic.",
+ "evidence": [
+  {
+   "claim": "Simic progetta e produce dal 1977 apparecchiature critiche di processo e monta impianti industriali con officine di 18.000 mq e sollevamento fino a 100 tonnellate.",
+   "url": "https://simic.it/",
+   "quote": "Since 1977 SIMIC has been a diversified Italian company with solid experience in the design and production of high-quality critical process equipment, assembly and maintenance of industrial plants. || Workshops: 18,000 sqm Office: 1,500 sqm plus 2,200 sqm (under construction) Outdoor area: 45,500 sqm Lifting capacity: Up to 100 Tons MARGHERA Via dell’Elettricità 21, 30175 Marghera (VE) Italy +39 041 922986 simic@simic.it | simic@pec.it Workshops: 6,000 sqm (existing)"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

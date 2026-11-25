@@ -1,0 +1,28 @@
+{
+ "slug": "fondovalle",
+ "company": "Fondovalle",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fondovalle unisce da oltre 50 anni tradizione ceramica e innovazione tecnologica e oggi fa parte del Gruppo internazionale Italcer. Qui trova come lavoriamo e cosa potremmo fare per Fondovalle.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fondovalle.",
+ "evidence": [
+  {
+   "claim": "Fondovalle unisce da oltre 50 anni tradizione ceramica e innovazione tecnologica e oggi fa parte del Gruppo internazionale Italcer.",
+   "url": "https://fondovalle.it/it/azienda/",
+   "quote": "Da oltre 50 anni uniamo la nostra tradizione ceramica con un’innovazione tecnologica e uno stile che guardano al futuro. Ora siamo parte di Italcer, un Gruppo internazionale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

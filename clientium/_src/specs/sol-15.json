@@ -1,0 +1,28 @@
+{
+ "slug": "sol-15",
+ "company": "SOL",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SOL dal 1927 produce gas tecnici e medicali, è presente in 33 Paesi con 7.623 dipendenti e serve oltre 50.000 clienti industriali. Qui trova come lavoriamo e cosa potremmo fare per SOL.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SOL.",
+ "evidence": [
+  {
+   "claim": "SOL dal 1927 produce gas tecnici e medicali, è presente in 33 Paesi con 7.623 dipendenti e serve oltre 50.000 clienti industriali.",
+   "url": "https://www.solgroup.com/it/chi-siamo/il-gruppo",
+   "quote": "Fondato nel 1927 in Italia, il Gruppo SOL opera nella produzione, ricerca applicata e commercializzazione di gas tecnici e medicali, nell’assistenza domiciliare, nelle biotecnologie e nella produzione di energia da fonti rinnovabili. Presente oggi in 33 Paesi con 7.623 dipendenti || Presente oggi in 33 Paesi con 7.623 dipendenti, serve oltre 50.000 clienti industriali, 700 grandi clienti medicali e oltre 870.000 pazienti. || siderurgia, metallurgia, vetro e ceramica, metal fabrication, chimica e farmaceutica, alimentare e industria delle bevande, industria petrolifera"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

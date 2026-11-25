@@ -1,0 +1,28 @@
+{
+ "slug": "gimatic",
+ "company": "Gimatic",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gimatic lavora da oltre 35 anni per settori come packaging, assemblaggio, automotive, medicale, farmaceutico, alimentare e logistica. Qui trova come lavoriamo e cosa potremmo fare per Gimatic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gimatic.",
+ "evidence": [
+  {
+   "claim": "Gimatic lavora da oltre 35 anni per settori come packaging, assemblaggio, automotive, medicale, farmaceutico, alimentare e logistica.",
+   "url": "https://gimatic.com/products",
+   "quote": "High versatility and unparalleled experience gained in over 35 years of activity enable us to meet any need in most industrial sectors, including packaging, assembly, automotive, plastics processing, medical and pharmaceutical || including packaging, assembly, automotive, plastics processing, medical and pharmaceutical, food and beverage, logistics and storage, sheet metal, wood, glass and cardboard industries"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

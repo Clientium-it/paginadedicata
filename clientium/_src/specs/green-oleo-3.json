@@ -1,0 +1,28 @@
+{
+ "slug": "green-oleo-3",
+ "company": "Green Oleo",
+ "first_name": "Manuele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Green Oleo ha sede e stabilimento produttivo a Cremona su un'area di 64.000 mq di cui 20.000 coperti. Qui trova come lavoriamo e cosa potremmo fare per Green Oleo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Green Oleo.",
+ "evidence": [
+  {
+   "claim": "Green Oleo ha sede e stabilimento produttivo a Cremona su un'area di 64.000 mq di cui 20.000 coperti.",
+   "url": "https://www.greenoleo.com/azienda-noi-in-breve/",
+   "quote": "Green Oleo ha la sede legale e lo stabilimento produttivo a Cremona, in Via Bergamo n. 66. Lo stabilimento Green Oleo occupa un'area di 64.000 mq, di cui 20.000 coperti. || Green Oleo ha la sede legale e lo stabilimento produttivo a Cremona, in Via Bergamo n. 66."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

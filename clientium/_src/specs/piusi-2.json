@@ -1,0 +1,28 @@
+{
+ "slug": "piusi-2",
+ "company": "Piusi",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Piusi con 340 persone e 33 ingegneri in R&D esporta in 135 paesi sistemi per trasferire e monitorare carburante per trasporti, agricoltura e cantieri. Qui trova come lavoriamo e cosa potremmo fare per Piusi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Piusi.",
+ "evidence": [
+  {
+   "claim": "Piusi con 340 persone e 33 ingegneri in R&D esporta in 135 paesi sistemi per trasferire e monitorare carburante per trasporti, agricoltura e cantieri.",
+   "url": "https://www.piusi.com/company/about-us",
+   "quote": "Employees 340 Total Area 30,000 sqm Export countries 135 Research & Development 33 engineers In the R&D dept. Number of patents 115 || Piusi S.p.A. Via Pacinotti, 16/A 46029 Suzzara (MN) ITALY || PIUSI products have many different uses such as monitoring and transferring fuel at trucking companies, refueling of agricultural vehicles, transferring fuels in construction and mining for heavy duty vehicles."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

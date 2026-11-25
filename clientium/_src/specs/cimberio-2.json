@@ -1,0 +1,28 @@
+{
+ "slug": "cimberio-2",
+ "company": "Cimberio",
+ "first_name": "Diego",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cimberio produce componenti per termoidraulica, climatizzazione, reti gas e acquedotti, con una seconda fabbrica a Berzonno di Pogno. Qui trova come lavoriamo e cosa potremmo fare per Cimberio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cimberio.",
+ "evidence": [
+  {
+   "claim": "Cimberio produce componenti per termoidraulica, climatizzazione, reti gas e acquedotti, con una seconda fabbrica a Berzonno di Pogno.",
+   "url": "https://www.cimberio.com/",
+   "quote": "La Cimberio produce componentistica per i settori termoidraulico, climatizzazione, reti di distribuzione gas e acquedottistica. || nasce la seconda fabbrica a Berzonno di Pogno."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

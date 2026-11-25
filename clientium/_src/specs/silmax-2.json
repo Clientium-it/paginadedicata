@@ -1,0 +1,28 @@
+{
+ "slug": "silmax-2",
+ "company": "Silmax",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Silmax produce utensili da taglio nello stabilimento di Lanzo Torinese per aeronautica, stampi, automotive, energia e medicale, con sedi in India, Cina, Germania e Slovacchia. Qui trova come lavoriamo e cosa potremmo fare per Silmax.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Silmax.",
+ "evidence": [
+  {
+   "claim": "Silmax produce utensili da taglio nello stabilimento di Lanzo Torinese per aeronautica, stampi, automotive, energia e medicale, con sedi in India, Cina, Germania e Slovacchia.",
+   "url": "https://www.silmax.it/azienda/",
+   "quote": "Progettazione e produzione rigorosamente made in Italy, tutti i nostri utensili sono realizzati nello stabilimento di Lanzo Torinese. || Sedi in India, Cina, Germania e Slovacchia || Aeronautica Utensili da taglio per il settore aeronautico 14 MB Stampi Utensili da taglio per il settore degli stampi Auto Utensili da taglio per il settore automotive Meccanica generale Utensili da taglio per il settore della meccanica generale Energia Utensili da taglio per il settore energetico 5 MB Medicale Utensili da taglio per il settore medicale"
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}

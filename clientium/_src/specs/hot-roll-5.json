@@ -1,0 +1,28 @@
+{
+ "slug": "hot-roll-5",
+ "company": "Hot Roll",
+ "first_name": "Alexis",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hot Roll produce a Busano piccoli anelli laminati per il settore industriale e automotive e fa parte di Fomas dal 1990. Qui trova come lavoriamo e cosa potremmo fare per Hot Roll.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hot Roll.",
+ "evidence": [
+  {
+   "claim": "Hot Roll produce a Busano piccoli anelli laminati per il settore industriale e automotive e fa parte di Fomas dal 1990.",
+   "url": "https://www.fomasgroup.com/en",
+   "quote": "HOT ROLL , located in Busano (Turin), was acquired by FOMAS in 1990. The company specialises in the manufacture of small rolled rings. || HOT ROLL , located in Busano (Turin), was acquired by FOMAS in 1990. || The components produced are mainly for the industrial and automotive sectors."
+  }
+ ],
+ "checked": "2026-11-24 VPS playwright verbatim check per segment (c20_pages_request_2411.json)"
+}
