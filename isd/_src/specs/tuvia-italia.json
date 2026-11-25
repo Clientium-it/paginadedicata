@@ -1,0 +1,17 @@
+{
+ "slug": "tuvia-italia",
+ "company": "Tuvia Italia",
+ "full_name": "Carlo",
+ "first": "Carlo",
+ "cover_note": "Tuvia Italia, fondata nel 1986 a Milano, ha uffici a Verona, Venezia, Trieste, Torino, Nerviano e Albairate e gestisce oltre 30.000 m2 logistici.",
+ "evidence": [
+  {
+   "claim": "Tuvia Italia, fondata nel 1986 a Milano, ha uffici a Verona, Venezia, Trieste, Torino, Nerviano e Albairate e gestisce oltre 30.000 m2 logistici.",
+   "url": "https://www.tuviaitalia.com/tuvia-italia/storia/",
+   "quote": "Fondata nel 1986 con sede a Milano e uffici a Verona, Venezia, Trieste, Torino, Nerviano e Albairate, la società gestisce più di 30.000 m2 di strutture logistiche."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/tuvia-italia/logo.png"
+}

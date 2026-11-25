@@ -1,0 +1,17 @@
+{
+ "slug": "sportler",
+ "company": "Sportler",
+ "full_name": "Christian",
+ "first": "Christian",
+ "cover_note": "Sportler conta 27 stores nelle Alpi e 45 anni di competenza.",
+ "evidence": [
+  {
+   "claim": "Sportler conta 27 stores nelle Alpi e 45 anni di competenza.",
+   "url": "https://www.sportler.com/",
+   "quote": "27 stores nelle Alpi 45 anni di competenza Diritto di recesso di 30 giorni lavorativi"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/sportler/logo.png"
+}

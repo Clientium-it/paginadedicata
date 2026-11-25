@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """ISD batch pages: verify on VPS -> logos -> specs -> build -> montage.
 Usage: run_batch.py REQUEST.json WORKDIR   (then pub.sh WORKDIR "msg")
-Request rows: azienda, page|slug, fatto, source_url, fatto_quote, [domain], [full_name|nome+cognome], [sedi_quote, sedi_url]
+Request rows: [name = display-name override], azienda, page|slug, fatto, source_url, fatto_quote, [domain], [full_name|nome+cognome], [sedi_quote, sedi_url]
 One page per company: if a company has more contacts, pass full_name empty -> page shows the company name.
 """
 import json, os, re, sys, subprocess, shutil, collections
@@ -22,7 +22,7 @@ def main():
     jobs, logo_in, specs = [], '', {}
     used = set()
     for x in rows:
-        name = subj(x['fatto'], x['azienda']) or clean(x['azienda'])
+        name = x.get('name') or subj(x['fatto'], x['azienda']) or clean(x['azienda'])
         x['_name'] = name
         base = mkslug(name); slug = base; i = 2
         while slug in used or (os.path.exists(f'{R}/_src/specs/{slug}.json') and json.load(open(f'{R}/_src/specs/{slug}.json')).get('company','').lower() != name.lower()):
@@ -45,7 +45,7 @@ def main():
     tag = os.path.basename(W)
     rd = f'/tmp/cl/isdbatch_{tag}'
     sh(f'ssh {VPS} "rm -rf {rd}; mkdir -p {rd}/isd_logos"')
-    for a, b in [(f'{W}/vq_in.json', 'vq_in.json'), (f'{W}/logo_in.txt', 'logo_in.txt'), (f'{HERE}/vps_verify2.py', 'v.py'), (f'{HERE}/vps_logo.py', 'l.py')]:
+    for a, b in [(f'{W}/vq_in.json', 'vq_in.json'), (f'{W}/logo_in.txt', 'logo_in.txt'), (f'{HERE}/vps_verify3.py', 'v.py'), (f'{HERE}/vps_logo.py', 'l.py')]:
         sh(f'scp -q {a} {VPS}:{rd}/{b}')
     # patch hardcoded paths in the VPS copies
     sh(f"ssh {VPS} \"cd {rd} && sed -i 's#/tmp/cl/isd_logos.json#{rd}/logos.json#; s#/tmp/cl/isd_logos#{rd}/isd_logos#; s#/tmp/cl/isd_logo_in.txt#{rd}/logo_in.txt#' l.py && timeout 3000 python3 v.py vq_in.json vq_out.json; timeout 900 python3 l.py\"")

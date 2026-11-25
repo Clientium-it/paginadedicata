@@ -1,0 +1,17 @@
+{
+ "slug": "autovip",
+ "company": "Autovip",
+ "full_name": "Dario",
+ "first": "Dario",
+ "cover_note": "Autovip è concessionaria ufficiale Renault e Dacia attiva in Piemonte da più di 50 anni.",
+ "evidence": [
+  {
+   "claim": "Autovip è concessionaria ufficiale Renault e Dacia attiva in Piemonte da più di 50 anni.",
+   "url": "https://catalanogroup.eu/autovip/sedi/autovip-veicoli-commerciali/",
+   "quote": "AUTOVIP è la concessionaria Ufficiale Renault e Dacia attiva in Piemonte da più di 50 anni"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/autovip/logo.png"
+}

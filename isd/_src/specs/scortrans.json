@@ -1,0 +1,22 @@
+{
+ "slug": "scortrans",
+ "company": "Scortrans",
+ "full_name": "Adalberto Pellitteri",
+ "first": "Adalberto",
+ "cover_note": "Scortrans ha ampliato il magazzino fino a 9.000 mq e aperto filiali a Milano e Firenze, con collaborazioni nei mercati emergenti.",
+ "evidence": [
+  {
+   "claim": "Scortrans ha ampliato il magazzino fino a 9.000 mq e aperto filiali a Milano e Firenze, con collaborazioni nei mercati emergenti.",
+   "url": "https://scortrans.com/it/azienda/",
+   "quote": "Vengono allargati gli spazi di magazzino fino a 9.000 mq"
+  },
+  {
+   "claim": "Scortrans ha ampliato il magazzino fino a 9.000 mq e aperto filiali a Milano e Firenze, con collaborazioni nei mercati emergenti.",
+   "url": "https://scortrans.com/it/azienda/",
+   "quote": "aprendo filiali a Milano e Firenze, stabilendo collaborazioni chiave nei mercati emergenti"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/scortrans/logo.svg"
+}

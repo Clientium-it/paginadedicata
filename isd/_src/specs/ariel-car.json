@@ -1,0 +1,22 @@
+{
+ "slug": "ariel-car",
+ "company": "Ariel Car",
+ "full_name": "Rosario",
+ "first": "Rosario",
+ "cover_note": "Ariel Car è presente in tutta Italia con 16 sedi e 55.000 mq di spazi espositivi.",
+ "evidence": [
+  {
+   "claim": "Ariel Car è presente in tutta Italia con 16 sedi e 55.000 mq di spazi espositivi.",
+   "url": "https://arielcar.it/",
+   "quote": "55.000 mq di spazi espositivi"
+  },
+  {
+   "claim": "Ariel Car è presente in tutta Italia con 16 sedi e 55.000 mq di spazi espositivi.",
+   "url": "https://arielcar.it/",
+   "quote": "Ariel Car è presente in tutta Italia con 16 sedi."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/ariel-car/logo.svg"
+}

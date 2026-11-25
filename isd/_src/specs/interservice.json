@@ -1,0 +1,21 @@
+{
+ "slug": "interservice",
+ "company": "Interservice",
+ "full_name": "Cristian",
+ "first": "Cristian",
+ "cover_note": "Interservice è l'officina multimarca del Gruppo Maurelli, con cinque sedi operative a Trento, Correggio, Trecate, Bolzano e Parma.",
+ "evidence": [
+  {
+   "claim": "Interservice è l'officina multimarca del Gruppo Maurelli, con cinque sedi operative a Trento, Correggio, Trecate, Bolzano e Parma.",
+   "url": "https://interservice.tn.it/azienda/",
+   "quote": "Interservice è l’officina multimarca del Gruppo Maurelli e concessionaria autorizzata per la vendita di ricambi originali delle più importanti case produttrici."
+  },
+  {
+   "claim": "Interservice è l'officina multimarca del Gruppo Maurelli, con cinque sedi operative a Trento, Correggio, Trecate, Bolzano e Parma.",
+   "url": "https://interservice.tn.it/azienda/",
+   "quote": "L'azienda vanta oggi cinque sedi operative a Trento (TN), a Correggio (RE), a Trecate (NO), Bolzano (BZ) e a Parma (PR)."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

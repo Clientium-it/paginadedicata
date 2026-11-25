@@ -1,0 +1,22 @@
+{
+ "slug": "primadonna",
+ "company": "Primadonna",
+ "full_name": "Giorgio",
+ "first": "Giorgio",
+ "cover_note": "Primadonna, con oltre 930 persone coinvolte nel fashion italiano, conta oltre 250 negozi in Italia e nel mondo.",
+ "evidence": [
+  {
+   "claim": "Primadonna, con oltre 930 persone coinvolte nel fashion italiano, conta oltre 250 negozi in Italia e nel mondo.",
+   "url": "https://www.primadonnacollection.com/about-us.html",
+   "quote": "Con oltre 930 persone coinvolte, è una delle realtà più dinamiche del fashion italiano"
+  },
+  {
+   "claim": "Primadonna, con oltre 930 persone coinvolte nel fashion italiano, conta oltre 250 negozi in Italia e nel mondo.",
+   "url": "https://www.primadonnacollection.com/home",
+   "quote": "Trova il tuo store Oltre 250 negozi in Italia e nel mondo ti aspettano."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/primadonna/logo.svg"
+}

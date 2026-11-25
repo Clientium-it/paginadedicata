@@ -1,0 +1,21 @@
+{
+ "slug": "unes-maxi",
+ "company": "Unes Maxi",
+ "full_name": "Serena",
+ "first": "Serena",
+ "cover_note": "Dal 1967 Unes conta oltre 200 punti vendita tra diretti e in franchising in Lombardia Piemonte ed Emilia Romagna con circa 3.000 persone.",
+ "evidence": [
+  {
+   "claim": "Dal 1967 Unes conta oltre 200 punti vendita tra diretti e in franchising in Lombardia Piemonte ed Emilia Romagna con circa 3.000 persone.",
+   "url": "https://franchising.unes.it/",
+   "quote": "Dal 1967, Unes (Unione Nuovi Esercenti Superettes) è sinonimo di esperienza e innovazione nella grande distribuzione."
+  },
+  {
+   "claim": "Dal 1967 Unes conta oltre 200 punti vendita tra diretti e in franchising in Lombardia Piemonte ed Emilia Romagna con circa 3.000 persone.",
+   "url": "https://franchising.unes.it/",
+   "quote": "Unes conta oltre 200 punti vendita tra diretti e in franchising in Lombardia, Piemonte ed Emilia-Romagna, con un team di circa 3.000 persone."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

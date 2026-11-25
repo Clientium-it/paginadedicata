@@ -1,0 +1,22 @@
+{
+ "slug": "di-viesto",
+ "company": "DI Viesto",
+ "full_name": "Davide",
+ "first": "Davide",
+ "cover_note": "Dal 1969 il Gruppo Di Viesto conta 5 concessionarie e 2 centri usato in Piemonte.",
+ "evidence": [
+  {
+   "claim": "Dal 1969 il Gruppo Di Viesto conta 5 concessionarie e 2 centri usato in Piemonte.",
+   "url": "https://www.diviesto.it/chi-siamo/",
+   "quote": "E proprio a Torino, nel 1969, nasce la loro prima officina, in Via Di Nanni."
+  },
+  {
+   "claim": "Dal 1969 il Gruppo Di Viesto conta 5 concessionarie e 2 centri usato in Piemonte.",
+   "url": "https://www.diviesto.it/chi-siamo/",
+   "quote": "Ad oggi, il Gruppo Di Viesto conta 5 concessionarie e 2 centri Usato sul suolo Piemontese"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/di-viesto/logo.webp"
+}

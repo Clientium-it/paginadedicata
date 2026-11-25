@@ -1,0 +1,22 @@
+{
+ "slug": "jas-italy",
+ "company": "JAS Italy",
+ "full_name": "Simone",
+ "first": "Simone",
+ "cover_note": "JAS Italy offre servizi logistici completi con uffici e magazzini a Roma e Firenze e 18 sedi in tutto il paese.",
+ "evidence": [
+  {
+   "claim": "JAS Italy offre servizi logistici completi con uffici e magazzini a Roma e Firenze e 18 sedi in tutto il paese.",
+   "url": "https://www.jas.com/country/italy/",
+   "quote": "With offices and warehouses in key locations like Rome and Florence, JAS Italy delivers a full range of logistics services—from transport and contract logistics to specialized project management."
+  },
+  {
+   "claim": "JAS Italy offre servizi logistici completi con uffici e magazzini a Roma e Firenze e 18 sedi in tutto il paese.",
+   "url": "https://www.jas.com/country/italy/",
+   "quote": "18 locations providing local expertise and support across the country."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/jas-italy/logo.svg"
+}

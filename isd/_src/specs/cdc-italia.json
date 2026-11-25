@@ -1,0 +1,22 @@
+{
+ "slug": "cdc-italia",
+ "company": "CDC Italia",
+ "full_name": "Davide",
+ "first": "Davide",
+ "cover_note": "CDC Italia opera da oltre 30 anni nei trasporti internazionali, con la sede di Livorno che coordina le altre sedi italiane ed estere.",
+ "evidence": [
+  {
+   "claim": "CDC Italia opera da oltre 30 anni nei trasporti internazionali, con la sede di Livorno che coordina le altre sedi italiane ed estere.",
+   "url": "https://www.cdcitalia.it/chi-siamo/",
+   "quote": "CDC Italia è un’azienda operante da più di 30 anni a livello mondiale nel settore dei trasporti marittimi, aerei e su gomma."
+  },
+  {
+   "claim": "CDC Italia opera da oltre 30 anni nei trasporti internazionali, con la sede di Livorno che coordina le altre sedi italiane ed estere.",
+   "url": "https://www.cdcitalia.it/chi-siamo/",
+   "quote": "Oggi nella sede CDC di Livorno è collocato il centro direzionale che coordina, oltre all’attività delle altre sedi italiane, quelle estere e quelle dei corrispondenti internazionali."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/cdc-italia/logo.png"
+}

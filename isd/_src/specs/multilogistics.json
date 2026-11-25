@@ -1,0 +1,17 @@
+{
+ "slug": "multilogistics",
+ "company": "Multilogistics",
+ "full_name": "Simona",
+ "first": "Simona",
+ "cover_note": "Multilogistics gestisce una rete italiana con 10 filiali dirette 15 centri logistici regionali e 42 transit point.",
+ "evidence": [
+  {
+   "claim": "Multilogistics gestisce una rete italiana con 10 filiali dirette 15 centri logistici regionali e 42 transit point.",
+   "url": "https://multilogistics.net/about-us/",
+   "quote": "THE ITALIAN NETWORK 10 Direct Branches 15 Regional Logistic Centers 42 Transit Points"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/multilogistics/logo.png"
+}

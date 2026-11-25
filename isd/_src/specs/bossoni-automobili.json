@@ -1,0 +1,22 @@
+{
+ "slug": "bossoni-automobili",
+ "company": "Bossoni Automobili",
+ "full_name": "Tiziano",
+ "first": "Tiziano",
+ "cover_note": "Bossoni Automobili tratta 16 marchi con 36 punti vendita distribuiti nelle province di Brescia Cremona Mantova e Piacenza.",
+ "evidence": [
+  {
+   "claim": "Bossoni Automobili tratta 16 marchi con 36 punti vendita distribuiti nelle province di Brescia Cremona Mantova e Piacenza.",
+   "url": "https://www.gruppobossoni.it/pagina/la-storia-del-gruppo-bossoni",
+   "quote": "Una forte presenza sul Territorio, dove oggi vanta 16 Marchi"
+  },
+  {
+   "claim": "Bossoni Automobili tratta 16 marchi con 36 punti vendita distribuiti nelle province di Brescia Cremona Mantova e Piacenza.",
+   "url": "https://www.gruppobossoni.it/pagina/la-storia-del-gruppo-bossoni",
+   "quote": "con 36 punti vendita distribuiti in maniera capillare nelle Province di Brescia, Cremona, Mantova e Piacenza"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/bossoni-automobili/logo.svg"
+}

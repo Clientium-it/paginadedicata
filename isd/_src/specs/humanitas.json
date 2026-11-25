@@ -1,0 +1,22 @@
+{
+ "slug": "humanitas",
+ "company": "Humanitas",
+ "full_name": "Stefano",
+ "first": "Stefano",
+ "cover_note": "Humanitas è l'ospedale capofila di un gruppo presente a Bergamo Torino Catania Castellanza e Milano con 20 centri medici e prelievi.",
+ "evidence": [
+  {
+   "claim": "Humanitas è l'ospedale capofila di un gruppo presente a Bergamo Torino Catania Castellanza e Milano con 20 centri medici e prelievi.",
+   "url": "https://www.humanitas.it/chi-siamo/",
+   "quote": "Humanitas Research Hospital è l’ospedale capofila di un gruppo presente a Bergamo, Torino, Catania, Castellanza (Varese) e Milano."
+  },
+  {
+   "claim": "Humanitas è l'ospedale capofila di un gruppo presente a Bergamo Torino Catania Castellanza e Milano con 20 centri medici e prelievi.",
+   "url": "https://www.humanitas.it/",
+   "quote": "20 centri medici e prelievi nelle province di Milano, Monza, Varese, Bergamo, Torino e Catania"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/humanitas/logo.svg"
+}

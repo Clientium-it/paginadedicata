@@ -1,0 +1,17 @@
+{
+ "slug": "auto-zatti",
+ "company": "Auto Zatti",
+ "full_name": "Federico",
+ "first": "Federico",
+ "cover_note": "Auto Zatti, da oltre 40 anni, vende auto nuove, usate e a chilometri zero nelle province di Parma, Reggio Emilia, Piacenza e Modena.",
+ "evidence": [
+  {
+   "claim": "Auto Zatti, da oltre 40 anni, vende auto nuove, usate e a chilometri zero nelle province di Parma, Reggio Emilia, Piacenza e Modena.",
+   "url": "https://www.gruppozatti.com/",
+   "quote": "Da oltre 40 anni il punto di riferimento per la scelta della tua prossima auto nuova, usata o a chilometri zero nelle province di Parma, Reggio Emilia, Piacenza e Modena."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/auto-zatti/logo.svg"
+}

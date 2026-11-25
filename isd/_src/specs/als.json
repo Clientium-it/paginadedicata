@@ -1,0 +1,22 @@
+{
+ "slug": "als",
+ "company": "ALS",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "cover_note": "ALS opera nella logistica da oltre 50 anni con 30 siti operativi e più di 630.000 mq gestiti e 2.900 risorse.",
+ "evidence": [
+  {
+   "claim": "ALS opera nella logistica da oltre 50 anni con 30 siti operativi e più di 630.000 mq gestiti e 2.900 risorse.",
+   "url": "https://www.als-spa.it/chi-siamo/",
+   "quote": "ALS S.p.A. , un’eccellenza operativa del Gruppo FBH , è presente sul mercato della logistica da oltre 50 anni, con radici che risalgono alla fine degli anni Sessanta."
+  },
+  {
+   "claim": "ALS opera nella logistica da oltre 50 anni con 30 siti operativi e più di 630.000 mq gestiti e 2.900 risorse.",
+   "url": "https://www.als-spa.it/chi-siamo/",
+   "quote": "NUMERI CHIAVE 30 siti operativi più di 630.000 mq gestiti risorse totali 2.900 fatturato 2025 260 M €"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/als/logo.png"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "car-lovers-roma",
+ "company": "Car Lovers Roma",
+ "full_name": "Paolo",
+ "first": "Paolo",
+ "cover_note": "Car Lovers Roma rappresenta i marchi Renault e Dacia con veicoli nuovi e usati, due officine meccaniche, una carrozzeria e un magazzino ricambi.",
+ "evidence": [
+  {
+   "claim": "Car Lovers Roma rappresenta i marchi Renault e Dacia con veicoli nuovi e usati, due officine meccaniche, una carrozzeria e un magazzino ricambi.",
+   "url": "https://www.carlovers-roma.it/chi-siamo/",
+   "quote": "A Roma, rappresenta i marchi del Gruppo Renault: Renault, Dacia , offrendo un'ampia gamma di veicoli nuovi e usati. Dispone di due officine meccaniche , carrozzeria e magazzino ricambi , per un servizio completo e di qualità."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/car-lovers-roma/logo.png"
+}

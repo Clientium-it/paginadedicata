@@ -1,0 +1,21 @@
+{
+ "slug": "nordauto",
+ "company": "Nordauto",
+ "full_name": "Davide",
+ "first": "Davide",
+ "cover_note": "Nordauto vende auto nuove e usate dalla sede storica di Montebelluna e da due filiali a San Martino di Lupari e Sedico.",
+ "evidence": [
+  {
+   "claim": "Nordauto vende auto nuove e usate dalla sede storica di Montebelluna e da due filiali a San Martino di Lupari e Sedico.",
+   "url": "https://www.nordautogroup.it/concessionaria-toyota-kia-lexus-mazda/",
+   "quote": "Inizia così l'espansione dell'attività: oltre alla sede storica di Montebelluna (TV) Nordauto inaugura 2 filiali, una nel Padovano a San Martino di Lupari ed un'altra a Sedico, in provincia di Belluno."
+  },
+  {
+   "claim": "Nordauto vende auto nuove e usate dalla sede storica di Montebelluna e da due filiali a San Martino di Lupari e Sedico.",
+   "url": "https://www.nordautogroup.it/concessionaria-toyota-kia-lexus-mazda/",
+   "quote": "Diventati il punto di riferimento per la vendita di auto nuove e usate nelle provincie di Padova, Belluno e Treviso ci troviamo in posizione strategica per servire anche il resto del Regione."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

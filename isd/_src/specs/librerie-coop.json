@@ -1,0 +1,22 @@
+{
+ "slug": "librerie-coop",
+ "company": "Librerie.coop",
+ "full_name": "Valentina",
+ "first": "Valentina",
+ "cover_note": "Librerie.coop conta oltre 100 librerie e shops nei centri commerciali e cittadini, tra cui l'Ambasciatori aperto a Bologna nel 2008 con 85 mila volumi.",
+ "evidence": [
+  {
+   "claim": "Librerie.coop conta oltre 100 librerie e shops nei centri commerciali e cittadini, tra cui l'Ambasciatori aperto a Bologna nel 2008 con 85 mila volumi.",
+   "url": "https://www.librerie.coop/chi-siamo/",
+   "quote": "Insieme a Eataly è stato aperto a Bologna nel 2008 l’Ambasciatori. Uno spazio innovativo che unisce cultura e sapori tipici di qualità a prezzi accessibili e dove trovano posto, senza soluzione di continuità, una libreria con 85 mila volumi"
+  },
+  {
+   "claim": "Librerie.coop conta oltre 100 librerie e shops nei centri commerciali e cittadini, tra cui l'Ambasciatori aperto a Bologna nel 2008 con 85 mila volumi.",
+   "url": "https://www.librerie.coop/chi-siamo/",
+   "quote": "Le oltre 100 librerie e shops sono un luogo con forte identità che si adatta a seconda della presenza nei centri commerciali o centri cittadini"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/librerie-coop/logo.png"
+}

@@ -1,0 +1,21 @@
+{
+ "slug": "mondadori-retail",
+ "company": "Mondadori Retail",
+ "full_name": "Federica",
+ "first": "Federica",
+ "cover_note": "Mondadori Retail serve oltre 20 milioni di clienti ogni anno con un network di oltre 600 punti vendita in quattro format.",
+ "evidence": [
+  {
+   "claim": "Mondadori Retail serve oltre 20 milioni di clienti ogni anno con un network di oltre 600 punti vendita in quattro format.",
+   "url": "https://www.mondadoriretail.com/mondadori-store/",
+   "quote": "Mondadori Retail serve oltre 20 milioni di clienti ogni anno."
+  },
+  {
+   "claim": "Mondadori Retail serve oltre 20 milioni di clienti ogni anno con un network di oltre 600 punti vendita in quattro format.",
+   "url": "https://www.mondadoriretail.com/mondadori-store/",
+   "quote": "Forte di un network di oltre 600 punti vendita con 4 format di negozio (Megastore, Bookstore, Point, Club) e di 4 canali di vendita (punti vendita diretti, in franchising, web e bookclub)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

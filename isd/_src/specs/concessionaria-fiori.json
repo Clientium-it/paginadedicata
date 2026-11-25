@@ -1,0 +1,21 @@
+{
+ "slug": "concessionaria-fiori",
+ "company": "Concessionaria Fiori",
+ "full_name": "Anna",
+ "first": "Anna",
+ "cover_note": "Concessionaria Fiori, da oltre 60 anni nel mondo auto con tre generazioni, tiene 2.317 vetture pronte in 9 sedi tra Roma e Latina.",
+ "evidence": [
+  {
+   "claim": "Concessionaria Fiori, da oltre 60 anni nel mondo auto con tre generazioni, tiene 2.317 vetture pronte in 9 sedi tra Roma e Latina.",
+   "url": "https://concessionariafiori.it/chi-siamo/",
+   "quote": "Da oltre 60 anni Concessionaria Fiori rappresenta la passione di tre generazioni nel mondo auto, unendo tradizione e innovazione nel settore automotive."
+  },
+  {
+   "claim": "Concessionaria Fiori, da oltre 60 anni nel mondo auto con tre generazioni, tiene 2.317 vetture pronte in 9 sedi tra Roma e Latina.",
+   "url": "https://concessionariafiori.it/",
+   "quote": "2.317 auto pronte in 9 sedi tra Roma e Latina"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B"
+}

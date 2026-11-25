@@ -1,0 +1,22 @@
+{
+ "slug": "sina",
+ "company": "Sina",
+ "full_name": "Davide",
+ "first": "Davide",
+ "cover_note": "Sina è concessionaria ufficiale di Fiat, Alfa Romeo, Jeep, Nissan e Volvo con cinque sedi tra Veneto e Friuli.",
+ "evidence": [
+  {
+   "claim": "Sina è concessionaria ufficiale di Fiat, Alfa Romeo, Jeep, Nissan e Volvo con cinque sedi tra Veneto e Friuli.",
+   "url": "https://www.sinaspa.com/sedi/pordenone/",
+   "quote": "Sina è una concessionaria ufficiale di prestigiosi marchi automobilistici: Fiat, Abarth, Alfa Romeo, Lancia, FIAT Professional, Jeep, Lancia, Nissan, Nissan Veicoli commerciali, Volvo"
+  },
+  {
+   "claim": "Sina è concessionaria ufficiale di Fiat, Alfa Romeo, Jeep, Nissan e Volvo con cinque sedi tra Veneto e Friuli.",
+   "url": "https://www.sinaspa.com/sedi/pordenone/",
+   "quote": "Siamo presenti con cinque sedi tra Veneto e Friuli per essere sempre vicini ai nostri clienti."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/sina/logo.png"
+}

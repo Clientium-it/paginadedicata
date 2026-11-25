@@ -1,0 +1,22 @@
+{
+ "slug": "max-factory",
+ "company": "Max Factory",
+ "full_name": "Bingbo",
+ "first": "Bingbo",
+ "cover_note": "In 20 anni Max Factory ha portato la sua offerta in 8 regioni italiane con 45 store.",
+ "evidence": [
+  {
+   "claim": "In 20 anni Max Factory ha portato la sua offerta in 8 regioni italiane con 45 store.",
+   "url": "https://maxfactory.eu/chi-siamo/",
+   "quote": "avvicinandoci al traguardo dei 50 store aperti entro la fine del 2026"
+  },
+  {
+   "claim": "In 20 anni Max Factory ha portato la sua offerta in 8 regioni italiane con 45 store.",
+   "url": "https://maxfactory.eu/chi-siamo/",
+   "quote": "In 20 anni di storia abbiamo portato la nostra offerta in 8 regioni italiane (Piemonte, Lombardia, Liguria, Trentino Alto Adige, Vento, Toscana, Emilia Romagna, Lazio) con 45 store."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/max-factory/logo.svg"
+}

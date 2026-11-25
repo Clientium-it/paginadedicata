@@ -1,0 +1,22 @@
+{
+ "slug": "voihotels",
+ "company": "VOIhotels",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "cover_note": "VOIhotels, nata nel 2014 dal Gruppo Alpitour, gestisce strutture alberghiere in Sicilia, Sardegna, Puglia, Calabria, Capo Verde, Zanzibar e Madagascar.",
+ "evidence": [
+  {
+   "claim": "VOIhotels, nata nel 2014 dal Gruppo Alpitour, gestisce strutture alberghiere in Sicilia, Sardegna, Puglia, Calabria, Capo Verde, Zanzibar e Madagascar.",
+   "url": "https://www.voihotels.com/it/chi-siamo",
+   "quote": "È il 2014 quando il Gruppo Alpitour, con oltre 70 anni di esperienza nel settore del turismo, decide di aprire un nuovo ramo per la gestione alberghiera: VOIhotels."
+  },
+  {
+   "claim": "VOIhotels, nata nel 2014 dal Gruppo Alpitour, gestisce strutture alberghiere in Sicilia, Sardegna, Puglia, Calabria, Capo Verde, Zanzibar e Madagascar.",
+   "url": "https://www.voihotels.com/it/chi-siamo",
+   "quote": "Sicilia, Sardegna, Puglia, Calabria. E poi Capo Verde, Zanzibar, Madagascar."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/voihotels/logo.png"
+}

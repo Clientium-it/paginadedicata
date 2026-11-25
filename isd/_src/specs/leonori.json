@@ -1,0 +1,22 @@
+{
+ "slug": "leonori",
+ "company": "Leonori",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "cover_note": "Leonori opera dal 1962 come concessionario a Roma, con 11 sedi tra Roma e Civitavecchia.",
+ "evidence": [
+  {
+   "claim": "Leonori opera dal 1962 come concessionario a Roma, con 11 sedi tra Roma e Civitavecchia.",
+   "url": "https://www.leonori.it/chi-siamo",
+   "quote": "È dal 1962 che la Leonori spa è storicamente tra i più importanti concessionari di riferimento a Roma."
+  },
+  {
+   "claim": "Leonori opera dal 1962 come concessionario a Roma, con 11 sedi tra Roma e Civitavecchia.",
+   "url": "https://www.leonori.it/contatti",
+   "quote": "Le nostre 11 sedi a Roma e Civitavecchia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (req.json)",
+ "case": "B",
+ "logo": "../assets/leads/leonori/logo.png"
+}
