@@ -1,0 +1,25 @@
+{
+ "slug": "planetel",
+ "company": "Planetel",
+ "full_name": "Bruno",
+ "cover_note": "Planetel dal 1985 è tra i primi Internet Service Provider, con fibra, fonia, IT e cybersecurity per imprese e pubblica amministrazione, tra Lombardia e Veneto.",
+ "idea": "Potremmo occuparci a vostro nome degli interventi tecnici on site su fibra, fonia e IT presso imprese ed enti, anche fuori da Lombardia e Veneto.",
+ "evidence": [
+  {
+   "claim": "Planetel dal 1985 è tra i primi Internet Service Provider, con fibra, fonia, IT e cybersecurity per imprese e pubblica amministrazione, tra Lombardia e Veneto.",
+   "url": "https://www.planetel.it/chi-siamo/azienda/",
+   "quote": "Dal 1985 a fianco delle realtà del territorio con servizi innovativi, affidabili e su misura. Siamo tra i primi Internet Service Provider (ISP e WISP) , presenti sul territorio come player unico con una forte attenzione sia al mercato delle piccole e medie imprese che ai mercati wholesale, enterprise e residenziale"
+  },
+  {
+   "claim": "Planetel dal 1985 è tra i primi Internet Service Provider, con fibra, fonia, IT e cybersecurity per imprese e pubblica amministrazione, tra Lombardia e Veneto.",
+   "url": "https://www.planetel.it/chi-siamo/azienda/",
+   "quote": "Sono presenti diverse sedi distaccate distribuite sul territorio tra Lombardia e Veneto, le quali forniscono servizi di assistenza tecnica e commerciale alle imprese clienti della zona."
+  },
+  {
+   "claim": "Planetel dal 1985 è tra i primi Internet Service Provider, con fibra, fonia, IT e cybersecurity per imprese e pubblica amministrazione, tra Lombardia e Veneto.",
+   "url": "https://www.planetel.it/",
+   "quote": "Casa Connettività Fibra, Telefonia, E-mail e PEC, Domini Attività commerciali Fibra Business, Fonia, IT, Cybersecurity, E-mail e PEC, Web Medie e Grandi Aziende Fibra Business, Fonia e Centralini, Cloud, IT, Cybersecurity, Web, Reti e Cablaggi Pubblica Amministrazione"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (wetech_refill_b1)"
+}

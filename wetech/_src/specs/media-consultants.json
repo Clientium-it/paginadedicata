@@ -1,0 +1,20 @@
+{
+ "slug": "media-consultants",
+ "company": "Media Consultants",
+ "full_name": "Giovanni",
+ "cover_note": "Media Consultants sviluppa strumenti per pianificare e monitorare le campagne pubblicitarie media, usati nei Centri Media e nelle Agenzie di Pubblicità italiane.",
+ "idea": "Potremmo seguire a vostro nome l'assistenza tecnica on site presso i Centri Media e le agenzie che usano i vostri strumenti, in white label.",
+ "evidence": [
+  {
+   "claim": "Media Consultants sviluppa strumenti per pianificare e monitorare le campagne pubblicitarie media, usati nei Centri Media e nelle Agenzie di Pubblicità italiane.",
+   "url": "https://www.mcs.it/",
+   "quote": "Sviluppiamo, implementiamo e commercializziamo strumenti per pianificare, gestire, controllare, analizzare e monitorare le campagne pubblicitarie media."
+  },
+  {
+   "claim": "Media Consultants sviluppa strumenti per pianificare e monitorare le campagne pubblicitarie media, usati nei Centri Media e nelle Agenzie di Pubblicità italiane.",
+   "url": "https://www.mcs.it/",
+   "quote": "È il gestionale maggiormente utilizzato nei Centri Media e nelle Agenzie di Pubblicità italiane"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (wetech_refill_b1)"
+}

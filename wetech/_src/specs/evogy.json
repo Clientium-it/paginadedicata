@@ -1,0 +1,25 @@
+{
+ "slug": "evogy",
+ "company": "Evogy",
+ "full_name": "Stefano",
+ "cover_note": "Evogy monitora in tempo reale i vettori energetici come energia elettrica, termica, acqua e gas, anche per gli ospedali, da Seriate.",
+ "idea": "Potremmo occuparci a vostro nome dell'installazione e della manutenzione on site dei sistemi di monitoraggio presso i vostri clienti, ospedali compresi.",
+ "evidence": [
+  {
+   "claim": "Evogy monitora in tempo reale i vettori energetici come energia elettrica, termica, acqua e gas, anche per gli ospedali, da Seriate.",
+   "url": "https://www.evogy.it/analizza-i-consumi-energetici-della-tua-azienda-simon-analytics",
+   "quote": "puoi prendere consapevolezza dei tuoi consumi e monitorare in tempo reale tutti i vettori energetici (energia elettrica, energia termica, energia frigorifera, acqua, gas, aria compressa)"
+  },
+  {
+   "claim": "Evogy monitora in tempo reale i vettori energetici come energia elettrica, termica, acqua e gas, anche per gli ospedali, da Seriate.",
+   "url": "https://www.evogy.it/analizza-i-consumi-energetici-della-tua-azienda-simon-analytics",
+   "quote": "SEDE LEGALE: VIA PASTRENGO 9, SERIATE (BG) 24068"
+  },
+  {
+   "claim": "Evogy monitora in tempo reale i vettori energetici come energia elettrica, termica, acqua e gas, anche per gli ospedali, da Seriate.",
+   "url": "https://www.evogy.it/progetti-di-efficientamento-energetico-aziendale",
+   "quote": "Ospedali Monitoraggio per riduzione dei consumi energetici della struttura ospedaliera."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (wetech_refill_b1)"
+}

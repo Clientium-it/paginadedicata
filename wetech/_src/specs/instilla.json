@@ -1,0 +1,25 @@
+{
+ "slug": "instilla",
+ "company": "Instilla",
+ "full_name": "Riccardo",
+ "cover_note": "Instilla sviluppa soluzioni martech e software proprietari e per terze parti per brand e agenzie, a Milano.",
+ "idea": "Potremmo seguire a vostro nome gli interventi tecnici on site legati ai vostri progetti martech, presso le sedi di brand e agenzie che servite.",
+ "evidence": [
+  {
+   "claim": "Instilla sviluppa soluzioni martech e software proprietari e per terze parti per brand e agenzie, a Milano.",
+   "url": "https://www.instilla.it/martech/",
+   "quote": "Siamo una realtà martech , esperta nello sviluppo e nell’utilizzo di soluzioni tecnologiche che fanno la differenza. Creiamo software proprietari e per terze parti."
+  },
+  {
+   "claim": "Instilla sviluppa soluzioni martech e software proprietari e per terze parti per brand e agenzie, a Milano.",
+   "url": "https://www.instilla.it/martech/",
+   "quote": "Instilla Via Arcivescovo Calabiana 6 20139 | Milano, Italy"
+  },
+  {
+   "claim": "Instilla sviluppa soluzioni martech e software proprietari e per terze parti per brand e agenzie, a Milano.",
+   "url": "https://www.instilla.it/martech/",
+   "quote": "Le nostre soluzioni MarTech sono pensate per brand e agenzie che vogliono migliorare performance, tracciamento e accessibilità."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (wetech_refill_b1)"
+}

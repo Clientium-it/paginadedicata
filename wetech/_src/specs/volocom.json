@@ -1,0 +1,20 @@
+{
+ "slug": "volocom",
+ "company": "Volocom",
+ "full_name": "Roberto",
+ "cover_note": "Volocom analizza ogni giorno oltre 4 milioni di notizie da più di 200.000 fonti internazionali in oltre 130 lingue per aziende, istituzioni e professionisti.",
+ "idea": "Potremmo occuparci a vostro nome dell'installazione e dell'assistenza on site presso aziende e istituzioni che usano i vostri servizi, in white label.",
+ "evidence": [
+  {
+   "claim": "Volocom analizza ogni giorno oltre 4 milioni di notizie da più di 200.000 fonti internazionali in oltre 130 lingue per aziende, istituzioni e professionisti.",
+   "url": "https://www.volocom.it/azienda/",
+   "quote": "Volocom è una tech company italiana specializzata in Media Monitoring e News Intelligence : ogni giorno acquisisce e analizza oltre 4 milioni di notizie da più di 200.000 fonti internazionali , in oltre 130 lingue."
+  },
+  {
+   "claim": "Volocom analizza ogni giorno oltre 4 milioni di notizie da più di 200.000 fonti internazionali in oltre 130 lingue per aziende, istituzioni e professionisti.",
+   "url": "https://www.volocom.it/azienda/",
+   "quote": "Trasformiamo la complessità dei dati in conoscenza strategica per aziende, istituzioni e professionisti."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (wetech_refill_b1)"
+}

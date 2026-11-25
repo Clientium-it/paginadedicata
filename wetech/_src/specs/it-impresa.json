@@ -1,0 +1,25 @@
+{
+ "slug": "it-impresa",
+ "company": "IT Impresa",
+ "full_name": "Alessandro Achilli",
+ "cover_note": "IT Impresa offre consulenza, sviluppo software, gestione infrastrutture IT e supporto tecnico per PMI, grandi aziende e strutture sanitarie, tra Cremona, Monza, Torino e Parma.",
+ "idea": "Potremmo affiancarvi in white label con tecnici on site per i clienti fuori da Cremona, Monza, Torino e Parma, intervenendo a vostro nome.",
+ "evidence": [
+  {
+   "claim": "IT Impresa offre consulenza, sviluppo software, gestione infrastrutture IT e supporto tecnico per PMI, grandi aziende e strutture sanitarie, tra Cremona, Monza, Torino e Parma.",
+   "url": "https://www.it-impresa.it/",
+   "quote": "Azienda informatica specializzata nella fornitura di soluzioni tecnologiche avanzate per PMI e grandi aziende. Offriamo servizi di consulenza, sviluppo software, gestione di infrastrutture IT e supporto tecnico."
+  },
+  {
+   "claim": "IT Impresa offre consulenza, sviluppo software, gestione infrastrutture IT e supporto tecnico per PMI, grandi aziende e strutture sanitarie, tra Cremona, Monza, Torino e Parma.",
+   "url": "https://www.it-impresa.it/",
+   "quote": "Cremona Via Gazzoletto 4/C Monza Via Amati 76 Torino Strada Goretta 86/P Parma Via Sidoli 35/C"
+  },
+  {
+   "claim": "IT Impresa offre consulenza, sviluppo software, gestione infrastrutture IT e supporto tecnico per PMI, grandi aziende e strutture sanitarie, tra Cremona, Monza, Torino e Parma.",
+   "url": "https://www.it-impresa.it/chi-siamo/",
+   "quote": "è pronto ad aiutare aziende, ospedali e strutture sanitarie nella gestione dei sistemi IT"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (wetech_refill_b1)"
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "first-solution",
+ "company": "First Solution",
+ "full_name": "Andrea Zoppi",
+ "cover_note": "First Solution affianca le aziende con software PTC, consulenza, formazione e supporto tecnico, dalla progettazione 3D al ciclo di vita del prodotto, da Lainate.",
+ "idea": "Potremmo seguire a vostro nome il supporto tecnico on site presso le aziende che usano i software PTC, nelle zone lontane da Lainate.",
+ "evidence": [
+  {
+   "claim": "First Solution affianca le aziende con software PTC, consulenza, formazione e supporto tecnico, dalla progettazione 3D al ciclo di vita del prodotto, da Lainate.",
+   "url": "https://firstsolution.it/",
+   "quote": "First Solution affianca le aziende con software PTC, consulenza, formazione e supporto tecnico. Dalla progettazione 3D alla gestione del ciclo di vita del prodotto, fino a IoT e realtà aumentata."
+  },
+  {
+   "claim": "First Solution affianca le aziende con software PTC, consulenza, formazione e supporto tecnico, dalla progettazione 3D al ciclo di vita del prodotto, da Lainate.",
+   "url": "https://firstsolution.it/",
+   "quote": "Via Luigi Settembrini 36, Lainate (MI)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (wetech_refill_b1)"
+}

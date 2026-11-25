@@ -1,0 +1,25 @@
+{
+ "slug": "valore-solare",
+ "company": "Valore Solare",
+ "full_name": "Salvatore",
+ "cover_note": "Valore Solare in 15 anni ha installato e monitorato 6320 impianti fotovoltaici e 2713 sistemi di accumulo per famiglie e imprese.",
+ "idea": "Potremmo affiancarvi in white label con tecnici on site per installazioni e manutenzioni su impianti e accumuli, nelle zone dove la vostra squadra non arriva.",
+ "evidence": [
+  {
+   "claim": "Valore Solare in 15 anni ha installato e monitorato 6320 impianti fotovoltaici e 2713 sistemi di accumulo per famiglie e imprese.",
+   "url": "https://www.valoresolare.it/",
+   "quote": "15 Anni di attività 15 Mln € di fatturato 6320 Impianti fotovoltaici installati e monitorati 2713 Sistemi di accumulo installati"
+  },
+  {
+   "claim": "Valore Solare in 15 anni ha installato e monitorato 6320 impianti fotovoltaici e 2713 sistemi di accumulo per famiglie e imprese.",
+   "url": "https://www.valoresolare.it/taglia-i-costi-energetici-e-aumenta-la-sostenibilita-in-azienda/",
+   "quote": "Sedi Corso Venezia, 16 20121 Milano Via Brescia, 31 36040 Torri di Quartesolo (VI)"
+  },
+  {
+   "claim": "Valore Solare in 15 anni ha installato e monitorato 6320 impianti fotovoltaici e 2713 sistemi di accumulo per famiglie e imprese.",
+   "url": "https://www.valoresolare.it/taglia-i-costi-energetici-e-aumenta-la-sostenibilita-in-azienda/",
+   "quote": "Perché abbiamo migliorato lo stile di vita delle famiglie e delle imprese che con noi sono passate all’energia green."
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (wetech_refill_b1)"
+}

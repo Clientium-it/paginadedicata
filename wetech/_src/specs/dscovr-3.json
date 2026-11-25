@@ -1,0 +1,25 @@
+{
+ "slug": "dscovr-3",
+ "company": "Dscovr",
+ "full_name": "Alberto Bianchi",
+ "cover_note": "Dscovr offre una piattaforma per condurre ricerche qualitative e quantitative con rigore da agenzia, per team di user experience, prodotto e marketing, a Milano.",
+ "idea": "Se un cliente vi chiede supporto tecnico in sede, potremmo essere noi a intervenire a vostro nome, in white label, senza far crescere il vostro organico.",
+ "evidence": [
+  {
+   "claim": "Dscovr offre una piattaforma per condurre ricerche qualitative e quantitative con rigore da agenzia, per team di user experience, prodotto e marketing, a Milano.",
+   "url": "https://dscovr.io/",
+   "quote": "Efficiently conduct both qualitative and quantitative research with a high-quality audience in a single place, maintaining agency-level rigour while saving time and reducing costs."
+  },
+  {
+   "claim": "Dscovr offre una piattaforma per condurre ricerche qualitative e quantitative con rigore da agenzia, per team di user experience, prodotto e marketing, a Milano.",
+   "url": "https://dscovr.io/",
+   "quote": "2024 © Dscovr srl - Via Ruggero Bonghi 1, 20141, Milano (MI)"
+  },
+  {
+   "claim": "Dscovr offre una piattaforma per condurre ricerche qualitative e quantitative con rigore da agenzia, per team di user experience, prodotto e marketing, a Milano.",
+   "url": "https://dscovr.io/",
+   "quote": "Dscovr is optimised for teams navigating strategic decisions for products and services User Experience Product Marketing Strategy & Innovation"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (wetech_refill_b1)"
+}

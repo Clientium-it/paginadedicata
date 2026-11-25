@@ -1,0 +1,20 @@
+{
+ "slug": "geasoftware",
+ "company": "Geasoftware",
+ "full_name": "Andrea",
+ "cover_note": "Geasoftware sviluppa software gestionali ERP come OS1 e Panthera, oltre a soluzioni custom e app su misura per le aziende, da Cantù.",
+ "idea": "Potremmo occuparci a vostro nome degli interventi on site legati ai vostri gestionali presso i clienti, con tecnici che lavorano con il vostro marchio.",
+ "evidence": [
+  {
+   "claim": "Geasoftware sviluppa software gestionali ERP come OS1 e Panthera, oltre a soluzioni custom e app su misura per le aziende, da Cantù.",
+   "url": "https://geasoftware.it/",
+   "quote": "Software gestionali ERP OS1, Panthera e soluzioni su misura per il tuo settore Sviluppo custom e app Soluzioni costruite sulle reali esigenze della tua azienda"
+  },
+  {
+   "claim": "Geasoftware sviluppa software gestionali ERP come OS1 e Panthera, oltre a soluzioni custom e app su misura per le aziende, da Cantù.",
+   "url": "https://geasoftware.it/",
+   "quote": "Via Seneca, 3 – 22063 Cantù (CO)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (wetech_refill_b1)"
+}

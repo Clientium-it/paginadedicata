@@ -1,0 +1,20 @@
+{
+ "slug": "harpaceas",
+ "company": "Harpaceas",
+ "full_name": "",
+ "cover_note": "Harpaceas, fondata nel 1990 a Milano, offre tecnologie, servizi e formazione per la digitalizzazione delle costruzioni a oltre 2.000 clienti pubblici, privati e liberi professionisti.",
+ "idea": "Potremmo affiancarvi in white label con tecnici on site per installazioni e supporto presso i vostri clienti delle costruzioni, quando i progetti si moltiplicano.",
+ "evidence": [
+  {
+   "claim": "Harpaceas, fondata nel 1990 a Milano, offre tecnologie, servizi e formazione per la digitalizzazione delle costruzioni a oltre 2.000 clienti pubblici, privati e liberi professionisti.",
+   "url": "https://www.harpaceas.it/chi-siamo",
+   "quote": "Fondata nel 1990 a Milano, contribuisce ad accelerare la digitalizzazione della filiera delle costruzioni, offrendo al mercato tecnologie e servizi specialistici, supporto e formazione."
+  },
+  {
+   "claim": "Harpaceas, fondata nel 1990 a Milano, offre tecnologie, servizi e formazione per la digitalizzazione delle costruzioni a oltre 2.000 clienti pubblici, privati e liberi professionisti.",
+   "url": "https://www.harpaceas.it/chi-siamo",
+   "quote": "oltre 2.000 clienti tra aziende, sia pubbliche che private, e liberi professionisti scelgono ogni giorno di affidarsi alle competenze dei professionisti Harpaceas"
+  }
+ ],
+ "checked": "VPS playwright verbatim check 25/11 (wetech_refill_b1)"
+}
