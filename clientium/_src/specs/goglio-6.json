@@ -1,0 +1,28 @@
+{
+ "slug": "goglio-6",
+ "company": "Goglio Group",
+ "first_name": "Mario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Goglio dal 1850 realizza sistemi di imballaggio completi per l'industria alimentare con stabilimenti in Italia, Olanda, Stati Uniti, Brasile e Cina. Qui trova come lavoriamo e cosa potremmo fare per Goglio Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Goglio Group.",
+ "evidence": [
+  {
+   "claim": "Goglio dal 1850 realizza sistemi di imballaggio completi per l'industria alimentare con stabilimenti in Italia, Olanda, Stati Uniti, Brasile e Cina.",
+   "url": "https://www.goglio.it/azienda/",
+   "quote": "Dal 1850 il Gruppo Goglio progetta, sviluppa e realizza sistemi di imballaggio completi. || Goglio è presente nel mondo con stabilimenti produttivi in Italia, Olanda, Stati Uniti, Brasile e Cina, e uffici commerciali dislocati in vari paesi europei nel sud est asiatico. || per il confezionamento dell’industria alimentare, cibo per animali, detergenza, prodotti industriali, confezioni asettiche, hot filling ed etichette."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

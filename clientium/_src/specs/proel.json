@@ -1,0 +1,28 @@
+{
+ "slug": "proel",
+ "company": "Proel",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Proel progetta e produce soluzioni per audio, illuminazione e musica con 4 sedi e presenza in oltre 100 paesi. Qui trova come lavoriamo e cosa potremmo fare per Proel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Proel.",
+ "evidence": [
+  {
+   "claim": "Proel progetta e produce soluzioni per audio, illuminazione e musica con 4 sedi e presenza in oltre 100 paesi.",
+   "url": "https://proelworld.com/it/",
+   "quote": "Progettiamo e produciamo soluzioni per il mondo dell’audio, dell’illuminazione e della musica. || 4 sedi, un solo cuore Progettati in Italia, presenti in oltre 100 paesi. || accompagnare musicisti, lighting designer, FOH, installatori e system integrators in qualsiasi applicazione, dal garage, al palco, al progetto di installazione più complesso"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

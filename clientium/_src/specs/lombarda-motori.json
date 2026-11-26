@@ -1,0 +1,28 @@
+{
+ "slug": "lombarda-motori",
+ "company": "LOMBARDA MOTORI",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lombarda Motori è concessionaria Audi, Volkswagen, Seat e Cupra per la zona di Monza e Brianza, nata dal fondatore Luigi Zannier. Qui trova come lavoriamo e cosa potremmo fare per LOMBARDA MOTORI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LOMBARDA MOTORI.",
+ "evidence": [
+  {
+   "claim": "Lombarda Motori è concessionaria Audi, Volkswagen, Seat e Cupra per la zona di Monza e Brianza, nata dal fondatore Luigi Zannier.",
+   "url": "https://www.lombardamotori.it/chi-siamo/",
+   "quote": "La storia di Lombarda Motori , Concessionaria Audi, Volkswagen, Volkswagen Veicoli Commerciali, Seat e Cupra per la zona di Monza e Brianza , è strettamente collegata alle vicissitudini personali del suo fondatore, il Sig. Luigi Zannier"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

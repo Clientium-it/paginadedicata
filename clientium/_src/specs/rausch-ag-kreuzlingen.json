@@ -1,0 +1,28 @@
+{
+ "slug": "rausch-ag-kreuzlingen",
+ "company": "RAUSCH AG KREUZLINGEN",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rausch dal 1890 lavora erbe selezionate e ne ricava estratti con procedimenti propri, pensati per il benessere. Qui trova come lavoriamo e cosa potremmo fare per RAUSCH AG KREUZLINGEN.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RAUSCH AG KREUZLINGEN.",
+ "evidence": [
+  {
+   "claim": "Rausch dal 1890 lavora erbe selezionate e ne ricava estratti con procedimenti propri, pensati per il benessere.",
+   "url": "https://rausch.ch/de-de",
+   "quote": "Seit 1890 setzen wir auf die Kraft sorgfältig ausgewählter Kräuter. In hauseigenen Verfahren gewinnen wir daraus wertvolle Extrakte – schonend, wirksam und immer mit Blick auf Dein Wohlbefinden. || RAUSCH (DEUTSCHLAND) GMBH Seestrasse 9 78464 Konstanz GERMANY"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

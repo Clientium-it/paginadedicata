@@ -1,0 +1,28 @@
+{
+ "slug": "nupi-industrie-italiane-italy",
+ "company": "NUPI Industrie Italiane S.p.A. Italy",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nupi ha radici in NUPI e GECO System, entrambe fondate più di cinquant'anni fa, e ha sede a Busto Arsizio in provincia di Varese. Qui trova come lavoriamo e cosa potremmo fare per NUPI Industrie Italiane S.p.A. Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per NUPI Industrie Italiane S.p.A. Italy.",
+ "evidence": [
+  {
+   "claim": "Nupi ha radici in NUPI e GECO System, entrambe fondate più di cinquant'anni fa, e ha sede a Busto Arsizio in provincia di Varese.",
+   "url": "https://nupiindustrieitaliane.com/",
+   "quote": "Nupi Industrie Italiane S.p.A. subentra nell’ottobre del 2015 all’ormai nota Nupigeco S.p.A. Nupigeco S.p.A. nasceva il 1° ottobre 2008 dall’unione di NUPI S.p.A. e GECO System S.p.A., entrambe fondate più di 50 anni fa || Busto Arsizio | Italia Indirizzo Via Stefano Ferrario n. 8, Z.I. Sud-Ovest - 21052 Busto Arsizio (VA) Italia Phone: +39.0331.344211"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

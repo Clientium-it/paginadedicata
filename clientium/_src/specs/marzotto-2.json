@@ -1,0 +1,28 @@
+{
+ "slug": "marzotto-2",
+ "company": "Marzotto",
+ "first_name": "Gloria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Marzotto Group dal 1836 produce tessuti stampati, uniti e jacquard per moda, design e arredo in stabilimenti, 8 in Italia e 6 all'estero. Qui trova come lavoriamo e cosa potremmo fare per Marzotto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Marzotto.",
+ "evidence": [
+  {
+   "claim": "Marzotto Group dal 1836 produce tessuti stampati, uniti e jacquard per moda, design e arredo in stabilimenti, 8 in Italia e 6 all'estero.",
+   "url": "https://www.marzottogroup.it/",
+   "quote": "Dal 1836 eccellenza tessile che supera il tempo || stabilimenti, di cui 8 in Italia e 6 all’estero || stampati, uniti e jacquard per moda, design e arredo"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "tosca-2",
+ "company": "Tosca",
+ "first_name": "Salvatore",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tosca gestisce 30 centri di lavaggio e 9 uffici in Nord America e in Europa per bevande latticini carne e ristorazione. Qui trova come lavoriamo e cosa potremmo fare per Tosca.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tosca.",
+ "evidence": [
+  {
+   "claim": "Tosca gestisce 30 centri di lavaggio e 9 uffici in Nord America e in Europa per bevande latticini carne e ristorazione.",
+   "url": "https://toscaltd.it/eu-locations/",
+   "quote": "Tosca gestisce 30 centri di lavaggio e 9 uffici globali in Nord America e in Europa. || Tosca gestisce 30 centri di lavaggio e 9 uffici globali in Nord America e in Europa. || Bevande Prodotti chimici Latticini E-Commerce Uova Carne Pollame Ristorazione"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

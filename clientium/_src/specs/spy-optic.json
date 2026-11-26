@@ -1,0 +1,28 @@
+{
+ "slug": "spy-optic",
+ "company": "Spy Optic",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Spy Optic propone occhiali da sole, maschere, caschi da sci e occhiali da vista, con presenza in Europa e Nord America. Qui trova come lavoriamo e cosa potremmo fare per Spy Optic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Spy Optic.",
+ "evidence": [
+  {
+   "claim": "Spy Optic propone occhiali da sole, maschere, caschi da sci e occhiali da vista, con presenza in Europa e Nord America.",
+   "url": "https://stores.spyoptic.com/it-it",
+   "quote": "Occhiali da Sole Maschere Caschi da Sci Occhiali da Vista || Presenza Spy Optic Canada Stati Uniti Stati Uniti Spagna Israele Italia Finlandia Germania Canada Francia Austria"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

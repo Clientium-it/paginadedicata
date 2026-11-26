@@ -1,0 +1,28 @@
+{
+ "slug": "ibacon",
+ "company": "ibacon GmbH",
+ "first_name": "Sarah",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ibacon segue studi di ecotossicologia acquatica per prodotti fitosanitari, biocidi e medicinali a uso umano e veterinario. Qui trova come lavoriamo e cosa potremmo fare per ibacon GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ibacon GmbH.",
+ "evidence": [
+  {
+   "claim": "Ibacon segue studi di ecotossicologia acquatica per prodotti fitosanitari, biocidi e medicinali a uso umano e veterinario.",
+   "url": "https://www.ibacon.com/",
+   "quote": "Your Product Type Plant Protection Products Biocides Medicinal Products for Human Use Veterinary Medicinal Products REACh GHS / CLP Your Study Type Aquatic Ecotoxicology"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

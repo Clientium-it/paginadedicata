@@ -1,0 +1,28 @@
+{
+ "slug": "colussi-2",
+ "company": "GRUPPO COLUSSI",
+ "first_name": "Cristian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gruppo Colussi sviluppa prodotti da forno, pasta e cioccolato del saper fare italiano, con 10 stabilimenti nel mondo di cui 5 in Italia. Qui trova come lavoriamo e cosa potremmo fare per GRUPPO COLUSSI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GRUPPO COLUSSI.",
+ "evidence": [
+  {
+   "claim": "Gruppo Colussi sviluppa prodotti da forno, pasta e cioccolato del saper fare italiano, con 10 stabilimenti nel mondo di cui 5 in Italia.",
+   "url": "https://www.colussigroup.it/chi-siamo/",
+   "quote": "Il Gruppo Colussi sviluppa e offre prodotti che esprimono il saper fare italiano nei settori dei prodotti da forno, della pasta e del cioccolato. || 10 Stabilimenti produttivi nel mondo di cui 5 in Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

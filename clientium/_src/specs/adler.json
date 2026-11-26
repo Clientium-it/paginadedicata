@@ -1,0 +1,28 @@
+{
+ "slug": "adler",
+ "company": "Adler",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Adler concentra la produzione nella sua sede di Santo Stefano Ticino, in provincia di Milano, su un'area di 14.000 m2. Qui trova come lavoriamo e cosa potremmo fare per Adler.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Adler.",
+ "evidence": [
+  {
+   "claim": "Adler concentra la produzione nella sua sede di Santo Stefano Ticino, in provincia di Milano, su un'area di 14.000 m2.",
+   "url": "https://adlerspa.com/azienda",
+   "quote": "La produzione è concentrata nella sede di S. Stefano Ticino su un'area di 14.000 m2 || ADLER SpA Viale Borletti, 14 20010 Santo Stefano Ticino MILANO – ITALY"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "solmec",
+ "company": "SolMec",
+ "first_name": "Franco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Solmec dal 1960 costruisce a Rovigo macchinari per la movimentazione dei materiali, al servizio di acciaierie, riciclo di rottami, porti e segherie. Qui trova come lavoriamo e cosa potremmo fare per SolMec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SolMec.",
+ "evidence": [
+  {
+   "claim": "Solmec dal 1960 costruisce a Rovigo macchinari per la movimentazione dei materiali, al servizio di acciaierie, riciclo di rottami, porti e segherie.",
+   "url": "https://www.solmec.it/it/content/4-azienda",
+   "quote": "Solmec nasce nel 1960 a Rovigo come azienda specializzata nella produzione di macchinari per la movimentazione dei materiali. || Tutti i nostri macchinari sono progettati e costruiti interamente in Italia, nel nostro stabilimento di Rovigo. || al servizio di acciaierie, recupero e riciclo di rottami ferrosi e non ferrosi, autodemolizioni, porti e segherie"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

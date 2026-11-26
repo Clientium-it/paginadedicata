@@ -1,0 +1,28 @@
+{
+ "slug": "helsinn-healthcare",
+ "company": "Helsinn Healthcare",
+ "first_name": "Kevin",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Helsinn sviluppa e produce farmaci per pazienti oncologici e con malattie croniche, con sede a Lugano e produzione in Irlanda. Qui trova come lavoriamo e cosa potremmo fare per Helsinn Healthcare.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Helsinn Healthcare.",
+ "evidence": [
+  {
+   "claim": "Helsinn sviluppa e produce farmaci per pazienti oncologici e con malattie croniche, con sede a Lugano e produzione in Irlanda.",
+   "url": "https://helsinn.com/",
+   "quote": "we are a global pharmaceutical company that builds, manufactures, launches, and commercializes products to improve the quality of life for patients with cancer and chronic diseases, with a focus on supportive care, oncology and dermato-oncology || Headquartered in Lugano, Switzerland, we have direct commercial operations in the U.S., manufacturing operations in Ireland, offices in China and a network of trusted partners enabling a commercial presence in 90 countries || we leverage our dedicated direct sales force to engage with healthcare professionals, ensuring our products reach the right patients efficiently"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

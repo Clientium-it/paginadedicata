@@ -1,0 +1,28 @@
+{
+ "slug": "euroclone",
+ "company": "Euroclone",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Euroclone fornisce prodotti e soluzioni per biologia molecolare e cellulare, genomica e proteomica a laboratori di ricerca e centri clinici, con sede a Pero. Qui trova come lavoriamo e cosa potremmo fare per Euroclone.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Euroclone.",
+ "evidence": [
+  {
+   "claim": "Euroclone fornisce prodotti e soluzioni per biologia molecolare e cellulare, genomica e proteomica a laboratori di ricerca e centri clinici, con sede a Pero.",
+   "url": "https://www.euroclonegroup.it/page/about_us",
+   "quote": "Offering innovative products, services, and solutions in Molecular and Cell Biology, Genomics, Proteomics, Cytogenetics, and Agro-Food Diagnostics || Headquarters in Pero - Milan || a primary supplier for numerous research laboratories, medical, clinical, and industrial centers"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

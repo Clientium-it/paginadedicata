@@ -1,0 +1,28 @@
+{
+ "slug": "supersonic-imagine",
+ "company": "SuperSonic Imagine",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SuperSonic Imagine sviluppa dal 2005 tecnologie di ecografia diagnostica con team in Francia e Germania. Qui trova come lavoriamo e cosa potremmo fare per SuperSonic Imagine.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SuperSonic Imagine.",
+ "evidence": [
+  {
+   "claim": "SuperSonic Imagine sviluppa dal 2005 tecnologie di ecografia diagnostica con team in Francia e Germania.",
+   "url": "https://www.supersonicimagine.com/about/why-supersonicimagine/",
+   "quote": "Founded in 2005 and based in Aix-en-Provence (France), SuperSonic Imagine is the world leader in diagnostic medical ultrasound technology. || Our teams in France and Germany provide tailored service and support to our customers and partners. || across a spectrum of medical specialties including radiology, hepatology, sports medicine, urology, pediatrics, vascular, obstetrics, gynecology, cardiac, and research applications"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "schindler-italia",
+ "company": "Schindler Italia",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Schindler realizza ascensori per contesti residenziali e grattacieli e soluzioni dedicate a ospedali, cliniche e strutture sanitarie. Qui trova come lavoriamo e cosa potremmo fare per Schindler Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Schindler Italia.",
+ "evidence": [
+  {
+   "claim": "Schindler realizza ascensori per contesti residenziali e grattacieli e soluzioni dedicate a ospedali, cliniche e strutture sanitarie.",
+   "url": "https://www.schindler.it/it.html",
+   "quote": "Dai piccoli contesti residenziali ai grattacieli più moderni, gli ascensori Schindler garantiscono una mobilità verticale affidabile, continua ed energeticamente efficiente. || Una gamma completa pensata per ospedali, cliniche e strutture sanitarie per il trasporto di letti, personale medico, pazienti e apparecchiature delicate."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

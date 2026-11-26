@@ -1,0 +1,28 @@
+{
+ "slug": "coim-3",
+ "company": "COIM",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "COIM sviluppa e produce dal 1962 esteri, poliuretani e altre specialità chimiche. Qui trova come lavoriamo e cosa potremmo fare per COIM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per COIM.",
+ "evidence": [
+  {
+   "claim": "COIM sviluppa e produce dal 1962 esteri, poliuretani e altre specialità chimiche.",
+   "url": "https://www.us.coimgroup.com/",
+   "quote": "has been developing and manufacturing polycondensation (esters), polyaddition (polyurethanes) products and other chemical specialties since 1962 || With twenty locations across nine different countries, COIM aims to combine local presence and a global approach throughout the world."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

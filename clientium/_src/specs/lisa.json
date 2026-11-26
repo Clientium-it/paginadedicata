@@ -1,0 +1,28 @@
+{
+ "slug": "lisa",
+ "company": "Lisa",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lisa produce tessuti stampati dal 1970 e fornisce la materia prima per le collezioni dei grandi marchi, con sedi in Italia, Germania e Cina. Qui trova come lavoriamo e cosa potremmo fare per Lisa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lisa.",
+ "evidence": [
+  {
+   "claim": "Lisa produce tessuti stampati dal 1970 e fornisce la materia prima per le collezioni dei grandi marchi, con sedi in Italia, Germania e Cina.",
+   "url": "https://www.lisaspa.it/chi-siamo/",
+   "quote": "Lisa è leader nella produzione di tessuti stampati, con oltre 400 dipendenti e sedi in Italia, Germania e Cina . Abbiamo iniziato nel 1970 con una piccola produzione per il settore tessile || sedi in Italia, Germania e Cina || Da oltre 50 anni forniamo la materia prima per le collezioni dei brand più importanti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

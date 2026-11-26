@@ -1,0 +1,28 @@
+{
+ "slug": "bystronic-italia",
+ "company": "Bystronic Italia",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bystronic produce tecnologie per la lavorazione della lamiera come taglio laser, presse piegatrici e automazione con stabilimenti in Germania, Spagna, Italia, Cina e Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per Bystronic Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bystronic Italia.",
+ "evidence": [
+  {
+   "claim": "Bystronic produce tecnologie per la lavorazione della lamiera come taglio laser, presse piegatrici e automazione con stabilimenti in Germania, Spagna, Italia, Cina e Stati Uniti.",
+   "url": "https://www.bystronic.com/deu/en/company/profile",
+   "quote": "As a leading provider of solutions for sheet metal and material processing, the company combines laser cutting technology, press brakes, automation, and software with innovative laser applications for new materials and processes. || Bystronic headquarters are located in Switzerland, with development and production facilities in Germany, Spain, Italy, China and the USA. || Agricultural Machinery Automotive Industry Building & Construction Elevator Industry Mechanical Engineering"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

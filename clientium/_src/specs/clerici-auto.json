@@ -1,0 +1,28 @@
+{
+ "slug": "clerici-auto",
+ "company": "Clerici Auto",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Clerici Auto gestisce 8 concessionarie multimarca e 11 officine specializzate tra le province di Como e Varese e il comune di Milano. Qui trova come lavoriamo e cosa potremmo fare per Clerici Auto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Clerici Auto.",
+ "evidence": [
+  {
+   "claim": "Clerici Auto gestisce 8 concessionarie multimarca e 11 officine specializzate tra le province di Como e Varese e il comune di Milano.",
+   "url": "https://www.clericiauto.it/chi-siamo/",
+   "quote": "16 sedi sparse sul territorio un parco usato con oltre 500 vetture 16 marchi trattati 11 officine specializzate || 8 concessionarie multimarca e 11 officine specializzate distribuite nelle provincie di Como e Varese e nel comune di Milano"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

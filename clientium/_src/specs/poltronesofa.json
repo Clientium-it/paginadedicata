@@ -1,0 +1,28 @@
+{
+ "slug": "poltronesofa",
+ "company": "poltronesofà",
+ "first_name": "Romina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Poltronesofà offre oltre 90 modelli e più di 200 varianti di tessuti con punti vendita in Italia, Francia e altri paesi. Qui trova come lavoriamo e cosa potremmo fare per poltronesofà.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per poltronesofà.",
+ "evidence": [
+  {
+   "claim": "Poltronesofà offre oltre 90 modelli e più di 200 varianti di tessuti con punti vendita in Italia, Francia e altri paesi.",
+   "url": "https://www.poltronesofa.com/it-IT?locale=it-IT",
+   "quote": "SOLO DA NOI TROVI OLTRE 90 MODELLI E INFINITE COMPOSIZIONI TRA CUI SCEGLIERE. TI OFFRIAMO OLTRE 200 VARIANTI DI TESSUTI E SOLO RIVESTIMENTI IN VERA PELLE. || ITALIA 162 FRANCIA 129 BELGIO 10 SVIZZERA 10 CIPRO 2 MALTA 1 GRECIA 1"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

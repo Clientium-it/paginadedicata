@@ -1,0 +1,28 @@
+{
+ "slug": "hpsc",
+ "company": "HPSC",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "HPSC progetta soluzioni su misura per settori altamente specializzati come l'aerospaziale e il militare a Busto Arsizio. Qui trova come lavoriamo e cosa potremmo fare per HPSC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per HPSC.",
+ "evidence": [
+  {
+   "claim": "HPSC progetta soluzioni su misura per settori altamente specializzati come l'aerospaziale e il militare a Busto Arsizio.",
+   "url": "https://www.hpsc.it/",
+   "quote": "We design custom solutions for highly specialized sectors such as aerospace and military || Viale dell'industria, 40 21052 Busto Arsizio (VA) || highly specialized sectors such as aerospace and military"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

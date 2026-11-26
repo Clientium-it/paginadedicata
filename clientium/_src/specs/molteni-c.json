@@ -1,0 +1,28 @@
+{
+ "slug": "molteni-c",
+ "company": "Molteni & C",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Molteni propone collezioni di design e soluzioni su misura per tutta la casa, presenti in ville private, hotel e navi da crociera. Qui trova come lavoriamo e cosa potremmo fare per Molteni & C.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Molteni & C.",
+ "evidence": [
+  {
+   "claim": "Molteni propone collezioni di design e soluzioni su misura per tutta la casa, presenti in ville private, hotel e navi da crociera.",
+   "url": "https://www.molteni.it/de/deat",
+   "quote": "Die Kollektionen von Molteni&C bieten Design-Inspiration und individuell anpassbare Lösungen für das gesamte Zuhause. || Molteni&C entfaltet seine Vielfalt rund um den Globus und begeistert mit über 130 Flagship-Stores auf sechs Kontinenten. || Private Villen. Renommierte Hotels. Luxuskreuzfahrtschiffe. Kulturelle Einrichtungen. Wohnhochhäuser, die die Skyline ihrer Städte prägen."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

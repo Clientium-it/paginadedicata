@@ -1,0 +1,28 @@
+{
+ "slug": "cordstrap",
+ "company": "Cordstrap",
+ "first_name": "Piergiorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cordstrap da oltre 55 anni rende più sicuro il trasporto delle merci in oltre 50 paesi, per settori come acciaio, chimica, logistica e alimentare. Qui trova come lavoriamo e cosa potremmo fare per Cordstrap.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cordstrap.",
+ "evidence": [
+  {
+   "claim": "Cordstrap da oltre 55 anni rende più sicuro il trasporto delle merci in oltre 50 paesi, per settori come acciaio, chimica, logistica e alimentare.",
+   "url": "https://cordstrap.com/en/About/",
+   "quote": "for over 55 years, we have been dedicated to making the movement of goods safer. || Specialists in over 50 countries || Steel and Metal Other Industries Construction Ports Machinery and Equipment Chemical Logistics Food and Beverage Military Applications"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

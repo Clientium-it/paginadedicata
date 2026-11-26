@@ -1,0 +1,28 @@
+{
+ "slug": "teknoice-2",
+ "company": "Teknoice",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Teknoice costruisce dal 1992 macchine made in Italy per l'industria del gelato, dagli artigiani ai grandi produttori, con sede a Buccinasco. Qui trova come lavoriamo e cosa potremmo fare per Teknoice.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Teknoice.",
+ "evidence": [
+  {
+   "claim": "Teknoice costruisce dal 1992 macchine made in Italy per l'industria del gelato, dagli artigiani ai grandi produttori, con sede a Buccinasco.",
+   "url": "https://www.teknoice.com/",
+   "quote": "Machines that are 100% Made in Italy , for the ice cream industry since 1992! || Via Lazio, 37 – 20090 Buccinasco (Milano) Italy || Teknoice has a solution for everyone, from artisan makers to large producers."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

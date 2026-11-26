@@ -1,0 +1,28 @@
+{
+ "slug": "ninicar",
+ "company": "NiniCar",
+ "first_name": "Michael",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "NiniCar dal 1990 è concessionaria Renault, Dacia e Nissan nelle province di Cremona, Lodi e Milano. Qui trova come lavoriamo e cosa potremmo fare per NiniCar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per NiniCar.",
+ "evidence": [
+  {
+   "claim": "NiniCar dal 1990 è concessionaria Renault, Dacia e Nissan nelle province di Cremona, Lodi e Milano.",
+   "url": "https://www.ninicar.it/chi-siamo/",
+   "quote": "Non operiamo solo in qualità di concessionaria Renault, Dacia e Nissan nella provincia di Cremona, Lodi e Milano || Dal 1990 al tuo servizio: Nini Car a Vaiano Cremasco (Cr), Pieve Fissiraga (Lo) , San Martino in Strada (Lo), Buccinasco (Mi), San Giuliano Milanese (Mi) e Peschiera Borromeo (Mi)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

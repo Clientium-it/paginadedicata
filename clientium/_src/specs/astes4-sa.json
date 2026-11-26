@@ -1,0 +1,28 @@
+{
+ "slug": "astes4-sa",
+ "company": "ASTES4 SA",
+ "first_name": "Gerhard",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Astes4 dal 2013 progetta soluzioni per lo smistamento automatico dei pezzi, con hardware e software sviluppati internamente. Qui trova come lavoriamo e cosa potremmo fare per ASTES4 SA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ASTES4 SA.",
+ "evidence": [
+  {
+   "claim": "Astes4 dal 2013 progetta soluzioni per lo smistamento automatico dei pezzi, con hardware e software sviluppati internamente.",
+   "url": "https://www.astes4.ch/",
+   "quote": "ASTES4, founded in 2013, specializes in intelligent solutions for automatic parts sorting, with in-house hardware and software design and production."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

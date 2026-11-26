@@ -1,0 +1,28 @@
+{
+ "slug": "coet-costruzioni-elettrotecniche",
+ "company": "COET costruzioni elettrotecniche",
+ "first_name": "Adriano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Coet dal 1962 progetta e produce apparecchiature elettromeccaniche per applicazioni industriali in media e bassa tensione, installate in impianti in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per COET costruzioni elettrotecniche.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per COET costruzioni elettrotecniche.",
+ "evidence": [
+  {
+   "claim": "Coet dal 1962 progetta e produce apparecchiature elettromeccaniche per applicazioni industriali in media e bassa tensione, installate in impianti in tutto il mondo.",
+   "url": "https://www.coet.it/company/",
+   "quote": "Since 1962 Coet designs and manufactures electromechanical apparatus for medium and low voltage industrial applications. || is located in San Donato Milanese, nowadays part of Milano, 10km from the city centre || installed worldwide in thousands of Industrial and Power plants"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

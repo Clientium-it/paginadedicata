@@ -1,0 +1,28 @@
+{
+ "slug": "soler-palau",
+ "company": "Soler & Palau",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Soler & Palau propone soluzioni di ventilazione per la casa, l'industria e i progetti professionali. Qui trova come lavoriamo e cosa potremmo fare per Soler & Palau.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Soler & Palau.",
+ "evidence": [
+  {
+   "claim": "Soler & Palau propone soluzioni di ventilazione per la casa, l'industria e i progetti professionali.",
+   "url": "https://www.solerpalau.com/en-en/products",
+   "quote": "Explore our wide range of products designed to improve ventilation and comfort in any space. Find efficient solutions for home, industry, and professional projects. || Find efficient solutions for home, industry, and professional projects."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

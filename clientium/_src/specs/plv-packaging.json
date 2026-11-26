@@ -1,0 +1,28 @@
+{
+ "slug": "plv-packaging",
+ "company": "PLV Packaging",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Autajon progetta e stampa imballaggi su misura come astucci pieghevoli, cofanetti rigidi ed etichette, con 42 siti di produzione nel mondo. Qui trova come lavoriamo e cosa potremmo fare per PLV Packaging.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PLV Packaging.",
+ "evidence": [
+  {
+   "claim": "Autajon progetta e stampa imballaggi su misura come astucci pieghevoli, cofanetti rigidi ed etichette, con 42 siti di produzione nel mondo.",
+   "url": "https://www.autajon.com/it/chi-siamo/",
+   "quote": "Autajon è un gruppo familiare e internazionale specializzato nella progettazione e nella stampa di soluzioni di imballaggio su misura come astucci pieghevoli, cofanetti rigidi ed etichette. || Con 42 siti di produzione in tutto il mondo, Autajon mette il proprio know-how al servizio dei marchi più prestigiosi, combinando creatività, qualità e innovazione responsabile. || Profumi e Cosmetica Salute e Farmaceutica Vini e spirits Alimenti e Bevande Industrie e Chimica Lusso"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

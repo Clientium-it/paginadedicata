@@ -1,0 +1,28 @@
+{
+ "slug": "matrix-polymers",
+ "company": "Matrix Polymers",
+ "first_name": "M",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Matrix Polymers fornisce materiali e accessori ai clienti che producono articoli stampati in rotazionale dai suoi stabilimenti nel Regno Unito, Europa orientale, Oceania e Asia. Qui trova come lavoriamo e cosa potremmo fare per Matrix Polymers.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Matrix Polymers.",
+ "evidence": [
+  {
+   "claim": "Matrix Polymers fornisce materiali e accessori ai clienti che producono articoli stampati in rotazionale dai suoi stabilimenti nel Regno Unito, Europa orientale, Oceania e Asia.",
+   "url": "https://www.matrixpolymers.com/about-us/",
+   "quote": "Six manufacturing facilities located in the UK, Eastern Europe, Oceania, and Asia from which materials and ancillary items are supplied to customers involved in the manufacture of rotationally moulded products."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

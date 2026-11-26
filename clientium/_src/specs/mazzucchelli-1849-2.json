@@ -1,0 +1,28 @@
+{
+ "slug": "mazzucchelli-1849-2",
+ "company": "Mazzucchelli 1849",
+ "first_name": "Cristina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mazzucchelli1849 sviluppa uno strumento digitale di ricerca dedicato all'evoluzione estetica di colori e trame per il mercato dell'occhialeria a Castiglione Olona. Qui trova come lavoriamo e cosa potremmo fare per Mazzucchelli 1849.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mazzucchelli 1849.",
+ "evidence": [
+  {
+   "claim": "Mazzucchelli1849 sviluppa uno strumento digitale di ricerca dedicato all'evoluzione estetica di colori e trame per il mercato dell'occhialeria a Castiglione Olona.",
+   "url": "https://www.mazzucchelli1849.it/products/trendbook-eyewear-trends-27",
+   "quote": "is a digital research tool dedicated to aesthetic evolution of colors and patterns for the eyewear market developed for designers and industry professionals || via S. e P. Mazzucchelli 7, 21043 Castiglione Olona, VA, Italia T +39 0331 826111 F +39 0331 826213 E info@mazzucchelli1849.it || developed for designers and industry professionals"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

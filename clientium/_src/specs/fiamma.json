@@ -1,0 +1,28 @@
+{
+ "slug": "fiamma",
+ "company": "Fiamma",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fiamma progetta i suoi prodotti e li distribuisce a livello mondiale dalla sede di Cardano al Campo, con otto stabilimenti di produzione. Qui trova come lavoriamo e cosa potremmo fare per Fiamma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fiamma.",
+ "evidence": [
+  {
+   "claim": "Fiamma progetta i suoi prodotti e li distribuisce a livello mondiale dalla sede di Cardano al Campo, con otto stabilimenti di produzione.",
+   "url": "https://www.fiamma.it/chi-e-fiamma/",
+   "quote": "La sede centrale di Cardano al Campo si occupa della progettazione dei prodotti e della distribuzione a livello mondiale. || Inoltre, ci sono otto stabilimenti di produzione dove vengono costantemente implementati miglioramenti dei prodotti, innovazioni tecnologiche e nuovi processi produttivi."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

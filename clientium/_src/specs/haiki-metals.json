@@ -1,0 +1,28 @@
+{
+ "slug": "haiki-metals",
+ "company": "Haiki metals",
+ "first_name": "Daniela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Haiki Metals opera con i suoi impianti a Paderno Dugnano e a Marcianise. Qui trova come lavoriamo e cosa potremmo fare per Haiki metals.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Haiki metals.",
+ "evidence": [
+  {
+   "claim": "Haiki Metals opera con i suoi impianti a Paderno Dugnano e a Marcianise.",
+   "url": "https://www.haikiplus.it/sedi",
+   "quote": "Impianto di Paderno Dugnano Haiki Metals Via Cesare Beccaria, 20037 Paderno Dugnano MI Telefono: 02910031 Impianto di Marcianise Haiki Metals Via Casapuzzano, Marcianise, CE 81025 || Impianto di Paderno Dugnano Haiki Metals Via Cesare Beccaria, 20037 Paderno Dugnano MI"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

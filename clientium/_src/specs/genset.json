@@ -1,0 +1,28 @@
+{
+ "slug": "genset",
+ "company": "GenSet",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "GenSet dal 1974 produce gruppi elettrogeni, motosaldatrici e torri faro per l'edile, l'industria, il nautico e l'agricolo, presente in oltre 60 paesi. Qui trova come lavoriamo e cosa potremmo fare per GenSet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GenSet.",
+ "evidence": [
+  {
+   "claim": "GenSet dal 1974 produce gruppi elettrogeni, motosaldatrici e torri faro per l'edile, l'industria, il nautico e l'agricolo, presente in oltre 60 paesi.",
+   "url": "https://www.genset.it/chi-siamo/",
+   "quote": "Dal 1974 siamo leader nella produzione di gruppi elettrogeni, motosaldatrici e torri faro. || Attraverso la nostra rete vendita, siamo presenti in oltre 60 paesi nel mondo, con una copertura globale del servizio di assistenza. || Dal 1974 progettiamo soluzioni all’avanguardia e su misura per i settori: edile, industriale, nautico, minerario, distributivo, agricolo e domestico ."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

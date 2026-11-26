@@ -1,0 +1,28 @@
+{
+ "slug": "dropsa",
+ "company": "DropsA",
+ "first_name": "Silvia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "DropsA progetta e produce sistemi di lubrificazione centralizzata per settori come energia, navale, macchine utensili e alimentare con sede vicino a Milano. Qui trova come lavoriamo e cosa potremmo fare per DropsA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per DropsA.",
+ "evidence": [
+  {
+   "claim": "DropsA progetta e produce sistemi di lubrificazione centralizzata per settori come energia, navale, macchine utensili e alimentare con sede vicino a Milano.",
+   "url": "https://www.dropsa.com/en",
+   "quote": "DropsA designs and manufactures centralized lubrication systems with high-technological innovation, which are guaranteed by efficient pre- and after-sale service throughout the world. || Registered Office: Via Besana 5, 20122 Milan - Italy Operational Headquarters: Via Benedetto Croce 1, 20055 Vimodrone (MI) - Italy || Energy and Utilities Marine & Offshore Machine tools and metal forming Food and beverage"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

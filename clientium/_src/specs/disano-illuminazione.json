@@ -1,0 +1,28 @@
+{
+ "slug": "disano-illuminazione",
+ "company": "Disano Illuminazione",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Disano Illuminazione, fondata nel 1957, produce armature stagne e apparecchi per l'illuminazione stradale e ha sedi in Spagna e in Francia. Qui trova come lavoriamo e cosa potremmo fare per Disano Illuminazione.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Disano Illuminazione.",
+ "evidence": [
+  {
+   "claim": "Disano Illuminazione, fondata nel 1957, produce armature stagne e apparecchi per l'illuminazione stradale e ha sedi in Spagna e in Francia.",
+   "url": "https://www.disano.it/it/about/",
+   "quote": "Disano illuminazione, fondata nel 1957, si sviluppa rapidamente, affermandosi con alcuni prodotti che diventano leader nel mercato internazionale, come le armature stagne e gli apparecchi per l’illuminazione stradale. || Negli anni Novanta nascono Iluminación Disano, con sede a Tarragona in Spagna, e Disano France, con sede in Alta Savoia. || comprende architetti, studi di progettazione, progettisti di illuminazione, installatori e distributori"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

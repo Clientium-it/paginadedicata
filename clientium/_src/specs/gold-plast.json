@@ -1,0 +1,28 @@
+{
+ "slug": "gold-plast",
+ "company": "Gold Plast",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gold Plast progetta, produce e distribuisce stoviglie, bicchieri e accessori da tavola professionali per ristoranti, hotel e catering in 39 Paesi con 100 agenti. Qui trova come lavoriamo e cosa potremmo fare per Gold Plast.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gold Plast.",
+ "evidence": [
+  {
+   "claim": "Gold Plast progetta, produce e distribuisce stoviglie, bicchieri e accessori da tavola professionali per ristoranti, hotel e catering in 39 Paesi con 100 agenti.",
+   "url": "https://www.goldplast.com/about-goldplast/who-we-are.html",
+   "quote": "has been designing, manufacturing and distributing professional tableware, drinking glasses, stemware and table accessories for the Ho.Re.Ca. and hospitality industries || GOLDPLAST operates in 39 countries , with a network of 100 sales agents and 17 distributors. || each product line is developed to meet the needs of restaurants, catering companies, hotels, bars and event organisers."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

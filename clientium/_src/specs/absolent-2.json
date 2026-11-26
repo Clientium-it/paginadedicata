@@ -1,0 +1,28 @@
+{
+ "slug": "absolent-2",
+ "company": "Absolent",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Absolent fornisce filtri per fumi e nebbie oleose e polveri da Lidköping in Svezia con filiali negli Stati Uniti, Germania, Francia e Cina. Qui trova come lavoriamo e cosa potremmo fare per Absolent.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Absolent.",
+ "evidence": [
+  {
+   "claim": "Absolent fornisce filtri per fumi e nebbie oleose e polveri da Lidköping in Svezia con filiali negli Stati Uniti, Germania, Francia e Cina.",
+   "url": "https://absolent.com/about-us/",
+   "quote": "Absolent AB has established itself as a prominent and highly competent supplier of oil smoke, oil mist and dust filters. || The company is located in Lidköping, Sweden and has subsidiaries in the US, Germany, France and China. || They include leading manufacturers like Alcoa, Bosch, Volkswagen, Volvo as well as many smaller companies as well."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

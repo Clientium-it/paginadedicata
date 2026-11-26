@@ -1,0 +1,28 @@
+{
+ "slug": "gf-agiecharmilles",
+ "company": "GF AgieCharmilles",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "AgieCharmilles sviluppa dal 1954 tecnologie di elettroerosione dalla sua sede di Losone in Svizzera. Qui trova come lavoriamo e cosa potremmo fare per GF AgieCharmilles.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GF AgieCharmilles.",
+ "evidence": [
+  {
+   "claim": "AgieCharmilles sviluppa dal 1954 tecnologie di elettroerosione dalla sua sede di Losone in Svizzera.",
+   "url": "https://www.agiecharmilles.com:443/",
+   "quote": "Since 1954, AGIE CHARMILLES has pioneered the evolution of Electrical Discharge Machining. || AGIE CHARMILLES Via Zandone 1 6616 Losone Switzerland"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

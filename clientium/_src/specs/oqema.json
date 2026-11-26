@@ -1,0 +1,28 @@
+{
+ "slug": "oqema",
+ "company": "OQEMA Group",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OQEMA distribuisce oltre 15.000 prodotti chimici per industrie di tutto il mondo, partita da Mönchengladbach come piccola realtà chimica. Qui trova come lavoriamo e cosa potremmo fare per OQEMA Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OQEMA Group.",
+ "evidence": [
+  {
+   "claim": "OQEMA distribuisce oltre 15.000 prodotti chimici per industrie di tutto il mondo, partita da Mönchengladbach come piccola realtà chimica.",
+   "url": "https://oqema.com/group/en/about-us",
+   "quote": "Dive into our expansive portfolio of 15,000+ chemicals designed to meet the needs of industries around the world. || From humble beginnings as a small chemical manufacturer in Mönchengladbach to becoming one of the top chemical distributors"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "lumson-3",
+ "company": "LUMSON",
+ "first_name": "Marcello",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lumson produce packaging primario per skincare, trucco, capelli e profumi e cresce all'estero con acquisizioni negli Stati Uniti e in Asia. Qui trova come lavoriamo e cosa potremmo fare per LUMSON.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LUMSON.",
+ "evidence": [
+  {
+   "claim": "Lumson produce packaging primario per skincare, trucco, capelli e profumi e cresce all'estero con acquisizioni negli Stati Uniti e in Asia.",
+   "url": "https://lumson.com/en/",
+   "quote": "Leader in primary packaging for skincare, make-up, haircare and fragrance || Lumson Group accelerates its international growth with two acquisitions in the United States and Asia, strengthening its presence across three continents"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

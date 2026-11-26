@@ -1,0 +1,28 @@
+{
+ "slug": "cfs",
+ "company": "CFS",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CFS dal 1998 progetta e realizza attrezzature e arredi ospedalieri per strutture pubbliche e private, RSA, case di cura e comunità. Qui trova come lavoriamo e cosa potremmo fare per CFS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CFS.",
+ "evidence": [
+  {
+   "claim": "CFS dal 1998 progetta e realizza attrezzature e arredi ospedalieri per strutture pubbliche e private, RSA, case di cura e comunità.",
+   "url": "https://www.cfsitalia.com/azienda/",
+   "quote": "Nata nel 1998 dall’esperienza trentennale del nostro fondatore Luca Bianchini, la nostra azienda si è posta fin da subito l’obiettivo di progettare e realizzare attrezzature e arredi ospedalieri che agevolassero gli interventi e rendessero la degenza più confortevole. || CFS ITALIA SRL Via Aquileia 8 Olmi di S. Biagio di Callalta 31048 - TV P.IVA 05096510267 || affiancando strutture pubbliche e private, RSA, case di cura e comunità nella creazione di spazi accoglienti e funzionali"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

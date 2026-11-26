@@ -1,0 +1,28 @@
+{
+ "slug": "lanificio-f-lli-cerruti-dal-1881",
+ "company": "Lanificio f.lli Cerruti dal 1881",
+ "first_name": "Rejno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Il Lanificio Cerruti nasce a Biella nel 1881 e da oltre un secolo produce soprattutto per il mercato estero, da Tokyo a Hong Kong. Qui trova come lavoriamo e cosa potremmo fare per Lanificio f.lli Cerruti dal 1881.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lanificio f.lli Cerruti dal 1881.",
+ "evidence": [
+  {
+   "claim": "Il Lanificio Cerruti nasce a Biella nel 1881 e da oltre un secolo produce soprattutto per il mercato estero, da Tokyo a Hong Kong.",
+   "url": "https://www.lanificiocerruti.com/",
+   "quote": "The Lanificio Cerruti represent an adventure in Biella, began in 1881 but that has its origins in 1770 and that has gone through 250 years of innovation || For over a century, most of the production has been destined for the foreign market. From Biella to Tokyo and Hong Kong"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

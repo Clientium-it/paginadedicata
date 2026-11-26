@@ -1,0 +1,28 @@
+{
+ "slug": "itap-3",
+ "company": "Itap",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Itap, nata a Lumezzane nel 1972, produce valvole, raccordi e collettori di distribuzione per sistemi sanitari e di riscaldamento, con stabilimenti in Italia. Qui trova come lavoriamo e cosa potremmo fare per Itap.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Itap.",
+ "evidence": [
+  {
+   "claim": "Itap, nata a Lumezzane nel 1972, produce valvole, raccordi e collettori di distribuzione per sistemi sanitari e di riscaldamento, con stabilimenti in Italia.",
+   "url": "https://www.itap.it/azienda/",
+   "quote": "Itap SpA, costituita a Lumezzane (Brescia) nel 1972, è attualmente una delle aziende leader di settore nella produzione di valvole, raccordi e collettori di distribuzione per sistemi sanitari e di riscaldamento || 4 Processo produttivo Stabilimenti in Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}
