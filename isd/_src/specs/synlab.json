@@ -1,0 +1,22 @@
+{
+ "slug": "synlab",
+ "company": "Synlab",
+ "full_name": "Massimiliano Cirimbelli",
+ "first": "Massimiliano",
+ "cover_note": "Synlab è presente in diverse regioni italiane con oltre 380 Centri tra Punti Prelievo Laboratori e Medical Center.",
+ "evidence": [
+  {
+   "claim": "Synlab è presente in diverse regioni italiane con oltre 380 Centri tra Punti Prelievo Laboratori e Medical Center.",
+   "url": "https://synlab.it/chi-siamo.html",
+   "quote": "SYNLAB è presente nelle seguenti regioni: Lombardia Veneto Friuli Venezia Giulia Emilia Romagna Lazio Liguria Campania Toscana"
+  },
+  {
+   "claim": "Synlab è presente in diverse regioni italiane con oltre 380 Centri tra Punti Prelievo Laboratori e Medical Center.",
+   "url": "https://synlab.it/chi-siamo.html",
+   "quote": "Le Piattaforme Regionali del Gruppo comprendono oltre 380 Centri tra Punti Prelievo, Laboratori e Medical Center"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/synlab/logo.svg"
+}

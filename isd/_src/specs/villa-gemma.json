@@ -1,0 +1,22 @@
+{
+ "slug": "villa-gemma",
+ "company": "Villa Gemma",
+ "full_name": "Alessandro Chizzolini",
+ "first": "Alessandro",
+ "cover_note": "Villa Gemma gestisce, insieme a Villa Barbarano, due strutture di riabilitazione con degenza e ambulatoriale, per un totale di 173 posti letto.",
+ "evidence": [
+  {
+   "claim": "Villa Gemma gestisce, insieme a Villa Barbarano, due strutture di riabilitazione con degenza e ambulatoriale, per un totale di 173 posti letto.",
+   "url": "https://www.villagemma.it/chi-siamo/",
+   "quote": "Le cliniche Villa Gemma e Villa Barbarano sono strutture sanitarie leader nel campo della riabilitazione ed erogano prestazioni sia in regime di degenza che di specialistica ambulatoriale"
+  },
+  {
+   "claim": "Villa Gemma gestisce, insieme a Villa Barbarano, due strutture di riabilitazione con degenza e ambulatoriale, per un totale di 173 posti letto.",
+   "url": "https://www.villagemma.it/chi-siamo/",
+   "quote": "Le cliniche dispongono di 173 posti letto suddivisi tra le due strutture."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/villa-gemma/logo.png"
+}

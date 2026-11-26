@@ -1,0 +1,22 @@
+{
+ "slug": "mvn",
+ "company": "MVN",
+ "full_name": "Massimiliano Sguera",
+ "first": "Massimiliano",
+ "cover_note": "MVN è un operatore logistico 5PL con sedi ad Agrate Brianza Alessandria San Michele Bari Castellazzo Bormida Cavriglia e Chiari.",
+ "evidence": [
+  {
+   "claim": "MVN è un operatore logistico 5PL con sedi ad Agrate Brianza Alessandria San Michele Bari Castellazzo Bormida Cavriglia e Chiari.",
+   "url": "https://mvnlog.com/chi-siamo/",
+   "quote": "MVN è una realtà che vanta grande esperienza ed affidabilità nel panorama della logistica posizionandosi come operatore 5PL"
+  },
+  {
+   "claim": "MVN è un operatore logistico 5PL con sedi ad Agrate Brianza Alessandria San Michele Bari Castellazzo Bormida Cavriglia e Chiari.",
+   "url": "https://mvnlog.com/chi-siamo/",
+   "quote": "Le nostre sedi Agrate Brianza (MB) Alessandria (AL) San Michele (AL) Bari (BA) Buttrio (Service) Castellazzo Bormida (AL) Cavriglia (AR) Chiari (BS)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/mvn/logo.png"
+}

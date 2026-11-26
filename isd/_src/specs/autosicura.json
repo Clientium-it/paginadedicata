@@ -1,0 +1,22 @@
+{
+ "slug": "autosicura",
+ "company": "Autosicura",
+ "full_name": "Lucio Peluso",
+ "first": "Lucio",
+ "cover_note": "Autosicura, nata nel 2014, conta oggi 21 carrozzerie di proprietà con una presenza capillare tra Milano, Alessandria, Genova, Monza Brianza, Bergamo, Varese e Torino.",
+ "evidence": [
+  {
+   "claim": "Autosicura, nata nel 2014, conta oggi 21 carrozzerie di proprietà con una presenza capillare tra Milano, Alessandria, Genova, Monza Brianza, Bergamo, Varese e Torino.",
+   "url": "https://www.autosicura.it/sedi-2/",
+   "quote": "Vantiamo una presenza costante e capillare nelle aree di Milano, Alessandria, Genova, Monza-Brianza, Bergamo, Varese e Torino."
+  },
+  {
+   "claim": "Autosicura, nata nel 2014, conta oggi 21 carrozzerie di proprietà con una presenza capillare tra Milano, Alessandria, Genova, Monza Brianza, Bergamo, Varese e Torino.",
+   "url": "https://www.autosicura.it/chi-siamo/",
+   "quote": "Nata nel 2014, la rete vanta oggi 21 carrozzerie di proprietà ."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/autosicura/logo.svg"
+}

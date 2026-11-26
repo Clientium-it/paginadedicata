@@ -1,0 +1,22 @@
+{
+ "slug": "denicar",
+ "company": "Denicar",
+ "full_name": "Marco Caputo",
+ "first": "Marco",
+ "cover_note": "Denicar opera a Milano, Bergamo e Trezzano sul Naviglio con due officine, una carrozzeria e un magazzino ricambi con vendita al dettaglio.",
+ "evidence": [
+  {
+   "claim": "Denicar opera a Milano, Bergamo e Trezzano sul Naviglio con due officine, una carrozzeria e un magazzino ricambi con vendita al dettaglio.",
+   "url": "https://www.denicar.it/chi-siamo/",
+   "quote": "All’interno delle nostre strutture potrai infatti trovare: due Officine per la meccanica, rispettivamente a Bergamo e Trezzano S/N, la Carrozzeria , il Magazzino Ricambi con vendita al dettaglio"
+  },
+  {
+   "claim": "Denicar opera a Milano, Bergamo e Trezzano sul Naviglio con due officine, una carrozzeria e un magazzino ricambi con vendita al dettaglio.",
+   "url": "https://www.denicar.it/chi-siamo/",
+   "quote": "ed opera nelle città di Milano, Bergamo e Trezzano sul Naviglio (MI)."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/denicar/logo.png"
+}

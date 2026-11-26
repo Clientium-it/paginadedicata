@@ -1,0 +1,22 @@
+{
+ "slug": "irst",
+ "company": "IRST",
+ "full_name": "Federica Campacci",
+ "first": "Federica",
+ "cover_note": "IRST è attiva dal 2007 a Meldola e presente con un network oncologico integrato a Cesena, Forlì e Ravenna per diagnosi, cure e ricerca.",
+ "evidence": [
+  {
+   "claim": "IRST è attiva dal 2007 a Meldola e presente con un network oncologico integrato a Cesena, Forlì e Ravenna per diagnosi, cure e ricerca.",
+   "url": "https://www.irst.emr.it/it/listituto/chi-siamo",
+   "quote": "Attivo dal 2007 nella sede principale di Meldola (FC), presso le strutture dell’ex Ospedale civile"
+  },
+  {
+   "claim": "IRST è attiva dal 2007 a Meldola e presente con un network oncologico integrato a Cesena, Forlì e Ravenna per diagnosi, cure e ricerca.",
+   "url": "https://www.irst.emr.it/it/listituto/sedi",
+   "quote": "L’IRST “Dino Amadori” IRCCS è presente a Meldola, Cesena, Forlì, Ravenna. Un network oncologico integrato per diagnosi, cure e ricerca di alta qualità."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/irst/logo.svg"
+}

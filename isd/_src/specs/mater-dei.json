@@ -1,0 +1,22 @@
+{
+ "slug": "mater-dei",
+ "company": "Mater Dei",
+ "full_name": "Massimo Marincola",
+ "first": "Massimo",
+ "cover_note": "Mater Dei offre servizi sanitari attivi 24 ore su 24 nelle sue strutture a Roma, il General Hospital e il Paideia International Hospital.",
+ "evidence": [
+  {
+   "claim": "Mater Dei offre servizi sanitari attivi 24 ore su 24 nelle sue strutture a Roma, il General Hospital e il Paideia International Hospital.",
+   "url": "https://www.materdei.it/",
+   "quote": "con servizi sanitari operativi 24 ore su 24 e centri di eccellenza"
+  },
+  {
+   "claim": "Mater Dei offre servizi sanitari attivi 24 ore su 24 nelle sue strutture a Roma, il General Hospital e il Paideia International Hospital.",
+   "url": "https://www.materdei.it/servizio-lis/",
+   "quote": "LE NOSTRE STRUTTURE MATER DEI GENERAL HOSPITAL Via A. Bertoloni 34 - 00197 Roma PAIDEIA INTERNATIONAL HOSPITAL Via G. Fabbroni 6 - 00191 Roma"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/mater-dei/logo.png"
+}

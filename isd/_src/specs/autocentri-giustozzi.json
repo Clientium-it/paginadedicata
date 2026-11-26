@@ -1,0 +1,22 @@
+{
+ "slug": "autocentri-giustozzi",
+ "company": "Autocentri Giustozzi",
+ "full_name": "Carmelo Messina",
+ "first": "Carmelo",
+ "cover_note": "Autocentri Giustozzi opera in Umbria dal 1953 come concessionaria Volkswagen, Skoda e Volkswagen Veicoli Commerciali, con sedi a Perugia, Foligno e Terni.",
+ "evidence": [
+  {
+   "claim": "Autocentri Giustozzi opera in Umbria dal 1953 come concessionaria Volkswagen, Skoda e Volkswagen Veicoli Commerciali, con sedi a Perugia, Foligno e Terni.",
+   "url": "https://www.giustozziauto.com/chi-siamo/",
+   "quote": "La concessionaria Autocentri Giustozzi opera in Umbria dal 1953 confermandosi nel corso degli anni come punto di riferimento nel panorama automobilistico regionale."
+  },
+  {
+   "claim": "Autocentri Giustozzi opera in Umbria dal 1953 come concessionaria Volkswagen, Skoda e Volkswagen Veicoli Commerciali, con sedi a Perugia, Foligno e Terni.",
+   "url": "https://www.giustozziauto.com/chi-siamo/",
+   "quote": "Volkswagen, Skoda e Volkswagen Veicoli Commerciali con sedi a Perugia, Foligno e Terni."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/autocentri-giustozzi/logo.png"
+}

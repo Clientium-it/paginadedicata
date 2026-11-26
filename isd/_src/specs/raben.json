@@ -1,0 +1,17 @@
+{
+ "slug": "raben",
+ "company": "Raben",
+ "full_name": "Massimiliano Manfredi",
+ "first": "Massimiliano",
+ "cover_note": "Raben fa parte di un gruppo presente in 17 paesi europei con più di 170 sedi e circa 2.000.000 di metri quadri di magazzino.",
+ "evidence": [
+  {
+   "claim": "Raben fa parte di un gruppo presente in 17 paesi europei con più di 170 sedi e circa 2.000.000 di metri quadri di magazzino.",
+   "url": "https://deutschland.raben-group.com/",
+   "quote": "Die Gruppe ist in 17 europäischen Ländern vertreten, verfügt über mehr als 170 Standorte und rund 2.000.000 m² Lagerfläche."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/raben/logo.svg"
+}

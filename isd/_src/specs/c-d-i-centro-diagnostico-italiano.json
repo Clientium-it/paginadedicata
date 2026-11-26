@@ -1,0 +1,22 @@
+{
+ "slug": "c-d-i-centro-diagnostico-italiano",
+ "company": "C.d.i. Centro Diagnostico Italiano",
+ "full_name": "Michele Masciola",
+ "first": "Michele",
+ "cover_note": "Il Centro Diagnostico Italiano, attivo a Milano dal 1975, è presente in Lombardia con 36 sedi di cui 23 poliambulatori.",
+ "evidence": [
+  {
+   "claim": "Il Centro Diagnostico Italiano, attivo a Milano dal 1975, è presente in Lombardia con 36 sedi di cui 23 poliambulatori.",
+   "url": "https://www.cdi.it/il-centro-diagnostico-italiano/chi-siamo/",
+   "quote": "attivo a Milano dal 1975, è una struttura sanitaria ambulatoriale a servizio completo"
+  },
+  {
+   "claim": "Il Centro Diagnostico Italiano, attivo a Milano dal 1975, è presente in Lombardia con 36 sedi di cui 23 poliambulatori.",
+   "url": "https://www.cdi.it/",
+   "quote": "Il Centro Diagnostico Italiano è presente sul territorio lombardo con 36 sedi, di cui 23 poliambulatori."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/c-d-i-centro-diagnostico-italiano/logo.svg"
+}

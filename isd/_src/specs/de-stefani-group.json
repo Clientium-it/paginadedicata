@@ -1,0 +1,22 @@
+{
+ "slug": "de-stefani-group",
+ "company": "De Stefani Group",
+ "full_name": "Fabrizio Manaresi",
+ "first": "Fabrizio",
+ "cover_note": "De Stefani Group, con oltre 100 anni di storia, copre il territorio romagnolo con sedi a Ravenna, Imola, Forlì, Cesena e Lugo.",
+ "evidence": [
+  {
+   "claim": "De Stefani Group, con oltre 100 anni di storia, copre il territorio romagnolo con sedi a Ravenna, Imola, Forlì, Cesena e Lugo.",
+   "url": "https://www.destefanigroup.com/chi-siamo/",
+   "quote": "Con oltre 100 anni di storia alle spalle e lo sguardo sempre rivolto al futuro"
+  },
+  {
+   "claim": "De Stefani Group, con oltre 100 anni di storia, copre il territorio romagnolo con sedi a Ravenna, Imola, Forlì, Cesena e Lugo.",
+   "url": "https://www.destefanigroup.com/chi-siamo/",
+   "quote": "La nostra rete di sedi copre capillarmente il territorio romagnolo: siamo presenti a Ravenna, Imola, Forlì, Cesena e Lugo , con strutture moderne e attrezzate"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/de-stefani-group/logo.svg"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "boxline",
+ "company": "Boxline",
+ "full_name": "Bohumil Vlcek",
+ "first": "Bohumil",
+ "cover_note": "Boxline con i suoi 8 uffici europei offre agli spedizionieri soluzioni per la gestione dei servizi LCL, FCL, rail e air.",
+ "evidence": [
+  {
+   "claim": "Boxline con i suoi 8 uffici europei offre agli spedizionieri soluzioni per la gestione dei servizi LCL, FCL, rail e air.",
+   "url": "https://www.boxlineucl.com/it",
+   "quote": "Con i suoi 8 uffici europei, garantisce al mondo degli spedizionieri una gamma di soluzioni neutrali e affidabili per la gestione dei servizi LCL e FCL, ma anche RAIL e AIR."
+  },
+  {
+   "claim": "Boxline con i suoi 8 uffici europei offre agli spedizionieri soluzioni per la gestione dei servizi LCL, FCL, rail e air.",
+   "url": "https://www.boxlineucl.com/it",
+   "quote": "Sedi: • Milano, ITALIA • Koper, SLOVENIA • Varsavia, POLONIA • Vilnius, LITUANIA • Budapest, UNGHERIA • Vienna, AUSTRIA • Belgrado, SERBIA • Praga, REPUBBLICA CECA"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/boxline/logo.png"
+}

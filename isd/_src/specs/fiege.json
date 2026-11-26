@@ -1,0 +1,26 @@
+{
+ "slug": "fiege",
+ "company": "Fiege",
+ "full_name": "Angelo Matteo Spera",
+ "first": "Angelo",
+ "cover_note": "Fiege è presente in 15 Paesi con 135 sedi in Europa ed Estremo Oriente.",
+ "evidence": [
+  {
+   "claim": "Fiege è presente in 15 Paesi con 135 sedi in Europa ed Estremo Oriente.",
+   "url": "https://www.fiege.com/it/gruppo-fiege/dove-siamo#!",
+   "quote": "Da Rotterdam a Mumbai e da Amburgo a Shanghai: attraverso una stretta collaborazione tra le varie sedi"
+  },
+  {
+   "claim": "Fiege è presente in 15 Paesi con 135 sedi in Europa ed Estremo Oriente.",
+   "url": "https://www.fiege.com/it/gruppo-fiege/dove-siamo#!",
+   "quote": "FIEGE è presente in 15 Paesi con un totale di 135 sedi in Europa ed Estremo Oriente."
+  },
+  {
+   "claim": "Fiege è presente in 15 Paesi con 135 sedi in Europa ed Estremo Oriente.",
+   "url": "https://www.fiege.com/it",
+   "quote": "La catena discount non-food Action ha inaugurato il suo primo centro di distribuzione permanente in Italia a Novara."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "smart",
+ "company": "Smart",
+ "full_name": "Rommel Meneghetti",
+ "first": "Rommel",
+ "cover_note": "Smart si estende su oltre 15.000 metri quadri con cinque mega store tra Veneto e Friuli Venezia Giulia e la sede a Galliera Veneta.",
+ "evidence": [
+  {
+   "claim": "Smart si estende su oltre 15.000 metri quadri con cinque mega store tra Veneto e Friuli Venezia Giulia e la sede a Galliera Veneta.",
+   "url": "https://www.smartmoda.com/chi-siamo",
+   "quote": "Il suo spazio commerciale si estende su oltre 15.000 m2, suddiviso in cinque mega store locati tra Veneto e Friuli Venezia Giulia."
+  },
+  {
+   "claim": "Smart si estende su oltre 15.000 metri quadri con cinque mega store tra Veneto e Friuli Venezia Giulia e la sede a Galliera Veneta.",
+   "url": "https://www.smartmoda.com/chi-siamo",
+   "quote": "La Sede si trova a Galliera Veneta (PD), mentre le quattro filiali sono situate a Torri di Quartesolo (VI), Oderzo (TV), Gorizia (GO) e Pordenone (PN)."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/smart/logo.png"
+}

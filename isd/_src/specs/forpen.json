@@ -1,0 +1,22 @@
+{
+ "slug": "forpen",
+ "company": "Forpen",
+ "full_name": "Simone Berto",
+ "first": "Simone",
+ "cover_note": "Forpen, partita dal primo negozio di abbigliamento femminile a Padova, conta oggi 15 punti vendita in più città del Nord Italia.",
+ "evidence": [
+  {
+   "claim": "Forpen, partita dal primo negozio di abbigliamento femminile a Padova, conta oggi 15 punti vendita in più città del Nord Italia.",
+   "url": "https://www.forpen.it/company/",
+   "quote": "Il primo negozio apre a Padova ed è un monobrand di abbigliamento femminile a cui seguono altri punti vendita"
+  },
+  {
+   "claim": "Forpen, partita dal primo negozio di abbigliamento femminile a Padova, conta oggi 15 punti vendita in più città del Nord Italia.",
+   "url": "https://www.forpen.it/company/",
+   "quote": "15 punti vendita in più città del Nord Italia dove scoprire e provare le proposte moda Forpen in tutta accoglienza e bellezza"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/forpen/logo.png"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "nordovest",
+ "company": "NordOvest",
+ "full_name": "Davide  Biarese",
+ "first": "Davide",
+ "cover_note": "NordOvest oggi conta oltre 120 dipendenti e 7 sedi sparse sul territorio italiano.",
+ "evidence": [
+  {
+   "claim": "NordOvest oggi conta oltre 120 dipendenti e 7 sedi sparse sul territorio italiano.",
+   "url": "https://www.nord-ovest.it/la-nostra-storia/",
+   "quote": "NordOvest oggi conta su oltre 120 dipendenti e 7 sedi sparse sul territorio italiano."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/nordovest/logo.webp"
+}

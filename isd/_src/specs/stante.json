@@ -1,0 +1,22 @@
+{
+ "slug": "stante",
+ "company": "Stante",
+ "full_name": "Massimo Nogara",
+ "first": "Massimo",
+ "cover_note": "Stante dal 1973 si occupa di spedizioni internazionali e logistica di magazzino con sedi a Bologna, Pomezia, Caserta, Como, Vicenza e Verona.",
+ "evidence": [
+  {
+   "claim": "Stante dal 1973 si occupa di spedizioni internazionali e logistica di magazzino con sedi a Bologna, Pomezia, Caserta, Como, Vicenza e Verona.",
+   "url": "https://stante.it/",
+   "quote": "Dal 1973 ci occupiamo di spedizioni internazionali e logistica di magazzino."
+  },
+  {
+   "claim": "Stante dal 1973 si occupa di spedizioni internazionali e logistica di magazzino con sedi a Bologna, Pomezia, Caserta, Como, Vicenza e Verona.",
+   "url": "https://stante.it/",
+   "quote": "Stante S.R.L. Bologna / Pomezia / Caserta Stante & Ecotrans S.R.L. Como Sev Stante S.R.L. Sev Stante Overseas S.R.L. Vicenza / Verona"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/stante/logo.svg"
+}

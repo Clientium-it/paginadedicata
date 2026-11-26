@@ -1,0 +1,17 @@
+{
+ "slug": "c-hotels",
+ "company": "C Hotels",
+ "full_name": "Riccardo Rizzuto",
+ "first": "Riccardo",
+ "cover_note": "C Hotels gestisce quattro hotel a Firenze, tre a Milano, due a Roma e uno a Rimini.",
+ "evidence": [
+  {
+   "claim": "C Hotels gestisce quattro hotel a Firenze, tre a Milano, due a Roma e uno a Rimini.",
+   "url": "https://www.c-hotels.it/",
+   "quote": "Firenze 4 Hotel 457 Stanze Milano 3 Hotel 269 Stanze Roma 2 Hotel 162 Stanze Rimini 1 Hotel 67 Stanze"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/c-hotels/logo.svg"
+}

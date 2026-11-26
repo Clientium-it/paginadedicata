@@ -1,0 +1,21 @@
+{
+ "slug": "insparya",
+ "company": "Insparya",
+ "full_name": "Simone Zancanella",
+ "first": "Simone",
+ "cover_note": "Insparya conta oltre 17 anni di esperienza, più di 600 professionisti e 15 centri clinici in 5 Paesi, con sedi a Milano e Roma.",
+ "evidence": [
+  {
+   "claim": "Insparya conta oltre 17 anni di esperienza, più di 600 professionisti e 15 centri clinici in 5 Paesi, con sedi a Milano e Roma.",
+   "url": "https://insparya.com/it/it/",
+   "quote": "+17 Anni di esperienza +600 Professionisti specializzati 15 Centri clinici 5 Paesi"
+  },
+  {
+   "claim": "Insparya conta oltre 17 anni di esperienza, più di 600 professionisti e 15 centri clinici in 5 Paesi, con sedi a Milano e Roma.",
+   "url": "https://insparya.com/it/it/",
+   "quote": "Centro Medico di Milano: Via Fernanda Wittgens, 2 , 20123 Milano Centro Medico di Roma: Viale Giorgio Ribotta, 35, 00144 Roma"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B"
+}

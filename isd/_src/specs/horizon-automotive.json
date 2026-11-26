@@ -1,0 +1,22 @@
+{
+ "slug": "horizon-automotive",
+ "company": "Horizon Automotive",
+ "full_name": "Luca Dilan",
+ "first": "Luca",
+ "cover_note": "Horizon Automotive segue il noleggio con venti Horizon Store in tutta Italia e settanta concessionari partner, con copertura di tutti i brand.",
+ "evidence": [
+  {
+   "claim": "Horizon Automotive segue il noleggio con venti Horizon Store in tutta Italia e settanta concessionari partner, con copertura di tutti i brand.",
+   "url": "https://www.horizonautomotive.it/it/chi-siamo",
+   "quote": "i nostri Horizon Store in tutta Italia portano un tocco umano, dandoti un supporto concreto in tutte le fasi del tuo noleggio"
+  },
+  {
+   "claim": "Horizon Automotive segue il noleggio con venti Horizon Store in tutta Italia e settanta concessionari partner, con copertura di tutti i brand.",
+   "url": "https://www.horizonautomotive.it/it/chi-siamo",
+   "quote": "70 concessionari partner 20 Horizon stores 100% copertura dei Brand"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/horizon-automotive/logo.svg"
+}

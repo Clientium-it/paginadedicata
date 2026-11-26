@@ -1,0 +1,22 @@
+{
+ "slug": "rete-pas",
+ "company": "Rete PAS",
+ "full_name": "Simone Pedullà",
+ "first": "Simone",
+ "cover_note": "Rete PAS offre servizi in più sedi ambulatoriali tra Pontassieve, Firenze e Scandicci, dove oltre 200 professionisti danno consulenze specialistiche.",
+ "evidence": [
+  {
+   "claim": "Rete PAS offre servizi in più sedi ambulatoriali tra Pontassieve, Firenze e Scandicci, dove oltre 200 professionisti danno consulenze specialistiche.",
+   "url": "https://www.fondazionepas.it/rete-pas/",
+   "quote": "La Rete PAS garantisce i servizi distribuiti nelle sedi ambulatoriali dove oltre 200 professionisti offrono consulenze specialistiche."
+  },
+  {
+   "claim": "Rete PAS offre servizi in più sedi ambulatoriali tra Pontassieve, Firenze e Scandicci, dove oltre 200 professionisti danno consulenze specialistiche.",
+   "url": "https://www.fondazionepas.it/rete-pas/",
+   "quote": "Ambulatori PAS Pontassieve via Rosano 17, Pontassieve (FI); Ambulatori PAS Ponte Alle Mosse via del Ponte alle Mosse 179/F, Firenze; Fisioterapia PAS Scandicci via Aleardi 2, Scandicci (FI, primo piano della Coop)"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/rete-pas/logo.png"
+}

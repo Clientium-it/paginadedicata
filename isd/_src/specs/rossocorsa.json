@@ -1,0 +1,22 @@
+{
+ "slug": "rossocorsa",
+ "company": "Rossocorsa",
+ "full_name": "Gaetano Presti",
+ "first": "Gaetano",
+ "cover_note": "Rossocorsa nasce nel 1994 a Milano come concessionaria Ferrari per la Lombardia e oggi conta sedi a Milano, Brescia, Torino, Ceriale e Bolzano.",
+ "evidence": [
+  {
+   "claim": "Rossocorsa nasce nel 1994 a Milano come concessionaria Ferrari per la Lombardia e oggi conta sedi a Milano, Brescia, Torino, Ceriale e Bolzano.",
+   "url": "https://rossocorsa.it/chi-siamo",
+   "quote": "Rossocorsa nasce nel 1994 a Milano.Inizialmente concessionaria Ufficiale Ferrari per la Lombardia"
+  },
+  {
+   "claim": "Rossocorsa nasce nel 1994 a Milano come concessionaria Ferrari per la Lombardia e oggi conta sedi a Milano, Brescia, Torino, Ceriale e Bolzano.",
+   "url": "https://rossocorsa.it/chi-siamo",
+   "quote": "Alla sede di Milano si aggiungono Brescia, Torino, Ceriale e infine Bolzano."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/rossocorsa/logo.png"
+}

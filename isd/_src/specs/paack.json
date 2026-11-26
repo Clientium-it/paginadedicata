@@ -1,0 +1,22 @@
+{
+ "slug": "paack",
+ "company": "Paack",
+ "full_name": "Bryan Bacudo",
+ "first": "Bryan",
+ "cover_note": "Paack nel 2021 ha aperto a Madrid un centro robotizzato e consegnato fino a 50 milioni di colli, con piattaforme in Spagna e Portogallo.",
+ "evidence": [
+  {
+   "claim": "Paack nel 2021 ha aperto a Madrid un centro robotizzato e consegnato fino a 50 milioni di colli, con piattaforme in Spagna e Portogallo.",
+   "url": "https://paack.co/about-us/",
+   "quote": "2021 New Madrid robotized distribution centre, zero emissions coverage in city centres of main cities in Spain and up to 50M parcels delivered"
+  },
+  {
+   "claim": "Paack nel 2021 ha aperto a Madrid un centro robotizzato e consegnato fino a 50 milioni di colli, con piattaforme in Spagna e Portogallo.",
+   "url": "https://paack.co/about-us/",
+   "quote": "2019 Geographic expansion and opening of new distribution platforms in Spain and Portugal"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/paack/logo.svg"
+}

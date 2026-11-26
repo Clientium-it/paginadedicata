@@ -1,0 +1,22 @@
+{
+ "slug": "gava-group",
+ "company": "Gava Group",
+ "full_name": "Gabriele Albano",
+ "first": "Gabriele",
+ "cover_note": "Gava Group, nata a Milano nel 1979, conta 33 uffici commerciali e operativi e una rete di oltre 250 agenti nel mondo.",
+ "evidence": [
+  {
+   "claim": "Gava Group, nata a Milano nel 1979, conta 33 uffici commerciali e operativi e una rete di oltre 250 agenti nel mondo.",
+   "url": "https://www.gavagroup.com/about-gava/",
+   "quote": "Established in Milan, Italy in 1979, Gava Group is a renowned international shipping organisation comprising 33 commercial and operational offices spread across five continents"
+  },
+  {
+   "claim": "Gava Group, nata a Milano nel 1979, conta 33 uffici commerciali e operativi e una rete di oltre 250 agenti nel mondo.",
+   "url": "https://www.gavagroup.com/about-gava/",
+   "quote": "Gava Group is a renowned international shipping organisation comprising 33 commercial and operational offices spread across five continents, with the valued support of a specialised network of more than 250 agents worldwide"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/gava-group/logo.png"
+}

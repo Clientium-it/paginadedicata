@@ -1,0 +1,17 @@
+{
+ "slug": "futura",
+ "company": "Futura",
+ "full_name": "Fabio Righini",
+ "first": "Fabio",
+ "cover_note": "Futura muove la logistica con venti centri di distribuzione, quattordici transit point e 750 collaboratori su 82.000 mq di piattaforme logistiche.",
+ "evidence": [
+  {
+   "claim": "Futura muove la logistica con venti centri di distribuzione, quattordici transit point e 750 collaboratori su 82.000 mq di piattaforme logistiche.",
+   "url": "https://futurasl.com/",
+   "quote": "82.000 mq PIATTAFORME LOGISTICHE 750 COLLABORATORI 20 CENTRI DI DISTRIBUZIONE 14 TRANSIT POINT"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/futura/logo.svg"
+}

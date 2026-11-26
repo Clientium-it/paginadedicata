@@ -1,0 +1,22 @@
+{
+ "slug": "greenblu",
+ "company": "Greenblu",
+ "full_name": "Nico Casulli",
+ "first": "Nico",
+ "cover_note": "Greenblu gestisce 11 strutture ricettive tra Puglia, Basilicata, Trentino Alto Adige e Roma, pensate per esperienze diverse in ogni stagione.",
+ "evidence": [
+  {
+   "claim": "Greenblu gestisce 11 strutture ricettive tra Puglia, Basilicata, Trentino Alto Adige e Roma, pensate per esperienze diverse in ogni stagione.",
+   "url": "https://www.greenblu.it/",
+   "quote": "Strutture tra Puglia, Basilicata, Trentino-Alto Adige e Roma, pensate per offrirti esperienze diverse in ogni stagione"
+  },
+  {
+   "claim": "Greenblu gestisce 11 strutture ricettive tra Puglia, Basilicata, Trentino Alto Adige e Roma, pensate per esperienze diverse in ogni stagione.",
+   "url": "https://www.greenblu.it/",
+   "quote": "Con 11 strutture di prestigio, garantiamo il massimo dell’ospitalità italiana nelle regioni più affascinanti del Paese."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/greenblu/logo.png"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "frav",
+ "company": "Frav",
+ "full_name": "Aldo Zarantonello",
+ "first": "Aldo",
+ "cover_note": "Frav ha 5 sedi nel Vicentino, con i punti Audi di Altavilla Vicentina, Bassano del Grappa e Zanè e il Centro Porsche Vicenza.",
+ "evidence": [
+  {
+   "claim": "Frav ha 5 sedi nel Vicentino, con i punti Audi di Altavilla Vicentina, Bassano del Grappa e Zanè e il Centro Porsche Vicenza.",
+   "url": "https://www.frav.it/chi-siamo",
+   "quote": "siamo presenti sul territorio con le sedi Audi di Altavilla Vicentina, Bassano del Grappa e Zanè, oltre al Centro Porsche Vicenza ad Altavilla Vicentina"
+  },
+  {
+   "claim": "Frav ha 5 sedi nel Vicentino, con i punti Audi di Altavilla Vicentina, Bassano del Grappa e Zanè e il Centro Porsche Vicenza.",
+   "url": "https://www.frav.it/",
+   "quote": "Abbiamo 5 sedi in tutto il territorio del Vicentino. Potremmo essere più vicino di quello che pensi."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/frav/logo.png"
+}

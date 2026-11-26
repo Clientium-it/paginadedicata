@@ -1,0 +1,22 @@
+{
+ "slug": "ambiente-energia-brianza",
+ "company": "Ambiente Energia Brianza",
+ "full_name": "Silvia Barni",
+ "first": "Silvia",
+ "cover_note": "Ambiente Energia Brianza, con più di 600 dipendenti, opera nei comuni della Brianza e gestisce direttamente 7 farmacie oltre al servizio di illuminazione votiva.",
+ "evidence": [
+  {
+   "claim": "Ambiente Energia Brianza, con più di 600 dipendenti, opera nei comuni della Brianza e gestisce direttamente 7 farmacie oltre al servizio di illuminazione votiva.",
+   "url": "https://www.aebonline.it/profilo-aziendale/",
+   "quote": "con più di 600 dipendenti, opera principalmente nei comuni della Brianza"
+  },
+  {
+   "claim": "Ambiente Energia Brianza, con più di 600 dipendenti, opera nei comuni della Brianza e gestisce direttamente 7 farmacie oltre al servizio di illuminazione votiva.",
+   "url": "https://www.aebonline.it/profilo-aziendale/",
+   "quote": "Gestisce direttamente 7 farmacie, il servizio di illuminazione votiva nei Comuni di Seregno e Giussano ed è proprietaria di reti idriche e di diversi immobili civili ed industriali."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/ambiente-energia-brianza/logo.png"
+}

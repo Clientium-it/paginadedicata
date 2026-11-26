@@ -1,0 +1,22 @@
+{
+ "slug": "elpe",
+ "company": "Elpe",
+ "full_name": "Gramoz Sinani",
+ "first": "Gramoz",
+ "cover_note": "Elpe gestisce 250.000 metri quadri di magazzino con sede centrale a Torino e sedi operative tra Caserta, Firenze e Piacenza.",
+ "evidence": [
+  {
+   "claim": "Elpe gestisce 250.000 metri quadri di magazzino con sede centrale a Torino e sedi operative tra Caserta, Firenze e Piacenza.",
+   "url": "https://www.elpe.it/",
+   "quote": "250.000 METRI QUADRI DI MAGAZZINO GESTITI"
+  },
+  {
+   "claim": "Elpe gestisce 250.000 metri quadri di magazzino con sede centrale a Torino e sedi operative tra Caserta, Firenze e Piacenza.",
+   "url": "https://www.elpe.it/",
+   "quote": "SEDE CENTRALE TORINO / ALTRE SEDI MILANO, ROMA / SEDI OPERATIVE CASERTA, FIRENZE, LANDRIANO (PV), MILANO, PIACENZA, SETTIMO TORINESE (TO), TORINO, LIVORNO, ROMA, VARESE"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/elpe/logo.png"
+}

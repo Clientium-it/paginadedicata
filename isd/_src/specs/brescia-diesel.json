@@ -1,0 +1,22 @@
+{
+ "slug": "brescia-diesel",
+ "company": "Brescia Diesel",
+ "full_name": "Giuseppe Fioretti",
+ "first": "Giuseppe",
+ "cover_note": "Brescia Diesel ha la sede storica a Castegnato su oltre 40.000 metri quadri e dal 2021 una sede milanese a Caleppio di Settala.",
+ "evidence": [
+  {
+   "claim": "Brescia Diesel ha la sede storica a Castegnato su oltre 40.000 metri quadri e dal 2021 una sede milanese a Caleppio di Settala.",
+   "url": "https://www.vivabresciadiesel.it/chi-siamo/",
+   "quote": "La sede centrale storica, che si trova a Castegnato , si sviluppa su oltre 40.000 m2, 12.500 dei quali sono coperti."
+  },
+  {
+   "claim": "Brescia Diesel ha la sede storica a Castegnato su oltre 40.000 metri quadri e dal 2021 una sede milanese a Caleppio di Settala.",
+   "url": "https://www.vivabresciadiesel.it/chi-siamo/",
+   "quote": "Nel 2021, infatti, è arrivata l’inaugurazione della sede milanese, uno spazio di 7000 metri quadri a Caleppio di Settala."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/brescia-diesel/logo.png"
+}

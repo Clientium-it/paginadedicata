@@ -1,0 +1,17 @@
+{
+ "slug": "vision-group",
+ "company": "Vision Group",
+ "full_name": "Alfonso Salvati",
+ "first": "Alfonso",
+ "cover_note": "Vision Group riunisce più di 220 centri ottici diretti con le insegne VisionOttica e VistaSì e oltre 300 centri in franchising.",
+ "evidence": [
+  {
+   "claim": "Vision Group riunisce più di 220 centri ottici diretti con le insegne VisionOttica e VistaSì e oltre 300 centri in franchising.",
+   "url": "https://vision-group.it/chi-siamo/",
+   "quote": "Al Gruppo si riconducono più di 220 centri ottici diretti con le insegne VisionOttica e VistaSì, più di 300 centri in franchising con insegna VisionOttica"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/vision-group/logo.svg"
+}

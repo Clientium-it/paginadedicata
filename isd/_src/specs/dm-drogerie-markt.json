@@ -1,0 +1,22 @@
+{
+ "slug": "dm-drogerie-markt",
+ "company": "DM Drogerie Markt",
+ "full_name": "Gianni D Angela",
+ "first": "Gianni",
+ "cover_note": "Dm è una multinazionale tedesca attiva in 14 paesi europei con circa 4.000 negozi e la sede italiana a San Giovanni Lupatoto.",
+ "evidence": [
+  {
+   "claim": "Dm è una multinazionale tedesca attiva in 14 paesi europei con circa 4.000 negozi e la sede italiana a San Giovanni Lupatoto.",
+   "url": "https://www.dm-jobs.it/",
+   "quote": "La sede centrale di dm Italia è situata a San Giovanni Lupatoto (VR)"
+  },
+  {
+   "claim": "Dm è una multinazionale tedesca attiva in 14 paesi europei con circa 4.000 negozi e la sede italiana a San Giovanni Lupatoto.",
+   "url": "https://www.dm-jobs.it/offerte-di-lavoro/punti-vendita/",
+   "quote": "dm drogerie markt è un'azienda multinazionale tedesca attiva in 14 paesi europei, con circa 4.000 negozi"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/dm-drogerie-markt/logo.svg"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "belstay",
+ "company": "Belstay",
+ "full_name": "Michele Bianco",
+ "first": "Michele",
+ "cover_note": "Belstay, nata nel 2022, gestisce quattro hotel a Milano Linate, Milano Assago, Roma Aurelia e Venezia Mestre.",
+ "evidence": [
+  {
+   "claim": "Belstay, nata nel 2022, gestisce quattro hotel a Milano Linate, Milano Assago, Roma Aurelia e Venezia Mestre.",
+   "url": "https://www.belstayhotels.it/",
+   "quote": "Belstay nasce nel 2022 con l’obiettivo di diventare il gruppo alberghiero leader nel segmento 4 stelle delle aree sub-urbane delle principali città Italiane."
+  },
+  {
+   "claim": "Belstay, nata nel 2022, gestisce quattro hotel a Milano Linate, Milano Assago, Roma Aurelia e Venezia Mestre.",
+   "url": "https://www.belstayhotels.it/",
+   "quote": "GLI HOTEL Belstay Milano Linate Belstay Milano Assago Belstay Roma Aurelia Belstay Venezia Mestre"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/belstay/logo.svg"
+}

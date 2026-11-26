@@ -1,0 +1,22 @@
+{
+ "slug": "fassina",
+ "company": "Fassina",
+ "full_name": "Daniele Lomonaco",
+ "first": "Daniele",
+ "cover_note": "Fassina è concessionaria Volvo a Treviso, Conegliano, Belluno e Milano con il Car Village di oltre 50.000 metri quadri dedicato all'auto.",
+ "evidence": [
+  {
+   "claim": "Fassina è concessionaria Volvo a Treviso, Conegliano, Belluno e Milano con il Car Village di oltre 50.000 metri quadri dedicato all'auto.",
+   "url": "https://www.fassina.it/la-storia/",
+   "quote": "il Car Village di via Grassi 98 Milano, oltre 50.000 mq tutti dedicati all’auto"
+  },
+  {
+   "claim": "Fassina è concessionaria Volvo a Treviso, Conegliano, Belluno e Milano con il Car Village di oltre 50.000 metri quadri dedicato all'auto.",
+   "url": "https://www.fassina.it/la-storia/",
+   "quote": "allo stato attuale il Gruppo Fassina è concessionario Volvo a Treviso, Conegliano (TV), Belluno e Milano"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/fassina/logo.png"
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "autoindustriale",
+ "company": "Autoindustriale",
+ "full_name": "Massimo Holzer",
+ "first": "Massimo",
+ "cover_note": "Autoindustriale dal 2008 si è espansa in Trentino con le concessionarie di Trento e Rovereto e oggi conta sette sedi e oltre 350 collaboratori.",
+ "evidence": [
+  {
+   "claim": "Autoindustriale dal 2008 si è espansa in Trentino con le concessionarie di Trento e Rovereto e oggi conta sette sedi e oltre 350 collaboratori.",
+   "url": "https://www.autoindustriale.com/it/company/chi-siamo",
+   "quote": "2008 Autoindustriale si espande in Trentino con l’apertura delle concessionarie Mercedes-Benz di Trento e Rovereto."
+  },
+  {
+   "claim": "Autoindustriale dal 2008 si è espansa in Trentino con le concessionarie di Trento e Rovereto e oggi conta sette sedi e oltre 350 collaboratori.",
+   "url": "https://www.autoindustriale.com/it/company/chi-siamo",
+   "quote": "350 + Collaboratori 7 Sedi 5 + Marchi + 100k Clienti"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/autoindustriale/logo.svg"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "expeditors",
+ "company": "Expeditors",
+ "full_name": "Benedetta Barbagallo",
+ "first": "Benedetta",
+ "cover_note": "Expeditors opera con oltre 335 sedi in 100 Paesi attraverso una rete tecnologica integrata a livello globale.",
+ "evidence": [
+  {
+   "claim": "Expeditors opera con oltre 335 sedi in 100 Paesi attraverso una rete tecnologica integrata a livello globale.",
+   "url": "https://www.expeditors.com/about-us",
+   "quote": "unified technology systems integrated across a global network of over 335 locations in 100 countries on six continents"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/expeditors/logo.png"
+}

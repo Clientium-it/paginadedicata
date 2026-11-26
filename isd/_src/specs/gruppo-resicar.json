@@ -1,0 +1,22 @@
+{
+ "slug": "gruppo-resicar",
+ "company": "Gruppo Resicar",
+ "full_name": "Marco Zarra",
+ "first": "Marco",
+ "cover_note": "Gruppo Resicar riunisce 6 concessionarie, con la capostipite Resicar che rappresenta Nissan per Alessandria e provincia da oltre 30 anni.",
+ "evidence": [
+  {
+   "claim": "Gruppo Resicar riunisce 6 concessionarie, con la capostipite Resicar che rappresenta Nissan per Alessandria e provincia da oltre 30 anni.",
+   "url": "https://www.grupporesicar.it/chi-siamo/",
+   "quote": "Esperta selezionatrice di veicoli di occasione con oltre 300 vetture in pronta consegna completamente ricondizionate e garantite su tutto il territorio europeo a km illimitati."
+  },
+  {
+   "claim": "Gruppo Resicar riunisce 6 concessionarie, con la capostipite Resicar che rappresenta Nissan per Alessandria e provincia da oltre 30 anni.",
+   "url": "https://www.grupporesicar.it/chi-siamo/",
+   "quote": "Il Gruppo Resicar è composto da 6 concessionarie, la capostipite delle quali è Resicar, storica rappresentante del marchio Nissan per Alessandria e provincia da oltre 30 anni."
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/gruppo-resicar/logo.png"
+}

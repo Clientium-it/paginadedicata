@@ -1,0 +1,22 @@
+{
+ "slug": "kostelia",
+ "company": "Kostelia",
+ "full_name": "Ilaria Di Marzio",
+ "first": "Ilaria",
+ "cover_note": "Kostelia gestisce tre magazzini per oltre 17.000 metri quadrati con sedi operative a Reggello e Rignano sull'Arno e un ufficio a Terni.",
+ "evidence": [
+  {
+   "claim": "Kostelia gestisce tre magazzini per oltre 17.000 metri quadrati con sedi operative a Reggello e Rignano sull'Arno e un ufficio a Terni.",
+   "url": "https://kostelia.it/",
+   "quote": "I nostri tre magazzini coprono un'area di oltre 17.000 metri quadrati."
+  },
+  {
+   "claim": "Kostelia gestisce tre magazzini per oltre 17.000 metri quadrati con sedi operative a Reggello e Rignano sull'Arno e un ufficio a Terni.",
+   "url": "https://kostelia.it/",
+   "quote": "Sede Operativa : Via Pian Di Rona 128/b Loc. Pian di Rona – 50066 Reggello (FI) Italy Sede Operativa : Via Pian dell’ Isola, 74, 50067 Rignano sull’Arno FI (Italy) Ufficio IT : Via Curio Fornaci 12 05100 Terni(TR) Italy"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/kostelia/logo.png"
+}

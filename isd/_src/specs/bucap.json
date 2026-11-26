@@ -1,0 +1,22 @@
+{
+ "slug": "bucap",
+ "company": "Bucap",
+ "full_name": "Massimiliano Villa Villa",
+ "first": "Massimiliano",
+ "cover_note": "Bucap dal 1982 accompagna aziende e pubbliche amministrazioni nella Digital Transformation con 11 sedi nel Centro-Nord Italia.",
+ "evidence": [
+  {
+   "claim": "Bucap dal 1982 accompagna aziende e pubbliche amministrazioni nella Digital Transformation con 11 sedi nel Centro-Nord Italia.",
+   "url": "https://www.bucap.it/",
+   "quote": "Dal 1982 Bucap accompagna aziende e pubbliche amministrazioni nella Digital Transformation"
+  },
+  {
+   "claim": "Bucap dal 1982 accompagna aziende e pubbliche amministrazioni nella Digital Transformation con 11 sedi nel Centro-Nord Italia.",
+   "url": "https://www.bucap.it/",
+   "quote": "11 Sedi dislocate nel Centro-Nord Italia"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/bucap/logo.png"
+}

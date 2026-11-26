@@ -1,0 +1,22 @@
+{
+ "slug": "camicissima",
+ "company": "Camicissima",
+ "full_name": "Elena Mazzoni",
+ "first": "Elena",
+ "cover_note": "Camicissima, nata nel 2004 dal gruppo Fenicia, conta oltre 130 negozi in Italia, 200 in Cina e oltre 40 nel resto del mondo.",
+ "evidence": [
+  {
+   "claim": "Camicissima, nata nel 2004 dal gruppo Fenicia, conta oltre 130 negozi in Italia, 200 in Cina e oltre 40 nel resto del mondo.",
+   "url": "https://www.camicissima.com/it_it/storia",
+   "quote": "Fenicia si è diversificata anche nel retail, lanciando nel 2004 il noto brand Camicissima"
+  },
+  {
+   "claim": "Camicissima, nata nel 2004 dal gruppo Fenicia, conta oltre 130 negozi in Italia, 200 in Cina e oltre 40 nel resto del mondo.",
+   "url": "https://www.camicissima.com/it_it/storia",
+   "quote": "con oltre 130 negozi in Italia, 200 in Cina e oltre 40 negozi nel resto del mondo"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/camicissima/logo.jpg"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "prenatal-retail-group",
+ "company": "Prénatal Retail Group",
+ "full_name": "Alessia Bramati",
+ "first": "Alessia",
+ "cover_note": "Prénatal Retail Group gestisce 5 insegne in 5 paesi con 551 punti vendita e 3.767 dipendenti nel mondo.",
+ "evidence": [
+  {
+   "claim": "Prénatal Retail Group gestisce 5 insegne in 5 paesi con 551 punti vendita e 3.767 dipendenti nel mondo.",
+   "url": "https://prenatalretailgroup.com/",
+   "quote": "5 Insegne* in 5 Paesi 551 Punti Vendita 22 mio di famiglie 3.767 Dipendenti nel mondo"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/prenatal-retail-group/logo.svg"
+}

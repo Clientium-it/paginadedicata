@@ -1,0 +1,17 @@
+{
+ "slug": "renauto",
+ "company": "Renauto",
+ "full_name": "Francesco Recchia",
+ "first": "Francesco",
+ "cover_note": "Renauto vende 11.000 auto all'anno nelle sue nove sedi dirette tra Bari, Gioia del Colle, Barletta, Modugno, Foggia, Matera, Policoro, Maglie e Casarano.",
+ "evidence": [
+  {
+   "claim": "Renauto vende 11.000 auto all'anno nelle sue nove sedi dirette tra Bari, Gioia del Colle, Barletta, Modugno, Foggia, Matera, Policoro, Maglie e Casarano.",
+   "url": "https://www.gruppomarino.it/chi-siamo/",
+   "quote": "con 11.000 auto vendute annualmente nelle 9 sedi dirette tra cui quelle di Bari, Gioia del Colle, Barletta, Modugno, Foggia, Matera, Policoro, Maglie e Casarano"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/renauto/logo.svg"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "nippon-express",
+ "company": "Nippon Express",
+ "full_name": "Francesco D'Alessio",
+ "first": "Francesco",
+ "cover_note": "Nippon Express è presente in Italia con dodici sedi dotate di struttura operativa autonoma e propri magazzini, con una presenza capillare su tutto il territorio.",
+ "evidence": [
+  {
+   "claim": "Nippon Express è presente in Italia con dodici sedi dotate di struttura operativa autonoma e propri magazzini, con una presenza capillare su tutto il territorio.",
+   "url": "https://www.nipponexpressitalia.com/chi-siamo",
+   "quote": "NXIT è presente in Italia con 12 sedi con struttura operativa autonoma, dotate di propri magazzini, in grado di garantire una capillare presenza su tutto il territorio"
+  }
+ ],
+ "checked": "VPS playwright verbatim check (isd_b2_rb_request.json)",
+ "case": "B",
+ "logo": "../assets/leads/nippon-express/logo.svg"
+}
