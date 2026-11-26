@@ -1,0 +1,28 @@
+{
+ "slug": "aurora-biofarma-2",
+ "company": "Aurora Biofarma",
+ "first_name": "Flavio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Aurora Biofarma è una società farmaceutica italiana con sede a Milano che ricerca, produce e distribuisce soluzioni per il benessere di persone e animali. Qui trova come lavoriamo e cosa potremmo fare per Aurora Biofarma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aurora Biofarma.",
+ "evidence": [
+  {
+   "claim": "Aurora Biofarma è una società farmaceutica italiana con sede a Milano che ricerca, produce e distribuisce soluzioni per il benessere di persone e animali.",
+   "url": "https://www.aurorabiofarma.it/chi-siamo/",
+   "quote": "Siamo una società farmaceutica italiana con sede a Milano impegnata nella ricerca, produzione e distribuzione di soluzioni per il benessere delle persone e degli animali. || Aurora Biofarma S.r.l. – Via Carnia 26 – 20132 Milano (MI) – Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

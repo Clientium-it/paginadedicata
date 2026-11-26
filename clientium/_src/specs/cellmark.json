@@ -1,0 +1,28 @@
+{
+ "slug": "cellmark",
+ "company": "CellMark",
+ "first_name": "Eugenia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CellMark opera con divisioni internazionali in pasta di cellulosa, imballaggio e carta, riciclo, chimica e materie prime, con esperti in oltre 30 paesi. Qui trova come lavoriamo e cosa potremmo fare per CellMark.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CellMark.",
+ "evidence": [
+  {
+   "claim": "CellMark opera con divisioni internazionali in pasta di cellulosa, imballaggio e carta, riciclo, chimica e materie prime, con esperti in oltre 30 paesi.",
+   "url": "https://career.cellmark.com/",
+   "quote": "We run five international divisions: Pulp, Packaging & Paper, Recycling, Chemicals, and Basic Materials. || Through our network of experts in 30-plus countries, we provide a full suite of services"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

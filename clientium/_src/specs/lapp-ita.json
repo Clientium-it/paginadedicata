@@ -1,0 +1,28 @@
+{
+ "slug": "lapp-ita",
+ "company": "LAPP ITA",
+ "first_name": "Ivan",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lapp Italia, filiale italiana del Gruppo LAPP, distribuisce cavi, cavi precablati, pressacavi e accessori per l'automazione da Desio. Qui trova come lavoriamo e cosa potremmo fare per LAPP ITA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LAPP ITA.",
+ "evidence": [
+  {
+   "claim": "Lapp Italia, filiale italiana del Gruppo LAPP, distribuisce cavi, cavi precablati, pressacavi e accessori per l'automazione da Desio.",
+   "url": "https://lappitalia.lappgroup.com/societa/chi-siamo.html",
+   "quote": "Lapp Italia Filiale italiana del Gruppo LAPP, è l'Azienda leader nella distribuzione di cavi, cavi precablati, pressacavi, e accessori per l´automazione. || Lapp Italia Srl Via Lavoratori Autobianchi, 1 - edificio 20 20832 Desio (Monza e Brianza) || Energie rinnovabili - Alive by LAPP Clicca qui per saperne di più eMobility - Alive by LAPP Clicca qui per saperne di più Ingegneria delle macchine e degli impianti - Alive by LAPP"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

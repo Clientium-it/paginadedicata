@@ -1,0 +1,28 @@
+{
+ "slug": "denicar",
+ "company": "Denicar",
+ "first_name": "Salvo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Denicar tratta marchi come Fiat, Alfa Romeo, Jeep, Opel e Peugeot e opera a Milano, Bergamo e Trezzano sul Naviglio. Qui trova come lavoriamo e cosa potremmo fare per Denicar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Denicar.",
+ "evidence": [
+  {
+   "claim": "Denicar tratta marchi come Fiat, Alfa Romeo, Jeep, Opel e Peugeot e opera a Milano, Bergamo e Trezzano sul Naviglio.",
+   "url": "https://www.denicar.it/chi-siamo/",
+   "quote": "Fiat, Abarth, Lancia, Alfa Romeo, Jeep, Opel, Peugeot, Citroën, DS, Leapmotor, Changan, Maxus, EMC, Foton e Fiat Professional, veicoli commerciali Opel, Citroën e Peugeot ed opera nelle città di Milano, Bergamo e Trezzano sul Naviglio (MI). || ed opera nelle città di Milano, Bergamo e Trezzano sul Naviglio (MI)."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

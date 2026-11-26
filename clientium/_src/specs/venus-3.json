@@ -1,0 +1,28 @@
+{
+ "slug": "venus-3",
+ "company": "Venus",
+ "first_name": "Walter",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Venus nasce nel 1959 da un'officina dei fratelli Bruno e Giovanni Villa in Brianza e oggi opera tra Seregno, Monza e Milano. Qui trova come lavoriamo e cosa potremmo fare per Venus.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Venus.",
+ "evidence": [
+  {
+   "claim": "Venus nasce nel 1959 da un'officina dei fratelli Bruno e Giovanni Villa in Brianza e oggi opera tra Seregno, Monza e Milano.",
+   "url": "https://www.venus-spa.it/chi-siamo-venus/",
+   "quote": "nel 1959, quando l'aria di rinascita aleggiava tra le campagne brianzole, due fratelli, Bruno e Giovanni Villa, animati da un'intraprendenza che sapeva di futuro, aprirono le porte di un'officina a Malcantone || Seregno Via Johann Strauss 38 0362327658 seregno@venus-spa.it Contattaci! Cornate D'adda Via Enrico Berlinguer 31 0396956637 cornate@venus-spa.it Contattaci! Monza Viale Sicilia 98 03928301 info@venus-spa.it Contattaci! Milano Viale Fulvio Testi 326 02661511 milano@venus-spa.it Contattaci!"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

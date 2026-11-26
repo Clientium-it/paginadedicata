@@ -1,0 +1,28 @@
+{
+ "slug": "tecnikabel",
+ "company": "Tecnikabel",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecnikabel progetta e produce cavi speciali made in Italy da oltre 40 anni per i settori ferroviario difesa energia e telecomunicazioni. Qui trova come lavoriamo e cosa potremmo fare per Tecnikabel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecnikabel.",
+ "evidence": [
+  {
+   "claim": "Tecnikabel progetta e produce cavi speciali made in Italy da oltre 40 anni per i settori ferroviario difesa energia e telecomunicazioni.",
+   "url": "https://www.tecnikabel.com/about-us/",
+   "quote": "we have been specialising in the design and manufacture of custom-engineered special cables, 100% Made in Italy and 100% tested, for over 40 years || PEOPLE 600 COUNTRIES 45 Revenue €143.5 million || become the benchmark for leading companies in the railway, defence, energy, industry, oil & gas and telecommunications sectors"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "fontana",
+ "company": "Fontana Gruppo",
+ "first_name": "Nicoletta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fontana Gruppo produce e distribuisce fastener e prodotti tecnici secondo le principali norme, da Veduggio con Colzano, per automobili, macchine movimento terra e pale eoliche. Qui trova come lavoriamo e cosa potremmo fare per Fontana Gruppo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fontana Gruppo.",
+ "evidence": [
+  {
+   "claim": "Fontana Gruppo produce e distribuisce fastener e prodotti tecnici secondo le principali norme, da Veduggio con Colzano, per automobili, macchine movimento terra e pale eoliche.",
+   "url": "https://gruppofontana.it/standardized-products/",
+   "quote": "Fontana Gruppo produce, commercializza e distribuisce ogni tipo di fastener e prodotto tecnico secondo le principali norme unificate, di qualunque grado di resistenza e adatto a qualunque applicazione || Via Fontana, 9 – 20837 Veduggio con Colzano (MB) || dalle automobili alle macchine movimento terra, dai guardrail alle pale eoliche, dalle costruzioni metalliche agli elettrodomestici"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "tubes-international",
+ "company": "Tubes International",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tubes International produce tubi flessibili assemblati per ultra alta pressione fino a 4000 bar, con una presenza in molti paesi. Qui trova come lavoriamo e cosa potremmo fare per Tubes International.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tubes International.",
+ "evidence": [
+  {
+   "claim": "Tubes International produce tubi flessibili assemblati per ultra alta pressione fino a 4000 bar, con una presenza in molti paesi.",
+   "url": "https://www.tubes-international.it/",
+   "quote": "Produzione di tubi flessibili assemblati ultra alta pressione (UHP) fino a 4000 bar || Scegli un paese Global Polonia Cechia Germania Kazakistan Lituania Norvegia Slovacchia Ucraina India Francia Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

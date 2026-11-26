@@ -1,0 +1,28 @@
+{
+ "slug": "sapio-produzione-idrogeno-ossigeno-4",
+ "company": "SAPIO PRODUZIONE IDROGENO OSSIGENO",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sapio dal 1922 produce e commercializza gas industriali e medicinali, tecnologie e servizi per settori come agroalimentare, energia, chimica, meccanica e metallurgia. Qui trova come lavoriamo e cosa potremmo fare per SAPIO PRODUZIONE IDROGENO OSSIGENO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SAPIO PRODUZIONE IDROGENO OSSIGENO.",
+ "evidence": [
+  {
+   "claim": "Sapio dal 1922 produce e commercializza gas industriali e medicinali, tecnologie e servizi per settori come agroalimentare, energia, chimica, meccanica e metallurgia.",
+   "url": "https://www.sapio.it/",
+   "quote": "Dal 1922, Sapio produce, sviluppa e commercializza gas industriali e medicinali, tecnologie, applicazioni e servizi correlati per ogni settore produttivo, dall’agroalimentare all’energia, dal chimico-farmaceutico all’elettronico, dal meccanico e metallurgico al vetro e cemento."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

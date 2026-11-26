@@ -1,0 +1,28 @@
+{
+ "slug": "ter-plastics-polymer",
+ "company": "TER Plastics POLYMER GROUP",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TER Plastics distribuisce polimeri in Europa da oltre 50 anni con 9 sedi, 19 uffici vendita e 7.000 clienti. Qui trova come lavoriamo e cosa potremmo fare per TER Plastics POLYMER GROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TER Plastics POLYMER GROUP.",
+ "evidence": [
+  {
+   "claim": "TER Plastics distribuisce polimeri in Europa da oltre 50 anni con 9 sedi, 19 uffici vendita e 7.000 clienti.",
+   "url": "https://www.terplastics.com/de/index.php",
+   "quote": "ist ein führender europäischer Polymer-Distributor mit einer langjährigen Erfahrung von über 50 Jahren || 9 Standorte in Europa mit 19 Verkaufsbüros 7.000 Kunden || Automotive Consumer Medizin | Pharma Structural Integrity Thermal Management Tribologie Trinkwasser Verpackungen"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

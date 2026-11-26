@@ -1,0 +1,28 @@
+{
+ "slug": "prochema",
+ "company": "ProChema GmbH",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ProChema cura rappresentanze industriali di prodotti tecnici per i settori delle plastiche, della grafica, dell'automotive, della carta e del farmaceutico. Qui trova come lavoriamo e cosa potremmo fare per ProChema GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ProChema GmbH.",
+ "evidence": [
+  {
+   "claim": "ProChema cura rappresentanze industriali di prodotti tecnici per i settori delle plastiche, della grafica, dell'automotive, della carta e del farmaceutico.",
+   "url": "https://www.prochema.it/",
+   "quote": "Ci occupiamo di rappresentanze industriali di prodotti tecnici nei settori delle materie plastiche, della grafica, dell’automotive, della carta, degli imballaggi, del settore farmaceutico e medicale. || Abbiamo l’esclusiva per l’Italia di importanti marchi e li proponiamo alle aziende che credono nell’innovazione, nell’efficienza e nel rispetto dell’ambiente. || nei settori delle materie plastiche, della grafica, dell’automotive, della carta, degli imballaggi, del settore farmaceutico e medicale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

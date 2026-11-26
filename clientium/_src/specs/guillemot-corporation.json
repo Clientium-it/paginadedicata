@@ -1,0 +1,28 @@
+{
+ "slug": "guillemot-corporation",
+ "company": "Guillemot Corporation",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Guillemot progetta e produce dal 1984 hardware e accessori per il gioco su PC e console, distribuiti in più di 150 paesi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Guillemot Corporation.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Guillemot Corporation.",
+ "evidence": [
+  {
+   "claim": "Guillemot progetta e produce dal 1984 hardware e accessori per il gioco su PC e console, distribuiti in più di 150 paesi nel mondo.",
+   "url": "https://www.guillemot.com/en/",
+   "quote": "A designer and manufacturer of interactive entertainment hardware and accessories, listed on the stock market since 1998 and active in this field since 1984 || The Group is currently present in eleven countries (France, Germany, Great Britain, Spain, the Netherlands, the United States, Canada, Italy, Belgium, Romania and China - Shanghaï, Shenzhen and Hong-Kong ), and distributes its products in more than 150 countries worldwide. || Gaming accessories for PC and consoles, for experienced and casual gamers."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

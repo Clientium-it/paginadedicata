@@ -1,0 +1,28 @@
+{
+ "slug": "adam-hall",
+ "company": "Adam Hall Group",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Adam Hall sviluppa tecnologia per gli eventi, ama la musica e gli eventi dal vivo e vuole proteggere persone e apparecchiature. Qui trova come lavoriamo e cosa potremmo fare per Adam Hall Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Adam Hall Group.",
+ "evidence": [
+  {
+   "claim": "Adam Hall sviluppa tecnologia per gli eventi, ama la musica e gli eventi dal vivo e vuole proteggere persone e apparecchiature.",
+   "url": "https://www.adamhall.com/it/aree-di-prodotto",
+   "quote": "Sviluppiamo tecnologia degli eventi per passione. Adoriamo la magia degli eventi dal vivo, amiamo la musica e vogliamo proteggere persone e apparecchiature."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "fritz-studer-ag",
+ "company": "Fritz Studer AG",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Studer costruisce dal 1912 rettificatrici di precisione per la rettifica esterna interna e non circolare anche per la tecnologia medicale dagli impianti agli strumenti dentali. Qui trova come lavoriamo e cosa potremmo fare per Fritz Studer AG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fritz Studer AG.",
+ "evidence": [
+  {
+   "claim": "Studer costruisce dal 1912 rettificatrici di precisione per la rettifica esterna interna e non circolare anche per la tecnologia medicale dagli impianti agli strumenti dentali.",
+   "url": "https://www.studer.com/de/",
+   "quote": "Gegründet 1912 und einer der Markt- und Technologieleader im Universal-, Aussen-, Innenrund- sowie im Unrundschleifen. || Präzise Rundschleifmaschinen für die Medizintechnik: von Implantaten bis Dentalinstrumenten."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

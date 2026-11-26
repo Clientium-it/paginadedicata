@@ -1,0 +1,28 @@
+{
+ "slug": "veritek-italy",
+ "company": "VERITEK ITALY",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Veritek opera da centri regionali in Europa e serve settori come photo imaging, stampa e grafica, sanità e ottica, e digital cinema. Qui trova come lavoriamo e cosa potremmo fare per VERITEK ITALY.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VERITEK ITALY.",
+ "evidence": [
+  {
+   "claim": "Veritek opera da centri regionali in Europa e serve settori come photo imaging, stampa e grafica, sanità e ottica, e digital cinema.",
+   "url": "https://veritekglobal.com/about-veritek/",
+   "quote": "Veritek operates from three regional centres across Europe || Veritek operates from three regional centres across Europe || Photo Imaging, Print and Graphics, Healthcare and Optical, and Digital Cinema"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

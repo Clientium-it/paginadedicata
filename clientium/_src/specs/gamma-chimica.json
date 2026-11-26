@@ -1,0 +1,28 @@
+{
+ "slug": "gamma-chimica",
+ "company": "GAMMA CHIMICA",
+ "first_name": "Donato",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gamma Chimica opera dal 1980 a Lainate nella distribuzione di prodotti chimici, da oltre quarant'anni, con un ufficio commerciale anche a Treviso. Qui trova come lavoriamo e cosa potremmo fare per GAMMA CHIMICA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GAMMA CHIMICA.",
+ "evidence": [
+  {
+   "claim": "Gamma Chimica opera dal 1980 a Lainate nella distribuzione di prodotti chimici, da oltre quarant'anni, con un ufficio commerciale anche a Treviso.",
+   "url": "https://www.gammachimica.it/azienda/",
+   "quote": "Gamma Chimica, fondata nel 1980 a Lainate, opera da oltre quarant’anni nel settore della distribuzione di prodotti chimici || SEDE AMMINISTRATIVA E COMMERCIALE Via Lepetit, 8 20045 Lainate (MI) PEC gammachimica@legalmail.it +39 02 931 7901 UFFICIO COMMERCIALE TREVISO Viale della Repubblica 193/M 31100 Treviso (TV) || l’attestazione ESAD II (per la distribuzione nel settore farmaceutico, Cosmetico, ecc.)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

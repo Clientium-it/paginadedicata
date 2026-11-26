@@ -1,0 +1,28 @@
+{
+ "slug": "contract-district",
+ "company": "Contract District Group",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Contract District gestisce con 80 professionisti l'intero ciclo dalla progettazione alla fornitura di arredo chiavi in mano, con sedi a Milano e Roma. Qui trova come lavoriamo e cosa potremmo fare per Contract District Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Contract District Group.",
+ "evidence": [
+  {
+   "claim": "Contract District gestisce con 80 professionisti l'intero ciclo dalla progettazione alla fornitura di arredo chiavi in mano, con sedi a Milano e Roma.",
+   "url": "https://contract-district.com/it/",
+   "quote": "Con un team di 80 professionisti interni, un software ERP e un’app proprietari, il Gruppo gestisce l’intero ciclo di servizi, dalla progettazione alla fornitura di arredo chiavi in mano, fino al customer care post-installazione || Offriamo opportunità di carriera nelle nostre sedi di Milano e Roma, in un ambiente dinamico e stimolante. || Per i Design Brands Per gli Sviluppatori Per gli Architetti Per il Retail"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

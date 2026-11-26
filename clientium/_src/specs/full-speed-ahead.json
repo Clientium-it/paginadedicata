@@ -1,0 +1,28 @@
+{
+ "slug": "full-speed-ahead",
+ "company": "Full Speed Ahead",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Full Speed Ahead produce componenti per bici da strada e mountain bike e affianca molte squadre di ciclismo su strada e fuoristrada. Qui trova come lavoriamo e cosa potremmo fare per Full Speed Ahead.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Full Speed Ahead.",
+ "evidence": [
+  {
+   "claim": "Full Speed Ahead produce componenti per bici da strada e mountain bike e affianca molte squadre di ciclismo su strada e fuoristrada.",
+   "url": "https://fullspeedahead.com/en/company",
+   "quote": "Full Speed Ahead (FSA) produces world class bicycle components for road cycling and mountain biking and we support many of the world's leading road and mountain bike teams"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

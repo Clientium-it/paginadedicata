@@ -1,0 +1,28 @@
+{
+ "slug": "alcea-4",
+ "company": "Alcea",
+ "first_name": "Anna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Alcea produce oltre 23.000 tinte per più di 100 prodotti e offre vernici per industria, legno e coil dallo stabilimento di Senago. Qui trova come lavoriamo e cosa potremmo fare per Alcea.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Alcea.",
+ "evidence": [
+  {
+   "claim": "Alcea produce oltre 23.000 tinte per più di 100 prodotti e offre vernici per industria, legno e coil dallo stabilimento di Senago.",
+   "url": "https://www.alcea.com/azienda/chi-siamo-alcea/",
+   "quote": "di offrire una gamma di oltre 23.000 tinte per oltre 100 diversi prodotti e di fornire rapidamente grandi quantità o piccoli quantitativi || ALCEA si trasferisce nello stabilimento ad alta automatizzazione di Senago || Industria, Legno, CPS, Coil e Rivendita: vernici per tutte le esigenze"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

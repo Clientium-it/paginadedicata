@@ -1,0 +1,28 @@
+{
+ "slug": "seves",
+ "company": "SEVES",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Seves produce vetromattoni per l'interior design e l'architettura con sedi in Repubblica Ceca e in Italia. Qui trova come lavoriamo e cosa potremmo fare per SEVES.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SEVES.",
+ "evidence": [
+  {
+   "claim": "Seves produce vetromattoni per l'interior design e l'architettura con sedi in Repubblica Ceca e in Italia.",
+   "url": "https://www.sevesglassblock.com/company/",
+   "quote": "Seves Glassblock is the world‘s leading manufacturer of glass block for interior design and architectural applications || CZECH REPUBLIC Seves Glass Block s.r.o. Bílinská 782/42 419 01 Duchcov – Czech Republic Phone: +420 417.818.111 Fax: +420. 417.669.536 ITALY Seves Glass Block s.r.o. Via delle Robinie, 12 50019 Sesto F.no (FI) – Italy || providing architects, designers and interior designers with a new element to use in the creation of high-level, formal aesthetic creations"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "polar-seafood",
+ "company": "Polar Seafood",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Polar Seafood da oltre 40 anni fornisce prodotti ittici dalla Groenlandia a produttori alimentari, grossisti, rivenditori e aziende del foodservice in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Polar Seafood.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Polar Seafood.",
+ "evidence": [
+  {
+   "claim": "Polar Seafood da oltre 40 anni fornisce prodotti ittici dalla Groenlandia a produttori alimentari, grossisti, rivenditori e aziende del foodservice in tutto il mondo.",
+   "url": "https://www.polarseafood.it/",
+   "quote": "Da oltre 40 anni, Polar Seafood fornisce prodotti ittici affidabili e di alta qualità dalla Groenlandia a produttori alimentari, grossisti, rivenditori e aziende del settore foodservice in tutto il mondo. || Polar Seafood Italia SAS Viale Rimembranze 45 20020 Lainate (MI) +39 02-93796171 psi@polarseafood.com || produttori alimentari, grossisti, rivenditori e aziende del settore foodservice"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

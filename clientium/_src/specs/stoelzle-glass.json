@@ -1,0 +1,28 @@
+{
+ "slug": "stoelzle-glass",
+ "company": "Stoelzle Glass Group",
+ "first_name": "Ivano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Stoelzle produce da oltre 200 anni contenitori in vetro di alta gamma, con stabilimenti produttivi, siti di decorazione e uffici commerciali nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Stoelzle Glass Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Stoelzle Glass Group.",
+ "evidence": [
+  {
+   "claim": "Stoelzle produce da oltre 200 anni contenitori in vetro di alta gamma, con stabilimenti produttivi, siti di decorazione e uffici commerciali nel mondo.",
+   "url": "https://www.stoelzle.com/",
+   "quote": "Stoelzle Glass Group can rely on more than 200 years of expertise as manufacturer of high-end glass containers. || The Stoelzle network comprises seven manufacturing plants, three decoration sites and several sales offices worldwide."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

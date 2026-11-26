@@ -1,0 +1,28 @@
+{
+ "slug": "coim-8",
+ "company": "COIM Group",
+ "first_name": "Gilberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "COIM dal 1962 sviluppa e realizza specialità chimiche con 9 stabilimenti produttivi e 20 sedi operative in 9 paesi. Qui trova come lavoriamo e cosa potremmo fare per COIM Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per COIM Group.",
+ "evidence": [
+  {
+   "claim": "COIM dal 1962 sviluppa e realizza specialità chimiche con 9 stabilimenti produttivi e 20 sedi operative in 9 paesi.",
+   "url": "https://it.coimgroup.com/chi-siamo",
+   "quote": "COIM è una società italiana che dal 1962 sviluppa e realizza specialità chimiche nello stabilimento di OFFANENGO (CR). || Con 9 stabilimenti produttivi e 20 sedi operative in 9 diversi paesi, Coim group è in grado di coniugare, in tutto il mondo, presenza locale ed approccio globale."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

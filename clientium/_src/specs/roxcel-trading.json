@@ -1,0 +1,28 @@
+{
+ "slug": "roxcel-trading",
+ "company": "ROXCEL Trading",
+ "first_name": "Antonella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Roxcel fornisce soluzioni ai partner nei settori stampa, packaging e correlati con uffici in tutto il mondo e 14 reparti vendite regionali a Vienna. Qui trova come lavoriamo e cosa potremmo fare per ROXCEL Trading.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ROXCEL Trading.",
+ "evidence": [
+  {
+   "claim": "Roxcel fornisce soluzioni ai partner nei settori stampa, packaging e correlati con uffici in tutto il mondo e 14 reparti vendite regionali a Vienna.",
+   "url": "https://www.roxcel.com/",
+   "quote": "Our international offices as well as our 14 regional sales departments at our Headquarter in Vienna, Austria, are here to provide you with expert support in market insights and product knowledge. || Our offices and warehouses around the world allow the ultimate flexibility when it comes to fulfilling the large range and variation of requests received from our partners. || providing solutions for our partners in the printing, packaging and all related industries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

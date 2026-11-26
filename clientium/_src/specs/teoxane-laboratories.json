@@ -1,0 +1,28 @@
+{
+ "slug": "teoxane-laboratories",
+ "company": "Teoxane Laboratories",
+ "first_name": "Isabella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Teoxane da oltre vent'anni sviluppa soluzioni a base di acido ialuronico per la bellezza del viso. Qui trova come lavoriamo e cosa potremmo fare per Teoxane Laboratories.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Teoxane Laboratories.",
+ "evidence": [
+  {
+   "claim": "Teoxane da oltre vent'anni sviluppa soluzioni a base di acido ialuronico per la bellezza del viso.",
+   "url": "https://www.teoxane.it/",
+   "quote": "Teoxane è specializzata nello sviluppo di soluzioni a base di acido ialuronico e oggi, con oltre vent'anni di expertise, è pioniere nella scienza della bellezza del viso."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

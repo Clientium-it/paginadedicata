@@ -1,0 +1,28 @@
+{
+ "slug": "forgital",
+ "company": "Forgital",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Forgital produce anelli laminati senza saldatura e moduli fan assemblati e ha aperto Forgital USA a Houston come hub per il mercato nordamericano. Qui trova come lavoriamo e cosa potremmo fare per Forgital.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Forgital.",
+ "evidence": [
+  {
+   "claim": "Forgital produce anelli laminati senza saldatura e moduli fan assemblati e ha aperto Forgital USA a Houston come hub per il mercato nordamericano.",
+   "url": "https://www.forgital.com/about-us/",
+   "quote": "Forgital is a leading, vertically integrated Group focused on the manufacturing of seamless rolled rings in rectangular or profiled sections, as well as assembled fan modules, covering the largest range of sizes. || Establishment of Forgital USA in Houston, TX. This facility is a strategic logistic hub for the North American market || FMDL is specialized in forgings with smaller dimensions for Aeronautic and Industrial markets."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}
