@@ -1,0 +1,28 @@
+{
+ "slug": "scm-frigo-2",
+ "company": "SCM Frigo",
+ "first_name": "Alessia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SCM Frigo progetta e produce unità condensatrici, booster e chiller ed esporta nel mondo la sua gamma a CO2. Qui trova come lavoriamo e cosa potremmo fare per SCM Frigo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SCM Frigo.",
+ "evidence": [
+  {
+   "claim": "SCM Frigo progetta e produce unità condensatrici, booster e chiller ed esporta nel mondo la sua gamma a CO2.",
+   "url": "https://www.scmfrigo.com/en/",
+   "quote": "Leader in the Design and Production of Condensing Units, Boosters and Chillers, SCM FRIGO operates in the refrigeration sector with advanced technologies exporting its CO2 range of products worldwide || SCM Frigo S.p.A. Viale Andrea Palladio, 31 35020 Sant’Angelo di Piove Di Sacco (PD) – Italy || Applications range from the smaller systems for convenience stores to large hypermarket systems"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

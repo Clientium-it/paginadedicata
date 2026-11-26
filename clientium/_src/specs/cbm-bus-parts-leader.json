@@ -1,0 +1,28 @@
+{
+ "slug": "cbm-bus-parts-leader",
+ "company": "CBM Bus parts leader",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CBM fornisce ricambi per bus e pullman a migliaia di reti di trasporto nel mondo con 7 piattaforme logistiche e consegna in meno di 48 ore. Qui trova come lavoriamo e cosa potremmo fare per CBM Bus parts leader.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CBM Bus parts leader.",
+ "evidence": [
+  {
+   "claim": "CBM fornisce ricambi per bus e pullman a migliaia di reti di trasporto nel mondo con 7 piattaforme logistiche e consegna in meno di 48 ore.",
+   "url": "https://www.cbmcompany.com/",
+   "quote": "Nous vous proposons la gamme de pièces détachées pour bus et cars la plus large du marché : pièces de qualité Origine châssis, suspension, moteur, boîte de vitesses, essieux, freinage, direction, carrosserie, sièges, rétroviseurs, vitrage, climatisation || Livraison en moins de 48 heures 7 plateformes logistiques dans le monde || Présent auprès de plusieurs milliers de réseaux de transports urbains et interurbains à travers le monde"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

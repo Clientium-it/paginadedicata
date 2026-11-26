@@ -1,0 +1,28 @@
+{
+ "slug": "autoindustriale-mobility",
+ "company": "Autoindustriale Mobility Group",
+ "first_name": "Moreno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Autoindustriale offre dal 1976 soluzioni di mobilità a privati e aziende partendo da Bolzano con 7 sedi, oltre 350 collaboratori e più di 100mila clienti. Qui trova come lavoriamo e cosa potremmo fare per Autoindustriale Mobility Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Autoindustriale Mobility Group.",
+ "evidence": [
+  {
+   "claim": "Autoindustriale offre dal 1976 soluzioni di mobilità a privati e aziende partendo da Bolzano con 7 sedi, oltre 350 collaboratori e più di 100mila clienti.",
+   "url": "https://www.autoindustriale.com/it/company/chi-siamo",
+   "quote": "La nostra storia inizia a Bolzano nel 1976. Da allora, tre generazioni hanno fatto crescere Autoindustriale Mobility Group con una passione comune: essere al fianco delle persone in ogni momento della loro mobilità || 350 + Collaboratori 7 Sedi 5 + Marchi + 100k Clienti || Soluzioni di mobilità su misura per privati e aziende."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

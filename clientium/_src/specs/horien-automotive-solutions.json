@@ -1,0 +1,28 @@
+{
+ "slug": "horien-automotive-solutions",
+ "company": "HORIEN Automotive Solutions",
+ "first_name": "Valentina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Horien sviluppa, produce e vende clacson, sistemi AVAS e prodotti di connettività, con sede, R&D e produzione a Vicenza. Qui trova come lavoriamo e cosa potremmo fare per HORIEN Automotive Solutions.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per HORIEN Automotive Solutions.",
+ "evidence": [
+  {
+   "claim": "Horien sviluppa, produce e vende clacson, sistemi AVAS e prodotti di connettività, con sede, R&D e produzione a Vicenza.",
+   "url": "https://automotive.horien.com/",
+   "quote": "Our core business is the development, manufacturing and sales of Horns, AVAS and connectivity products || We are present all over the world An international footprint for a global strategy. Vicenza, Italy Headquarter , R&D & PRODUCTION CENTER"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "amg-2",
+ "company": "AMG",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "AMG produce soluzioni per il trattamento dell'aria tra biomassa, pompe di calore e caldaie a condensazione con 5 brand coordinati da San Vito di Leguzzano. Qui trova come lavoriamo e cosa potremmo fare per AMG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per AMG.",
+ "evidence": [
+  {
+   "claim": "AMG produce soluzioni per il trattamento dell'aria tra biomassa, pompe di calore e caldaie a condensazione con 5 brand coordinati da San Vito di Leguzzano.",
+   "url": "https://www.amg-spa.com/azienda/",
+   "quote": "Produciamo e commercializziamo una varietà di soluzioni tecnologiche per il trattamento dell’aria di tutti gli ambienti domestici , commerciali e industriali . Operiamo in particolare nell’ambito della biomassa, delle pompe di calore e delle caldaie a condensazione || AMG raccoglie oggi 5 brand , distinti da peculiarità tecniche e stilistiche proprie, ma coordinati dalla sede centrale di San Vito di Leguzzano (VI) || La nostra ambizione è portare innovazione ed ecologia nella quotidianità di famiglie e imprese di tutto il mondo."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

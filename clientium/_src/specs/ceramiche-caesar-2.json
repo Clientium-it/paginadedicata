@@ -1,0 +1,28 @@
+{
+ "slug": "ceramiche-caesar-2",
+ "company": "Ceramiche Caesar",
+ "first_name": "Anton",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Caesar produce dal 1988 grès porcellanato a Fiorano Modenese per rivenditori, imprese di costruzione, designer e architetti, con una sede anche negli Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per Ceramiche Caesar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ceramiche Caesar.",
+ "evidence": [
+  {
+   "claim": "Caesar produce dal 1988 grès porcellanato a Fiorano Modenese per rivenditori, imprese di costruzione, designer e architetti, con una sede anche negli Stati Uniti.",
+   "url": "https://www.caesar.it/azienda/",
+   "quote": "Dal 1988 Caesar è il punto di riferimento per la ceramica in grès porcellanato italiana per rivenditori, imprese di costruzione, designer e architetti. || HEADQUARTERS Ceramiche Caesar Via del Canaletto, 49, 41042 Fiorano Modenese MO Italia Tel: +39 0536 817111 Caesar Ceramics USA, INC. 500 Wilson Pike Cir, 37027 Brentwood TN USA || Dal 1988 Caesar è il punto di riferimento per la ceramica in grès porcellanato italiana per rivenditori, imprese di costruzione, designer e architetti."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

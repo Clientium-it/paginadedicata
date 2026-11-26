@@ -1,0 +1,28 @@
+{
+ "slug": "irinox-4",
+ "company": "Irinox",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Irinox produce abbattitori rapidi e sistemi di conservazione per professionisti e casa con 2 sedi produttive in provincia di Treviso e 5 nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Irinox.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Irinox.",
+ "evidence": [
+  {
+   "claim": "Irinox produce abbattitori rapidi e sistemi di conservazione per professionisti e casa con 2 sedi produttive in provincia di Treviso e 5 nel mondo.",
+   "url": "https://www.irinox.com/ita/azienda/storia",
+   "quote": "lo specialista nella produzione di abbattitori rapidi di temperatura e di sistemi di conservazione di alta qualità per il settore professionale e domestico e di quadri elettrici in acciaio inox || 2 sedi produttive per un totale di 55.000 mq in provincia di Treviso, Italia 5 sedi nel mondo (Nord America, Francia, Germania, Dubai e Thailandia) || sistemi di conservazione di alta qualità per il settore professionale e domestico"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

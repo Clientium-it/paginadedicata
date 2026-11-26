@@ -1,0 +1,28 @@
+{
+ "slug": "latterie-vicentine-sca",
+ "company": "Latterie Vicentine sca",
+ "first_name": "Flavio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Latterie Vicentine produce ogni anno oltre 400.000 forme di Asiago Fresco in 2 stabilimenti con il latte di 200 soci allevatori. Qui trova come lavoriamo e cosa potremmo fare per Latterie Vicentine sca.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Latterie Vicentine sca.",
+ "evidence": [
+  {
+   "claim": "Latterie Vicentine produce ogni anno oltre 400.000 forme di Asiago Fresco in 2 stabilimenti con il latte di 200 soci allevatori.",
+   "url": "https://www.latterievicentine.it/azienda-oggi/",
+   "quote": "Latterie Vicentine è il più grande polo produttivo di questa eccellenza veneta: oltre 400.000 forme di Asiago Fresco e 76.000 di Asiago Stagionato ogni anno, nate dal latte dei 200 soci allevatori della cooperativa. || 2 Stabilimenti produttivi 200 Az. agricole associate 3500 Q.li Latte raccolto ogni giorno || arrivi alla grande distribuzione, ai mercati internazionali, al consumatore finale fresca e genuina"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

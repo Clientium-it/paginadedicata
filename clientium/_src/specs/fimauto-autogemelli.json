@@ -1,0 +1,28 @@
+{
+ "slug": "fimauto-autogemelli",
+ "company": "Gruppo Fimauto Autogemelli",
+ "first_name": "Mattia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fimauto Autogemelli è dealer ufficiale BMW, MINI e BMW Motorrad per le province di Verona e Vicenza da più di 40 anni. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Fimauto Autogemelli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Fimauto Autogemelli.",
+ "evidence": [
+  {
+   "claim": "Fimauto Autogemelli è dealer ufficiale BMW, MINI e BMW Motorrad per le province di Verona e Vicenza da più di 40 anni.",
+   "url": "https://fimautogemelli.it/ChiSiamo.cshtml",
+   "quote": "Il Gruppo Fimauto Autogemelli è dealer ufficiale BMW, MINI, BMW MOTORRAD per le province di Verona e Vicenza , da più di 40 anni punto di riferimento per gli estimatori del marchio Bavarese. || Le nostre sedi Fimauto Verona Fimauto Bussolengo Autogemelli Vicenza Autogemelli Bassano del Grappa Autogemelli Zanè"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

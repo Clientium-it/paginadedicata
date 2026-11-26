@@ -1,0 +1,28 @@
+{
+ "slug": "pedrollo-3",
+ "company": "Pedrollo",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pedrollo produce elettropompe dal 1974 e negli ultimi anni ha aperto Pedrollo US per Stati Uniti e Canada e la filiale Pedrollo Polska. Qui trova come lavoriamo e cosa potremmo fare per Pedrollo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pedrollo.",
+ "evidence": [
+  {
+   "claim": "Pedrollo produce elettropompe dal 1974 e negli ultimi anni ha aperto Pedrollo US per Stati Uniti e Canada e la filiale Pedrollo Polska.",
+   "url": "https://www.pedrollo.com/storia/",
+   "quote": "Silvano Pedrollo che nel 1974 fonda la Pedrollo SpA. Nasce una delle più importanti aziende produttrici di elettropompe del mondo || 2019 Pedrollo si espande in Nord America (Usa + Canada) con la nascita di Pedrollo US 2022 Espansione del mercato europeo con la filiale Pedrollo Polska."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

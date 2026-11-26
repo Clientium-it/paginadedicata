@@ -1,0 +1,28 @@
+{
+ "slug": "paolino-bacci-2",
+ "company": "Paolino Bacci",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bacci costruisce dal 1918 macchine per lavorare legno, plastica, compositi e alluminio, con filiali in Cina, America, Vietnam e Indonesia. Qui trova come lavoriamo e cosa potremmo fare per Paolino Bacci.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Paolino Bacci.",
+ "evidence": [
+  {
+   "claim": "Bacci costruisce dal 1918 macchine per lavorare legno, plastica, compositi e alluminio, con filiali in Cina, America, Vietnam e Indonesia.",
+   "url": "https://www.bacci.com",
+   "quote": "DAL 1918 Una capacità innovativa incomparabile nel costruire macchine per la lavorazione del legno, delle materie plastiche e composite e dell’alluminio. || Filiali Bacci China Bacci America Bacci Vietnam Bacci Indonesia || Piccole e grandi aziende del settore arredo design scelgono le macchine Bacci per i loro progetti."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

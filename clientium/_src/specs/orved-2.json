@@ -1,0 +1,28 @@
+{
+ "slug": "orved-2",
+ "company": "Orved",
+ "first_name": "Maurillio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Orved dal 1984 progetta, produce e distribuisce macchine sottovuoto, termosigillatrici e buste per il sottovuoto ed è presente in 121 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Orved.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Orved.",
+ "evidence": [
+  {
+   "claim": "Orved dal 1984 progetta, produce e distribuisce macchine sottovuoto, termosigillatrici e buste per il sottovuoto ed è presente in 121 Paesi.",
+   "url": "https://www.orved.it/",
+   "quote": "Dal 1984 ORVED progetta per voi, produce e distribuisce macchine sottovuoto all’avanguardia, termosigillatrici, buste goffrate, sacchetti per il sottovuoto e accessori . || riconosciuta in tutto il Mondo e presente in 121 Paesi, oltre a essere la scelta dei migliori chef internazionali || Una tecnologia che non solo rispetta l'ambiente, ma che è efficiente e completamente automatica, pensata innanzitutto per la cucina professionale."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

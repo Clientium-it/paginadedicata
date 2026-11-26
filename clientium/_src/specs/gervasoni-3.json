@@ -1,0 +1,28 @@
+{
+ "slug": "gervasoni-3",
+ "company": "Gervasoni",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gervasoni crea arredi indoor e outdoor dal 1882 ed esporta il 75% della produzione in 80 paesi. Qui trova come lavoriamo e cosa potremmo fare per Gervasoni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gervasoni.",
+ "evidence": [
+  {
+   "claim": "Gervasoni crea arredi indoor e outdoor dal 1882 ed esporta il 75% della produzione in 80 paesi.",
+   "url": "https://gervasoni1882.com/it/azienda/about-us",
+   "quote": "Ad oggi, è una realtà affermata nel mondo dell’arredo indoor e outdoor. || 1882 Fondazione 80 Paesi 75% Export"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

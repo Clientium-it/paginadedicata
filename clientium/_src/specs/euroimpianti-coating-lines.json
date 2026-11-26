@@ -1,0 +1,28 @@
+{
+ "slug": "euroimpianti-coating-lines",
+ "company": "Euroimpianti Coating Lines",
+ "first_name": "Attilio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Euroimpianti progetta e costruisce da oltre 40 anni impianti di verniciatura per superfici metalliche, con oltre 80 dipendenti e migliaia di impianti installati nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Euroimpianti Coating Lines.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Euroimpianti Coating Lines.",
+ "evidence": [
+  {
+   "claim": "Euroimpianti progetta e costruisce da oltre 40 anni impianti di verniciatura per superfici metalliche, con oltre 80 dipendenti e migliaia di impianti installati nel mondo.",
+   "url": "https://www.euroimpianti.com/history/",
+   "quote": "We are an Italian company with more than 40 years of experience in the design and construction of systems for coating any metal surface. || Our group currently consists of over 80 employees and thousands of systems installed all over the world."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

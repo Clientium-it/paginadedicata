@@ -1,0 +1,28 @@
+{
+ "slug": "antonio-carraro-5",
+ "company": "Antonio Carraro",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Antonio Carraro produce dal 1910 trattori compatti per agricoltura specializzata e manutenzione del verde con oltre 535 persone e filiali in Australia, Spagna e Turchia. Qui trova come lavoriamo e cosa potremmo fare per Antonio Carraro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Antonio Carraro.",
+ "evidence": [
+  {
+   "claim": "Antonio Carraro produce dal 1910 trattori compatti per agricoltura specializzata e manutenzione del verde con oltre 535 persone e filiali in Australia, Spagna e Turchia.",
+   "url": "https://www.antoniocarraro.it/en/company/about-us",
+   "quote": "Founded by Giovanni Carraro in 1910, it is a worldwide leader in the production of compact tractors for specialized agriculture and civil maintenance. || the company counts over 535 employees dislocated between the italian HQ and commercial branches in Australia, Spain and Turkey. || Our mission is to provide the best solution to operators who work in the specialized agriculture field, even with extreme working conditions and in the groundcare and roadways sectors."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

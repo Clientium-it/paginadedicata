@@ -1,0 +1,28 @@
+{
+ "slug": "inteco-melting-and-casting-technologies",
+ "company": "INTECO melting and casting technologies GmbH",
+ "first_name": "Antonello",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Inteco fornisce dal 1973 all'industria siderurgica impianti per il trattamento liquido di acciaio, ferroleghe, superleghe e titanio dalla sede di Bruck an der Mur. Qui trova come lavoriamo e cosa potremmo fare per INTECO melting and casting technologies GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per INTECO melting and casting technologies GmbH.",
+ "evidence": [
+  {
+   "claim": "Inteco fornisce dal 1973 all'industria siderurgica impianti per il trattamento liquido di acciaio, ferroleghe, superleghe e titanio dalla sede di Bruck an der Mur.",
+   "url": "https://www.inteco.at/",
+   "quote": "Als Lieferant der Stahlindustrie seit 1973, ist INTECO der einzige Anbieter, der innovative Anlagen und Technologien für sämtliche Produktionsprozesse im Bereich der Flüssigbehandlung von Stahl, Ferrolegierungen, Superlegierungen und Titan anbietet || Inteco Group Headquarters INTECO melting and casting technologies GmbH Wienerstrasse 25 A-8600 Bruck a.d. Mur || Pfannenöfen werden in Elektrostahlwerken sowie zunehmend in Konverter-Stahlwerken installiert."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

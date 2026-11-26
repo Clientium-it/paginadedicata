@@ -1,0 +1,28 @@
+{
+ "slug": "gsc-prodotti-chimici-per-concerie",
+ "company": "GSC GROUP SPA Prodotti chimici per concerie",
+ "first_name": "Diego",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "GSC Group serve 52 paesi con 1900 prodotti e più di 450 clienti e ha aperto una filiale produttiva a Buenos Aires. Qui trova come lavoriamo e cosa potremmo fare per GSC GROUP SPA Prodotti chimici per concerie.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GSC GROUP SPA Prodotti chimici per concerie.",
+ "evidence": [
+  {
+   "claim": "GSC Group serve 52 paesi con 1900 prodotti e più di 450 clienti e ha aperto una filiale produttiva a Buenos Aires.",
+   "url": "https://www.gscgroup.it/chi-siamo/",
+   "quote": "> 450 clienti > 80MM fatturato annuale +30.000 m2 di superficie 1900 prodotti 20% energia fotovoltaica sul totale dell'approvvigionamento di energia elettrica 35.000 tonnellate/anno produzione annuale 52 paesi serviti || GSC Group apre una filiale produttiva a Buenos Aires in Argentina: GSC Sudamericana || estende l’offerta di prodotti pronti all’uso a base d’acqua nei settori arredamento, automotive, calzatura, abbigliamento e pelletteria"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "espe-2",
+ "company": "Espe",
+ "first_name": "Diego",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Espe ha realizzato dal 2003 oltre 820 impianti fotovoltaici per 775 MWp e dal 2011 più di 200 aerogeneratori mini eolici. Qui trova come lavoriamo e cosa potremmo fare per Espe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Espe.",
+ "evidence": [
+  {
+   "claim": "Espe ha realizzato dal 2003 oltre 820 impianti fotovoltaici per 775 MWp e dal 2011 più di 200 aerogeneratori mini eolici.",
+   "url": "https://www.espe.it/it/chi-siamo/",
+   "quote": "+ 820 Impianti fotovoltaici a terra e su tetto realizzati dal 2003. + 775 MWp di potenza installata attraverso i nostri impianti fotovoltaici dal 2003. + 200 Aerogeneratori mini eolici prodotti e installati dal 2011. || + 100 Dipendenti (al 31/12/2025) presso i nostri stabilimenti italiani."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

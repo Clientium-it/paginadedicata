@@ -1,0 +1,28 @@
+{
+ "slug": "fae-2",
+ "company": "FAE GROUP",
+ "first_name": "Mirko",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FAE progetta e produce testate per trattori, escavatori e veicoli cingolati per lavori forestali, agricoli, stradali e sminamento, con 3 siti produttivi e 6 filiali. Qui trova come lavoriamo e cosa potremmo fare per FAE GROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FAE GROUP.",
+ "evidence": [
+  {
+   "claim": "FAE progetta e produce testate per trattori, escavatori e veicoli cingolati per lavori forestali, agricoli, stradali e sminamento, con 3 siti produttivi e 6 filiali.",
+   "url": "https://www.fae-group.com/about-fae",
+   "quote": "FAE è l'azienda leader a livello mondiale nella progettazione e produzione di testate per trattori, escavatori, minipale, veicoli speciali e di veicoli cingolati per lavorazioni forestali, agricole, stradali e lo sminamento. || La produzione, la vendita, il servizio post-vendita e la distribuzione dei ricambi sono garantiti attraverso 3 siti produttivi, la sede centrale, 6 filiali commerciali e una rete di rivenditori autorizzati in tutto il mondo. || Attrezzature e veicoli per il forestale, l’agricoltura e la gestione del verde."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

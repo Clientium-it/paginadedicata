@@ -1,0 +1,28 @@
+{
+ "slug": "lamitex",
+ "company": "Lamitex",
+ "first_name": "Thomas",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lamitex realizza materiali e pannelli per il design d'interni con progettisti e produttori, fa parte di Neodecortech dal 2025 ed è in oltre 40 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Lamitex.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lamitex.",
+ "evidence": [
+  {
+   "claim": "Lamitex realizza materiali e pannelli per il design d'interni con progettisti e produttori, fa parte di Neodecortech dal 2025 ed è in oltre 40 Paesi.",
+   "url": "https://lamitex.it/chi-siamo/",
+   "quote": "Oggi realizza materiali e pannelli che coniugano estetica, versatilità progettuale e prestazioni tecniche, affiancando progettisti e produttori nello sviluppo di soluzioni per il design d’interni. || Parte del Gruppo Neodecortech S.p.A. dal 2025, Lamitex è presente in oltre 40 Paesi. || affiancando progettisti e produttori nello sviluppo di soluzioni per il design d’interni"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}
