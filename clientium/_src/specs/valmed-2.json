@@ -1,0 +1,28 @@
+{
+ "slug": "valmed-2",
+ "company": "VALMED",
+ "first_name": "Leonardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Valmed dal 2007 produce dispositivi medici e lavora con la saldatura ad alta frequenza nel nord Italia e distribuisce in 24 paesi. Qui trova come lavoriamo e cosa potremmo fare per VALMED.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VALMED.",
+ "evidence": [
+  {
+   "claim": "Valmed dal 2007 produce dispositivi medici e lavora con la saldatura ad alta frequenza nel nord Italia e distribuisce in 24 paesi.",
+   "url": "https://www.valmedsrl.com/company/",
+   "quote": "Valmed was founded in 2007, located in the north of Italy. Thanks to a great combination of experience and know-how, Valmed immediately became a leader in the production of medical devices, and in high-frequency welding. || Valmed in the world 24 Countries Distribution Italia 20% – UE 40% – Extra UE 40%"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

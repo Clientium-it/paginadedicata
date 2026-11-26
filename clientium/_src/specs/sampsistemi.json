@@ -1,0 +1,28 @@
+{
+ "slug": "sampsistemi",
+ "company": "Sampsistemi",
+ "first_name": "Luciano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sampsistemi affianca da molti anni piccole e medie imprese di diversi settori su protezione dei dati, sicurezza sul lavoro e compliance. Qui trova come lavoriamo e cosa potremmo fare per Sampsistemi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sampsistemi.",
+ "evidence": [
+  {
+   "claim": "Sampsistemi affianca da molti anni piccole e medie imprese di diversi settori su protezione dei dati, sicurezza sul lavoro e compliance.",
+   "url": "https://www.coseco.de/",
+   "quote": "Seit vielen Jahren unterstützen wir kleine und mittelständische Unternehmen unterschiedlicher Branchen bei allen Fragen rund um Datenschutz, Arbeitssicherheit und Compliance. || kleine und mittelständische Unternehmen unterschiedlicher Branchen bei allen Fragen rund um Datenschutz, Arbeitssicherheit und Compliance"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

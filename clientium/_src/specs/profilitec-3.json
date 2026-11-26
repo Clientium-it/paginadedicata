@@ -1,0 +1,28 @@
+{
+ "slug": "profilitec-3",
+ "company": "Profilitec",
+ "first_name": "Raimondo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Profilitec produce sistemi per la posa di pavimenti e rivestimenti in ceramica, legno, marmo, pietra e lvt, presente in 90 paesi. Qui trova come lavoriamo e cosa potremmo fare per Profilitec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Profilitec.",
+ "evidence": [
+  {
+   "claim": "Profilitec produce sistemi per la posa di pavimenti e rivestimenti in ceramica, legno, marmo, pietra e lvt, presente in 90 paesi.",
+   "url": "https://www.profilitec.com/it",
+   "quote": "Sistemi per la posa di pavimenti e rivestimenti in ceramica, legno, marmo, pietra e lvt || 7K Articoli 10K Clienti 90 Paesi nel mondo || conosciamo il lavoro del posatore, del rivenditore, dell’architetto e del contractor, ognuno con le proprie esigenze specifiche e priorità"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

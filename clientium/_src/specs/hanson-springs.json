@@ -1,0 +1,28 @@
+{
+ "slug": "hanson-springs",
+ "company": "Hanson Springs Ltd",
+ "first_name": "Pascal",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hanson Springs produce molle con oltre 200 dipendenti su 3 siti per i settori oil and gas, nucleare, ferroviario ed energia. Qui trova come lavoriamo e cosa potremmo fare per Hanson Springs Ltd.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hanson Springs Ltd.",
+ "evidence": [
+  {
+   "claim": "Hanson Springs produce molle con oltre 200 dipendenti su 3 siti per i settori oil and gas, nucleare, ferroviario ed energia.",
+   "url": "https://www.hanson-springs.co.uk/",
+   "quote": "With over 200 employees across 3 sites and a turnover nudging £30M, Hanson Springs is a trusted name in the world of spring manufacturing. || 90,000 sq ft Cold Coil Spring Production Facility Hanson Place, Gorrells Way, Rochdale, Lancs, UK. OL11 2PX || trusted by the biggest names in Flow Control, Oil & Gas, Nuclear, Rail and Power Generation."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

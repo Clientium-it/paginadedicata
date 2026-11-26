@@ -1,0 +1,28 @@
+{
+ "slug": "mauro-saviola",
+ "company": "Gruppo Mauro Saviola",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gruppo Saviola dal 1997 produce pannelli truciolari con il 100% di legno riciclato e ha uno stabilimento produttivo in Argentina. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Mauro Saviola.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Mauro Saviola.",
+ "evidence": [
+  {
+   "claim": "Gruppo Saviola dal 1997 produce pannelli truciolari con il 100% di legno riciclato e ha uno stabilimento produttivo in Argentina.",
+   "url": "https://www.grupposaviola.com/",
+   "quote": "Dal 1997 produciamo pannelli truciolari con il 100% di legno riciclato || Planta Industrial: Sadepan Latinoamericana SA Ruta Provincial 39 Km 141,5 3260 Concepción del Uruguay, Entre Ríos – Argentina"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

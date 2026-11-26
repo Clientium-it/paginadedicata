@@ -1,0 +1,28 @@
+{
+ "slug": "carpenteria-metallica",
+ "company": "carpenteria metallica",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Metal R&P da oltre vent'anni progetta, realizza e installa opere di carpenteria metallica per completare le strutture edili a Vergiate in provincia di Varese. Qui trova come lavoriamo e cosa potremmo fare per carpenteria metallica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per carpenteria metallica.",
+ "evidence": [
+  {
+   "claim": "Metal R&P da oltre vent'anni progetta, realizza e installa opere di carpenteria metallica per completare le strutture edili a Vergiate in provincia di Varese.",
+   "url": "https://www.metalrp.it/azienda.html",
+   "quote": "si mette a completa disposizione dei clienti per progettare, realizzare e installare opere di carpenteria metallica di alta qualità, destinate a completare le strutture edili da oltre venti anni || Metal R&P Carpenteria e Fabbro, con sede a Vergiate in provincia di Varese"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

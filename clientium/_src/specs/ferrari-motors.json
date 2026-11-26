@@ -1,0 +1,28 @@
+{
+ "slug": "ferrari-motors",
+ "company": "Ferrari Motors",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ferrari Motors è una concessionaria che vende auto nuove e usate con sedi in diverse città del Nord Est. Qui trova come lavoriamo e cosa potremmo fare per Ferrari Motors.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ferrari Motors.",
+ "evidence": [
+  {
+   "claim": "Ferrari Motors è una concessionaria che vende auto nuove e usate con sedi in diverse città del Nord Est.",
+   "url": "https://intergeanordest.it/",
+   "quote": "Concessionaria auto | Vendita nuovo e usato Intergea NordEst || Brescia Mantova Modena Padova Parma Reggio Emilia Rovigo Treviso Venezia Verona Vicenza"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "absolent",
+ "company": "Absolent",
+ "first_name": "Giacomo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Absolent realizza sistemi per l'aria pulita per case, industrie e ambienti critici come il nucleare e la microelettronica, presente in 22 paesi. Qui trova come lavoriamo e cosa potremmo fare per Absolent.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Absolent.",
+ "evidence": [
+  {
+   "claim": "Absolent realizza sistemi per l'aria pulita per case, industrie e ambienti critici come il nucleare e la microelettronica, presente in 22 paesi.",
+   "url": "https://www.aafintl.com/",
+   "quote": "Operating in 22 countries with support in over 100, we provide clean air systems for homes, industries, and high-stakes settings like nuclear and microelectronics. || Operating in 22 countries with support in over 100 || homes, industries, and high-stakes settings like nuclear and microelectronics"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

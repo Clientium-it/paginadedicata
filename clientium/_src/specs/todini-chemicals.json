@@ -1,0 +1,28 @@
+{
+ "slug": "todini-chemicals",
+ "company": "Todini Chemicals",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Todini Chemicals distribuisce oltre 150 prodotti chimici speciali per settori come galvanica, ceramica, vetro, farmaceutico ed elettronica, con filiali e magazzini nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Todini Chemicals.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Todini Chemicals.",
+ "evidence": [
+  {
+   "claim": "Todini Chemicals distribuisce oltre 150 prodotti chimici speciali per settori come galvanica, ceramica, vetro, farmaceutico ed elettronica, con filiali e magazzini nel mondo.",
+   "url": "https://www.todini.com/info",
+   "quote": "we own branches and warehouses all over the world, distributing more than 150 specialty chemicals || we own branches and warehouses all over the world || galvanic, ceramic, glass, pharmaceutical, electronics, agro-zootechnical, catalysts, textile, rubber and plastic, lubricating greases"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

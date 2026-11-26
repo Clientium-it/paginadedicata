@@ -1,0 +1,28 @@
+{
+ "slug": "foba",
+ "company": "FOBA",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FOBA è nata nel 1969 come stabilimento di costruzione stampi e incisione e oggi conta circa 240 dipendenti con sede a Selmsdorf. Qui trova come lavoriamo e cosa potremmo fare per FOBA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FOBA.",
+ "evidence": [
+  {
+   "claim": "FOBA è nata nel 1969 come stabilimento di costruzione stampi e incisione e oggi conta circa 240 dipendenti con sede a Selmsdorf.",
+   "url": "https://www.fobalaser.com/about-foba/facts-figures/",
+   "quote": "1969 Founding of FOBA as a mold construction and engraving plant (15 employees) || With around 240 employees at several locations, including our headquarters in Selmsdorf, we combine technical expertise with a genuine team culture."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

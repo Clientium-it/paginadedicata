@@ -1,0 +1,28 @@
+{
+ "slug": "partner-in-pet-food-ppf",
+ "company": "Partner in Pet Food (PPF)",
+ "first_name": "Tommaso",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Partner in Pet Food produce alimenti per animali in 12 stabilimenti in Europa e serve oltre 400 clienti in 35 paesi. Qui trova come lavoriamo e cosa potremmo fare per Partner in Pet Food (PPF).",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Partner in Pet Food (PPF).",
+ "evidence": [
+  {
+   "claim": "Partner in Pet Food produce alimenti per animali in 12 stabilimenti in Europa e serve oltre 400 clienti in 35 paesi.",
+   "url": "https://www.ppfeurope.com/",
+   "quote": "With 12 state-of-the-art factories across Europe, we serve more than 400 customers in 35 countries. || PPF has its headquarters in Budapest, Hungary and operates in 10 countries - France, The Netherlands , Germany, Sweden, Italy, Czech Republic, Slovakia, Poland, Hungary and Romania. || We distribute our products to more than 400 customers across 35 countries, including supermarkets, specialist pet shops, and veterinarians."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

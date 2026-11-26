@@ -1,0 +1,28 @@
+{
+ "slug": "euratex",
+ "company": "EURATEX",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "EURATEX rappresenta dal 1996 gli interessi dell'industria tessile e dell'abbigliamento europea presso le istituzioni dell'Unione Europea. Qui trova come lavoriamo e cosa potremmo fare per EURATEX.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per EURATEX.",
+ "evidence": [
+  {
+   "claim": "EURATEX rappresenta dal 1996 gli interessi dell'industria tessile e dell'abbigliamento europea presso le istituzioni dell'Unione Europea.",
+   "url": "https://euratex.eu/about-euratex/",
+   "quote": "EURATEX is the European Apparel and Textile Confederation , representing the interests of the European textile and clothing industry at the level of the EU institutions. || EURATEX was officially created in 1996 with the merger of three organisations present in Brussels, all lobbying for the interests of the Textile and clothing industries since the early ‘60s."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

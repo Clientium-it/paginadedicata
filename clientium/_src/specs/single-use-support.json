@@ -1,0 +1,28 @@
+{
+ "slug": "single-use-support",
+ "company": "Single Use Support",
+ "first_name": "Roberta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Single Use Support fornisce ad aziende farmaceutiche e CDMO tecnologie per congelare, stoccare e trasportare principi attivi in contenitori monouso. Qui trova come lavoriamo e cosa potremmo fare per Single Use Support.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Single Use Support.",
+ "evidence": [
+  {
+   "claim": "Single Use Support fornisce ad aziende farmaceutiche e CDMO tecnologie per congelare, stoccare e trasportare principi attivi in contenitori monouso.",
+   "url": "https://www.susupport.com/pages/company",
+   "quote": "The company provides pharmaceutical manufacturers, biotechnology innovators, and CDMOs with technologies for the filling, draining, freezing, thawing, storage, shipping, and fluid transfer of drug substances in single-use bioprocess containers. || pharmaceutical manufacturers, biotechnology innovators, and CDMOs"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

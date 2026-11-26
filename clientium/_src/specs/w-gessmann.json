@@ -1,0 +1,28 @@
+{
+ "slug": "w-gessmann",
+ "company": "W. Gessmann GmbH",
+ "first_name": "Gabriele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gessmann realizza da oltre 95 anni prodotti per la tecnologia di comando, dai joystick alle consolle, usati nell'industria di tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per W. Gessmann GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per W. Gessmann GmbH.",
+ "evidence": [
+  {
+   "claim": "Gessmann realizza da oltre 95 anni prodotti per la tecnologia di comando, dai joystick alle consolle, usati nell'industria di tutto il mondo.",
+   "url": "https://www.gessmann.com/de/",
+   "quote": "Seit über 95 Jahren steht Gessmann für Qualität, Präzision und Innovation in der Steuerungstechnik. Unsere Produkte – von Joysticks bis Bedienkonsolen – sind weltweit im industriellen Einsatz bewährt. || W. Gessmann GmbH Werk Leingarten: Eppinger Straße 221 74211 Leingarten, Germany Werk Schwaigern: Siemensstraße 17 74193 Schwaigern, Germany"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "marazzi",
+ "company": "Marazzi Group",
+ "first_name": "Derek",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Marazzi produce piastrelle in ceramica dal 1935 a Sassuolo ed è presente in più di 140 paesi, dai progettisti ai rivenditori. Qui trova come lavoriamo e cosa potremmo fare per Marazzi Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Marazzi Group.",
+ "evidence": [
+  {
+   "claim": "Marazzi produce piastrelle in ceramica dal 1935 a Sassuolo ed è presente in più di 140 paesi, dai progettisti ai rivenditori.",
+   "url": "https://www.marazzigroup.com/about-us/",
+   "quote": "Marazzi was founded in 1935 at Sassuolo , in what was to become the top international hub for the creation of state-of-the-art, high-end ceramic tiles || Present in more than 140 countries , it is universally recognised as synonymous with quality ceramic tiles || both with designers, architects and contractors and with dealers and final customers"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

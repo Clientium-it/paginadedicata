@@ -1,0 +1,28 @@
+{
+ "slug": "allergy-therapeutics",
+ "company": "Allergy Therapeutics",
+ "first_name": "Daniela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Allergy Therapeutics sviluppa vaccini per le allergie senza alluminio e trattamenti brevi, con una presenza in 19 mercati europei tra diretti e partnership. Qui trova come lavoriamo e cosa potremmo fare per Allergy Therapeutics.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Allergy Therapeutics.",
+ "evidence": [
+  {
+   "claim": "Allergy Therapeutics sviluppa vaccini per le allergie senza alluminio e trattamenti brevi, con una presenza in 19 mercati europei tra diretti e partnership.",
+   "url": "https://www.allergytherapeutics.com/about-us/overview/",
+   "quote": "We believe that transformational outcomes for patients are achieved by directly treating the cause, rather than just managing symptoms. Our vaccines are aluminium free. Driving convenience; our ultra-short course treatments make life easier and increase adherence. || Allergy Therapeutics continues to maintain a strong presence in Europe with established operations in 19 markets, either directly or via partnerships. || As a Healthcare professional, you understand the importance of convenience in allergy treatments, because this allows you to deliver the best patient care."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

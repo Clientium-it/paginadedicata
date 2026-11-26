@@ -1,0 +1,28 @@
+{
+ "slug": "limonta-2",
+ "company": "Limonta",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Limonta opera nei settori dell'abbigliamento, della pelletteria, della calzatura, degli accessori e della carta da parati, e produce erba sintetica. Qui trova come lavoriamo e cosa potremmo fare per Limonta.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Limonta.",
+ "evidence": [
+  {
+   "claim": "Limonta opera nei settori dell'abbigliamento, della pelletteria, della calzatura, degli accessori e della carta da parati, e produce erba sintetica.",
+   "url": "https://www.limonta.com/it/storia",
+   "quote": "In questi anni Limonta diversifica nei settori dell’abbigliamento, della pelletteria, della calzatura, degli accessori e della carta da parati e avvia la produzione di erba sintetica || LIMONTA S.p.A. Via C. Battisti, 15 23845 Costa Masnaga (LC), Italy P.IVA 00201760139 || nei settori dell’abbigliamento, della pelletteria, della calzatura, degli accessori e della carta da parati"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

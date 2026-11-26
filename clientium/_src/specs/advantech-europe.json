@@ -1,0 +1,28 @@
+{
+ "slug": "advantech-europe",
+ "company": "Advantech Europe",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Advantech sviluppa sistemi IoT e piattaforme embedded con focus su Edge Computing ed Edge AI per mercati come manifattura, energia, sanità e retail. Qui trova come lavoriamo e cosa potremmo fare per Advantech Europe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Advantech Europe.",
+ "evidence": [
+  {
+   "claim": "Advantech sviluppa sistemi IoT e piattaforme embedded con focus su Edge Computing ed Edge AI per mercati come manifattura, energia, sanità e retail.",
+   "url": "https://www.advantech.com/en/about",
+   "quote": "Advantech is a global leader in IoT intelligent systems and embedded platforms, with the corporate vision of \"Enabling an Intelligent Planet.\" || Advantech fully deploys its sector-driven strategy and focus on Edge Computing and Edge AI, targeting five key markets: Edge Intelligence Systems, Manufacturing, Energy and Utilities, iHealthcare, and iCity Services & iRetail. || targeting five key markets: Edge Intelligence Systems, Manufacturing, Energy and Utilities, iHealthcare, and iCity Services & iRetail"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

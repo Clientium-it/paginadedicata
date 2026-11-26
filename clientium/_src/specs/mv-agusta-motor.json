@@ -1,0 +1,28 @@
+{
+ "slug": "mv-agusta-motor",
+ "company": "MV Agusta Motor",
+ "first_name": "Nicolò",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MV Agusta progetta, sviluppa e costruisce moto, con sede a Schiranna. Qui trova come lavoriamo e cosa potremmo fare per MV Agusta Motor.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MV Agusta Motor.",
+ "evidence": [
+  {
+   "claim": "MV Agusta progetta, sviluppa e costruisce moto, con sede a Schiranna.",
+   "url": "https://www.mvagusta.com/de/it/about-us",
+   "quote": "La nostra mission è progettare, sviluppare, e costruire le moto più avanzate al mondo, con design iconici, performance ai massimi livelli e i componenti e le tecnologie esistenti più avanzati. || Il marchio di Schiranna porta a Biarritz l'intera anima del brand: innovazione, competizione e patrimonio storico"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

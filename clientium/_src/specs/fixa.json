@@ -1,0 +1,28 @@
+{
+ "slug": "fixa",
+ "company": "FIXA",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FIXA da oltre 10 anni offre soluzioni per le aziende dell'impiantistica industriale, rivolte a progettisti e installatori, con sede a Buccinasco. Qui trova come lavoriamo e cosa potremmo fare per FIXA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FIXA.",
+ "evidence": [
+  {
+   "claim": "FIXA da oltre 10 anni offre soluzioni per le aziende dell'impiantistica industriale, rivolte a progettisti e installatori, con sede a Buccinasco.",
+   "url": "https://fixasrl.it/about/",
+   "quote": "Da oltre 10 anni offriamo le migliori soluzioni per le aziende che operano nel settore dell’impiantistica industriale. || Sede legale: Via Giuseppe Di Vittorio Peschiera Borromeo 20068 (MI) Sede operativa: Via Lazio 11 Buccinasco 20090 (MI) || Soluzioni per Progettisti Soluzioni per Installatori"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

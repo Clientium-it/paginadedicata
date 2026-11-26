@@ -1,0 +1,28 @@
+{
+ "slug": "polinas-nuroll-yildiz",
+ "company": "Polinas&Nuroll (Yildiz Holding)",
+ "first_name": "Numan",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Polinas dal 1982 produce a Manisa film in polipropilene BOPP ed è stata la prima azienda del genere in Turchia. Qui trova come lavoriamo e cosa potremmo fare per Polinas&Nuroll (Yildiz Holding).",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Polinas&Nuroll (Yildiz Holding).",
+ "evidence": [
+  {
+   "claim": "Polinas dal 1982 produce a Manisa film in polipropilene BOPP ed è stata la prima azienda del genere in Turchia.",
+   "url": "https://www.polinas.com/tr",
+   "quote": "1982 yılında Türkiye'nin ilk BOPP (Çift Yönde Gerdirilmiş Polipropilen) film üreticisi olarak Manisa'da kurulan Polinas, sektörde lider ve öncü konumundadır. || Manisa OSB 1. Kısım, Keçiliköy Mah. Cumhuriyet Caddesi No:2 45030 Yunusemre/Manisa"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

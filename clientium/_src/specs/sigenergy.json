@@ -1,0 +1,28 @@
+{
+ "slug": "sigenergy",
+ "company": "Sigenergy",
+ "first_name": "Guglielmo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sigenergy sviluppa soluzioni per l'energia come batterie di accumulo, inverter solari e caricatori per auto elettriche, con una fabbrica di 36.000 m² a Shanghai. Qui trova come lavoriamo e cosa potremmo fare per Sigenergy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sigenergy.",
+ "evidence": [
+  {
+   "claim": "Sigenergy sviluppa soluzioni per l'energia come batterie di accumulo, inverter solari e caricatori per auto elettriche, con una fabbrica di 36.000 m² a Shanghai.",
+   "url": "https://www.sigenergy.com/de/about",
+   "quote": "Sigenergy ist ein zukunftsorientiertes Unternehmen, das sich auf die Entwicklung modernster Energielösungen für Privathaushalte und Unternehmen konzentriert, darunter Energiespeicherbatterien, Solarwechselrichter und EV-Ladegeräte || Mit einer Fläche von 36.000 m² im neuen Pudong-Gebiet von Shanghai integriert Sigenergys hochmoderne neue Fabrik fortschrittliche Fertigungsprozesse und ein selbst entwickeltes MES-System || Energielösungen für Privathaushalte und Unternehmen konzentriert, darunter Energiespeicherbatterien, Solarwechselrichter und EV-Ladegeräte"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "oleificio-zucchi",
+ "company": "Oleificio Zucchi",
+ "first_name": "Gianpaolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Oleificio Zucchi nasce nel 1810 nel lodigiano e lavora oli da semi per uso alimentare con una distribuzione tra GDO, Ho.Re.Ca e industria alimentare. Qui trova come lavoriamo e cosa potremmo fare per Oleificio Zucchi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Oleificio Zucchi.",
+ "evidence": [
+  {
+   "claim": "Oleificio Zucchi nasce nel 1810 nel lodigiano e lavora oli da semi per uso alimentare con una distribuzione tra GDO, Ho.Re.Ca e industria alimentare.",
+   "url": "https://www.zucchi.com/storia/",
+   "quote": "nasce nel 1810 nel lodigiano come attività artigianale a conduzione familiare dedicata all’estrazione di olio da semi per uso alimentare || in un’area di 80.000 mq, con una capacità produttiva che è cresciuta fino a 1.500.000 litri/giorno confezionati, nove linee altamente automatizzate || un’ampia distribuzione sia nella GDO, sia nel canale Ho.Re.Ca, sia nell’industria di trasformazione alimentare"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

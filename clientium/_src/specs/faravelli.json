@@ -1,0 +1,28 @@
+{
+ "slug": "faravelli",
+ "company": "FARAVELLI",
+ "first_name": "Julia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Faravelli distribuisce ingredienti e materie prime chimiche per i settori alimentare, farmaceutico, cosmetico e nutraceutico, da Milano verso Europa, Cina e Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per FARAVELLI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FARAVELLI.",
+ "evidence": [
+  {
+   "claim": "Faravelli distribuisce ingredienti e materie prime chimiche per i settori alimentare, farmaceutico, cosmetico e nutraceutico, da Milano verso Europa, Cina e Stati Uniti.",
+   "url": "https://faravelligroup.com/",
+   "quote": "Faravelli Group is active in the distribution of ingredients and chemical raw materials for the food, nutraceutical, pharmaceutical, cosmetic, animal nutrition and industrial chemical sectors || Headquartered in Milan, Faravelli Group operates through a network of directly owned companies in Italy, Germany, the Czech Republic, the Slovak Republic, Hungary, Spain, China and the United States || the food, nutraceutical, pharmaceutical, cosmetic, animal nutrition and industrial chemical sectors"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

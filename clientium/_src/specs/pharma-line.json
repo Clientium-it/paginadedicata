@@ -1,0 +1,28 @@
+{
+ "slug": "pharma-line",
+ "company": "Pharma Line",
+ "first_name": "Chiara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pharma Line dal 1987 sviluppa integratori alimentari e dispositivi medici per il mercato nutraceutico pensati per medici farmacisti e pazienti. Qui trova come lavoriamo e cosa potremmo fare per Pharma Line.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pharma Line.",
+ "evidence": [
+  {
+   "claim": "Pharma Line dal 1987 sviluppa integratori alimentari e dispositivi medici per il mercato nutraceutico pensati per medici farmacisti e pazienti.",
+   "url": "https://pharma-line.it/it/chi-siamo/",
+   "quote": "Dal 1987 Pharma Line sviluppa prodotti innovativi e altamente qualificati per il mercato nutraceutico || È stata pioniera nello sviluppo di integratori alimentari e dispositivi medici all'avanguardia, altamente qualificati e clinicamente studiati || per sviluppare prodotti che rispondano alle esigenze reali di medici, farmacisti e pazienti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

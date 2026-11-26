@@ -1,0 +1,28 @@
+{
+ "slug": "scharlab-italia",
+ "company": "SCHARLAB Italia",
+ "first_name": "Osvaldo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Scharlab da 75 anni produce prodotti chimici per laboratorio e terreni di coltura per microbiologia, con distribuzione in oltre 100 paesi. Qui trova come lavoriamo e cosa potremmo fare per SCHARLAB Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SCHARLAB Italia.",
+ "evidence": [
+  {
+   "claim": "Scharlab da 75 anni produce prodotti chimici per laboratorio e terreni di coltura per microbiologia, con distribuzione in oltre 100 paesi.",
+   "url": "https://www.scharlab.com/lab/it/it/chi-siamo/",
+   "quote": "75 anni fabbrica prodotti chimici per il laboratorio e terreni di coltura per microbiologia. || Ampia presenza internazionale con distribuzione in più di 100 paesi. || laboratori di ricerca, controllo qualità, ambientali e di produzione"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

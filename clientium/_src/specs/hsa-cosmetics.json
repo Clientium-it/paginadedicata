@@ -1,0 +1,28 @@
+{
+ "slug": "hsa-cosmetics",
+ "company": "HSA Cosmetics",
+ "first_name": "Natalia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "HSA Cosmetics crea e produce cosmetici a marchio privato in Italia ed è presente in 90 paesi nei cinque continenti. Qui trova come lavoriamo e cosa potremmo fare per HSA Cosmetics.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per HSA Cosmetics.",
+ "evidence": [
+  {
+   "claim": "HSA Cosmetics crea e produce cosmetici a marchio privato in Italia ed è presente in 90 paesi nei cinque continenti.",
+   "url": "https://www.hsacosmetics.com/it/chi-siamo",
+   "quote": "HSA è il produttore di cosmetici a marchio privato che crea e produce in Italia per tutelare l'originalità riconosciuta in tutto il mondo. Siamo presenti in 90 paesi nei 5 continenti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

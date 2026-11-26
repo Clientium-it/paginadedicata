@@ -1,0 +1,28 @@
+{
+ "slug": "clivet-2",
+ "company": "Clivet",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Clivet progetta e produce sistemi per climatizzazione, riscaldamento e purificazione dell'aria dagli stabilimenti di Feltre, a Belluno, esportando in oltre 100 paesi. Qui trova come lavoriamo e cosa potremmo fare per Clivet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Clivet.",
+ "evidence": [
+  {
+   "claim": "Clivet progetta e produce sistemi per climatizzazione, riscaldamento e purificazione dell'aria dagli stabilimenti di Feltre, a Belluno, esportando in oltre 100 paesi.",
+   "url": "https://www.clivet.com/en/about/clivet-group",
+   "quote": "We design, manufacture and distribute advanced systems for air conditioning, heating, air renewal and air purification throughout Europe. || 53.500 m² of factories in Feltre, Belluno 36 agencies in Italy 100+ Countries we export to 5 Branches in Europe and worldwide 160 Service centres || With a wide range of solutions, designed for residential, commercial and industrial applications"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

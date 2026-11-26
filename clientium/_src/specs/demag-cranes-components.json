@@ -1,0 +1,28 @@
+{
+ "slug": "demag-cranes-components",
+ "company": "Demag Cranes & Components",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Demag produce da oltre 200 anni soluzioni per il flusso dei materiali e la logistica, servendo sia piccole imprese sia grandi gruppi internazionali. Qui trova come lavoriamo e cosa potremmo fare per Demag Cranes & Components.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Demag Cranes & Components.",
+ "evidence": [
+  {
+   "claim": "Demag produce da oltre 200 anni soluzioni per il flusso dei materiali e la logistica, servendo sia piccole imprese sia grandi gruppi internazionali.",
+   "url": "https://www.demagcranes.com/en/company",
+   "quote": "As one of the world's leading manufacturers, we have been offering our customers a comprehensive portfolio of solutions for their material flow and logistics needs for more than 200 years || our customers include small businesses and global corporations"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

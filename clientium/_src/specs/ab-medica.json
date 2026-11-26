@@ -1,0 +1,28 @@
+{
+ "slug": "ab-medica",
+ "company": "ab medica",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ab medica dal 1984 progetta e distribuisce soluzioni per la salute con sede a Cerro Maggiore in provincia di Milano. Qui trova come lavoriamo e cosa potremmo fare per ab medica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ab medica.",
+ "evidence": [
+  {
+   "claim": "Ab medica dal 1984 progetta e distribuisce soluzioni per la salute con sede a Cerro Maggiore in provincia di Milano.",
+   "url": "https://abmedica.it/chi-siamo/",
+   "quote": "Dal 1984 progettiamo e distribuiamo le migliori soluzioni per la salute. || via J.F. Kennedy 10/12 20023 Cerro Maggiore (MI) || dei pazienti e delle loro famiglie, dei medici e di tutto il sistema sanitario"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

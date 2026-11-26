@@ -1,0 +1,28 @@
+{
+ "slug": "st-engineering-antycip",
+ "company": "ST Engineering Antycip",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ST Engineering Antycip, azienda europea nata nel 1997, ha uffici in Regno Unito, Italia, Francia e Germania e lavora con università, difesa e case automobilistiche. Qui trova come lavoriamo e cosa potremmo fare per ST Engineering Antycip.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ST Engineering Antycip.",
+ "evidence": [
+  {
+   "claim": "ST Engineering Antycip, azienda europea nata nel 1997, ha uffici in Regno Unito, Italia, Francia e Germania e lavora con università, difesa e case automobilistiche.",
+   "url": "https://steantycip.com/about-us/",
+   "quote": "ST Engineering Antycip is a European company founded in 1997. || With regional offices in the UK, Italy, France and Germany || leading universities to winning sports teams, to multinational defence contractors, to noted engineering companies, to premier car manufacturers"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

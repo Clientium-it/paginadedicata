@@ -1,0 +1,28 @@
+{
+ "slug": "socaf-3",
+ "company": "SOCAF",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Socaf dal 1982 propone soluzioni per il cleaning professionale e serve settori come industria, imprese di pulizia, retail e logistica. Qui trova come lavoriamo e cosa potremmo fare per SOCAF.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SOCAF.",
+ "evidence": [
+  {
+   "claim": "Socaf dal 1982 propone soluzioni per il cleaning professionale e serve settori come industria, imprese di pulizia, retail e logistica.",
+   "url": "https://socaf.it/",
+   "quote": "Specialista dal 1982 in soluzioni per il cleaning professionale e per la qualità degli ambienti di lavoro || Socaf SPA lombardia Via Trieste, 14 | 24046 Osio Sotto (BG) T +39 035 4876054 info@socaf.it Via dei Ponticelli, 47 | 25014 Castenedolo (BS) T +39 030 2732674 info@socaf.it Via De Gasperi, 120 | 20017 Mazzo di Rho (MI) || Settori Industriale Imprese di pulizia Retail Logistica Ho.Re.Ca. Referenze Socaf Chi siamo Aziende Careers Il nostro impegno Shop"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

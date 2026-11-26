@@ -1,0 +1,28 @@
+{
+ "slug": "eurofins-consumer-product-testing",
+ "company": "Eurofins Consumer Product Testing",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Eurofins svolge test in una rete di laboratori presente in 57 paesi, lavorando tra mercati e settori per migliorare salute, sicurezza e ambiente. Qui trova come lavoriamo e cosa potremmo fare per Eurofins Consumer Product Testing.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Eurofins Consumer Product Testing.",
+ "evidence": [
+  {
+   "claim": "Eurofins svolge test in una rete di laboratori presente in 57 paesi, lavorando tra mercati e settori per migliorare salute, sicurezza e ambiente.",
+   "url": "https://www.eurofins.com:443/en/",
+   "quote": "With a network of laboratories in 57 countries, we work across markets, continents and industries to carry out testing to improve health, safety and the environment."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "ewo-2",
+ "company": "ewo",
+ "first_name": "Diego",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ewo porta la sua illuminazione nel mondo dalla sede di Cortaccia e dalle filiali in Germania, Austria, Francia e Stati Uniti con oltre 130 persone. Qui trova come lavoriamo e cosa potremmo fare per ewo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ewo.",
+ "evidence": [
+  {
+   "claim": "Ewo porta la sua illuminazione nel mondo dalla sede di Cortaccia e dalle filiali in Germania, Austria, Francia e Stati Uniti con oltre 130 persone.",
+   "url": "https://ewo.com/it",
+   "quote": "Dalla sede centrale di Cortaccia, in Italia, e dalle filiali in Germania, Austria, Francia e Stati Uniti, con un team di oltre 130 persone ewo porta la sua filosofia di illuminazione in tutto il mondo. || Dalla sede centrale di Cortaccia, in Italia, e dalle filiali in Germania, Austria, Francia e Stati Uniti, con un team di oltre 130 persone ewo porta la sua filosofia di illuminazione in tutto il mondo. || Strutture portuali, centri logistici, magazzini – la tecnologia LED efficiente di ewo detta lo standard per l'illuminazione di grandi aree."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

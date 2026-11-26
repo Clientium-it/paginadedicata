@@ -1,0 +1,28 @@
+{
+ "slug": "zoomlion-access",
+ "company": "ZOOMLION ACCESS",
+ "first_name": "Flavio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ZOOMLION dal 1992 produce macchine per costruzioni, minerarie e agricole, con 15 categorie di prodotto e 26 parchi industriali in Cina e 11 basi all'estero. Qui trova come lavoriamo e cosa potremmo fare per ZOOMLION ACCESS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ZOOMLION ACCESS.",
+ "evidence": [
+  {
+   "claim": "ZOOMLION dal 1992 produce macchine per costruzioni, minerarie e agricole, con 15 categorie di prodotto e 26 parchi industriali in Cina e 11 basi all'estero.",
+   "url": "https://en.zoomlion.com/about/company_profile.htm",
+   "quote": "Founded in 1992, ZOOMLION specializes in construction machinery, mining machinery, and agricultural machinery, with a product portfolio spanning 15 major categories, 78 product series, and 713 models. || It currently operates 26 industrial parks in China and 11 R&D and manufacturing bases overseas."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

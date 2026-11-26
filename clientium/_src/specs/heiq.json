@@ -1,0 +1,28 @@
+{
+ "slug": "heiq",
+ "company": "HeiQ",
+ "first_name": "Sergio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "HeiQ dal 2005 sviluppa materiali avanzati e chimiche biotecnologiche per tessili, cura della casa, cura della persona e trattamento dell'acqua, vicino a Zurigo. Qui trova come lavoriamo e cosa potremmo fare per HeiQ.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per HeiQ.",
+ "evidence": [
+  {
+   "claim": "HeiQ dal 2005 sviluppa materiali avanzati e chimiche biotecnologiche per tessili, cura della casa, cura della persona e trattamento dell'acqua, vicino a Zurigo.",
+   "url": "https://www.heiq.com/",
+   "quote": "HeiQ is a Swiss deeptech materials innovator founded in 2005 as a spin‑off from ETH Zurich, developing disruptive technologies across advanced materials, biotechnology, and sustainable solutions for global industries. || HeiQ Materials AG Ruetistrasse 12 8952 Schlieren (Zurich) Switzerland || HeiQ develops biotechnology‑enabled chemistries for textiles, home care, personal care, water, and animal care."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

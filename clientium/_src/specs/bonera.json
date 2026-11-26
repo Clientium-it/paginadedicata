@@ -1,0 +1,28 @@
+{
+ "slug": "bonera",
+ "company": "Bonera Group",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bonera gestisce store dove provare le auto di marchi come Mercedes-Benz, BMW, MINI, Toyota e Lexus, con sedi a Brescia e Lonato del Garda. Qui trova come lavoriamo e cosa potremmo fare per Bonera Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bonera Group.",
+ "evidence": [
+  {
+   "claim": "Bonera gestisce store dove provare le auto di marchi come Mercedes-Benz, BMW, MINI, Toyota e Lexus, con sedi a Brescia e Lonato del Garda.",
+   "url": "https://www.bonera.it/sede/",
+   "quote": "nei nostri store per conoscere e provare su strada le migliori vetture dei prestigiosi brand che rappresentiamo: Mercedes-Benz, Mercedes-AMG, smart, BMW, BMW M, BMW i, MINI, BMW Motorrad, Toyota, Toyota GR, Lexus, XPENG, GEELY e INEOS. || BONERA MERCEDES-BENZ, SMART E AMG PERFORMANCE CENTER Via Zammarchi, 3 25135 Brescia BS Tel: 030 3718511 Mostra sede MERCEDES-BENZ E SMART – LONATO DEL GARDA Via Mantova 4/N S.S. Desenzano-Castiglione 25017 Lonato del Garda BS Tel: 030 9912669 Mostra sede"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "enac",
+ "company": "ENAC",
+ "first_name": "Memo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Enac fornisce aziende produttrici italiane ed europee del settore dolciario e alimentare, da una struttura di 18.000 mq a Cura Carpignano. Qui trova come lavoriamo e cosa potremmo fare per ENAC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ENAC.",
+ "evidence": [
+  {
+   "claim": "Enac fornisce aziende produttrici italiane ed europee del settore dolciario e alimentare, da una struttura di 18.000 mq a Cura Carpignano.",
+   "url": "https://www.enac.it/chi-siamo/",
+   "quote": "ENAC fornisce alcune tra le più importanti aziende produttrici italiane ed europee operanti nel settore dolciario ed alimentare in genere || Originariamente situata a Pavia in un’area di 1.000 mq alla fine degli anni 80 viene trasferita nella nuova struttura di 18.000 mq. di Cura Carpignano (PV) || le più importanti aziende produttrici italiane ed europee operanti nel settore dolciario ed alimentare in genere"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "machine-solutions",
+ "company": "Machine Solutions",
+ "first_name": "Raphaël",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Machine Solutions fornisce attrezzature e servizi avanzati per i settori dei dispositivi medici, del biofarmaceutico e della raccolta di sangue e plasma. Qui trova come lavoriamo e cosa potremmo fare per Machine Solutions.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Machine Solutions.",
+ "evidence": [
+  {
+   "claim": "Machine Solutions fornisce attrezzature e servizi avanzati per i settori dei dispositivi medici, del biofarmaceutico e della raccolta di sangue e plasma.",
+   "url": "https://www.machinesolutions.com/about-machine-solutions",
+   "quote": "we provide advanced equipment and services for the medical device, biopharmaceutical, and blood- and plasma-collection industries || Machine Solutions Inc. Acquires Megadale, Adds Ireland Site for Intec Automation || we provide advanced equipment and services for the medical device, biopharmaceutical, and blood- and plasma-collection industries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

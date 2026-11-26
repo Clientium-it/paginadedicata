@@ -1,0 +1,28 @@
+{
+ "slug": "hongfa-europe",
+ "company": "Hongfa Europe GmbH",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hongfa produce relè, apparecchiature elettriche di bassa e media tensione, connettori, condensatori e componenti di precisione per oltre 120 paesi. Qui trova come lavoriamo e cosa potremmo fare per Hongfa Europe GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hongfa Europe GmbH.",
+ "evidence": [
+  {
+   "claim": "Hongfa produce relè, apparecchiature elettriche di bassa e media tensione, connettori, condensatori e componenti di precisione per oltre 120 paesi.",
+   "url": "https://eu.hongfa.com/en/aboutus",
+   "quote": "Our business covers more than 120 countries and regions, including relays, medium and low voltage electrical appliances, high and low voltage complete equipment, connectors, capacitors, precision parts and automation equipment. || HONGFA has established three R&D and production bases in China (Xiamen-Zhangzhou, East and West) and a factory in Indonesia, successfully creating the advantage of a complete industrial chain with a complete range of products. || Hongfa maintains a stable relationship with global famous OEMs and Tier1 suppliers."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

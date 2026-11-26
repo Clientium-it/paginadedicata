@@ -1,0 +1,28 @@
+{
+ "slug": "bruschi",
+ "company": "Bruschi",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bruschi produce oltre 110 milioni di componenti pressofusi in zinco e alluminio con 255 dipendenti tra Italia e Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per Bruschi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bruschi.",
+ "evidence": [
+  {
+   "claim": "Bruschi produce oltre 110 milioni di componenti pressofusi in zinco e alluminio con 255 dipendenti tra Italia e Stati Uniti.",
+   "url": "https://bruschitech.com/",
+   "quote": "Bruschi processes 6,500 tons of zinc and 2,000 tons of aluminum per year, producing over 110 million components using hot-chamber die-casting machines || 255 employees Between Italy and United States || Sectors Automotive Electronics Electromechanical Buildings Small appliances and white goods Lighting Textile Others"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

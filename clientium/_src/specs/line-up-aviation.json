@@ -1,0 +1,28 @@
+{
+ "slug": "line-up-aviation",
+ "company": "Line Up Aviation",
+ "first_name": "Susan",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Line Up Aviation si occupa di ricerca e selezione nel settore aeronautico dal 1988 e fornisce personale permanente e a contratto in oltre 54 paesi. Qui trova come lavoriamo e cosa potremmo fare per Line Up Aviation.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Line Up Aviation.",
+ "evidence": [
+  {
+   "claim": "Line Up Aviation si occupa di ricerca e selezione nel settore aeronautico dal 1988 e fornisce personale permanente e a contratto in oltre 54 paesi.",
+   "url": "https://www.luap.com/about-us/",
+   "quote": "Line Up Aviation is an industry-leading international aviation recruitment consultancy established in 1988. We are trusted by the industry's most respected organisations to provide permanent and contract workforce solutions in over 54 countries. || London, UK Head Office Tel: +44 1403 217688 Milan, Italy European Office Tel: +39 0331 1687262 Riyadh, KSA Gulf Division"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

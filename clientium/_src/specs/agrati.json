@@ -1,0 +1,28 @@
+{
+ "slug": "agrati",
+ "company": "Agrati Group",
+ "first_name": "Peter",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Agrati ogni anno trasforma 160.000 tonnellate di acciaio in 8 miliardi di componenti per OEM e fornitori Tier 1, con centri logistici a Trezzo d'Adda e Verona. Qui trova come lavoriamo e cosa potremmo fare per Agrati Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Agrati Group.",
+ "evidence": [
+  {
+   "claim": "Agrati ogni anno trasforma 160.000 tonnellate di acciaio in 8 miliardi di componenti per OEM e fornitori Tier 1, con centri logistici a Trezzo d'Adda e Verona.",
+   "url": "https://www.agrati.com/",
+   "quote": "Each year, we turn 160.000 tons of steel into 8 billion components , enabling the assembly of over 40 million vehicles — driven by 8% investment in innovation. || Agrati expanded its logistics network with new centres in Trezzo d’Adda (2009) and Verona (2015) || a strong sales team supporting major OEMs and Tier 1 suppliers"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

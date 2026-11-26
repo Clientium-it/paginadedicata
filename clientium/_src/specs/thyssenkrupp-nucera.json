@@ -1,0 +1,28 @@
+{
+ "slug": "thyssenkrupp-nucera",
+ "company": "thyssenkrupp nucera",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Thyssenkrupp nucera realizza tecnologie di elettrolisi per idrogeno verde e cloro, con oltre 600 progetti, più di 60 anni di esperienza e 8 sedi. Qui trova come lavoriamo e cosa potremmo fare per thyssenkrupp nucera.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per thyssenkrupp nucera.",
+ "evidence": [
+  {
+   "claim": "Thyssenkrupp nucera realizza tecnologie di elettrolisi per idrogeno verde e cloro, con oltre 600 progetti, più di 60 anni di esperienza e 8 sedi.",
+   "url": "https://www.thyssenkrupp-nucera.com/",
+   "quote": "delivers electrolysis technologies for the industrial production of green hydrogen and chlorine. With over 600 projects worldwide, 10+ gigawatts installed, and more than 60 years of experience || 8 locations 1,000+ employees worldwide 600+ successful projects"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "viking-emea",
+ "company": "Viking EMEA",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Viking segue progetti dei clienti in tutto il mondo per oltre 6 miliardi di dollari e li affianca per realizzarli. Qui trova come lavoriamo e cosa potremmo fare per Viking EMEA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Viking EMEA.",
+ "evidence": [
+  {
+   "claim": "Viking segue progetti dei clienti in tutto il mondo per oltre 6 miliardi di dollari e li affianca per realizzarli.",
+   "url": "https://www.johnsoncontrols.com/",
+   "quote": "more than $6B in customer projects worldwide, we partner with you to determine the best way to make your project happen"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

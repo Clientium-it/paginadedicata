@@ -1,0 +1,28 @@
+{
+ "slug": "ibsa-italy",
+ "company": "IBSA Italy",
+ "first_name": "Pierdomenico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IBSA Italy ha sede a Lodi con due stabilimenti produttivi e tre laboratori di ricerca e porta i suoi prodotti in più di 90 Paesi. Qui trova come lavoriamo e cosa potremmo fare per IBSA Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IBSA Italy.",
+ "evidence": [
+  {
+   "claim": "IBSA Italy ha sede a Lodi con due stabilimenti produttivi e tre laboratori di ricerca e porta i suoi prodotti in più di 90 Paesi.",
+   "url": "https://www.ibsaitaly.it/chi-siamo.html",
+   "quote": "Ha un fatturato di oltre 350 milioni di euro, impiega oltre 630 collaboratori ed è presente con i suoi prodotti in più di 90 Paesi nel mondo || ha la sua sede centrale a Lodi, due stabilimenti produttivi e tre laboratori di ricerca e sviluppo"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

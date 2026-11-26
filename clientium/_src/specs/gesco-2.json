@@ -1,0 +1,28 @@
+{
+ "slug": "gesco-2",
+ "company": "Gesco",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gesco è una ESCo certificata UNI CEI 11352 e offre soluzioni per ridurre i consumi energetici, tra Monteriggioni e Colle di Val d'Elsa. Qui trova come lavoriamo e cosa potremmo fare per Gesco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gesco.",
+ "evidence": [
+  {
+   "claim": "Gesco è una ESCo certificata UNI CEI 11352 e offre soluzioni per ridurre i consumi energetici, tra Monteriggioni e Colle di Val d'Elsa.",
+   "url": "https://gesco.energy/",
+   "quote": "Siamo una Energy Service Company (ESCo) certificata UNI CEI 11352 e offriamo soluzioni su misura per ridurre i consumi energetici in contesti produttivi strutturati. || Lavoriamo tra Monteriggioni, in un edificio storico situato lungo la Via Francigena, e Colle di Val d’Elsa, dove abbiamo una seconda sede dotata anche di officina ed un magazzino."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "ricola",
+ "company": "Ricola",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ricola produce caramelle con erbe alpine svizzere dal 1930 e accoglie visitatori nei suoi giardini e nel centro delle erbe. Qui trova come lavoriamo e cosa potremmo fare per Ricola.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ricola.",
+ "evidence": [
+  {
+   "claim": "Ricola produce caramelle con erbe alpine svizzere dal 1930 e accoglie visitatori nei suoi giardini e nel centro delle erbe.",
+   "url": "https://www.ricola.com/de-de/",
+   "quote": "Die Bonbons mit Schweizer Alpenkräutern seit 1930 | Ricola || Besuche Ricola Kräutergärten und Kräuterzentrum Ricola Erlebnisshop Laufen"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

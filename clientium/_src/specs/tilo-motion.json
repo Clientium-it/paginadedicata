@@ -1,0 +1,28 @@
+{
+ "slug": "tilo-motion",
+ "company": "Tilo Motion",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tilo Motion offre una soluzione di trasformazione digitale 360 per il settore dell'automotive. Qui trova come lavoriamo e cosa potremmo fare per Tilo Motion.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tilo Motion.",
+ "evidence": [
+  {
+   "claim": "Tilo Motion offre una soluzione di trasformazione digitale 360 per il settore dell'automotive.",
+   "url": "https://www.tilomotion.com/",
+   "quote": "Somos la primera empresa en ofrecer una solución REAL de transformación digital 360 para el sector de automoción."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

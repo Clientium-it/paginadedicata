@@ -1,0 +1,28 @@
+{
+ "slug": "ipc-soteco",
+ "company": "IPC SOTECO",
+ "first_name": "Franco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Soteco progetta e realizza da oltre 40 anni impianti di trattamento acque e depurazione reflui civili e industriali a Santa Maria Capua Vetere. Qui trova come lavoriamo e cosa potremmo fare per IPC SOTECO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IPC SOTECO.",
+ "evidence": [
+  {
+   "claim": "Soteco progetta e realizza da oltre 40 anni impianti di trattamento acque e depurazione reflui civili e industriali a Santa Maria Capua Vetere.",
+   "url": "https://www.sotecospa.com/azienda/",
+   "quote": "Presente sul mercato italiano da oltre 40 anni, la SO.T.ECO. S.p.A. ha saputo conquistare e mantenere nel tempo una posizione apicale nel settore del trattamento delle acque primarie, depurazioni reflui civili ed industriali e gestione e manutenzione di impianti. || la società con sede in Santa Maria Capua Vetere (CE), alla Via Galatina, detiene un capitale sociale di € 1.000.000,00 || si progettano e si realizzano impianti per utenze pubbliche e private"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

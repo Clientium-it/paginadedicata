@@ -1,0 +1,28 @@
+{
+ "slug": "extrude-hone",
+ "company": "Extrude Hone",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Extrude Hone costruisce macchine speciali e offre lavorazioni conto terzi in tutto il mondo dalla fine degli anni Sessanta con 320 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per Extrude Hone.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Extrude Hone.",
+ "evidence": [
+  {
+   "claim": "Extrude Hone costruisce macchine speciali e offre lavorazioni conto terzi in tutto il mondo dalla fine degli anni Sessanta con 320 dipendenti.",
+   "url": "https://www.extrudehone.com/about-us/",
+   "quote": "Extrude Hone builds special-purpose machines and provides contract shops and Aftermarket services worldwide. Created in the late ’60s, the company now has 320 employees. || Extrude Hone LLC – Irwin PA Extrude Hone LLC – Huntley Extrude Hone LLC – Sterling Heights Extrude Hone Riverside California – USA Extrude Hone LTD – Milton Keynes UK Extrude Hone France Extrude Hone GmbH – Holzgünz Extrude Hone Italia Srl Extrude Hone India Pvt Ltd Extrude Hone (Shanghai) Co., Ltd – China EXTRUDE HONE K.K. Misato – Japan || serves customers in many market segments, including automotive, aerospace, heavy industry, medical, and general engineering"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

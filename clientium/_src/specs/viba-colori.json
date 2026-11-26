@@ -1,0 +1,28 @@
+{
+ "slug": "viba-colori",
+ "company": "VIBA COLORI",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Viba Colori produce e commercializza vernici da oltre 45 anni a Cisano Bergamasco. Qui trova come lavoriamo e cosa potremmo fare per VIBA COLORI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VIBA COLORI.",
+ "evidence": [
+  {
+   "claim": "Viba Colori produce e commercializza vernici da oltre 45 anni a Cisano Bergamasco.",
+   "url": "https://www.vibacolori.it/chi-siamo",
+   "quote": "Viba Colori S.r.l. porta con sè oltre 45 anni di esperienza nella produzione e commercializzazione di vernici, affermandosi tra i fornitori più qualificati della zona. || VIBA COLORI Srl via Sonna, 16 24034 Cisano Bergamasco (BG)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

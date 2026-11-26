@@ -1,0 +1,28 @@
+{
+ "slug": "vinventions",
+ "company": "Vinventions",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vinventions aiuta a proteggere e presentare vino, distillati, olio d'oliva e aceto per cantine che vanno dalle piccole realtà boutique alle grandi aziende. Qui trova come lavoriamo e cosa potremmo fare per Vinventions.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vinventions.",
+ "evidence": [
+  {
+   "claim": "Vinventions aiuta a proteggere e presentare vino, distillati, olio d'oliva e aceto per cantine che vanno dalle piccole realtà boutique alle grandi aziende.",
+   "url": "https://eu.vinventions.com",
+   "quote": "you can be confident that your wine, spirits, olive oil or vinegar will be protected, presented, and appreciated as you intend. || from small boutique wineries to large commercial operations"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

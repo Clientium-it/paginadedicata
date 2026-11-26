@@ -1,0 +1,28 @@
+{
+ "slug": "frosio-contract-arredi",
+ "company": "Frosio Contract & arredi",
+ "first_name": "Christian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Frosio opera in Valle Imagna, in provincia di Bergamo, con un magazzino di 2000 mq per la logistica e le consegne just in time. Qui trova come lavoriamo e cosa potremmo fare per Frosio Contract & arredi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Frosio Contract & arredi.",
+ "evidence": [
+  {
+   "claim": "Frosio opera in Valle Imagna, in provincia di Bergamo, con un magazzino di 2000 mq per la logistica e le consegne just in time.",
+   "url": "https://frosio.it/",
+   "quote": "Operiamo da sempre nella nostra terra, Valle Imagna, provincia di Bergamo || Il magazzino di 2000 mq garantisce i servizi di logistica: deposito e consegna just in time."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

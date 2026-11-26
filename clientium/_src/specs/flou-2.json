@@ -1,0 +1,28 @@
+{
+ "slug": "flou-2",
+ "company": "FLOU",
+ "first_name": "Silvia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Flou dal 1978 produce letti e propone un total living all'insegna del benessere e del design Made in Italy, nato con il modello Nathalie. Qui trova come lavoriamo e cosa potremmo fare per FLOU.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FLOU.",
+ "evidence": [
+  {
+   "claim": "Flou dal 1978 produce letti e propone un total living all'insegna del benessere e del design Made in Italy, nato con il modello Nathalie.",
+   "url": "https://www.flou.it/it/company",
+   "quote": "Nata nel 1978 con il lancio di Nathalie, primo letto tessile moderno imbottito e sfoderabile, Flou oggi propone un total living all’insegna del benessere, del design e della qualità Made in Italy || FLOU SPA Via Cadorna 12, 20821 Meda (MB) Vat: 00779080969 Contatti || Architetti e Interior Designer Flou per i professionisti 3D Library Richiedi i Campioni"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

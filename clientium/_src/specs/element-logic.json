@@ -1,0 +1,28 @@
+{
+ "slug": "element-logic",
+ "company": "Element Logic®",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Element Logic installa dal 2003 sistemi di robotica per la logistica con AutoStore e serve clienti dal commercio online al retail e alla produzione. Qui trova come lavoriamo e cosa potremmo fare per Element Logic®.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Element Logic®.",
+ "evidence": [
+  {
+   "claim": "Element Logic installa dal 2003 sistemi di robotica per la logistica con AutoStore e serve clienti dal commercio online al retail e alla produzione.",
+   "url": "https://www.elementlogic.net/about-us/our-story/",
+   "quote": "Our breakthrough came in 2003 when we implemented the world’s first AutoStore™ system, pioneering a new era in logistics robotics. || With offices across the world, we combine global strength with local expertise. || From e-commerce and retail to manufacturing and 3PL, we empower our customers to stay ahead in dynamic markets."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "coster-3",
+ "company": "Coster Group",
+ "first_name": "Viktoriia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Coster dal 1963 produce soluzioni di confezionamento spray e impianti di riempimento aerosol con 18 stabilimenti in 13 paesi. Qui trova come lavoriamo e cosa potremmo fare per Coster Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Coster Group.",
+ "evidence": [
+  {
+   "claim": "Coster dal 1963 produce soluzioni di confezionamento spray e impianti di riempimento aerosol con 18 stabilimenti in 13 paesi.",
+   "url": "https://www.coster.com/about-us/",
+   "quote": "Coster Group is a family-owned multinational company founded in Italy in 1963, providing spray packaging solutions and aerosol filling equipment to customers worldwide. || 1,000 Employees worldwide 18 Plants 13 Countries +1000 Customers worldwide || Explore Components by Market Personal Care Fragrance Household Technical Healthcare Food Technologies"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

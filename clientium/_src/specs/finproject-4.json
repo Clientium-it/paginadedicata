@@ -1,0 +1,28 @@
+{
+ "slug": "finproject-4",
+ "company": "Finproject",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Finproject produce compound in PVC e suole in materiali ultraleggeri per il settore calzaturiero e l'automotive, con 11 unità produttive tra Italia ed estero. Qui trova come lavoriamo e cosa potremmo fare per Finproject.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Finproject.",
+ "evidence": [
+  {
+   "claim": "Finproject produce compound in PVC e suole in materiali ultraleggeri per il settore calzaturiero e l'automotive, con 11 unità produttive tra Italia ed estero.",
+   "url": "https://www.finproject.com/azienda/profilo/",
+   "quote": "è leader internazionale nella produzione di PVC compounds compatti ed espansi e nella produzione, commercializzazione, stampaggio di suole per scarpe e manufatti in materiali ultraleggeri || si avvale di 11 unità produttive, 5 in Italia e 6 all’estero tra cui la divisione Nord Americana Foam Creations || per i più importanti brand del mercato calzaturiero e di altri settori industriali: spa industry, automotive, furniture, industria della sicurezza"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

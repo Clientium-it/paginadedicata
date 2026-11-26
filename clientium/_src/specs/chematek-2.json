@@ -1,0 +1,28 @@
+{
+ "slug": "chematek-2",
+ "company": "Chematek",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Chematek fornisce prodotti, servizi e soluzioni ai settori chimico, dei lubrificanti ed EPC, con sede a Milano e presenza in Australia, Cina, India e USA. Qui trova come lavoriamo e cosa potremmo fare per Chematek.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Chematek.",
+ "evidence": [
+  {
+   "claim": "Chematek fornisce prodotti, servizi e soluzioni ai settori chimico, dei lubrificanti ed EPC, con sede a Milano e presenza in Australia, Cina, India e USA.",
+   "url": "https://chematek.com/",
+   "quote": "Chematek is a global industrial technology company delivering products, services, and solutions to the chemical, lubricant, and EPC sectors. || Italy, Milan - HQ Australia China India USA France Singapore Suisse UK || we have honed our craft working with the world's largest industrial organisations and product developers across Pharma, AgChem, Flavour & Fragrance, and Downstream Oil & Gas"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

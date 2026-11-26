@@ -1,0 +1,28 @@
+{
+ "slug": "davide-groppi-2",
+ "company": "Davide Groppi",
+ "first_name": "Mirko",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Davide Groppi inventa e produce lampade dalla fine degli anni Ottanta a Piacenza per abitazioni, negozi, musei e ristoranti in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Davide Groppi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Davide Groppi.",
+ "evidence": [
+  {
+   "claim": "Davide Groppi inventa e produce lampade dalla fine degli anni Ottanta a Piacenza per abitazioni, negozi, musei e ristoranti in tutto il mondo.",
+   "url": "https://www.davidegroppi.com/it/chi-siamo/azienda",
+   "quote": "Dalla fine degli anni Ottanta, partendo da un piccolissimo laboratorio nel centro storico di Piacenza, Davide Groppi inventa e produce lampade con il marchio omonimo || Innumerevoli sono i lavori nel mondo: abitazioni, negozi, musei, ristoranti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

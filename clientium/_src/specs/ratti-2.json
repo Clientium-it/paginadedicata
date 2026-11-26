@@ -1,0 +1,28 @@
+{
+ "slug": "ratti-2",
+ "company": "Ratti",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ratti crea tessuti e accessori stampati, tinti e jacquard destinati al mondo della moda, del design e della casa. Qui trova come lavoriamo e cosa potremmo fare per Ratti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ratti.",
+ "evidence": [
+  {
+   "claim": "Ratti crea tessuti e accessori stampati, tinti e jacquard destinati al mondo della moda, del design e della casa.",
+   "url": "https://ratti.it/",
+   "quote": "Ratti con estro creativo, tecnologie avanzate ed heritage crea tessuti e accessori stampati, uniti, tinti in filo e jacquard destinati al mondo della moda, del design e della casa."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

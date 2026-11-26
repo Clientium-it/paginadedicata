@@ -1,0 +1,28 @@
+{
+ "slug": "bac-emena",
+ "company": "BAC EMENA",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Baltimore Aircoil produce a livello mondiale prodotti e servizi per lo scambio termico, tra cui sistemi di raffreddamento a immersione per data center. Qui trova come lavoriamo e cosa potremmo fare per BAC EMENA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BAC EMENA.",
+ "evidence": [
+  {
+   "claim": "Baltimore Aircoil produce a livello mondiale prodotti e servizi per lo scambio termico, tra cui sistemi di raffreddamento a immersione per data center.",
+   "url": "https://www.baltimoreaircoil.eu/en",
+   "quote": "Baltimore Aircoil Company is a global manufacturer of heat transfer products and services || COBALT™ Immersion cooling system Lowest PUE solution for data centers"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

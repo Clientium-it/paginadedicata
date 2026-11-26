@@ -1,0 +1,28 @@
+{
+ "slug": "ibd",
+ "company": "IBD",
+ "first_name": "Annalisa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IBD lavora nell'arredo bagno con oltre 600 rivenditori in Italia, Austria, Germania, Ungheria, Repubblica Ceca, Slovenia e Croazia da Recanati. Qui trova come lavoriamo e cosa potremmo fare per IBD.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IBD.",
+ "evidence": [
+  {
+   "claim": "IBD lavora nell'arredo bagno con oltre 600 rivenditori in Italia, Austria, Germania, Ungheria, Repubblica Ceca, Slovenia e Croazia da Recanati.",
+   "url": "https://www.ibd-srl.com/",
+   "quote": "Italia, Austria, Germania, Ungheria, Repubblica Ceca, Slovenia e Croazia 600 + rivenditori selezionati e certificati || Sede: Fraz. Sambucheto, 56/a – 62019 Recanati (MC) || divisi in GROSSISTI E DISTRIBUTORI RIVENDITORI CON SHOWROOM (RETAIL) CONCESSIONARI DESIGN STUDIO EVOLUTI BOUTIQUE INDUSTRIA DELL'ARREDO BAGNO"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}
