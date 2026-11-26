@@ -1,0 +1,28 @@
+{
+ "slug": "inventronics",
+ "company": "Inventronics",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Inventronics produce dal 2007 driver LED, sensori, sistemi di controllo e moduli LED, con stabilimenti in Cina, Messico, Italia e India. Qui trova come lavoriamo e cosa potremmo fare per Inventronics.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Inventronics.",
+ "evidence": [
+  {
+   "claim": "Inventronics produce dal 2007 driver LED, sensori, sistemi di controllo e moduli LED, con stabilimenti in Cina, Messico, Italia e India.",
+   "url": "https://www.inventronicsglobal.com/am/about-us/",
+   "quote": "Established in 2007, Inventronics is a premier worldwide producer of an extensive range of lighting products, including LED drivers, sensors, control systems, and LED modules. || Manufacturing is carried out at our cutting-edge Science and Technology Park in Tonglu, China, along with additional facilities in Mexico, Italy, and India. || Ensure efficient, safe, and precise operation in your warehouses, manufacturing plants, and logistics hubs with adaptable lighting that reduces maintenance effort and energy consumption."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

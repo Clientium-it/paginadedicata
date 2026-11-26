@@ -1,0 +1,28 @@
+{
+ "slug": "linearbi",
+ "company": "LinearBi",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "LinearBi realizza a Torreglia sistemi completi per gestire in autonomia il food delivery, con tecnologie che usa ogni giorno per consegnare a centinaia di clienti. Qui trova come lavoriamo e cosa potremmo fare per LinearBi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LinearBi.",
+ "evidence": [
+  {
+   "claim": "LinearBi realizza a Torreglia sistemi completi per gestire in autonomia il food delivery, con tecnologie che usa ogni giorno per consegnare a centinaia di clienti.",
+   "url": "https://www.linearbi.com/azienda/linearbi/",
+   "quote": "Realizziamo sistemi completi per la gestione autonoma del food delivery. Tecnologie che noi stessi utilizziamo ogni giorno per consegnare piatti e buffet a centinaia clienti. || LinearBi Srl - Via E. Mattei, 38 - Torreglia (PD) Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "breitenfeld-edelstahl-ag",
+ "company": "Breitenfeld Edelstahl AG",
+ "first_name": "Raphael",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Breitenfeld produce acciai inossidabili e forgiati su misura con 356 dipendenti tra Austria, Germania, Regno Unito e Italia e 250.000 tonnellate di capacità annua. Qui trova come lavoriamo e cosa potremmo fare per Breitenfeld Edelstahl AG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Breitenfeld Edelstahl AG.",
+ "evidence": [
+  {
+   "claim": "Breitenfeld produce acciai inossidabili e forgiati su misura con 356 dipendenti tra Austria, Germania, Regno Unito e Italia e 250.000 tonnellate di capacità annua.",
+   "url": "https://breitenfeld.at/",
+   "quote": "Hochwertige Edelstähle und Schmiedeprodukte Maßgeschneiderte Stahlanalysen und Fertigung - individuelle Lösungen für Metall verarbeitende Unternehmen 250.000 t Jahreskapazität im Stahlwerk || 356 Mitarbeiter (AT, DE, UK, IT) || Energieerzeugung | Petrochemie (Öl und Gas) | Werkzeugbau | Maschinenbau | Transportwesen | Rennsport | Luftfahrt | Raumfahrt"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

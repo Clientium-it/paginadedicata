@@ -1,0 +1,28 @@
+{
+ "slug": "meccalte",
+ "company": "MeccAlte",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MeccAlte produce oltre 1.400 alternatori al giorno con più di 1.200 dipendenti e stabilimenti in Italia, Regno Unito, India e Cina. Qui trova come lavoriamo e cosa potremmo fare per MeccAlte.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MeccAlte.",
+ "evidence": [
+  {
+   "claim": "MeccAlte produce oltre 1.400 alternatori al giorno con più di 1.200 dipendenti e stabilimenti in Italia, Regno Unito, India e Cina.",
+   "url": "https://www.meccalte.com/en/corporate/about-us",
+   "quote": "Today, we are a global alternator supplier with over 1,200 employees, producing over 1,400 alternators a day across the globe. || With manufacturing taking place in Italy, the UK, India and China, coupled with high market capabilities and a powerful worldwide capacity || Applications Prime power Standby Marine Telecoms Welders Rail Hydro Power Agriculture Irrigation 400Hz CHP Data centres"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

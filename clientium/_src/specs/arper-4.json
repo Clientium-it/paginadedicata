@@ -1,0 +1,28 @@
+{
+ "slug": "arper-4",
+ "company": "Arper",
+ "first_name": "Mara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Arper produce sedute, divani, tavoli e sistemi di contenimento per lounge, ristoranti, bar ed esterni, ed è presente in Giappone da 10 anni. Qui trova come lavoriamo e cosa potremmo fare per Arper.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Arper.",
+ "evidence": [
+  {
+   "claim": "Arper produce sedute, divani, tavoli e sistemi di contenimento per lounge, ristoranti, bar ed esterni, ed è presente in Giappone da 10 anni.",
+   "url": "https://www.arper.com/de_DE/",
+   "quote": "Stühle und Hocker Sofa und Lounge Sitzbänke Tische und Beistelltische Panels und Storage Zubehör || Celebrating 10 years of Arper Japan This year marks an important milestone in our journey: ten years of presence in Japan || Lounge-Bereich Entdecke mehr Restaurant Entdecke mehr Bar und Cafeteria Entdecke mehr Außenbereich"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

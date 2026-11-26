@@ -1,0 +1,28 @@
+{
+ "slug": "atomat",
+ "company": "ATOMAT",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Atomat progetta e fornisce macchine CNC e cilindri di laminazione per siderurgia, automotive ed elettrodomestici assistendo clienti in circa 65 paesi. Qui trova come lavoriamo e cosa potremmo fare per ATOMAT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ATOMAT.",
+ "evidence": [
+  {
+   "claim": "Atomat progetta e fornisce macchine CNC e cilindri di laminazione per siderurgia, automotive ed elettrodomestici assistendo clienti in circa 65 paesi.",
+   "url": "https://www.atomat.com/about-us/history/",
+   "quote": "Atomat S.p.A designs and supplies CNC machineries, rolls and rolling-mill rolls for many different sectors including : • steel industry; • contractions ; • automotive industry; • production of household appliances. || The ATOMAT Group currently includes five companies in four different countries around the world, assisting and training customers in about 65 countries wherever its machines are installed. || many different sectors including : • steel industry; • contractions ; • automotive industry; • production of household appliances."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "iguzzini",
+ "company": "iGuzzini",
+ "first_name": "Giulio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IGuzzini da Recanati illumina spazi interni ed esterni per retail, cultura, hospitality, residenziale, uffici e infrastrutture urbane. Qui trova come lavoriamo e cosa potremmo fare per iGuzzini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per iGuzzini.",
+ "evidence": [
+  {
+   "claim": "IGuzzini da Recanati illumina spazi interni ed esterni per retail, cultura, hospitality, residenziale, uffici e infrastrutture urbane.",
+   "url": "https://www.iguzzini.com/",
+   "quote": "Indoor Enhancing spaces Outdoor Shaping open atmospheres Every project counts Unique solutions for spaces and people everywhere Retail Culture Hospitality and Residential Working Urban Infrastucture || iGuzzini illuminazione S.p.A Via Mariano Guzzini 37 62019 Recanati (Italy) || Every project counts Unique solutions for spaces and people everywhere Retail Culture Hospitality and Residential Working Urban Infrastucture"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "fluence-corporation",
+ "company": "Fluence Corporation",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fluence realizza sistemi di dissalazione, trattamento e riuso delle acque reflue e waste to energy per industrie e comunità, anche modulari e containerizzati. Qui trova come lavoriamo e cosa potremmo fare per Fluence Corporation.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fluence Corporation.",
+ "evidence": [
+  {
+   "claim": "Fluence realizza sistemi di dissalazione, trattamento e riuso delle acque reflue e waste to energy per industrie e comunità, anche modulari e containerizzati.",
+   "url": "https://www.fluencecorp.com/",
+   "quote": "Sustainable, cost-effective solutions including desalination, wastewater treatment, reuse, and waste-to-energy. Our experts leverage leading technologies, automation, and years of experience to provide optimized systems for a wide range of industries. || Fluence Corporation 3600 Holly Lane North Suite 100 Plymouth, MN 55447 || Municipal Solutions Advanced, cost-effective water treatment, wastewater treatment, and reuse solutions. Our modular, containerized, and retrofit systems ensure compliance, flexibility, and rapid deployment for communities of all sizes."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

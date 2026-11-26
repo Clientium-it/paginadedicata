@@ -1,0 +1,28 @@
+{
+ "slug": "ekoenergetyka",
+ "company": "Ekoenergetyka",
+ "first_name": "Renato",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ekoenergetyka sviluppa dal 2009 soluzioni di ricarica DC per auto, mezzi pesanti e autobus e ha installato colonnine in oltre 40 paesi su 3 continenti. Qui trova come lavoriamo e cosa potremmo fare per Ekoenergetyka.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ekoenergetyka.",
+ "evidence": [
+  {
+   "claim": "Ekoenergetyka sviluppa dal 2009 soluzioni di ricarica DC per auto, mezzi pesanti e autobus e ha installato colonnine in oltre 40 paesi su 3 continenti.",
+   "url": "https://ekoenergetyka.com/about-us/",
+   "quote": "We are pioneers and industry leaders in e-mobility, delivering cutting-edge DC charging solutions for zero-emission passenger cars, eco-friendly heavy transport, and efficient urban buses since 2009. || our diverse team has deployed chargers in more than 40 countries across 3 continents || DC charging solutions for zero-emission passenger cars, eco-friendly heavy transport, and efficient urban buses"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

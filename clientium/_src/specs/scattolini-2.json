@@ -1,0 +1,28 @@
+{
+ "slug": "scattolini-2",
+ "company": "Scattolini",
+ "first_name": "Nicolae",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Faresin progetta e produce dal 1973 a Breganze carri miscelatori per la zootecnia e sollevatori telescopici per uso agricolo e industriale. Qui trova come lavoriamo e cosa potremmo fare per Scattolini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Scattolini.",
+ "evidence": [
+  {
+   "claim": "Faresin progetta e produce dal 1973 a Breganze carri miscelatori per la zootecnia e sollevatori telescopici per uso agricolo e industriale.",
+   "url": "https://www.faresin.com",
+   "quote": "Faresin Industries, con sede a Breganze (VI), progetta, produce e commercializza carri miscelatori e strumenti per l’analisi della razione per il settore zootecnico, sollevatori telescopici per uso agricolo ed industriale. || L’azienda, fondata nel 1973 dall’attuale Presidente Sante Faresin, unisce la tradizione di una solida guida familiare al dinamismo di un gruppo internazionale presente a livello globale grazie ad una rete capillare di filiali, distributori e rivenditori. || per il settore zootecnico, sollevatori telescopici per uso agricolo ed industriale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

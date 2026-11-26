@@ -1,0 +1,28 @@
+{
+ "slug": "g-f-3",
+ "company": "G.F",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "GF dal 1966 produce a Correggio articoli in plastica per irrigazione e giardino, con 4 stabilimenti, 150 dipendenti e vendite in oltre 50 paesi. Qui trova come lavoriamo e cosa potremmo fare per G.F.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per G.F.",
+ "evidence": [
+  {
+   "claim": "GF dal 1966 produce a Correggio articoli in plastica per irrigazione e giardino, con 4 stabilimenti, 150 dipendenti e vendite in oltre 50 paesi.",
+   "url": "https://gfgarden.it/pages/company",
+   "quote": "GF nasce nel 1966, è una azienda italiana parte del gruppo francese Exel Group. Produce articoli in materiale plastico per l’irrigazione, la cura del giardino e l’outdoor living. Sviluppa il proprio business in più di 50 paesi. || Correggio (Reggio Emilia) Italy 150 dipendenti 10.000 m 2 magazzino 15.000 m 2 impianti produttivi 2.500 m 2 uffici 4 stabilimenti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

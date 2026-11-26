@@ -1,0 +1,28 @@
+{
+ "slug": "laser-biscuit",
+ "company": "LASER BISCUIT",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Laser costruisce macchine e forni industriali per la produzione automatica di biscotti, pane e pasticceria con produzione tutta italiana in provincia di Verona. Qui trova come lavoriamo e cosa potremmo fare per LASER BISCUIT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LASER BISCUIT.",
+ "evidence": [
+  {
+   "claim": "Laser costruisce macchine e forni industriali per la produzione automatica di biscotti, pane e pasticceria con produzione tutta italiana in provincia di Verona.",
+   "url": "https://www.laserbiscuit.com/laser/",
+   "quote": "LASER srl is able to offer a wide range of industrial machines and ovens for the automatic production of all types of biscuits, bread, pastry. || A completely Italian production, with three locations in the Province of Verona (Italy): || Laser srl has been successfully operating for over twenty five years in the manufacture of machinery and systems for the confectionery and bakery products industry."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

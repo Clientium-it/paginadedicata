@@ -1,0 +1,28 @@
+{
+ "slug": "el-mo",
+ "company": "EL.MO",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "EL.MO. progetta e realizza da 50 anni sistemi antintrusione, antincendio e videosorveglianza per case, industrie, banche e GDO da Campodarsego. Qui trova come lavoriamo e cosa potremmo fare per EL.MO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per EL.MO.",
+ "evidence": [
+  {
+   "claim": "EL.MO. progetta e realizza da 50 anni sistemi antintrusione, antincendio e videosorveglianza per case, industrie, banche e GDO da Campodarsego.",
+   "url": "https://www.elmospa.com/it/",
+   "quote": "Da 50 anni proteggiamo ciò che conta davvero: la tua casa, la tua azienda, il tuo futuro. Progettiamo e realizziamo sistemi di sicurezza all’avanguardia – antintrusione, antincendio, videosorveglianza || Via Pontarola 70, 35011, Campodarsego (PD) || Ambienti Residenziale Industrie Infrastrutture GDO e Retail Banche e Poste"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "inoxpa",
+ "company": "INOXPA",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "INOXPA nasce a Banyoles e produce componenti inox per fluidi nell'alimentare, cosmetico e farmaceutico, con centri anche a Thiene e Pune. Qui trova come lavoriamo e cosa potremmo fare per INOXPA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per INOXPA.",
+ "evidence": [
+  {
+   "claim": "INOXPA nasce a Banyoles e produce componenti inox per fluidi nell'alimentare, cosmetico e farmaceutico, con centri anche a Thiene e Pune.",
+   "url": "https://www.inoxpa.com/en/company/about-us",
+   "quote": "Founded in Banyoles, Spain, INOXPA is a renowned and long-standing business group specialised in the manufacture and sale of stainless steel fluid handling components and equipment, management of processes and services in the food-processing, cosmetic and pharmaceutical industries. || INOXPA´s conceptual design and search for solutions are activities centred in ISF (Chambly-France), ISM (Chisinau-Moldova), IDS (Thiene-Italy), ISV (Valencia-Spain), Inoxpa India (Pune-India), Inoxpa South Africa, apart from our centre in Banyoles. || management of processes and services in the food-processing, cosmetic and pharmaceutical industries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

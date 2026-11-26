@@ -1,0 +1,28 @@
+{
+ "slug": "arneg-4",
+ "company": "Arneg",
+ "first_name": "Fosco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Arneg progetta e fornisce attrezzature, servizi e progetti chiavi in mano per supermercati e retail, con una rete produttiva e distributiva in ogni continente. Qui trova come lavoriamo e cosa potremmo fare per Arneg.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Arneg.",
+ "evidence": [
+  {
+   "claim": "Arneg progetta e fornisce attrezzature, servizi e progetti chiavi in mano per supermercati e retail, con una rete produttiva e distributiva in ogni continente.",
+   "url": "https://www.arneg.com/it/storia",
+   "quote": "Da lì, sulla base di solidi principi e valori morali, siamo cresciuti fino a diventare l'odierno gruppo internazionale che progetta e fornisce attrezzature e servizi per l'intero mondo del retail. || vasta rete produttiva e distributiva presente in ogni continente || Progetti chiavi in mano, attrezzature e servizi per supermercati e l’intero mondo del retail"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

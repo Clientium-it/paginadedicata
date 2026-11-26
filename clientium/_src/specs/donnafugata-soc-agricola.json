@@ -1,0 +1,28 @@
+{
+ "slug": "donnafugata-soc-agricola",
+ "company": "donnafugata srl soc.agricola",
+ "first_name": "Giorgia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Donnafugata produce vini rossi, bianchi, rosati, spumanti e dolci oltre a olio, dalle tenute di Contessa Entellina, Pantelleria, Etna, Vittoria e Marsala. Qui trova come lavoriamo e cosa potremmo fare per donnafugata srl soc.agricola.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per donnafugata srl soc.agricola.",
+ "evidence": [
+  {
+   "claim": "Donnafugata produce vini rossi, bianchi, rosati, spumanti e dolci oltre a olio, dalle tenute di Contessa Entellina, Pantelleria, Etna, Vittoria e Marsala.",
+   "url": "https://www.donnafugata.it/store-locator/",
+   "quote": "Tipologie Tutti i prodotti Vini rossi Vini bianchi Vini rosati Spumanti Vini dolci Olio e specialità Confezioni speciali || Territori Tutte le tenute Contessa Entellina Pantelleria Etna Vittoria Marsala || STORE LOCATOR Tutti Enoteche Ristoranti Wine Bar"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

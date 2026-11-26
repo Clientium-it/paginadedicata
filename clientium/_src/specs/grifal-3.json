@@ -1,0 +1,28 @@
+{
+ "slug": "grifal-3",
+ "company": "Grifal",
+ "first_name": "Michelangelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Grifal dal 1969 progetta e produce imballi su misura con un laboratorio test ISTA e nel 2021 ha aperto Grifal Europe in Romania. Qui trova come lavoriamo e cosa potremmo fare per Grifal.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Grifal.",
+ "evidence": [
+  {
+   "claim": "Grifal dal 1969 progetta e produce imballi su misura con un laboratorio test ISTA e nel 2021 ha aperto Grifal Europe in Romania.",
+   "url": "https://www.grifal.it/azienda/identita/",
+   "quote": "Il nome Grifal , presente dal 1969 nel mercato del packaging , è sinonimo di competenza e innovazione. Progettiamo e produciamo soluzioni d’imballo personalizzate e, grazie all’efficienza del nostro team di Progettazione e del Laboratorio Test ISTA || 2021 Nasce Grifal Group : alle acquisizioni da parte di Grifal dei rami operativi di Tieng e Cornelli fa seguito l’apertura di Grifal Europe in Romania."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}
