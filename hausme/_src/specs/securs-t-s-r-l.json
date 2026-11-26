@@ -1,0 +1,19 @@
+{
+ "slug": "securs-t-s-r-l",
+ "company": "Secursat",
+ "full_name": "Daniele",
+ "first": "Daniele",
+ "linkedin": "https://www.linkedin.com/in/daniele-ciappina-66b341169",
+ "cover_note": "Secursat analizza sistemi e processi di sicurezza per aziende e istituzioni e ha realizzato un progetto che unisce security e gestione del building.",
+ "evidence": [
+  {
+   "url": "https://www.secursat.it/cosa-facciamo/",
+   "quote": "Analizziamo sistemi e processi di sicurezza e progettiamo soluzioni tecnologiche ed operative di sicurezza integrata per le aziende e le istituzioni."
+  },
+  {
+   "url": "https://www.secursat.it/",
+   "quote": "Secursat ha realizzato un ambizioso progetto di integrazione tecnologica, sostenibilità, security e gestione del building."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

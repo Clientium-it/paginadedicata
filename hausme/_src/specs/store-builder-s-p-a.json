@@ -1,0 +1,19 @@
+{
+ "slug": "store-builder-s-p-a",
+ "company": "Store Builder",
+ "full_name": "Isabella",
+ "first": "Isabella",
+ "linkedin": "https://www.linkedin.com/in/isabella-melloni-56804a193",
+ "cover_note": "Store Builder dal 2003 lavora come general contractor per spazi retail, hospitality, residenziale e showroom per molti brand.",
+ "evidence": [
+  {
+   "url": "https://www.storebuilder.it/about-us/",
+   "quote": "Siamo un General Contractor specializzato nello sviluppo e nella realizzazione di spazi per retail, hospitality, residenziale, showroom e aree accoglienza."
+  },
+  {
+   "url": "https://www.storebuilder.it/about-us/",
+   "quote": "Tutto parte nel 2003 e da allora sono molti i brand che hanno intrecciato la loro storia alla nostra"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

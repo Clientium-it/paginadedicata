@@ -1,0 +1,19 @@
+{
+ "slug": "coiver-cladding-s-r-l",
+ "company": "Coiver",
+ "full_name": "Corrado",
+ "first": "Corrado",
+ "linkedin": "https://www.linkedin.com/in/corrado-travaglini-9683ba106",
+ "cover_note": "Coiver opera da quasi 50 anni su importanti progetti in tutta Italia, con sede e stabilimento a Cormano e una sede a Roma.",
+ "evidence": [
+  {
+   "url": "https://coivergroup.it/",
+   "quote": "Operiamo da quasi 50 anni nei più importanti e prestigiosi progetti su tutto il territorio nazionale."
+  },
+  {
+   "url": "https://coivergroup.it/",
+   "quote": "Sede e stabilimento: Via A. Bizzozzero, 93/95 - 20032 Cormano (MI) Sede di Roma: Via V. Bona, 101 - 00155 Roma"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

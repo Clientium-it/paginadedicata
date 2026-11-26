@@ -1,0 +1,19 @@
+{
+ "slug": "tecnoimpianti-srl",
+ "company": "Tecnoimpianti",
+ "full_name": "Joe",
+ "first": "Joe",
+ "linkedin": "https://www.linkedin.com/in/joseph-petrolla-b04bbb9",
+ "cover_note": "Tecnoimpianti progetta e installa impianti elettrici civili e industriali in aziende, edifici pubblici, ville storiche e luoghi di culto.",
+ "evidence": [
+  {
+   "url": "https://tecnoimpianti.biz/azienda",
+   "quote": "Abbiamo installato i nostri impianti in aziende, edifici pubblici, ville storiche, luoghi di culto e ovviamente in abitazioni, capannoni e uffici di qualunque dimensione e tipologia."
+  },
+  {
+   "url": "https://tecnoimpianti.biz/azienda",
+   "quote": "TECNOIMPIANTI ha una lunga esperienza nel settore della progettazione, installazione ed impiantistica elettrica civile e industriale"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

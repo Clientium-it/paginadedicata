@@ -1,0 +1,19 @@
+{
+ "slug": "ecotechno-s-r-l",
+ "company": "Ecotechno",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-mastrella-91780a208",
+ "cover_note": "Ecotechno lavora da oltre 20 anni nella progettazione e installazione di impianti fotovoltaici e segue come EPC Contractor progetti energetici complessi chiavi in mano.",
+ "evidence": [
+  {
+   "url": "https://ecotechnoimpianti.it/azienda",
+   "quote": "Siamo presenti da oltre 20 anni sul mercato della progettazione, costruzione ed installazione di impianti fotovoltaici."
+  },
+  {
+   "url": "https://ecotechnoimpianti.it/azienda",
+   "quote": "La nostra esperienza ultraventennale nel settore, ci ha permesso di diventare EPC Contractor su progetti energetici di notevole entità e complessità per un servizio al cliente “chiavi in mano”"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

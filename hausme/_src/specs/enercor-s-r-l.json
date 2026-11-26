@@ -1,0 +1,19 @@
+{
+ "slug": "enercor-s-r-l",
+ "company": "Enercor",
+ "full_name": "Francesco",
+ "first": "Francesco",
+ "linkedin": "https://www.linkedin.com/in/francesco-fabbrini-28722593",
+ "cover_note": "Enercor segue la manutenzione di un impianto fotovoltaico da 1 MWp a Subbiano e ha riqualificato la copertura della sede produttiva di Frassineti.",
+ "evidence": [
+  {
+   "url": "https://www.enercor.it/it/case-history",
+   "quote": "Bluenergy S.r.l. Impianto fotovoltaico da 1 Mwp posto nel Comune di Subbiano (AR). Servizi svolti: O&M - Manutenzione Assistenza burocratica e amministrativa"
+  },
+  {
+   "url": "https://www.enercor.it/it/case-history",
+   "quote": "Frassineti S.r.l. Riqualificazione della copertura della sede produttiva dell’azienda Frassineti S.r.l.: Rimozione della copertura e controsoffittatura di una..."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

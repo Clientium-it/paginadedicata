@@ -1,0 +1,19 @@
+{
+ "slug": "greentech-s-r-l",
+ "company": "Greentech",
+ "full_name": "Valerio",
+ "first": "Valerio",
+ "linkedin": "https://www.linkedin.com/in/valerio-centra-631313b0",
+ "cover_note": "Greentech dal 2020 progetta, installa e manutiene impianti tecnologici civili e industriali alimentati da fonti rinnovabili.",
+ "evidence": [
+  {
+   "url": "https://gruppogreentech.it/",
+   "quote": "Progettiamo, installiamo e manuteniamo il tuo impianto tecnologico civile o industriale alimentato da fonti rinnovabili"
+  },
+  {
+   "url": "https://gruppogreentech.it/",
+   "quote": "Siamo attivi dal 2020"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

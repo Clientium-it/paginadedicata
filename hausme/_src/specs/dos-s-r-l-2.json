@@ -1,0 +1,19 @@
+{
+ "slug": "dos-s-r-l-2",
+ "company": "Gruppo DOS",
+ "full_name": "Claudio",
+ "first": "Claudio",
+ "linkedin": "https://www.linkedin.com/in/claudio-minigutti-2ab5734b",
+ "cover_note": "Gruppo DOS nasce dall'unione di Optima Sistemi, DS Ducale Sicurezza e Sea Più e segue gli impianti dalla progettazione al servizio post vendita.",
+ "evidence": [
+  {
+   "url": "https://gruppodos.it/dos/",
+   "quote": "Nasce dall’unione di tre tra le principali realtà del territorio: Optima Sistemi , DS Ducale Sicurezza e Sea Più ."
+  },
+  {
+   "url": "https://gruppodos.it/dos/",
+   "quote": "dalla progettazione alla realizzazione dell’impianto fino al servizio post vendita"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

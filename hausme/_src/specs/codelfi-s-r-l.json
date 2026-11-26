@@ -1,0 +1,19 @@
+{
+ "slug": "codelfi-s-r-l",
+ "company": "Codelfi",
+ "full_name": "Giovanni",
+ "first": "Giovanni",
+ "linkedin": "https://www.linkedin.com/in/giovanni-del-grosso-458950359",
+ "cover_note": "Codelfi sta realizzando 26 unità abitative su due palazzine a Sesto Fiorentino al posto dei capannoni di un ex mobilificio.",
+ "evidence": [
+  {
+   "url": "https://codelfi.it/it/realizzazioni/",
+   "quote": "In via Ippolito Nievo a Sesto Fiorentino, sono in fase di realizzazione 26 unità abitative distribuite su due palazzine"
+  },
+  {
+   "url": "https://codelfi.it/it/realizzazioni/",
+   "quote": "il progetto ha riguardato la riqualificazione di un’area mediante la dismissione dei capannoni di un ex mobilificio e la realizzazione di un nuovo insediamento residenziale"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

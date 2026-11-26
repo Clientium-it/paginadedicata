@@ -1,0 +1,19 @@
+{
+ "slug": "m-p-a-srl",
+ "company": "MPA",
+ "full_name": "Pasquale",
+ "first": "Pasquale",
+ "linkedin": "https://www.linkedin.com/in/pasquale-morano-273a0b281",
+ "cover_note": "MPA ha 15 anni di esperienza, oltre 450 progetti conclusi e 20 dipendenti specializzati con sede operativa a Cassago Brianza.",
+ "evidence": [
+  {
+   "url": "https://edilmpadesign.it/",
+   "quote": "15 Anni di esperienza 450+ Progetti conclusi 20 Dipendenti specializzati"
+  },
+  {
+   "url": "https://edilmpadesign.it/",
+   "quote": "Sede operativa Via Piave 10 23893 Cassago Brianza (LC)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

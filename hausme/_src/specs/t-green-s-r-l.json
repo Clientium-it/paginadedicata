@@ -1,0 +1,19 @@
+{
+ "slug": "t-green-s-r-l",
+ "company": "T-Green",
+ "full_name": "Cristian",
+ "first": "Cristian",
+ "linkedin": "https://www.linkedin.com/in/cristian-travaglioli-3308a9130",
+ "cover_note": "T-Green ha installato 3195 impianti fotovoltaici in 13 anni, soprattutto in Lombardia, Piemonte, Veneto, Emilia Romagna e Trentino Alto Adige.",
+ "evidence": [
+  {
+   "url": "https://www.tgreen.it/",
+   "quote": "T-Green installa impianti fotovoltaici in tutto il nord Italia 3195 impianti fotovoltaici in 13 anni 89k m 2 di pannelli fotovoltaici nel nord Italia"
+  },
+  {
+   "url": "https://www.tgreen.it/chi-siamo-e-in-cosa-crediamo",
+   "quote": "L'azienda lavora su tutto il Nord Italia, le regioni maggiormente coperte sono la Lombardia, il Piemonte, il Veneto, l’Emilia Romagna e il Trentino Alto Adige."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "caltran-giovanni-battista-srl",
+ "company": "Caltran",
+ "full_name": "Michele",
+ "first": "Michele",
+ "linkedin": "https://www.linkedin.com/in/michele-trestini",
+ "cover_note": "Caltran è attiva sul territorio veronese dalla fine del 19° secolo e costruisce nuovi edifici residenziali privati, pubblici e assistenziali.",
+ "evidence": [
+  {
+   "url": "https://costruzionicaltran.it/",
+   "quote": "è attiva sul territorio veronese dalla fine del 19° secolo . Ci dedichiamo principalmente alla costruzione di nuovi edifici residenziali privati , edifici pubblici ed edifici ad uso assistenziale ."
+  },
+  {
+   "url": "https://costruzionicaltran.it/",
+   "quote": "RESIDENCE VIA CEDRARE San Pietro in Cariano (VR) VEDI CANTIERE"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

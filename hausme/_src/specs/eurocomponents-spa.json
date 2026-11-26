@@ -1,0 +1,19 @@
+{
+ "slug": "eurocomponents-spa",
+ "company": "Eurocomponents",
+ "full_name": "Gianluca",
+ "first": "Gianluca",
+ "linkedin": "https://www.linkedin.com/in/gianluca-zanoni-8913ba84",
+ "cover_note": "Eurocomponents realizza bagni prefabbricati che arrivano in cantiere pronti da installare per hotel, ospedali, università e complessi residenziali.",
+ "evidence": [
+  {
+   "url": "https://www.eurocomponents.eu/",
+   "quote": "Il nostro bagno prefabbricato è un modulo completo di allestimenti e accessori che arriva in cantiere pronto per essere installato e messo in funzione."
+  },
+  {
+   "url": "https://www.eurocomponents.eu/",
+   "quote": "Realizziamo bagni prefabbricati per Hotel Ospedali e Case di cura Complessi residenziali Università e Campus Penitenziari Uffici e Centri commerciali"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

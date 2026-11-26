@@ -1,0 +1,19 @@
+{
+ "slug": "uniontel-s-r-l",
+ "company": "Uniontel",
+ "full_name": "Renato",
+ "first": "Renato",
+ "linkedin": "https://www.linkedin.com/in/renato-allodi-61a99639",
+ "cover_note": "Uniontel dal 1980 a Parma progetta e realizza centrali telefoniche VOIP e analogiche e integra sistemi telefonici con software gestionali.",
+ "evidence": [
+  {
+   "url": "https://www.uniontel.it/",
+   "quote": "Progettiamo e realizziamo centrali telefoniche VOIP e analogiche, integriamo sistemi telefonici e software gestionali."
+  },
+  {
+   "url": "https://www.uniontel.it/",
+   "quote": "Noi siamo Uniontel, quelli del centralino a Parma dal 1980"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

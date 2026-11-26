@@ -1,0 +1,19 @@
+{
+ "slug": "main24-s-r-l",
+ "company": "Main24",
+ "full_name": "Dario",
+ "first": "Dario",
+ "linkedin": "https://www.linkedin.com/in/dario-zambetti-05477887",
+ "cover_note": "Main24 ha squadre specializzate in idraulica, elettrica ed edile sempre operative e itineranti nei presidi ospedalieri dell'ASST Bergamo Est.",
+ "evidence": [
+  {
+   "url": "https://main24.it/",
+   "quote": "le nostre squadre di personale specializzato sono dislocate nei maggiori presidi Ospedalieri dell’A.S.S.T. Bergamo EST."
+  },
+  {
+   "url": "https://main24.it/",
+   "quote": "Le nostre squadre composte da personale specializzato e qualificato nelle aree di idraulica, elettrica ed edile sono sempre operative ed itineranti"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

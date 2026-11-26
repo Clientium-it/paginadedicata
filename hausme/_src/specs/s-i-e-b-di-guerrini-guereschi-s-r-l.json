@@ -1,0 +1,19 @@
+{
+ "slug": "s-i-e-b-di-guerrini-guereschi-s-r-l",
+ "company": "SIEB",
+ "full_name": "Elena",
+ "first": "Elena",
+ "linkedin": "https://www.linkedin.com/in/elena-guereschi-66361815a",
+ "cover_note": "SIEB è stata fondata nel 1980, lavora nell'impiantistica elettromeccanica e conta quattro soci e tredici dipendenti tra periti elettrotecnici e operai specializzati.",
+ "evidence": [
+  {
+   "url": "https://siebimpianti.it/",
+   "quote": "Fondata nel 1980, S.I.E.B. di Guerrini & Guereschi srl opera da oltre 45 anni nel settore dell’impiantistica elettromeccanica."
+  },
+  {
+   "url": "https://siebimpianti.it/",
+   "quote": "L’impresa è composta da quattro soci e tredici dipendenti, tra i quali periti elettrotecnici e operai specializzati"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

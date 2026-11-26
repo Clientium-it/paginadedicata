@@ -1,0 +1,19 @@
+{
+ "slug": "impresa-frigerio-s-r-l",
+ "company": "Frigerio",
+ "full_name": "Frigerio",
+ "first": "Frigerio",
+ "linkedin": "https://www.linkedin.com/in/frigeriosicurezza",
+ "cover_note": "Frigerio dopo i cantieri sul lago di Como a Nesso e Lezzeno sta avviando un progetto ad Arcellasco con unità in classe A2 o superiore.",
+ "evidence": [
+  {
+   "url": "https://www.impresafrigerio.com/it/news/309/news-2327",
+   "quote": "Dopo le operazioni sul lago di Como a Nesso, ormai concluso, e a Lezzeno, in fase di costruzione, la società sta per varare un progetto a due passi da casa, esattamente ad Arcellasco, importante quartiere di Erba."
+  },
+  {
+   "url": "https://www.impresafrigerio.com/it/news/309/news-2327",
+   "quote": "Tutte le unità immobiliari saranno in classe energetica A2 o superiore"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

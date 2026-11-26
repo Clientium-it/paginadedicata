@@ -1,0 +1,19 @@
+{
+ "slug": "manta-corporation-s-r-l",
+ "company": "Manta Corporation",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marcoperego11",
+ "cover_note": "Manta Corporation lavora come general contractor da Seregno con progetti che vanno dal residenziale alla ristorazione, al clubbing e all'hotellerie.",
+ "evidence": [
+  {
+   "url": "https://www.mantacorporation.com/",
+   "quote": "Una nuova generazione di General Contractor basata su valori solidi come l'integrità, l'innovazione e l'impegno verso la sostenibilità. Il nostro portafoglio di progetti abbraccia una vasta gamma di settori, dall'edilizia residenziale e commerciale, alla ristorazione, al clubbing e all'hotellerie."
+  },
+  {
+   "url": "https://www.mantacorporation.com/",
+   "quote": "sede operativa: Via Comina, 35 - Seregno (MB)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

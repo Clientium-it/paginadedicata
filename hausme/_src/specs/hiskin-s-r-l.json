@@ -1,0 +1,19 @@
+{
+ "slug": "hiskin-s-r-l",
+ "company": "HiSkin",
+ "full_name": "Massimo",
+ "first": "Massimo",
+ "linkedin": "https://www.linkedin.com/in/massimo-ferrando-45306662",
+ "cover_note": "HiSkin nasce nel 2016 per portare in Italia le pavimentazioni drenanti ed ecosostenibili e ha lavorato al progetto per la Fondazione Gaslini.",
+ "evidence": [
+  {
+   "url": "https://www.hiskin.it/about/",
+   "quote": "HiSkin nasce nel 2016 con un obiettivo chiaro: portare in Italia la cultura delle pavimentazioni drenanti ed ecosostenibili"
+  },
+  {
+   "url": "https://www.hiskin.it/about/",
+   "quote": "Nel progetto per la Fondazione Gaslini, è stato determinante lavorare con le soluzioni HiSkin"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

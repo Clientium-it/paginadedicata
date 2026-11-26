@@ -1,0 +1,19 @@
+{
+ "slug": "colledani-s-r-l",
+ "company": "Colledani",
+ "full_name": "Francesco",
+ "first": "Francesco",
+ "linkedin": "https://www.linkedin.com/in/francesco-colledani-7b17bb39",
+ "cover_note": "Colledani da oltre 30 anni produce a Pasian di Prato resine per pavimenti e superfici, personalizzando ogni lavoro sul singolo cliente.",
+ "evidence": [
+  {
+   "url": "https://colledani.com/about-us/",
+   "quote": "We have been manufacturing and producing resins for flooring and surfaces for over 30 years. Every solution we create is highly customised, just as each of our customers is unique"
+  },
+  {
+   "url": "https://colledani.com/about-us/",
+   "quote": "Address: Via Venceslao Menazzi Moretti, 4/7 33037 Pasian di Prato (UD) Italy"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

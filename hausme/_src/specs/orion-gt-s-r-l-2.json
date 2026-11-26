@@ -1,0 +1,19 @@
+{
+ "slug": "orion-gt-s-r-l-2",
+ "company": "Orion GT",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-pieretti-75aa515b",
+ "cover_note": "Orion GT dal 1963 progetta, produce e installa impianti audio per chiese, basiliche, santuari e auditorium con oltre 10.000 progetti realizzati.",
+ "evidence": [
+  {
+   "url": "https://www.oriongt.net/azienda/",
+   "quote": "Dal 1963 diamo voce agli spazi sacri. ORION/gt progetta, produce e installa impianti audio professionali per chiese, basiliche, santuari, auditorium e grandi ambienti riverberanti."
+  },
+  {
+   "url": "https://www.oriongt.net/azienda/",
+   "quote": "10.000+ progetti e installazioni realizzate"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

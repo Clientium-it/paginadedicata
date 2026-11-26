@@ -1,0 +1,19 @@
+{
+ "slug": "siat-energy-s-r-l",
+ "company": "Siat Energy",
+ "full_name": "Gianguido",
+ "first": "Gianguido",
+ "linkedin": "https://www.linkedin.com/in/gianguido-furlanetto",
+ "cover_note": "Siat Energy nasce nel 2007 da SIAT, fondata nel 1983, e realizza e certifica impianti elettrici civili e industriali e cabine elettriche con pronto intervento.",
+ "evidence": [
+  {
+   "url": "https://siat-energy.com/company-profile/",
+   "quote": "L’Azienda nasce alla fine del 2007 dalla trasformazione di SIAT (fondata nel 1983), società di impiantistica nel settore delle Centrali Pubbliche di Telecomunicazioni e dei Sistemi di Utente."
+  },
+  {
+   "url": "https://siat-energy.com/",
+   "quote": "Siat Energy realizza e certifica impianti elettrici civili ed industriali e cabine elettriche, inclusa la manutenzione ed il servizio di pronto intervento."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

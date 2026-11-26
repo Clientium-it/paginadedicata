@@ -1,0 +1,19 @@
+{
+ "slug": "ever-green-solution-group-s-r-l",
+ "company": "Ever Green",
+ "full_name": "Antonio",
+ "first": "Antonio",
+ "linkedin": "https://www.linkedin.com/in/antonioesposito-",
+ "cover_note": "Ever Green ha sede a Casaleone, ha realizzato poco meno di 5.000 impianti in Italia ed è presente in più regioni dal Veneto alla Campania.",
+ "evidence": [
+  {
+   "url": "https://addiocontatore.it/",
+   "quote": "che grazie alle importanti partnership a livello internazionale ha già realizzato poco meno di 5.000 impianti installati e funzionanti in Italia, la gran parte visibili sul sito egsgsrl.com"
+  },
+  {
+   "url": "https://addiocontatore.it/",
+   "quote": "Abbiamo la sede a Casaleone, in provincia di Verona e Siamo tecnicamente e commercialmente presenti nelle regioni: Veneto, Lombardia, Friuli-Venezia Giulia, Emilia-Romagna, Abruzzo, Lazio e Campania."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

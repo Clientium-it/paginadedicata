@@ -1,0 +1,19 @@
+{
+ "slug": "prostilo-s-r-l",
+ "company": "Prostilo",
+ "full_name": "Mario",
+ "first": "Mario",
+ "linkedin": "https://www.linkedin.com/in/mario-anelli-04999610b",
+ "cover_note": "Prostilo realizza opere dirette e in conto terzi chiavi in mano dalla progettazione esecutiva all'ultimo dettaglio, come 6 ville indipendenti.",
+ "evidence": [
+  {
+   "url": "https://prostilo.it/",
+   "quote": "realizza opere immobiliari dirette e in conto terzi con appalti “chiavi in mano” : dalla progettazione esecutiva dell’edificio fino all’ultimo dettaglio."
+  },
+  {
+   "url": "https://prostilo.it/",
+   "quote": "la conseguente realizzazione di 6 ville indipendenti"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

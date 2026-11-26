@@ -1,0 +1,19 @@
+{
+ "slug": "prometeo-stufe-s-r-l",
+ "company": "Prometeo Stufe",
+ "full_name": "Alessandro",
+ "first": "Alessandro",
+ "linkedin": "https://www.linkedin.com/in/alessandro-azzoni-366907146",
+ "cover_note": "Prometeo Stufe ha oltre 30 anni di fumisteria e più di 1400 installazioni su misura seguite dal progetto alla posa con maestri fumisti interni.",
+ "evidence": [
+  {
+   "url": "https://www.prometeostufe.it/prometeo-design/",
+   "quote": "30+ Anni di fumisteria 1400+ Installazioni realizzate Unico e su misura Dal progetto alla realizzazione Dalla progettazione alla messa in opera, ogni impianto è seguito direttamente dal nostro team interno di tecnici specializzati e maestri fumisti."
+  },
+  {
+   "url": "https://www.prometeostufe.it/prometeo-design/",
+   "quote": "Uffici via Fratelli Wright, 23, Settimo Milanese (MI)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

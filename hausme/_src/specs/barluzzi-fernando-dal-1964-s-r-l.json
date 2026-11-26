@@ -1,0 +1,19 @@
+{
+ "slug": "barluzzi-fernando-dal-1964-s-r-l",
+ "company": "Barluzzi",
+ "full_name": "Filippo",
+ "first": "Filippo",
+ "linkedin": "https://www.linkedin.com/in/filippo-barluzzi-830268365",
+ "cover_note": "Barluzzi serve la provincia di Perugia e l'Umbria e ha un settore dedicato a impianti ATEX e montaggi elettrostrumentali per l'estrazione di gas e petrolio.",
+ "evidence": [
+  {
+   "url": "https://www.barluzziimpianti.it/",
+   "quote": "Ha un settore dedicato ad impianti ad alta tecnologia, montaggi elettro-strumentali impianti ATEX, con componenti per macchinari utilizzati per estrazione di gas naturali e petrolio."
+  },
+  {
+   "url": "https://www.barluzziimpianti.it/",
+   "quote": "serviamo la provincia di Perugia e l’Umbria"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

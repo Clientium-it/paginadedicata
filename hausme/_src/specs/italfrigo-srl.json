@@ -1,0 +1,19 @@
+{
+ "slug": "italfrigo-srl",
+ "company": "Italfrigo",
+ "full_name": "Romeo",
+ "first": "Romeo",
+ "linkedin": "https://www.linkedin.com/in/romeo-pretto1",
+ "cover_note": "Italfrigo lavora nella climatizzazione da oltre 30 anni con 18 squadre di tecnici, dalla consulenza iniziale alla progettazione e all'installazione.",
+ "evidence": [
+  {
+   "url": "https://www.italfrigo.it/about",
+   "quote": "Italfrigo è un'azienda specializzata nel settore della climatizzazione che con oltre 30 anni di esperienza è in grado di offrire alla propria clientela un servizio a 360° che va dalla consulenza iniziale alla successiva progettazione, installazione"
+  },
+  {
+   "url": "https://www.italfrigo.it/about",
+   "quote": "con 18 squadre di tecnici scelti per garantirvi un servizio impeccabile per professionalità e tempestività"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "f-lli-buziol-s-r-l",
+ "company": "Buziol",
+ "full_name": "Francesco",
+ "first": "Francesco",
+ "linkedin": "https://www.linkedin.com/in/francesco-buziol-a6518b2a9",
+ "cover_note": "Buziol nasce nei primi anni Settanta e opera in tutto il mondo con oltre 40 dipendenti tra progettisti, ingegneri, periti, cablatori e squadre di cantiere.",
+ "evidence": [
+  {
+   "url": "https://www.buziol.it/chi-siamo/",
+   "quote": "opera in tutto il mondo grazie a uno staff di oltre 40 dipendenti tra progettisti, ingegneri, periti, cablatori e squadre specializzate in cantieristica e impianti bordo macchina"
+  },
+  {
+   "url": "https://www.buziol.it/",
+   "quote": "nasce nei primi anni Settanta grazie alla lunga esperienza maturata dai fondatori"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

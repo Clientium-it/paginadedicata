@@ -1,0 +1,19 @@
+{
+ "slug": "d-systems-srl",
+ "company": "D Systems",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-dall-oglio-5b2a817a",
+ "cover_note": "D Systems da più di 20 anni realizza impianti elettrici e tecnologici civili e industriali a Mantova e provincia, nel nord e centro Italia.",
+ "evidence": [
+  {
+   "url": "https://www.dsystemsimpiantielettrici.it/",
+   "quote": "Realizziamo impianti elettrici e tecnologici civili e industriali, nella città di Mantova e provincia, nel nord e centro Italia."
+  },
+  {
+   "url": "https://www.dsystemsimpiantielettrici.it/",
+   "quote": "forti di un’esperienza maturata sul campo in più di 20 anni di attività"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "tecnag-s-r-l",
+ "company": "Tecnag",
+ "full_name": "Mario",
+ "first": "Mario",
+ "linkedin": "https://www.linkedin.com/in/mario-pizzi-06709918",
+ "cover_note": "Tecnag dal 2008 progetta, installa e mantiene impianti elettrici industriali e terziari con reperibilità tutti i giorni dell'anno.",
+ "evidence": [
+  {
+   "url": "https://www.tecnag.it/",
+   "quote": "Fondata nel 2008, TECNAG S.r.l. è un’azienda all’avanguardia per la progettazione, installazione e manutenzione di impianti elettrici nel settore industriale e terziario."
+  },
+  {
+   "url": "https://www.tecnag.it/",
+   "quote": "Reperibilità per manutenzione programmata, straordinaria e pronto intervento, tutti i giorni dell’anno."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

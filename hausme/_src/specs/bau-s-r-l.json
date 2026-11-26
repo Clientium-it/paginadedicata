@@ -1,0 +1,19 @@
+{
+ "slug": "bau-s-r-l",
+ "company": "Bau",
+ "full_name": "Lisa",
+ "first": "Lisa",
+ "linkedin": "https://www.linkedin.com/in/lisa-mazza-a9b72775",
+ "cover_note": "Bau ha sede a Bressanvido e tra le prossime costruzioni indica Camisano Vicentino, Palazzo Manara e Mulino Le Risorgive.",
+ "evidence": [
+  {
+   "url": "https://bausrl.it/",
+   "quote": "Prossima costruzione: Camisano Vicentino Palazzo Manara Mulino Le Risorgive Mulino 2"
+  },
+  {
+   "url": "https://bausrl.it/",
+   "quote": "BAU s.r.l. Via XXV Aprile, 24 36050 – Bressanvido (VI)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

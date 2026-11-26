@@ -1,0 +1,19 @@
+{
+ "slug": "cti-isolare-s-r-l",
+ "company": "CTI Isolare",
+ "full_name": "Elena",
+ "first": "Elena",
+ "linkedin": "https://www.linkedin.com/in/elena-rampa",
+ "cover_note": "CTI Isolare dal 1979 si occupa di isolamento termoacustico e finiture d'interni, lavorando anche in ospedali, alberghi, GDO e industria.",
+ "evidence": [
+  {
+   "url": "https://cti-isolare.com/azienda.php",
+   "quote": "La CTI. Isolare nasce nel 1979 come azienda specializzata nel settore dell'isolamento termo-acustico e delle finiture d'interni."
+  },
+  {
+   "url": "https://cti-isolare.com/azienda.php",
+   "quote": "Residenziale di alto livello Commerciale GDO Ospedaliero Ristorazione Alberghiero Industriale"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

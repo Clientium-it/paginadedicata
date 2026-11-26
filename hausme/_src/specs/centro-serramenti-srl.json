@@ -1,0 +1,19 @@
+{
+ "slug": "centro-serramenti-srl",
+ "company": "Centro Serramenti",
+ "full_name": "Mario",
+ "first": "Mario",
+ "linkedin": "https://www.linkedin.com/in/mario-vendramin-44817829",
+ "cover_note": "Centro Serramenti dal 1999 vende e installa infissi in PVC, legno e alluminio con uno show room di 600 mq a Carpi e ha lavorato per 1500 famiglie.",
+ "evidence": [
+  {
+   "url": "https://centroserramenti.net/",
+   "quote": "Dal 1999 siamo specializzati nella vendita ed installazione di serramenti e infissi in PVC, legno e alluminio dei migliori marchi. Abbiamo la sede e show room a Carpi ma abbiamo lavorato per 1500 famiglie sparse tra Modena, Reggio Emilia ed Emilia Romagna"
+  },
+  {
+   "url": "https://centroserramenti.net/",
+   "quote": "visita il nostro show room di 600 mq"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

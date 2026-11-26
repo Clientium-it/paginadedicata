@@ -1,0 +1,19 @@
+{
+ "slug": "bp-s-r-l",
+ "company": "BP",
+ "full_name": "Matteo",
+ "first": "Matteo",
+ "linkedin": "https://www.linkedin.com/in/matteo-piccoli-537b61362",
+ "cover_note": "BP lavora da oltre 20 anni nell'energia solare e ha sede in Via Piemonte a Urgnano in provincia di Bergamo.",
+ "evidence": [
+  {
+   "url": "https://www.bpsrl.eu/chi-siamo/coltivatori-di-energia/",
+   "quote": "Grazie a oltre 20 anni di attività, BP può ora affermare di essere sinonimo di energia solare"
+  },
+  {
+   "url": "https://www.bpsrl.eu/chi-siamo/coltivatori-di-energia/",
+   "quote": "Via Piemonte, 105 24059 Urgnano (BG)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

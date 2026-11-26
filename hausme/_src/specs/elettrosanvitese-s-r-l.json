@@ -1,0 +1,19 @@
+{
+ "slug": "elettrosanvitese-s-r-l",
+ "company": "Elettrosanvitese",
+ "full_name": "Tiziano",
+ "first": "Tiziano",
+ "linkedin": "https://www.linkedin.com/in/tiziano-odorico-525721aa",
+ "cover_note": "Elettrosanvitese dal 1997 progetta e installa impianti elettrici, videosorveglianza e antincendio con sede a San Vito al Tagliamento.",
+ "evidence": [
+  {
+   "url": "https://www.elettrosanvitese.it/azienda/",
+   "quote": "Dal 1997 siamo una solida realtà nel nostro territorio. Operiamo nei settori dell’ installazione e progettazione di: Impianti elettrici Videosorveglianza Antifurti Antincendio Telefonia e dati"
+  },
+  {
+   "url": "https://www.elettrosanvitese.it/azienda/",
+   "quote": "Via Belvedere 25/10, San Vito al Tagliamento 33078 Pordenone, Italia"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

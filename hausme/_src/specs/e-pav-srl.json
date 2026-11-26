@@ -1,0 +1,19 @@
+{
+ "slug": "e-pav-srl",
+ "company": "E-Pav",
+ "full_name": "Alberto",
+ "first": "Alberto",
+ "linkedin": "https://www.linkedin.com/in/alberto-visentin-010b65178",
+ "cover_note": "E-Pav da oltre 30 anni realizza pavimentazioni interne ed esterne in pietra naturale come porfido, ciottolato, marmo, quarzite e trachite lavorando soprattutto nel Nord Italia.",
+ "evidence": [
+  {
+   "url": "https://www.epav.it/",
+   "quote": "specializzata nella realizzazione di pavimentazione in pietra naturale . L’azienda, presente sul mercato da oltre 30 anni , realizza pavimentazioni esterne e interne in materiali lapidei naturali quali porfido, ciottolato, marmo, quarzite e trachite."
+  },
+  {
+   "url": "https://www.epav.it/",
+   "quote": "Sì anche se lavoriamo prevalentemente nel Nord Italia."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

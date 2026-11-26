@@ -1,0 +1,19 @@
+{
+ "slug": "elettrogima-s-r-l",
+ "company": "Elettrogima",
+ "full_name": "Gianluca",
+ "first": "Gianluca",
+ "linkedin": "https://www.linkedin.com/in/gianluca-tacci-28b1456b",
+ "cover_note": "Elettrogima è nata a Terni nel 1988, ha aperto sedi a Vicenza e Pesaro e realizza impianti di allarme, videocontrollo e controllo accessi.",
+ "evidence": [
+  {
+   "url": "https://elettrogima.it/",
+   "quote": "ELETTROGIMA fondata nel 1988 profondamente radicata nel territorio Umbro con la sua sede in Terni, ha ampliato il raggio d’azione, portando la sua esperienza anche nel Veneto e nelle Marche, istituendo altre 2 sedi operative rispettivamente a Vicenza e Pesaro."
+  },
+  {
+   "url": "https://elettrogima.it/",
+   "quote": "Impianti di allarme, video controllo, video analisi e controllo degli accessi sono solo alcuni degli esempi che contraddistinguono l’Azienda."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

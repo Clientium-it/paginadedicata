@@ -1,0 +1,19 @@
+{
+ "slug": "abicomp-srl-2",
+ "company": "Abicomp",
+ "full_name": "Alberto",
+ "first": "Alberto",
+ "linkedin": "https://www.linkedin.com/in/alberto-bido-a1256589",
+ "cover_note": "Abicomp presenta il centro polifunzionale Diemme all'ingresso sud di Padova su quattro piani per circa 15.000 mq con un progetto finalizzato in 24 mesi.",
+ "evidence": [
+  {
+   "url": "https://abicomp.eu/portfolio-item/centro-diemme/",
+   "quote": "Il nuovo centro polifunzionale Diemme, che identifica l’ingresso sud della città di Padova, si sviluppa su quattro piani fuori terra per una superficie complessiva di circa 15.000 mq"
+  },
+  {
+   "url": "https://abicomp.eu/portfolio-item/centro-diemme/",
+   "quote": "Attraverso il coordinamento di un centinaio di figure il progetto è stato finalizzato in 24 mesi."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

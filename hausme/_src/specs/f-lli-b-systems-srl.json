@@ -1,0 +1,19 @@
+{
+ "slug": "f-lli-b-systems-srl",
+ "company": "B Systems",
+ "full_name": "Annalisa",
+ "first": "Annalisa",
+ "linkedin": "https://www.linkedin.com/in/annalisa-benassi-89b890101",
+ "cover_note": "B Systems è attiva dal 1975 e realizza pavimenti in calcestruzzo per i settori industriale, alimentare, civile e commerciale con 30 tra tecnici e operai.",
+ "evidence": [
+  {
+   "url": "https://www.bsystems.it/",
+   "quote": "è attiva dal 1975 , è specializzata in diversi settori quali: Pavimenti in calcestruzzo per i settori industriale, alimentare, civile e commerciale;"
+  },
+  {
+   "url": "https://www.bsystems.it/",
+   "quote": "( nr. 30 tra tecnici ed operai)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

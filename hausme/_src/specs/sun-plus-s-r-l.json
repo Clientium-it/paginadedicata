@@ -1,0 +1,19 @@
+{
+ "slug": "sun-plus-s-r-l",
+ "company": "Sun Plus",
+ "full_name": "Helmut",
+ "first": "Helmut",
+ "linkedin": "https://www.linkedin.com/in/helmut-leiter-9641a1111",
+ "cover_note": "Sun Plus realizza impianti fotovoltaici chiavi in mano su tetti industriali, commerciali e agricoli e come general contractor ha curato rifacimento del tetto e impianto da 600 kWp.",
+ "evidence": [
+  {
+   "url": "https://sun-plus.it/",
+   "quote": "Wir planen und realisieren schlüsselfertige Photovoltaikanlagen auf Ihren Gewerbe-, Industrie und Agrardächern. Wir sind sowohl für Aufdach- als auch für Freiflächenanlagen spezialisiert."
+  },
+  {
+   "url": "https://sun-plus.it/",
+   "quote": "Sun Plus hat als Generalunternehmen sowohl die Dachsanierung mit einer hochwertigen Dachhaut vorgenommen als auch die Installation der neuen 600 kWp großen Photovoltaikanlage."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

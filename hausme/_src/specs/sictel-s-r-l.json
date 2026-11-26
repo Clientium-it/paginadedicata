@@ -1,0 +1,19 @@
+{
+ "slug": "sictel-s-r-l",
+ "company": "Sictel",
+ "full_name": "Paolo",
+ "first": "Paolo",
+ "linkedin": "https://www.linkedin.com/in/paolo-bucciol-b382b297",
+ "cover_note": "Sictel dal 2000 lavora nella sicurezza e nelle comunicazioni e installa telefonia, cablaggi strutturati con armadi rete, fibre ottiche e ponti radio.",
+ "evidence": [
+  {
+   "url": "https://www.sictel.it/azienda.php",
+   "quote": "Dal 2000 operiamo nei settori della sicurezza e delle comunicazioni, per stare al passo con i tempi seguiamo con attenzione la continua e rapida evoluzione tecnologica che interessa le nostre applicazioni."
+  },
+  {
+   "url": "https://www.sictel.it/azienda.php",
+   "quote": "installando impianti di telefonia, cablaggi strutturati completi di armadi rete, posa e collegamento fibre ottiche, ponti radio"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "repav-s-r-l",
+ "company": "Repav",
+ "full_name": "Paolo",
+ "first": "Paolo",
+ "linkedin": "https://www.linkedin.com/in/paolo-cardella-1909701b8",
+ "cover_note": "Repav da oltre 25 anni realizza pavimentazioni industriali in resina e calcestruzzo in Toscana e nel 2024 ha ripristinato oltre 45mila mq.",
+ "evidence": [
+  {
+   "url": "https://www.repav.it/",
+   "quote": "Da oltre 25 anni i professionisti della pavimentazione industriale a Lucca e in Toscana Repav è un’azienda toscana con una profonda conoscenza del mondo delle resine e del calcestruzzo"
+  },
+  {
+   "url": "https://www.repav.it/",
+   "quote": "+45mila mq di pavimentazione ripristinati nel 2024"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

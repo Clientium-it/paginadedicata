@@ -1,0 +1,19 @@
+{
+ "slug": "mazzoni-etech-s-r-l",
+ "company": "Mazzoni Etech",
+ "full_name": "Fabio",
+ "first": "Fabio",
+ "linkedin": "https://www.linkedin.com/in/fabio-mazzoni-775563177",
+ "cover_note": "Mazzoni Etech ha sede a Talamona e da oltre 26 anni lavora su applicazioni elettrotecniche, elettroniche e automazione industriale.",
+ "evidence": [
+  {
+   "url": "https://www.m-etech.eu/chi-siamo",
+   "quote": "Con un Know-how di oltre 26 anni di esperienza, Mazzoni Etech si afferma come Azienda leader nel settore delle applicazioni elettrotecniche, elettroniche e automazione industriale."
+  },
+  {
+   "url": "https://www.m-etech.eu/chi-siamo",
+   "quote": "Via Murada 130 - 23018 Talamona (SO)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

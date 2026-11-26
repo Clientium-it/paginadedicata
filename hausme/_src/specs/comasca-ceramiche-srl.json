@@ -1,0 +1,19 @@
+{
+ "slug": "comasca-ceramiche-srl",
+ "company": "Comasca Ceramiche",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-jonathan-pesenti",
+ "cover_note": "Comasca Ceramiche è sul mercato da oltre 40 anni con uno showroom a Beregazzo con Figliaro e cura anche la posa in opera con operai specializzati.",
+ "evidence": [
+  {
+   "url": "https://comascaceramiche.com/chi-siamo/",
+   "quote": "I nostri operai specializzati eseguiranno l’attività di posa in opera: la responsabilità del lavoro finito sarà interamente a nostro carico il che garantisce al cliente il massimo della serietà e sicurezza."
+  },
+  {
+   "url": "https://comascaceramiche.com/",
+   "quote": "Presente sul mercato da oltre 40 anni, la ditta Comasca Ceramiche ti aspetta nel suo ampio showroom di Beregazzo con Figliaro, in provincia di Como"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

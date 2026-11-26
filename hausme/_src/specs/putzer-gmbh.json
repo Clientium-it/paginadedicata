@@ -1,0 +1,19 @@
+{
+ "slug": "putzer-gmbh",
+ "company": "Putzer",
+ "full_name": "Werner",
+ "first": "Werner",
+ "linkedin": "https://www.linkedin.com/in/werner-putzer-04944879",
+ "cover_note": "Putzer segue sistemi audio e video per ristorazione, luoghi pubblici e case private, dalla pianificazione al capitolato fino alla messa in opera.",
+ "evidence": [
+  {
+   "url": "https://www.putzer-audiovisual.com/it/",
+   "quote": "Nel mondo della ristorazione, nei luoghi pubblici e a casa vostra. Sempre, quando si tratta di sistemi audio e video, putzer audiovisual ha il programma adatto per voi."
+  },
+  {
+   "url": "https://www.putzer-audiovisual.com/it/",
+   "quote": "La nostra gamma di servizi è completa dalla pianificazione, al capitolato di fornitura, alla progettazione fino alla messa in opera professionale."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

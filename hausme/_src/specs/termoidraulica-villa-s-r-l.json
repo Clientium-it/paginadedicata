@@ -1,0 +1,19 @@
+{
+ "slug": "termoidraulica-villa-s-r-l",
+ "company": "Termoidraulica Villa",
+ "full_name": "Fabio",
+ "first": "Fabio",
+ "linkedin": "https://www.linkedin.com/in/fabio-villa-7264a7171",
+ "cover_note": "Termoidraulica Villa nasce nel 1983 in Brianza, si specializza in impianti idraulici e conta 70 tra dipendenti e collaboratori con oltre 1000 impianti realizzati.",
+ "evidence": [
+  {
+   "url": "https://www.termoidraulicavilla.it/chi-siamo/",
+   "quote": "Termoidraulica Villa nasce nel 1983 nella provincia di Monza e Brianza dal progetto imprenditoriale di Gianni Villa. L’azienda si specializza nella realizzazione di impianti idraulici."
+  },
+  {
+   "url": "https://www.termoidraulicavilla.it/chi-siamo/",
+   "quote": "70 Dipendenti e Collaboratori continuativi 39 Anni di esperienza 1000 + Impianti realizzati"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

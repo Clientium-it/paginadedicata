@@ -1,0 +1,19 @@
+{
+ "slug": "saie-s-r-l",
+ "company": "SAIE",
+ "full_name": "Colin",
+ "first": "Colin",
+ "linkedin": "https://www.linkedin.com/in/colin-van-der-merwe-26b37933",
+ "cover_note": "SAIE dal 1992 segue la gestione chiavi in mano dei cimiteri con esumazioni, estumulazioni e fornitura e posa di manufatti cimiteriali e tombe.",
+ "evidence": [
+  {
+   "url": "https://saie.it/servizi-cimiteriali.php",
+   "quote": "dal 1992 operiamo nella “Gestione chiavi in mano” dei Cimiteri e siamo specializzati nei cicli di esumazione ed estumulazione."
+  },
+  {
+   "url": "https://saie.it/servizi-cimiteriali.php",
+   "quote": "Servizio di fornitura e posa in opera di manufatti cimiteriali, cassoni e tombe con tumulo"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

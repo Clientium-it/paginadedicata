@@ -1,0 +1,15 @@
+{
+ "slug": "envivia",
+ "company": "Envivia",
+ "full_name": "Gianni",
+ "first": "Gianni",
+ "linkedin": "https://www.linkedin.com/in/gianni-ferlizzi-64597718",
+ "cover_note": "Envivia rende intelligenti case, uffici, hotel e yacht e integra domotica KNX, audio video, sicurezza e building automation in un unico sistema.",
+ "evidence": [
+  {
+   "url": "https://envivia.it/",
+   "quote": "Rendiamo intelligenti case, uffici, hotel e yacht. Progettiamo e integriamo domotica KNX , audio-video , sicurezza e building automation in un unico sistema"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

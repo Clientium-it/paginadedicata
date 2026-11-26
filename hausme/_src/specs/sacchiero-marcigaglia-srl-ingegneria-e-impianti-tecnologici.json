@@ -1,0 +1,19 @@
+{
+ "slug": "sacchiero-marcigaglia-srl-ingegneria-e-impianti-tecnologici",
+ "company": "Sacchiero & Marcigaglia",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-marcigaglia-64b642258",
+ "cover_note": "Sacchiero & Marcigaglia esegue e assiste da anni impianti idraulici civili e impianti industriali, adattando il lavoro alle particolarità di ogni abitazione.",
+ "evidence": [
+  {
+   "url": "https://www.sacchieromarcigaglia.it/services",
+   "quote": "Offriamo da anni il servizio di esecuzione e assistenza di impianti idraulici ad uso civile. Riusciamo a trovare la soluzione adatta in base alla peculiarità di ogni abitazione."
+  },
+  {
+   "url": "https://www.sacchieromarcigaglia.it/services",
+   "quote": "Offriamo da anni il servizio di esecuzione e assistenza di impianti industriali."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

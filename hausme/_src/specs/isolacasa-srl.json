@@ -1,0 +1,19 @@
+{
+ "slug": "isolacasa-srl",
+ "company": "Isolacasa",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andreacosaro",
+ "cover_note": "Isolacasa si occupa di isolamento termico da oltre 15 anni e lavora su abitazioni private, condomini ed edifici storici.",
+ "evidence": [
+  {
+   "url": "https://www.isolacasa.it/chi-siamo/",
+   "quote": "Abbiamo lavorato con successo su un’ampia gamma di progetti, dalle abitazioni private ai condomini, dagli edifici storici alle nuove costruzioni."
+  },
+  {
+   "url": "https://www.isolacasa.it/chi-siamo/",
+   "quote": "Da oltre 15 anni, Isolacasa è il punto di riferimento nel settore dell'isolamento termico in Italia."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

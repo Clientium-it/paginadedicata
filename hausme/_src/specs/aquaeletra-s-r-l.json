@@ -1,0 +1,19 @@
+{
+ "slug": "aquaeletra-s-r-l",
+ "company": "Aquaeletra",
+ "full_name": "Michele",
+ "first": "Michele",
+ "linkedin": "https://www.linkedin.com/in/michele-zanutto-b01a8865",
+ "cover_note": "Aquaeletra è stata costituita nel 1996 da Claudio Gonella, lavora in costante dialogo con il cliente e dal 2017 opera anche in Austria.",
+ "evidence": [
+  {
+   "url": "https://www.aquaeletra.it/chi-siamo/",
+   "quote": "Aquaeletra è stata costituita nel 1996 da Claudio Gonella. Abbiamo sviluppato la nostra attività in un ottica di costante dialogo con il cliente"
+  },
+  {
+   "url": "https://www.aquaeletra.it/chi-siamo/",
+   "quote": "Dal 2017 siamo operativi anche in Austria."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

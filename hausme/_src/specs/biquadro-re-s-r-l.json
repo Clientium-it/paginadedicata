@@ -1,0 +1,19 @@
+{
+ "slug": "biquadro-re-s-r-l",
+ "company": "FB Capital",
+ "full_name": "Mattia",
+ "first": "Mattia",
+ "linkedin": "https://www.linkedin.com/in/mattia-ierardi-8b8668114",
+ "cover_note": "FB Capital da Vicenza sviluppa operazioni immobiliari sul Lago di Garda e ha ricostruito un piccolo condominio in massima classe sismica ed energetica.",
+ "evidence": [
+  {
+   "url": "https://www.fbcapital.it/progetti-di-investimento",
+   "quote": "Demolizione e ricostruzione di un piccolo condominio composto da tre appartamenti e tre garage. Massima classe sismica e massima classe energetica."
+  },
+  {
+   "url": "https://www.fbcapital.it/",
+   "quote": "FB Capital è un gruppo Italiano con sede a Vicenza che solo nell’ultimo anno ha gestito operazioni di sviluppo immobiliare per circa 25 milioni di Euro nelle principali città del nord Italia, con focus sul Lago di Garda"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

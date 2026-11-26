@@ -1,0 +1,19 @@
+{
+ "slug": "nober-srl",
+ "company": "Nober",
+ "full_name": "No",
+ "first": "No",
+ "linkedin": "https://www.linkedin.com/in/no-no-94138220b",
+ "cover_note": "Nober ha sede a Cuneo e realizza strutture conformi alla normativa EN1176 completamente personalizzate per il cliente, come il Castello Avventura nelle Langhe.",
+ "evidence": [
+  {
+   "url": "https://www.nober.it/index.php?id=1392",
+   "quote": "Sono realizzate in conformità alla normativa EN1176 e sono soprattutto completamente personalizzate secondo le esigenze del cliente. 7015 - Bosco Avventura 7030 - Castello Trasformazione Pinocchio 7500 - Castello Avventura nelle Langhe"
+  },
+  {
+   "url": "https://www.nober.it/index.php?id=1392",
+   "quote": "Sede legale: Via Ascanio Sobrero 26 - 12100 Cuneo (CN)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

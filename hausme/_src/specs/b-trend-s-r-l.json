@@ -1,0 +1,19 @@
+{
+ "slug": "b-trend-s-r-l",
+ "company": "B-Trend",
+ "full_name": "Alberto",
+ "first": "Alberto",
+ "linkedin": "https://www.linkedin.com/in/alberto-bovolenta-ab11791b7",
+ "cover_note": "B-Trend dal 1999 realizza pavimentazioni per ambiti sportivi, civili, commerciali, scolastici e dell'accoglienza con 2.100 cantieri all'attivo.",
+ "evidence": [
+  {
+   "url": "https://www.b-trend.it/",
+   "quote": "Dal 1999 siamo specializzati nella realizzazione di pavimentazioni di alta qualità per qualsiasi ambito: sportivo, civile, commerciale, scolastico e dell’accoglienza."
+  },
+  {
+   "url": "https://www.b-trend.it/",
+   "quote": "25+ anni di esperienza 100.000 mq coperti 2.100 cantieri"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "n-t-a-nuove-tecnologie-applicate-s-r-l",
+ "company": "NTA",
+ "full_name": "Giulia",
+ "first": "Giulia",
+ "linkedin": "https://www.linkedin.com/in/giulia-emiliani-591492110",
+ "cover_note": "NTA gestisce cantieri civili e industriali, dai condomini agli alberghi fino a centri commerciali e supermercati, con 3850 appartamenti gestiti.",
+ "evidence": [
+  {
+   "url": "https://nta.it/chi-siamo.html",
+   "quote": "gestisce anche cantieri in ambito civile e industriale, condomini e centri residenziali, alberghi e strutture varie quali centri direzionali e commerciali, supermercati e negozi."
+  },
+  {
+   "url": "https://nta.it/",
+   "quote": "3,850 Appartamenti gestiti"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

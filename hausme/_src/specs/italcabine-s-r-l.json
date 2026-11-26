@@ -1,0 +1,19 @@
+{
+ "slug": "italcabine-s-r-l",
+ "company": "Italcabine",
+ "full_name": "Eleonora",
+ "first": "Eleonora",
+ "linkedin": "https://www.linkedin.com/in/eleonora-zanca-25386557",
+ "cover_note": "Italcabine dal 1980 costruisce nello stabilimento di Isola Rizza cabine elettriche complete di impianto interno e poi le installa.",
+ "evidence": [
+  {
+   "url": "https://italcabine.it/azienda/",
+   "quote": "Italcabine S.r.l. viene costituita nel 1980 e sia la sede legale-amministrativa che lo stabilimento produttivo sono situati a Isola Rizza, nell’operosa provincia veronese."
+  },
+  {
+   "url": "https://italcabine.it/azienda/",
+   "quote": "L’attività produttiva si basa sulla costruzione e la relativa installazione di cabine elettriche complete di tutto il comparto impiantistico elettrico interno."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

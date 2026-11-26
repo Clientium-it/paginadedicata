@@ -1,0 +1,19 @@
+{
+ "slug": "wegma-s-r-l",
+ "company": "Wegma",
+ "full_name": "Debora",
+ "first": "Debora",
+ "linkedin": "https://www.linkedin.com/in/debora-zampieron-209b6a74",
+ "cover_note": "Wegma dal 1987 installa sistemi antintrusione, antincendio, videosorveglianza e controllo accessi e con la SOA in OS19 e OS30 può partecipare a gare pubbliche.",
+ "evidence": [
+  {
+   "url": "https://www.wegma.com/chi-siamo",
+   "quote": "Dal 1987 ci occupiamo di sicurezza, installando sistemi di alta qualità per antintrusione, antincendio, videosorveglianza e controllo accessi ."
+  },
+  {
+   "url": "https://www.wegma.com/chi-siamo",
+   "quote": "SOA ha attestato che Wegma possiede la qualifica per la categoria OS19 prima classifica e per la categoria OS30 terza-bis classifica e può quindi partecipare a gare pubbliche"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

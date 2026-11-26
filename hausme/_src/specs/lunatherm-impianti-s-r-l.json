@@ -1,0 +1,19 @@
+{
+ "slug": "lunatherm-impianti-s-r-l",
+ "company": "Lunatherm",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andreacardino",
+ "cover_note": "Lunatherm, fondata nel 1989, costruisce impianti di aerazione e climatizzazione industriale in pannello preisolato e lamiera zincata con circa 15.000 impianti installati nel mondo.",
+ "evidence": [
+  {
+   "url": "https://lunatherm.it/chi-siamo/",
+   "quote": "specializzata da oltre 30 anni nella costruzione di impianti di aerazione e climatizzazione industriale, eseguiti in pannello preisolato e lamiera zincata. In questi anni ha prodotto ed installato circa 15.000 impianti in tutto il mondo"
+  },
+  {
+   "url": "https://lunatherm.it/chi-siamo/",
+   "quote": "La LUNATHERM IMPIANTI è un’azienda fondata nel 1989 dal Sig. Cardino Basilio"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

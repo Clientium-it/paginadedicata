@@ -1,0 +1,19 @@
+{
+ "slug": "tecno-consulent-s-r-l",
+ "company": "Tecno Consulent",
+ "full_name": "Diego",
+ "first": "Diego",
+ "linkedin": "https://www.linkedin.com/in/diego-bosis-408b8888",
+ "cover_note": "Tecno Consulent ha realizzato quartieri residenziali, ville, palazzi ed edifici commerciali e industriali ed è attiva principalmente su Lodi e Courmayeur.",
+ "evidence": [
+  {
+   "url": "https://www.tecnoconsulent.it/realizzazioni.php",
+   "quote": "Abbiamo realizzato quartieri residenziali, ville esclusive, palazzi, edifici civili, commerciali e industriali , sempre con lo stesso approccio: massima cura costruttiva, attenzione al contesto, equilibrio tra qualità e prezzo"
+  },
+  {
+   "url": "https://www.tecnoconsulent.it/",
+   "quote": "Tecno Consulent è attiva principalmente su Lodi e Courmayeur , con proposte immobiliari selezionate anche a Milano Sud e Milano Centro"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

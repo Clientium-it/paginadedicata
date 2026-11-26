@@ -1,0 +1,19 @@
+{
+ "slug": "clad-s-r-l",
+ "company": "Clad",
+ "full_name": "Alessio",
+ "first": "Alessio",
+ "linkedin": "https://www.linkedin.com/in/alessio-palandri-6912773a",
+ "cover_note": "Clad da oltre trent'anni realizza lavori complessi in Italia e all'estero tra centri commerciali, alberghi, ospedali, complessi residenziali e terziario produttivo.",
+ "evidence": [
+  {
+   "url": "https://cladsrl.it/lavori/",
+   "quote": "In tutto il territorio Italiano ed estero. Da oltre trent’anni realizziamo i lavori più sofisticati e complessi, con passione, dedizione e grande professionalità."
+  },
+  {
+   "url": "https://cladsrl.it/lavori/",
+   "quote": "Centri Commerciali - Alberghi - Ospedali - Complessi Residenziali - Retail - Terziario Produttivo"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

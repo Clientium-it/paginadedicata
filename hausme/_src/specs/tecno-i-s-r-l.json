@@ -1,0 +1,19 @@
+{
+ "slug": "tecno-i-s-r-l",
+ "company": "Tecno I",
+ "full_name": "Chiara",
+ "first": "Chiara",
+ "linkedin": "https://www.linkedin.com/in/chiara-schiavon-18481a29a",
+ "cover_note": "Tecno I costruisce e mantiene impianti idraulici, fognari e antincendio usando soprattutto tubazioni in materie plastiche, con sede operativa a Borsea.",
+ "evidence": [
+  {
+   "url": "https://tecnoisrl.it/chi-siamo",
+   "quote": "predisposizione, costruzione, installazione e manutenzione di impianti idraulici, fognari e antincendio con prevalente utilizzo e impiego di tubazioni in materie plastiche"
+  },
+  {
+   "url": "https://tecnoisrl.it/chi-siamo",
+   "quote": "Sede Legale: Via Cavour, 47 - 35042 ESTE (PADOVA) Sede Operativa: Viale Combattenti Alleati d'Europa, 6/D - 45100 BORSEA ( ROVIGO )"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

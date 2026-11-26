@@ -1,0 +1,15 @@
+{
+ "slug": "all-now-s-r-l",
+ "company": "All Now",
+ "full_name": "Dario",
+ "first": "Dario",
+ "linkedin": "https://www.linkedin.com/in/dario-bortolato-73a72634",
+ "cover_note": "All Now offre un servizio completo dalla progettazione alla manutenzione dentro realtà diverse come centri commerciali e stazioni ferroviarie.",
+ "evidence": [
+  {
+   "url": "https://www.all-now.it/",
+   "quote": "Il nostro servizio completo comprende progettazione, installazione e manutenzione all’interno di centri commerciali, aeroporti e stazioni ferroviarie fornito da personale attento a curare i dettagli caratteristici di realtà così eterogenee."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

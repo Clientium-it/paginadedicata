@@ -1,0 +1,19 @@
+{
+ "slug": "gi-fe-costruzioni",
+ "company": "GI.FE. Costruzioni",
+ "full_name": "Angelo",
+ "first": "Angelo",
+ "linkedin": "https://www.linkedin.com/in/angelo-colagrande-91238378",
+ "cover_note": "GI.FE. Costruzioni è un'impresa edile e impiantistica nata nel 1987 che lavora su commesse private e pubbliche per fabbricati commerciali, industriali e terziari.",
+ "evidence": [
+  {
+   "url": "https://www.gifecostruzioni.it/azienda",
+   "quote": "impresa edile ed impiantistica fondata nel 1987, può vantare una lunga esperienza nel campo delle costruzioni e della manutenzione. Esercita su vasta scala territoriale, operando su commesse private e pubbliche per conto terzi."
+  },
+  {
+   "url": "https://www.gifecostruzioni.it/azienda",
+   "quote": "I principali mercati di riferimento sono quelli delle nuovi costruzioni o ristrutturazioni di fabbricati a destinazione d’uso commerciale, industriale e terziario."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

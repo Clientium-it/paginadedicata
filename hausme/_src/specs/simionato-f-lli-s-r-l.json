@@ -1,0 +1,19 @@
+{
+ "slug": "simionato-f-lli-s-r-l",
+ "company": "Simionato",
+ "full_name": "F..Lli",
+ "first": "F..Lli",
+ "linkedin": "https://www.linkedin.com/in/f-lli-simionato-1b6321289",
+ "cover_note": "Simionato ha realizzato bifamiliari e palazzine tra Mirano e Salzano, oltre all'Hotel Villa Patriarca e al Palazzo Commercio di Noale.",
+ "evidence": [
+  {
+   "url": "https://simionato.net/realizzazioni/",
+   "quote": "Residenziale Abitazione – Zelarino (VE) Abitazione Plurifamiliare – Veternigo di S. M. di Sala (VE) Bifamiliare – Mirano (VE) Bifamiliare – Mirano (VE) Palazzina – Mirano (VE) Palazzina – Salzano (VE)"
+  },
+  {
+   "url": "https://simionato.net/realizzazioni/",
+   "quote": "Hotel Gadone Riviera – Brescia (BS) Hotel Villa Patriarca – Mirano (VE) Palazzo Commercio – Noale (VE)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

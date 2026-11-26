@@ -1,0 +1,19 @@
+{
+ "slug": "valerio-sabinot-s-r-l",
+ "company": "Sabinot",
+ "full_name": "Sabinot",
+ "first": "Sabinot",
+ "linkedin": "https://www.linkedin.com/in/sabinot-michela-5bb50252",
+ "cover_note": "Sabinot nasce nel 1965 come ditta di finiture murarie e si occupa di ristrutturazioni di edifici civili, industriali, ospedalieri e scolastici e di bonifica amianto.",
+ "evidence": [
+  {
+   "url": "https://www.sabinot.it/chi-siamo/",
+   "quote": "Si occupa della ristrutturazione di edifici civili, industriali, ospedalieri, scolastici, della bonifica di materiali contenenti amianto, della realizzazione di impermeabilizzazioni"
+  },
+  {
+   "url": "https://www.sabinot.it/chi-siamo/",
+   "quote": "nel 1965 fonda una ditta individuale specializzata nelle finiture di superfici murarie interne ed esterne"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

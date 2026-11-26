@@ -1,0 +1,19 @@
+{
+ "slug": "maroso-srl",
+ "company": "Maroso",
+ "full_name": "Alberto",
+ "first": "Alberto",
+ "linkedin": "https://www.linkedin.com/in/alberto-dal-bosco-96759076",
+ "cover_note": "Maroso nasce nel 1969 come azienda familiare artigianale di impianti idraulici e da oltre 50 anni realizza impianti tecnologici e autoclavi.",
+ "evidence": [
+  {
+   "url": "https://maroso.it/",
+   "quote": "Da oltre 50 anni realizziamo impianti tecnologici e autoclavi dando forma alle idee dei nostri clienti, impegnandoci a garantire efficienza nel tempo."
+  },
+  {
+   "url": "https://maroso.it/",
+   "quote": "La società Maroso srl è stata fondata da Francesco Antonio nel 1969 come azienda familiare artigianale che si occupava di impianti idraulici"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

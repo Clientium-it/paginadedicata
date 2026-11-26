@@ -1,0 +1,19 @@
+{
+ "slug": "tecnoliving-srl",
+ "company": "Tecnoliving",
+ "full_name": "Luca",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-pagani-04798890",
+ "cover_note": "Tecnoliving dal 2010 si occupa di linee vita e spazi confinati in ambito industriale e residenziale tra Vigevano, Pavia, Milano, Novara e Alessandria.",
+ "evidence": [
+  {
+   "url": "https://www.tecnolivingpavia.com/",
+   "quote": "Dal 2010 specializzati su linee vita e spazi confinati in ambito industriale e residenziale. Le decine di lavori realizzati in questi anni e le partnership con aziende produttrici ci hanno permesso di raggiungere standard qualitativi molto alti."
+  },
+  {
+   "url": "https://www.tecnolivingpavia.com/",
+   "quote": "Tecnoliving è specializzata in linee vita e spazi confinati a Vigevano , Pavia , Milano , Novara , Alessandria"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

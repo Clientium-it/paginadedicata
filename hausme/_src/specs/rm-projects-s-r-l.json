@@ -1,0 +1,19 @@
+{
+ "slug": "rm-projects-s-r-l",
+ "company": "X Green",
+ "full_name": "Cristiano",
+ "first": "Cristiano",
+ "linkedin": "https://www.linkedin.com/in/cristiano-flamini-7965373b4",
+ "cover_note": "X Green è un brand di RM Projects che installa chiavi in mano impianti fotovoltaici residenziali, commerciali e industriali con sede a Roma e Milano.",
+ "evidence": [
+  {
+   "url": "https://x-green.it/chi-siamo/",
+   "quote": "X-GREEN è un Brand di RM PROJECTS, azienda italiana leader nell’installazione chiavi in mano di impianti fotovoltaici residenziali, commerciali ed industriali, che dal 2010 contribuisce a rendere il nostro pianeta più ecosostenibile"
+  },
+  {
+   "url": "https://x-green.it/chi-siamo/",
+   "quote": "X-GREEN ha sede a Roma e Milano, ed opera in tutta Italia tramite una rete di Rivenditori , Agenti ed Installatori qualificati e competenti."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

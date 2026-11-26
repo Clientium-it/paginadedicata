@@ -1,0 +1,19 @@
+{
+ "slug": "eco-fotovoltaico-s-r-l-2",
+ "company": "Eco Fotovoltaico",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-ronchi-59483953",
+ "cover_note": "Eco Fotovoltaico è nata nel 2007 a Cremona, ha installato oltre 500 impianti e nel 2025 ha realizzato il primo impianto galleggiante da 2,2 MW.",
+ "evidence": [
+  {
+   "url": "https://ecogroup-italy.it/eco-azienda/",
+   "quote": "2017 + 500 IMPIANTI INSTALLATI 2022 NASCITA DEL GRUPPO 2024 IMPIANTO AGRIVOLTAICO SPERIMENTALE 2025 PRIMO IMPIANTO GALLEGGIANTE DA 2,2 MW"
+  },
+  {
+   "url": "https://ecogroup-italy.it/eco-azienda/",
+   "quote": "storica azienda fondata nel 2007 a Cremona"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

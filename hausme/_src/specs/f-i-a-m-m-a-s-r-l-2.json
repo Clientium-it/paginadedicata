@@ -1,0 +1,19 @@
+{
+ "slug": "f-i-a-m-m-a-s-r-l-2",
+ "company": "Fiamma",
+ "full_name": "Carlo",
+ "first": "Carlo",
+ "linkedin": "https://www.linkedin.com/in/carlo-frati-75490457",
+ "cover_note": "Fiamma da oltre 85 anni progetta e mantiene impianti antincendio in tutta Italia e a Torino ha anche un ramo Edilizia & Costruzioni.",
+ "evidence": [
+  {
+   "url": "https://fiamma-antincendio.it/azienda-antincendio/",
+   "quote": "F.I.A.M.M.A. Srl opera anche nel campo dell’edilizia e costruzioni a Torino, con il ramo d’azienda F.I.A.M.M.A. Edilizia & Costruzioni"
+  },
+  {
+   "url": "https://fiamma-antincendio.it/",
+   "quote": "Da oltre 85 anni siamo altamente specializzati nella progettazione, installazione e manutenzione di impiantistica antincendio in tutta Italia"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

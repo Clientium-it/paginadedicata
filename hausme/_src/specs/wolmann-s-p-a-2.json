@@ -1,0 +1,19 @@
+{
+ "slug": "wolmann-s-p-a-2",
+ "company": "Wölmann",
+ "full_name": "Dario",
+ "first": "Dario",
+ "linkedin": "https://www.linkedin.com/in/dariobarbuti",
+ "cover_note": "Wölmann ha realizzato 6.000 installazioni di sistemi solari in tutta Italia e ha una divisione engineering per progetti complessi come grandi impianti industriali.",
+ "evidence": [
+  {
+   "url": "https://www.wolmann.com/",
+   "quote": "6.000 INSTALLAZIONI di Sistemi Solari Wölmann realizzati in tutta Italia 27.000.000 KWH di energia elettrica prodotta all'anno grazie ai Sistemi Solari Wölmann"
+  },
+  {
+   "url": "https://www.wolmann.com/chi-siamo",
+   "quote": "DIVISIONE ENGINEERING Un team dedicato alla realizzazione di progetti anche molto complessi, quali quelli di grandi impianti industriali."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

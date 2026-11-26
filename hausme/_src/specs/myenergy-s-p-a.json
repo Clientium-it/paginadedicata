@@ -1,0 +1,19 @@
+{
+ "slug": "myenergy-s-p-a",
+ "company": "MyEnergy",
+ "full_name": "Claudio",
+ "first": "Claudio",
+ "linkedin": "https://www.linkedin.com/in/claudio-volga-290348169",
+ "cover_note": "MyEnergy dal 2006 ha realizzato oltre 2.700 impianti fotovoltaici e 195 MW installati o in costruzione, con sede a Milano.",
+ "evidence": [
+  {
+   "url": "https://www.myenergy.it/",
+   "quote": "Dal 2006: oltre 2.700 impianti realizzati e 195 MW installati o in costruzione"
+  },
+  {
+   "url": "https://www.myenergy.it/",
+   "quote": "una delle principali aziende fotovoltaiche in Italia, con sede a Milano"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "energeco-s-r-l",
+ "company": "Energeco",
+ "full_name": "Stefano",
+ "first": "Stefano",
+ "linkedin": "https://www.linkedin.com/in/stefano-pezzucchi-11039449",
+ "cover_note": "Energeco nasce nel 2002 come gestore di impianti per energia termica ed elettrica e oggi come E.S.Co. lavora in tutto il Nord Italia.",
+ "evidence": [
+  {
+   "url": "https://energeco.info/azienda/",
+   "quote": "Energeco S.r.l. nasce nel 2002 come gestore di impianti tecnologici per la produzione di energia termica ed elettrica e, grazie alla sua posizione, ha esteso il proprio raggio d’azione a tutto il Nord Italia"
+  },
+  {
+   "url": "https://energeco.info/azienda/",
+   "quote": "Energeco, in qualità di E.S.Co., fornisce un servizio a tutto campo per il cliente"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

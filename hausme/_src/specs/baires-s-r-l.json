@@ -1,0 +1,23 @@
+{
+ "slug": "baires-s-r-l",
+ "company": "Baires Piscine",
+ "full_name": "Agostino",
+ "first": "Agostino",
+ "linkedin": "https://www.linkedin.com/in/agostino-migliorati-7345b514",
+ "cover_note": "Baires Piscine ha realizzato a Gussago una piscina olimpionica esterna a sfioro e nel 2018 un'area SPA di oltre 1500 m2 all'hotel Linta di Asiago.",
+ "evidence": [
+  {
+   "url": "https://bairespiscine.it/it/chi-siamo",
+   "quote": "Nel 2018 partecipiamo al restauro dell’hotel Linta di Asiago, realizzando una delle aree SPA più grandi dell’alta Italia montana, che supera i 1500 m2."
+  },
+  {
+   "url": "https://bairespiscine.it/it/chi-siamo",
+   "quote": "realizzò per il centro sportivo “Le gocce” di Gussago, rinominato nel 2023 ”Aquamore”, una piscina esterna a sfioro olimpionica 50x25m"
+  },
+  {
+   "url": "https://bairespiscine.it/it/chi-siamo",
+   "quote": "BAIRES PISCINE S.R.L. +39 030 376 0018 P. IVA: 01720900982 Località Bompensiero 2, 25030 Villachiara BS"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

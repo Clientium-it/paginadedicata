@@ -1,0 +1,19 @@
+{
+ "slug": "staes-studio-applicazioni-energia-solare-s-r-l",
+ "company": "STAES",
+ "full_name": "Massimo",
+ "first": "Massimo",
+ "linkedin": "https://www.linkedin.com/in/massimo-sciarretta-94045572",
+ "cover_note": "STAES è stata fondata nel 1979 da Carlo Arganini e ha realizzato il primo impianto fotovoltaico stand alone in Italia su commissione ENEL.",
+ "evidence": [
+  {
+   "url": "https://staes.it/about-us/",
+   "quote": "Primo impianto fotovoltaico “stand alone” in italia su commissione ENEL S.p.a"
+  },
+  {
+   "url": "https://staes.it/about-us/",
+   "quote": "La STAES S.r.l. fondata nel 1979 dall’Ing. Carlo Arganini, ha lo scopo di progettare sistemi di risparmio energetico."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

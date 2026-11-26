@@ -1,0 +1,19 @@
+{
+ "slug": "abc-costruzioni-s-r-l",
+ "company": "ABC Costruzioni",
+ "full_name": "Ndricim",
+ "first": "Ndricim",
+ "linkedin": "https://www.linkedin.com/in/ndricim-hasa-59462077",
+ "cover_note": "ABC Costruzioni dal 1972 ha costruito oltre 600 case prefabbricate in cemento armato tra Udine e il resto del Friuli Venezia Giulia.",
+ "evidence": [
+  {
+   "url": "https://www.abccostruzioni.it/",
+   "quote": "Dal 1972 oltre 600 case prefabbricate costruite in Friuli Venezia Giulia"
+  },
+  {
+   "url": "https://www.abccostruzioni.it/",
+   "quote": "ABC Costruzioni Srl realizza case prefabbricate in cemento armato a Udine e provincia"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

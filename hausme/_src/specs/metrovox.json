@@ -1,0 +1,19 @@
+{
+ "slug": "metrovox",
+ "company": "Metrovox",
+ "full_name": "Francesca",
+ "first": "Francesca",
+ "linkedin": "https://www.linkedin.com/in/francesca-di-gangi-9a31b7207",
+ "cover_note": "Metrovox opera dal 1973 nei sistemi di sicurezza ed è presente su tutto il territorio nazionale con centri di assistenza qualificati.",
+ "evidence": [
+  {
+   "url": "https://www.metrovox.it/",
+   "quote": "Operiamo dal 1973 nel settore dei sistemi di sicurezza. Curiamo tutti gli aspetti e le implicazioni di carattere tecnologico al fine di fornire Soluzioni, Sistemi e Servizi di prevenzione e tutela"
+  },
+  {
+   "url": "https://www.metrovox.it/",
+   "quote": "METROVOX è presente su tutto il territorio nazionale con Centri di Assistenza qualificati"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "solertem-srls",
+ "company": "Solertem",
+ "full_name": "Emanuele",
+ "first": "Emanuele",
+ "linkedin": "https://www.linkedin.com/in/emanuele-rimazzi",
+ "cover_note": "Solertem progetta, installa e manutiene impianti a fonti rinnovabili per aziende e privati tra Varese, Como, Novara e Brianza e segue anche colonnine di ricarica.",
+ "evidence": [
+  {
+   "url": "https://www.solertem.com/",
+   "quote": "Progettiamo, installiamo e manuteniamo impianti per la produzione, l’accumulo e la distribuzione di energia elettrica e termica da fonti rinnovabili, per aziende e privati tra Varese, Como, Novara e Brianza."
+  },
+  {
+   "url": "https://www.solertem.com/",
+   "quote": "Installazione di colonnine di ricarica elettrica convenienti e affidabili per auto elettriche"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

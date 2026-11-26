@@ -1,0 +1,19 @@
+{
+ "slug": "asfalti-conti-s-r-l",
+ "company": "Asfalti Conti",
+ "full_name": "Pietro",
+ "first": "Pietro",
+ "linkedin": "https://www.linkedin.com/in/pietro-conti-b723b758",
+ "cover_note": "Asfalti Conti nasce nel 1963 a Milano come ditta individuale e ha poi realizzato lavori industriali e ospedalieri come la copertura dell'Ospedale di Codogno.",
+ "evidence": [
+  {
+   "url": "https://asfalticonti.it/",
+   "quote": "Negli anni immediatamente successivi, l’Asfalti Conti si afferma come impresa specializzata nel settore edile, industriale e ospedaliero realizzando la copertura dell’Ospedale di Codogno, lo stabilimento Palazzi di Cinisello Balsamo"
+  },
+  {
+   "url": "https://asfalticonti.it/",
+   "quote": "Asfalti Conti nasce nel 1963 come ditta individuale, avviando la propria attività nel campo dell’edilizia civile con sede e magazzino a Milano"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

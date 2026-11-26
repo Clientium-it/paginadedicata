@@ -1,0 +1,19 @@
+{
+ "slug": "assistenze-fotovoltaico-s-r-l",
+ "company": "Assistenze Fotovoltaico",
+ "full_name": "Gian",
+ "first": "Gian",
+ "linkedin": "https://www.linkedin.com/in/gian-battista-spatti",
+ "cover_note": "Assistenze Fotovoltaico progetta impianti fotovoltaici da 10 kW a 10 MW e che dal 2012 ha installato oltre 2.000 impianti.",
+ "evidence": [
+  {
+   "url": "https://www.af-fotovoltaico.it/chi-siamo/",
+   "quote": "progettare impianti fotovoltaici da 10 kW a 10 MW. Oltre 2.000 impianti installati nel corso degli anni di lavoro, finalizzati a favorire un utilizzo più consapevole e sostenibile dell’energia."
+  },
+  {
+   "url": "https://www.af-fotovoltaico.it/chi-siamo/",
+   "quote": "L’esperienza del nostro team nell’ambito del fotovoltaico inizia nel 2012."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

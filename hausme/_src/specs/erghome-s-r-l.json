@@ -1,0 +1,19 @@
+{
+ "slug": "erghome-s-r-l",
+ "company": "Erghome",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-camatta-a5409217",
+ "cover_note": "Erghome gestisce e riqualifica patrimoni immobiliari con oltre 35 anni nel settore impiantistico ed energetico e lavora per fondi e catene retail in tutta Italia.",
+ "evidence": [
+  {
+   "url": "https://www.erghome.it/chi-siamo/",
+   "quote": "Siamo una società specializzata nella gestione, manutenzione e riqualificazione di patrimoni immobiliari , con oltre 35 anni di esperienza nel settore impiantistico ed energetico."
+  },
+  {
+   "url": "https://www.erghome.it/chi-siamo/",
+   "quote": "capace di rispondere alle esigenze di fondi immobiliari, property managers, società di gestione e catene retail in tutta Italia."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

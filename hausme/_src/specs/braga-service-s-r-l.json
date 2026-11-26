@@ -1,0 +1,19 @@
+{
+ "slug": "braga-service-s-r-l",
+ "company": "Braga Service",
+ "full_name": "Denis",
+ "first": "Denis",
+ "linkedin": "https://www.linkedin.com/in/denis-pesenti-09b648224",
+ "cover_note": "Braga Service è nata nel 2020 e unisce tradizione e innovazione nell'installazione e nella manutenzione di impianti dal residenziale all'industriale.",
+ "evidence": [
+  {
+   "url": "https://www.bragaservice.it/servizi/",
+   "quote": "nasce nel 2020 Braga Service S.r.l. , un’azienda che unisce tradizione e innovazione per offrire soluzioni complete in installazione, assistenza e manutenzione di impianti residenziali, commerciali e industriali"
+  },
+  {
+   "url": "https://www.bragaservice.it/servizi/",
+   "quote": "Via Repubblica, 17- 22075 Lurate Caccivio (CO)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

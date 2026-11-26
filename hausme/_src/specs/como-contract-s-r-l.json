@@ -1,0 +1,19 @@
+{
+ "slug": "como-contract-s-r-l",
+ "company": "Como Contract",
+ "full_name": "Stefano",
+ "first": "Stefano",
+ "linkedin": "https://www.linkedin.com/in/stefano-castelletti-60891b197",
+ "cover_note": "Como Contract ha in costruzione ville unifamiliari a Novedrate ed Erba e il complesso The Green Village a Cantù.",
+ "evidence": [
+  {
+   "url": "https://www.comocontract.com/lavori-in-corso/",
+   "quote": "Ville unifamiliari Novedrate BLM 2023-11-13T13:20:07+01:00 Ville unifamiliari Novedrate Ville unifamiliari Novedrate In Costruzione Ville unifamiliari Erba"
+  },
+  {
+   "url": "https://www.comocontract.com/lavori-in-corso/",
+   "quote": "The Green Village, Cantù The Green Village, Cantù In Costruzione"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

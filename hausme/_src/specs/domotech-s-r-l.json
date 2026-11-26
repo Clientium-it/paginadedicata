@@ -1,0 +1,19 @@
+{
+ "slug": "domotech-s-r-l",
+ "company": "Domotech",
+ "full_name": "Alessandro",
+ "first": "Alessandro",
+ "linkedin": "https://www.linkedin.com/in/alessandro-bigiarini-0bbb9482",
+ "cover_note": "Domotech dal 2007 progetta e installa impianti elettrici civili e industriali, fotovoltaici e antincendio e in sede realizza anche quadri di automazione.",
+ "evidence": [
+  {
+   "url": "https://www.domotechimpianti.eu/",
+   "quote": "Dal 2007 progettiamo, installiamo ed eseguiamo manutenzioni su impianti elettrici civili ed industriali, impianti fotovoltaici, antincendio, antifurto e trasmissione dati."
+  },
+  {
+   "url": "https://www.domotechimpianti.eu/",
+   "quote": "Presso la nostra sede realizziamo quadri di automazione, montaggi meccanici e cablaggi di bordo macchina."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

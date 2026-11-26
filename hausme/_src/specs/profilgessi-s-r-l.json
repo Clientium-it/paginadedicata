@@ -1,0 +1,19 @@
+{
+ "slug": "profilgessi-s-r-l",
+ "company": "Profilgessi",
+ "full_name": "Elisa",
+ "first": "Elisa",
+ "linkedin": "https://www.linkedin.com/in/elisa-panzieri-4a0814aa",
+ "cover_note": "Profilgessi da oltre quarant'anni realizza elementi su misura per l'edilizia leggera, con lavori come la Romagna Shopping Valley e il Santuario Sacro Cuore di Gesù.",
+ "evidence": [
+  {
+   "url": "https://profilgessi.it/forme-su-misura/",
+   "quote": "Da più di quarant’anni, Profilgessi è il punto di riferimento per la realizzazione di elementi su misura nel campo dell’edilizia leggera."
+  },
+  {
+   "url": "https://profilgessi.it/forme-su-misura/",
+   "quote": "Romagna Shopping Valley, Savignano Sul Rubicone Santuario Sacro Cuore di Gesù, Ca Staccolo di Urbino"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}
