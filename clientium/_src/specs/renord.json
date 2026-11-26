@@ -1,0 +1,28 @@
+{
+ "slug": "renord",
+ "company": "Renord",
+ "first_name": "Bruno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Renord è concessionaria Renault, Nissan e Dacia a Milano con showroom a Piacenza e San Martino Siccomario. Qui trova come lavoriamo e cosa potremmo fare per Renord.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Renord.",
+ "evidence": [
+  {
+   "claim": "Renord è concessionaria Renault, Nissan e Dacia a Milano con showroom a Piacenza e San Martino Siccomario.",
+   "url": "https://www.renord.com/",
+   "quote": "Renord S.P.A. Concessionaria Renault, Nissan E Dacia Milano || Renord Showroom Piacenza Via Emilia Pavese Via Emilia Pavese 215, 29121 Piacenza (PC) Indicazioni Telefono Email Orari e info Renord Showroom San Martino Siccomario Via Turati 13 (Pavia) Via Turati 13, 27028 San Martino Siccomario (PV)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "isoil-industria",
+ "company": "ISOIL Industria",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ISOIL Industria sviluppa soluzioni e strumentazione per la misura e il controllo dei processi industriali nei settori dell'acqua, alimentare e navale con sede a Milano. Qui trova come lavoriamo e cosa potremmo fare per ISOIL Industria.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ISOIL Industria.",
+ "evidence": [
+  {
+   "claim": "ISOIL Industria sviluppa soluzioni e strumentazione per la misura e il controllo dei processi industriali nei settori dell'acqua, alimentare e navale con sede a Milano.",
+   "url": "https://www.isoil.com/profile-2-2/",
+   "quote": "ISOIL Industria develops and provides advanced solutions, systems and instrumentation for the measurement, automation and control of industrial processes, supporting customers across a wide range of international markets. || Via F.lli Gracchi 27 20092 Cinisello Balsamo Milan , Italy || including water and wastewater, agriculture, food and beverage, chemical, shipbuilding and other industrial applications"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "oppent",
+ "company": "Oppent",
+ "first_name": "Ozgur",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Oppent realizza soluzioni per l'automazione della logistica e negli ultimi 18 mesi è stata scelta da oltre 15 ospedali. Qui trova come lavoriamo e cosa potremmo fare per Oppent.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Oppent.",
+ "evidence": [
+  {
+   "claim": "Oppent realizza soluzioni per l'automazione della logistica e negli ultimi 18 mesi è stata scelta da oltre 15 ospedali.",
+   "url": "https://www.oppent.com/it",
+   "quote": "solo negli ultimi 18 mesi oltre 15 ospedali hanno scelto le nostre soluzioni per l’automazione della logistica || Via Vimercate, 44 Ornago, Monza Brianza — 20876 Italia || oltre 15 ospedali hanno scelto le nostre soluzioni per l’automazione della logistica"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

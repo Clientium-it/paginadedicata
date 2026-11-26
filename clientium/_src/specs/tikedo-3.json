@@ -1,0 +1,28 @@
+{
+ "slug": "tikedo-3",
+ "company": "Tikedo",
+ "first_name": "Emiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tikedo ha un'esperienza ultradecennale nei settori alimentare, beverage, cura della persona e della casa, cosmetico e farmaceutico, con quartier generale a Santarcangelo di Romagna. Qui trova come lavoriamo e cosa potremmo fare per Tikedo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tikedo.",
+ "evidence": [
+  {
+   "claim": "Tikedo ha un'esperienza ultradecennale nei settori alimentare, beverage, cura della persona e della casa, cosmetico e farmaceutico, con quartier generale a Santarcangelo di Romagna.",
+   "url": "https://tikedo.com/",
+   "quote": "un’esperienza ultradecennale nei principali settori industriali: alimentare, beverage, cura della persona e della casa, cosmetico e farmaceutico. || Il viaggio parte da Santarcangelo di Romagna (Rimini), quartier generale del Gruppo. || alimentare, beverage, cura della persona e della casa, cosmetico e farmaceutico."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

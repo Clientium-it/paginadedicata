@@ -1,0 +1,28 @@
+{
+ "slug": "soitaab",
+ "company": "Soitaab",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Soitaab produce macchine da taglio per metalmeccanica, automobilistica, navale e aerospaziale, con sedi in Italia e negli Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per Soitaab.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Soitaab.",
+ "evidence": [
+  {
+   "claim": "Soitaab produce macchine da taglio per metalmeccanica, automobilistica, navale e aerospaziale, con sedi in Italia e negli Stati Uniti.",
+   "url": "https://www.soitaab.com/catalogo/tagliatori/",
+   "quote": "Soitaab è specializzata nella produzione di macchine da taglio per settori come metalmeccanica, automobilistica, navale, aerospaziale e a tutti i centri servizi di taglio, nazionali e mondiali, a supporto di tali industrie. || Head Office ITALIA Carugate | MILANO Via del Lavoro, 9 info@soitaab.com +39 02 92504044 +39 02 84307822 Assistenza e consulenza guidata garantita. SOITAAB IN U.S.A. ILLINOIS 30W141 Wheeler Circle Warrenville, IL 60563 || ALCUNI SETTORI IN CUI LAVORIAMO INFRASTRUTTURALE NAVALE CARPENTERIA FERROVIARIO EOLICO CALDARERIA E PIPING FORGE TAGLIATORI E SERVIZI ARREDAMENTO AERONAUTICO"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

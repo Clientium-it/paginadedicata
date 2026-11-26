@@ -1,0 +1,28 @@
+{
+ "slug": "renson-ventilation",
+ "company": "RENSON Ventilation",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Renson da oltre 116 anni sviluppa soluzioni per la ventilazione e gli spazi esterni con 1.200 dipendenti e stabilimenti in Belgio e negli Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per RENSON Ventilation.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RENSON Ventilation.",
+ "evidence": [
+  {
+   "claim": "Renson da oltre 116 anni sviluppa soluzioni per la ventilazione e gli spazi esterni con 1.200 dipendenti e stabilimenti in Belgio e negli Stati Uniti.",
+   "url": "https://renson.net/en-us/about-renson",
+   "quote": "Renson ® and its 1,200 employees has been setting trends for a healthy indoor climate and a comfortable outdoor life all around the world for more than 116 years. || We develop and deliver high-quality solutions for today and tomorrow from our production sites in Belgium and USA ."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

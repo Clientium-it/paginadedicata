@@ -1,0 +1,28 @@
+{
+ "slug": "delta-electronics-europe",
+ "company": "Delta Electronics Europe",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Delta Electronics sviluppa soluzioni per la gestione dell'energia nei settori dell'automazione, della mobilità e delle infrastrutture con 55 stabilimenti e 73 centri di ricerca. Qui trova come lavoriamo e cosa potremmo fare per Delta Electronics Europe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Delta Electronics Europe.",
+ "evidence": [
+  {
+   "claim": "Delta Electronics sviluppa soluzioni per la gestione dell'energia nei settori dell'automazione, della mobilità e delle infrastrutture con 55 stabilimenti e 73 centri di ricerca.",
+   "url": "https://www.deltaww.com/en-GB/index",
+   "quote": "Leveraging our core competence in power management, we have expanded our operations into four business categories: Power Electronics, Mobility, Automation, and Infrastructure. || Delta’s global network of 165 sales offices, 55 manufacturing sites, and 73 R&D centers supports customers worldwide. || Automotive and eMobility Banking and Retail Commercial and Industrial Buildings Data Centers Electronics Food and Beverages Healthcare Logistics and Warehouse Machinery Power and Grid"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

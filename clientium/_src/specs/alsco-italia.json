@@ -1,0 +1,28 @@
+{
+ "slug": "alsco-italia",
+ "company": "Alsco Italia",
+ "first_name": "Corinna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Alsco offre un servizio completo di noleggio di capi con lavaggio, manutenzione e consegna presso il cliente, con 8 sedi operative in Italia. Qui trova come lavoriamo e cosa potremmo fare per Alsco Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Alsco Italia.",
+ "evidence": [
+  {
+   "claim": "Alsco offre un servizio completo di noleggio di capi con lavaggio, manutenzione e consegna presso il cliente, con 8 sedi operative in Italia.",
+   "url": "https://www.alsco.it/",
+   "quote": "ALSCO propone un servizio completo di noleggio, che comprende la selezione e fornitura dei capi, ripristino con lavaggio e manutenzione, logistica con ritiro e consegna presso il cliente. || La presenza in Italia con 8 sedi operative || I settori a cui ci rivolgiamo Industria Sanità Commercio Terziario e servizi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

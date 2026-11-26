@@ -1,0 +1,28 @@
+{
+ "slug": "la-termoplastic-f-b-m",
+ "company": "LA TERMOPLASTIC F.B.M",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Termoplastic FBM produce manici, maniglie, pomoli e accessori per pentolame in 4 sedi produttive con 150 dipendenti e 140 milioni di pezzi all'anno. Qui trova come lavoriamo e cosa potremmo fare per LA TERMOPLASTIC F.B.M.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LA TERMOPLASTIC F.B.M.",
+ "evidence": [
+  {
+   "claim": "Termoplastic FBM produce manici, maniglie, pomoli e accessori per pentolame in 4 sedi produttive con 150 dipendenti e 140 milioni di pezzi all'anno.",
+   "url": "https://www.fbm.eu/?p=273",
+   "quote": "La Termoplastic F.B.M. è leader mondiale nella produzione manici, maniglie, pomoli e accessori per pentolame. || La Termoplastic F.B.M. conta 4 sedi produttive, con una capacità produttiva di 140 milioni di pezzi all’anno frutto del lavoro di 150 dipendenti nel mondo."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

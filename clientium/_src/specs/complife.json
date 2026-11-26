@@ -1,0 +1,28 @@
+{
+ "slug": "complife",
+ "company": "COMPLIFE GROUP",
+ "first_name": "Gioia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Complife Group affianca le aziende nei test su qualità e sicurezza dei prodotti nei settori cosmetico, nutraceutico, dispositivi medici e farmaceutico. Qui trova come lavoriamo e cosa potremmo fare per COMPLIFE GROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per COMPLIFE GROUP.",
+ "evidence": [
+  {
+   "claim": "Complife Group affianca le aziende nei test su qualità e sicurezza dei prodotti nei settori cosmetico, nutraceutico, dispositivi medici e farmaceutico.",
+   "url": "https://www.complifegroup.com/about/",
+   "quote": "we assist our clients in testing their products in terms of quality and safety || Complife Italia Complife France Complife Iberia Complife Swiss Complife Romania Complife Asia Complife South Africa Nutratech Thema Thema Corp || Markets Cosmetics Nutraceuticals Medical Devices Pharma"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

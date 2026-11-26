@@ -1,0 +1,28 @@
+{
+ "slug": "rancilio",
+ "company": "Rancilio Group",
+ "first_name": "Vittorio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rancilio Group produce e vende macchine da caffè professionali in oltre 100 paesi, con sede in Italia, 5 filiali e 2 centri di ricerca. Qui trova come lavoriamo e cosa potremmo fare per Rancilio Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rancilio Group.",
+ "evidence": [
+  {
+   "claim": "Rancilio Group produce e vende macchine da caffè professionali in oltre 100 paesi, con sede in Italia, 5 filiali e 2 centri di ricerca.",
+   "url": "https://www.ranciliogroup.com/",
+   "quote": "We manufacture and sell professional coffee machines in over 100 countries worldwide. || We operate in over 100 countries worldwide through the Italian headquarter, 5 branch offices, 2 R&D centers, an Extraction Lab and a global sales and service network."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

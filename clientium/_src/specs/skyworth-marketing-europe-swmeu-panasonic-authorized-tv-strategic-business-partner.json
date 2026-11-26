@@ -1,0 +1,28 @@
+{
+ "slug": "skyworth-marketing-europe-swmeu-panasonic-authorized-tv-strategic-business-partner",
+ "company": "Skyworth Marketing Europe (SWMEU)  Panasonic Authorized TV Strategic Business Partner",
+ "first_name": "Milena",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Skyworth Marketing Europe usa su licenza il marchio Panasonic, marchio registrato di Panasonic Holdings Corporation. Qui trova come lavoriamo e cosa potremmo fare per Skyworth Marketing Europe (SWMEU)  Panasonic Authorized TV Strategic Business Partner.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Skyworth Marketing Europe (SWMEU)  Panasonic Authorized TV Strategic Business Partner.",
+ "evidence": [
+  {
+   "claim": "Skyworth Marketing Europe usa su licenza il marchio Panasonic, marchio registrato di Panasonic Holdings Corporation.",
+   "url": "https://television.panasonic.com/de-de",
+   "quote": "„Panasonic“ ist eine eingetragene Marke der Panasonic Holdings Corporation und wird unter Lizenz der Panasonic Holdings Corporation verwendet"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

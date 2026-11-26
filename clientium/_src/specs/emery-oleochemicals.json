@@ -1,0 +1,28 @@
+{
+ "slug": "emery-oleochemicals",
+ "company": "Emery Oleochemicals GmbH",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Emery Oleochemicals offre oltre 3.000 prodotti per l'automotive, i lubrificanti industriali, i fluidi per lavorazione metalli e l'oilfield. Qui trova come lavoriamo e cosa potremmo fare per Emery Oleochemicals GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Emery Oleochemicals GmbH.",
+ "evidence": [
+  {
+   "claim": "Emery Oleochemicals offre oltre 3.000 prodotti per l'automotive, i lubrificanti industriali, i fluidi per lavorazione metalli e l'oilfield.",
+   "url": "https://www.emeryoleo.com/175-history",
+   "quote": "we have over 3,000 products and a constantly growing portfolio of leading product brands || Automotive Industrial Lubricants Metalworking Fluids Oilfield Electric Vehicles"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

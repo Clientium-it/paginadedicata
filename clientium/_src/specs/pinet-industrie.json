@@ -1,0 +1,28 @@
+{
+ "slug": "pinet-industrie",
+ "company": "PINET INDUSTRIE",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pinet Industrie ha due stabilimenti, uno in Francia a Chaulnes e uno in Tunisia a Sousse, e serve veicoli industriali, ferroviario e aeronautica. Qui trova come lavoriamo e cosa potremmo fare per PINET INDUSTRIE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PINET INDUSTRIE.",
+ "evidence": [
+  {
+   "claim": "Pinet Industrie ha due stabilimenti, uno in Francia a Chaulnes e uno in Tunisia a Sousse, e serve veicoli industriali, ferroviario e aeronautica.",
+   "url": "https://www.pinet-industrie.com/fr/pinet/nos-services",
+   "quote": "PINET Industrie possède : 2 sites de production: un en France à Chaulnes (80), un en Tunisie à Sousse. || La société PINET Industrie s'est implantée en Tunisie à Sousse, ville située à 120 km au sud de Tunis. || les véhicules industriels et autocars, les engins de TP et machines agricoles, le transport ferroviaire, l'aéronautique"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

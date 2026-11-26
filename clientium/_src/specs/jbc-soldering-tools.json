@@ -1,0 +1,28 @@
+{
+ "slug": "jbc-soldering-tools",
+ "company": "JBC Soldering Tools",
+ "first_name": "Cem",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "JBC produce da oltre 95 anni strumenti per saldatura e rilavorazione nell'elettronica, con una rete di distributori su 5 continenti. Qui trova come lavoriamo e cosa potremmo fare per JBC Soldering Tools.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per JBC Soldering Tools.",
+ "evidence": [
+  {
+   "claim": "JBC produce da oltre 95 anni strumenti per saldatura e rilavorazione nell'elettronica, con una rete di distributori su 5 continenti.",
+   "url": "https://www.jbctools.com/",
+   "quote": "With over 95 years of experience, JBC has positioned itself at the forefront of soldering and rework tools for electronics. || With a distributor network spanning 5 continents, the company ensures solid organization and quick, efficient service."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

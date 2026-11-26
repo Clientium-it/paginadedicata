@@ -1,0 +1,28 @@
+{
+ "slug": "saba-italia",
+ "company": "Saba Italia",
+ "first_name": "Cristian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Saba Italia crea prodotti per l'abitare che si declinano dal residenziale al contract, a San Martino di Lupari in provincia di Padova. Qui trova come lavoriamo e cosa potremmo fare per Saba Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Saba Italia.",
+ "evidence": [
+  {
+   "claim": "Saba Italia crea prodotti per l'abitare che si declinano dal residenziale al contract, a San Martino di Lupari in provincia di Padova.",
+   "url": "https://sabaitalia.com/it/progetti",
+   "quote": "Ogni nostro prodotto si trasforma in una storia che interpreta diverse visioni dell’abitare, in un linguaggio flessibile che sa declinarsi dal residenziale al contract. || Via dell’Industria 17 - S. Martino di Lupari (PD)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "epsan",
+ "company": "EPSAN",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Epsan produce materie plastiche tecniche per automotive, elettronica, elettrodomestici, edilizia, agricoltura e arredamento, ed esporta in oltre 50 paesi. Qui trova come lavoriamo e cosa potremmo fare per EPSAN.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per EPSAN.",
+ "evidence": [
+  {
+   "claim": "Epsan produce materie plastiche tecniche per automotive, elettronica, elettrodomestici, edilizia, agricoltura e arredamento, ed esporta in oltre 50 paesi.",
+   "url": "https://www.epsan.com/en/corporate",
+   "quote": "it produces innovative, reliable, efficient, sustainable and environmentally friendly products based on globally increasing customer expectations in all industries that touch your life such as automotive, electrics & electronics, white goods, construction, agriculture and furniture || Epsan Plastik exports its products to over 50 countries through its extensive global trade network || automotive, electrics & electronics, white goods, construction, agriculture and furniture"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

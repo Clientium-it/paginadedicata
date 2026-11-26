@@ -1,0 +1,28 @@
+{
+ "slug": "serb-pharmaceuticals",
+ "company": "SERB Pharmaceuticals",
+ "first_name": "Giordano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Serb fornisce una vasta gamma di medicinali essenziali a operatori sanitari in oltre 100 paesi, con 5 stabilimenti produttivi di anticorpi policlonali. Qui trova come lavoriamo e cosa potremmo fare per SERB Pharmaceuticals.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SERB Pharmaceuticals.",
+ "evidence": [
+  {
+   "claim": "Serb fornisce una vasta gamma di medicinali essenziali a operatori sanitari in oltre 100 paesi, con 5 stabilimenti produttivi di anticorpi policlonali.",
+   "url": "https://serb.com/",
+   "quote": "Healthcare providers in over 100 countries rely on us for a broad range of essential medicines delivered via healthcare systems, first responders, emergency preparedness agencies, and non-profit organisations. || We have a best-in-class technological platform for the manufacture of polyclonal antibodies, with 5 manufacturing facilities located on three continents. || Healthcare providers in over 100 countries rely on us for a broad range of essential medicines delivered via healthcare systems, first responders, emergency preparedness agencies, and non-profit organisations."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

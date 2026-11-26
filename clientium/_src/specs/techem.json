@@ -1,0 +1,28 @@
+{
+ "slug": "techem",
+ "company": "Techem",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Techem dal 1952 aiuta proprietari e amministratori a misurare i consumi di calore e acqua negli edifici, in 18 paesi con oltre 4.300 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per Techem.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Techem.",
+ "evidence": [
+  {
+   "claim": "Techem dal 1952 aiuta proprietari e amministratori a misurare i consumi di calore e acqua negli edifici, in 18 paesi con oltre 4.300 dipendenti.",
+   "url": "https://www.techem.com/corp/en",
+   "quote": "Founded in 1952, the company now operates in 18 countries with over 4,300 employees and manages more than 13.5 million residential units. || Italy www.techem.it Techem S.r.l. Via dei Buonvisi, 61/D 00148 - Roma Telefono: 800-880110 || Techem supports property owners and managers in analyzing heat and water consumption in buildings and identifying opportunities for efficiency improvements."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

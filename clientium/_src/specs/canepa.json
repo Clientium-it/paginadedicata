@@ -1,0 +1,28 @@
+{
+ "slug": "canepa",
+ "company": "Canepa",
+ "first_name": "Alice",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Canepa lavora orditura, torcitura e tessitura con oltre 50 telai nello stabilimento di San Fermo della Battaglia e serve i marchi internazionali del lusso. Qui trova come lavoriamo e cosa potremmo fare per Canepa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Canepa.",
+ "evidence": [
+  {
+   "claim": "Canepa lavora orditura, torcitura e tessitura con oltre 50 telai nello stabilimento di San Fermo della Battaglia e serve i marchi internazionali del lusso.",
+   "url": "https://www.canepa.it/it/azienda/storia-e-industria",
+   "quote": "dispone di una sala di orditura e torcitura, di uno stabilimento di tessitura con oltre 50 telai e di una divisione tricot || Sito produttivo San Fermo della Battaglia Via Trinità 1 || l'azienda ha costruito relazioni commerciali stabili con i principali marchi internazionali del lusso"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

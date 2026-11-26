@@ -1,0 +1,28 @@
+{
+ "slug": "ebv",
+ "company": "EBV",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "EBV, nata nel 2019 a Venezia Mestre, lavora con destinazioni, enti pubblici e brand per realizzare campagne rivolte a un pubblico internazionale nelle città europee. Qui trova come lavoriamo e cosa potremmo fare per EBV.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per EBV.",
+ "evidence": [
+  {
+   "claim": "EBV, nata nel 2019 a Venezia Mestre, lavora con destinazioni, enti pubblici e brand per realizzare campagne rivolte a un pubblico internazionale nelle città europee.",
+   "url": "https://www.ebvsrl.com/about-us/",
+   "quote": "Founded in 2019 and headquartered in Venezia Mestre, Italy, EBV is a destination marketing and advertising execution platform operating across Southern Europe. || headquartered in Venezia Mestre, Italy || EBV works with destinations, public sector organisations, and brands to execute advertising initiatives that engage premium international audiences across key European cities."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

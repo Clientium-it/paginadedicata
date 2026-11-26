@@ -1,0 +1,28 @@
+{
+ "slug": "ise",
+ "company": "ISE",
+ "first_name": "Domenico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ISE esegue da oltre 25 anni interventi on site su impianti industriali con sedi a Lucca e Milano. Qui trova come lavoriamo e cosa potremmo fare per ISE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ISE.",
+ "evidence": [
+  {
+   "claim": "ISE esegue da oltre 25 anni interventi on site su impianti industriali con sedi a Lucca e Milano.",
+   "url": "https://www.iseweb.net/prodotti/twise-solutions/",
+   "quote": "+25 anni di interventi on site , +500.000 survey su svariati impianti industriali, Power generation, Oil & Gas, Pulp & Paper, Automotive, Pharma e molti altri || Con le sue sedi di Lucca, Milano , ed un appoggio logistico a Roma , si propone di crescere e consolidare il proprio brand || operando in molti settori diversi , tra cui: Oil & Gas, chimico, petrolchimico, cemento, energia, food & beverage, farmaceutico, ecc."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "xellia-pharmaceuticals",
+ "company": "Xellia Pharmaceuticals",
+ "first_name": "Yehoshua",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Xellia produce antinfettivi da fermentazione e fornisce principi attivi e forme finite a oltre 500 aziende farmaceutiche in 80 paesi. Qui trova come lavoriamo e cosa potremmo fare per Xellia Pharmaceuticals.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Xellia Pharmaceuticals.",
+ "evidence": [
+  {
+   "claim": "Xellia produce antinfettivi da fermentazione e fornisce principi attivi e forme finite a oltre 500 aziende farmaceutiche in 80 paesi.",
+   "url": "https://www.xellia.com/",
+   "quote": "Xellia is a global leader in fermentation-based non-beta-lactam anti-infectives, supplying APIs and finished dosage forms to more than 500 pharmaceutical companies across 80 countries. || from our fermentation tanks in Copenhagen to our production lines in Budapest and Taizhou || provide a level of supply security that healthcare systems depend on"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "industrie-cbi-3",
+ "company": "Industrie CBI",
+ "first_name": "Jean-Michel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CBI costruisce ventilatori dal 1963 e conta 4 siti produttivi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Industrie CBI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Industrie CBI.",
+ "evidence": [
+  {
+   "claim": "CBI costruisce ventilatori dal 1963 e conta 4 siti produttivi nel mondo.",
+   "url": "https://www.cbifans.com/it",
+   "quote": "La nostra avventura ha inizio nel 1963, quando Industrie CBI si lancia nell'ambito della costruzione di ventilatori || 4 Siti produttivi nel mondo"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

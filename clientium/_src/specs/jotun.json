@@ -1,0 +1,28 @@
+{
+ "slug": "jotun",
+ "company": "Jotun",
+ "first_name": "Angelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Jotun opera nelle vernici decorative, nei marine coatings, nei protective coatings e nei powder coatings per shipping, energia, architettura, infrastrutture e light industry. Qui trova come lavoriamo e cosa potremmo fare per Jotun.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Jotun.",
+ "evidence": [
+  {
+   "claim": "Jotun opera nelle vernici decorative, nei marine coatings, nei protective coatings e nei powder coatings per shipping, energia, architettura, infrastrutture e light industry.",
+   "url": "https://www.jotun.com/de-en/about-jotun/what-we-do",
+   "quote": "Jotun operates in four segments: Decorative Paints, Marine Coatings, Protective Coatings, and Powder Coatings. || 1 0 0 + Countries that our products are available in || Shipping and yachting Energy Architecture and design Infrastructure Light industry"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

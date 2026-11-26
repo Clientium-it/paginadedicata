@@ -1,0 +1,28 @@
+{
+ "slug": "sapio",
+ "company": "Gruppo Sapio",
+ "first_name": "Anna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sapio dal 1922 produce gas tecnologie applicazioni e servizi per ogni settore produttivo in Italia Francia Germania Spagna e altri paesi. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Sapio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Sapio.",
+ "evidence": [
+  {
+   "claim": "Sapio dal 1922 produce gas tecnologie applicazioni e servizi per ogni settore produttivo in Italia Francia Germania Spagna e altri paesi.",
+   "url": "https://www.grupposapio.it/il-gruppo/",
+   "quote": "Fondato nel 1922, produce, sviluppa e commercializza gas, tecnologie, applicazioni e servizi correlati per ogni settore produttivo, dall’agroalimentare all’ambiente ed energia, dal chimico-farmaceutico all’elettronico, dal meccanico e metallurgico al vetro e cemento. || Gruppo Sapio è presente in Italia su tutto il territorio nazionale e anche Francia, Germania, Spagna, Slovenia Turchia, UK, Portogallo e USA grazie alla rete capillare di sedi produttive, sedi commerciali e aziende controllate. || può rispondere alle esigenze del mercato dei gas per ogni settore produttivo, dal piccolo artigiano alla grande industria"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

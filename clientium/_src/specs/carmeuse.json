@@ -1,0 +1,28 @@
+{
+ "slug": "carmeuse",
+ "company": "Carmeuse",
+ "first_name": "Lorenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Unicalce produce calce calcica, dolomitica e prodotti derivati in 11 stabilimenti in Italia, per i settori siderurgico, ambientale, energetico, manifatturiero ed edile. Qui trova come lavoriamo e cosa potremmo fare per Carmeuse.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Carmeuse.",
+ "evidence": [
+  {
+   "claim": "Unicalce produce calce calcica, dolomitica e prodotti derivati in 11 stabilimenti in Italia, per i settori siderurgico, ambientale, energetico, manifatturiero ed edile.",
+   "url": "https://www.unicalce.it/azienda/",
+   "quote": "Unicalce è il principale produttore italiano di calce calcica, dolomitica e prodotti derivati con 11 stabilimenti su tutto il territorio nazionale per una capacità produttiva di oltre 2 milioni di tonnellate/anno || 11 Stabilimenti 22 Forni per una produzione max annua pari a 2 mln di ton 4 impianti di produzione premiscelati || Produciamo e sviluppiamo soluzioni necessarie per settori strategici del tessuto produttivo nazionale: Settore siderurgico Settore ambientale Settore energetico Settore manifatturiero Settore edile"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "plastic-systems",
+ "company": "Plastic Systems",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Plastic Systems progetta e produce macchine per stoccaggio, trasporto, deumidificazione e dosaggio di granuli, scaglie e polveri nei processi di trasformazione delle materie plastiche. Qui trova come lavoriamo e cosa potremmo fare per Plastic Systems.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Plastic Systems.",
+ "evidence": [
+  {
+   "claim": "Plastic Systems progetta e produce macchine per stoccaggio, trasporto, deumidificazione e dosaggio di granuli, scaglie e polveri nei processi di trasformazione delle materie plastiche.",
+   "url": "https://www.plasticsystems.it/",
+   "quote": "progettazione, produzione e commercializzazione di macchine e impianti per lo stoccaggio, il trasporto, la deumidificazione e il dosaggio di granuli, scaglie e polveri utilizzati nei processi di trasformazione delle materie plastiche"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

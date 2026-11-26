@@ -1,0 +1,28 @@
+{
+ "slug": "stock-spirits",
+ "company": "Stock Spirits Group",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Stock Spirits distribuisce in oltre 50 paesi con 7 siti produttivi in Germania, Repubblica Ceca, Polonia, Italia e Francia e oltre 1800 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per Stock Spirits Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Stock Spirits Group.",
+ "evidence": [
+  {
+   "claim": "Stock Spirits distribuisce in oltre 50 paesi con 7 siti produttivi in Germania, Repubblica Ceca, Polonia, Italia e Francia e oltre 1800 dipendenti.",
+   "url": "https://www.stockspirits.com/it",
+   "quote": "Distribuzione totale in 50+ paesi 7 siti produttivi: 1 in Germania, 2 nella Repubblica Ceca, 2 in Polonia, 1 in Italia e 1 in Francia. Oltre 1800 dipendenti || Presenti in 10 paesi: Polonia Repubblica Ceca Slovacchia Italia Germania Austria Francia Bosnia ed Herzegovina Croazia Regno Unito"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

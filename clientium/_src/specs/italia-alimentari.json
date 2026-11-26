@@ -1,0 +1,28 @@
+{
+ "slug": "italia-alimentari",
+ "company": "Italia Alimentari",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Italia Alimentari produce alimenti con 7 stabilimenti ed esporta in 50 paesi servendo la GDO il food service e l'industria con 3000 clienti. Qui trova come lavoriamo e cosa potremmo fare per Italia Alimentari.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Italia Alimentari.",
+ "evidence": [
+  {
+   "claim": "Italia Alimentari produce alimenti con 7 stabilimenti ed esporta in 50 paesi servendo la GDO il food service e l'industria con 3000 clienti.",
+   "url": "https://italiaalimentari.it/",
+   "quote": "Export in 50 paesi 7 stabilimenti 3000 clienti 25 certificazioni || 5 stabilimenti in Italia, 1 filiale commerciale in Germania, 1 centro di affettamento in Canada, 1 negli USA ed 1 partner industriale in Giappone || GDO FOOD SERVICE INDUSTRIA Struttura industriale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

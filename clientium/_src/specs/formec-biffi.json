@@ -1,0 +1,28 @@
+{
+ "slug": "formec-biffi",
+ "company": "Formec Biffi",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Formec Biffi sviluppa 360 ricette con 1600 referenze su 26 linee produttive just in time, con 16 ricercatori in laboratorio e 180mila mq di superficie. Qui trova come lavoriamo e cosa potremmo fare per Formec Biffi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Formec Biffi.",
+ "evidence": [
+  {
+   "claim": "Formec Biffi sviluppa 360 ricette con 1600 referenze su 26 linee produttive just in time, con 16 ricercatori in laboratorio e 180mila mq di superficie.",
+   "url": "https://www.formec.it/",
+   "quote": "1600 Referenze 26 Linee Produttive Just in Time 360 Ricette 16 Ricercatori in Laboratorio || Una superficie complessiva di 180mila mq, 30mila mq dei quali sono dedicati allo stabilimento"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

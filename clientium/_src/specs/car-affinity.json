@@ -1,0 +1,28 @@
+{
+ "slug": "car-affinity",
+ "company": "Car Affinity",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Car Affinity gestisce una piattaforma per cercare offerte di auto nuove e Km0, nata in Italia nel 2015 e presente in 9 mercati. Qui trova come lavoriamo e cosa potremmo fare per Car Affinity.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Car Affinity.",
+ "evidence": [
+  {
+   "claim": "Car Affinity gestisce una piattaforma per cercare offerte di auto nuove e Km0, nata in Italia nel 2015 e presente in 9 mercati.",
+   "url": "https://www.caraffinity.it/configuratore/home/about-us/",
+   "quote": "La piattaforma leader in Europa per ricercare le migliori offerte di auto nuove e Km0 || Nata in Italia nel 2015, oggi è presente in 9 mercati (Italia, Francia, Spagna, Portogallo, Austria, Germania, Belgio, Paesi Bassi e Lussemburgo)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "fiocchi-process-instrumentation",
+ "company": "Fiocchi PROCESS INSTRUMENTATION",
+ "first_name": "Fabiana",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fiocchi Process Instrumentation dal 1992 offre soluzioni su misura per l'alimentare, la chimica, le acciaierie e le cartiere, da Stradella. Qui trova come lavoriamo e cosa potremmo fare per Fiocchi PROCESS INSTRUMENTATION.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fiocchi PROCESS INSTRUMENTATION.",
+ "evidence": [
+  {
+   "claim": "Fiocchi Process Instrumentation dal 1992 offre soluzioni su misura per l'alimentare, la chimica, le acciaierie e le cartiere, da Stradella.",
+   "url": "https://www.fioproin.it/chi-siamo/",
+   "quote": "dal 1992 offre soluzioni su misura innovative, rapide, precise e di facile utilizzo per aumentare l’efficienza dell’impianto e migliorare la qualità del prodotto || Via Pietro Bianchi 72 27049, Stradella (PV) || l’alimentare, l’industria chimica, le acciaierie, il mondo delle cartiere"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

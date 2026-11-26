@@ -1,0 +1,28 @@
+{
+ "slug": "cht",
+ "company": "CHT Group",
+ "first_name": "Attilio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CHT Group produce ausiliari e additivi chimici per i processi industriali e serve aziende tessili e di finissaggio nel mondo con 28 società. Qui trova come lavoriamo e cosa potremmo fare per CHT Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CHT Group.",
+ "evidence": [
+  {
+   "claim": "CHT Group produce ausiliari e additivi chimici per i processi industriali e serve aziende tessili e di finissaggio nel mondo con 28 società.",
+   "url": "https://www.cht.com/en/",
+   "quote": "the CHT Group has developed into a globally active group of companies with a focus on specialty chemicals as function providers, auxiliaries and additives for industrial processes || CHT Bangladesh Pvt. Ltd., CHT Ho Chi Minh City Company Limited and CHT Distribution APAC Pte. Ltd. extent the group of companies to a total of 28 || Our customers in this market segment are textile manufacturers and textile finishing companies all over the world"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

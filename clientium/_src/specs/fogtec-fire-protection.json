@@ -1,0 +1,28 @@
+{
+ "slug": "fogtec-fire-protection",
+ "company": "FOGTEC® Fire Protection",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FOGTEC sviluppa sistemi antincendio ad acqua nebulizzata ad alta pressione per ospedali, hotel, treni e infrastrutture, presenti in tutti i continenti. Qui trova come lavoriamo e cosa potremmo fare per FOGTEC® Fire Protection.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FOGTEC® Fire Protection.",
+ "evidence": [
+  {
+   "claim": "FOGTEC sviluppa sistemi antincendio ad acqua nebulizzata ad alta pressione per ospedali, hotel, treni e infrastrutture, presenti in tutti i continenti.",
+   "url": "https://fogtec-international.com/",
+   "quote": "FOGTEC develops and supplies fire protection solutions based on high-pressure water mist that protect lives, property and resources. || FOGTEC is active on all seven continents with its various own locations and a first class network of local partners. More than 30.000 FOGTEC systems are protecting lives and assets every day. || We serve highly relevant markets such as for hospitals, hotels, rolling stock, infrastructure and industrial applications."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

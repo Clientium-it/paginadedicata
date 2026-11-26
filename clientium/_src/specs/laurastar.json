@@ -1,0 +1,28 @@
+{
+ "slug": "laurastar",
+ "company": "LAURASTAR",
+ "first_name": "Gloria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Laurastar ha la sede mondiale in Svizzera e un centro tecnico a Kapuvar in Ungheria dove garantisce la riparazione dei prodotti per 10 anni. Qui trova come lavoriamo e cosa potremmo fare per LAURASTAR.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LAURASTAR.",
+ "evidence": [
+  {
+   "claim": "Laurastar ha la sede mondiale in Svizzera e un centro tecnico a Kapuvar in Ungheria dove garantisce la riparazione dei prodotti per 10 anni.",
+   "url": "https://www.laurastar.com/history/",
+   "quote": "Laurastar inaugurates its new European technical centre in Kapuvar, Hungary, which seeks to test products and guarantee their repair for at least 10 years. || Laurastar establishes its worldwide headquarters in the village of Châtel-Saint-Denis, in the Swiss canton of Fribourg."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

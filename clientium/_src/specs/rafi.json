@@ -1,0 +1,28 @@
+{
+ "slug": "rafi",
+ "company": "RAFI Group",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "RAFI produce prodotti e soluzioni HMI su misura per industria, tecnologia medicale e veicoli agricoli e commerciali. Qui trova come lavoriamo e cosa potremmo fare per RAFI Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RAFI Group.",
+ "evidence": [
+  {
+   "claim": "RAFI produce prodotti e soluzioni HMI su misura per industria, tecnologia medicale e veicoli agricoli e commerciali.",
+   "url": "https://www.rafi-group.com",
+   "quote": "RAFI ist der weltweit größte Hersteller von maßgeschneiderten HMI-Produkten und -Lösungen. || RAFI GmbH & Co. KG Ravensburger Str. 128–134 88276 Berg/Ravensburg Deutschland || insbesondere in der Industrie (Fertigungsanlagen, Robotik, Automatisierung, Logistik), der Medizintechnik (OP-Säle, Diagnostikgeräte, Patientensysteme), bei Agrar- und Nutzfahrzeugen (Traktoren, Lkw, Busse, Spezialfahrzeuge, Züge)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

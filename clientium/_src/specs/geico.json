@@ -1,0 +1,28 @@
+{
+ "slug": "geico",
+ "company": "Geico",
+ "first_name": "Cinzia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Geico da oltre sessant'anni progetta e realizza impianti automatizzati chiavi in mano per la verniciatura delle scocche automobilistiche. Qui trova come lavoriamo e cosa potremmo fare per Geico.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Geico.",
+ "evidence": [
+  {
+   "claim": "Geico da oltre sessant'anni progetta e realizza impianti automatizzati chiavi in mano per la verniciatura delle scocche automobilistiche.",
+   "url": "https://geico-spa.com/it/about-us/",
+   "quote": "Da oltre sessant'anni leader a livello mondiale nella realizzazione e progettazione di impianti automatizzati chiavi in mano per la verniciatura delle scocche automobilistiche."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

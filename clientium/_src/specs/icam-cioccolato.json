@@ -1,0 +1,28 @@
+{
+ "slug": "icam-cioccolato",
+ "company": "Icam Cioccolato",
+ "first_name": "Paola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Icam produce cioccolato esportato in 83 paesi con due stabilimenti a Orsenigo e Lecco e tre centri di fermentazione in Uganda. Qui trova come lavoriamo e cosa potremmo fare per Icam Cioccolato.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Icam Cioccolato.",
+ "evidence": [
+  {
+   "claim": "Icam produce cioccolato esportato in 83 paesi con due stabilimenti a Orsenigo e Lecco e tre centri di fermentazione in Uganda.",
+   "url": "https://www.icamcioccolato.com/it/chi-siamo/economics/",
+   "quote": "60% Prodotto esportato 83 Paesi in cui esportiamo 432 Milioni di € Fatturati nel 2025 64% del Cacao è certificato 522 Ricette sviluppate +29 Dipendenti in organico 31.806 Ton. di cacao acquistato || Siamo presenti sul territorio italiano con due stabilimenti ubicati a Orsenigo (CO) e Lecco. Il primo rappresenta oggi il nostro cuore produttivo, mentre il secondo è la sede legale che funge da hub logistico e ospita alcune produzioni di confezionamento secondario. Completano la nostra presenza nel mondo, i due uffici commerciali negli Stati Uniti, Agostoni Chocolate US e ICAM Chocolate UK nel Regno Unito, un Ufficio di rappresentanza in Perù e tre centri di fermentazione in Uganda con la denominazione ICAM Chocolate Uganda. || Rispondiamo alle esigenze di tre principali destinatari: chi ama il cioccolato, chi lo interpreta per lavoro e chi sceglie di produrlo."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

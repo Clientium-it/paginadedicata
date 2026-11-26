@@ -1,0 +1,28 @@
+{
+ "slug": "nwg-energia-societa-benefit",
+ "company": "NWG Energia S.p.a. Società Benefit",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "NWG Energia è un'azienda trader di energia che fornisce esclusivamente energia da fonti rinnovabili italiane. Qui trova come lavoriamo e cosa potremmo fare per NWG Energia S.p.a. Società Benefit.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per NWG Energia S.p.a. Società Benefit.",
+ "evidence": [
+  {
+   "claim": "NWG Energia è un'azienda trader di energia che fornisce esclusivamente energia da fonti rinnovabili italiane.",
+   "url": "https://www.nwgenergia.it/profilo-aziendale/",
+   "quote": "NWG Energia è un’azienda trader di energia che, da statuto, si impegna a fornire esclusivamente energia proveniente da fonti rinnovabili italiane || NWG Energia S.p.a. Società Benefit - Sede legale: Via Sornianese, 91 - 59100 Prato"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

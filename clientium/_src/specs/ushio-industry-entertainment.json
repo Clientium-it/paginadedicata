@@ -1,0 +1,28 @@
+{
+ "slug": "ushio-industry-entertainment",
+ "company": "Ushio Industry & Entertainment",
+ "first_name": "Anna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ushio dal 1964 produce sorgenti luminose industriali per settori come la sanità, la manifattura avanzata e la produzione di semiconduttori, con stabilimento in Polonia. Qui trova come lavoriamo e cosa potremmo fare per Ushio Industry & Entertainment.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ushio Industry & Entertainment.",
+ "evidence": [
+  {
+   "claim": "Ushio dal 1964 produce sorgenti luminose industriali per settori come la sanità, la manifattura avanzata e la produzione di semiconduttori, con stabilimento in Polonia.",
+   "url": "https://ushio.eu/",
+   "quote": "Since its founding in 1964, Ushio has established itself as a global leader in manufacturing specialised industrial light sources || Headquartered in the Netherlands, with offices in France and the UK, a sales and logistics hub in Germany, and a cutting-edge manufacturing plant in Poland, Ushio Europe brings local expertise directly to its clients || enables Ushio to deliver reliable and innovative light sources that empower countless industries worldwide, from healthcare and advanced manufacturing to semiconductor production"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

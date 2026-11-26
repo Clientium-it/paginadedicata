@@ -1,0 +1,28 @@
+{
+ "slug": "fimigroup",
+ "company": "FIMIGroup",
+ "first_name": "Anton",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FIMI Group progetta, costruisce e mette in servizio impianti e macchine completi per la lavorazione del coil nel nord Italia. Qui trova come lavoriamo e cosa potremmo fare per FIMIGroup.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FIMIGroup.",
+ "evidence": [
+  {
+   "claim": "FIMI Group progetta, costruisce e mette in servizio impianti e macchine completi per la lavorazione del coil nel nord Italia.",
+   "url": "https://www.fimigroup.it/history/",
+   "quote": "FIMI Group ranks among the top three companies in the world for design, construction and commissioning of complete plants and machines for coil processing || FIMIGroup consists of three main divisions located in northern Italy, plus five additional branches"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

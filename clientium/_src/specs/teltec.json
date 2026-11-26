@@ -1,0 +1,28 @@
+{
+ "slug": "teltec",
+ "company": "TELTEC",
+ "first_name": "Pierluigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TELTEC distribuisce apparecchiature e materiali per semiconduttori e fotovoltaico in Europa, con quasi 150 persone, aprendo il mercato europeo ai produttori di medie dimensioni. Qui trova come lavoriamo e cosa potremmo fare per TELTEC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TELTEC.",
+ "evidence": [
+  {
+   "claim": "TELTEC distribuisce apparecchiature e materiali per semiconduttori e fotovoltaico in Europa, con quasi 150 persone, aprendo il mercato europeo ai produttori di medie dimensioni.",
+   "url": "https://www.teltec.com/",
+   "quote": "TELTEC is Europes leading Semiconductor & PV Equipment and Materials Distributor and Representative. || With nearly 150 employees in six countries, TELTEC is currently and will continue to be the dominant force in the semiconductor industry. || TELTEC offers swift and straightforward access to the European market for medium-sized manufacturers, catering to their specific needs. Renowned chip manufacturers simultaneously benefit from an innovative and versatile portfolio."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "balt",
+ "company": "Balt",
+ "first_name": "Monica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Balt da oltre 45 anni sviluppa soluzioni neurovascolari insieme a medici e istituzioni con mille persone in sedici sedi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Balt.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Balt.",
+ "evidence": [
+  {
+   "claim": "Balt da oltre 45 anni sviluppa soluzioni neurovascolari insieme a medici e istituzioni con mille persone in sedici sedi nel mondo.",
+   "url": "https://baltgroup.com/",
+   "quote": "For more than 45 years, Balt has been leading the way—collaborating with physicians and institutions to develop elegant neurovascular solutions || Now, Balt includes 1000 talented team members at 16 unique sites around the world. || collaborating with physicians and institutions to develop elegant neurovascular solutions"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

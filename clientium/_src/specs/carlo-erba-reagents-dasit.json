@@ -1,0 +1,28 @@
+{
+ "slug": "carlo-erba-reagents-dasit",
+ "company": "CARLO ERBA Reagents (DASIT Group)",
+ "first_name": "Egidio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Carlo Erba Reagents produce reagenti chimici con uffici e impianti in quattro paesi, Italia, Francia, Germania e Spagna, e serve mercati in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per CARLO ERBA Reagents (DASIT Group).",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CARLO ERBA Reagents (DASIT Group).",
+ "evidence": [
+  {
+   "claim": "Carlo Erba Reagents produce reagenti chimici con uffici e impianti in quattro paesi, Italia, Francia, Germania e Spagna, e serve mercati in tutto il mondo.",
+   "url": "https://www.carloerbareagents.com/cerstorefront/cer-it/chi-siamo",
+   "quote": "è presente con propri uffici e impianti produttivi in quattro paesi (Italia, Francia, Germania e Spagna) e serve i mercati di tutto il mondo || Due stabilimenti di produzione (prodotti chimici) e un hub logistico si trovano in Francia."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

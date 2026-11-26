@@ -1,0 +1,28 @@
+{
+ "slug": "rummo-2",
+ "company": "Rummo",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rummo porta avanti dalla famiglia di Antonio Rummo la macinatura del grano e la produzione di pasta a Benevento. Qui trova come lavoriamo e cosa potremmo fare per Rummo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rummo.",
+ "evidence": [
+  {
+   "claim": "Rummo porta avanti dalla famiglia di Antonio Rummo la macinatura del grano e la produzione di pasta a Benevento.",
+   "url": "https://www.pastarummo.it/storia/",
+   "quote": "Antonio Rummo avvia l’attività di famiglia, specializzata nella macinatura del grano e nella manifattura di pasta lì dove il grano è buono e le acque sono pure: Benevento. || Via dei Grandi Maestri Pastai, 1 82100, Benevento, Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

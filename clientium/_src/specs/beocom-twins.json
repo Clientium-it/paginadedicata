@@ -1,0 +1,28 @@
+{
+ "slug": "beocom-twins",
+ "company": "BEOCOM SRL (TWINS)",
+ "first_name": "Chiara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Twins offre soluzioni integrate di automazione e motion control per l'industria, con circa 90 persone e 13 sedi internazionali. Qui trova come lavoriamo e cosa potremmo fare per BEOCOM SRL (TWINS).",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BEOCOM SRL (TWINS).",
+ "evidence": [
+  {
+   "claim": "Twins offre soluzioni integrate di automazione e motion control per l'industria, con circa 90 persone e 13 sedi internazionali.",
+   "url": "https://www.hiwin.it/azienda/la-nostra-storia",
+   "quote": "L’obiettivo e’ offrire al mercato, nel modo piu’ efficente possibile, l’ampia gamma di prodotti e soluzioni integrate di automazione e motion control || Questi rientrano nel team di ormai circa 90 dipendenti che ad oggi operano in una delle 13 subsidiaries internazionali || Automazione Automotive Impianti industriali Macchine Utensili Industria del Legno Packaging Semiconduttori Settore Medicale Stampanti industriali Tessile"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

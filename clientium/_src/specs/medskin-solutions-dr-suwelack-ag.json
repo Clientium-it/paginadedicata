@@ -1,0 +1,28 @@
+{
+ "slug": "medskin-solutions-dr-suwelack-ag",
+ "company": "Medskin Solutions Dr Suwelack AG",
+ "first_name": "Maria Grazia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Medskin Solutions sviluppa, produce e vende prodotti per la cura professionale della pelle, la medicina rigenerativa e la cura avanzata delle ferite. Qui trova come lavoriamo e cosa potremmo fare per Medskin Solutions Dr Suwelack AG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Medskin Solutions Dr Suwelack AG.",
+ "evidence": [
+  {
+   "claim": "Medskin Solutions sviluppa, produce e vende prodotti per la cura professionale della pelle, la medicina rigenerativa e la cura avanzata delle ferite.",
+   "url": "https://medskin-suwelack.com/About-us/Who-We-Are/",
+   "quote": "We develop, manufacture and sell effective, targeted products in professional skin care, regenerative medicine and advanced wound care areas. || With subsidiaries in India, Japan and the USA, employees in 9 countries and a wide network of partners, we are represented globally."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

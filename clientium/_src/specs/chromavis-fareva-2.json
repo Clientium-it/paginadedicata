@@ -1,0 +1,28 @@
+{
+ "slug": "chromavis-fareva-2",
+ "company": "Chromavis Fareva",
+ "first_name": "Biancaluna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Chromavis conta 8 siti produttivi, 6 laboratori di innovazione e 350 clienti, con circa 1000 persone tra Europa, Nord America, Ucraina e America Latina. Qui trova come lavoriamo e cosa potremmo fare per Chromavis Fareva.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Chromavis Fareva.",
+ "evidence": [
+  {
+   "claim": "Chromavis conta 8 siti produttivi, 6 laboratori di innovazione e 350 clienti, con circa 1000 persone tra Europa, Nord America, Ucraina e America Latina.",
+   "url": "https://www.chromavis.com/discover-our-company",
+   "quote": "6 INNOVATION LABS 350 CLIENTS 1000 PEOPLE 8 PRODUCTION SITES || 4 Europe 2 North America 1 Ukraine 1 Latin America"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

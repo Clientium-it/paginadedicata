@@ -1,0 +1,28 @@
+{
+ "slug": "tenax-2",
+ "company": "Tenax",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tenax estrude dal 1960 polimeri termoplastici per giardinaggio, agricoltura, costruzioni, ingegneria civile e industria, con sei stabilimenti a Viganò. Qui trova come lavoriamo e cosa potremmo fare per Tenax.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tenax.",
+ "evidence": [
+  {
+   "claim": "Tenax estrude dal 1960 polimeri termoplastici per giardinaggio, agricoltura, costruzioni, ingegneria civile e industria, con sei stabilimenti a Viganò.",
+   "url": "https://www.tenax.net/chi-siamo/",
+   "quote": "Fondata in Italia nel 1960, Tenax nasce come azienda specializzata nell’estrusione di polimeri termoplastici. || La sede principale si trova a Viganò (LC) e ospita uffici direzionali e sei stabilimenti produttivi. || Oggi operiamo con successo in cinque settori strategici: Giardinaggio e Fai-da-te – Agricoltura – Costruzioni – Ingegneria civile e ambientale – Industria."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

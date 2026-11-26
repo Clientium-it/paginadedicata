@@ -1,0 +1,28 @@
+{
+ "slug": "sapio-life-3",
+ "company": "Sapio Life",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sapio Life dal 1989 si occupa di servizi alla persona, assistenza domiciliare integrata e servizi per le strutture ospedaliere, con sede a Monza. Qui trova come lavoriamo e cosa potremmo fare per Sapio Life.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sapio Life.",
+ "evidence": [
+  {
+   "claim": "Sapio Life dal 1989 si occupa di servizi alla persona, assistenza domiciliare integrata e servizi per le strutture ospedaliere, con sede a Monza.",
+   "url": "https://www.sapiolife.it/chi-siamo/",
+   "quote": "Sapio Life è l'azienda del Gruppo Sapio specializzata in servizi alla persona, assistenza domiciliare integrata e in servizi per le strutture ospedaliere. Nata nel 1989 || Via Silvio Pellico, 48 20900 Monza || diventare partner strategico di aziende sanitarie, ospedali, laboratori e centri di ricerca pubblici e privati"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}
