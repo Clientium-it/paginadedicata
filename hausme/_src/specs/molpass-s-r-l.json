@@ -1,0 +1,19 @@
+{
+ "slug": "molpass-s-r-l",
+ "company": "Molpass",
+ "full_name": "Rita",
+ "first": "Rita",
+ "linkedin": "https://www.linkedin.com/in/rita-lamberti-677425209",
+ "cover_note": "Molpass distribuisce prodotti per live show, broadcast TV, navale ed eventi e ospita il Teatro dell'Industria per ricerca e collaudo.",
+ "evidence": [
+  {
+   "url": "https://www.molpass.it/azienda/",
+   "quote": "Molpass ospita al suo interno il Teatro dell’Industria, un luogo, concepito dall’Ing. Giorgio Molinari, dedicato alla attività sperimentale di ricerca e collaudo della Molpass S.R.L."
+  },
+  {
+   "url": "https://www.molpass.it/azienda/",
+   "quote": "specializzata nella distribuzione di prodotti di altissima qualità ed innovazione dedicati al live show, il broadcast TV, il navale, gli eventi e tutti quei luoghi in cui è presente il pubblico"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

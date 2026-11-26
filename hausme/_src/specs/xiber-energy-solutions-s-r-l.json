@@ -1,0 +1,19 @@
+{
+ "slug": "xiber-energy-solutions-s-r-l",
+ "company": "Xiber",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea--zanotti",
+ "cover_note": "Xiber è la ESCo del Gruppo TESYA e segue fotovoltaico industriale, sistemi di accumulo, rifacimento di coperture industriali e pompe di calore per l'efficienza energetica.",
+ "evidence": [
+  {
+   "url": "https://www.xiber-es.com/it/chi-siamo/",
+   "quote": "XIBER , è la ESCo del Gruppo TESYA che fornisce soluzioni integrate per l’efficienza energetica , la riduzione dei costi e l'abbattimento delle emissioni di CO2."
+  },
+  {
+   "url": "https://www.xiber-es.com/it/chi-siamo/",
+   "quote": "IMPIANTO FOTOVOLTAICO INDUSTRIALE SISTEMI DI ACCUMULO RIFACIMENTO COPERTURA INDUSTRIALE AMPLIAMENTO DEGLI IMPIANTI FOTOVOLTAICI ESISTENTI REVAMPING FOTOVOLTAICO ELETTRIFICAZIONE MACCHINE / PROCESSI INDUSTRIALI POMPE DI CALORE"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "goclima-srl",
+ "company": "GoClima",
+ "full_name": "Filippo",
+ "first": "Filippo",
+ "linkedin": "https://www.linkedin.com/in/filippo-melchiotti-36023b68",
+ "cover_note": "GoClima si occupa di collaudi e manutenzione di impianti termoidraulici con focus sulle pompe di calore tra Padova, Venezia e Treviso.",
+ "evidence": [
+  {
+   "url": "https://goclima.it/servizi/",
+   "quote": "GoClima srl si occupa di collaudi e manutenzione di impianti termoidraulici con un focus dedicato alle Pompe di Calore, Condizionatori, Impianti VRF, impianti VMC, Ventilconvetori, Termoregolazione e sistemi radianti."
+  },
+  {
+   "url": "https://goclima.it/servizi/",
+   "quote": "Il nostro servizio è offerto nelle zone di Padova, Venezia e Treviso."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

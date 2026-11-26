@@ -1,0 +1,19 @@
+{
+ "slug": "tecno-gas-sistem-s-r-l",
+ "company": "Tecno Gas Sistem",
+ "full_name": "Luca",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-montagnin-b236a535",
+ "cover_note": "Tecno Gas Sistem da 20 anni installa e mantiene impianti termoidraulici ed elettrici ed è attestata SOA nella categoria OG11 per impianti tecnologici.",
+ "evidence": [
+  {
+   "url": "https://tecnogassistem.it/chi-siamo/",
+   "quote": "da 20 anni si occupa di assistenza, manutenzione e installazione di impianti termoidraulici ed elettrici . L’azienda è orientata verso la continua innovazione e ricerca di qualità"
+  },
+  {
+   "url": "https://tecnogassistem.it/chi-siamo/",
+   "quote": "attestata SOA categoria OG11 (impianti tecnologici)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "osnaghi-piscine-s-r-l",
+ "company": "Osnaghi Piscine",
+ "full_name": "Alex",
+ "first": "Alex",
+ "linkedin": "https://www.linkedin.com/in/alex-osnaghi-086286134",
+ "cover_note": "Osnaghi Piscine ha 30 anni di esperienza e progetta e costruisce piscine di ogni tipo e vasche decorative ed emozionali nelle misure scelte dal cliente.",
+ "evidence": [
+  {
+   "url": "https://osnaghipiscine.it/chi-siamo/",
+   "quote": "Siamo in grado di progettare e costruire qualsiasi tipo di piscine, vasche decorative ed emozionali, nelle misure preferite dal cliente."
+  },
+  {
+   "url": "https://osnaghipiscine.it/chi-siamo/",
+   "quote": "30 Anni d’esperienza"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

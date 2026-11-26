@@ -1,0 +1,19 @@
+{
+ "slug": "sicurel-s-r-l",
+ "company": "Sicurel",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-gigli-222558157",
+ "cover_note": "Sicurel nasce a Firenze nel 1976 da Stefano Giovannozzi e Gianfranco Cribari e prepara preventivi personalizzati partendo da un sopralluogo.",
+ "evidence": [
+  {
+   "url": "https://www.sicurelsicurezza.it/chi-siamo/",
+   "quote": "Sicurel nasce a Firenze nel 1976 dalla collaborazione tra Stefano Giovannozzi e Gianfranco Cribari, fondatori della società."
+  },
+  {
+   "url": "https://www.sicurelsicurezza.it/chi-siamo/",
+   "quote": "Il nostro team è a tua disposizione per fissare un sopralluogo gratuito ed elaborare un preventivo personalizzato adatto alle tue esigenze."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

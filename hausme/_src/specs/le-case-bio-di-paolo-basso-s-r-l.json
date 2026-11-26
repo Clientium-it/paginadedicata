@@ -1,0 +1,19 @@
+{
+ "slug": "le-case-bio-di-paolo-basso-s-r-l",
+ "company": "Le Case Bio",
+ "full_name": "Paolo",
+ "first": "Paolo",
+ "linkedin": "https://www.linkedin.com/in/paolo-basso-27183919b",
+ "cover_note": "Le Case Bio costruisce case in legno tra Treviso, Padova, Venezia, Pordenone e Vicenza e segue lavori chiavi in mano dalle fondamenta alle rifiniture.",
+ "evidence": [
+  {
+   "url": "https://www.lecasebio.com/",
+   "quote": "Dalle fondamenta a tutte le rifiniture, offriamo soluzioni chiavi in mano , per costruzioni, ristrutturazioni, ampliamenti, uffici…"
+  },
+  {
+   "url": "https://www.lecasebio.com/",
+   "quote": "Case in legno Treviso – Padova – Venezia – Pordenone – Vicenza"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

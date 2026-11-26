@@ -1,0 +1,19 @@
+{
+ "slug": "gruppo-energetica-s-r-l",
+ "company": "Gruppo Energetica",
+ "full_name": "Nicolas",
+ "first": "Nicolas",
+ "linkedin": "https://www.linkedin.com/in/nicolas-romanato-7a2776261",
+ "cover_note": "Gruppo Energetica con i marchi progettozero, zerometano e fotovoltaicozero segue l'efficientamento energetico di abitazioni ed edifici in Emilia Romagna.",
+ "evidence": [
+  {
+   "url": "https://gruppoenergetica.com/termini-e-condizioni-di-servizio/",
+   "quote": "Gruppo Energetica srl fornisce tramite i marchi progettozero, zerometano e fotovoltaicozero, soluzioni di efficientamento energetico per le abitazione e gli edifici"
+  },
+  {
+   "url": "https://gruppoenergetica.com/",
+   "quote": "Copertura sul territorio Emilia romagna"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

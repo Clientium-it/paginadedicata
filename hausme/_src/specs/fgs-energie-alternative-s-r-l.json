@@ -1,0 +1,19 @@
+{
+ "slug": "fgs-energie-alternative-s-r-l",
+ "company": "FGS",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-galvani-a9a44293",
+ "cover_note": "FGS è un'azienda familiare di Vobarno specializzata in fotovoltaico industriale e sistemi off grid e lavora soprattutto tra Brescia, Cremona, Mantova e Parma.",
+ "evidence": [
+  {
+   "url": "https://www.fgsolar.it/wp-content/cache/fastcache/page/_.html",
+   "quote": "azienda familiare di Vobarno, in provincia di Brescia , specializzata in fotovoltaico industriale e sistemi Off-Grid"
+  },
+  {
+   "url": "https://www.fgsolar.it/wp-content/cache/fastcache/page/_.html",
+   "quote": "Lavoriamo principalmente tra Brescia, Cremona, Mantova e Parma"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

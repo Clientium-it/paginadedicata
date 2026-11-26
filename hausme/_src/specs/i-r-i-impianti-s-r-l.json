@@ -1,0 +1,19 @@
+{
+ "slug": "i-r-i-impianti-s-r-l",
+ "company": "IRI Impianti",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-pirlo-622301145",
+ "cover_note": "IRI Impianti nasce nel 1969 a Brescia nell'installazione e riparazione di impianti idraulici e oggi offre anche ristrutturazioni chiavi in mano.",
+ "evidence": [
+  {
+   "url": "https://www.iriimpianti.it/about-us/",
+   "quote": "inizia ad offrire un servizio completo di ristrutturazioni “chiavi in mano”"
+  },
+  {
+   "url": "https://www.iriimpianti.it/about-us/",
+   "quote": "nasce nel 1969 come azienda d’installazione e riparazione d’impianti idraulici ed ha la prima sede in via Milano 6, alle porte del centro cittadino di Brescia"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

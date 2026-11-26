@@ -1,0 +1,19 @@
+{
+ "slug": "leef-s-r-l",
+ "company": "Leef",
+ "full_name": "Stefano",
+ "first": "Stefano",
+ "linkedin": "https://www.linkedin.com/in/stefano-nanni-19888673",
+ "cover_note": "Leef ha realizzato Light Steel Frame e cartongesso per l'Hangar Ferrari di Modena e pavimenti in PVC all'Ospedale Bellaria di Bologna.",
+ "evidence": [
+  {
+   "url": "https://leef.it/",
+   "quote": "Light Steel Frame e cartongesso – Hangar Ferrari, Modena"
+  },
+  {
+   "url": "https://leef.it/",
+   "quote": "Pavimenti e rivestimenti PVC – Ospedale Bellaria, Bologna"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

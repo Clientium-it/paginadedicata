@@ -1,0 +1,19 @@
+{
+ "slug": "quattromatic-automazioni-s-r-l",
+ "company": "Quattromatic",
+ "full_name": "Gianluca",
+ "first": "Gianluca",
+ "linkedin": "https://www.linkedin.com/in/gianluca-guidetti-571056b1",
+ "cover_note": "Quattromatic da oltre 25 anni installa, automatizza e mantiene cancelli, portoni sezionali e sistemi industriali con oltre 4000 contratti di manutenzione attivi.",
+ "evidence": [
+  {
+   "url": "https://quattromatic.it/",
+   "quote": "Da oltre 25 anni installiamo, automatizziamo e manteniamo cancelli, portoni sezionali e sistemi industriali."
+  },
+  {
+   "url": "https://quattromatic.it/",
+   "quote": "4000 + Contratti manutenzione attivi"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

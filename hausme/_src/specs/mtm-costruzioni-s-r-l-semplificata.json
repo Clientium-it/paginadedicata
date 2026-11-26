@@ -1,0 +1,19 @@
+{
+ "slug": "mtm-costruzioni-s-r-l-semplificata",
+ "company": "Aterrium",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-monco-mtm",
+ "cover_note": "Aterrium da Moncalieri ristruttura gli ambienti con tecniche di bioedilizia e materiali naturali come canapa e fibra di legno.",
+ "evidence": [
+  {
+   "url": "https://www.aterriumgroup.it/",
+   "quote": "La ristrutturazione degli ambienti con tecniche di bioedilizia e con materiali naturali come canapa e fibra di legno non è soltanto una scelta responsabile"
+  },
+  {
+   "url": "https://www.aterriumgroup.it/",
+   "quote": "Strada Palera 93, 10024, Moncalieri (TO)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

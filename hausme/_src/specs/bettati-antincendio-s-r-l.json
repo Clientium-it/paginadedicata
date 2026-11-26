@@ -1,0 +1,19 @@
+{
+ "slug": "bettati-antincendio-s-r-l",
+ "company": "Bettati Antincendio",
+ "full_name": "Massimo",
+ "first": "Massimo",
+ "linkedin": "https://www.linkedin.com/in/massimo-bettati-56408511",
+ "cover_note": "Bettati Antincendio è nata nel 1980 a Reggio nell'Emilia con estintori e manutenzione e dopo 10 anni ha aperto una divisione per impianti di spegnimento fissi.",
+ "evidence": [
+  {
+   "url": "https://www.bettatiantincendio.com/it/azienda.html",
+   "quote": "L'azienda nasce nel 1980, a Reggio nell'Emilia, come specialista nel mondo dell'antincendio partendo dalla commercializzazione, e manutenzione, di estintori portatili e attrezzature di settore."
+  },
+  {
+   "url": "https://www.bettatiantincendio.com/it/azienda.html",
+   "quote": "Dopo soli 10 anni di attività viene inaugurata la nuova Divisione Impianti, permettendo così alla società di ritagliarsi un proprio spazio nel settore dedicato alla progettazione, installazione e manutenzione di Impianti di Spegnimento fissi."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

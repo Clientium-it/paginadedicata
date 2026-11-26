@@ -1,0 +1,19 @@
+{
+ "slug": "dimensione-elettrica-srl",
+ "company": "Dimensione Elettrica",
+ "full_name": "Remo",
+ "first": "Remo",
+ "linkedin": "https://www.linkedin.com/in/remo-barzotto-a69a7566",
+ "cover_note": "Dimensione Elettrica nasce per ampliare i servizi di VF Elettrica e costruisce e collauda su specifica del cliente quadri di automazione, distribuzione BT e inverter.",
+ "evidence": [
+  {
+   "url": "https://www.vf-group.it/chi-siamo/",
+   "quote": "Grazie ad un nuovo sito produttivo si passa da una logica artigianale ad una industriale. Per ampliare la gamma dei servizi nasce Dimensione Elettrica — VF Elettrica."
+  },
+  {
+   "url": "https://www.vf-group.it/",
+   "quote": "Quadri di automazione, distribuzione BT, inverter e azionamenti, costruiti e collaudati su specifica del cliente."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

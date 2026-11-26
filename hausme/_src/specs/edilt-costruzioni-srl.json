@@ -1,0 +1,19 @@
+{
+ "slug": "edilt-costruzioni-srl",
+ "company": "Edilt",
+ "full_name": "Gianluca",
+ "first": "Gianluca",
+ "linkedin": "https://www.linkedin.com/in/gianluca-tamburini-0853b362",
+ "cover_note": "Edilt è nata negli anni 2000 a Pesaro e oltre a ville e condomini segue negozi, banche, capannoni e impianti di distribuzione carburanti.",
+ "evidence": [
+  {
+   "url": "https://edilt.it/",
+   "quote": "L'azienda Edilt Costruzioni è un'azienda che si trova a Pesaro ed opera in tutta la provincia e zone limitrofe. Nata negli anni 2000, la ditta è specializzata in lavori di costruzione e ristrutturazione in campo edile."
+  },
+  {
+   "url": "https://edilt.it/",
+   "quote": "RESIDENZIALE Appartamenti, Ville, Palazzine, Condomini. COMMERCIALE Negozi, Uffici, Banche, Capannoni, Impianti distribuzione carburanti."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

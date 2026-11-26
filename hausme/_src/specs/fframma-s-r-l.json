@@ -1,0 +1,19 @@
+{
+ "slug": "fframma-s-r-l",
+ "company": "Effeframma",
+ "full_name": "Francesco",
+ "first": "Francesco",
+ "linkedin": "https://www.linkedin.com/in/francesco-frammartino-1baa5747",
+ "cover_note": "Effeframma realizza impianti elettrici civili e industriali, climatizzazione e videosorveglianza e ha seguito Arrivabene 14 con 44 appartamenti in classe A su due edifici.",
+ "evidence": [
+  {
+   "url": "https://effeframma.com/chi-siamo/",
+   "quote": "Oggi, siamo in grado di fornire soluzioni complete per impianti elettrici civili e industriali, climatizzazione, videocitofonia e videosorveglianza, sistemi antintrusione, reti dati e fonia"
+  },
+  {
+   "url": "https://effeframma.com/chi-siamo/",
+   "quote": "Arrivabene 14 44 appartamenti in classe A distribuiti su due edifici connessi dall'ampio giardino"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

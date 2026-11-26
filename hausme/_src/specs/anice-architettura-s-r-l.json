@@ -1,0 +1,19 @@
+{
+ "slug": "anice-architettura-s-r-l",
+ "company": "Anice Architettura",
+ "full_name": "Luca",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-gemmellaro-61420015a",
+ "cover_note": "Anice Architettura è stata fondata nel 2017 dall'architetto Luca Gemmellaro e da Cernusco sul Naviglio progetta in ambito residenziale, commerciale e di spazio pubblico.",
+ "evidence": [
+  {
+   "url": "https://www.anicearchitettura.it/about-anice-architettura/",
+   "quote": "Fondato nel 2017, dall’Architetto Luca Gemmellaro, Anice Architettura progetta in modo flessibile, efficiente e sostenibile in ambito residenziale, commerciale e di rinnovamento dello spazio pubblico."
+  },
+  {
+   "url": "https://www.anicearchitettura.it/about-anice-architettura/",
+   "quote": "Strada Padana Superiore, 30 20063 – Cernusco sul Naviglio (MI)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

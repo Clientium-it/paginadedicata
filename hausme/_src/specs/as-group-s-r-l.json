@@ -1,0 +1,19 @@
+{
+ "slug": "as-group-s-r-l",
+ "company": "Acquasport",
+ "full_name": "Fabio",
+ "first": "Fabio",
+ "linkedin": "https://www.linkedin.com/in/fabio-pianigiani-8901a61a3",
+ "cover_note": "Acquasport costruisce piscine in tutta Italia da 35 anni e le progetta nei suoi uffici tecnici di Figline Valdarno.",
+ "evidence": [
+  {
+   "url": "https://www.acquasport.biz/",
+   "quote": "Sono 35 anni che progettiamo e costruiamo piscine in tutta Italia e non esiste aspetto del mestiere che non possiamo padroneggiare."
+  },
+  {
+   "url": "https://www.acquasport.biz/",
+   "quote": "Progettiamo nei nostri uffici tecnici di Figline Valdarno le piscine che andremo a realizzare."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

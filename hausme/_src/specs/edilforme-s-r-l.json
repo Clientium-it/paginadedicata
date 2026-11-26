@@ -1,0 +1,19 @@
+{
+ "slug": "edilforme-s-r-l",
+ "company": "Edilforme",
+ "full_name": "Simone",
+ "first": "Simone",
+ "linkedin": "https://www.linkedin.com/in/simone-cesari-935501202",
+ "cover_note": "Edilforme è una società a conduzione famigliare che da oltre venti anni realizza immobili chiavi in mano nel bolognese con garanzie decennali.",
+ "evidence": [
+  {
+   "url": "https://edilforme.it/chi-siamo",
+   "quote": "Edilforme srl è una società immobiliare a conduzione famigliare che opera da oltre venti anni, con proprio capitale, principalmente nel territorio bolognese, dove ha la sede operativa."
+  },
+  {
+   "url": "https://edilforme.it/chi-siamo",
+   "quote": "dalla progettazione alla realizzazione \"chiavi in mano\" dell'immobile, con garanzie decennali"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

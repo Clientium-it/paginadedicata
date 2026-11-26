@@ -1,0 +1,19 @@
+{
+ "slug": "minuzzo-srl",
+ "company": "Minuzzo",
+ "full_name": "Laura",
+ "first": "Laura",
+ "linkedin": "https://www.linkedin.com/in/lauracrestani",
+ "cover_note": "Minuzzo è partita negli anni '70 dalla posa di pavimenti e rivestimenti e oggi affianca architetti e privati, anche in una nuova residenza nel centro di Marostica.",
+ "evidence": [
+  {
+   "url": "https://minuzzo.it/azienda/",
+   "quote": "Da una modesta attività di posa di pavimenti e rivestimenti nata negli anni ‘70 a un’azienda innovativa, partner nella fornitura e nel progetto di architetti e privati per realizzare spazi che sanno emozionare."
+  },
+  {
+   "url": "https://minuzzo.it/",
+   "quote": "Il progetto di una nuova residenza nel centro di Marostica, realizzata da Team Architettura."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

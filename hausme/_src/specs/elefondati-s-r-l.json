@@ -1,0 +1,19 @@
+{
+ "slug": "elefondati-s-r-l",
+ "company": "Elefondati",
+ "full_name": "Fabio",
+ "first": "Fabio",
+ "linkedin": "https://www.linkedin.com/in/fabio-davoli-44567711b",
+ "cover_note": "Elefondati a Modena progetta e realizza cablaggi in rame e fibra ottica, reti LAN e WAN voce e dati, ponti radio Hyperlan e videosorveglianza IP.",
+ "evidence": [
+  {
+   "url": "https://www.elefondati.it/chi-siamo/",
+   "quote": "progetta e realizza infrastrutture ad alte velocità: cablaggi in rame e fibra ottica, reti LAN/WAN integrate voce/dati, soluzioni wireless, ponti radio Hyperlan e videosorveglianza IP"
+  },
+  {
+   "url": "https://www.elefondati.it/chi-siamo/",
+   "quote": "Via G. Perlasca, 25/E – 41121 Modena (MO)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

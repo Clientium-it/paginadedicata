@@ -1,0 +1,19 @@
+{
+ "slug": "ecoservim-srl",
+ "company": "Ecoservim",
+ "full_name": "Michele",
+ "first": "Michele",
+ "linkedin": "https://www.linkedin.com/in/michele-zanfini-698057210",
+ "cover_note": "Ecoservim nasce negli anni Settanta a Reggio Emilia da Matteo Bonini come piccola azienda di termoidraulica e tra i suoi progetti c'è il Condominio Rosy.",
+ "evidence": [
+  {
+   "url": "https://www.ecoservim.it/azienda/",
+   "quote": "Ecoservim ha una lunga storia, iniziata negli anni Settanta a Reggio Emilia grazie all’intraprendenza di Matteo Bonini che ha avviato una piccola azienda in grado di offrire servizi di termoidraulica in città."
+  },
+  {
+   "url": "https://www.ecoservim.it/",
+   "quote": "Progetto Condominio Rosy - Via Marani 2 RE"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

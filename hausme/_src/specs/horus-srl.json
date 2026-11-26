@@ -1,0 +1,19 @@
+{
+ "slug": "horus-srl",
+ "company": "Horus",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marcospagnoli11",
+ "cover_note": "Horus nasce da due soci e da un team attivo da oltre 10 anni nel fotovoltaico, e oggi progetta e gestisce impianti industriali su misura.",
+ "evidence": [
+  {
+   "url": "https://horus-energy.it/",
+   "quote": "Horus nasce dalla sinergia di due soci e di un team consolidato di professionisti che opera da oltre 10 anni nella progettazione, realizzazione e manutenzione di impianti fotovoltaici."
+  },
+  {
+   "url": "https://horus-energy.it/",
+   "quote": "Progettiamo, realizziamo e gestiamo impianti fotovoltaici industriali su misura per abbattere i costi operativi."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "1-car-s-r-l",
+ "company": "1CAR",
+ "full_name": "Renato",
+ "first": "Renato",
+ "linkedin": "https://www.linkedin.com/in/renato-gallo-1656037",
+ "cover_note": "1CAR è distributore ufficiale in Italia delle pellicole LLumar per vetri nel settore edilizia e auto ed è specialista in pellicole dal 1983.",
+ "evidence": [
+  {
+   "url": "https://www.pellicoleonline.it/azienda/chi-siamo/",
+   "quote": "1CAR ® è il distributore ufficiale in Italia dei prodotti a marchio LLumar ® , primo produttore al mondo di pellicole adesive per vetri per il settore edilizia e auto."
+  },
+  {
+   "url": "https://www.pellicoleonline.it/azienda/chi-siamo/",
+   "quote": "Specialisti in pellicole dal 1983"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

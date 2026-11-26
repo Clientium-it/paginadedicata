@@ -1,0 +1,19 @@
+{
+ "slug": "abc-lab-srl",
+ "company": "ABC Lab",
+ "full_name": "Nicola",
+ "first": "Nicola",
+ "linkedin": "https://www.linkedin.com/in/nicola-indraccolo-080828b1",
+ "cover_note": "ABC Lab è un contractor di allestimenti esclusivi e ha lavorato agli store Missoni da Milano a New York, Dubai e Monaco di Baviera.",
+ "evidence": [
+  {
+   "url": "https://abc-lab.it/",
+   "quote": "Un contractor che ha scelto l’eccellenza per trasformare idee e intuizioni in spazi, allestimenti e ambientazioni esclusive."
+  },
+  {
+   "url": "https://abc-lab.it/",
+   "quote": "MISSONI Store di Milano, Miami, New York, Dubai, Roma, Monaco di Baviera"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

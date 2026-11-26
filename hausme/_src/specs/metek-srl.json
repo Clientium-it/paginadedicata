@@ -1,0 +1,19 @@
+{
+ "slug": "metek-srl",
+ "company": "Metek",
+ "full_name": "Wolfgang",
+ "first": "Wolfgang",
+ "linkedin": "https://www.linkedin.com/in/wolfgangpassler",
+ "cover_note": "Metek lavora su progetti di architettura dalle cantine vini climatizzate su misura alle facciate lucide fino alle chiuse automatizzate per piscine.",
+ "evidence": [
+  {
+   "url": "https://www.metek.com/",
+   "quote": "Egal ob maßgefertigter WeinKlimaraum, glänzende Fassade oder automatisierte Schwimmbadschleuse – METEK verleiht jedem Architekturprojekt eine Extraportion Eleganz."
+  },
+  {
+   "url": "https://www.metek.com/",
+   "quote": "Als ökologisches Hotel in Südtirol legen wir viel Wert auf nachhaltige Architektur und natürliche Ästhetik."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

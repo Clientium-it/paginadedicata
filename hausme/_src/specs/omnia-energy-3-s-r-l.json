@@ -1,0 +1,19 @@
+{
+ "slug": "omnia-energy-3-s-r-l",
+ "company": "Omnia Energy",
+ "full_name": "Stephane",
+ "first": "Stephane",
+ "linkedin": "https://www.linkedin.com/in/stephane-moretti-13b7bab3",
+ "cover_note": "Omnia Energy è nata nel 2006 a Maniago e progetta, realizza e gestisce impianti fotovoltaici industriali, commerciali, civili e utility scale.",
+ "evidence": [
+  {
+   "url": "https://omniaenergy.eu/azienda/",
+   "quote": "Con oltre 20 anni di esperienza , progetta, realizza e gestisce impianti fotovoltaici per il settore industriale e commerciale, civile e utility scale ."
+  },
+  {
+   "url": "https://omniaenergy.eu/azienda/",
+   "quote": "2006 Nasce Omnia Energy con sede a Maniago (PN)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

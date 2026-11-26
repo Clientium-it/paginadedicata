@@ -1,0 +1,19 @@
+{
+ "slug": "ing-prunotto-s-r-l",
+ "company": "Ing. Prunotto",
+ "full_name": "Luca",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-croveri-64288662",
+ "cover_note": "Ing. Prunotto da oltre 130 anni progetta e realizza opere in cemento armato precompresso per scuole, ponti e costruzioni industriali e rurali.",
+ "evidence": [
+  {
+   "url": "https://ingprunotto.it/chi-siamo/",
+   "quote": "Progetta e realizza opere in edilizia tradizionale ed in cemento armato precompresso per costruzioni civili, industriali, rurali, scuole, ponti, per pubbliche amministrazioni e privati"
+  },
+  {
+   "url": "https://ingprunotto.it/chi-siamo/",
+   "quote": "La ING. PRUNOTTO S.r.l. lavora da oltre 130 anni seguendo questa linea."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

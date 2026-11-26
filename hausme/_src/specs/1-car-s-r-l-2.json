@@ -1,0 +1,19 @@
+{
+ "slug": "1-car-s-r-l-2",
+ "company": "Unisol",
+ "full_name": "Elia",
+ "first": "Elia",
+ "linkedin": "https://www.linkedin.com/in/elia-gallo-b2403b1a4",
+ "cover_note": "Unisol è un'azienda padovana fondata nel 1983 da Renato Gallo che si occupa solo di pellicole adesive per vetri, anche in edilizia residenziale, commerciale e industriale.",
+ "evidence": [
+  {
+   "url": "https://www.unisol.it/azienda/",
+   "quote": "Unisol è un’azienda padovana altamente specializzata che si occupa esclusivamente di pellicole adesive per vetri , per edilizia e auto. Fondata nel 1983 da Renato Gallo, con quasi 40 anni di esperienza"
+  },
+  {
+   "url": "https://www.unisol.it/azienda/",
+   "quote": "NEL SETTORE EDILIZIA RESIDENZIALE, COMMERCIALE E INDUSTRIALE"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

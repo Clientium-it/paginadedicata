@@ -1,0 +1,19 @@
+{
+ "slug": "panda-wood-s-r-l",
+ "company": "Panda Wood",
+ "full_name": "Nicola",
+ "first": "Nicola",
+ "linkedin": "https://www.linkedin.com/in/nicoladianin",
+ "cover_note": "Panda Wood nasce nel 1994 a Padova dai fratelli Dianin e lavora sui pavimenti in legno per interni ed esterni, dall'Hotel Cube Fidenza al Diesel Headquarter.",
+ "evidence": [
+  {
+   "url": "https://www.pandawood.it/azienda/chi-siamo.html",
+   "quote": "PANDA WOOD nasce nel 1994, a Padova, dalla volontà dei fratelli Dianin di creare una realtà professionale di altissimo livello nel mondo dei pavimenti in legno"
+  },
+  {
+   "url": "https://www.pandawood.it/",
+   "quote": "Hotel Cube Fidenza [ Interni ] Abitazione a Padova [ Interni ] Villa con piscina [ Esterni ] Diesel Headquarter"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

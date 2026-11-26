@@ -1,0 +1,19 @@
+{
+ "slug": "b-m-impianti-s-r-l",
+ "company": "BM Impianti",
+ "full_name": "Maurizio",
+ "first": "Maurizio",
+ "linkedin": "https://www.linkedin.com/in/maurizio-balsamo-8a022a10a",
+ "cover_note": "BM Impianti è nata nel 1976 come impresa di impianti elettrici e in cinquant'anni ha allargato i settori con oltre 2.500 progetti chiavi in mano.",
+ "evidence": [
+  {
+   "url": "https://www.bmimpianti.it/storia-bm-impianti/",
+   "quote": "BM Impianti nasce nel 1976 come impresa di impianti elettrici. In cinquant’anni l’azienda ha allargato i settori operativi"
+  },
+  {
+   "url": "https://www.bmimpianti.it/",
+   "quote": "50 anni di esperienza 2.500+ progetti chiavi in mano 50+ persone nel gruppo"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

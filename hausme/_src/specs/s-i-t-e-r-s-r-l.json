@@ -1,0 +1,19 @@
+{
+ "slug": "s-i-t-e-r-s-r-l",
+ "company": "SITER",
+ "full_name": "Lionello",
+ "first": "Lionello",
+ "linkedin": "https://www.linkedin.com/in/lionello-trabucchi-15804852",
+ "cover_note": "SITER da oltre 60 anni progetta e installa impianti termosanitari, antincendio, ventilazione meccanica e aspirazione polveri per oltre 200 clienti tra privati, hotel ed enti.",
+ "evidence": [
+  {
+   "url": "https://www.siterimpianti.it/siter-impianti.html",
+   "quote": "Da oltre 60 anni ci occupiamo di progettare e installare impianti termosanitari, antincendio, ventilazione meccanica e aspirazione polveri centralizzati."
+  },
+  {
+   "url": "https://www.siterimpianti.it/siter-impianti.html",
+   "quote": "OLTRE 200 clienti tra privati, hotel business ed enti"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

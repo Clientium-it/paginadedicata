@@ -1,0 +1,19 @@
+{
+ "slug": "medpools-srl",
+ "company": "Medpools",
+ "full_name": "Eleonora",
+ "first": "Eleonora",
+ "linkedin": "https://www.linkedin.com/in/eleonora-busatta-3b5720166",
+ "cover_note": "Medpools da oltre 30 anni realizza piscine, saune e centri benessere partendo dall'idea di wellness del cliente, con sede a Bassano del Grappa.",
+ "evidence": [
+  {
+   "url": "https://www.busattawellness.it/",
+   "quote": "Con una storia alle spalle che dura da più di 30 anni, abbiamo la capacità di rendere ogni realizzazione unica. Piscine, saune, centri benessere: qualunque sia la tua idea di wellness noi possiamo aiutarti a concretizzarla."
+  },
+  {
+   "url": "https://www.busattawellness.it/",
+   "quote": "Medpools srl via Carlo Rosselli, 2 36061 Bassano del Grappa VI"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "energy-tech-innovation-srl",
+ "company": "Energy Tech Innovation",
+ "full_name": "Giovanni",
+ "first": "Giovanni",
+ "linkedin": "https://www.linkedin.com/in/giovanni-guzzardi-03236066",
+ "cover_note": "Energy Tech Innovation segue impianti da 3 a 10 kWp fino a quelli da oltre 50 kWp e centinaia di kWp.",
+ "evidence": [
+  {
+   "url": "https://etienergia.it/",
+   "quote": "Gli impianti hanno potenze elevate, da oltre 50 kWp fino a centinaia di kWp, e consentono una riduzione significativa dei costi di produzione"
+  },
+  {
+   "url": "https://etienergia.it/",
+   "quote": "La potenza tipica varia dai 3 ai 10 kWp e consente di ridurre drasticamente la bolletta"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

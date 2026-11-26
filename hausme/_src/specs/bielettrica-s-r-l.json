@@ -1,0 +1,19 @@
+{
+ "slug": "bielettrica-s-r-l",
+ "company": "Bielettrica",
+ "full_name": "Alberto",
+ "first": "Alberto",
+ "linkedin": "https://www.linkedin.com/in/alberto-secco-930687259",
+ "cover_note": "Bielettrica nasce nel 1984 con impianti elettrici civili e si è allargata a industria, terziario e illuminazione pubblica, con un ufficio tecnico interno.",
+ "evidence": [
+  {
+   "url": "https://www.bielettrica.it/lazienda/",
+   "quote": "Nel 1984 Bielettrica inizia l’attività con l’obiettivo di realizzare impianti elettrici in ambito civile. In pochi anni, con l’esperienza di un personale altamente qualificato si espande con successo nel settore industriale, terziario, e in quello dell’illuminazione pubblica e privata."
+  },
+  {
+   "url": "https://www.bielettrica.it/lazienda/",
+   "quote": "L’azienda è dotata di un proprio ufficio tecnico interno d’ingegneria e progettazione"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

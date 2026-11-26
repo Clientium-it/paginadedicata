@@ -1,0 +1,19 @@
+{
+ "slug": "duebi-impianti-s-r-l",
+ "company": "Duebi Impianti",
+ "full_name": "Fabio",
+ "first": "Fabio",
+ "linkedin": "https://www.linkedin.com/in/fabio-borini-ba7b8598",
+ "cover_note": "Duebi Impianti lavora soprattutto tra Milano, Varese e Como e ha curato l'intera infrastruttura tecnologica ed elettrica per la sede di Italgas.",
+ "evidence": [
+  {
+   "url": "https://www.duebigroup.com/",
+   "quote": "Attiva particolarmente nella zona di Milano, Varese e Como, ma grazie alla qualità erogata ad oggi ha posto il proprio nome su impianti in Italia ed in Europa"
+  },
+  {
+   "url": "https://www.duebigroup.com/",
+   "quote": "Abbiamo curato lla realizzazione dell’intera infrastruttura tecnologica ed elettrica per la sede di Italgas"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

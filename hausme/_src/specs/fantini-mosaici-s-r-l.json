@@ -1,0 +1,19 @@
+{
+ "slug": "fantini-mosaici-s-r-l",
+ "company": "Fantini Mosaici",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-fantini-86965148",
+ "cover_note": "Fantini Mosaici è nata a Milano oltre 124 anni fa e realizza mosaici, seminati, lavori in ciottoli e marmi per hotel e residenze private.",
+ "evidence": [
+  {
+   "url": "https://fantinimosaici.it/chi-siamo/fantini-mosaici",
+   "quote": "Fantini Mosaici, fondata a Milano oltre 124 anni fa, è un marchio storico italiano sinonimo di superfici artigianali di altissima qualità."
+  },
+  {
+   "url": "https://fantinimosaici.it/chi-siamo/fantini-mosaici",
+   "quote": "Celebrata per i suoi squisiti mosaici, seminati, lavori in ciottoli e marmi, le creazioni Fantini adornano boutique di lusso, residenze private, hotel prestigiosi e palazzi presidenziali in tutto il mondo."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

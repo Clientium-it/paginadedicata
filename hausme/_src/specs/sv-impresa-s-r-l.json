@@ -1,0 +1,19 @@
+{
+ "slug": "sv-impresa-s-r-l",
+ "company": "SV Impresa",
+ "full_name": "Sandro",
+ "first": "Sandro",
+ "linkedin": "https://www.linkedin.com/in/sandro-vanin-0523459b",
+ "cover_note": "SV Impresa da Venezia realizza opere murarie e ripristini integrati con gli impianti in Veneto, Lombardia, Friuli Venezia Giulia ed Emilia Romagna.",
+ "evidence": [
+  {
+   "url": "https://svimpresa.it/",
+   "quote": "SV Impresa realizza lavori di edilizia, opere murarie e ripristini , integrandoli direttamente con i nostri interventi impiantistici."
+  },
+  {
+   "url": "https://svimpresa.it/",
+   "quote": "Con sede a Venezia , operiamo principalmente in Veneto, Lombardia, Friuli-Venezia Giulia ed Emilia-Romagna ."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

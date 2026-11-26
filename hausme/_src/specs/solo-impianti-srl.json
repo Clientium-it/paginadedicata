@@ -1,0 +1,19 @@
+{
+ "slug": "solo-impianti-srl",
+ "company": "Solo Impianti",
+ "full_name": "Maurizio",
+ "first": "Maurizio",
+ "linkedin": "https://www.linkedin.com/in/maurizio-crescenzi-7235203a",
+ "cover_note": "Solo Impianti dal 2013 realizza impianti elettrici, elettronici, termoidraulici e da energie alternative per il civile e l'industria in tutta Italia.",
+ "evidence": [
+  {
+   "url": "https://soloimpiantisrl.com/solo-impianti-lazienda/",
+   "quote": "La Solo Impianti srl nasce nel 2013 e opera da sempre nel settore della realizzazione di impianti elettrici, elettronici, energie alternative, termoidraulica, applicazioni civili ed industriali."
+  },
+  {
+   "url": "https://soloimpiantisrl.com/",
+   "quote": "Lavoriamo su tutto il territorio nazionale e il nostro campo di azione spazia in tutte le categorie di impianti"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

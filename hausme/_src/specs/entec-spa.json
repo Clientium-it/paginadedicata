@@ -1,0 +1,19 @@
+{
+ "slug": "entec-spa",
+ "company": "Entec",
+ "full_name": "Claudio",
+ "first": "Claudio",
+ "linkedin": "https://www.linkedin.com/in/claudio-rinaudo-7aa674b",
+ "cover_note": "Entec ha sede a Savigliano e dal 2007 progetta e realizza impianti di produzione di energia da risorse rinnovabili con nuove tecnologie.",
+ "evidence": [
+  {
+   "url": "https://www.entec.it/it/",
+   "quote": "Entec nasce nel 2007 con una missione precisa: progettare e realizzare impianti di produzione di energia attraverso l’utilizzo delle nuove tecnologie che prevedono l’impiego di risorse rinnovabili"
+  },
+  {
+   "url": "https://www.entec.it/it/",
+   "quote": "ENTEC S.p.A • Via Montegrappa, 2 • 12038 Savigliano (Cn)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

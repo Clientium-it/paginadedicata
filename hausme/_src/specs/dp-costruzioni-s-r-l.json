@@ -1,0 +1,19 @@
+{
+ "slug": "dp-costruzioni-s-r-l",
+ "company": "DP Costruzioni",
+ "full_name": "Alfredo",
+ "first": "Alfredo",
+ "linkedin": "https://www.linkedin.com/in/alfredocomune",
+ "cover_note": "DP Costruzioni costruisce interi quartieri residenziali a Casalmaggiore e nelle frazioni e segue anche fabbricati industriali, demolizioni e opere stradali.",
+ "evidence": [
+  {
+   "url": "https://www.dpcostruzioni.com/chi-siamo/",
+   "quote": "i figli hanno voluto espandere l’impresa, entrando nel campo immobiliare costruendo interi quartieri residenziali, sia a Casalmaggiore che nelle frazioni: abitazioni singole, bifamiliari e appartamenti"
+  },
+  {
+   "url": "https://www.dpcostruzioni.com/chi-siamo/",
+   "quote": "costruzione e manutenzione di fabbricati industriali, demolizioni, opere stradali, costruzioni di immobili civili"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

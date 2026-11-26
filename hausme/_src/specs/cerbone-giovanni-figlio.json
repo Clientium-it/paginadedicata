@@ -1,0 +1,19 @@
+{
+ "slug": "cerbone-giovanni-figlio",
+ "company": "Cerbone",
+ "full_name": "Enzo",
+ "first": "Enzo",
+ "linkedin": "https://www.linkedin.com/in/enzo-varriale-514690a6",
+ "cover_note": "Cerbone nasce a Trieste nel 1920 e cresce grazie alla maestria nella muratura del fondatore e segue restauro conservativo di edifici storici e rafforzamenti strutturali.",
+ "evidence": [
+  {
+   "url": "https://www.cerbonecostruzioni.com/chi-siamo/",
+   "quote": "L’impresa di costruzioni Cerbone Giovanni & Figlio nasce a Trieste nel 1920 e cresce grazie alla maestria nell’arte della muratura del suo fondatore, Giovanni Cerbone."
+  },
+  {
+   "url": "https://www.cerbonecostruzioni.com/chi-siamo/",
+   "quote": "nuova costruzione e ristrutturazione di edifici pubblici e privati, riqualificazione energetica, compartimentazione antincendio, rafforzamenti strutturali, restauro conservativo di beni monumentali ed edifici storici, bio-edilizia."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

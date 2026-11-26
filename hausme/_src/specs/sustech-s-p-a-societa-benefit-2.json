@@ -1,0 +1,19 @@
+{
+ "slug": "sustech-s-p-a-societa-benefit-2",
+ "company": "Sustech",
+ "full_name": "Paolo",
+ "first": "Paolo",
+ "linkedin": "https://www.linkedin.com/in/paolo-gobbini-24671097",
+ "cover_note": "Sustech nasce nel 2009 da professionisti IT e ingegneri termici ed elettrici e ha effettuato oltre 5000 interventi di riqualificazione energetica.",
+ "evidence": [
+  {
+   "url": "https://sustech.it/it/chi-siamo",
+   "quote": "Siamo nati nel 2009 , connubio tra la competenza di professionisti del settore IT e l'esperienza di ingegneri termici ed elettrici."
+  },
+  {
+   "url": "https://sustech.it/it/chi-siamo",
+   "quote": "+5000 interventi di riqualificazione energetica effettuati 5.844.840 kg di CO2 risparmiati ogni anno 120 consulenti energetici operativi in Italia +50 installatori selezionati e certificati"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "veneto-sistemi-srl",
+ "company": "Veneto Sistemi",
+ "full_name": "Emanuele",
+ "first": "Emanuele",
+ "linkedin": "https://www.linkedin.com/in/emanuele-ghion-90740a114",
+ "cover_note": "Veneto Sistemi da vent'anni installa impianti idraulici ed elettrici e con VS Casa fornisce chiavi in mano edifici residenziali e turistici.",
+ "evidence": [
+  {
+   "url": "https://www.venetosistemi.it/azienda/",
+   "quote": "La nostra esperienza ventennale, ci consente oggi di operare con assoluta sicurezza ed affidabilità in vari ambiti. Per quanto riguarda Veneto Sistemi , installiamo impianti idraulici ed elettrici e garantiamo assistenza."
+  },
+  {
+   "url": "https://www.venetosistemi.it/azienda/",
+   "quote": "Con VS Casa invece, forniamo, chiavi in mano, vari modelli di edifici, da quelli residenziali a quelli turistici."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

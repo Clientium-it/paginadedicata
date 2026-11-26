@@ -1,0 +1,19 @@
+{
+ "slug": "a-d-v-di-de-vita-alberto-srl",
+ "company": "ADV",
+ "full_name": "A.D.V",
+ "first": "A.D.V",
+ "linkedin": "https://www.linkedin.com/in/adv-di-de-vita-alberto-5831a4284",
+ "cover_note": "ADV da quasi 40 anni progetta, installa e mantiene impianti elettrici industriali e civili con sede a Busto Arsizio ed è specializzata in domotica.",
+ "evidence": [
+  {
+   "url": "https://www.impiantielettriciadv.com/",
+   "quote": "si occupa da quasi 40 anni della progettazione, installazione e manutenzione di impianti elettrici industriali e civili. Con sede a Busto Arsizio, A.D.V. è un’attività riconosciuta come punto di riferimento in tutto il territorio della provincia di Varese"
+  },
+  {
+   "url": "https://www.impiantielettriciadv.com/",
+   "quote": "specializzata nel settore della domotica, propone soluzioni intelligenti ed al passo con i più alti standard moderni"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

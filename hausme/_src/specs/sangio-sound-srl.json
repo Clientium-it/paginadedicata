@@ -1,0 +1,19 @@
+{
+ "slug": "sangio-sound-srl",
+ "company": "Sangio Sound",
+ "full_name": "Cristina",
+ "first": "Cristina",
+ "linkedin": "https://www.linkedin.com/in/cristina-valietti-1302a2168",
+ "cover_note": "Sangio Sound dal 1984 progetta e installa sistemi audio video personalizzati e tra i suoi lavori ci sono anche impianti per luoghi di culto.",
+ "evidence": [
+  {
+   "url": "https://www.sangiosound.it/chi-siamo/",
+   "quote": "dal 1984 si occupa di progettazione, installazione e noleggio di sistemi audio-video multimediali tecnologicamente avanzati e personalizzati, dedicati ai più svariati settori"
+  },
+  {
+   "url": "https://www.sangiosound.it/chi-siamo/",
+   "quote": "Impianti di Sonorizzazione per luoghi di Culto, Sistemi di Evacuazione guidata, Sistemi Dolby surround e Cinema Digitale, Soluzioni Home Theatre e domotica per abitazioni private, Sonorizzazione Centri Sportivi, Supporti Audiovisivi per Alberghi"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

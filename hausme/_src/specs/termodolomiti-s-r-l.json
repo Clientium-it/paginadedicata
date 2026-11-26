@@ -1,0 +1,19 @@
+{
+ "slug": "termodolomiti-s-r-l",
+ "company": "Termodolomiti",
+ "full_name": "Matteo",
+ "first": "Matteo",
+ "linkedin": "https://www.linkedin.com/in/matteo-gherardi-35709944",
+ "cover_note": "Termodolomiti ha realizzato l'impianto termosanitario, di condizionamento e antincendio del Nuovo Polo Culturale Diocesano di Trento e gli impianti idraulici del Padiglione Slow Food a Expo.",
+ "evidence": [
+  {
+   "url": "https://www.termodolomiti.it/portfolio/",
+   "quote": "Trento – Nuovo Polo Culturale Diocesano Realizzazione impianto termosanitario, di condizionamento e antincendio."
+  },
+  {
+   "url": "https://www.termodolomiti.it/portfolio/",
+   "quote": "Milano – Expo (Slow Food) Realizzazione impianti idraulici a servizio del Padiglione Slow Food"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

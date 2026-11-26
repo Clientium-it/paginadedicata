@@ -1,0 +1,19 @@
+{
+ "slug": "corus-s-r-l-2",
+ "company": "Corus",
+ "full_name": "Carlo",
+ "first": "Carlo",
+ "linkedin": "https://www.linkedin.com/in/carlo-bonalumi-099b3116a",
+ "cover_note": "Corus realizza impianti fotovoltaici chiavi in mano e tra i lavori cita quello da 543 kWp su tetto shed per Marmi Lanza.",
+ "evidence": [
+  {
+   "url": "https://corusitalia.it/sheets/projects-v1",
+   "quote": "Marmi Lanza ha scelto un impianto fotovoltaico da 543 kWp su tetto shed."
+  },
+  {
+   "url": "https://corusitalia.it/sheets/projects-v1",
+   "quote": "Impianti chiavi in mano per produrre energia pulita, ridurre i costi e abbattere la CO₂."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

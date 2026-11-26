@@ -1,0 +1,19 @@
+{
+ "slug": "ci-elle-clima-s-r-l",
+ "company": "Ci.Elle Clima",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-naldi-730934b1",
+ "cover_note": "Ci.Elle Clima dal 1999 installa, conduce e mantiene impianti climatici tra Varese, Verbania e Novara e oggi lavora in tutto il territorio nazionale.",
+ "evidence": [
+  {
+   "url": "https://cielleclima.it/azienda/",
+   "quote": "La Ci.Elle Clima è presente dal 1999 sul territorio di Varese, Verbania e Novara offrendo il servizio di assistenza tecnica, installazione, conduzione e manutenzione di impianti climatici."
+  },
+  {
+   "url": "https://cielleclima.it/azienda/",
+   "quote": "Nel corso degli anni l’attività dell’azienda si è estesa a tutto il terriorio nazionale."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

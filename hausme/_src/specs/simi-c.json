@@ -1,0 +1,19 @@
+{
+ "slug": "simi-c",
+ "company": "Simi",
+ "full_name": "Paolo",
+ "first": "Paolo",
+ "linkedin": "https://www.linkedin.com/in/paolo-simi-70158773",
+ "cover_note": "Simi nasce nel 1981 da Bruno Simi e realizza sistemi complessi di automazione e impiantistica anche all'estero, con forte presenza in Sud America ed Europa orientale.",
+ "evidence": [
+  {
+   "url": "https://simiec.it/",
+   "quote": "La Simi & C. nasce nel maggio del 1981 dalla passione e dalla determinazione del suo fondatore, Bruno Simi."
+  },
+  {
+   "url": "https://simiec.it/",
+   "quote": "espande il proprio raggio d'azione all'estero con la realizzazione di complessi sistemi di automazione e impiantistica, con una forte presenza in Sud America e nell'Europa orientale"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

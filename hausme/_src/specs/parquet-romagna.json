@@ -1,0 +1,19 @@
+{
+ "slug": "parquet-romagna",
+ "company": "Parquet Romagna",
+ "full_name": "Francesco",
+ "first": "Francesco",
+ "linkedin": "https://www.linkedin.com/in/francesco-russo-8260306a",
+ "cover_note": "Parquet Romagna ha quattro sedi tra Forlì, Ravenna, Cesena e Riccione e alla posa di pavimenti in legno ha aggiunto la fornitura di parquet.",
+ "evidence": [
+  {
+   "url": "https://parquetromagna.it/chi-siamo-parquet-romagna-azienda/",
+   "quote": "Oggi Parquet Romagna conta 4 sedi in Romagna — Forlì, Ravenna, Cesena e Riccione — e ha avviato nuovi progetti con Parquet Bologna e Parquet Veneto"
+  },
+  {
+   "url": "https://parquetromagna.it/chi-siamo-parquet-romagna-azienda/",
+   "quote": "Parquet Romagna opera nel settore della posa di pavimenti in legno da molti anni, attività alla quale si è aggiunta successivamente anche la fornitura di parquet"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "testi-costruzioni-s-r-l",
+ "company": "Testi Costruzioni",
+ "full_name": "Keir",
+ "first": "Keir",
+ "linkedin": "https://www.linkedin.com/in/keir-smith-763253277",
+ "cover_note": "Testi Costruzioni ristruttura ville, palazzi, chiese e casali e crea pezzi unici che riproducono le antiche caratteristiche del travertino e del marmo.",
+ "evidence": [
+  {
+   "url": "https://testicostruzioni.it/about-us",
+   "quote": "Dalle ristrutturazioni di ville, palazzi, chiese e casali, alla creazione di pezzi unici che riproducono le antiche caratteristiche del travertino e del marmo."
+  },
+  {
+   "url": "https://testicostruzioni.it/about-us",
+   "quote": "70 anni di esperienza nell'estrazione e lavorazione del travertino"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "s-a-piscine-srl",
+ "company": "S.A. Piscine",
+ "full_name": "Somensini",
+ "first": "Somensini",
+ "linkedin": "https://www.linkedin.com/in/somensini-stefano-58979a30",
+ "cover_note": "S.A. Piscine costruisce e mantiene piscine e laghetti artificiali pubblici e privati da Manerba del Garda e garantisce le opere edili per 3 anni.",
+ "evidence": [
+  {
+   "url": "https://sapiscine.com/azienda/",
+   "quote": "S.A. Piscine, società specializzata nella costruzione e nella manutenzione di piscine e laghetti artificiali, sia in ambito pubblico che privato, ha sede a Manerba del Garda, in provincia di Brescia"
+  },
+  {
+   "url": "https://sapiscine.com/azienda/",
+   "quote": "Tutte le nostre opere edili sono garantite per 3 anni dalla consegna — un anno in più rispetto a quanto previsto dalla normativa europea."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

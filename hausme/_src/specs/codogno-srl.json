@@ -1,0 +1,19 @@
+{
+ "slug": "codogno-srl",
+ "company": "Codogno",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andreavernucci",
+ "cover_note": "Codogno è nata oltre 50 anni fa a Vigonza, è alla terza generazione e lavora con strutture in acciaio e sistemi a secco.",
+ "evidence": [
+  {
+   "url": "https://www.codognosystem.it/azienda",
+   "quote": "La nostra azienda nasce oltre 50 anni fa a Vigonza, Padova e si tramanda da 3 generazioni."
+  },
+  {
+   "url": "https://www.codognosystem.it/",
+   "quote": "Strutture in acciaio e sistemi a secco che rivoluzionano il concetto di edificio."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

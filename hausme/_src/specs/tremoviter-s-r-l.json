@@ -1,0 +1,19 @@
+{
+ "slug": "tremoviter-s-r-l",
+ "company": "Tremoviter",
+ "full_name": "Francesco",
+ "first": "Francesco",
+ "linkedin": "https://www.linkedin.com/in/francesco-ghilardi-44215449",
+ "cover_note": "Tremoviter è un'impresa di costruzioni fondata più di 45 anni fa ancora condotta dal fondatore con i figli e 13 perforatrici anche per spazi ristretti.",
+ "evidence": [
+  {
+   "url": "https://tremoviter.com/",
+   "quote": "Tremoviter nasce come impresa di costruzioni fondata più di 45 anni fa dal dott. Ghilardi ed è ancora da lui condotta in collaborazione con i figli."
+  },
+  {
+   "url": "https://tremoviter.com/",
+   "quote": "il nostro parco macchine comprende 13 perforatrici, alcune sono state concepite per poter operare in spazi ristretti o su ponteggi temporanei"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "tassone-costruzioni-s-r-l",
+ "company": "Tassone Costruzioni",
+ "full_name": "Oscar",
+ "first": "Oscar",
+ "linkedin": "https://www.linkedin.com/in/oscar-tassone-6437961a3",
+ "cover_note": "Tassone Costruzioni realizza edifici industriali, commerciali e residenziali e lavora a Brescia e in tutta la Lombardia.",
+ "evidence": [
+  {
+   "url": "https://tassonecostruzioni.it/",
+   "quote": "Tassone Costruzioni è un’ impresa edile specializzata nella realizzazione di edifici industriali, commerciali e residenziali"
+  },
+  {
+   "url": "https://tassonecostruzioni.it/",
+   "quote": "Operativi in Brescia e Lombardia"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

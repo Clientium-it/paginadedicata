@@ -1,0 +1,19 @@
+{
+ "slug": "ergoprogetti-s-r-l",
+ "company": "Ergoprogetti",
+ "full_name": "Luca",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-prosdocimi-2a350859",
+ "cover_note": "Ergoprogetti da più di vent'anni realizza architetture d'interni personalizzate per il vivere e il lavorare con un servizio chiavi in mano.",
+ "evidence": [
+  {
+   "url": "https://ergoprogetti.it/it/chi-siamo",
+   "quote": "Da più di vent’anni, ERGOPROGETTI realizza architetture d’interni integrate , personalizzate e di design. Ci dedichiamo a “interiors” del vivere e del lavorare con pari dedizione"
+  },
+  {
+   "url": "https://ergoprogetti.it/it/chi-siamo",
+   "quote": "offrendo a una clientela esigente e selezionata un servizio chiavi in mano e ambienti pronti a riceverli in comfort, bellezza ed esclusività"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

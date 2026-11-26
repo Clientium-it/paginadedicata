@@ -1,0 +1,19 @@
+{
+ "slug": "corna-s-r-l",
+ "company": "Corna",
+ "full_name": "Giancarlo",
+ "first": "Giancarlo",
+ "linkedin": "https://www.linkedin.com/in/giancarlo-corna-16623387",
+ "cover_note": "Corna da oltre trent'anni realizza impianti elettrici domestici e industriali e installa anche pannelli fotovoltaici con sistemi di accumulo e domotica.",
+ "evidence": [
+  {
+   "url": "https://cornaimpianti.it/",
+   "quote": "Realizziamo da oltre trent'anni impianti elettrici domestici e industriali installiamo pannelli fotovoltaici sistemi di accumulo domotica reti ip"
+  },
+  {
+   "url": "https://cornaimpianti.it/",
+   "quote": "Via Bergamo n.15/B, 24035 Curno, Bergamo BG"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "happy-vision-s-r-l",
+ "company": "Happy Vision",
+ "full_name": "Patrizia",
+ "first": "Patrizia",
+ "linkedin": "https://www.linkedin.com/in/patrizia-fumagalli-905a56211",
+ "cover_note": "Happy Vision dal 2005 al 2023 ha progettato e posato i percorsi LOGES e LVE all'aeroporto di Bergamo e ha fornito e posato percorsi tattili anche a Bologna.",
+ "evidence": [
+  {
+   "url": "https://www.happyvision.eu/index.php/it/principali-realizzazioni.html",
+   "quote": "2005 – 2023 Aeroporto “Il Caravaggio” di Bergamo - Orio al Serio: progettazione, fornitura e posa della segnaletica tattile e del percorso guida a terra LOGES e LVE"
+  },
+  {
+   "url": "https://www.happyvision.eu/index.php/it/principali-realizzazioni.html",
+   "quote": "2008 – 2023 Aeroporto “Guglielmo Marconi” di Bologna: fornitura e posa di percorsi guida a terra e di segnaletica tattile"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

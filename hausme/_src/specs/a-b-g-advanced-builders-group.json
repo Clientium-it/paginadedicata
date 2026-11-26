@@ -1,0 +1,19 @@
+{
+ "slug": "a-b-g-advanced-builders-group",
+ "company": "A.B.G.",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andreacarpitelli",
+ "cover_note": "A.B.G. progetta e costruisce a Livorno dal 1999 quadri elettrici civili e industriali di tipo Motor Control Center e Power Center fino a 6500A.",
+ "evidence": [
+  {
+   "url": "https://www.abgsrl.it/about-us",
+   "quote": "A.B.G. Srl progetta e costruisce quadri elettrici per l’automazione e la distribuzione (sia civile che industriale) del tipo M.C.C. (Motor Control Center) a colonne, cassetti fissi e/o estraibili e del tipo P.C. (Power Center) fino a 6500A con Icc 50KA."
+  },
+  {
+   "url": "https://www.abgsrl.it/",
+   "quote": "A.B.G. Srl. Progettazione e costruzione quadri elettrici a Livorno dal 1999."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "u-b-m-costruzioni-s-r-l",
+ "company": "UBM Costruzioni",
+ "full_name": "Matteo",
+ "first": "Matteo",
+ "linkedin": "https://www.linkedin.com/in/matteo-bettiga-024890160",
+ "cover_note": "UBM Costruzioni realizza murature e pavimentazioni in pietra naturale tra Sondrio, Lecco e Como con un mestiere tramandato di padre in figlio.",
+ "evidence": [
+  {
+   "url": "https://ubmcostruzioni.it/",
+   "quote": "UBM Costruzioni è un’azienda specializzata nella realizzazione di murature e pavimentazioni in pietra naturale. Operiamo prevalentemente nelle province di Sondrio Lecco e Como , ma lavoriamo anche a Milano, in Svizzera e ovunque il progetto lo richieda."
+  },
+  {
+   "url": "https://ubmcostruzioni.it/chi-siamo/",
+   "quote": "Di padre in figlio , tramandiamo l’arte della lavorazione della pietra"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}
