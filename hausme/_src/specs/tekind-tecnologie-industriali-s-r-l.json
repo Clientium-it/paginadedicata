@@ -1,0 +1,19 @@
+{
+ "slug": "tekind-tecnologie-industriali-s-r-l",
+ "company": "Tekind",
+ "full_name": "Luca",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-dell-elice-9865a930",
+ "cover_note": "Tekind progetta e realizza impianti chiavi in mano per centri sportivi, strutture alberghiere e ospedaliere e tra i lavori cita l'Hotel Sheraton Roma.",
+ "evidence": [
+  {
+   "url": "https://www.tekindsrl.com/servizi-e-prodotti/",
+   "quote": "è specializzata nella progettazione e realizzazione di impianti chiavi in mano per: centri sportivi, centri benessere, strutture alberghiere, strutture ospedaliere, ristoranti, negozi, bar, appartamenti."
+  },
+  {
+   "url": "https://www.tekindsrl.com/tekind-srl-azienda/",
+   "quote": "Hotel Sheraton Roma"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

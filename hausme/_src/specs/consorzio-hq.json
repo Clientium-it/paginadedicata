@@ -1,0 +1,19 @@
+{
+ "slug": "consorzio-hq",
+ "company": "HQ",
+ "full_name": "Santri",
+ "first": "Santri",
+ "linkedin": "https://www.linkedin.com/in/santri-gkioni",
+ "cover_note": "HQ è una società di ingegneria e progettazione strutturale e architettonica attiva da oltre 40 anni a Milano con sedi anche a Padova e Genova.",
+ "evidence": [
+  {
+   "url": "https://www.hqe.it/progetti-e-strutture/",
+   "quote": "Società di ingegneria e di progettazione strutturale ed architettonica operante da oltre 40 anni sulla piazza di Milano."
+  },
+  {
+   "url": "https://www.hqe.it/sedi/",
+   "quote": "Milano > VAI Via Giorgio Stephenson, 29 – 20157 Milano milano@hqe.it Padova > VAI Via Longhin, 131 – 35129 Padova padova2@hqe.it Genova > VAI Viale Brigata Bisagno, 2/38 – 16129 Genova"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

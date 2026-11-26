@@ -1,0 +1,19 @@
+{
+ "slug": "f-lli-natolino-costruzioni-s-r-l",
+ "company": "Natolino Costruzioni",
+ "full_name": "Bruno",
+ "first": "Bruno",
+ "linkedin": "https://www.linkedin.com/in/bruno-natolino-aa206a81",
+ "cover_note": "Natolino Costruzioni dal 1952 opera nell'edilizia civile, commerciale e industriale ed è specializzata in stabilimenti agroalimentari e ha realizzato una mensa aziendale a Buttrio.",
+ "evidence": [
+  {
+   "url": "https://natolino.it/",
+   "quote": "dal 1952, opera nell’ edilizia civile, commerciale e industriale , con particolare specializzazione nella costruzione di stabilimenti per il settore agroalimentare."
+  },
+  {
+   "url": "https://natolino.it/danieli-automation-mensa-aziendale/",
+   "quote": "Danieli Automation S.p.A., mensa aziendale Progetto: arch. Nino Tenca Montini Location: Buttrio"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

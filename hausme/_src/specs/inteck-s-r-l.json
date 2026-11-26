@@ -1,0 +1,19 @@
+{
+ "slug": "inteck-s-r-l",
+ "company": "Inteck",
+ "full_name": "Tiziano",
+ "first": "Tiziano",
+ "linkedin": "https://www.linkedin.com/in/tiziano-casini-b8623749",
+ "cover_note": "Inteck progetta e realizza impianti elettrici completi per abitazioni, complessi residenziali, aziende e strutture commerciali e ha completato oltre 500 progetti.",
+ "evidence": [
+  {
+   "url": "https://intecksrl.com/home.html",
+   "quote": "Progettazione e realizzazione di impianti elettrici completi per abitazioni private, complessi residenziali, aziende e strutture commerciali nel rigoroso rispetto delle normative di legge"
+  },
+  {
+   "url": "https://intecksrl.com/chi-siamo.html",
+   "quote": "Oltre 500 progetti completati con successo"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

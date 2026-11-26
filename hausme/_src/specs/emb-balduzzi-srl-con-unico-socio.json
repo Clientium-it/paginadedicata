@@ -1,0 +1,19 @@
+{
+ "slug": "emb-balduzzi-srl-con-unico-socio",
+ "company": "EMB Balduzzi",
+ "full_name": "Fortunato",
+ "first": "Fortunato",
+ "linkedin": "https://www.linkedin.com/in/fortunato-balduzzi-22b817164",
+ "cover_note": "EMB Balduzzi è nata nel 1979 dai fondatori Pietro e Fortunato Balduzzi e ha sede a Clusone in Val Seriana.",
+ "evidence": [
+  {
+   "url": "https://www.embbalduzzi.it/Chi-Siamo",
+   "quote": "EMB Balduzzi nasce nel 1979 dai fondatori Balduzzi Pietro e Balduzzi Fortunato."
+  },
+  {
+   "url": "https://www.embbalduzzi.it/Dove-Siamo",
+   "quote": "La sede di EMB Balduzzi si trova a Clusone , nel cuore della Val Seriana, in provincia di Bergamo."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "c-m-m-costruzioni-srl",
+ "company": "C.M.M. Costruzioni",
+ "full_name": "Maurizio",
+ "first": "Maurizio",
+ "linkedin": "https://www.linkedin.com/in/maurizio-monaldi-53161975",
+ "cover_note": "C.M.M. Costruzioni nasce a Città di Castello nel 1986 e realizza edifici industriali e residenziali per imprese e privati seguendo il progetto fino in fondo.",
+ "evidence": [
+  {
+   "url": "https://www.gruppocmm.it/azienda",
+   "quote": "L’ Azienda nasce a Città di Castello (PG) nel 1986."
+  },
+  {
+   "url": "https://www.gruppocmm.it/realizzazioni",
+   "quote": "Nuove costruzioni industriali e residenziali. Ci rivolgiamo ad imprese e privati per la realizzazione completa di progetti"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

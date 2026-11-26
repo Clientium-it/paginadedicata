@@ -1,0 +1,19 @@
+{
+ "slug": "stretti-cantieri-s-r-l",
+ "company": "Stretti Cantieri",
+ "full_name": "Aldo",
+ "first": "Aldo",
+ "linkedin": "https://www.linkedin.com/in/aldo-stretti-143208106",
+ "cover_note": "Stretti Cantieri è guidata dai fratelli Aldo e Rodolfo Stretti dal 1990, è alla terza generazione e lavora tra Brescia e il Lago di Garda.",
+ "evidence": [
+  {
+   "url": "https://www.stretticantieri.it/it/chi-siamo/",
+   "quote": "Siamo due fratelli, Aldo e Rodolfo Stretti, che dal 1990 portano avanti una storia di cantieri edili arrivata alla 3° generazione"
+  },
+  {
+   "url": "https://www.stretticantieri.it/it/storia/",
+   "quote": "lungo la direttrice Brescia-Lago di Garda"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

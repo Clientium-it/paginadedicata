@@ -1,0 +1,19 @@
+{
+ "slug": "gruppo-sistemi-s-r-l",
+ "company": "Gruppo Sistemi",
+ "full_name": "Gruppo",
+ "first": "Gruppo",
+ "linkedin": "https://www.linkedin.com/in/gruppo-sistemi-3234b429",
+ "cover_note": "Gruppo Sistemi è nata nel 2003 su iniziativa di Sergio Gagliardo e fa ristrutturazioni chiavi in mano a Nichelino per case, appartamenti e locali commerciali.",
+ "evidence": [
+  {
+   "url": "https://www.grupposistemi.com/ristrutturazioni/",
+   "quote": "Gruppo Sistemi SRL si occupa di ristrutturazioni chiavi in mano a Nichelino, realizzando interventi per case, appartamenti e locali commerciali."
+  },
+  {
+   "url": "https://www.grupposistemi.com/",
+   "quote": "Gruppo Sistemi SRL nasce nel 2003 su iniziativa di Sergio Gagliardo"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

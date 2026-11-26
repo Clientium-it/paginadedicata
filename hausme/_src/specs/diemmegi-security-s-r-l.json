@@ -1,0 +1,19 @@
+{
+ "slug": "diemmegi-security-s-r-l",
+ "company": "Diemmegi Security",
+ "full_name": "Gianluca",
+ "first": "Gianluca",
+ "linkedin": "https://www.linkedin.com/in/gianluca-de-marchi-44a5091ab",
+ "cover_note": "Diemmegi Security lavora nella sicurezza dal 2005 da San Giorgio di Nogaro, con antintrusione e antincendio in Friuli Venezia Giulia e Veneto.",
+ "evidence": [
+  {
+   "url": "https://www.diemmegisecurity.it/",
+   "quote": "Dal 2005 nel mondo della sicurezza. Con sede a San Giorgio di Nogaro UD Diemmegi Security opera nel campo della sicurezza in tutto il Friuli Venezia Giulia e Veneto"
+  },
+  {
+   "url": "https://www.diemmegisecurity.it/project/impianti-sicurezza-aziendali/",
+   "quote": "Sistemi Sicurezza -Antintrusione – Antincendio Cliente Supermercato MD"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

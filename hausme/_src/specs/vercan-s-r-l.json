@@ -1,0 +1,19 @@
+{
+ "slug": "vercan-s-r-l",
+ "company": "Vercan",
+ "full_name": "Federica",
+ "first": "Federica",
+ "linkedin": "https://www.linkedin.com/in/federica-costa-a20566180",
+ "cover_note": "Vercan nasce nel 2003 in provincia di Verona e progetta e installa canalizzazioni per il trattamento dell'aria, con particolare attenzione agli ambienti sanitari e pubblici.",
+ "evidence": [
+  {
+   "url": "https://vercan.it/",
+   "quote": "Vercan Srl da 20 anni progetta, costruisce, installa canalizzazioni per il condizionamento e trattamento dell’aria in ambito industriale, commerciale e residenziale, con particolare attenzione per gli ambienti sanitari e pubblici."
+  },
+  {
+   "url": "https://vercan.it/about-us/",
+   "quote": "nasce nel luglio del 2003 come una piccola azienda nella provincia di Verona"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}
