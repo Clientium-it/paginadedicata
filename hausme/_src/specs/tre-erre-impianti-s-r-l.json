@@ -1,0 +1,19 @@
+{
+ "slug": "tre-erre-impianti-s-r-l",
+ "company": "Tre Erre Impianti",
+ "full_name": "Cinzia",
+ "first": "Cinzia",
+ "linkedin": "https://www.linkedin.com/in/cinzia-siragusa-307b3314b",
+ "cover_note": "Tre Erre Impianti ha un'esperienza ventennale e realizza impianti su misura per abitazioni private, uffici, strutture commerciali e industriali.",
+ "evidence": [
+  {
+   "url": "https://treerreimpianti.it/chi-siamo",
+   "quote": "Con un'esperienza ventennale nel settore, l'azienda si distingue per la sua capacità di adattarsi alle diverse esigenze dei clienti, offrendo soluzioni personalizzate e all'avanguardia per ogni tipo di progetto."
+  },
+  {
+   "url": "https://treerreimpianti.it/chi-siamo",
+   "quote": "Ci occupiamo di impianti per abitazioni private, uffici, strutture commerciali e industriali"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

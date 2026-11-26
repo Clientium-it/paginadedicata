@@ -1,0 +1,19 @@
+{
+ "slug": "impref-s-r-l",
+ "company": "Impref",
+ "full_name": "Pattacini",
+ "first": "Pattacini",
+ "linkedin": "https://www.linkedin.com/in/pattacini-tiziano-a153b275",
+ "cover_note": "Impref dal 1989 lavora nelle costruzioni civili e industriali nel territorio reggiano con un ufficio tecnico interno e coordinamento diretto dei cantieri.",
+ "evidence": [
+  {
+   "url": "https://www.impref.it/",
+   "quote": "Impref S.r.l. nasce nel 1989 ed opera nel settore delle costruzioni civili e industriali. Insediata da oltre 30 anni nel tessuto reggiano"
+  },
+  {
+   "url": "https://www.impref.it/chi-siamo/",
+   "quote": "L'organizzazione aziendale è composta da personale tecnico qualificato, ufficio tecnico interno, gestione amministrativa strutturata e coordinamento diretto dei cantieri."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

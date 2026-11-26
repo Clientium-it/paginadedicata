@@ -1,0 +1,19 @@
+{
+ "slug": "tekno-pav-s-r-l",
+ "company": "Tekno Pav",
+ "full_name": "Alessandro",
+ "first": "Alessandro",
+ "linkedin": "https://www.linkedin.com/in/alessandro-corelli-grappadelli-9719b941",
+ "cover_note": "Tekno Pav lavora da oltre 20 anni nelle manutenzioni industriali e segue interventi su ponti, viadotti e gallerie.",
+ "evidence": [
+  {
+   "url": "https://www.teknopav.it/chi-siamo/",
+   "quote": "La Tekno Pav s.r.l. è un azienda che opera da oltre 20 anni nel settore delle manutenzioni industriali."
+  },
+  {
+   "url": "https://www.teknopav.it/chi-siamo/",
+   "quote": "Interventi di manutenzione ponti, viadotti e gallerie"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

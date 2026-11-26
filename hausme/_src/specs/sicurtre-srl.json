@@ -1,0 +1,19 @@
+{
+ "slug": "sicurtre-srl",
+ "company": "Sicurtre",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-verderio-b1392737",
+ "cover_note": "Sicurtre dal 1983 a Cernusco sul Naviglio fa sicurezza integrata, impiantistica civile e industriale, building automation e general contracting in Lombardia come interlocutore unico.",
+ "evidence": [
+  {
+   "url": "https://www.sicurtre.it/azienda",
+   "quote": "specializzata in sistemi integrati di sicurezza, impiantistica civile e industriale, building automation e general contracting. Operiamo sul territorio lombardo come interlocutore unico"
+  },
+  {
+   "url": "https://www.sicurtre.it/azienda",
+   "quote": "Dal 1983 a Cernusco sul Naviglio"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

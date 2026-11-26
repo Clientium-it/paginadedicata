@@ -1,0 +1,19 @@
+{
+ "slug": "rosiglioni-impianti-s-r-l",
+ "company": "Rosiglioni Impianti",
+ "full_name": "Sabrina",
+ "first": "Sabrina",
+ "linkedin": "https://www.linkedin.com/in/sabrina-rosiglioni",
+ "cover_note": "Rosiglioni Impianti ha un'esperienza quarantennale e gestisce tutto il processo degli impianti medicali dalla progettazione all'installazione fino alla manutenzione.",
+ "evidence": [
+  {
+   "url": "https://www.rosiglioni.it/",
+   "quote": "La nostra forza risiede nella capacità di gestire l’intero processo, dalla fase di progettazione iniziale fino all’installazione e alla manutenzione di un impianto medicale"
+  },
+  {
+   "url": "https://www.rosiglioni.it/",
+   "quote": "Forte di un’esperienza quarantennale, ci impegnamo ad offrire soluzioni innovative e di alta qualità"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

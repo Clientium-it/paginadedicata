@@ -1,0 +1,19 @@
+{
+ "slug": "edil-nica-societa-cooperativa",
+ "company": "Edil Nica",
+ "full_name": "Giovanna",
+ "first": "Giovanna",
+ "linkedin": "https://www.linkedin.com/in/giovanna-duva-73503487",
+ "cover_note": "Edil Nica dal 1989 costruisce case, villette, palazzine e condomini seguendo tutto dallo scavo alla consegna chiavi in mano.",
+ "evidence": [
+  {
+   "url": "https://edilnica.it/",
+   "quote": "Nuove costruzioni di case, villette, palazzine, condomini, ville. Dallo scavo alla consegna chiavi in mano."
+  },
+  {
+   "url": "https://edilnica.it/",
+   "quote": "La nostra storia inizia nel 1989, anche se il nostro fondatore ha iniziato a lavorare con i mattoni già molto tempo prima."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "orsatti-elettrotecnica-srl",
+ "company": "Orsatti",
+ "full_name": "Giorgio",
+ "first": "Giorgio",
+ "linkedin": "https://www.linkedin.com/in/giorgio-abeni-427761138",
+ "cover_note": "Orsatti realizza impianti fotovoltaici a Brescia e segue il cliente dall'analisi delle esigenze fino alla messa in funzione e alla manutenzione su misura.",
+ "evidence": [
+  {
+   "url": "https://www.orsatti.eu/servizi/",
+   "quote": "Siamo referente unico in tutto il percorso di progettazione e sviluppo dell’impianto: accompagniamo il cliente dall’analisi delle sue esigenze fino alla messa in funzione dell’impianto e a piani di assistenza e manutenzione su misura"
+  },
+  {
+   "url": "https://www.orsatti.eu/",
+   "quote": "Realizziamo a Brescia impianti fotovoltaici all’avanguardia che aumentano il livello di indipendenza dalla rete elettrica"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

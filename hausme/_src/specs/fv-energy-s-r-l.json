@@ -1,0 +1,19 @@
+{
+ "slug": "fv-energy-s-r-l",
+ "company": "FV Energy",
+ "full_name": "Luca",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-laghi-8b111142",
+ "cover_note": "FV Energy è nata a Faenza nel 2008 e realizza impianti fotovoltaici a tetto e a terra in Emilia Romagna, Marche e Puglia.",
+ "evidence": [
+  {
+   "url": "https://www.fvenergysrl.it/azienda/",
+   "quote": "FV Energy ha realizzato piccoli e grandi impianti fotovoltaici principalmente in Emilia Romagna, Marche e Puglia. Le installazioni comprendo sia impianti a tetto che su terreno."
+  },
+  {
+   "url": "https://www.fvenergysrl.it/azienda/",
+   "quote": "FV Energy srl è nata agli inizi del 2008 a Faenza e opera nel campo del fotovoltaico progettando, installando e manutenendo impianti fotovoltaici."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

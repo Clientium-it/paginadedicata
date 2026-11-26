@@ -1,0 +1,19 @@
+{
+ "slug": "idra-srl",
+ "company": "IDRA",
+ "full_name": "Alberto",
+ "first": "Alberto",
+ "linkedin": "https://www.linkedin.com/in/alberto-musatti",
+ "cover_note": "IDRA dal 2001 lavora come idraulico del risparmio energetico tra Brescia e Franciacorta con 4 reparti di specialisti e un solo referente dall'inizio alla fine.",
+ "evidence": [
+  {
+   "url": "https://www.idraenergiapulita.it/",
+   "quote": "2.000+ famiglie e aziende Dal 2001 25 anni di mestiere 4 reparti di specialisti 1 referente dall'inizio alla fine"
+  },
+  {
+   "url": "https://www.idraenergiapulita.it/",
+   "quote": "L'idraulico del risparmio energetico · Brescia e Franciacorta"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

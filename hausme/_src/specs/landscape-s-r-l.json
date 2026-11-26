@@ -1,0 +1,19 @@
+{
+ "slug": "landscape-s-r-l",
+ "company": "Landscape",
+ "full_name": "Davide",
+ "first": "Davide",
+ "linkedin": "https://www.linkedin.com/in/davide-toniolo-99a5551bb",
+ "cover_note": "Landscape a Varese realizza pavimenti esterni, pergole e giardini e da 3 generazioni porta avanti l'attività avviata da Bruno Toniolo negli anni 70.",
+ "evidence": [
+  {
+   "url": "https://www.landscapeweb.it/",
+   "quote": "Il fondatore BRUNO TONIOLO ha avviato questa attività negli anni 70 in cui gli spazi verdi privati e non stavano incominciando a prendere piede sul nostro territorio."
+  },
+  {
+   "url": "https://www.landscapeweb.it/",
+   "quote": "Pavimenti esterni, pergole e giardini a Varese Da 3 generazioni mettiamo passione ed esperienza per creare oasi su misura."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

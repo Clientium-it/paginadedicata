@@ -1,0 +1,19 @@
+{
+ "slug": "ecotep-s-r-l",
+ "company": "Ecotep",
+ "full_name": "Oreste",
+ "first": "Oreste",
+ "linkedin": "https://www.linkedin.com/in/oreste-butrichi-350077a5",
+ "cover_note": "Ecotep lavora le superfici da oltre 30 anni e con la sua flotta di mezzi e macchinari gestisce più cantieri anche in contemporanea.",
+ "evidence": [
+  {
+   "url": "https://www.ecotepsrl.com/chi-siamo/",
+   "quote": "La flotta di mezzi e di macchinari a disposizione di Ecotep permette di gestire una pluralità di cantieri anche simultaneamente, in modo sempre tempestivo ed efficace."
+  },
+  {
+   "url": "https://www.ecotepsrl.com/chi-siamo/",
+   "quote": "Ecotep lavora le superfici da oltre 30 anni."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

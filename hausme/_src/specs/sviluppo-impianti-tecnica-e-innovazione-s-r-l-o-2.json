@@ -1,0 +1,19 @@
+{
+ "slug": "sviluppo-impianti-tecnica-e-innovazione-s-r-l-o-2",
+ "company": "SITI",
+ "full_name": "Francesco",
+ "first": "Francesco",
+ "linkedin": "https://www.linkedin.com/in/francesco-frau-48a01296",
+ "cover_note": "SITI realizza impianti idraulici, clima, trattamento aria e antincendio, anche per il polo logistico Amazon, e climatizzazione per edifici residenziali a Cagliari.",
+ "evidence": [
+  {
+   "url": "https://siti.srl/",
+   "quote": "Impianti idraulici, clima, trattamento aria e antincendio per il polo logistico AMAZON."
+  },
+  {
+   "url": "https://siti.srl/",
+   "quote": "Installazione di impianti di climatizzazione aria/aria e impianti aria/acqua per edifici residenziali in via Rossini a Cagliari."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

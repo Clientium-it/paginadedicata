@@ -1,0 +1,19 @@
+{
+ "slug": "icopower-s-r-l",
+ "company": "Icopower",
+ "full_name": "Luca",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/cozziitalia",
+ "cover_note": "Icopower dal 2013 aiuta le aziende a risparmiare energia con tecnologie brevettate e conta 3.462 installazioni in 24 Paesi.",
+ "evidence": [
+  {
+   "url": "https://www.icopower.com/",
+   "quote": "Dal 2013 ICOPOWER aiuta le aziende a risparmiare sui consumi energetici tramite una serie di tecnologie brevettate."
+  },
+  {
+   "url": "https://www.icopower.com/",
+   "quote": "Con 3.462 installazioni in 24 Paesi , Icopower porta efficienza energetica ad innumerevoli settori produttivi."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

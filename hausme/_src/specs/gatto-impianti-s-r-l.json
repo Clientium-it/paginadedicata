@@ -1,0 +1,19 @@
+{
+ "slug": "gatto-impianti-s-r-l",
+ "company": "Gatto Impianti",
+ "full_name": "Fabio",
+ "first": "Fabio",
+ "linkedin": "https://www.linkedin.com/in/fabio-gatto-048909156",
+ "cover_note": "Gatto Impianti nasce nel 1989 a Gardigiano di Scorzè con Gastone e il figlio Fabio e oggi conta 223 impianti in negozi e 284 privati.",
+ "evidence": [
+  {
+   "url": "https://gattoimpianti.it/azienda.html",
+   "quote": "Era il 1989 quando Gastone Gatto decide di mettersi in proprio e intraprendere, insieme al figlio Fabio, l’attività di manutenzione di impianti elettrici a Gardigiano di Scorzè (VE)."
+  },
+  {
+   "url": "https://gattoimpianti.it/",
+   "quote": "223 IMPIANTI NEGOZI 284 IMPIANTI PRIVATI 460 CLIENTI SODDISFATTI"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

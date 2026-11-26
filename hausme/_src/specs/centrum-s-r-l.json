@@ -1,0 +1,19 @@
+{
+ "slug": "centrum-s-r-l",
+ "company": "Centrum",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-guandalini-2422b8128",
+ "cover_note": "Centrum lavora nella sicurezza per aziende, negozi e privati dal 1993, con sede a Carpi e filiale a Milano e radici negli anni 60.",
+ "evidence": [
+  {
+   "url": "https://centrumsrl.it/chi-siamo/",
+   "quote": "Centrum srl nasce nel 1993 nel settore della sicurezza per aziende, attività commerciali e privati, ma la sua esperienza risale all’attività pionieristica svolta dai soci fondatori a partire dalla fine degli anni 60."
+  },
+  {
+   "url": "https://centrumsrl.it/chi-siamo/",
+   "quote": "SEDE via San Giacomo 35 - 41012 Carpi (MO) Tel. 059 643555 - Fax 059 696031 FILIALE via F. Argelati 30/A - 20143 Milano"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

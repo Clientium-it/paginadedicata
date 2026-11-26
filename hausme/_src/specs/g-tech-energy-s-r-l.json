@@ -1,0 +1,19 @@
+{
+ "slug": "g-tech-energy-s-r-l",
+ "company": "Gtech",
+ "full_name": "Stefano",
+ "first": "Stefano",
+ "linkedin": "https://www.linkedin.com/in/stefano-nichelatti-a0753a71",
+ "cover_note": "Gtech nasce nel 2009 e installa impianti di ogni taglia, dalle piccole abitazioni ai grandi complessi industriali, con più di 500 installazioni in media all'anno.",
+ "evidence": [
+  {
+   "url": "https://gtechenergy.it/azienda/",
+   "quote": "Gtech nasce nel 2009 . Nel corso di questi 15 anni abbiamo installato e gestito impianti di ogni taglia e tipologia, dalle piccole abitazioni ai grandi complessi industriali ."
+  },
+  {
+   "url": "https://gtechenergy.it/azienda/",
+   "quote": "più di 500 installazioni in media all’anno"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

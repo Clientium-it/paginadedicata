@@ -1,0 +1,19 @@
+{
+ "slug": "fratus-vintage-stone-srl",
+ "company": "Fratus Vintage Stone",
+ "full_name": "Filippo",
+ "first": "Filippo",
+ "linkedin": "https://www.linkedin.com/in/filippo-fratus-41427691",
+ "cover_note": "Fratus Vintage Stone propone materiali vintage combinati su misura per ogni cliente, recuperando anche materiali avanzati da precedenti cantieri.",
+ "evidence": [
+  {
+   "url": "https://www.fratusvintagestone.it/chi-siamo/",
+   "quote": "proponiamo soluzioni che comprendano, parzialmente o totalmente, la presenza di questi “ materiali vintage ”, combinati tra loro in maniera sartoriale , studiata su misura per ogni cliente"
+  },
+  {
+   "url": "https://www.fratusvintagestone.it/chi-siamo/",
+   "quote": "materiali di avanzo da precedenti cantieri (magari con dimensioni o selezioni ordinate appositamente per quel tipo di commessa)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

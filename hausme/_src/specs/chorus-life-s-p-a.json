@@ -1,0 +1,19 @@
+{
+ "slug": "chorus-life-s-p-a",
+ "company": "ChorusLife",
+ "full_name": "Davide",
+ "first": "Davide",
+ "linkedin": "https://www.linkedin.com/in/davidechiodini",
+ "cover_note": "ChorusLife ha trasformato l'ex area industriale Ote in uno smart district alle porte del centro di Bergamo bonificando e riqualificando 70.000 mq.",
+ "evidence": [
+  {
+   "url": "https://choruslife.com/it/chi-siamo/",
+   "quote": "ChorusLife ha trasformato l’ex area industriale “Ote” in un innovativo smart district alle porte del centro di Bergamo. Un intervento che ha bonificato e riqualificato 70.000 mq di territorio"
+  },
+  {
+   "url": "https://choruslife.com/it/chi-siamo/",
+   "quote": "lavori estesi a 150.000 mq includendo le opere infrastrutturali e di urbanizzazione"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

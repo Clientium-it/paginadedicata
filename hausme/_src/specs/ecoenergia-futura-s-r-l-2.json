@@ -1,0 +1,19 @@
+{
+ "slug": "ecoenergia-futura-s-r-l-2",
+ "company": "Ecoenergia Futura",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-tommei-ba0b19194",
+ "cover_note": "Ecoenergia Futura realizza impianti fotovoltaici per aziende e clienti residenziali e segue anche manutenzione O&M, relamping e Titoli di Efficienza Energetica.",
+ "evidence": [
+  {
+   "url": "https://ecoenergiafutura.it/chi-siamo",
+   "quote": "2018 Oltre 2500 TEE (Titoli di Efficienza Energetica) gestiti all’anno Più di 50 impianti gestiti in O&M Oltre 4 MW termici sostituiti con caldaie a biomassa per processo produttivo Più di 40 interventi di relamping (aggiornamento a illuminazione più efficiente) Più di 500 impianti fotovoltaici realizzati per 6 MWp installati"
+  },
+  {
+   "url": "https://ecoenergiafutura.it/chi-siamo",
+   "quote": "2024 80 impianti realizzati per aziende, con 10 MW di produzione in autoconsumo Oltre 200 impianti realizzati per clienti residenziali 200 clienti abbonati per dichiarazioni di consumo e pratiche annuali 12 dipendenti"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

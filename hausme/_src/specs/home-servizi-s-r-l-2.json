@@ -1,0 +1,19 @@
+{
+ "slug": "home-servizi-s-r-l-2",
+ "company": "Home Servizi",
+ "full_name": "Michele",
+ "first": "Michele",
+ "linkedin": "https://www.linkedin.com/in/michele-nannini-63a79b273",
+ "cover_note": "Home Servizi nasce nel 2011 e progetta, mantiene e ristruttura edifici civili e commerciali a Bologna e provincia, arrivando anche a Cento e Ferrara.",
+ "evidence": [
+  {
+   "url": "https://www.homeservizi.it/chisiamo",
+   "quote": "Home Servizi s.r.l. nasce nel 2011 grazie all’esperienza consolidata dei suoi tecnici nel settore edilizio, specializzati nella progettazione, manutenzione e ristrutturazione di edifici civili e commerciali."
+  },
+  {
+   "url": "https://www.homeservizi.it/chisiamo",
+   "quote": "L’azienda opera principalmente nella zona di Bologna e provincia, estendendo il suo intervento anche a Cento e Ferrara."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "canevari-service-group-srl",
+ "company": "CentroClima24",
+ "full_name": "Daniele",
+ "first": "Daniele",
+ "linkedin": "https://www.linkedin.com/in/daniele-canevari-15887160",
+ "cover_note": "CentroClima24 dal 2005 progetta, vende, installa e mantiene impianti di climatizzazione e riscaldamento per case, uffici e realtà industriali, con magazzino a Buccinasco.",
+ "evidence": [
+  {
+   "url": "https://centroclima24.it/chi-siamo/",
+   "quote": "Dal 2005 CentroClima24 si occupa di progettazione, vendita, installazione e manutenzione di impianti di climatizzazione e riscaldamento per abitazioni, edifici residenziali, uffici e realtà industriali."
+  },
+  {
+   "url": "https://centroclima24.it/chi-siamo/",
+   "quote": "Sede operativa e magazzino Via Piemonte 36, 20090 Buccinasco (MI)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

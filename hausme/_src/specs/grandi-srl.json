@@ -1,0 +1,19 @@
+{
+ "slug": "grandi-srl",
+ "company": "Grandi",
+ "full_name": "Rita",
+ "first": "Rita",
+ "linkedin": "https://www.linkedin.com/in/rita-cogato-2613251b1",
+ "cover_note": "Grandi costruisce in steel frame e carpenteria a caldo progettando in BIM ogni nodo, dalla bifamigliare al condominio fino a studentati e strutture ricettive.",
+ "evidence": [
+  {
+   "url": "https://www.grandisrl.it/",
+   "quote": "Edifici progettati con la tecnologia ibrida dell’acciaio leggero steel-frame e carpenteria a caldo. Seguendo la logica dell’industrializzazione off-site, progettiamo in BIM ogni nodo prima che esista in cantiere"
+  },
+  {
+   "url": "https://www.grandisrl.it/",
+   "quote": "Un modello costruttivo pensato per crescere: dalla bifamigliare al condominio multipiano, fino a studentati e strutture ricettive."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "arte-nwork-s-r-l",
+ "company": "Arte'nwork",
+ "full_name": "Cristian",
+ "first": "Cristian",
+ "linkedin": "https://www.linkedin.com/in/cristianae",
+ "cover_note": "Arte'nwork è guidata da Cristian Nae, con oltre vent'anni nel settore, e opera a Milano, Monza, in tutta la Lombardia e in Liguria.",
+ "evidence": [
+  {
+   "url": "https://www.artenwork.it/",
+   "quote": "Cristian Nae , l'amministratore, vanta oltre vent'anni di competenza nel settore"
+  },
+  {
+   "url": "https://www.artenwork.it/",
+   "quote": "Operiamo a Milano, Monza in tutta la Lombardia, Liguria"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

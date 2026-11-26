@@ -1,0 +1,19 @@
+{
+ "slug": "new-energy-srl-2",
+ "company": "New Energy",
+ "full_name": "Antonio",
+ "first": "Antonio",
+ "linkedin": "https://www.linkedin.com/in/antonio-ursetta-8123768a",
+ "cover_note": "New Energy nasce nel 2008 in Abruzzo, ha realizzato oltre 15.000 impianti e oggi ha sedi a San Giovanni Teatino, Treglio e Milano.",
+ "evidence": [
+  {
+   "url": "https://www.newenergyitaly.com/chi-siamo/",
+   "quote": "New Energy nasce nel 2008 in Abruzzo e in 18 anni è passata da installatore di impianti fotovoltaici a Energy Service Company strutturata: oltre 15.000 impianti realizzati, tre sedi"
+  },
+  {
+   "url": "https://www.newenergyitaly.com/chi-siamo/",
+   "quote": "tre sedi — San Giovanni Teatino, Treglio e Milano — e progetti in tutta Italia per imprese, Pubblica Amministrazione, investitori e famiglie"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

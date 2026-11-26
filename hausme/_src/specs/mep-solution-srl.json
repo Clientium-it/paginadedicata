@@ -1,0 +1,15 @@
+{
+ "slug": "mep-solution-srl",
+ "company": "MEP Solution",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-campesato-46827a165",
+ "cover_note": "MEP Solution progetta e realizza impianti meccanici, elettrici e termoidraulici sia nuovi sia da rinnovare per privati e aziende.",
+ "evidence": [
+  {
+   "url": "https://www.mepsolution.it/chi-siamo/",
+   "quote": "Ci occupiamo di progettazione e realizzazione integrata di impianti meccanici, elettrici e termoidraulici per nuove installazioni, riprogettazione e rinnovamento di sistemi già esistenti che necessitino di nuova funzionalità, lavorando con clienti privati e aziende"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

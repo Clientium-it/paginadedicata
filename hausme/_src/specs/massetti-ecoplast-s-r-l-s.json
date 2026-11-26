@@ -1,0 +1,19 @@
+{
+ "slug": "massetti-ecoplast-s-r-l-s",
+ "company": "Ecoplast",
+ "full_name": "Ecoplast",
+ "first": "Ecoplast",
+ "linkedin": "https://www.linkedin.com/in/ecoplast-nord-marco-3a38b427",
+ "cover_note": "Ecoplast produce miscele ecosostenibili termoacustiche per massetti e sottofondi alleggeriti e ne segue la posa in opera convenzionata in diverse zone d'Italia.",
+ "evidence": [
+  {
+   "url": "https://www.ecoplastnord.it/it/",
+   "quote": "Produciamo miscele ecosostenibili termoacustiche per massetti e sottofondi alleggeriti."
+  },
+  {
+   "url": "https://www.ecoplastnord.it/it/",
+   "quote": "Posa in opera convenzionata in diverse zone d'Italia"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

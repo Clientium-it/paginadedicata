@@ -1,0 +1,19 @@
+{
+ "slug": "iedil",
+ "company": "Iedil",
+ "full_name": "Fabio",
+ "first": "Fabio",
+ "linkedin": "https://www.linkedin.com/in/fabio-pirrone-a0b834230",
+ "cover_note": "Iedil interviene su cantieri piccoli, medi e grandi anche come general contractor e realizza controsoffitti e pareti in cartongesso resistenti al fuoco e fonoisolanti.",
+ "evidence": [
+  {
+   "url": "https://www.iedil.it/chi-siamo/",
+   "quote": "Capaci di intervenire rapidamente su cantieri di piccole, medie e grandi dimensioni, siamo in grado di offrire le soluzioni ottimali per ogni esigenza costruttiva di ambientazione interna o esterna, operando anche come general contractor"
+  },
+  {
+   "url": "https://www.iedil.it/chi-siamo/",
+   "quote": "Eseguiamo controsoffittature di tutti i tipi, pareti di cartongesso con caratteristiche specifiche idrorepellenti, resistenti al fuoco, termoacustici, fonoisolanti"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

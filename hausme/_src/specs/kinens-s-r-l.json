@@ -1,0 +1,19 @@
+{
+ "slug": "kinens-s-r-l",
+ "company": "Kinens",
+ "full_name": "Ivan",
+ "first": "Ivan",
+ "linkedin": "https://www.linkedin.com/in/ivan-troiani-776814113",
+ "cover_note": "Kinens lavora dai portoni sezionali alle rampe elettroidrauliche fino alle attrezzature tagliafuoco con team tecnici operativi 24 ore su 24 per i clienti più esigenti.",
+ "evidence": [
+  {
+   "url": "https://www.kinens.it/chi-siamo/",
+   "quote": "I nostri team tecnici, composti da personale qualificato, sono operativi 24 ore su 24 per i clienti più esigenti."
+  },
+  {
+   "url": "https://www.kinens.it/chi-siamo/",
+   "quote": "dai portoni sezionali alle rampe elettroidrauliche , fino alle attrezzature tagliafuoco"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

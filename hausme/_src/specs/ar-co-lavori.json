@@ -1,0 +1,19 @@
+{
+ "slug": "ar-co-lavori",
+ "company": "Ar.Co. Lavori",
+ "full_name": "Claudia",
+ "first": "Claudia",
+ "linkedin": "https://www.linkedin.com/in/claudia-dal-poz-72220075",
+ "cover_note": "Ar.Co. Lavori è un consorzio di imprese artigiane nato nel 1999 che costruisce e ristruttura edifici pubblici e privati, scuole e centri commerciali.",
+ "evidence": [
+  {
+   "url": "https://www.arcolavori.com/",
+   "quote": "Costruire e ristrutturare edifici pubblici e privati, scuole, centri commerciali, infrastrutture, da sempre rappresenta uno dei core business di Ar.Co."
+  },
+  {
+   "url": "https://www.arcolavori.com/",
+   "quote": "è un consorzio di imprese artigiane costituito nel 1999 che opera nel mercato delle costruzioni, dei servizi, delle manutenzioni e delle concessioni e partenariati pubblico privati"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

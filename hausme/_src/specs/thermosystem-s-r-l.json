@@ -1,0 +1,19 @@
+{
+ "slug": "thermosystem-s-r-l",
+ "company": "ThermoSystem",
+ "full_name": "Cristian",
+ "first": "Cristian",
+ "linkedin": "https://www.linkedin.com/in/cristian-morara-7a1834175",
+ "cover_note": "ThermoSystem dal 1996 conduce e mantiene impianti termici a Bologna e provincia e riqualifica centrali termiche chiavi in mano con un ufficio termotecnico interno.",
+ "evidence": [
+  {
+   "url": "https://www.thermosystem.biz/",
+   "quote": "ThermoSystem S.r.l. – Conduzione e manutenzione impianti termici a Bologna e provincia. Dal 1996, la nostra forza è la soddisfazione del cliente ."
+  },
+  {
+   "url": "https://www.thermosystem.biz/",
+   "quote": "Riqualificazione Centrali Termiche chiavi in mano • Pianificazione con computo metrico • Valutazione e analisi computo metrici terze parti • Ufficio termotecnico interno"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

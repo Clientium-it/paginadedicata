@@ -1,0 +1,19 @@
+{
+ "slug": "zgs-solutions-srl",
+ "company": "ZGS Solutions",
+ "full_name": "Federico",
+ "first": "Federico",
+ "linkedin": "https://www.linkedin.com/in/federico-sartori-40232036",
+ "cover_note": "ZGS Solutions progetta e realizza impianti fotovoltaici di medio grande dimensione su fabbricati artigianali, industriali e agricoli affiancando la sezione Energy a quella Edil.",
+ "evidence": [
+  {
+   "url": "https://zgssolutions.it/chi-siamo/",
+   "quote": "dalla progettazione fino alla realizzazione di impianti fotovoltaici di medio-grande dimensione su fabbricati artigianali, industriali e agricoli"
+  },
+  {
+   "url": "https://zgssolutions.it/chi-siamo/",
+   "quote": "alla presenza della sezione Edil che affianca da sempre quella Energy"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

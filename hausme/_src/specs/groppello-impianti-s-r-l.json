@@ -1,0 +1,19 @@
+{
+ "slug": "groppello-impianti-s-r-l",
+ "company": "Groppello Impianti",
+ "full_name": "Luca",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-groppello-3628163ab",
+ "cover_note": "Groppello Impianti nasce nel 1970 dal primo laboratorio di Angelo Groppello e oggi progetta, installa e collauda impianti civili e industriali seguendo anche bandi e incentivi.",
+ "evidence": [
+  {
+   "url": "https://www.groppelloimpianti.it/azienda",
+   "quote": "L’azienda nasce nel 1970 grazie all’iniziativa del suo fondatore Angelo Groppello, che crea il suo primo laboratorio presso la vecchia abitazione dei genitori."
+  },
+  {
+   "url": "https://www.groppelloimpianti.it/",
+   "quote": "Forniamo consulenza, progettazione, assistenza su bandi e incentivi, commercializzazione, installazione e collaudo sia di impianti civili che industriali."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

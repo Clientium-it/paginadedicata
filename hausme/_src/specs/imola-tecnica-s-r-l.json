@@ -1,0 +1,19 @@
+{
+ "slug": "imola-tecnica-s-r-l",
+ "company": "Imola Tecnica",
+ "full_name": "Giancarlo",
+ "first": "Giancarlo",
+ "linkedin": "https://www.linkedin.com/in/giancarlo-savini-081346143",
+ "cover_note": "Imola Tecnica segue chiavi in mano pavimenti sopraelevati e facciate ventilate per clienti di tutto il mondo e ha l'attestazione SOA per opere pubbliche.",
+ "evidence": [
+  {
+   "url": "https://imolatecnica.it/azienda-imola-tecnica/",
+   "quote": "fornire a clienti di tutto il mondo un servizio chiavi in mano, dalla progettazione fino alla realizzazione in opera di pavimenti sopraelevati e facciate ventilate."
+  },
+  {
+   "url": "https://imolatecnica.it/azienda-imola-tecnica/",
+   "quote": "Possediamo l’Attestazione SOA (OS6 Classifica III e OS18-B Classifica II e III), il documento che comprova la capacità dell’impresa di eseguire opere pubbliche"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "costruzioni-generali-due",
+ "company": "CG2",
+ "full_name": "Salvatore",
+ "first": "Salvatore",
+ "linkedin": "https://www.linkedin.com/in/salvatore-fortunato-saulle-0990675b",
+ "cover_note": "CG2 ha seguito molti lavori di efficientamento energetico e miglioramento sismico con i bonus edilizi e ha restaurato edifici storici a Modena come Palazzo Boschetti.",
+ "evidence": [
+  {
+   "url": "https://www.cg2.it/storia/",
+   "quote": "CG2 si è dedicata in maniera capillare all’esecuzione di lavori di manutenzione straordinaria per l’efficientamento energetico e il miglioramento sismico nell’ambito dei bonus edilizi, sia nelle vesti di general contractor che di esecutore dei lavori"
+  },
+  {
+   "url": "https://www.cg2.it/storia/",
+   "quote": "restauro di edifici storici a Modena, quali Palazzo Boschetti ed altri"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

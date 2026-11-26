@@ -1,0 +1,19 @@
+{
+ "slug": "enerqos-energy-solutions-s-r-l-2",
+ "company": "Enerqos",
+ "full_name": "Mauro",
+ "first": "Mauro",
+ "linkedin": "https://www.linkedin.com/in/mauro-marcucci-842b914",
+ "cover_note": "Enerqos progetta, realizza e gestisce impianti fotovoltaici e sistemi di accumulo in tutta Italia con oltre 130 MWp di impianti realizzati.",
+ "evidence": [
+  {
+   "url": "https://enerqos.com/storia-enerqos/",
+   "quote": "Il periodo si conclude con oltre 130 MWp di impianti fotovoltaici realizzati nel Paese, consolidando il ruolo dell’azienda tra gli operatori più attivi del mercato."
+  },
+  {
+   "url": "https://enerqos.com/storia-enerqos/",
+   "quote": "Progetta, realizza e gestisce impianti fotovoltaici, sistemi di accumulo e interventi di efficienza energetica in tutta Italia."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

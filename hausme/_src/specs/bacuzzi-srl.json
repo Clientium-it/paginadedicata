@@ -1,0 +1,15 @@
+{
+ "slug": "bacuzzi-srl",
+ "company": "Bacuzzi",
+ "full_name": "Commerciale",
+ "first": "Commerciale",
+ "linkedin": "https://www.linkedin.com/in/commerciale-bacuzzi-a430a31b2",
+ "cover_note": "Bacuzzi esegue rifacimenti totali o parziali di appartamenti, case indipendenti, negozi, immobili industriali ed edifici pubblici.",
+ "evidence": [
+  {
+   "url": "https://bacuzzi.com/",
+   "quote": "eseguiamo opere di rifacimento totale o parziale di appartamenti, case indipendenti, negozi, immobili industriali, edifici pubblici."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

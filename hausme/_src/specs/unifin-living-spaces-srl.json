@@ -1,0 +1,19 @@
+{
+ "slug": "unifin-living-spaces-srl",
+ "company": "Unifin",
+ "full_name": "Michele",
+ "first": "Michele",
+ "linkedin": "https://www.linkedin.com/in/michele-putrino-251921102",
+ "cover_note": "Unifin ha realizzato il Palais Weber con uffici, spazi commerciali e appartamenti luminosi in un edificio a standard KlimaHaus A.",
+ "evidence": [
+  {
+   "url": "https://www.unifin.bz/portfolio/palais-weber/",
+   "quote": "Im Palais Weber befinden sich sowohl Büro- und Geschäftsflächen als auch helle sonnige Wohnungen."
+  },
+  {
+   "url": "https://www.unifin.bz/portfolio/palais-weber/",
+   "quote": "Das im KlimaHaus-A-Standard errichtete Gebäude ist modern und offen gestaltet."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

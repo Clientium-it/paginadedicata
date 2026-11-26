@@ -1,0 +1,19 @@
+{
+ "slug": "gecontract-s-r-l",
+ "company": "Gecontract",
+ "full_name": "Luca",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-piccirilli-0b2a06153",
+ "cover_note": "Gecontract ha sedi a Rimini e Bologna e tra i suoi interventi c'è la demolizione e ricostruzione di un vecchio mulino destinato a struttura ricettiva.",
+ "evidence": [
+  {
+   "url": "https://gecontract.com/lavori/",
+   "quote": "Intervento di demolizione e ricostruzione di un vecchio mulino finalizzato alla realizzazione di una struttura ricettiva, comprensivo di opere edili, impiantistiche, finiture interne ed esterne"
+  },
+  {
+   "url": "https://gecontract.com/lavori/",
+   "quote": "Piazzetta Dossi, 24 – Rimini mail: info@gecontract.com whatsapp: 393 222 5028 Via Giuseppe Mezzofanti, 25 – Bologna"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

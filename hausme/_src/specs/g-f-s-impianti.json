@@ -1,0 +1,19 @@
+{
+ "slug": "g-f-s-impianti",
+ "company": "GFS",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-castratori",
+ "cover_note": "GFS nasce nel 1998 come impresa artigiana fondata da Enrico Gentilini e realizza grandi capannoni di stoccaggio chiavi in mano per catene di supermercati in tutta Italia.",
+ "evidence": [
+  {
+   "url": "https://www.gfsimpiantisrl.com/chi-siamo",
+   "quote": "REALIZZANDO GRANDI CAPANNONI DI STOCCAGGIO, CONSEGNANDO \"CHIAVI IN MANO\" PER DIVERSE CATENE DI SUPERMERCATI, IN TUTTA ITALIA."
+  },
+  {
+   "url": "https://www.gfsimpiantisrl.com/chi-siamo",
+   "quote": "LA GFS NASCE NEL 1998, COME IMPRESA ARTIGIANA, FONDATA DA ENRICO GENTILINI"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "ecoenergy-new-s-r-l",
+ "company": "Ecoenergy",
+ "full_name": "Sergio",
+ "first": "Sergio",
+ "linkedin": "https://www.linkedin.com/in/sergio-zannotti-8a763453",
+ "cover_note": "Ecoenergy nasce nel 2004 da un'idea di Aldo Cursi sulle rinnovabili e ha un impianto di proprietà da 1 Megawatt diventato parco didattico.",
+ "evidence": [
+  {
+   "url": "https://www.ecoenergynew.com/chi-siamo/",
+   "quote": "Ecoenergy nasce nel 2004 su iniziativa del Sig. Aldo Cursi, che intuisce che le energie rinnovabili, il cui utilizzo a quel tempo era quasi utopia, sarebbero state fondamentali per il nostro futuro."
+  },
+  {
+   "url": "https://www.ecoenergynew.com/chi-siamo/",
+   "quote": "uno di proprietà da 1 Megawatt e diventato poi anche parco didattico, denominato “ la collina nel sole”"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

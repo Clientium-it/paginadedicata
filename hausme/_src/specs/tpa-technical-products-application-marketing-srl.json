@@ -1,0 +1,19 @@
+{
+ "slug": "tpa-technical-products-application-marketing-srl",
+ "company": "TPA",
+ "full_name": "Federico",
+ "first": "Federico",
+ "linkedin": "https://www.linkedin.com/in/federicostellatpa",
+ "cover_note": "TPA è nata a Milano negli anni '90, lavora in Italia e all'estero nelle applicazioni specialistiche per l'edilizia e ha una sede a Barcellona.",
+ "evidence": [
+  {
+   "url": "https://www.tpasrl.com/it/azienda",
+   "quote": "TPA è nata negli anni ‘90 a Milano ed opera a livello nazionale ed internazionale nel campo delle applicazioni specialistiche per l’edilizia."
+  },
+  {
+   "url": "https://www.tpasrl.com/it/azienda",
+   "quote": "TPA guarda con interesse al mercato estero ed ha rafforzato la sua apertura con la sede Spagnola di Barcellona."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

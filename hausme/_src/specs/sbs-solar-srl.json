@@ -1,0 +1,19 @@
+{
+ "slug": "sbs-solar-srl",
+ "company": "SBS Solar",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-spedini-056aa32",
+ "cover_note": "SBS Solar da oltre 20 anni realizza impianti chiavi in mano ed è specializzata in inseguitori monoassiali industriali e agrivoltaici, con oltre 150 MWp complessivi.",
+ "evidence": [
+  {
+   "url": "https://sbssolar.it/",
+   "quote": "Da oltre 20 anni sviluppa, progetta e realizza impianti “chiavi in mano” ed è specializzata nel campo degli inseguitori mono-assiali Industriali e Agrivoltaici."
+  },
+  {
+   "url": "https://sbssolar.it/",
+   "quote": "vantando, ad oggi, una capacità complessiva di oltre 150 MWp"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

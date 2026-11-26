@@ -1,0 +1,19 @@
+{
+ "slug": "dm-ascensori-s-r-l",
+ "company": "DM Ascensori",
+ "full_name": "Davide",
+ "first": "Davide",
+ "linkedin": "https://www.linkedin.com/in/davidemasini",
+ "cover_note": "DM Ascensori installa impianti in edifici nuovi ed esistenti tra Como, Varese, Milano e Monza Brianza e realizza anche opere murarie e carpenteria metallica.",
+ "evidence": [
+  {
+   "url": "https://dmascensori.it/chi-siamo/",
+   "quote": "Oltre all’installazione di impianti in edifici nuovi ed esistenti, anche con incastellature metalliche per interno ed esterno, offriamo un servizio professionale di manutenzione e realizziamo opere murarie e di carpenteria metallica"
+  },
+  {
+   "url": "https://dmascensori.it/chi-siamo/",
+   "quote": "Operiamo nelle province di Como, Varese, Milano e Monza Brianza, realizzando impianti artigianali"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

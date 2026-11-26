@@ -1,0 +1,19 @@
+{
+ "slug": "samso-s-p-a",
+ "company": "Samsø",
+ "full_name": "Chiara",
+ "first": "Chiara",
+ "linkedin": "https://www.linkedin.com/in/chiara-bruschi-8119b15",
+ "cover_note": "Samsø è una ESCo certificata UNI 11352 che progetta, finanzia e gestisce interventi di efficienza energetica con sedi a Milano, Padova e Nocera Superiore.",
+ "evidence": [
+  {
+   "url": "https://www.samso.it/chi-siamo/",
+   "quote": "Samsø è una ESCo (Energy Service Company) certificata UNI 11352 e ISO 9001. Ci occupiamo di progettazione, realizzazione, finanziamento e gestione di progetti di efficienza energetica e energie rinnovabili su tutto il territorio nazionale."
+  },
+  {
+   "url": "https://www.samso.it/chi-siamo/",
+   "quote": "Via Vittor Pisani, 10 - 20124 Milano Via Giacinto Andrea Longhin, 23 - 35131 Padova Via Monte del Vesuvio, 2a - 84015 Nocera Superiore (SA)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "3wire-s-r-l",
+ "company": "3Wire",
+ "full_name": "Nicola",
+ "first": "Nicola",
+ "linkedin": "https://www.linkedin.com/in/nicola-de-carlo-4ba6643",
+ "cover_note": "3Wire progetta e realizza impianti elettrici civili e industriali e ha programmato una domotica KNX che governa un'intera casa dalle luci alla climatizzazione.",
+ "evidence": [
+  {
+   "url": "https://www.3wire.it/it/portfolio/torino-800/",
+   "quote": "3WIRE srl in questo caso si è occupata della programmazione dell'impianto di domotica KNX che governa l'intera casa, dalle luci alla climatizzazione."
+  },
+  {
+   "url": "https://www.3wire.it/it/home/",
+   "quote": "Da sempre ci occupiamo di progettare e realizzare impianti elettrici civili ed industriali."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "sinertech-srl",
+ "company": "Sinertech",
+ "full_name": "Massimo",
+ "first": "Massimo",
+ "linkedin": "https://www.linkedin.com/in/massimo-motroni-b1830037",
+ "cover_note": "Sinertech da oltre 40 anni analizza, progetta e realizza sistemi di sicurezza, antintrusione, videocontrollo e antincendio personalizzati in tutta la Toscana.",
+ "evidence": [
+  {
+   "url": "https://phelettronica.it/come-lavoriamo/",
+   "quote": "Da oltre 40 anni ci impegniamo nell’analisi, nella progettazione e nell’implementazione di sistemi di sicurezza personalizzati in tutta la Toscana"
+  },
+  {
+   "url": "https://phelettronica.it/come-lavoriamo/",
+   "quote": "sistemi di sicurezza, antintrusione, videocontrollo e antincendio"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

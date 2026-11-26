@@ -1,0 +1,19 @@
+{
+ "slug": "seven-italia-s-r-l",
+ "company": "Seven Italia",
+ "full_name": "Federico",
+ "first": "Federico",
+ "linkedin": "https://www.linkedin.com/in/federico-paravano-a6ba9373",
+ "cover_note": "Seven Italia è nata nel 1992, si è evoluta seguendo lo sviluppo tecnologico e lavora soprattutto in Friuli Venezia Giulia e Veneto.",
+ "evidence": [
+  {
+   "url": "https://www.sevenitalia.it/pagina/chi-siamo",
+   "quote": "Nata nel 1992 , Seven Italia Srl si è evoluta costantemente in linea con lo sviluppo tecnologico"
+  },
+  {
+   "url": "https://www.sevenitalia.it/pagina/chi-siamo",
+   "quote": "Seven Italia Srl offre i suoi servizi principalmente in Friuli Venezia Giulia e Veneto"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

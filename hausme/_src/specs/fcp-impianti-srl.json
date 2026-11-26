@@ -1,0 +1,19 @@
+{
+ "slug": "fcp-impianti-srl",
+ "company": "FCP Impianti",
+ "full_name": "Svevio",
+ "first": "Svevio",
+ "linkedin": "https://www.linkedin.com/in/svevio-mantovani-23b46a19b",
+ "cover_note": "FCP Impianti fa impianti elettrici dal 1995 con gli stessi due soci e ha seguito un edificio commerciale di circa 6.000 mq a Garbagnate Milanese.",
+ "evidence": [
+  {
+   "url": "https://fcpimpianti.it/chi-siamo/",
+   "quote": "FCP Impianti opera nel settore della Progettazione, Realizzazione e Manutenzione di impianti elettrici dal 1995, anno in cui i due soci tutt’ora in carica hanno intrapreso l’attività."
+  },
+  {
+   "url": "https://fcpimpianti.it/",
+   "quote": "Edificio Commerciale GARBAGNATE Anno 2019 – Visualizza Foto Via Peloritana – Garbagnate Milanese (MI) Superficie Totale circa 6.000 mq"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "gruppo-costruttori-italiani",
+ "company": "Gruppo Costruttori Italiani",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-lazzaroni-452b89232",
+ "cover_note": "Gruppo Costruttori Italiani è un network di aziende edili certificate che consegna chiavi in mano con un solo interlocutore e coordina le squadre.",
+ "evidence": [
+  {
+   "url": "https://gruppocostruttoriitaliani.it/clienti/",
+   "quote": "Avrai a che fare con un solo interlocutore, il consorzio, e penseremo noi a gestire tutto e a consegnarti il lavoro “chiavi in mano”. Direzione lavori, organizzazione e gestione documentale, coordinazione squadre e monitoraggio di ogni singolo e più piccolo aspetto della commessa."
+  },
+  {
+   "url": "https://gruppocostruttoriitaliani.it/clienti/",
+   "quote": "Gruppo Costruttori Italiani è un network di aziende edili certificate."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

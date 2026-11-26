@@ -1,0 +1,19 @@
+{
+ "slug": "alternativa-impianti-srl",
+ "company": "Alternativa Impianti",
+ "full_name": "Giulio",
+ "first": "Giulio",
+ "linkedin": "https://www.linkedin.com/in/giulio-bongianni-56b168195",
+ "cover_note": "Alternativa Impianti dal 2013 ha installato oltre 8.000 kWp per più di 2.500 clienti in tutta Italia con sede operativa a San Giuliano Terme.",
+ "evidence": [
+  {
+   "url": "https://alternativaimpianti.com/chi-siamo/",
+   "quote": "Dal 2013, anno della nostra nascita, abbiamo installato più di 8.000 KWp, con più di 2.500 clienti soddisfatti in tutta Italia"
+  },
+  {
+   "url": "https://alternativaimpianti.com/chi-siamo/",
+   "quote": "SEDE OPERATIVA Via Giosuè Carducci n° 60/B Località La Fontina 56017 San Giuliano Terme (PI)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

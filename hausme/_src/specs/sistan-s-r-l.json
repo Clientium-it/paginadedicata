@@ -1,0 +1,19 @@
+{
+ "slug": "sistan-s-r-l",
+ "company": "Kelifos",
+ "full_name": "Simone",
+ "first": "Simone",
+ "linkedin": "https://www.linkedin.com/in/simone-freddi-679927243",
+ "cover_note": "Kelifos realizza in stabilimento un prodotto progettato e costruito con acciaio lavorato da macchine a controllo numerico e pronto per tutte le funzioni della domotica.",
+ "evidence": [
+  {
+   "url": "https://www.kelifos.it/",
+   "quote": "Progettata e costruita in stabilimento, dove la lavorazione dell’acciaio e degli altri componenti è eseguita per mezzo di macchine a controllo numerico, prevede tutte le soluzioni offerte dalla domotica."
+  },
+  {
+   "url": "https://www.kelifos.it/",
+   "quote": "Via G. Saragat, 21 Serra De’ Conti (AN)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

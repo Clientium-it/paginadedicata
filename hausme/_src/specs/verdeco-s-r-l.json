@@ -1,0 +1,19 @@
+{
+ "slug": "verdeco-s-r-l",
+ "company": "Verdeco",
+ "full_name": "Alessandro",
+ "first": "Alessandro",
+ "linkedin": "https://www.linkedin.com/in/alessandro-rosan%c3%b2-b8124b26",
+ "cover_note": "Verdeco offre interventi chiavi in mano di efficienza energetica dal fotovoltaico alla riqualificazione edilizia con team di ingegneria dalla concezione alla realizzazione.",
+ "evidence": [
+  {
+   "url": "https://verdeco.it/",
+   "quote": "Con la soluzione chiavi in mano di Verdeco puoi beneficiare di interventi di efficienza energetica dalla realizzazione di impianti fotovoltaici alla riqualificazione edilizia più sostenibile e resiliente."
+  },
+  {
+   "url": "https://verdeco.it/",
+   "quote": "I nostri team di ingegneria uniscono competenze nel settore delle costruzioni e dell’efficientamento energetico per guidare progetti di ogni complessità, dalla concezione alla realizzazione."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

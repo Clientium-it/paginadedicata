@@ -1,0 +1,15 @@
+{
+ "slug": "dg-automazioni-s-r-l",
+ "company": "DG Automazioni",
+ "full_name": "Nico",
+ "first": "Nico",
+ "linkedin": "https://www.linkedin.com/in/nico-de-grandis-600bab60",
+ "cover_note": "DG Automazioni nasce nel 2000 nell'automazione di impianti per l'alimentare e poi si è allargata a chimico, lavorazione del ferro e rinnovabili.",
+ "evidence": [
+  {
+   "url": "https://dgautomazioni.com/chi-siamo/",
+   "quote": "La nostra storia inizia nel 2000 come azienda specializzata nell’ automazione d’impianti nel settore alimentare . Negli anni ci siamo espansi in vari settori: nel dosaggio materiali, nel settore chimico e nella lavorazione del ferro fino alla realizzazione di impianti per la produzione di energia da fonti rinnovabili."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "sistel-impianti-srl",
+ "company": "Sistel Impianti",
+ "full_name": "Daniele",
+ "first": "Daniele",
+ "linkedin": "https://www.linkedin.com/in/daniele-ronchi-51319634",
+ "cover_note": "Sistel Impianti realizza impianti elettrici per industria e terziario, cabine di trasformazione prefabbricate o in container e quadri Power Center e Motor Control Center.",
+ "evidence": [
+  {
+   "url": "https://www.sistelimpianti.it/",
+   "quote": "dispone di personale qualificato e attrezzatura idonea alla realizzazione di impianti elettrici per il settore industriale e/o terziario tra cui: Cabine di trasformazione BT-MT sia in strutture prefabbricate che in container"
+  },
+  {
+   "url": "https://www.sistelimpianti.it/",
+   "quote": "Realizzazione quadri elettrici di tipo “Power Center” per piccole, medie e grandi potenze con segregazione in forma 1 – 2 – 2b – 3 – 3b – 4 – 4b Realizzazione quadri elettrici di tipo “Motor Control Center” (MCC) a cassetti fissi ed estraibili"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

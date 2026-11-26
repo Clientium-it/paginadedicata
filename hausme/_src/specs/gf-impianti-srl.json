@@ -1,0 +1,19 @@
+{
+ "slug": "gf-impianti-srl",
+ "company": "GF Impianti",
+ "full_name": "Emanuele",
+ "first": "Emanuele",
+ "linkedin": "https://www.linkedin.com/in/emanuele-gamberini-5ba369138",
+ "cover_note": "GF Impianti ha sede a Caronno Pertusella e lavora esclusivamente con i privati affiancandoli nella scelta dell'impianto giusto per ogni esigenza.",
+ "evidence": [
+  {
+   "url": "https://www.gfimpianti.eu/",
+   "quote": "Gennaro mira alla soddisfazione del cliente, questo lo porta a concentrare il suo lavoro esclusivamente con i privati, riuscendo in tal modo ad affiancarli nelle scelte delle soluzioni ottimali per ogni singola esigenza."
+  },
+  {
+   "url": "https://www.gfimpianti.eu/",
+   "quote": "nasce la GF IMPIANTI SRL con sede a Caronno Pertusella (VA)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

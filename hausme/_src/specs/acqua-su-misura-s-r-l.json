@@ -1,0 +1,19 @@
+{
+ "slug": "acqua-su-misura-s-r-l",
+ "company": "Acqua",
+ "full_name": "Alessandro",
+ "first": "Alessandro",
+ "linkedin": "https://www.linkedin.com/in/alessandro-stecher-17189933",
+ "cover_note": "Acqua su Misura da 40 anni lavora nella prevenzione e nel controllo del trattamento delle acque con un laboratorio accreditato ACCREDIA.",
+ "evidence": [
+  {
+   "url": "https://www.acquasumisura.it/",
+   "quote": "ASM è concentrata da 40 anni a percorrere con i suoi clienti un cammino lungimirante di prevenzione e controllo nel trattamento delle acque"
+  },
+  {
+   "url": "https://www.acquasumisura.it/",
+   "quote": "Il Laboratorio è in possesso dell'accreditamento ACCREDIA."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

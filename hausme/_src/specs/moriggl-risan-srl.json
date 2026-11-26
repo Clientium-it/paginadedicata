@@ -1,0 +1,19 @@
+{
+ "slug": "moriggl-risan-srl",
+ "company": "Moriggl Risan",
+ "full_name": "Thomas",
+ "first": "Thomas",
+ "linkedin": "https://www.linkedin.com/in/thomas-moriggl-62728b102",
+ "cover_note": "Moriggl Risan risana le tubazioni dall'interno dal 1993 e per ogni unità abitativa impiega in media da 3 a 5 giorni lasciando l'immobile abitabile.",
+ "evidence": [
+  {
+   "url": "https://www.risan.it/de/",
+   "quote": "Für eine Wohneinheit benötigen wir im Durchschnitt ca. 3-5 Tage. Die Liegenschaft bleibt auch während der Sanierung bewohnbar"
+  },
+  {
+   "url": "https://www.risan.it/de/",
+   "quote": "Rohrsanierung von innen seit 1993"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "montanari-maurizio-s-r-l",
+ "company": "Montanari",
+ "full_name": "Maurizio",
+ "first": "Maurizio",
+ "linkedin": "https://www.linkedin.com/in/maurizio-montanari-2079071b4",
+ "cover_note": "Montanari è nata nel 1988 come centro assistenza autorizzato Immergas e oggi con venti persone segue assistenza e manutenzione delle caldaie.",
+ "evidence": [
+  {
+   "url": "https://www.montanari-srl.it/chi-siamo/",
+   "quote": "Nata nel 1988 come Centro Assistenza Tecnica Autorizzato Immergas , la Montanari Maurizio Srl ha maturato una pluriennale esperienza nel settore dell’ assistenza e manutenzione delle caldaie"
+  },
+  {
+   "url": "https://www.montanari-srl.it/chi-siamo/",
+   "quote": "Il nostro team conta sul lavoro costante di venti persone, una squadra affiatata pronta a rispondere alle richieste dei clienti, quotidianamente."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

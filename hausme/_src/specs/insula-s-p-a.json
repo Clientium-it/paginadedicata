@@ -1,0 +1,19 @@
+{
+ "slug": "insula-s-p-a",
+ "company": "Insula",
+ "full_name": "Alessandra",
+ "first": "Alessandra",
+ "linkedin": "https://www.linkedin.com/in/alessandra-bolognin-923071350",
+ "cover_note": "Insula dal 2021 si occupa in via esclusiva della manutenzione e gestione di circa 5.000 immobili residenziali del Comune tra centro storico, isole e terraferma.",
+ "evidence": [
+  {
+   "url": "https://insula.it/chi-siamo/",
+   "quote": "Dal 1 agosto 2021 ci occupiamo in via esclusiva e specializzata di manutenzione e gestione dei circa 5.000 immobili residenziali di proprietà del Comune, ubicati nel centro storico, nelle isole ed in terraferma."
+  },
+  {
+   "url": "https://insula.it/chi-siamo/",
+   "quote": "Siamo nati il 10 luglio 1997"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

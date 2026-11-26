@@ -1,0 +1,19 @@
+{
+ "slug": "co-im-s-r-l",
+ "company": "CO.IM.",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-panizza-856749234",
+ "cover_note": "CO.IM. costruisce e ristruttura palazzine, villette e condomini e tra i lavori mostra l'asilo di Cavezzo e il Teatro Facchini.",
+ "evidence": [
+  {
+   "url": "https://www.costruzioniimmobiliaricavezzo.it/realizzazioni/",
+   "quote": "ci occupiamo della costruzione e ristrutturazione di edifici civili come palazzine , villette e condomini"
+  },
+  {
+   "url": "https://www.costruzioniimmobiliaricavezzo.it/realizzazioni/",
+   "quote": "Asilo Cavezzo Scopri di più Teatro Facchini"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

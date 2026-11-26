@@ -1,0 +1,19 @@
+{
+ "slug": "ma-impianti-s-r-l",
+ "company": "MA Impianti",
+ "full_name": "Mirco",
+ "first": "Mirco",
+ "linkedin": "https://www.linkedin.com/in/mirco-parrino-aa0456144",
+ "cover_note": "MA Impianti ha oltre 25 anni di esperienza in infrastrutture complesse e insediamenti industriali personalizzati e opera come General Contractor con la regia dell'intero progetto.",
+ "evidence": [
+  {
+   "url": "https://maimpianti.com/chi-siamo/",
+   "quote": "MA Impianti è un’azienda Italiana con oltre 25 anni d’esperienza nella progettazione e realizzazione integrata di infrastrutture complesse ed insediamenti industriali personalizzati."
+  },
+  {
+   "url": "https://maimpianti.com/chi-siamo/",
+   "quote": "Si opera quindi come General Contractor, avendo in carico la regia dell’intero progetto"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

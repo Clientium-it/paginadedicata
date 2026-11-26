@@ -1,0 +1,19 @@
+{
+ "slug": "klimt-s-r-l",
+ "company": "Klimt",
+ "full_name": "Tommaso",
+ "first": "Tommaso",
+ "linkedin": "https://www.linkedin.com/in/tommaso-pellegrini-b686ba142",
+ "cover_note": "Klimt nasce nel 2019 come centro assistenza strutturato per gli installatori locali, con sedi a Trento e Bolzano e attività in tutto il Trentino Alto Adige.",
+ "evidence": [
+  {
+   "url": "https://www.klimt.srl/",
+   "quote": "Klimt nasce nel 2019 come risposta alla crescente necessità degli installatori locali di avere un centro assistenza strutturato in grado di operare su tutto il territorio."
+  },
+  {
+   "url": "https://www.klimt.srl/",
+   "quote": "Klimt srl con sede a Trento e a Bolzano opera in tutta la Regione Trentino-AltoAdige"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

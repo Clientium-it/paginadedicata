@@ -1,0 +1,19 @@
+{
+ "slug": "grande-sole-immobiliare-s-r-l",
+ "company": "Grande Sole",
+ "full_name": "Stefano",
+ "first": "Stefano",
+ "linkedin": "https://www.linkedin.com/in/stefano-barozzi-808032280",
+ "cover_note": "Grande Sole presenta Stefano Barozzi e Stefano Marzadori, che hanno progettato e realizzato interventi per alcune migliaia di appartamenti e edifici produttivi e logistici.",
+ "evidence": [
+  {
+   "url": "https://www.grandesole.it/chi-siamo/",
+   "quote": "Stefano Barozzi e Stefano Marzadori hanno progettato e realizzato interventi edilizi ad uso abitativo per alcune migliaia di appartamenti e molte decine di migliaia di metri quadrati di edifici ad uso produttivo, artigianale, logistico e direzionale"
+  },
+  {
+   "url": "https://www.grandesole.it/chi-siamo/",
+   "quote": "Bologna, comuni della città metropolitana e Milano Marittima"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}
