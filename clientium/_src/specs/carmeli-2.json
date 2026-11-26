@@ -1,0 +1,28 @@
+{
+ "slug": "carmeli-2",
+ "company": "Gruppo Carmeli",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gruppo Carmeli dal 1976 è concessionaria e service ufficiale di Renault, Dacia, Nissan e Mercedes con 9 sedi tra Brescia, Bergamo e Cremona. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Carmeli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Carmeli.",
+ "evidence": [
+  {
+   "claim": "Gruppo Carmeli dal 1976 è concessionaria e service ufficiale di Renault, Dacia, Nissan e Mercedes con 9 sedi tra Brescia, Bergamo e Cremona.",
+   "url": "https://gruppocarmeli.concessionaria.renault.it/chi-siamo/",
+   "quote": "Gruppo Carmeli dal 1976 non ha mai smesso di crescere fino a diventare una delle aziende più autorevoli, efficienti e riconosciute del mondo automotive. Concessionaria e service ufficiale dei marchi Renault, Dacia, Nissan, DR, Sportequipe, ICH-X, Mercedes e Smart. || Oltre 40 anni di storia e 9 sedi autorevoli tra Brescia, Bergamo e Cremona, diventando così la concessionaria di fiducia di centinaia di automobilisti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

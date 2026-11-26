@@ -1,0 +1,28 @@
+{
+ "slug": "eigenmann-veronelli-10",
+ "company": "Eigenmann & Veronelli Group",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Eigenmann & Veronelli distribuisce prodotti per nutrizione, healthcare, beauty e personal care, coatings e construction, materiali avanzati e performance solutions, con sede a Pero. Qui trova come lavoriamo e cosa potremmo fare per Eigenmann & Veronelli Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Eigenmann & Veronelli Group.",
+ "evidence": [
+  {
+   "claim": "Eigenmann & Veronelli distribuisce prodotti per nutrizione, healthcare, beauty e personal care, coatings e construction, materiali avanzati e performance solutions, con sede a Pero.",
+   "url": "https://www.eigver.com/en/about-us/who-we-are/",
+   "quote": "We distribute over 5.0 00 products and provide innovative services to our network of more than 250 suppliers and 6.500 customers || EV is headquartered in Pero (MI) Italy, with commercial offices in Barcelona , Istanbul, Warsaw and Dubai. || specialized in nutrition, healthcare, beauty & personal care, coatings & construction, advanced materials and performance solutions"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

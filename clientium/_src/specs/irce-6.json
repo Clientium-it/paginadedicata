@@ -1,0 +1,28 @@
+{
+ "slug": "irce-6",
+ "company": "IRCE",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IRCE produce fili smaltati per avvolgimenti e cavi isolati per il trasporto di energia, con stabilimenti a Guglionesi e Umbertide. Qui trova come lavoriamo e cosa potremmo fare per IRCE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IRCE.",
+ "evidence": [
+  {
+   "claim": "IRCE produce fili smaltati per avvolgimenti e cavi isolati per il trasporto di energia, con stabilimenti a Guglionesi e Umbertide.",
+   "url": "https://www.irce.it/ita/storia.php",
+   "quote": "IRCE è un gruppo industriale di rilevanza europea, con due aree di attività: • conduttori per avvolgimento di macchine elettriche, comunemente chiamati fili smaltati; • cavi isolati per il trasporto di energia. || L'attività produttiva si rafforza negli anni successivi con l'acquisizione degli impianti di Guglionesi (1984) che producono cavi elettrici, e, nel 1995, di quello di Umbertide, per la produzione di fili smaltati. || Utilizzati in molteplici applicazioni quali motori e generatori elettrici, trasformatori, induttanze e relais."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

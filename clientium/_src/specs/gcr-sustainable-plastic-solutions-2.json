@@ -1,0 +1,28 @@
+{
+ "slug": "gcr-sustainable-plastic-solutions-2",
+ "company": "GCR Sustainable Plastic Solutions",
+ "first_name": "Gabriele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "GCR sviluppa e produce soluzioni plastiche sostenibili per brand owner e trasformatori in oltre 100 paesi, dalla sede di La Bisbal del Penedés in Spagna. Qui trova come lavoriamo e cosa potremmo fare per GCR Sustainable Plastic Solutions.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GCR Sustainable Plastic Solutions.",
+ "evidence": [
+  {
+   "claim": "GCR sviluppa e produce soluzioni plastiche sostenibili per brand owner e trasformatori in oltre 100 paesi, dalla sede di La Bisbal del Penedés in Spagna.",
+   "url": "https://gcrplasticsolutions.com/about-us/",
+   "quote": "GCR develops and produces high-performance sustainable plastic solutions , serving brand owners and plastic processors looking for advanced mineral masterbatches and recycled polyolefins and compounds || Headquarters La Bisbal del Penedés. Tarragona, Spain Production capacity +500,000 mT/y Employees +300 24 nationalities International presence: +100 countries || Developed for brand owners and top-tier converters, it combines quality, consistency, and traceability to accelerate sustainability targets without trade-offs"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

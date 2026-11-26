@@ -1,0 +1,28 @@
+{
+ "slug": "aeg-power-solutions-2",
+ "company": "AEG Power Solutions",
+ "first_name": "Daniela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "AEG Power Solutions da oltre 75 anni sviluppa soluzioni per l'energia per settori come oil and gas, generazione elettrica, industria, trasporti e data center. Qui trova come lavoriamo e cosa potremmo fare per AEG Power Solutions.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per AEG Power Solutions.",
+ "evidence": [
+  {
+   "claim": "AEG Power Solutions da oltre 75 anni sviluppa soluzioni per l'energia per settori come oil and gas, generazione elettrica, industria, trasporti e data center.",
+   "url": "https://www.aegps.com/en/about/",
+   "quote": "For over 75 years, we have been taking on all industries, all environments and all challenges. || Across oil and gas, conventional and renewable power generation, manufacturing, transportation and IT, our innovative solutions are also covering the energy transition towards a more sustainable future. || Oil & Gas Nuclear Power & Utilities Transportation Data Centers & Networks Process & Light Industry"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

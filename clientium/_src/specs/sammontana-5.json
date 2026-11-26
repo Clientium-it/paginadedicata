@@ -1,0 +1,28 @@
+{
+ "slug": "sammontana-5",
+ "company": "Sammontana",
+ "first_name": "Nino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sammontana ha sede a Empoli con sei siti produttivi in Italia, uno in Francia e uno negli Stati Uniti, e serve bar e distribuzione moderna. Qui trova come lavoriamo e cosa potremmo fare per Sammontana.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sammontana.",
+ "evidence": [
+  {
+   "claim": "Sammontana ha sede a Empoli con sei siti produttivi in Italia, uno in Francia e uno negli Stati Uniti, e serve bar e distribuzione moderna.",
+   "url": "https://www.sammontanaitalia.com/it/sammontana-italia/l-azienda-oggi.html",
+   "quote": "Siamo una grande impresa con circa 900 milioni di fatturato e oltre 2400 persone || Abbiamo sede a Empoli, sei siti produttivi in Italia, 1 in Francia e 1 negli Stati Uniti || Abbiamo contribuito a sviluppare il canale tradizionale del bar e oggi lo affianchiamo verso nuovi concetti di servizio, come fornitori unici del freddo. Siamo partner affidabili e competenti della distribuzione moderna, che serviamo anche per la marca dell’insegna."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

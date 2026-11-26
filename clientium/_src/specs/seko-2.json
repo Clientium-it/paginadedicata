@@ -1,0 +1,28 @@
+{
+ "slug": "seko-2",
+ "company": "SEKO",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SEKO dal 1976 produce sistemi di dosaggio chimico per i settori del trattamento acque, pulizia e igiene con 22 filiali nel mondo. Qui trova come lavoriamo e cosa potremmo fare per SEKO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SEKO.",
+ "evidence": [
+  {
+   "claim": "SEKO dal 1976 produce sistemi di dosaggio chimico per i settori del trattamento acque, pulizia e igiene con 22 filiali nel mondo.",
+   "url": "https://www.seko.com/de/site/who-we-are",
+   "quote": "Seit 1976 stellt SEKO mit seiner Konstruktions- und Fertigungskompetenz eine konkurrenzlose Präzision, Konsistenz und Zuverlässigkeit bei der Chemikaliendosierung für die Wasseraufbereitungs-, Reinigungs- und Hygieneindustrie bereit. || with 22 worldwide subsidiaries and region-specific solutions ideal for you and your process || within the cleaning & hygiene and water-treatment industries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

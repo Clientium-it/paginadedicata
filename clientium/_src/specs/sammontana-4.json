@@ -1,0 +1,28 @@
+{
+ "slug": "sammontana-4",
+ "company": "Sammontana",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sammontana dopo 80 anni produce gelato e pasticceria surgelata, con sede a Empoli. Qui trova come lavoriamo e cosa potremmo fare per Sammontana.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sammontana.",
+ "evidence": [
+  {
+   "claim": "Sammontana dopo 80 anni produce gelato e pasticceria surgelata, con sede a Empoli.",
+   "url": "https://www.sammontana.it/sammontana/Chi-siamo.html",
+   "quote": "Dopo 80 anni, Sammontana oggi è la prima azienda italiana di gelato ed è il leader della pasticceria surgelata nel Paese || Via Tosco Romagnola, 56 - 50053 Empoli (FI) - Tel. 800 403858 - P.Iva 03957900487"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

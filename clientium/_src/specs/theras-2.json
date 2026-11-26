@@ -1,0 +1,28 @@
+{
+ "slug": "theras-2",
+ "company": "Theras",
+ "first_name": "Elena",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Theras lavora con partner e distributori di oltre 40 paesi da Salsomaggiore Terme per pazienti caregiver e personale medico infermieristico. Qui trova come lavoriamo e cosa potremmo fare per Theras.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Theras.",
+ "evidence": [
+  {
+   "claim": "Theras lavora con partner e distributori di oltre 40 paesi da Salsomaggiore Terme per pazienti caregiver e personale medico infermieristico.",
+   "url": "https://theras-group.com/il-mondo-si-incontra-nellheadquarter-di-theras-per-il-16th-pic-international-meeting/",
+   "quote": "l'Headquarter di Theras ha ospitato, per la prima volta, il sedicesimo PIC International Meeting, accogliendo partner e distributori provenienti da oltre 40 Paesi || Via Parma 112 - Salsomaggiore Terme (PR) || per dare una risposta concreta ai nostri pazienti, caregiver e personale medico-infermieristico"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

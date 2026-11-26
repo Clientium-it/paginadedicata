@@ -1,0 +1,28 @@
+{
+ "slug": "eurotecnica-contractors-and-engineers-2",
+ "company": "EUROTECNICA Contractors and Engineers",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Eurotecnica da oltre 60 anni progetta impianti per processi chimici, con 33 impianti Euromel per la melamina e progetti in Cina, Asia ed EMEA. Qui trova come lavoriamo e cosa potremmo fare per EUROTECNICA Contractors and Engineers.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per EUROTECNICA Contractors and Engineers.",
+ "evidence": [
+  {
+   "claim": "Eurotecnica da oltre 60 anni progetta impianti per processi chimici, con 33 impianti Euromel per la melamina e progetti in Cina, Asia ed EMEA.",
+   "url": "https://eurotecnica.it/",
+   "quote": "60+ years of innovation in chemical processes 33 Euromel® plants for 1.5M+ tonnes/year melamine || With a global reach spanning landmark projects in China, other parts of Asia and across the EMEA region || energy storage solutions for the chemical, petrochemical, and energy sectors"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

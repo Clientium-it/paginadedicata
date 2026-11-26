@@ -1,0 +1,28 @@
+{
+ "slug": "rdm-2",
+ "company": "RDM Group",
+ "first_name": "Samuele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "RDM Group ha sede a Milano e produce cartoncino per imballaggi di beni di consumo con 8 cartiere e 4 centri di taglio. Qui trova come lavoriamo e cosa potremmo fare per RDM Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RDM Group.",
+ "evidence": [
+  {
+   "claim": "RDM Group ha sede a Milano e produce cartoncino per imballaggi di beni di consumo con 8 cartiere e 4 centri di taglio.",
+   "url": "https://rdmgroup.com/about-us/our-group/",
+   "quote": "The Headquarters are in Milan (Italy) but it has a strategic presence internationally thanks to its 8 mills (3 in Italy, 1 in Germany, 1 in Spain, 2 in the Netherlands and 1 in Sweden), 4 sheeting centres (2 in Italy, 1 in Spain and 1 in U.S.) and a active sales network worldwide || 8 mills (3 in Italy, 1 in Germany, 1 in Spain, 2 in the Netherlands and 1 in Sweden), 4 sheeting centres (2 in Italy, 1 in Spain and 1 in U.S.) || RDM Group cartonboard is mainly used as packaging for consumer goods (foodstuffs, pharmaceuticals, household appliances, cosmetics and personal care products), commercial displays and toys"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "aia-3",
+ "company": "AIA",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "AIA da oltre 40 anni è presente sulle tavole degli italiani con prodotti freschi e genuini, con sede a Verona. Qui trova come lavoriamo e cosa potremmo fare per AIA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per AIA.",
+ "evidence": [
+  {
+   "claim": "AIA da oltre 40 anni è presente sulle tavole degli italiani con prodotti freschi e genuini, con sede a Verona.",
+   "url": "https://www.aiafood.com/it/",
+   "quote": "AIA è presente da oltre 40 anni sulle tavole degli italiani con prodotti freschi e genuini. || Sede Amministrativa: Via Valpantena, 18/G - Quinto di Valpantena 37142 Verona (Italia)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

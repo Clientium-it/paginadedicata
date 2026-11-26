@@ -1,0 +1,28 @@
+{
+ "slug": "delfort-2",
+ "company": "delfort",
+ "first_name": "Elena",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Delfort è un fornitore globale di soluzioni di carta altamente funzionali, nato unendo sotto un unico marchio stabilimenti con decenni di competenza specializzata. Qui trova come lavoriamo e cosa potremmo fare per delfort.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per delfort.",
+ "evidence": [
+  {
+   "claim": "Delfort è un fornitore globale di soluzioni di carta altamente funzionali, nato unendo sotto un unico marchio stabilimenti con decenni di competenza specializzata.",
+   "url": "https://delfortgroup.com/",
+   "quote": "Two decades ago, we united our mills under one umbrella brand, combining decades of specialized expertise. This step strengthened our position as a global supplier of highly functional paper solutions || Austria delfortgroup AG Dr. Franz Feurstein Ges.m.b.H Papierfabrik Wattens GmbH & Co KG Bulgaria Flexprint LTD. Czech Republic OP papírna, s.r.o. Roll4You, s.r.o. Finland Tervakoski Oy Germany Deutsche Benkert GmbH Isotek GmbH Hungary Dunafin Zrt"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "z-one-concept-2",
+ "company": "z.one concept",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Z.one concept nasce nel 1999 e opera nel settore professionale e della moda capelli sul mercato italiano e internazionale. Qui trova come lavoriamo e cosa potremmo fare per z.one concept.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per z.one concept.",
+ "evidence": [
+  {
+   "claim": "Z.one concept nasce nel 1999 e opera nel settore professionale e della moda capelli sul mercato italiano e internazionale.",
+   "url": "https://www.z-oneconcept.com/it/chi-siamo/",
+   "quote": "z.one concept™ nasce nel 1999 ed è oggi una delle più importanti realtà nel settore professionale e della moda capelli, sia nel mercato italiano che internazionale."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

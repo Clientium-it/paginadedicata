@@ -1,0 +1,28 @@
+{
+ "slug": "lynxeo-2",
+ "company": "Lynxeo",
+ "first_name": "Pier Vittorio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lynxeo progetta e produce cavi per asset critici con 2.000 dipendenti e 12 siti produttivi su 3 continenti. Qui trova come lavoriamo e cosa potremmo fare per Lynxeo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lynxeo.",
+ "evidence": [
+  {
+   "claim": "Lynxeo progetta e produce cavi per asset critici con 2.000 dipendenti e 12 siti produttivi su 3 continenti.",
+   "url": "https://www.lynxeogroup.com/en/company.html",
+   "quote": "We design and manufacture cables for critical assets, built to perform in harsh conditions || 2,000​ Employees across 12 production ​ sites on 3 continents || machine builders, system integrators, asset operators, and energy producers"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

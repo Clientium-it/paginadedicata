@@ -1,0 +1,28 @@
+{
+ "slug": "roehm-italia-2",
+ "company": "Roehm Italia",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Röhm è nata nel 1909 e produce dispositivi di serraggio per automotive, aviazione e aerospazio, veicoli ferroviari, settore energetico e micro tecnologia. Qui trova come lavoriamo e cosa potremmo fare per Roehm Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Roehm Italia.",
+ "evidence": [
+  {
+   "claim": "Röhm è nata nel 1909 e produce dispositivi di serraggio per automotive, aviazione e aerospazio, veicoli ferroviari, settore energetico e micro tecnologia.",
+   "url": "https://it.roehm.biz/",
+   "quote": "Fondata nel 1909, RÖHM è oggi considerata uno dei più importanti produttori di dispositivi di serraggio al mondo con una gamma di prodotti completa e ad alte prestazioni || Röhm Italia srl – Via Reiss Romoli, 17, 20019 Settimo Milanese MI – P.IVA 00816080154 – +39 02 9210 3531 – Duns Number: 431883321 || INDUSTRIA E ARTIGIANATO SETTORE AUTOMOTIVE AVIAZIONE E AEROSPAZIALE VEICOLI FERROVIARI SETTORE ENERGETICO MICRO TECNOLOGIA"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

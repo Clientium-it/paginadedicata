@@ -1,0 +1,28 @@
+{
+ "slug": "recom-power-2",
+ "company": "Recom Power GMBh",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "RECOM Power propone oltre 35.000 soluzioni di alimentazione, tra AC/DC, convertitori DC/DC, regolatori switching e driver LED, dalla sede di Gmunden in Austria. Qui trova come lavoriamo e cosa potremmo fare per Recom Power GMBh.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Recom Power GMBh.",
+ "evidence": [
+  {
+   "claim": "RECOM Power propone oltre 35.000 soluzioni di alimentazione, tra AC/DC, convertitori DC/DC, regolatori switching e driver LED, dalla sede di Gmunden in Austria.",
+   "url": "https://recom-power.com/en/index.html?0",
+   "quote": "With 35,000+ power supply solutions, RECOM Power offers one of the industry's most comprehensive portfolios, including AC/DC power supplies, DC/DC converters, switching regulators, LED drivers, and discrete power IC and transformer solutions. || RECOM Power GmbH & RECOM Engineering GmbH & Co KG Münzfeld 35 | 4810 Gmunden | Austria || The RACA100 and RACA150 series combine high energy efficiency, flexible connection options, and safety certifications for industrial and medical applications."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

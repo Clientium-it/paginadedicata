@@ -1,0 +1,28 @@
+{
+ "slug": "ronchi-mario-5",
+ "company": "Ronchi Mario",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ronchi Mario produce macchine per il confezionamento di prodotti liquidi chimici, cosmetici e alimentari dalla sua sede di Gessate su un'area di 30.000 m2. Qui trova come lavoriamo e cosa potremmo fare per Ronchi Mario.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ronchi Mario.",
+ "evidence": [
+  {
+   "claim": "Ronchi Mario produce macchine per il confezionamento di prodotti liquidi chimici, cosmetici e alimentari dalla sua sede di Gessate su un'area di 30.000 m2.",
+   "url": "https://www.ronchipackaging.it/ronchi-azienda/",
+   "quote": "RONCHI MARIO SpA indirizzava la propria azione verso la produzione di macchine per il confezionamento di prodotti liquidi chimici, cosmetici e alimentari, orientando il proprio business su scala globale. || La sede di Gessate, che sorge su un’area di 30.000 m2, di cui 16.000 coperti, è un moderno centro di sperimentazione e produzione. || nei settori dei prodotti per l’igiene personale, detergenza, industria farmaceutica ed alimentare"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

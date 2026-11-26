@@ -1,0 +1,28 @@
+{
+ "slug": "chemorbis-2",
+ "company": "ChemOrbis",
+ "first_name": "Rebecca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ChemOrbis offre informazioni di mercato per l'industria della plastica, con news, prezzi e analisi, e uffici in Cina, Malesia, Turchia, Italia ed Egitto. Qui trova come lavoriamo e cosa potremmo fare per ChemOrbis.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ChemOrbis.",
+ "evidence": [
+  {
+   "claim": "ChemOrbis offre informazioni di mercato per l'industria della plastica, con news, prezzi e analisi, e uffici in Cina, Malesia, Turchia, Italia ed Egitto.",
+   "url": "https://www.chemorbis.com/it/",
+   "quote": "Informazioni di Mercato per l'Industria Plastica: News, Prezzi e Analisi || ChemOrbis Cina cochina@chemorbis.com +86 (21) 6327 1212 ChemOrbis Malesia comalaysia@chemorbis.com +60 (3) 9212 8428 ChemOrbis Turchia coturkey@chemorbis.com +90 (216) 468 10 25 ChemOrbis Italia coitaly@chemorbis.com +39 (02) 8941 5593 ChemOrbis Egitto coegypt@chemorbis.com +20 106 3029 206"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

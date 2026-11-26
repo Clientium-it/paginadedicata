@@ -1,0 +1,28 @@
+{
+ "slug": "forgiatura-a-vienna-2",
+ "company": "FORGIATURA A. VIENNA",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Forgiatura Vienna realizza dai primi anni duemila componenti forgiati per applicazioni dell'industria nucleare dalla sua sede di Rho in provincia di Milano. Qui trova come lavoriamo e cosa potremmo fare per FORGIATURA A. VIENNA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FORGIATURA A. VIENNA.",
+ "evidence": [
+  {
+   "claim": "Forgiatura Vienna realizza dai primi anni duemila componenti forgiati per applicazioni dell'industria nucleare dalla sua sede di Rho in provincia di Milano.",
+   "url": "https://www.forgevienna.it/",
+   "quote": "Forgiatura A. Vienna is a reference in forged components for nuclear power industry applications since early 2000s || Via Ospiate 46/48 – 20017 – Rho, MI"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

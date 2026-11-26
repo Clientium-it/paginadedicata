@@ -1,0 +1,28 @@
+{
+ "slug": "kti-plersch-kaltetechnik-2",
+ "company": "KTI-Plersch Kältetechnik GmbH",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "KTI fornisce soluzioni di refrigerazione in tutto il mondo, dal raffreddamento del calcestruzzo al ghiaccio per il pesce fino alla refrigerazione alimentare. Qui trova come lavoriamo e cosa potremmo fare per KTI-Plersch Kältetechnik GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per KTI-Plersch Kältetechnik GmbH.",
+ "evidence": [
+  {
+   "claim": "KTI fornisce soluzioni di refrigerazione in tutto il mondo, dal raffreddamento del calcestruzzo al ghiaccio per il pesce fino alla refrigerazione alimentare.",
+   "url": "https://www.kti-plersch.com/",
+   "quote": "Wir liefern Lösungen für unsere Kunden aus sieben Branchen || Lösungen von KTI werden in der gesamten Welt benötigt - von Kanada bis Neuseeland und von Patagonien bis Japan. || Betonkühlung & Betonheizung Eis für Fisch & Meeresfrüchte Beschneiung bei Plusgraden Lagerung von Stoffen für Pharma & Medizin Minenkühlung Eisanlagen für die Pigmentproduktion Lebensmittel- & Getränkekühlung"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

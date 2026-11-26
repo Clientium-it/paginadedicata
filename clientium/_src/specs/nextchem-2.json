@@ -1,0 +1,28 @@
+{
+ "slug": "nextchem-2",
+ "company": "NEXTCHEM",
+ "first_name": "Anna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "NextChem accompagna i clienti verso un'economia industriale alimentata da fonti rinnovabili, pulite e biogene come facilitatore della transizione energetica. Qui trova come lavoriamo e cosa potremmo fare per NEXTCHEM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per NEXTCHEM.",
+ "evidence": [
+  {
+   "claim": "NextChem accompagna i clienti verso un'economia industriale alimentata da fonti rinnovabili, pulite e biogene come facilitatore della transizione energetica.",
+   "url": "https://www.nextchem.com/it/chi-siamo/",
+   "quote": "Come facilitatore della transizione energetica, accompagniamo i clienti verso un'economia industriale alimentata da fonti rinnovabili, pulite e biogene."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "sidem-2",
+ "company": "SIDEM",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sidem è partita come rivenditore di prodotti medicali nel Nord Italia e lavora in aree come cardiologia, ecografia, ostetricia e veterinaria. Qui trova come lavoriamo e cosa potremmo fare per SIDEM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SIDEM.",
+ "evidence": [
+  {
+   "claim": "Sidem è partita come rivenditore di prodotti medicali nel Nord Italia e lavora in aree come cardiologia, ecografia, ostetricia e veterinaria.",
+   "url": "https://www.sidemspa.com/",
+   "quote": "L'azienda ha iniziato la sua attività come rivenditore di prodotti medicali HP nel Nord Italia. || Sede legale Via Bergamo, 94, 20882 Bellusco MB Italy Sede operativa Via S. Crispino, 30, 35129 Padova PD Italy || CARDIOLOGIA E CARDIOCHIRURGIA AMBULATORI ANESTESIA, RIANIMAZIONE, EMERGENZA AREE DI COMPETENZA Aree di Competenza ECOGRAFIA OSTETRICIA E GINECOLOGIA MEDICINA DELLO SPORT/LAVORO VETERINARIA"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

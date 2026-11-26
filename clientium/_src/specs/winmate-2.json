@@ -1,0 +1,28 @@
+{
+ "slug": "winmate-2",
+ "company": "Winmate",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Winmate dal 1996 produce piattaforme di calcolo e computer rugged per ambienti difficili, usati in settori come industria, marina, logistica, difesa e sanità. Qui trova come lavoriamo e cosa potremmo fare per Winmate.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Winmate.",
+ "evidence": [
+  {
+   "claim": "Winmate dal 1996 produce piattaforme di calcolo e computer rugged per ambienti difficili, usati in settori come industria, marina, logistica, difesa e sanità.",
+   "url": "https://www.winmate.com:443/en/Corporate/About_Winmate",
+   "quote": "Winmate Inc., founded in 1996, is a global provider of mission computing platforms and rugged computing solutions engineered for demanding, harsh, and mission-critical environments. || Industrial Marine Public Safety IIoT & Edge Computing Warehouse & Logistics Defence Infrastructure Intelligent Robotics System Healthcare"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "sielco-3",
+ "company": "SIELCO",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sielco dal 1977 fornisce servizi informatici alle piccole e medie imprese lombarde con vendita e assistenza di prodotti hardware e software. Qui trova come lavoriamo e cosa potremmo fare per SIELCO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SIELCO.",
+ "evidence": [
+  {
+   "claim": "Sielco dal 1977 fornisce servizi informatici alle piccole e medie imprese lombarde con vendita e assistenza di prodotti hardware e software.",
+   "url": "https://sielco.it/chi-siamo/",
+   "quote": "SIELCO è dal 1977 l’azienda di riferimento sul territorio lombardo per la fornitura di servizi informatici per le piccole-medie imprese e per la vendita e assistenza di prodotti hardware e software || Via Gioacchino Rossini, 11/A, 21020 Buguggiate (Varese) Italy || Sielco supporta aziende e professionisti con soluzioni IT su misura, offrendo consulenza e servizi informatici affidabili"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

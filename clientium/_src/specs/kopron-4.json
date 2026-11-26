@@ -1,0 +1,28 @@
+{
+ "slug": "kopron-4",
+ "company": "KOPRON",
+ "first_name": "Fausto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Kopron progetta, costruisce e monta le sue soluzioni con assistenza post vendita per settori come logistica, industria, aeroporti e ambito portuale. Qui trova come lavoriamo e cosa potremmo fare per KOPRON.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per KOPRON.",
+ "evidence": [
+  {
+   "claim": "Kopron progetta, costruisce e monta le sue soluzioni con assistenza post vendita per settori come logistica, industria, aeroporti e ambito portuale.",
+   "url": "https://www.kopron.com/it/azienda/chi-siamo/",
+   "quote": "Il rispetto dei massimi standard qualitativi nella progettazione, costruzione, montaggio e assistenza post vendita, il costante sviluppo e la serietà nei rapporti commerciali sono le chiavi del successo di Kopron SpA, realtà produttiva leader in Europa nel || Settori Logistica Industria Aeroporti Automobilistico Portuale e Interporti Chimico Compostaggio e rifiuti Alimentare Ospedaliero ed Emergenze"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

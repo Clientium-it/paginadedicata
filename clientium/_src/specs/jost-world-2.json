@@ -1,0 +1,28 @@
+{
+ "slug": "jost-world-2",
+ "company": "JOST World",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "JOST produce ralle da oltre 60 anni e le porta nei mercati di tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per JOST World.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per JOST World.",
+ "evidence": [
+  {
+   "claim": "JOST produce ralle da oltre 60 anni e le porta nei mercati di tutto il mondo.",
+   "url": "https://www.jost.it/",
+   "quote": "For over 60 years, fifth wheel couplings from JOST have been a success story around the world. || 20090 Cesano Boscone (Milano) Via E. De Nicola 28"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

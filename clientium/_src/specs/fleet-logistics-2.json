@@ -1,0 +1,28 @@
+{
+ "slug": "fleet-logistics-2",
+ "company": "Fleet Logistics Group",
+ "first_name": "Filippo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fleet Logistics offre servizi di mobilità dal 1996 a una clientela in 27 Paesi nei settori farmaceutico, medico, alimentare e dei macchinari. Qui trova come lavoriamo e cosa potremmo fare per Fleet Logistics Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fleet Logistics Group.",
+ "evidence": [
+  {
+   "claim": "Fleet Logistics offre servizi di mobilità dal 1996 a una clientela in 27 Paesi nei settori farmaceutico, medico, alimentare e dei macchinari.",
+   "url": "https://fleetlogistics.com/it/chi-siamo/",
+   "quote": "Fleet Logistics è attiva sul mercato internazionale con servizi di mobilità dal 1996. || Attualmente offriamo serietà ed affidabilità ad una clientela esigente in 27 Paesi. || i settori farmaceutico, medico e alimentare ci sono familiari quanto quelli dei beni di consumo, dei macchinari e degli utensili"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

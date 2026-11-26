@@ -1,0 +1,28 @@
+{
+ "slug": "united-caps-2",
+ "company": "UNITED CAPS",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "UNITED CAPS realizza su misura oltre il 50% di ciò che consegna, dalla sede di Wiltz in Lussemburgo. Qui trova come lavoriamo e cosa potremmo fare per UNITED CAPS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per UNITED CAPS.",
+ "evidence": [
+  {
+   "claim": "UNITED CAPS realizza su misura oltre il 50% di ciò che consegna, dalla sede di Wiltz in Lussemburgo.",
+   "url": "https://www.unitedcaps.com/company/bespoke",
+   "quote": "Over 50% of what we deliver is crafted specifically for our customers. || UNITED CAPS Headquarters ZI de Wiltz, BP 49, 9501 Wiltz Grand-Duchy of Luxembourg"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

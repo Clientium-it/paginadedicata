@@ -1,0 +1,28 @@
+{
+ "slug": "borsodchem-italia-whanua-borsodchem-2",
+ "company": "BorsodChem Italia srl. Whanua-BorsodChem Group",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "BorsodChem vende i suoi prodotti soprattutto in Europa ma anche in America, Africa e Asia, ed è presente nei settori costruzioni, automotive e arredamento. Qui trova come lavoriamo e cosa potremmo fare per BorsodChem Italia srl. Whanua-BorsodChem Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BorsodChem Italia srl. Whanua-BorsodChem Group.",
+ "evidence": [
+  {
+   "claim": "BorsodChem vende i suoi prodotti soprattutto in Europa ma anche in America, Africa e Asia, ed è presente nei settori costruzioni, automotive e arredamento.",
+   "url": "https://borsodchem.com/en/about-us",
+   "quote": "The majority of our products are sold in Europe, but we are also present in the markets of North- and South America, Africa, Near and Far East. || The Kazincbarcika site in Hungary is the centre of the Company and our production activity. || we are present in the construction, automotive, furniture and clothing industries among others."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

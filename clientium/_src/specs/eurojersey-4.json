@@ -1,0 +1,28 @@
+{
+ "slug": "eurojersey-4",
+ "company": "Eurojersey",
+ "first_name": "Nadia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Eurojersey dal 1959 produce tessuti indemagliabili made in Italy con la gamma brevettata Sensitive Fabrics per sportswear, intimo e costumi da bagno. Qui trova come lavoriamo e cosa potremmo fare per Eurojersey.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Eurojersey.",
+ "evidence": [
+  {
+   "claim": "Eurojersey dal 1959 produce tessuti indemagliabili made in Italy con la gamma brevettata Sensitive Fabrics per sportswear, intimo e costumi da bagno.",
+   "url": "https://www.sensitivefabrics.it/company/",
+   "quote": "Founded in 1959, EUROJERSEY is a reference point in the sector of Italian-made warp knit fabrics, thanks to its patented range called Sensitive® Fabrics , selected by major brands for sportswear, readytowear, intimate apparel and swimwear markets || SEDE SOCIALE: Via S. Giovanni Bosco, 260 – 21042 Caronno Pertusella (Va) Italy || selected by major brands for sportswear, readytowear, intimate apparel and swimwear markets"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

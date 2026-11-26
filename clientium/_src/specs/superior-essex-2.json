@@ -1,0 +1,28 @@
+{
+ "slug": "superior-essex-2",
+ "company": "Superior Essex",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Superior Essex riunisce competenze in filo smaltato, materiali avanzati e prodotti per le comunicazioni e distribuisce filo smaltato e isolamenti per il mercato elettrico OEM. Qui trova come lavoriamo e cosa potremmo fare per Superior Essex.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Superior Essex.",
+ "evidence": [
+  {
+   "claim": "Superior Essex riunisce competenze in filo smaltato, materiali avanzati e prodotti per le comunicazioni e distribuisce filo smaltato e isolamenti per il mercato elettrico OEM.",
+   "url": "https://www.superioressex.com/",
+   "quote": "The Superior Essex family of brands brings together expertise in magnet wire, advanced materials, communications products, and distribution. || International distributor of magnet wire, electrical insulation, motors, and related products serving electrical OEM and repair markets."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

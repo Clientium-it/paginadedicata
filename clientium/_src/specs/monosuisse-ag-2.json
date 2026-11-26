@@ -1,0 +1,28 @@
+{
+ "slug": "monosuisse-ag-2",
+ "company": "Monosuisse AG",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Monosuisse ha stabilimenti produttivi in Svizzera, Germania, Polonia, Romania, Messico e Thailandia e serve settori come filtrazione, serigrafia, medicale e aerospazio. Qui trova come lavoriamo e cosa potremmo fare per Monosuisse AG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Monosuisse AG.",
+ "evidence": [
+  {
+   "claim": "Monosuisse ha stabilimenti produttivi in Svizzera, Germania, Polonia, Romania, Messico e Thailandia e serve settori come filtrazione, serigrafia, medicale e aerospazio.",
+   "url": "https://monosuisse.com/about-us/",
+   "quote": "With six global production sites in Switzerland, Germany, Poland, Romania, Mexico, and Thailand (Q3 2026), we offer consistent quality and flexibility to serve industries such as Filtration, Screen Printing, Medical Technology, Aerospace, Paper Machine Clothing, Technical Textiles, Mobility, Reinforcement Grids (MRG), and more || With over 600 employees worldwide, Monosuisse is your trusted partner, committed to delivering innovative, high-quality solutions, that drive your success. || serve industries such as Filtration, Screen Printing, Medical Technology, Aerospace, Paper Machine Clothing, Technical Textiles, Mobility, Reinforcement Grids (MRG), and more"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}

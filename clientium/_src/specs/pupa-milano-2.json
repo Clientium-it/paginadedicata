@@ -1,0 +1,28 @@
+{
+ "slug": "pupa-milano-2",
+ "company": "PUPA Milano",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "PUPA Milano è un'azienda italiana nata nel 1976 ed esporta i suoi prodotti in 70 paesi del mondo. Qui trova come lavoriamo e cosa potremmo fare per PUPA Milano.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PUPA Milano.",
+ "evidence": [
+  {
+   "claim": "PUPA Milano è un'azienda italiana nata nel 1976 ed esporta i suoi prodotti in 70 paesi del mondo.",
+   "url": "https://www.pupamilano.com/company/",
+   "quote": "An Italian company established in 1976 It exports goods in 70 countries around the world || Micys Company S.p.A. - Via A. De Gasperi 22, 23880, Casatenovo (LC), ITALY - customercare@pupa.it"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_pages_request_2611)"
+}
