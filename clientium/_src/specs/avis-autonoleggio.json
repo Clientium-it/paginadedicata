@@ -1,0 +1,28 @@
+{
+ "slug": "avis-autonoleggio",
+ "company": "Avis Autonoleggio",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Avis noleggia auto in oltre 5.800 sedi in 170 paesi, con punti nei principali aeroporti e stazioni e contratti nazionali per chi viaggia per lavoro. Qui trova come lavoriamo e cosa potremmo fare per Avis Autonoleggio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Avis Autonoleggio.",
+ "evidence": [
+  {
+   "claim": "Avis noleggia auto in oltre 5.800 sedi in 170 paesi, con punti nei principali aeroporti e stazioni e contratti nazionali per chi viaggia per lavoro.",
+   "url": "https://www.avisautonoleggio.it/aziende/noleggio-auto-aziendali-a-breve-termine",
+   "quote": "Con oltre 5.800 sedi in 170 paesi, offriamo una soluzione di noleggio auto davvero globale. || Avis dispone di sedi di noleggio ubicate in posizione strategica in tutti i principali aeroporti e snodi ferroviari chiave. || I nostri contratti di noleggio nazionali sono rivolti al viaggiatore d'affari abituale."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

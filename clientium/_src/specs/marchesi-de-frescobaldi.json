@@ -1,0 +1,28 @@
+{
+ "slug": "marchesi-de-frescobaldi",
+ "company": "Marchesi de' Frescobaldi",
+ "first_name": "Leonardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Frescobaldi porta avanti 700 anni di storia del vino in Toscana con tenute come Castello Nipozzano, CastelGiocondo, Pomino e Gorgona. Qui trova come lavoriamo e cosa potremmo fare per Marchesi de' Frescobaldi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Marchesi de' Frescobaldi.",
+ "evidence": [
+  {
+   "claim": "Frescobaldi porta avanti 700 anni di storia del vino in Toscana con tenute come Castello Nipozzano, CastelGiocondo, Pomino e Gorgona.",
+   "url": "https://www.frescobaldi.com/de/",
+   "quote": "700 Jahre Geschichte des Weins Entdecken Sie die Geschichte Eine große Vision Lernen Sie die Familie kennen Frescobaldi verkörpert die Essenz der Toskana, deren idealen Voraussetzungen für den Anbau von Wein und die Vielfalt ihres Terroirs. || Unsere Weingüter Castello Nipozzano Tenuta Perano Tenuta CastelGiocondo Tenuta Castiglioni Castello Pomino Tenuta Ammiraglia Gorgona Rèmole Tenuta Calimaia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

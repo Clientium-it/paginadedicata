@@ -1,0 +1,28 @@
+{
+ "slug": "acciai-speciali-terni-2",
+ "company": "Acciai Speciali Terni",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "AST produce laminati piani, tubi inossidabili e fucinati in acciaio speciale con l'intero ciclo concentrato a Terni su oltre 1.500.000 mq. Qui trova come lavoriamo e cosa potremmo fare per Acciai Speciali Terni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Acciai Speciali Terni.",
+ "evidence": [
+  {
+   "claim": "AST produce laminati piani, tubi inossidabili e fucinati in acciaio speciale con l'intero ciclo concentrato a Terni su oltre 1.500.000 mq.",
+   "url": "https://www.acciaiterni.it/chi-siamo/",
+   "quote": "Oltre ai laminati piani, l’azienda produce tubi inossidabili elettrosaldati attraverso Il Tubificio di Terni, società controllata da Arvedi AST, e fucinati in acciaio speciale || Gli impianti di produzione sono concentrati a Terni, in un’area di oltre 1.500.000 mq, e coprono l‘intero ciclo di fabbricazione, dalla fusione fino all‘imballaggio. || SETTORI AUTO E TRASPORTI BENI DI CONSUMO APPLICAZIONI ARCHITETTONICHE BENI INDUSTRIALI"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "ferservizi",
+ "company": "Ferservizi",
+ "first_name": "Giulia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ferservizi gestisce le attività non core del Gruppo Ferrovie dello Stato con 1.537 dipendenti, 70 servizi e 38 società clienti. Qui trova come lavoriamo e cosa potremmo fare per Ferservizi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ferservizi.",
+ "evidence": [
+  {
+   "claim": "Ferservizi gestisce le attività non core del Gruppo Ferrovie dello Stato con 1.537 dipendenti, 70 servizi e 38 società clienti.",
+   "url": "https://www.ferservizi.it/it/chi-siamo.html",
+   "quote": "Ferservizi S.p.A. costituisce lo Shared Services Center del Gruppo Ferrovie dello Stato Italiane, un centro servizi trasversali di eccellenza che gestisce, per la Capogruppo e per le Società del Gruppo, le attività no core , non direttamente collegate all’esercizio ferroviario. || 1.537 DIPENDENTI 70 SERVIZI EROGATI 38 SOCIETA' CLIENTI 16 SEDI OPERATIVE"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "lever-touch",
+ "company": "Lever Touch",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lever Touch ripara con tecniche PDR e Smart Repair per privati, flotte, assicurazioni e case auto, con sede in Italia e uffici in Spagna, Francia, USA, Brasile e Argentina. Qui trova come lavoriamo e cosa potremmo fare per Lever Touch.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lever Touch.",
+ "evidence": [
+  {
+   "claim": "Lever Touch ripara con tecniche PDR e Smart Repair per privati, flotte, assicurazioni e case auto, con sede in Italia e uffici in Spagna, Francia, USA, Brasile e Argentina.",
+   "url": "https://www.levertouch.com/",
+   "quote": "our technicians specialized in PDR techniques (Paintless Dent Repair) and Smart Repairs , allow us to offer fast and effective repairs to individuals, fleet owners, insurance companies and car manufacturers || Lever Touch’s headquarters are in Italy. In addition, we have five offices in Spain, France, the USA, Brazil and Argentina. || fast and effective repairs to individuals, fleet owners, insurance companies and car manufacturers"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

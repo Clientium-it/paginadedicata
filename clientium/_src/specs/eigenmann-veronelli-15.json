@@ -1,0 +1,28 @@
+{
+ "slug": "eigenmann-veronelli-15",
+ "company": "Eigenmann & Veronelli",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Eigenmann & Veronelli distribuisce e produce specialità chimiche e ingredienti alimentari dal 1910 con stabilimenti a Trecate, Gorla Minore e Tradate. Qui trova come lavoriamo e cosa potremmo fare per Eigenmann & Veronelli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Eigenmann & Veronelli.",
+ "evidence": [
+  {
+   "claim": "Eigenmann & Veronelli distribuisce e produce specialità chimiche e ingredienti alimentari dal 1910 con stabilimenti a Trecate, Gorla Minore e Tradate.",
+   "url": "https://www.eigver.com/en/about-us/who-we-are/",
+   "quote": "EV is a leading player in the distribution , manufacture and marketing of specialty chemicals and food ingredients . Our story began in 1910, thanks to the innovative and forward-looking vision of our founders || The Group has three production plants in Italy, with a total surface area of 75,000 sqm – Trecate (Novara), Gorla Minore and Tradate (Varese) || specialized in nutrition, healthcare, beauty & personal care, coatings & construction, advanced materials and performance solutions"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

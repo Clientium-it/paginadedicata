@@ -1,0 +1,28 @@
+{
+ "slug": "sirio-europe",
+ "company": "Sirio Europe",
+ "first_name": "Valeria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sirio da oltre 32 anni lavora come CDMO nutraceutico globale seguendo i clienti dallo sviluppo alla produzione e al confezionamento. Qui trova come lavoriamo e cosa potremmo fare per Sirio Europe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sirio Europe.",
+ "evidence": [
+  {
+   "claim": "Sirio da oltre 32 anni lavora come CDMO nutraceutico globale seguendo i clienti dallo sviluppo alla produzione e al confezionamento.",
+   "url": "https://sirio-europe.com/end-to-end-services/",
+   "quote": "With more than 32 years of experience as a global nutraceutical CDMO, SIRIO supports customers with integrated services across the full product lifecycle, from early development to manufacturing and packaging"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

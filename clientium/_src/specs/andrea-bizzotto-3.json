@@ -1,0 +1,28 @@
+{
+ "slug": "andrea-bizzotto-3",
+ "company": "Andrea Bizzotto",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bizzotto da oltre 80 anni crea a Bassano del Grappa collezioni di arredi indoor e outdoor che uniscono design e artigianalità. Qui trova come lavoriamo e cosa potremmo fare per Andrea Bizzotto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Andrea Bizzotto.",
+ "evidence": [
+  {
+   "claim": "Bizzotto da oltre 80 anni crea a Bassano del Grappa collezioni di arredi indoor e outdoor che uniscono design e artigianalità.",
+   "url": "https://www.bizzotto.com/about",
+   "quote": "Da oltre 80 anni interpretiamo il vivere contemporaneo con arredi che uniscono design, artigianalità e cultura del bello. Collezioni indoor e outdoor pensate per trasformare ogni spazio || Via Motton, 9, 36061 Bassano del Grappa (VI), Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

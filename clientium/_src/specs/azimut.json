@@ -1,0 +1,28 @@
+{
+ "slug": "azimut",
+ "company": "Azimut",
+ "first_name": "Alessandra",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Azimut Benetti ha showroom in 80 Paesi e dal 2008 con Yachtique e dal 2010 con Lusben completa l'offerta con design, arredo e refit. Qui trova come lavoriamo e cosa potremmo fare per Azimut.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Azimut.",
+ "evidence": [
+  {
+   "claim": "Azimut Benetti ha showroom in 80 Paesi e dal 2008 con Yachtique e dal 2010 con Lusben completa l'offerta con design, arredo e refit.",
+   "url": "https://www.azimutbenetti.com/about-us/",
+   "quote": "In fact, with the birth, in 2008, of Yachtique, design and furniture boutique, and the entry, in 2010, of Lusben, the group completes its offer, including refit & repair. || showrooms in 80 Countries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

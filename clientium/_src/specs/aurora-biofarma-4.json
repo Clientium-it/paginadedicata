@@ -1,0 +1,28 @@
+{
+ "slug": "aurora-biofarma-4",
+ "company": "Aurora Biofarma",
+ "first_name": "Roberta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Aurora Biofarma dal 2010 ricerca, produce e distribuisce da Milano nutraceutici e dispositivi medici per il benessere di persone e animali. Qui trova come lavoriamo e cosa potremmo fare per Aurora Biofarma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aurora Biofarma.",
+ "evidence": [
+  {
+   "claim": "Aurora Biofarma dal 2010 ricerca, produce e distribuisce da Milano nutraceutici e dispositivi medici per il benessere di persone e animali.",
+   "url": "https://www.aurorabiofarma.it/chi-siamo/",
+   "quote": "Siamo una società farmaceutica italiana con sede a Milano impegnata nella ricerca, produzione e distribuzione di soluzioni per il benessere delle persone e degli animali. || Aurora Biofarma è nata nel 2010, come azienda innovativa dedicata alla ricerca, allo sviluppo e alla commercializzazione di prodotti nutraceutici e dispositivi medici"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

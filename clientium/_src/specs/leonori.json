@@ -1,0 +1,28 @@
+{
+ "slug": "leonori",
+ "company": "LEONORI",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Leonori è concessionaria dal 1962 con 11 sedi tra Roma e Civitavecchia e marchi come Fiat, Jeep, Peugeot, Kia e Byd. Qui trova come lavoriamo e cosa potremmo fare per LEONORI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LEONORI.",
+ "evidence": [
+  {
+   "claim": "Leonori è concessionaria dal 1962 con 11 sedi tra Roma e Civitavecchia e marchi come Fiat, Jeep, Peugeot, Kia e Byd.",
+   "url": "https://www.leonori.it/chi-siamo",
+   "quote": "È dal 1962 che la Leonori spa è storicamente tra i più importanti concessionari di riferimento a Roma. Ad oggi rappresenta i marchi Citroen, Peugeot, Fiat, Fiat Professional, Jeep, Alfa Romeo, Lancia, Abarth, DS Automobiles, Kia, Honda, Dr, Evo, Skoda e Byd || Le nostre 11 sedi a Roma e Civitavecchia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "mare",
+ "company": "Mare Group",
+ "first_name": "Piero",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mare Group progetta strutture e software, realizza sistemi antivibranti e rack schermati per difesa, avionica e navale e sensori per le linee ferroviarie. Qui trova come lavoriamo e cosa potremmo fare per Mare Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mare Group.",
+ "evidence": [
+  {
+   "claim": "Mare Group progetta strutture e software, realizza sistemi antivibranti e rack schermati per difesa, avionica e navale e sensori per le linee ferroviarie.",
+   "url": "https://www.maregroup.it/",
+   "quote": "Progetta strutture, sottosistemi e software; realizza sistemi antivibranti e rack schermati per difesa, avionica e navale e sensori brevettati per il monitoraggio delle linee ferroviarie || Aerospazio e Difesa, Industria e Trasporti, Infrastrutture Critiche ed Edilizia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

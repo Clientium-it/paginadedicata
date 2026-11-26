@@ -1,0 +1,28 @@
+{
+ "slug": "connect-chemicals-3",
+ "company": "Connect Chemicals Group",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Connect Chemicals produce e distribuisce chimica speciale dal 1998, con sede a Ratingen e uffici in 4 continenti per cosmetica, lubrificanti e adesivi. Qui trova come lavoriamo e cosa potremmo fare per Connect Chemicals Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Connect Chemicals Group.",
+ "evidence": [
+  {
+   "claim": "Connect Chemicals produce e distribuisce chimica speciale dal 1998, con sede a Ratingen e uffici in 4 continenti per cosmetica, lubrificanti e adesivi.",
+   "url": "https://connectchemicals.com/en/",
+   "quote": "Connect Chemicals is a global producer, custom manufacturer, and distributor of a wide range of specialty chemicals. Established in 1998, with headquarters in Ratingen, Germany, offices on 4 continents || with headquarters in Ratingen, Germany, offices on 4 continents and an international network of partners || Industries Cosmetics & Personal Care Household & Industrial Care Lubricants & Metal Working Coatings Adhesives Sealants"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

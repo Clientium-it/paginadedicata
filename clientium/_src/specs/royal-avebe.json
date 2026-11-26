@@ -1,0 +1,28 @@
+{
+ "slug": "royal-avebe",
+ "company": "Royal Avebe",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Avebe è una cooperativa con oltre un secolo di storia che sviluppa ingredienti per alimenti, mangimi e usi industriali, con sede a Veendam. Qui trova come lavoriamo e cosa potremmo fare per Royal Avebe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Royal Avebe.",
+ "evidence": [
+  {
+   "claim": "Avebe è una cooperativa con oltre un secolo di storia che sviluppa ingredienti per alimenti, mangimi e usi industriali, con sede a Veendam.",
+   "url": "https://www.avebe.com/",
+   "quote": "As a cooperative with over a century of expertise, we develop high value ingredients for food, feed and industrial applications. || Avebe Prins Hendrikplein 20 9641 GK Veendam The Netherlands || Our clients in construction, paper, adhesive, and textiles all benefit from Avebe’s focus on a sustainable future"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

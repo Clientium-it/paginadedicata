@@ -1,0 +1,28 @@
+{
+ "slug": "boero-bartolomeo-3",
+ "company": "Boero Bartolomeo",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Boero produce da quasi 200 anni vernici per edilizia e yachting con quattro poli nel nord ovest italiano, servendo cantieri e armatori. Qui trova come lavoriamo e cosa potremmo fare per Boero Bartolomeo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Boero Bartolomeo.",
+ "evidence": [
+  {
+   "claim": "Boero produce da quasi 200 anni vernici per edilizia e yachting con quattro poli nel nord ovest italiano, servendo cantieri e armatori.",
+   "url": "https://www.gruppoboero.it/",
+   "quote": "Gruppo Boero è leader nel settore dei prodotti vernicianti per edilizia e yachting . A quasi 200 anni dalla sua fondazione, e con un mercato di riferimento sempre più internazionale || Attività gestionali, logistica, produzione e ricerca si articolano attraverso quattro poli tutti situati in quel nord-ovest italiano che ha visto la nascita e la costante espansione del Gruppo. || dai grandi nomi della cantieristica italiana ed internazionale, al piccolo armatore, per cui l’imbarcazione è un continuo atto di cura."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

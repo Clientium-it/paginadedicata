@@ -1,0 +1,28 @@
+{
+ "slug": "aran-world-4",
+ "company": "ARAN World",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Aran Cucine progetta, produce e distribuisce cucine in 120 paesi con 350 dipendenti, 70.000 metri quadrati coperti e 2.500 punti vendita. Qui trova come lavoriamo e cosa potremmo fare per ARAN World.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ARAN World.",
+ "evidence": [
+  {
+   "claim": "Aran Cucine progetta, produce e distribuisce cucine in 120 paesi con 350 dipendenti, 70.000 metri quadrati coperti e 2.500 punti vendita.",
+   "url": "https://www.arancucine.it/i-nostri-numeri/",
+   "quote": "ARAN World è leader in Italia nelle esportazioni e tra le prime aziende italiane in progettazione, produzione e distribuzione di cucine. || 70.000 metri quadrati coperti 120 paesi nei 5 continenti 350 dipendenti 2.500 punti vendita nel mondo"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

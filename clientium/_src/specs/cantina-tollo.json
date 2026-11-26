@@ -1,0 +1,28 @@
+{
+ "slug": "cantina-tollo",
+ "company": "Cantina Tollo",
+ "first_name": "Brunella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cantina Tollo nasce dal lavoro condiviso di centinaia di soci viticoltori e opera in provincia di Chieti. Qui trova come lavoriamo e cosa potremmo fare per Cantina Tollo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cantina Tollo.",
+ "evidence": [
+  {
+   "claim": "Cantina Tollo nasce dal lavoro condiviso di centinaia di soci viticoltori e opera in provincia di Chieti.",
+   "url": "https://cantinatollo.it/proteggere-lorso/",
+   "quote": "Nata dalla terra e dal lavoro condiviso di centinaia di soci viticoltori, Cantina Tollo ha sempre interpretato il proprio ruolo non soltanto come realtà produttiva || Cantina Tollo opera in provincia di Chieti, fuori dai confini del Parco."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

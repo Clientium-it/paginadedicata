@@ -1,0 +1,28 @@
+{
+ "slug": "kmt-waterjet-systems",
+ "company": "KMT WATERJET SYSTEMS",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "KMT Waterjet fornisce pompe da 55.000 a 90.000 psi alle macchine dei partner OEM con installazioni in oltre 100 paesi. Qui trova come lavoriamo e cosa potremmo fare per KMT WATERJET SYSTEMS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per KMT WATERJET SYSTEMS.",
+ "evidence": [
+  {
+   "claim": "KMT Waterjet fornisce pompe da 55.000 a 90.000 psi alle macchine dei partner OEM con installazioni in oltre 100 paesi.",
+   "url": "https://kmtwaterjet.com/",
+   "quote": "KMT waterjet OEM partner machines are powered by KMT pumps ranging from 90,000 psi to 55,000 psi, with installations available in over 100 countries. || with installations available in over 100 countries. || INDUSTRIES Aerospace Agriculture Architecture Automotive Defense Food/HPP Glass Packaging Manufacturing Other"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

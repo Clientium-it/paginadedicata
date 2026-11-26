@@ -1,0 +1,28 @@
+{
+ "slug": "comal-impianti",
+ "company": "comal impianti",
+ "first_name": "Guido",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Comal dal 2001 a Montalto di Castro ha realizzato oltre 40 impianti fotovoltaici in Italia e Sud Africa per più di 600 MW. Qui trova come lavoriamo e cosa potremmo fare per comal impianti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per comal impianti.",
+ "evidence": [
+  {
+   "claim": "Comal dal 2001 a Montalto di Castro ha realizzato oltre 40 impianti fotovoltaici in Italia e Sud Africa per più di 600 MW.",
+   "url": "https://www.comalgroup.com/chi-siamo/",
+   "quote": "Da allora abbiamo realizzato più di 40 impianti fotovoltaici installati in Italia e Sud Africa, con una capacità energetica pari a oltre 600 MW. || L’idea di cambiare in meglio il futuro prende forma nel 2001 a Montalto di Castro (VT) con la nascita di Comal. || 85% da Fondi di Investimento e Investitori Privati Valore della Produzione realizzato nel 2019 6% da Produttori Energetici"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

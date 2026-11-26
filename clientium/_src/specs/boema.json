@@ -1,0 +1,28 @@
+{
+ "slug": "boema",
+ "company": "BOEMA",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Boema costruisce impianti completi per puree di frutta e verdura destinate a confezionamento asettico, surgelazione, succhi e confetture. Qui trova come lavoriamo e cosa potremmo fare per BOEMA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BOEMA.",
+ "evidence": [
+  {
+   "claim": "Boema costruisce impianti completi per puree di frutta e verdura destinate a confezionamento asettico, surgelazione, succhi e confetture.",
+   "url": "https://www.boema.com/it/",
+   "quote": "BOEMA costruisce impianti completi per la produzione di puree di frutta e di verdura, naturali o concentrate, destinate al confezionamento asettico, alla surgelazione, alla produzione di succhi, miscelati e confetture."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

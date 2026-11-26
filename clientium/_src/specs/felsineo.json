@@ -1,0 +1,28 @@
+{
+ "slug": "felsineo",
+ "company": "Gruppo Felsineo",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Felsineo produce mortadella da oltre 50 anni a Zola Predosa, con quattro generazioni alle spalle e dal 2016 una linea di affettati vegetali. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Felsineo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Felsineo.",
+ "evidence": [
+  {
+   "claim": "Felsineo produce mortadella da oltre 50 anni a Zola Predosa, con quattro generazioni alle spalle e dal 2016 una linea di affettati vegetali.",
+   "url": "https://gruppofelsineo.com/",
+   "quote": "Da oltre 50 anni , grazie a un’esperienza maturata in quattro generazioni, con passione e competenza, produciamo mortadella di qualità e, dal 2016, con gli stessi principi, una linea di affettati vegetali. || Felsineo S.p.A. Società Benefit Via C. Masetti 8-10, 40069 Zola Predosa (BO) - Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

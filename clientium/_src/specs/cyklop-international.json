@@ -1,0 +1,28 @@
+{
+ "slug": "cyklop-international",
+ "company": "Cyklop International",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cyklop dal 1912 fornisce macchine e materiali per l'imballaggio con oltre 1.200 dipendenti in 24 paesi e più di 500 brevetti. Qui trova come lavoriamo e cosa potremmo fare per Cyklop International.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cyklop International.",
+ "evidence": [
+  {
+   "claim": "Cyklop dal 1912 fornisce macchine e materiali per l'imballaggio con oltre 1.200 dipendenti in 24 paesi e più di 500 brevetti.",
+   "url": "https://www.cyklop.com/",
+   "quote": "Cyklop was established in 1912 and today, is a leading global provider of packaging machinery and supplies. || Now, with more than 1,200 employees in 24 countries, and over 500 patents, Cyklop is well-equipped to address its customers’ packaging needs seamlessly, efficiently and reliably. || Industries Food & Beverage Logistics Paper & Corrugate Pet Food Automotive Horticulture Chemical Construction Lumber Cosmetics Electronics Pharmaceutical"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

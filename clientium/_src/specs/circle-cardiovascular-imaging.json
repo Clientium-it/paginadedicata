@@ -1,0 +1,28 @@
+{
+ "slug": "circle-cardiovascular-imaging",
+ "company": "Circle Cardiovascular Imaging",
+ "first_name": "Federica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Circle sviluppa dal 2007 in Canada software di analisi per l'imaging cardiovascolare pensati per chi fornisce assistenza sanitaria. Qui trova come lavoriamo e cosa potremmo fare per Circle Cardiovascular Imaging.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Circle Cardiovascular Imaging.",
+ "evidence": [
+  {
+   "claim": "Circle sviluppa dal 2007 in Canada software di analisi per l'imaging cardiovascolare pensati per chi fornisce assistenza sanitaria.",
+   "url": "https://www.circlecvi.com/about",
+   "quote": "Circle Cardiovascular Imaging (Circle) is a Canadian-based company that was founded in 2007, established with the aim of developing innovative software solutions to enhance cardiovascular imaging analysis and improve patient care. || Circle Cardiovascular Imaging (Circle) is a Canadian-based company that was founded in 2007 || our unrelenting drive to continually offer better solutions for healthcare providers that improve healthcare outcomes"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "angelantoni-test-technologies-3",
+ "company": "Angelantoni Test Technologies",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ACS dal 1952 sviluppa e produce camere per prove ambientali, dai test di temperatura e umidità alle camere a termovuoto per l'aerospazio. Qui trova come lavoriamo e cosa potremmo fare per Angelantoni Test Technologies.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Angelantoni Test Technologies.",
+ "evidence": [
+  {
+   "claim": "ACS dal 1952 sviluppa e produce camere per prove ambientali, dai test di temperatura e umidità alle camere a termovuoto per l'aerospazio.",
+   "url": "https://www.acstestchambers.com/de/services/",
+   "quote": "ist seit 1952 weltweit führend in der Entwicklung und Produktion einer breiten Palette von Kammern für simulierte Umweltprüfungen, die von einfachen Prüfkammern, für Temperatur- und Feuchtetests bis hin zu High-Tech-Systemen wie Thermovakuumkammern für Luft- und Raumfahrtanwendungen || Neben den 4 Niederlassungen in Frankreich, Deutschland, Indien und China können ACS-Kunden auf die kaufmännische und technische Unterstützung hochqualifizierter und spezialisierter Unternehmen in mehr als 40 Ländern auf allen Kontinenten zählen."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

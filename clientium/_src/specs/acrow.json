@@ -1,0 +1,28 @@
+{
+ "slug": "acrow",
+ "company": "Acrow",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Acrow dal 1946 realizza soluzioni di stoccaggio, movimentazione e costruzione con oltre 300 persone tra Johannesburg, Cape Town, Durban e Italia. Qui trova come lavoriamo e cosa potremmo fare per Acrow.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Acrow.",
+ "evidence": [
+  {
+   "claim": "Acrow dal 1946 realizza soluzioni di stoccaggio, movimentazione e costruzione con oltre 300 persone tra Johannesburg, Cape Town, Durban e Italia.",
+   "url": "https://www.acrow.co.za/about-us/",
+   "quote": "They have been the pioneers of new ideas for reliable and efficient storage , materials handling and construction solutions since 1946. || Acrow has branches in Johannesburg , Cape Town , Durban and Italy . Employing over 300 people || customized to the ever-changing needs of warehousing, distribution and construction markets both locally and internationally"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "carpoint",
+ "company": "Carpoint",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Carpoint è concessionaria ufficiale di marchi come Ford, Volkswagen, BYD e Hyundai con sedi a Roma, Ostia e Pomezia. Qui trova come lavoriamo e cosa potremmo fare per Carpoint.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Carpoint.",
+ "evidence": [
+  {
+   "claim": "Carpoint è concessionaria ufficiale di marchi come Ford, Volkswagen, BYD e Hyundai con sedi a Roma, Ostia e Pomezia.",
+   "url": "https://www.carpoint.it/",
+   "quote": "Concessionaria ufficiale Ford, Volkswagen, Omoda Jaecoo, BYD, Hyundai, Skoda, Mazda, Lepas, Changan, XEV, Eli a Roma, Ostia e Pomezia. || Carpoint Store - Roma Via Giovanni Giuseppe Gizzi angolo via della Pisana Carpoint EUR Spinaceto - Roma Via Pontina 347 Carpoint Pisana - Roma Via della Pisana 471 Carpoint - Pomezia Via Dei Castelli Romani 63"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

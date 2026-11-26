@@ -1,0 +1,28 @@
+{
+ "slug": "drass",
+ "company": "Drass",
+ "first_name": "Lorenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Drass fornisce alle marine minisommergibili e soluzioni di soccorso per sottomarini, con sede a Livorno, stabilimenti in Italia e Romania e oltre 200 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per Drass.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Drass.",
+ "evidence": [
+  {
+   "claim": "Drass fornisce alle marine minisommergibili e soluzioni di soccorso per sottomarini, con sede a Livorno, stabilimenti in Italia e Romania e oltre 200 dipendenti.",
+   "url": "https://www.drass.tech/drass-group/",
+   "quote": "With a tradition of defence products dating back to World War II, DRASS continue to supply navies with state-of-the-art midget submarines, swimmer delivery vehicles, submarine rescue solutions || DRASS Group, headquartered in Livorno, with production facilities in Italy and Romania and commercial offices in Dubai, has over 200 direct employees operating in 13,000 sqm of covered facilities. || DRASS Group is a recognized leader in defence, commercial diving and hyperbaric solutions worldwide."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

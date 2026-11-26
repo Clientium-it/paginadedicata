@@ -1,0 +1,28 @@
+{
+ "slug": "coloplast-interventional-urology",
+ "company": "Coloplast Interventional Urology",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Coloplast produce dispositivi medici per incontinenza urinaria da sforzo, prolasso pelvico, calcoli renali e disfunzione erettile per i professionisti sanitari. Qui trova come lavoriamo e cosa potremmo fare per Coloplast Interventional Urology.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Coloplast Interventional Urology.",
+ "evidence": [
+  {
+   "claim": "Coloplast produce dispositivi medici per incontinenza urinaria da sforzo, prolasso pelvico, calcoli renali e disfunzione erettile per i professionisti sanitari.",
+   "url": "https://iu.coloplast.us/about/",
+   "quote": "Coloplast is a leading global manufacturer and marketer of innovative medical devices for the management and treatment of urological conditions, including stress urinary incontinence, pelvic organ prolapse, kidney stones, erectile dysfunction and testicular replacement. || Welcome to the comprehensive resource center for healthcare professionals in the treatment of Prosthetic Urology, Endourology and Female Pelvic Medicine."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

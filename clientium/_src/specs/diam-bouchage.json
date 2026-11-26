@@ -1,0 +1,28 @@
+{
+ "slug": "diam-bouchage",
+ "company": "Diam Bouchage",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Diam progetta tappi in sughero tecnologici per vini fermi, spumanti e distillati e vende 2 miliardi di tappi l'anno in più di 80 paesi. Qui trova come lavoriamo e cosa potremmo fare per Diam Bouchage.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Diam Bouchage.",
+ "evidence": [
+  {
+   "claim": "Diam progetta tappi in sughero tecnologici per vini fermi, spumanti e distillati e vende 2 miliardi di tappi l'anno in più di 80 paesi.",
+   "url": "https://diam-cork.com/",
+   "quote": "Diam Bouchage conçoit des bouchons en liège technologiques pour chacun de vos vins. Leader mondial de bouchage en liège, nous commercialisons des produits pour vins tranquilles, effervescents et spiritueux. || 2 milliards de bouchons vendus chaque année leader des bouchons technologiques depuis 20 ans 652 collaborateurs dans le monde + de 16 000 clients actifs distribués dans + de 80 pays 80% de vente à l'export || Diam Bouchage vous offre la meilleure qualité de bouchage, adaptée aux spécificités de vos vins et spiritueux."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

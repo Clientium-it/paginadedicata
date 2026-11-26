@@ -1,0 +1,28 @@
+{
+ "slug": "m-d",
+ "company": "M&D Group",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "M&D Group dal 1945 opera nell'aftermarket automotive con i marchi Meat&Doria e Hoffer, oltre 40.000 referenze, 11 magazzini e 13 uffici. Qui trova come lavoriamo e cosa potremmo fare per M&D Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per M&D Group.",
+ "evidence": [
+  {
+   "claim": "M&D Group dal 1945 opera nell'aftermarket automotive con i marchi Meat&Doria e Hoffer, oltre 40.000 referenze, 11 magazzini e 13 uffici.",
+   "url": "https://meat-doria.com/en/company",
+   "quote": "Founded in 1945, M&D Group - with its brands Meat&Doria and Hoffer Products - is today an independent multinational reality and a global reference point in the automotive aftermarket. Our catalogue, in continuous growth, exceeds 40,000 references || 11 warehouses 13 offices || Collaboration agreements with Car Makers, Tier1 and OEMs."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

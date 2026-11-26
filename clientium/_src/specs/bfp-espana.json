@@ -1,0 +1,28 @@
+{
+ "slug": "bfp-espana",
+ "company": "BFP España",
+ "first_name": "Danilo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "BFP Group costruisce e manutiene impianti fotovoltaici anche utility scale con sede a Modugno in Puglia. Qui trova come lavoriamo e cosa potremmo fare per BFP España.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BFP España.",
+ "evidence": [
+  {
+   "claim": "BFP Group costruisce e manutiene impianti fotovoltaici anche utility scale con sede a Modugno in Puglia.",
+   "url": "https://www.bfpgroup.net/",
+   "quote": "Elettricista manutentore di impianti FV BFP Service Srl Lecce, Puglia, Italia Caposquadra elettrico costruzione FV Utility Scale BFP Service Srl Modugno, Puglia, Italia (in sede) || BFP GROUP - Via degli Arredatori, 8 70026 Modugno (BA), ITALY"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}
