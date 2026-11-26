@@ -1,0 +1,28 @@
+{
+ "slug": "bontempi-casa",
+ "company": "Bontempi Casa",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bontempi realizza arredamento di design dal 1963 e a Milano ha il Flagship Store in Via Turati con tavoli, sedute e complementi. Qui trova come lavoriamo e cosa potremmo fare per Bontempi Casa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bontempi Casa.",
+ "evidence": [
+  {
+   "claim": "Bontempi realizza arredamento di design dal 1963 e a Milano ha il Flagship Store in Via Turati con tavoli, sedute e complementi.",
+   "url": "https://bontempi.it/flagship/milano/",
+   "quote": "Il Flagship Store di Via Turati è l’indirizzo milanese di Bontempi, l’azienda che dal 1963 realizza arredamento di design. || Lo showroom Bontempi di Milano è in Via Filippo Turati 6, a pochi passi da Piazza Cavour e dalla fermata Turati della M3. Tavoli, sedute e complementi della collezione sono allestiti in ambienti completi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "ggroup",
+ "company": "GGroup",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "GGroup distribuisce all'ingrosso ricambi auto dal 1948 e dal 2020 serve tutta la Sicilia da Misterbianco con oltre 50.000 referenze. Qui trova come lavoriamo e cosa potremmo fare per GGroup.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GGroup.",
+ "evidence": [
+  {
+   "claim": "GGroup distribuisce all'ingrosso ricambi auto dal 1948 e dal 2020 serve tutta la Sicilia da Misterbianco con oltre 50.000 referenze.",
+   "url": "https://ggroup.eu/chi-siamo/",
+   "quote": "La storia di G Group inizia nel 1948 con la General Auto S.r.l ., attualmente la più antica e rinomata azienda Campana nella distribuzione all’ingrosso di ricambi auto. || Nel 2020 viene inaugurata la nuova sede GGroup Catania . Con il sito di Misterbianco (CT) viene avviata la distribuzione dei ricambi in tutta la Sicilia attraverso una filiale che gestisce oltre 50.000 referenze ."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "mankiewicz-coating-solutions",
+ "company": "Mankiewicz Coating Solutions",
+ "first_name": "Bruno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mankiewicz sviluppa e produce vernici su misura per la produzione industriale in serie nell'automotive, nel ferroviario, nell'energia e nell'aeronautica con 18 sedi. Qui trova come lavoriamo e cosa potremmo fare per Mankiewicz Coating Solutions.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mankiewicz Coating Solutions.",
+ "evidence": [
+  {
+   "claim": "Mankiewicz sviluppa e produce vernici su misura per la produzione industriale in serie nell'automotive, nel ferroviario, nell'energia e nell'aeronautica con 18 sedi.",
+   "url": "https://www.mankiewicz.com/de/",
+   "quote": "Mankiewicz entwickelt und produziert maßgeschneiderte High-Performance-Lacksysteme für die industrielle Serienfertigung. || Technischer Service in Ihrer Nähe bei einem unserer 18 Standorte || Automobil Bahn Energie Landmaschinen Lifestyle Coatings Luftfahrt"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

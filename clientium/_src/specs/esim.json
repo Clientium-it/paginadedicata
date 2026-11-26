@@ -1,0 +1,28 @@
+{
+ "slug": "esim",
+ "company": "ESIM",
+ "first_name": "Isabella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ESIM progetta impianti di segnalamento e trazione elettrica e da 25 anni fa diagnostica ferroviaria con sedi a Bari, Roma, in Spagna e Serbia. Qui trova come lavoriamo e cosa potremmo fare per ESIM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ESIM.",
+ "evidence": [
+  {
+   "claim": "ESIM progetta impianti di segnalamento e trazione elettrica e da 25 anni fa diagnostica ferroviaria con sedi a Bari, Roma, in Spagna e Serbia.",
+   "url": "https://www.esimgroup.com/",
+   "quote": "Dalle prime esperienze nella progettazione e realizzazione di impianti di Sicurezza e Segnalamento Ferroviario e Trazione Elettrica, ESIM ha saputo evolversi e reinventarsi. Negli ultimi 25 anni, l’azienda ha sviluppato competenze uniche e innovative nel settore della Diagnostica Ferroviaria. || ESIM è oggi presente sul territorio italiano con la sede storica principale di Bari e con la sede di Roma; completano la localizzazione le sedi in Spagna e Serbia."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "f-divella-4",
+ "company": "F. Divella",
+ "first_name": "Leonardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Divella produce pasta di semola di grano duro dal 1890 e ha mulini e stabilimenti per pasta secca, fresca e biscotti su oltre 200k mq. Qui trova come lavoriamo e cosa potremmo fare per F. Divella.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per F. Divella.",
+ "evidence": [
+  {
+   "claim": "Divella produce pasta di semola di grano duro dal 1890 e ha mulini e stabilimenti per pasta secca, fresca e biscotti su oltre 200k mq.",
+   "url": "https://www.divella.it/it/azienda/",
+   "quote": "Divella, dal 1890, è produttrice di pasta di semola di grano duro: una storia iniziata per mano di Francesco Divella che realizza il suo primo molino per la macinazione del grano a Rutigliano || 2 mulini Grano duro 1 mulino Grano tenero + 200k mq Di stabilimenti produttivi 1 Stabilimento Produzione di pasta secca 13 linee Di produzione di pasta secca 1 Stabilimento Produzione di pasta fresca 1 Stabilimento Produzione di biscotti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

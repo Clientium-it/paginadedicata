@@ -1,0 +1,28 @@
+{
+ "slug": "centroplan-italia",
+ "company": "Centroplan Italia",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Centroplan progetta, costruisce e gestisce impianti fotovoltaici e accumuli per aziende di produzione, logistica, commercio e agricoltura con installazioni in 21 paesi. Qui trova come lavoriamo e cosa potremmo fare per Centroplan Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Centroplan Italia.",
+ "evidence": [
+  {
+   "claim": "Centroplan progetta, costruisce e gestisce impianti fotovoltaici e accumuli per aziende di produzione, logistica, commercio e agricoltura con installazioni in 21 paesi.",
+   "url": "https://www.centroplan.com/",
+   "quote": "Centroplan plant, baut und betreibt Energiesysteme für Unternehmen: Photovoltaik, Speicher, Energiemanagement und Stromvermarktung aus einer Hand. Unsere Kunden kommen aus Produktion, Logistik, Handel und Landwirtschaft. || In 21 Ländern stehen bereits Anlagen von Centroplan. || Unsere Kunden kommen aus Produktion, Logistik, Handel und Landwirtschaft."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "greenenergy",
+ "company": "Greenenergy Holding",
+ "first_name": "Dino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Greenenergy da oltre 30 anni trasporta, tratta e recupera rifiuti liquidi e solidi in tutta Italia e si occupa anche di bonifiche di siti contaminati. Qui trova come lavoriamo e cosa potremmo fare per Greenenergy Holding.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Greenenergy Holding.",
+ "evidence": [
+  {
+   "claim": "Greenenergy da oltre 30 anni trasporta, tratta e recupera rifiuti liquidi e solidi in tutta Italia e si occupa anche di bonifiche di siti contaminati.",
+   "url": "https://www.greenenergyholdingspa.it/",
+   "quote": "Il Gruppo opera da oltre 30 anni nel campo del Waste Management ed è in grado di avviare allo smaltimento o al recupero tutte le tipologie di rifiuti liquidi o solidi || Il Gruppo è operativo sull’intero territorio nazionale con un approccio integrato al trasporto, trattamento e valorizzazione dei rifiuti e dispone di un settore dedicato alle attività di bonifica di siti contaminati."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

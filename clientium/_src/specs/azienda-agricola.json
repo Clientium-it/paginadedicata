@@ -1,0 +1,28 @@
+{
+ "slug": "azienda-agricola",
+ "company": "Azienda Agricola",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Collefrisio coltiva Montepulciano, Pecorino e Trebbiano sulla collina di Frisa, tra la Maiella e l'Adriatico, da tre generazioni. Qui trova come lavoriamo e cosa potremmo fare per Azienda Agricola.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Azienda Agricola.",
+ "evidence": [
+  {
+   "claim": "Collefrisio coltiva Montepulciano, Pecorino e Trebbiano sulla collina di Frisa, tra la Maiella e l'Adriatico, da tre generazioni.",
+   "url": "https://www.collefrisio.it/",
+   "quote": "Le vigne di Collefrisio stanno tra la Maiella e l’Adriatico, sulla collina di Frisa. Qui coltiviamo Montepulciano, Pecorino e Trebbiano: gli stessi vitigni della famiglia, da tre generazioni. || Cantina Collefrisio Srl Loc. Piane di Maggio 66030 Frisa (CH) · Abruzzo || Informazioni sulle etichette, ordini, collaborazioni con enoteche e ristorazione: scrivici, ti rispondiamo noi."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

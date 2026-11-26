@@ -1,0 +1,28 @@
+{
+ "slug": "dicofarm",
+ "company": "Dicofarm",
+ "first_name": "Gabriele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dicofarm è un'azienda farmaceutica nata nel 1977 dedicata alle esigenze di neonato e bambino e nel 2025 ha aperto Dicofarm Spagna e Dicofarm Romania. Qui trova come lavoriamo e cosa potremmo fare per Dicofarm.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dicofarm.",
+ "evidence": [
+  {
+   "claim": "Dicofarm è un'azienda farmaceutica nata nel 1977 dedicata alle esigenze di neonato e bambino e nel 2025 ha aperto Dicofarm Spagna e Dicofarm Romania.",
+   "url": "https://dicofarm.com:443/it/linea-pediatrica/",
+   "quote": "Dicofarm , azienda farmaceutica fondata nel 1977, è da sempre attenta alle esigenze del neonato e del bambino. || Nel 2025 il Gruppo ha ulteriormente rafforzato la propria presenza all’estero con la nascita di Dicofarm Spagna e Dicofarm Romania"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

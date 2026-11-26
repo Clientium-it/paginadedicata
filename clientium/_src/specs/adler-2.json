@@ -1,0 +1,28 @@
+{
+ "slug": "adler-2",
+ "company": "Adler Group",
+ "first_name": "Eddy",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Adler produce dal 1956 sistemi per il comfort acustico e termico e interni per veicoli automotive, aerospaziali e ferroviari, operando in 23 paesi. Qui trova come lavoriamo e cosa potremmo fare per Adler Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Adler Group.",
+ "evidence": [
+  {
+   "claim": "Adler produce dal 1956 sistemi per il comfort acustico e termico e interni per veicoli automotive, aerospaziali e ferroviari, operando in 23 paesi.",
+   "url": "https://www.gruppoadler.it/",
+   "quote": "Fondato nel 1956 a Ottaviano (Napoli), oggi è il primo produttore in Italia e il secondo al mondo di sistemi per il comfort acustico, termico, arredamento interno per veicoli del settore automotive, aerospaziale e ferroviario. || Adler-Pelzer è fornitore e partner tecnologico dei principali brand mondiali del settore automotive ed opera in 23 Paesi nel mondo. || Oggi Adler Pelzer Group è fornitore e partner tecnologico dei principali produttori mondiali nei settori dell’automotive e dell’aeronautica, tra cui Volkswagen, Audi, Mercedes-Benz, Porsche, Ferrari, Rolls Royce, AgustaWestland, Boeing e Bombardier."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

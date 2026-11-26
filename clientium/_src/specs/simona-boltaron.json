@@ -1,0 +1,28 @@
+{
+ "slug": "simona-boltaron",
+ "company": "SIMONA Boltaron",
+ "first_name": "Tanya",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Boltaron produce lastre e film rigidi calandrati ed estrusi nello stabilimento di Newcomerstown in Ohio per aerospazio, trasporti e termoformatura. Qui trova come lavoriamo e cosa potremmo fare per SIMONA Boltaron.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SIMONA Boltaron.",
+ "evidence": [
+  {
+   "claim": "Boltaron produce lastre e film rigidi calandrati ed estrusi nello stabilimento di Newcomerstown in Ohio per aerospazio, trasporti e termoformatura.",
+   "url": "https://www.boltaron.com/about/",
+   "quote": "Our manufacturing facility produces calendered, extruded and press laminated rigid film and sheet from 6 mm to 4 inches thick, in standard and custom dimensions, colors and compounds. || Currently in operation at our Newcomerstown, OH plant is 1 calender line, 4 extrusion lines and 3 laminating presses in nearly 200,000 square feet of manufacturing and office space. || diverse industries and applications including: aerospace, mass transportation, general thermoforming, corrosion resistance and wall protection."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

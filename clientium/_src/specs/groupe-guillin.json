@@ -1,0 +1,28 @@
+{
+ "slug": "groupe-guillin",
+ "company": "Groupe GUILLIN",
+ "first_name": "Laetitia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Guillin crea imballaggi alimentari per grande distribuzione, ristorazione e industria agroalimentare con società in Italia, Spagna, Germania, Polonia e altri paesi europei. Qui trova come lavoriamo e cosa potremmo fare per Groupe GUILLIN.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Groupe GUILLIN.",
+ "evidence": [
+  {
+   "claim": "Guillin crea imballaggi alimentari per grande distribuzione, ristorazione e industria agroalimentare con società in Italia, Spagna, Germania, Polonia e altri paesi europei.",
+   "url": "https://www.groupeguillin.fr/",
+   "quote": "Nous créons des solutions d’emballage alimentaire responsables uniques en Europe || GUILLIN DEUTSCHLAND GUILLIN EMBALLAGES GUILLIN ESPAÑA GUILLIN ITALIA GUILLIN NEDERLAND GUILLIN POLSKA GUILLIN PORTUGAL || Grandes et moyennes surfaces Restauration Commerciale Commerce traditionnel Restauration Collective Industrie Agroalimentaire Fruits et Légumes"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "elcon-megarad",
+ "company": "Elcon Megarad",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Elcon Megarad da quarant'anni progetta e produce ad Avellino e Caserta accessori per cavi di bassa, media e alta tensione per le utility elettriche. Qui trova come lavoriamo e cosa potremmo fare per Elcon Megarad.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Elcon Megarad.",
+ "evidence": [
+  {
+   "claim": "Elcon Megarad da quarant'anni progetta e produce ad Avellino e Caserta accessori per cavi di bassa, media e alta tensione per le utility elettriche.",
+   "url": "https://www.elconmegarad.com/azienda/",
+   "quote": "Attiva e riconosciuta a livello internazionale nel campo della progettazione e produzione di componenti ed accessori per cavi elettrici energia di bassa, media e alta tensione || Elcon Megarad nei due siti produttivi di Avellino e di Caserta produce tutti i componenti principali e di maggior valore tecnologico presenti all’interno dei propri corredi || Elcon Megarad ha in quarant’anni maturato una profonda esperienza sul mercato mondiale come fornitore delle più importanti Utility di gestione della rete elettrica"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

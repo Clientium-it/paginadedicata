@@ -1,0 +1,28 @@
+{
+ "slug": "cesare-fiorucci",
+ "company": "Cesare Fiorucci",
+ "first_name": "William",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fiorucci propone mortadelle, prosciutti crudi e cotti, salami, arrosti, würstel e affettati con una gamma dedicata anche al food service. Qui trova come lavoriamo e cosa potremmo fare per Cesare Fiorucci.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cesare Fiorucci.",
+ "evidence": [
+  {
+   "claim": "Fiorucci propone mortadelle, prosciutti crudi e cotti, salami, arrosti, würstel e affettati con una gamma dedicata anche al food service.",
+   "url": "https://www.fioruccisalumi.it/",
+   "quote": "Tutti i Prodotti Mortadelle Prosciutti Crudi Prosciutti Cotti Salami Arrosti Specialità Stagionate Affettati Würstel Cubetti e Tranci Precotti Food Service || CESARE FIORUCCI S.p.A., Località Santa Palomba, Viale Cesare Fiorucci n. 11 – 00071 Pomezia (RM)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

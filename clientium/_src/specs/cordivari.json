@@ -1,0 +1,28 @@
+{
+ "slug": "cordivari",
+ "company": "Cordivari",
+ "first_name": "Vito",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cordivari produce sistemi idrotermici per l'ambito domestico, civile e industriale in 4 stabilimenti in Italia. Qui trova come lavoriamo e cosa potremmo fare per Cordivari.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cordivari.",
+ "evidence": [
+  {
+   "claim": "Cordivari produce sistemi idrotermici per l'ambito domestico, civile e industriale in 4 stabilimenti in Italia.",
+   "url": "https://www.cordivari.it/azienda/",
+   "quote": "L’azienda è specializzata nella produzione di sistemi idrotermici destinati all’ambito domestico, civile ed industriale. || L’azienda produce l’intera gamma in 4 stabilimenti industriali situati in Italia. || sistemi idrotermici destinati all’ambito domestico, civile ed industriale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

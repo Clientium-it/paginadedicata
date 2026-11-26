@@ -1,0 +1,28 @@
+{
+ "slug": "emmeci-3",
+ "company": "EMMECI",
+ "first_name": "Ilaria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Emmeci progetta, produce e collauda a Cerreto Guidi macchinari per moda, cosmetica, cioccolato e vini, con filiali a Parigi e negli Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per EMMECI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per EMMECI.",
+ "evidence": [
+  {
+   "claim": "Emmeci progetta, produce e collauda a Cerreto Guidi macchinari per moda, cosmetica, cioccolato e vini, con filiali a Parigi e negli Stati Uniti.",
+   "url": "https://www.emmeci.it/en/about-us/facts-and-figures",
+   "quote": "All research, development, production and final testing of equipment take place at Emmeci Headquarters, located in Cerreto Guidi (Florence), Italy. || thanks to its two branch offices (Emmeci Europa, Paris - France and Emmeci USA, Franklin - USA) and to its network of distributors and sales agents in different countries of the world || accessories/ fashion, cosmetics and perfumery, chocolate and confectionery, wines and liquors, sparkling wines and champagne, electronics and multimedia, jewellery and watches"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

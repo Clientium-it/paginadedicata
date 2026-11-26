@@ -1,0 +1,28 @@
+{
+ "slug": "confassociazioni",
+ "company": "CONFASSOCIAZIONI",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Confassociazioni riunisce federazioni, associazioni, imprese e professionisti in Italia e in Europa e promuove lo sviluppo delle associazioni professionali. Qui trova come lavoriamo e cosa potremmo fare per CONFASSOCIAZIONI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CONFASSOCIAZIONI.",
+ "evidence": [
+  {
+   "claim": "Confassociazioni riunisce federazioni, associazioni, imprese e professionisti in Italia e in Europa e promuove lo sviluppo delle associazioni professionali.",
+   "url": "https://www.confassociazioni.eu/chi-siamo/",
+   "quote": "CONFASSOCIAZIONI è l’espressione unitaria delle Federazioni, dei Coordinamenti, delle Associazioni, delle imprese, dei professionisti e delle persone che risiedono in Italia ed in Europa || Viale Louis Pasteur 49, 00144 Roma || Promuoviamo lo sviluppo delle associazioni professionali e il loro dialogo continuo con le imprese e soggetti del Terzo Settore"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

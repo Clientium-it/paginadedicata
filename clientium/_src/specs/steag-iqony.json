@@ -1,0 +1,28 @@
+{
+ "slug": "steag-iqony",
+ "company": "Steag Iqony Group",
+ "first_name": "Sarah",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Iqony conta circa 2.600 persone nel mondo che realizzano progetti di solare, eolico, geotermia, idrogeno e accumulo per industrie, utility e comuni. Qui trova come lavoriamo e cosa potremmo fare per Steag Iqony Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Steag Iqony Group.",
+ "evidence": [
+  {
+   "claim": "Iqony conta circa 2.600 persone nel mondo che realizzano progetti di solare, eolico, geotermia, idrogeno e accumulo per industrie, utility e comuni.",
+   "url": "https://www.steag-iqony-group.com/en/company/companies-divisions/iqony-gmbh",
+   "quote": "In addition to solar, wind and geothermal energy, the portfolio includes hydrogen solutions, storage technologies, engineering services and gas-fired power plants. || Around 2,600 employees worldwide implement projects for major industrial companies, utilities, cities and municipalities in numerous countries across the globe. || Around 2,600 employees worldwide implement projects for major industrial companies, utilities, cities and municipalities in numerous countries across the globe."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

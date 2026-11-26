@@ -1,0 +1,28 @@
+{
+ "slug": "green-arrow-capital",
+ "company": "Green Arrow Capital",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Green Arrow Capital investe con un approccio industriale e sostenibile attraverso 7 strategie, con sedi operative in Italia, Lussemburgo e Spagna. Qui trova come lavoriamo e cosa potremmo fare per Green Arrow Capital.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Green Arrow Capital.",
+ "evidence": [
+  {
+   "claim": "Green Arrow Capital investe con un approccio industriale e sostenibile attraverso 7 strategie, con sedi operative in Italia, Lussemburgo e Spagna.",
+   "url": "https://www.greenarrow-capital.com/about",
+   "quote": "Fondata su un approccio all’investimento industriale e sostenibile, il Gruppo opera attraverso 7 strategie mirate a proteggere il capitale e generare rendimenti di lungo periodo || Green Arrow Capital ha sedi operative in Italia, Lussemburgo e Spagna che supportano le attività di investimento"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

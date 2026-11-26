@@ -1,0 +1,28 @@
+{
+ "slug": "almo-nature-benefit",
+ "company": "Almo Nature Benefit",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Almo Nature ha sede a Genova, vende in 50 paesi e ha filiali dalla Germania al Canada e agli Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per Almo Nature Benefit.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Almo Nature Benefit.",
+ "evidence": [
+  {
+   "claim": "Almo Nature ha sede a Genova, vende in 50 paesi e ha filiali dalla Germania al Canada e agli Stati Uniti.",
+   "url": "https://www.almonature.com/it/la-storia",
+   "quote": "Con sede principale a Genova, Almo Nature è oggi una “multinazionale tascabile”, punto di riferimento e un centro del sapere per l’innovazione nel settore. 50 Paesi serviti Almo Nature vende i propri prodotti in tutto il mondo. || 9 filiali Oltre all’Italia, Almo Nature ha aperto filiali in Germania, Francia, Svizzera, Spagna, Gran Bretagna, Paesi Bassi, Canada e Stati Uniti d’America."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

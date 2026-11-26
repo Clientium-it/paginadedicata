@@ -1,0 +1,28 @@
+{
+ "slug": "elleci",
+ "company": "Elleci",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Elleci progetta e produce in Italia lavelli, lavabi e accessori per cucina e bagno con filiali a Shanghai, in Polonia, Germania, Regno Unito e Baltico. Qui trova come lavoriamo e cosa potremmo fare per Elleci.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Elleci.",
+ "evidence": [
+  {
+   "claim": "Elleci progetta e produce in Italia lavelli, lavabi e accessori per cucina e bagno con filiali a Shanghai, in Polonia, Germania, Regno Unito e Baltico.",
+   "url": "https://www.elleci.com/company/",
+   "quote": "Elleci is an international company of Italian origin that designs, manufactures and distributes sinks, basins and design accessories for the kitchen and bathroom. || Elleci has its headquarters in Italy for design and production (exclusively ‘Made In Italy’), and wholly owned subsidiaries abroad for marketing and distribution: Elleci Shanghai | Elleci Polska | Elleci Deutschland | Elleci UK | Elleci Baltic."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}
