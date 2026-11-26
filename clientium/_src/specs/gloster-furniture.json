@@ -1,0 +1,28 @@
+{
+ "slug": "gloster-furniture",
+ "company": "Gloster Furniture",
+ "first_name": "Lorenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gloster produce arredi dal 1960, con radici in Africa occidentale e la fabbrica in Indonesia, anche per progetti hospitality e contract. Qui trova come lavoriamo e cosa potremmo fare per Gloster Furniture.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gloster Furniture.",
+ "evidence": [
+  {
+   "claim": "Gloster produce arredi dal 1960, con radici in Africa occidentale e la fabbrica in Indonesia, anche per progetti hospitality e contract.",
+   "url": "https://www.gloster.com/en/about",
+   "quote": "Gloster’s roots can be traced all the way back to West Africa in 1960, where a band of passionate entrepreneurs and furniture makers took the first steps on a long journey. || By the late 1980’s, increased demand and access to plantation grown teak led us to move our factory to Indonesia. || Explore specialized solutions for hospitality and contract projects."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

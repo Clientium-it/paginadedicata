@@ -1,0 +1,28 @@
+{
+ "slug": "italpizza",
+ "company": "ITALPIZZA",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Italpizza dal 1991 produce pizze con lievitazione di almeno 24 ore e cottura su pietra in forno a legna, oggi presenti in 56 paesi. Qui trova come lavoriamo e cosa potremmo fare per ITALPIZZA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ITALPIZZA.",
+ "evidence": [
+  {
+   "claim": "Italpizza dal 1991 produce pizze con lievitazione di almeno 24 ore e cottura su pietra in forno a legna, oggi presenti in 56 paesi.",
+   "url": "https://italpizza.com/chi-siamo/",
+   "quote": "lievitazione naturale per almeno 24 ore, stenditura manuale, cottura su pietra in vero forno a legna. || Noi dal 1991 impastiamo e inforniamo e siamo anche arrivati lontano: oggi se ti piace viaggiare, ma ti manca la pizza (quella Vera), siamo lì per te: in 56 paesi in tutto il mondo potrai ritrovare una fetta d'Italia!"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

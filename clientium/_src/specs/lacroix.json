@@ -1,0 +1,28 @@
+{
+ "slug": "lacroix",
+ "company": "LACROIX",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lacroix progetta e produce dal 1981 in Francia e Belgio apparecchi per l'illuminazione intelligente venduti in oltre 35 paesi. Qui trova come lavoriamo e cosa potremmo fare per LACROIX.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LACROIX.",
+ "evidence": [
+  {
+   "claim": "Lacroix progetta e produce dal 1981 in Francia e Belgio apparecchi per l'illuminazione intelligente venduti in oltre 35 paesi.",
+   "url": "https://www.lacroix-environment.com/",
+   "quote": "provides public and private clients with connected and secure electronic equipment and Industrial IoT solutions for water networks, HVAC installations, electrical grids, and public lighting networks || Since 1981 , we’ve been designing and manufacturing smart lighting equipment in France and Belgium, and marketing it in over 35 countries || we support operators, local authorities, and network managers in the intelligent supervision and control of their technical equipment"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

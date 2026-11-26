@@ -1,0 +1,28 @@
+{
+ "slug": "atlanta-stretch-2",
+ "company": "Atlanta Stretch",
+ "first_name": "Moreno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Atlanta Stretch progetta e produce avvolgipallet automatiche e semiautomatiche con film estensibile e reggiatrici, distribuite in oltre 100 paesi dal food al farmaceutico. Qui trova come lavoriamo e cosa potremmo fare per Atlanta Stretch.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Atlanta Stretch.",
+ "evidence": [
+  {
+   "claim": "Atlanta Stretch progetta e produce avvolgipallet automatiche e semiautomatiche con film estensibile e reggiatrici, distribuite in oltre 100 paesi dal food al farmaceutico.",
+   "url": "https://www.atlantastretch.com/company/",
+   "quote": "We are specialised in the design and production of automatic and semi-automatic pallet wrapping machine s with stretch film, automatic machines for applying strapping to pallets || It allows us to distribute products in over 100 countries worldwide || For each industrial sector, from food to beverage, from the cardboard and tissue industry to the pharmaceutical chemical industry, we have the right solutions"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "adler-ortho",
+ "company": "Adler Ortho",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Adler Ortho progetta, produce e commercializza protesi articolari per l'ortopedia, con sede a Cormano e uno stabilimento a Bari dedicato alla stampa 3D. Qui trova come lavoriamo e cosa potremmo fare per Adler Ortho.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Adler Ortho.",
+ "evidence": [
+  {
+   "claim": "Adler Ortho progetta, produce e commercializza protesi articolari per l'ortopedia, con sede a Cormano e uno stabilimento a Bari dedicato alla stampa 3D.",
+   "url": "https://www.adlerortho.com/about-adler/",
+   "quote": "Adler Ortho ® is a private company specialised in designing, manufacturing, and marketing articular prostheses and other medical products for the orthopaedic market. || Adler Ortho ® has three highly advanced production units: The main headquarters in Cormano (Milan) where all Adler Ortho® implants are also designed. The high-tech factory in Bari , entirely dedicated to the 3D printing"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

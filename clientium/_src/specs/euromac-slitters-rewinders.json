@@ -1,0 +1,28 @@
+{
+ "slug": "euromac-slitters-rewinders",
+ "company": "Euromac Slitters Rewinders",
+ "first_name": "Pietro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Euromac costruisce dal 1968 a Villanova Monferrato taglierine ribobinatrici per film plastici, carta e alluminio, con 120 dipendenti e circa l'80% della produzione all'estero. Qui trova come lavoriamo e cosa potremmo fare per Euromac Slitters Rewinders.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Euromac Slitters Rewinders.",
+ "evidence": [
+  {
+   "claim": "Euromac costruisce dal 1968 a Villanova Monferrato taglierine ribobinatrici per film plastici, carta e alluminio, con 120 dipendenti e circa l'80% della produzione all'estero.",
+   "url": "https://www.euromacslitters.com/azienda/",
+   "quote": "Euromac Costruzioni Meccaniche S.r.l. , fondata nel 1968 a Villanova Monferrato è tra i Leader mondiali nella produzione di Taglierine ribobinatrici per film plastici, carta, alluminio ed altri materiali per il packaging alimentare e non. || Con un organico complessivo di 120 dipendenti dislocati in due sedi, per una superficie coperta totale di 18.000 m² la produzione annuale, in costante crescita, viene assorbita per circa l’80% dai mercati esteri."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

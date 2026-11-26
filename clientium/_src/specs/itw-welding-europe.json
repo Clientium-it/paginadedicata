@@ -1,0 +1,28 @@
+{
+ "slug": "itw-welding-europe",
+ "company": "ITW Welding Europe",
+ "first_name": "Jean Baptiste",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ITW Welding ha centri regionali di applicazione tecnologica e team di supporto tecnico sul campo dedicati a risolvere le sfide di saldatura dei clienti. Qui trova come lavoriamo e cosa potremmo fare per ITW Welding Europe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ITW Welding Europe.",
+ "evidence": [
+  {
+   "claim": "ITW Welding ha centri regionali di applicazione tecnologica e team di supporto tecnico sul campo dedicati a risolvere le sfide di saldatura dei clienti.",
+   "url": "https://www.itwwelding.com/",
+   "quote": "Our regional technology application centers and technical field support teams are dedicated to helping you solve your welding challenges today and in the future. || ITW employs more than 43,000 people, and is based in Glenview, Illinois, with operations in 52 countries."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

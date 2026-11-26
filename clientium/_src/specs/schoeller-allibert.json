@@ -1,0 +1,28 @@
+{
+ "slug": "schoeller-allibert",
+ "company": "Schoeller Allibert",
+ "first_name": "Sara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IPL Schoeller nasce nel 2025 dalla fusione tra IPL e Schoeller Allibert e lavora per agricoltura, bevande, pharma e chimica con 11 siti produttivi. Qui trova come lavoriamo e cosa potremmo fare per Schoeller Allibert.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Schoeller Allibert.",
+ "evidence": [
+  {
+   "claim": "IPL Schoeller nasce nel 2025 dalla fusione tra IPL e Schoeller Allibert e lavora per agricoltura, bevande, pharma e chimica con 11 siti produttivi.",
+   "url": "https://www.iplschoeller.com/about-us/our-history",
+   "quote": "IPL Schoeller was created in 2025 through the merger of IPL and Schoeller Allibert. || By 2024 , the company employed around 1,600 people across 11 production sites. || Industries Agriculture Beverages Pharma Industrial & Chemicals Retail"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "atlantic-fluid-tech-4",
+ "company": "ATLANTIC FLUID TECH",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Atlantic Fluid Tech dal 1979 progetta e produce in Italia valvole idrauliche e circuiti integrati per macchine agricole, movimento terra e sollevamento, con 6 stabilimenti. Qui trova come lavoriamo e cosa potremmo fare per ATLANTIC FLUID TECH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ATLANTIC FLUID TECH.",
+ "evidence": [
+  {
+   "claim": "Atlantic Fluid Tech dal 1979 progetta e produce in Italia valvole idrauliche e circuiti integrati per macchine agricole, movimento terra e sollevamento, con 6 stabilimenti.",
+   "url": "https://www.atlanticfluidtech.com/",
+   "quote": "Since 1979 Atlantic Fluid Tech has been designing and manufacturing in Italy hydraulic valves and integrated circuits. We offer ad-hoc solutions for any customer’s request in agricultural, construction, earth-moving, lifting, handling and drilling machinery || In our 6 manufacturing plants only the state-of-the-art technology is used || in agricultural, construction, earth-moving, lifting, handling and drilling machinery, as well as in industrial vehicles"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

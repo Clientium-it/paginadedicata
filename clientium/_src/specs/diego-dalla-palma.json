@@ -1,0 +1,28 @@
+{
+ "slug": "diego-dalla-palma",
+ "company": "Gruppo Diego dalla Palma",
+ "first_name": "Adele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Diego dalla Palma propone makeup e prodotti per viso, corpo e capelli, con cofanetti regalo e un Pro Program. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Diego dalla Palma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Diego dalla Palma.",
+ "evidence": [
+  {
+   "claim": "Diego dalla Palma propone makeup e prodotti per viso, corpo e capelli, con cofanetti regalo e un Pro Program.",
+   "url": "https://diegodallapalma.com/",
+   "quote": "Novità Makeup Viso Corpo Capelli Cofanetti e idee regalo Pet Beauty Promozioni Pro Program Magazine"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

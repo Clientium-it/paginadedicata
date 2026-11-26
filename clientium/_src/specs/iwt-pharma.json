@@ -1,0 +1,28 @@
+{
+ "slug": "iwt-pharma",
+ "company": "IWT Pharma",
+ "first_name": "Pietro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IWT realizza a Varese, su oltre 20.000 mq di produzione, soluzioni di lavaggio, isolamento e decontaminazione per farmaceutico, nutraceutico e cosmetico. Qui trova come lavoriamo e cosa potremmo fare per IWT Pharma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IWT Pharma.",
+ "evidence": [
+  {
+   "claim": "IWT realizza a Varese, su oltre 20.000 mq di produzione, soluzioni di lavaggio, isolamento e decontaminazione per farmaceutico, nutraceutico e cosmetico.",
+   "url": "https://www.iwtpharma.com/en/company-overview.html",
+   "quote": "IWT offers a comprehensive range of cleaning, isolation, and decontamination solutions for the pharmaceutical, nutraceutical, cosmetic markets, and related industries. || Our manufacturing base in Varese, just a few kilometers away from Milan Malpensa International Airport, spans over 20,000 square meters (215,000 square feet) of production areas || IWT – GMP solutions for cleaning, sterile isolation, decontamination and ATMPs in pharmaceutical, biotech and Cell & Gene Therapy sectors."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

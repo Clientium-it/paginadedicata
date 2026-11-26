@@ -1,0 +1,28 @@
+{
+ "slug": "bormioli-pharma-2",
+ "company": "Bormioli Pharma",
+ "first_name": "Romolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bormioli Pharma produce packaging primario farmaceutico e sistemi per somministrare i medicinali, e fa parte del Gruppo Gerresheimer. Qui trova come lavoriamo e cosa potremmo fare per Bormioli Pharma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bormioli Pharma.",
+ "evidence": [
+  {
+   "claim": "Bormioli Pharma produce packaging primario farmaceutico e sistemi per somministrare i medicinali, e fa parte del Gruppo Gerresheimer.",
+   "url": "https://www.bormiolipharma.com/",
+   "quote": "L’ampia gamma di prodotti di Bormioli Pharma comprende packaging primario farmaceutico e sistemi e soluzioni per una somministrazione sicura e semplice dei medicinali. || Bormioli Pharma fa parte del Gruppo Gerresheimer, un fornitore globale di sistemi e soluzioni per l’industria farmaceutica e biotech."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

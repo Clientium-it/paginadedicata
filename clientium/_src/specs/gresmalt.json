@@ -1,0 +1,28 @@
+{
+ "slug": "gresmalt",
+ "company": "Gresmalt Group",
+ "first_name": "Leonardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gresmalt sviluppa, produce e distribuisce prodotti ceramici per l'edilizia da oltre cinquant'anni con 7 sedi e circa 500 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per Gresmalt Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gresmalt Group.",
+ "evidence": [
+  {
+   "claim": "Gresmalt sviluppa, produce e distribuisce prodotti ceramici per l'edilizia da oltre cinquant'anni con 7 sedi e circa 500 dipendenti.",
+   "url": "https://www.gresmalt.it/il-gruppo/storia/",
+   "quote": "Il Gruppo Ceramiche Gresmalt è specializzato nello sviluppo, produzione e distribuzione di prodotti ceramici per l’edilizia. || Oggi, dopo oltre cinquant’anni, è uno dei primi attori del settore per superficie prodotta, con 7 sedi e circa 500 dipendenti."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

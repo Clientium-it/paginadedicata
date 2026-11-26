@@ -1,0 +1,28 @@
+{
+ "slug": "kawasaki-precision-machinery-uk",
+ "company": "Kawasaki Precision Machinery (UK) Ltd",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Kawasaki produce motori e pompe a pistoni, valvole e controlli idraulici con stabilimenti in Giappone, Cina, Corea, India e Regno Unito. Qui trova come lavoriamo e cosa potremmo fare per Kawasaki Precision Machinery (UK) Ltd.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kawasaki Precision Machinery (UK) Ltd.",
+ "evidence": [
+  {
+   "claim": "Kawasaki produce motori e pompe a pistoni, valvole e controlli idraulici con stabilimenti in Giappone, Cina, Corea, India e Regno Unito.",
+   "url": "https://www.kawasakihydraulics.com/about/",
+   "quote": "Our extensive hydraulic product range includes radial and axial piston motors, axial piston pumps as well as hydraulic valves and controllers. || With manufacturing facilities in Japan, China, Korea, India and the UK and a global sales support network Kawasaki is ideally placed to support our customers worldwide."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

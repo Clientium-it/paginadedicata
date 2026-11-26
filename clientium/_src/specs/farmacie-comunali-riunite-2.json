@@ -1,0 +1,28 @@
+{
+ "slug": "farmacie-comunali-riunite-2",
+ "company": "FARMACIE COMUNALI RIUNITE",
+ "first_name": "Filippo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Farmacie Comunali Riunite gestisce 31 farmacie comunali a Reggio Emilia e provincia e distribuisce all'ingrosso medicinali e parafarmaci con 265 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per FARMACIE COMUNALI RIUNITE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FARMACIE COMUNALI RIUNITE.",
+ "evidence": [
+  {
+   "claim": "Farmacie Comunali Riunite gestisce 31 farmacie comunali a Reggio Emilia e provincia e distribuisce all'ingrosso medicinali e parafarmaci con 265 dipendenti.",
+   "url": "https://www.fcr.re.it/azienda",
+   "quote": "Gestione delle farmacie comunali site nel Comune di Reggio Emilia e di altri Comuni della Provincia Distribuzione all'ingrosso di specialità medicinali, prodotti parafarmaceutici e prodotti per la salute || 31 Farmacie aziendali 20000 Assortimento prodotti 265 Dipendenti || Attività di e-commerce per strutture sanitarie Attività di e-commerce per il consumatore Informazione scientifica per gli operatori sanitari"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

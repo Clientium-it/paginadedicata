@@ -1,0 +1,28 @@
+{
+ "slug": "egicon",
+ "company": "EGICON",
+ "first_name": "Giuliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Egicon progetta e produce soluzioni elettroniche Plug & Play per brand europei dell'automotive e dell'industria, con 33 ingegneri in R&D su 2 stabilimenti. Qui trova come lavoriamo e cosa potremmo fare per EGICON.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per EGICON.",
+ "evidence": [
+  {
+   "claim": "Egicon progetta e produce soluzioni elettroniche Plug & Play per brand europei dell'automotive e dell'industria, con 33 ingegneri in R&D su 2 stabilimenti.",
+   "url": "https://www.egicon.com/en/about",
+   "quote": "We design and produce “Plug & Play” electronic solutions for high-performance systems, where reliability, durability and longevity are top priority requirements. || 4000 sqm on 2 plants 33 engineers on R&D 2 ELECTRONIC PRODUCTION LINES || We collaborate with top European brands active in the automotive and industrial sectors."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

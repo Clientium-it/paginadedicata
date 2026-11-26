@@ -1,0 +1,28 @@
+{
+ "slug": "emicon-2",
+ "company": "EMICON",
+ "first_name": "Patrick",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Emicon progetta dal 1984 in Emilia Romagna condizionatori di precisione per sale IT, chiller, pompe di calore e rooftop, con oltre 250 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per EMICON.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per EMICON.",
+ "evidence": [
+  {
+   "claim": "Emicon progetta dal 1984 in Emilia Romagna condizionatori di precisione per sale IT, chiller, pompe di calore e rooftop, con oltre 250 dipendenti.",
+   "url": "https://www.emiconac.it/about/",
+   "quote": "Emicon was founded in 1984 in Emilia Romagna, dedicated to the design of precision air conditioners for IT rooms. The company later expanded its design and production to include industrial chillers, heat pumps and rooftop units. || It features a production area of 22,000 sqm in Italy, over 250 employees, 8 foreign sales offices and dozens of agents and distributors operating a national and international network."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

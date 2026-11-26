@@ -1,0 +1,28 @@
+{
+ "slug": "davi-promau-2",
+ "company": "DAVI Promau",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Davi dal 1966 costruisce calandre per lamiere e profilati e linee su misura per serbatoi, aerospazio, ferroviario e carpenteria metallica. Qui trova come lavoriamo e cosa potremmo fare per DAVI Promau.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per DAVI Promau.",
+ "evidence": [
+  {
+   "claim": "Davi dal 1966 costruisce calandre per lamiere e profilati e linee su misura per serbatoi, aerospazio, ferroviario e carpenteria metallica.",
+   "url": "https://www.davi.com/en/company/about-us",
+   "quote": "Davi is the largest global manufacturer of automation-ready plate rolls, angle rolls, high productivity lines and customized rolling machines. Founded in 1966 and headquartered in Italy’s advanced technology corridor || Explore all industries Storage Tanks Aerospace Pharmaceutical Jobshop & Metal Structures HVAC Food Industries Railway"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

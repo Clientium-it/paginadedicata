@@ -1,0 +1,28 @@
+{
+ "slug": "greci-industria-alimentare",
+ "company": "Greci Industria Alimentare",
+ "first_name": "Fernanda",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Greci dal 1923 produce e fornisce specialità alimentari per la ristorazione e le porta nei ristoranti di tutto il mondo dalla sede di Ravadese. Qui trova come lavoriamo e cosa potremmo fare per Greci Industria Alimentare.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Greci Industria Alimentare.",
+ "evidence": [
+  {
+   "claim": "Greci dal 1923 produce e fornisce specialità alimentari per la ristorazione e le porta nei ristoranti di tutto il mondo dalla sede di Ravadese.",
+   "url": "https://greci.com/",
+   "quote": "Produttori e fornitori di specialità per la ristorazione dal 1923 Da cent’anni portiamo nei ristoranti di tutto il mondo prodotti di provenienza e qualità certificata, freschi e genuini. || GRECI INDUSTRIA ALIMENTARE S.P.A. Via Traversante, 58 43122, Ravadese (PR) Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

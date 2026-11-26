@@ -1,0 +1,28 @@
+{
+ "slug": "g-d-3",
+ "company": "g.d",
+ "first_name": "Danilo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "G.D da Bologna sviluppa soluzioni produttive per tabacco, accumulo di energia ed elettronica, con oltre 2800 dipendenti e 15 filiali in 13 paesi. Qui trova come lavoriamo e cosa potremmo fare per g.d.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per g.d.",
+ "evidence": [
+  {
+   "claim": "G.D da Bologna sviluppa soluzioni produttive per tabacco, accumulo di energia ed elettronica, con oltre 2800 dipendenti e 15 filiali in 13 paesi.",
+   "url": "https://www.gidi.it/en/about-us",
+   "quote": "With decades of experience in industrial manufacturing, the company has developed advanced solutions for the Tobacco industry. Building on this strong technological and process know-how, G.D has successfully extended its capabilities to other industries || 2800+ EMPLOYEES BOLOGNA HEADQUARTER 15 BRANCHES 13 COUNTRIES || including Energy Storage Systems, with solutions for cell manufacturing processes, and Consumer Electronics"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

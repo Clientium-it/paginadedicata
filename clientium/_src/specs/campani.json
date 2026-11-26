@@ -1,0 +1,28 @@
+{
+ "slug": "campani",
+ "company": "Campani Group",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Campani dal 1975 vende auto e veicoli commerciali nuovi e usati a privati e aziende tra Reggio Emilia, Modena e Sassuolo. Qui trova come lavoriamo e cosa potremmo fare per Campani Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Campani Group.",
+ "evidence": [
+  {
+   "claim": "Campani dal 1975 vende auto e veicoli commerciali nuovi e usati a privati e aziende tra Reggio Emilia, Modena e Sassuolo.",
+   "url": "https://campanigroup.it/chi-siamo/",
+   "quote": "Fondata da Claudio Campani nel 1975, l’azienda ha iniziato il suo percorso come piccolo concessionario locale, crescendo costantemente fino a diventare uno dei punti di riferimento per la mobilità su misura nel settore automobilistico a Reggio Emilia, Modena e Sassuolo. || Vendita di veicoli nuovi e usati Una selezione di auto e veicoli commerciali di alta qualità || Campani Group offre una vasta gamma di servizi studiati per soddisfare le esigenze di mobilità di privati e aziende."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

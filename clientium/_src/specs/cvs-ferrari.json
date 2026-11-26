@@ -1,0 +1,28 @@
+{
+ "slug": "cvs-ferrari",
+ "company": "CVS FERRARI",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CVS Ferrari dal 1974 costruisce in Italia carrelli elevatori di grande portata e reach stacker per la movimentazione dei container e applicazioni industriali. Qui trova come lavoriamo e cosa potremmo fare per CVS FERRARI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CVS FERRARI.",
+ "evidence": [
+  {
+   "claim": "CVS Ferrari dal 1974 costruisce in Italia carrelli elevatori di grande portata e reach stacker per la movimentazione dei container e applicazioni industriali.",
+   "url": "https://www.cvsferrari.it/company/",
+   "quote": "CVS FERRARI was founded in 1974 and since over 40 years offers a wide range of high quality and innovative heavy capacity liftrucks and reach stackers for container handling and industrial applications. || CVS FERRARI builds 100% of its products in two modern factories located in Italy in full compliance with the most advanced international standards for quality, safety and environmental protection."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

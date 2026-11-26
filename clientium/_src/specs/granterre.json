@@ -1,0 +1,28 @@
+{
+ "slug": "granterre",
+ "company": "GranTerre",
+ "first_name": "Alessio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "GranTerre opera nei salumi e nei lattiero caseari con marchi come Parmareggio e Parmacotto e sei società commerciali tra Europa e Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per GranTerre.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GranTerre.",
+ "evidence": [
+  {
+   "claim": "GranTerre opera nei salumi e nei lattiero caseari con marchi come Parmareggio e Parmacotto e sei società commerciali tra Europa e Stati Uniti.",
+   "url": "https://www.granterre.it:443/it/il-gruppo/chi-siamo",
+   "quote": "Attraverso marchi quali Parmareggio, Parmacotto, Senfter, Agriform e Alcisa, il Gruppo opera nei settori dei salumi e dei prodotti lattiero-caseari in Italia e sui mercati internazionali. || Il Gruppo presidia i principali mercati esteri anche attraverso sei società commerciali e distributive con sede in Germania, Francia, Austria, Svizzera e Stati Uniti."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}
