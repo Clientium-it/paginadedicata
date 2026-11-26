@@ -1,0 +1,19 @@
+{
+ "slug": "apollon-srl",
+ "company": "Apollon",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-drudi-8b205425",
+ "cover_note": "Apollon dal 2007 accompagna le aziende verso l'indipendenza energetica pulita ed è certificata SOA OG9 per gli appalti pubblici di impianti di produzione elettrica.",
+ "evidence": [
+  {
+   "url": "https://www.apollon.it/chi-siamo/",
+   "quote": "Dal 2007, ci impegniamo a contribuire al miglior risparmio energetico e alla promozione dell’autonomia energetica, guidando le aziende lungo un percorso di indipendenza energetica pulita"
+  },
+  {
+   "url": "https://www.apollon.it/chi-siamo/",
+   "quote": "Siamo certificati SOA per la categoria OG9 – Impianti per la produzione di energia elettrica, dimostrando la nostra capacità economica e tecnica per l’esecuzione di appalti pubblici di lavori di importo fino a €2.500.000,00"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

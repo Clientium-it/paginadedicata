@@ -1,0 +1,19 @@
+{
+ "slug": "impresa-scarpellini-antonio-c-srl",
+ "company": "Scarpellini",
+ "full_name": "Massimo",
+ "first": "Massimo",
+ "linkedin": "https://www.linkedin.com/in/massimo-scarpellini-a976b773",
+ "cover_note": "Scarpellini ha 30 anni di attività e 160 abitazioni realizzate nel territorio di Bergamo e consegna la casa in 210 giorni.",
+ "evidence": [
+  {
+   "url": "https://www.impresascarpellini.it/",
+   "quote": "30 Anni di Attività 160 Abitazioni da noi Realizzate 210 Giorni hai la tua casa"
+  },
+  {
+   "url": "https://www.impresascarpellini.it/",
+   "quote": "Operiamo nel territorio di Bergamo realizzando opere sia nel settore pubblico che in quello privato"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

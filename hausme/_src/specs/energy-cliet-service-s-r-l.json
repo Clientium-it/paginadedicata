@@ -1,0 +1,19 @@
+{
+ "slug": "energy-cliet-service-s-r-l",
+ "company": "Energy Cliet",
+ "full_name": "Fulvio",
+ "first": "Fulvio",
+ "linkedin": "https://www.linkedin.com/in/fulvio-coniglio-06225a21",
+ "cover_note": "Energy Cliet realizza impianti fotovoltaici soprattutto nel settore industriale, terziario, civile e pubblico e dal 2014 ha sede a Bergamo per seguire il centro nord.",
+ "evidence": [
+  {
+   "url": "https://www.energycliet.com/chi-siamo/",
+   "quote": "Siamo specializzati nella realizzazione di impianti di produzione da fotovoltaico, principalmente nel settore industriale, del terziario, civile e pubblico."
+  },
+  {
+   "url": "https://www.energycliet.com/chi-siamo/",
+   "quote": "Nel 2014 Energy Cliet si trasferisce a Bergamo, con l’intento di dare maggiore supporto ed assistenza alle attività del centro-nord Italia."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

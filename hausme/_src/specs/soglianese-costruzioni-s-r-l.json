@@ -1,0 +1,19 @@
+{
+ "slug": "soglianese-costruzioni-s-r-l",
+ "company": "Soglianese",
+ "full_name": "Enzo",
+ "first": "Enzo",
+ "linkedin": "https://www.linkedin.com/in/enzo-muccioli-13416479",
+ "cover_note": "Soglianese lavora tra industriale e residenziale, dal Ferrari Paintshop di Maranello a una residenza privata a Carpi fino alla facciata del Terminal T3 di Fiumicino.",
+ "evidence": [
+  {
+   "url": "https://www.soglianese.com/realizzazioni/",
+   "quote": "Ferrari Paintshop, Maranello Maranello, Italia Industriale | Produttivo Residenza Privata, Carpi Carpi, Italia Residenziale Ferrari E-Building, Maranello Maranello, Italia Industriale | Produttivo"
+  },
+  {
+   "url": "https://www.soglianese.com/realizzazioni/",
+   "quote": "Terminal T3 Fiumicino Airport Fiumicino, Roma, Italia Terminal T3 | New Facade"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

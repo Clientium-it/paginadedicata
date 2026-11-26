@@ -1,0 +1,19 @@
+{
+ "slug": "domolift-elevatori-s-r-l",
+ "company": "Domolift",
+ "full_name": "Carlo",
+ "first": "Carlo",
+ "linkedin": "https://www.linkedin.com/in/carlo-segatta-8044947",
+ "cover_note": "Domolift in trent'anni ha realizzato impianti progettati su misura, specializzandosi in edifici difficili con vincoli storici, architettonici o strutturali.",
+ "evidence": [
+  {
+   "url": "https://www.domolift.it/chi-siamo/",
+   "quote": "In trent’anni di attività abbiamo realizzato impianti di ogni tipo, sempre progettati su misura della singola situazione architettonica, per garantire il massimo livello di qualità e di risparmio energetico."
+  },
+  {
+   "url": "https://www.domolift.it/chi-siamo/",
+   "quote": "specializzandoci nel trovare soluzioni performanti per edifici difficili che presentavano vincoli storici, architettonici o strutturali."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

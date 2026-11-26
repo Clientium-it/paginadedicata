@@ -1,0 +1,19 @@
+{
+ "slug": "romeo-lippi-immobiliare-s-r-l",
+ "company": "Romeo Lippi",
+ "full_name": "Michele",
+ "first": "Michele",
+ "linkedin": "https://www.linkedin.com/in/michele-zampighi",
+ "cover_note": "Romeo Lippi dal 1975 costruisce a Forlì complessi residenziali ed edifici industriali con maestranze proprie e li vende direttamente al cliente finale.",
+ "evidence": [
+  {
+   "url": "https://www.romeolippi.it/team",
+   "quote": "RomeoLippi Immobiliare fin dal1975 costruisce con successo, a Forlì e provincia, complessi residenziali ed edifici industriali/commerciali e si occupa della loro vendita e affitto direttamente al cliente finale."
+  },
+  {
+   "url": "https://www.romeolippi.it/team",
+   "quote": "L'azienda, che si avvale sempre di maestranze proprie"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

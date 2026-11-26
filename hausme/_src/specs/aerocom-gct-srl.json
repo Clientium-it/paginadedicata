@@ -1,0 +1,19 @@
+{
+ "slug": "aerocom-gct-srl",
+ "company": "Aerocom",
+ "full_name": "Fabio",
+ "first": "Fabio",
+ "linkedin": "https://www.linkedin.com/in/fabiogiuseppegarofalo",
+ "cover_note": "Aerocom da 40 anni realizza impianti di posta pneumatica per retail, GDO, ospedali e industria con sede a Lodi Vecchio.",
+ "evidence": [
+  {
+   "url": "https://aerocom.it/",
+   "quote": "Da 40 anni siamo il partner strategico per lo sviluppo e la realizzazione di soluzioni innovative di posta pneumatica per il mondo del Retail, GDO, Ospedali e Industria"
+  },
+  {
+   "url": "https://aerocom.it/",
+   "quote": "SEDE LEGALE E OPERATIVA: Viale Europa 54/1, 26855 Lodi Vecchio (LODI)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

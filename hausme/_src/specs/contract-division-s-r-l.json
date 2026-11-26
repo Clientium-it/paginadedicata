@@ -1,0 +1,19 @@
+{
+ "slug": "contract-division-s-r-l",
+ "company": "Contract Division",
+ "full_name": "Nicola",
+ "first": "Nicola",
+ "linkedin": "https://www.linkedin.com/in/nicola-di-terlizzi-4a69a287",
+ "cover_note": "Contract Division nasce nel 2014 da Orec e realizza edifici per ristorazione e grande distribuzione in tutta Italia, anche in autostrade, stazioni e aeroporti.",
+ "evidence": [
+  {
+   "url": "https://contract.orec.it/azienda/",
+   "quote": "Contract Division nasce nel 2014 come divisione dedicata di Orec, specializzandosi nella realizzazione di edifici per la ristorazione e la grande distribuzione organizzata (GDO) per importanti brand."
+  },
+  {
+   "url": "https://contract.orec.it/azienda/",
+   "quote": "Operiamo in tutta Italia, con particolare focus su aree ad alta concentrazione di traffico e attività, come autostrade, stazioni e aeroporti."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

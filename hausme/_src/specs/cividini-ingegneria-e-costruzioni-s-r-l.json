@@ -1,0 +1,19 @@
+{
+ "slug": "cividini-ingegneria-e-costruzioni-s-r-l",
+ "company": "Cividini",
+ "full_name": "Luca",
+ "first": "Luca",
+ "linkedin": "https://www.linkedin.com/in/luca-cividini-67773a131",
+ "cover_note": "Cividini è un'impresa di ingegneria e costruzioni nata dall'esperienza centenaria del Gruppo Cividini e gestisce l'intera commessa anche come General Contractor.",
+ "evidence": [
+  {
+   "url": "https://www.cividiniingeco.it/it/azienda/",
+   "quote": "Siamo un’Impresa di ingegneria e costruzioni nata da una profonda conoscenza del settore edile maturata grazie all’esperienza centenaria del Gruppo Cividini."
+  },
+  {
+   "url": "https://www.cividiniingeco.it/it/",
+   "quote": "Dal supporto strutturale, impiantistico e ambientale/energetico, all'attività di General Contractor, un unico interlocutore in grado di gestire l'intera commessa."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

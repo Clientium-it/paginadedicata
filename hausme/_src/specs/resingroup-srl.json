@@ -1,0 +1,19 @@
+{
+ "slug": "resingroup-srl",
+ "company": "Resingroup",
+ "full_name": "Alberto",
+ "first": "Alberto",
+ "linkedin": "https://www.linkedin.com/in/alberto-loro-203053186",
+ "cover_note": "Resingroup da oltre 20 anni affronta progetti di ogni scala, dai poli logistici di migliaia di metri quadrati al bagno di un appartamento.",
+ "evidence": [
+  {
+   "url": "https://resingroup.net/",
+   "quote": "Che si tratti di rivoluzionare migliaia di metri quadrati di poli logistici o di rinnovare lo spazio di un bagno in un appartamento, affrontiamo progetti di ogni scala con la stessa passione e precisione."
+  },
+  {
+   "url": "https://resingroup.net/",
+   "quote": "Da oltre 20 anni, mettiamo al centro della nostra innovazione le necessità di chi lavora in cantiere"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "ever-energy-srl-2",
+ "company": "Ever Energy",
+ "full_name": "Peter",
+ "first": "Peter",
+ "linkedin": "https://www.linkedin.com/in/peter-fassina-a807b198",
+ "cover_note": "Ever Energy realizza impianti industriali e Data Center su misura e ha concluso di recente un fotovoltaico da 1 MW in un hub logistico marittimo.",
+ "evidence": [
+  {
+   "url": "https://everenergy.it/it/",
+   "quote": "è specializzata nella realizzazione di impianti industriali e Data Center su misura. La formazione e la crescita continua, l’esperienza, l’affidabilità e l’attenzione all’innovazione"
+  },
+  {
+   "url": "https://everenergy.it/it/",
+   "quote": "Abbiamo recentemente concluso la realizzazione di un impianto fotovoltaico da 1 MW presso uno dei principali hub logistici marittimi nazionali."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

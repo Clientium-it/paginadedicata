@@ -1,0 +1,19 @@
+{
+ "slug": "cdni-s-r-l",
+ "company": "CDNI",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-malossi-748b5a234",
+ "cover_note": "CDNI realizza impianti per privati e aziende su gran parte del territorio nazionale e installa pompe di calore in abitazioni e strutture aziendali.",
+ "evidence": [
+  {
+   "url": "https://cdni.it/chi-siamo/",
+   "quote": "CDNI rivolge i propri servizi a tutte le realtà, private o aziendali che necessitano la realizzazione di impianti ed è presente su gran parte del territorio nazionale con i propri esperti e progettisti."
+  },
+  {
+   "url": "https://cdni.it/",
+   "quote": "Installiamo pompe di calore presso abitazioni e strutture aziendali."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

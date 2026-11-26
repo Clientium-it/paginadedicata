@@ -1,0 +1,19 @@
+{
+ "slug": "so-ge-i-ca-s-r-l",
+ "company": "Sogeica",
+ "full_name": "Gianluca",
+ "first": "Gianluca",
+ "linkedin": "https://www.linkedin.com/in/gianluca-zulato-000939375",
+ "cover_note": "Sogeica è una rete d'impresa con 42 professionisti che esegue opere al servizio di privati e condomini.",
+ "evidence": [
+  {
+   "url": "http://sogeica.com/rete-impresa/",
+   "quote": "SO.GE.I.CA Rete Impresa è composta da figure esperte e capaci di garantire l’attenzione e la cura necessaria all’esecuzione di opere al servizio di privati e condomini"
+  },
+  {
+   "url": "http://sogeica.com/rete-impresa/",
+   "quote": "42 PROFESSIONISTI AL VOSTRO SERVIZIO"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

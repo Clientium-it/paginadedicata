@@ -1,0 +1,19 @@
+{
+ "slug": "arcae-s-r-l",
+ "company": "Arcae",
+ "full_name": "Patrizio",
+ "first": "Patrizio",
+ "linkedin": "https://www.linkedin.com/in/patrizio-galli-13b61640",
+ "cover_note": "Arcae nasce nel 1993 nella fornitura di mezzi forti e sistemi di difesa e collabora con 20 aziende di manutenzione su tutto il territorio nazionale.",
+ "evidence": [
+  {
+   "url": "https://arcae.it/azienda/",
+   "quote": "Collaboriamo con 20 aziende specializzate in manutenzione, per fornire un servizio di assistenza tecnica puntuale ed efficiente su tutto il territorio nazionale (isole comprese) per qualsiasi marca e tipologia di mezzi forti"
+  },
+  {
+   "url": "https://arcae.it/azienda/",
+   "quote": "Arcae Srl nasce nel 1993 come azienda specializzata nella fornitura e nel commercio di servizi e prodotti inerenti i mezzi forti in genere e i sistemi di difesa correlati."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

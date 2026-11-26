@@ -1,0 +1,19 @@
+{
+ "slug": "pegam-srl",
+ "company": "Pegam",
+ "full_name": "Annalisa",
+ "first": "Annalisa",
+ "linkedin": "https://www.linkedin.com/in/annalisa-rossi-b1915454",
+ "cover_note": "Pegam nasce nel 1970, opera negli impianti tecnologici del Centro Italia e realizza chiavi in mano impianti meccanici, elettrici e di processo.",
+ "evidence": [
+  {
+   "url": "https://pegam.it/",
+   "quote": "L’impresa, nel corso degli anni si è specializzata prevalentemente nella realizzazione chiavi in mano di impianti meccanici, elettrici e speciali processo ed efficientamento energetico."
+  },
+  {
+   "url": "https://pegam.it/azienda/",
+   "quote": "Pegam è operante nel settore degli impianti tecnologici ingegneristici del Centro Italia; nasce nel 1970"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

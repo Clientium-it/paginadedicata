@@ -1,0 +1,19 @@
+{
+ "slug": "climagem-s-r-l",
+ "company": "Climagem",
+ "full_name": "Fabio",
+ "first": "Fabio",
+ "linkedin": "https://www.linkedin.com/in/fabio-ghelli-7abb18155",
+ "cover_note": "Climagem da oltre quarant'anni lavora su riscaldamento e condizionamento civile e industriale con sede a Terranuova Bracciolini e una filiale a Greve in Chianti.",
+ "evidence": [
+  {
+   "url": "https://www.climagem.com/chi-siamo/",
+   "quote": "Siamo un’azienda che da oltre quarant’anni è specializzata in tutto ciò che riguarda i sistemi di riscaldamento e condizionamento, sia civile che industriale"
+  },
+  {
+   "url": "https://www.climagem.com/chi-siamo/",
+   "quote": "con una sede a Terranuova Bracciolini e una filiale a Greve in Chianti"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

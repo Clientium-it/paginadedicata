@@ -1,0 +1,19 @@
+{
+ "slug": "adriatica-impianti-s-r-l",
+ "company": "Adriatica Impianti",
+ "full_name": "Dario",
+ "first": "Dario",
+ "linkedin": "https://www.linkedin.com/in/dario-marangoni-0057096b",
+ "cover_note": "Adriatica Impianti progetta, fornisce e installa l'intero impianto idraulico ed elettrico come interlocutore unico e con la SOA lavora anche per la Pubblica Amministrazione.",
+ "evidence": [
+  {
+   "url": "https://www.adriaticaimpianti.it/",
+   "quote": "Progettiamo e forniamo l’intero impianto, idraulico ed elettrico, curandone direttamente l’installazione in maniera da fornire al cliente un interlocutore unico con cui confrontarsi."
+  },
+  {
+   "url": "https://www.adriaticaimpianti.it/",
+   "quote": "Disponiamo del certificato CQOP-SOA che ci consente di operare anche nella Pubblica Amministrazione."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

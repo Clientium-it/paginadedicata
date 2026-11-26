@@ -1,0 +1,19 @@
+{
+ "slug": "geneco-s-r-l-2",
+ "company": "Geneco",
+ "full_name": "Stefano",
+ "first": "Stefano",
+ "linkedin": "https://www.linkedin.com/in/stefano-brena-82009a29",
+ "cover_note": "Geneco dal 2008 installa fotovoltaico, rifà coperture in amianto e segue termoidraulica per imprese in Lombardia, Emilia Romagna e Piemonte.",
+ "evidence": [
+  {
+   "url": "https://genecogroup.it/azienda/",
+   "quote": "l’azienda si occupa della messa in opera di i mpianti fotovoltaici, del rifacimento di coperture d’amianto e termoidraulica per imprese localizzate in Lombardia, Emilia Romagna e Piemonte."
+  },
+  {
+   "url": "https://genecogroup.it/azienda/",
+   "quote": "La storia di Geneco Group inizia nel 2008, dopo anni di esperienza nel settore energetico e petrolifero in Italia e all’estero"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

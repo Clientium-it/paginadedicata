@@ -1,0 +1,19 @@
+{
+ "slug": "ediltione-s-p-a",
+ "company": "Ediltione",
+ "full_name": "Fabio",
+ "first": "Fabio",
+ "linkedin": "https://www.linkedin.com/in/fabio-antolini-940414213",
+ "cover_note": "Ediltione lavora contemporaneamente in numerosi cantieri sul territorio con circa 80 dipendenti diretti e l'organizzazione di un'impresa di grosse dimensioni.",
+ "evidence": [
+  {
+   "url": "https://www.ediltione.it/la-storia/",
+   "quote": "l'impresa riesce ad essere operante contemporaneamente in numerosi cantieri sparsi sul territorio, riuscendo a far convivere la forza organizzativa e lavorativa di una impresa di grosse dimensioni"
+  },
+  {
+   "url": "https://www.ediltione.it/la-storia/",
+   "quote": "con circa 80 dipendenti direttamente impiegati"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

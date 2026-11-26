@@ -1,0 +1,19 @@
+{
+ "slug": "tecnosystem-di-fanin-nereo-srl",
+ "company": "Tecnosystem",
+ "full_name": "Nereo",
+ "first": "Nereo",
+ "linkedin": "https://www.linkedin.com/in/nereo-fanin-tutorenergysystem",
+ "cover_note": "Tecnosystem ha sede a Camisano Vicentino, nasce dall'esperienza di Nereo nel settore elettrico e si è specializzata in automazione industriale e refrigerazione.",
+ "evidence": [
+  {
+   "url": "https://www.tecno-system.eu/la-nostra-storia/",
+   "quote": "Dopo molteplici esperienze, Nereo decide di riprendere l’attività iniziata vent’anni prima con Assistenza Casa, fondando Tecnosystem. Continuando ad effettuare interventi nel settore elettrico, affianca percorsi di formazione e continuo aggiornamento, specializzandosi in impianti di automazione industriale e refrigerazione."
+  },
+  {
+   "url": "https://www.tecno-system.eu/la-nostra-storia/",
+   "quote": "Via Alpini, 12 36043 - Camisano Vicentino Vicenza"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

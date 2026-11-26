@@ -1,0 +1,19 @@
+{
+ "slug": "geo-contract-s-r-l",
+ "company": "Geo Contract",
+ "full_name": "Gianluca",
+ "first": "Gianluca",
+ "linkedin": "https://www.linkedin.com/in/gianluca-pistoia-79ba25b4",
+ "cover_note": "Geo Contract è nata nel 2017 e oltre a edifici residenziali, industriali e direzionali realizza store e negozi per grandi firme della moda.",
+ "evidence": [
+  {
+   "url": "https://geocontract.it/chi-siamo-2/",
+   "quote": "Geo Contract nasce nel 2017 mettendo a frutto una lunga e profonda esperienza nell’edilizia maturata al servizio di grandi imprese di costruzioni generali."
+  },
+  {
+   "url": "https://geocontract.it/chi-siamo-2/",
+   "quote": "Geo Contract ha realizzato e/o gestito la costruzione di edifici residenziali, industriali e direzionali, store, corner e negozi, per clienti di prestigio e grandi firme della moda."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

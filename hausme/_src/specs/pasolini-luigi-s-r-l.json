@@ -1,0 +1,19 @@
+{
+ "slug": "pasolini-luigi-s-r-l",
+ "company": "Pasolini",
+ "full_name": "Giuseppe",
+ "first": "Giuseppe",
+ "linkedin": "https://www.linkedin.com/in/giuseppe-bessi-a92a8a17a",
+ "cover_note": "Pasolini è general contractor dal 1959 e lavora per grandi GDO, retailer e industrie con più di 500 clienti in Europa.",
+ "evidence": [
+  {
+   "url": "https://www.pasolini.it/",
+   "quote": "Dal 1959 siamo General Contractor punto di riferimento di grandi GDO, retailer e industrie."
+  },
+  {
+   "url": "https://www.pasolini.it/",
+   "quote": "Più di 500 Clienti in Europa"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

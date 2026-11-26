@@ -1,0 +1,19 @@
+{
+ "slug": "sommariva-s-r-l",
+ "company": "Sommariva",
+ "full_name": "Enrico",
+ "first": "Enrico",
+ "linkedin": "https://www.linkedin.com/in/enrico-sommariva-68667b116",
+ "cover_note": "Sommariva nasce nel 1979 posando in opera parquet, moquette e linoleum e oggi segue anche la realizzazione e ristrutturazione della casa.",
+ "evidence": [
+  {
+   "url": "https://www.sommariva.casa/chi-siamo/",
+   "quote": "Sommariva nasce nel 1979 come ditta specializzata nella realizzazione in opera di pavimenti in parquet, moquette e linoleum."
+  },
+  {
+   "url": "https://www.sommariva.casa/chi-siamo/",
+   "quote": "Con i suoi oltre quarant’anni di esperienza l’azienda si propone oggi come un valido alleato nella realizzazione e ristrutturazione della propria abitazione."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

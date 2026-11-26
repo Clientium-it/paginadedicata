@@ -1,0 +1,19 @@
+{
+ "slug": "c-n-cantieri-srl",
+ "company": "CN Cantieri",
+ "full_name": "Nicolò",
+ "first": "Nicolò",
+ "linkedin": "https://www.linkedin.com/in/nicol%c3%b2-corrado-36108a79",
+ "cover_note": "CN Cantieri nasce nel 2019 a Pandino dall'amicizia di Nicolò Corrado e Alfonso Papaleo e opera tra Veneto, Lombardia e Piemonte.",
+ "evidence": [
+  {
+   "url": "https://www.cncantieri.it/impresa-di-costruzioni/la-nostra-storia/",
+   "quote": "CN Cantieri Srl nasce nel 2019 a Pandino , in provincia di Cremona , dalle idee imprenditoriali e dall’amicizia di Nicolò Corrado e Alfonso Papaleo"
+  },
+  {
+   "url": "https://www.cncantieri.it/impresa-di-costruzioni/la-nostra-storia/",
+   "quote": "Operiamo nelle regioni Veneto, Lombardia, Piemonte e nelle zone limitrofe."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

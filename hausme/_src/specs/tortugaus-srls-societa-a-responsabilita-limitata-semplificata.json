@@ -1,0 +1,19 @@
+{
+ "slug": "tortugaus-srls-societa-a-responsabilita-limitata-semplificata",
+ "company": "Tortugaus",
+ "full_name": "Alex",
+ "first": "Alex",
+ "linkedin": "https://www.linkedin.com/in/alex-mair-7155973a0",
+ "cover_note": "Tortugaus progetta e costruisce edifici in legno salvaspazio per campeggi e hotel e unisce carpenteria e falegnameria al proprio studio di progettazione.",
+ "evidence": [
+  {
+   "url": "https://www.tortugaus.com/it",
+   "quote": "Progettiamo e costruiamo edifici in legno eleganti e salvaspazio, ideali per campeggi, hotel, masi e aziende commerciali - ad esempio come saune, chalet, bungalow, alloggi per il personale o stanze aggiuntive."
+  },
+  {
+   "url": "https://www.tortugaus.com/it",
+   "quote": "Carpenteria, falegnameria e studio progettazione il tuo contatto per edifici pronti all'utilizzo"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

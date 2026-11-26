@@ -1,0 +1,19 @@
+{
+ "slug": "ma-ri-asti-di-garbin-beppino-figli-s-r-l",
+ "company": "Ma.Ri. Asti",
+ "full_name": "Christian",
+ "first": "Christian",
+ "linkedin": "https://www.linkedin.com/in/christian-garbin-009615383",
+ "cover_note": "Ma.Ri. Asti nasce nel 1966 con Beppino Garbin, gestisce impianti di tutte le marche e opera ogni giorno da Alessandria ad Alba.",
+ "evidence": [
+  {
+   "url": "https://www.mariasti.it/it/la-nostra-azienda/",
+   "quote": "La nostra azienda ha avuto inizio con Beppino Garbin, che nel 1966 fonda la ditta MA. RI. ASTI e in pochi anni acquisisce la gestione di decine di impianti di tutte le marche"
+  },
+  {
+   "url": "https://www.mariasti.it/it/la-nostra-azienda/",
+   "quote": "da Alessandria ad Alba, passando per Langhe, Roero ed Asti dove operiamo quotidianamente"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

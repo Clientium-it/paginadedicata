@@ -1,0 +1,19 @@
+{
+ "slug": "trenergy-s-r-l-s",
+ "company": "Trenergy",
+ "full_name": "Alessandro",
+ "first": "Alessandro",
+ "linkedin": "https://www.linkedin.com/in/alessandro-lissone-5b2b9125b",
+ "cover_note": "Trenergy propone alle aziende fotovoltaico, pompe di calore ed efficienza su misura e ha realizzato un impianto da 4 MWp per una logistica in provincia di Pavia.",
+ "evidence": [
+  {
+   "url": "https://www.trenergy-esco.it/realizzazioni/",
+   "quote": "LOGISTICA Dove si trova: Provincia di Pavia Potenza Picco: 4 MWp Producibilità annua: 4.790.321,56 kWh"
+  },
+  {
+   "url": "https://www.trenergy-esco.it/",
+   "quote": "Soluzioni energetiche integrate per aziende: fotovoltaico, pompe di calore ed efficienza su misura"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "e-a-sy-2000-s-r-l",
+ "company": "Easy 2000",
+ "full_name": "Alfredo",
+ "first": "Alfredo",
+ "linkedin": "https://www.linkedin.com/in/alfredo-raffagnato-19b26658",
+ "cover_note": "Easy 2000 dal 1991 progetta e realizza quadri elettrici certificati e automazione per macchinari e impianti di processo, con oltre 15.000 progetti realizzati.",
+ "evidence": [
+  {
+   "url": "https://www.easy2000.org/chi-siamo/",
+   "quote": "Dal 1991, Easy 2000 si distingue per la progettazione e realizzazione di quadri elettrici certificati, offrendo soluzioni di automazione per macchinari e impianti di processo in diversi settori industriali."
+  },
+  {
+   "url": "https://www.easy2000.org/chi-siamo/",
+   "quote": "Con oltre 15.000 progetti realizzati, la nostra esperienza pluridecennale ci permette di affrontare ogni sfida con competenza, precisione e attenzione ai dettagli."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

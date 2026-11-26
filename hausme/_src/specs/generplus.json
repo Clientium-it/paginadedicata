@@ -1,0 +1,19 @@
+{
+ "slug": "generplus",
+ "company": "Generplus",
+ "full_name": "Carlo",
+ "first": "Carlo",
+ "linkedin": "https://www.linkedin.com/in/carlo-giangregorio-66899419",
+ "cover_note": "Generplus progetta, installa e gestisce impianti da fonti rinnovabili con più di 20 anni di esperienza e oltre 30000 kWp installati.",
+ "evidence": [
+  {
+   "url": "https://www.generplus.it/",
+   "quote": "una realtà specializzata nella progettazione, installazione e gestione di impianti per la produzione e l’efficientamento energetico da fonti rinnovabili con più di 20 anni di esperienza"
+  },
+  {
+   "url": "https://www.generplus.it/",
+   "quote": "30000 + kWp INSTALLATI"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

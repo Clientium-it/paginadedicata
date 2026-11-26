@@ -1,0 +1,15 @@
+{
+ "slug": "elektrobau-srl-inderst-luis-michi",
+ "company": "Elektrobau",
+ "full_name": "Michael",
+ "first": "Michael",
+ "linkedin": "https://www.linkedin.com/in/michael-inderst-8739517a",
+ "cover_note": "Elektrobau realizza a Merano e dintorni impianti elettrici, domotica, allarmi, reti dati e impianti antifulmine per privati e aziende.",
+ "evidence": [
+  {
+   "url": "https://elektrobau.it/home/",
+   "quote": "Der Elektroprofi in Meran und Umgebung - Für Privatkunden und Unternehmen Elektroanlagen Gebäudesystemtechnik Visualisierungen Alarmanlagen Datennetzwerke Blitzschutz- & Erdungsanlagen Brandmeldeanlagen Innovative Beleuchtung"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

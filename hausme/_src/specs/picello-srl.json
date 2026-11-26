@@ -1,0 +1,19 @@
+{
+ "slug": "picello-srl",
+ "company": "Picello",
+ "full_name": "Mauro",
+ "first": "Mauro",
+ "linkedin": "https://www.linkedin.com/in/mauro-picello-1a836946",
+ "cover_note": "Picello realizza impianti elettrici civili e industriali nel pieno rispetto delle normative ed è certificata SOA OS30.",
+ "evidence": [
+  {
+   "url": "https://www.picello.it/about-us/",
+   "quote": "La nostra azienda realizza impianti elettrici civili e industriali nel pieno rispetto delle normative vigenti, adottando soluzioni tecnologiche all'avanguardia per garantire efficienza, affidabilità e tutela dell’ambiente."
+  },
+  {
+   "url": "https://www.picello.it/about-us/",
+   "quote": "Siamo certificati SOA OS30"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

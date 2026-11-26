@@ -1,0 +1,19 @@
+{
+ "slug": "specialedil-s-r-l",
+ "company": "Specialedil",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-perizzolo-26920a81",
+ "cover_note": "Specialedil nasce nel 1987 dalla fusione di due ditte attive dal 1984 e oggi conta 17 dipendenti con 3 tecnici responsabili di cantiere.",
+ "evidence": [
+  {
+   "url": "https://www.specialedilverona.com/azienda",
+   "quote": "Specialedil Srl, sorta dalla fusione di due ditte individuali operanti nel settore edilizio dal 1984, è stata costituita nel gennaio 1987."
+  },
+  {
+   "url": "https://www.specialedilverona.com/azienda",
+   "quote": "L’azienda si avvale attualmente dell’operatività di 17 dipendenti di cui 2 impiegati amministrativi e 3 impiegati tecnici Responsabili di cantiere"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

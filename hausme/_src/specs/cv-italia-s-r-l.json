@@ -1,0 +1,19 @@
+{
+ "slug": "cv-italia-s-r-l",
+ "company": "CV Italia",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-bomitali-73a9a31a4",
+ "cover_note": "CV Italia da quasi 70 anni progetta e installa sistemi di elevazione in Italia e all'estero e dal 2020 ha sede a Vicenza Ovest.",
+ "evidence": [
+  {
+   "url": "https://www.cvitalia.com/",
+   "quote": "Da quasi 70 anni progettiamo e installiamo i migliori sistemi di elevazione in italia e all'estero"
+  },
+  {
+   "url": "https://www.cvitalia.com/azienda/",
+   "quote": "Dal 2020, l'azienda ha trasferito la propria sede da Brendola al nuovo stabilimento di Vicenza Ovest, in zona fiera."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

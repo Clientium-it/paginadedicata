@@ -1,0 +1,19 @@
+{
+ "slug": "project-group-italy-s-r-l",
+ "company": "Project Group Italy",
+ "full_name": "Andrea",
+ "first": "Andrea",
+ "linkedin": "https://www.linkedin.com/in/andrea-erranti-843070120",
+ "cover_note": "Project Group Italy è una rete di professionisti in impianti elettrici e cablatura con oltre 30 anni sul territorio nazionale e oggi segue anche climatizzazione.",
+ "evidence": [
+  {
+   "url": "https://pg-italy.it/cosa-facciamo/",
+   "quote": "Siamo la più grande rete di professionisti digitali specializzati in impianti elettrici, cablatura, sistemi di ricezione TV e servizi Telco, con oltre 30 anni di esperienza sul territorio nazionale."
+  },
+  {
+   "url": "https://pg-italy.it/cosa-facciamo/",
+   "quote": "Oggi operiamo anche in sicurezza, Smart Home, climatizzazione, agricoltura 4.0 ed E-mobility."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

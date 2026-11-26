@@ -1,0 +1,19 @@
+{
+ "slug": "ma-de-s-r-l",
+ "company": "MA.DE",
+ "full_name": "Marco",
+ "first": "Marco",
+ "linkedin": "https://www.linkedin.com/in/marco-de-lazzari-4715291a7",
+ "cover_note": "MA.DE a Lendinara sta ristrutturando internamente un edificio storico di 1.250 m2 con 12 unità, mantenendo integri i muri esterni.",
+ "evidence": [
+  {
+   "url": "https://www.maderealestate.it/progetti/p02/",
+   "quote": "L’intervento MA.DE/P02 prevede una totale ristrutturazione interna, pur mantenendo integri i muri esterni, per preservare la bellezza storica dell’edificio."
+  },
+  {
+   "url": "https://www.maderealestate.it/progetti/p02/",
+   "quote": "Anno 2022 architetto MA-DE indirizzo Lendinara (RO) 45.08358563719724, 11.600195914227701 metratura 1.250m2 numero unità 12 stato in realizzazione"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

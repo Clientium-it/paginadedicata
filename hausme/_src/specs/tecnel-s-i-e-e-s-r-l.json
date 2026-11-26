@@ -1,0 +1,19 @@
+{
+ "slug": "tecnel-s-i-e-e-s-r-l",
+ "company": "Tecnel",
+ "full_name": "Stefania",
+ "first": "Stefania",
+ "linkedin": "https://www.linkedin.com/in/stefania-bigolin-51194b157",
+ "cover_note": "Tecnel progetta e realizza quadri elettrici di media e bassa tensione con telegestione e controllo remoto e segue anche la realizzazione degli impianti.",
+ "evidence": [
+  {
+   "url": "https://tecnelsiee.it/servizi.htm",
+   "quote": "Progettazione e realizzazione di quadri elettrici di Media e Bassa Tensione con sistemi di telegestione e controllo remoto."
+  },
+  {
+   "url": "https://tecnelsiee.it/servizi.htm",
+   "quote": "Realizzazioni di impianti elettrici di Media e Bassa Tensione"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

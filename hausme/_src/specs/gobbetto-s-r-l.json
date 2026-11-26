@@ -1,0 +1,19 @@
+{
+ "slug": "gobbetto-s-r-l",
+ "company": "Gobbetto",
+ "full_name": "Gianluca",
+ "first": "Gianluca",
+ "linkedin": "https://www.linkedin.com/in/gianluca-gobbetto-5b730799",
+ "cover_note": "Gobbetto produce resine brevettate da oltre 60 anni con una forte proiezione internazionale e uno spazio espositivo di oltre 300 mq su tre piani.",
+ "evidence": [
+  {
+   "url": "https://www.gobbetto.com/azienda/",
+   "quote": "Azienda italiana con una forte proiezione internazionale, da oltre 60 anni Gobbetto produce le migliori resine brevettate, frutto di continua sperimentazione e di innovazione tecnologica"
+  },
+  {
+   "url": "https://www.gobbetto.com/azienda/",
+   "quote": "In oltre 300 mq, distribuiti su tre piani, lo spazio espositivo comunica l’ampia gamma di resine Gobbetto e le infinite possibilità applicative."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

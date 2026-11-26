@@ -1,0 +1,19 @@
+{
+ "slug": "netify-srl",
+ "company": "Netify",
+ "full_name": "Paolo",
+ "first": "Paolo",
+ "linkedin": "https://www.linkedin.com/in/paolonebuloni",
+ "cover_note": "Netify a Lodi si è specializzata in sicurezza integrata, da allarmi, videosorveglianza e controllo accessi fino alla sicurezza informatica.",
+ "evidence": [
+  {
+   "url": "https://www.netify.it/",
+   "quote": "ci siamo specializzati su sistemi e impianti di sicurezza integrata : dalla sicurezza fisica con sistemi di allarme, videosorveglianza, tornelli e controllo accessi, alla sicurezza informatica vera e propria"
+  },
+  {
+   "url": "https://www.netify.it/",
+   "quote": "SEDE OPERATIVA: Via Vittime del Razzismo, 6 26817, San Martino in Strada (LO) SEDE LEGALE: C.so Mazzini 39, 26900, Lodi"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

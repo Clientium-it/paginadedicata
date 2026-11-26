@@ -1,0 +1,19 @@
+{
+ "slug": "ploner-paul-srl",
+ "company": "Ploner",
+ "full_name": "Fritz",
+ "first": "Fritz",
+ "linkedin": "https://www.linkedin.com/in/fritz-ploner-0614561a",
+ "cover_note": "Ploner è nata nel 1987 dai fratelli Paul e Wilhelm e dal 1998 ha il suo areale nella zona artigianale di Collalbo.",
+ "evidence": [
+  {
+   "url": "https://www.ploner.bz.it/it/impresa/storia",
+   "quote": "Dalla fondazione dell’azienda, creata nel 1987 dai fratelli Paul e Wilhelm, l’impresa di costruzioni Ploner si contraddistingue per una crescita sana e costante."
+  },
+  {
+   "url": "https://www.ploner.bz.it/it/impresa/storia",
+   "quote": "1998 Acquisto dell’areale aziendale nella zona artigianale di Collalbo"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

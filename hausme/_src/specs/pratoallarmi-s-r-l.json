@@ -1,0 +1,19 @@
+{
+ "slug": "pratoallarmi-s-r-l",
+ "company": "PratoAllarmi",
+ "full_name": "Alessandro",
+ "first": "Alessandro",
+ "linkedin": "https://www.linkedin.com/in/alessandro-conti-912b8229",
+ "cover_note": "PratoAllarmi nasce a Prato nel 1975 e installa antifurto filari e wireless, videosorveglianza con accesso remoto, controllo accessi e antincendio certificati.",
+ "evidence": [
+  {
+   "url": "https://www.pratoallarmi.com/chi-siamo",
+   "quote": "Fondata a Prato nel 1975 da Alessandro Conti, PratoAllarmi è oggi sinonimo di professionalità e competenza nel settore della sicurezza."
+  },
+  {
+   "url": "https://www.pratoallarmi.com/chi-siamo",
+   "quote": "I servizi comprendono l’installazione di sistemi antifurto filari e wireless , impianti di videosorveglianza con accesso remoto, sistemi di controllo accessi e impianti antincendio certificati."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

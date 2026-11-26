@@ -1,0 +1,19 @@
+{
+ "slug": "ekotec-sistemi-s-r-l",
+ "company": "Ekotec",
+ "full_name": "Muhammad",
+ "first": "Muhammad",
+ "linkedin": "https://www.linkedin.com/in/usamakaimkhani",
+ "cover_note": "Ekotec da Parma lavora con più di 50 persone tra installatori, progettisti e manutentori anche a Piacenza, Reggio Emilia, Modena, Cremona e Mantova.",
+ "evidence": [
+  {
+   "url": "https://www.ekotec.it/chi-siamo/",
+   "quote": "Ekotec ha un organico di più di 50 persone . Una squadra ben affiatata di tecnici installatori, progettisti, manutentori, amministrativi."
+  },
+  {
+   "url": "https://www.ekotec.it/chi-siamo/",
+   "quote": "La nostra sede è a Parma e operiamo in modo capillare nelle province di Parma, Piacenza, Reggio Emilia, Modena, Cremona, Mantova"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "edil-arte-s-r-l",
+ "company": "Rea Circle",
+ "full_name": "Roberto",
+ "first": "Roberto",
+ "linkedin": "https://www.linkedin.com/in/roberto-guerini-rea-circle-601ab2220",
+ "cover_note": "Rea Circle nasce nel 2006 come impresa edile e oggi segue ristrutturazioni chiavi in mano per boutique, showroom, uffici e residenze private.",
+ "evidence": [
+  {
+   "url": "https://www.reacircle.it/azienda-rea-circle/",
+   "quote": "Ristrutturazioni chiavi in mano per boutique, showroom, uffici e residenze private."
+  },
+  {
+   "url": "https://www.reacircle.it/azienda-rea-circle/",
+   "quote": "Fondata nel 2006 come impresa edile, Rea Circle si è rapidamente evoluta"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

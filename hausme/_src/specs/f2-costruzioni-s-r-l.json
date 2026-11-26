@@ -1,0 +1,19 @@
+{
+ "slug": "f2-costruzioni-s-r-l",
+ "company": "F2 Costruzioni",
+ "full_name": "Settimo",
+ "first": "Settimo",
+ "linkedin": "https://www.linkedin.com/in/settimo-ferrara-645ba4105",
+ "cover_note": "F2 Costruzioni nasce da un'attività di finiture avviata nel 1984 tra Padova e Venezia e realizza case singole a Dogaletto, Prozzolo e Camponogara.",
+ "evidence": [
+  {
+   "url": "https://effeduecostruzioni.it/azienda.php",
+   "quote": "Egli inizia la propria attività nel 1984, aprendo una ditta individuale specializzata in opere di finitura (intonaci, pitture), dapprima nelle province di Padova e Venezia"
+  },
+  {
+   "url": "https://effeduecostruzioni.it/",
+   "quote": "Casa singola a Dogaletto Casa singola a Prozzolo Casa singola a Camponogara"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

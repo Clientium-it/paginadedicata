@@ -1,0 +1,19 @@
+{
+ "slug": "edilvit-srl",
+ "company": "Edilvit",
+ "full_name": "Alberto",
+ "first": "Alberto",
+ "linkedin": "https://www.linkedin.com/in/alberto-catoio-1a40a8259",
+ "cover_note": "Edilvit costruisce opere civili, industriali e terziarie chiavi in mano con impiantistica inclusa e ha un ufficio tecnico di ingegneri, architetti e geometri.",
+ "evidence": [
+  {
+   "url": "https://www.edilvit.com/azienda/",
+   "quote": "L’impresa è specializzata nella costruzione di opere civili, industriali e terziarie con la formula “chiavi in mano”, che prevede anche la fornitura di impiantistica (corrente e particolare), oltre ad occuparsi di project financing, gestione immobiliare ed opere pubbliche."
+  },
+  {
+   "url": "https://www.edilvit.com/azienda/",
+   "quote": "EDILVIT dispone di un ufficio tecnico (costituito da ingegneri, architetti e geometri) organizzato per supervisionare i progetti in corso, gestire i problemi di cantiere, realizzare preventivi per soddisfare le esigenze della committenza."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

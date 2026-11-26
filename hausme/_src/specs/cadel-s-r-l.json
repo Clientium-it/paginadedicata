@@ -1,0 +1,19 @@
+{
+ "slug": "cadel-s-r-l",
+ "company": "Cadel",
+ "full_name": "Daniele",
+ "first": "Daniele",
+ "linkedin": "https://www.linkedin.com/in/daniele-cadel-9254072",
+ "cover_note": "Cadel nasce nel 1966 come prima azienda del Gruppo Cadel e installa e mantiene impianti termici e frigoriferi per climatizzazione e processo industriale.",
+ "evidence": [
+  {
+   "url": "https://cadelenergia.com/",
+   "quote": "Nata nel 1966, Cadel srl è la prima azienda del Gruppo Cadel . Esperienza, innovazione e formazione continua ci rendono una realtà leader nell’installazione, esercizio e manutenzione di impianti termici e frigoriferi per la climatizzazione e il processo industriale."
+  },
+  {
+   "url": "https://cadelenergia.com/",
+   "quote": "Via delle Arti e Mestieri, 7 33080 Roveredo in Piano Pordenone"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

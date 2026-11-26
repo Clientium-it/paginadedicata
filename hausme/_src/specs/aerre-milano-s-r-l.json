@@ -1,0 +1,19 @@
+{
+ "slug": "aerre-milano-s-r-l",
+ "company": "Aerre Milano",
+ "full_name": "Francesco",
+ "first": "Francesco",
+ "linkedin": "https://www.linkedin.com/in/francesco-annigoni-14147b12b",
+ "cover_note": "Aerre Milano nasce nel 1975 come negozio di carta da parati e nel tempo ha aggiunto pitture e pavimenti, con sede in viale Gorizia a Milano.",
+ "evidence": [
+  {
+   "url": "https://aerremilano.com/",
+   "quote": "storico Colorificio di Milano dal 1975 Il colorificio AERRE Milano nasce nel 1975 come negozio di carta da parati. Con il tempo e seguendo il mercato e le esigenze dei nostri clienti, abbiamo inserito Pitture e Pavimenti"
+  },
+  {
+   "url": "https://aerremilano.com/",
+   "quote": "viale Gorizia, 18, 20144 Milano MI, Italia"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "360technology",
+ "company": "360Technology",
+ "full_name": "Emilio",
+ "first": "Emilio",
+ "linkedin": "https://www.linkedin.com/in/emilio-rossetti-12398724",
+ "cover_note": "360Technology da oltre 16 anni realizza impianti elettrici, sistemi domotici e sicurezza ed è KNX Partner con competenze certificate.",
+ "evidence": [
+  {
+   "url": "https://www.360technology.it/azienda.php",
+   "quote": "Da oltre 16 anni realizziamo impianti elettrici, sistemi domotici, soluzioni di sicurezza e tecnologie integrate."
+  },
+  {
+   "url": "https://www.360technology.it/azienda.php",
+   "quote": "Siamo KNX Partner, con competenze certificate e appartenenza alla community KNX Professional."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

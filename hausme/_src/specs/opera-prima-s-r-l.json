@@ -1,0 +1,19 @@
+{
+ "slug": "opera-prima-s-r-l",
+ "company": "Opera Prima",
+ "full_name": "Patrizio",
+ "first": "Patrizio",
+ "linkedin": "https://www.linkedin.com/in/patrizio-giorietto-41562669",
+ "cover_note": "Opera Prima ha ristrutturato gli interni del Palazzo dell'Industria di Prato su 1800 mq e realizzato chiavi in mano una filiale del Banco Fiorentino.",
+ "evidence": [
+  {
+   "url": "https://www.operaprimasrl.it/realizzazioni",
+   "quote": "Confindustria Prato Palazzo dell'Industria Prato, 2013 | 1800mq Studio Barili & Mazzoni Associati Ristrutturazione interna del Palazzo dell'Industria, con opere architettoniche, impiantistiche e di finiture."
+  },
+  {
+   "url": "https://www.operaprimasrl.it/realizzazioni",
+   "quote": "Banco Fiorentino Filiale di Viale Volta - Firenze 190mq Realizzazione chiavi in mano"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

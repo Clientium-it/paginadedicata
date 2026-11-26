@@ -1,0 +1,23 @@
+{
+ "slug": "zortea-s-r-l",
+ "company": "Zortea",
+ "full_name": "Zortea",
+ "first": "Zortea",
+ "linkedin": "https://www.linkedin.com/in/zortea-mirco-5a5695b6",
+ "cover_note": "Zortea è nata nel 1974 come ditta individuale e fa edilizia civile, industriale e agricola soprattutto in Valsugana e Val d'Adige.",
+ "evidence": [
+  {
+   "url": "https://www.zortea.it/it/storia/32-1/",
+   "quote": "Operiamo quasi esclusivamente sul territorio Trentino, particolarmente in Valsugana e Val d’Adige."
+  },
+  {
+   "url": "https://www.zortea.it/it/storia/32-1/",
+   "quote": "Edilizia civile, industriale ed agricola"
+  },
+  {
+   "url": "https://www.zortea.it/it/storia/32-1/",
+   "quote": "La ditta individuale, fondata nel 1974 dal sig. Zortea Aldo, ha avuto uno sviluppo costante nel tempo."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

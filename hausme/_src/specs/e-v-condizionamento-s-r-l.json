@@ -1,0 +1,19 @@
+{
+ "slug": "e-v-condizionamento-s-r-l",
+ "company": "EV Condizionamento",
+ "full_name": "Giuseppe",
+ "first": "Giuseppe",
+ "linkedin": "https://www.linkedin.com/in/giuseppe-squillaci-5a215330",
+ "cover_note": "EV Condizionamento dal 1993 realizza e produce apparecchiature per ventilazione e condizionamento dell'aria in uno stabilimento di 4.500 mq a Santa Palomba.",
+ "evidence": [
+  {
+   "url": "https://www.evcondizionamento.com/",
+   "quote": "La EV Condizionamento nasce nel 1993 come società operante nel campo della realizzazione e produzione di apparecchiature per la ventilazione e il condizionamento dell’aria"
+  },
+  {
+   "url": "https://www.evcondizionamento.com/",
+   "quote": "uno stabilimento di produzione in località Santa Palomba (Pomezia) con una superficie coperta di 4.500mq e 10.000mq di piazzali di stoccaggio e manovra"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

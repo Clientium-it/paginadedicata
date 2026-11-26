@@ -1,0 +1,19 @@
+{
+ "slug": "sopim-s-r-l",
+ "company": "SOPIM",
+ "full_name": "Costantino",
+ "first": "Costantino",
+ "linkedin": "https://www.linkedin.com/in/costantino-manciocco-6472b4142",
+ "cover_note": "SOPIM ha realizzato oltre 15 MW di impianti fotovoltaici in tutto il Lazio dai piccoli tetti residenziali ai grandi impianti industriali e agricoli.",
+ "evidence": [
+  {
+   "url": "https://www.sopimenergia.it/azienda/",
+   "quote": "Da allora abbiamo progettato e installato centinaia di impianti fotovoltaici, nel residenziale e nell’industriale, in tutto il Lazio."
+  },
+  {
+   "url": "https://www.sopimenergia.it/azienda/",
+   "quote": "SOPIM ha realizzato oltre 15 MW di impianti fotovoltaici, dai piccoli tetti residenziali ai grandi impianti industriali e agricoli."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

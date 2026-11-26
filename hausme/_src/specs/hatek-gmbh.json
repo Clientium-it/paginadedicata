@@ -1,0 +1,19 @@
+{
+ "slug": "hatek-gmbh",
+ "company": "Hatek",
+ "full_name": "Julius",
+ "first": "Julius",
+ "linkedin": "https://www.linkedin.com/in/julius-prader-860a307a",
+ "cover_note": "Hatek integra riscaldamento, raffreddamento, qualità dell'aria, acustica e illuminazione in interni minimalisti e ha lavorato alla Cantina Nalles Magre in Alto Adige.",
+ "evidence": [
+  {
+   "url": "https://www.hatek.it/it",
+   "quote": "Integriamo sistemi tecnologici all'avanguardia in modo fluido in un design d'interni minimalista e flessibile. In qualità di esperti in riscaldamento, raffreddamento, qualità dell‘aria, acustica e illuminazione, creiamo ambienti di lavoro accoglienti."
+  },
+  {
+   "url": "https://www.hatek.it/it",
+   "quote": "Cantina Nalles Magre Nalles, Alto Adige (Italy)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

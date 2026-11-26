@@ -1,0 +1,19 @@
+{
+ "slug": "cer-energie-s-r-l",
+ "company": "CER Energie",
+ "full_name": "Davide",
+ "first": "Davide",
+ "linkedin": "https://www.linkedin.com/in/davide-castelli-b07268b2",
+ "cover_note": "CER Energie progetta e installa impianti termici, elettrici e idraulici in ambito civile, industriale e pubblico, come la centrale termica di un condominio a Castenaso.",
+ "evidence": [
+  {
+   "url": "https://www.cerenergie.com/index.php?id=5",
+   "quote": "Condominio di Via Majorana Castenaso Impianti di riscaldamento (centrale termica e solare termico); impianti tecnologici e contabilizzazione del calore; conduzione centrale antincendio Condominio Via Cencetti Bologna Centrale termica e cogenerazione"
+  },
+  {
+   "url": "https://www.cerenergie.com/",
+   "quote": "Progettazione, costruzione e installazione di: impianti elettrici, termici, idraulici, di condizionamento e trattamento aria, in ambito civile, industriale e pubblico."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

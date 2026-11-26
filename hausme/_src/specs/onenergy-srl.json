@@ -1,0 +1,19 @@
+{
+ "slug": "onenergy-srl",
+ "company": "Onenergy",
+ "full_name": "Cristina",
+ "first": "Cristina",
+ "linkedin": "https://www.linkedin.com/in/cristina-bocci-7520a5291",
+ "cover_note": "Onenergy fa da General Contractor dalla progettazione alla realizzazione di impianti industriali e commerciali chiavi in mano, soprattutto a Roma e provincia.",
+ "evidence": [
+  {
+   "url": "https://onenergy.eu/",
+   "quote": "ONENERGY, in qualità di General Contractor, fornisce servizi che vanno dalla progettazione alla realizzazione di impianti industriali e commerciali con la formula “chiavi in mano”"
+  },
+  {
+   "url": "https://onenergy.eu/",
+   "quote": "Opera sul territorio nazionale ed in particolare a Roma e provincia."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "enertech-salute-s-r-l",
+ "company": "Enertech Salute",
+ "full_name": "Fabio",
+ "first": "Fabio",
+ "linkedin": "https://www.linkedin.com/in/fabio-ferretti-161a0472",
+ "cover_note": "Enertech Salute si occupa di salubrità degli impianti ed è certificata ISO 9001 per diagnosi dei rischi biologici e sanificazione di impianti idraulici e aeraulici.",
+ "evidence": [
+  {
+   "url": "https://esalute.tech/chi-siamo/enertech-salute/",
+   "quote": "Enertech Salute è una delle poche aziende in Italia a possedere la certificazione ISO9001:2015 per “erogazione servizi di diagnosi rischi biologici (derivanti da impianti idraulici ed aeraulici) e sanificazione di impianti, ambienti e superfici”."
+  },
+  {
+   "url": "https://esalute.tech/chi-siamo/enertech-salute/",
+   "quote": "Enertech Salute è una azienda specializzata nella salubrità degli impianti, creata per concretizzare l’esperienza accumulata negli anni in merito all’ installazione, conduzione e manutenzione degli impianti nell’ottica della riduzione del rischio biologico."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

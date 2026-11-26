@@ -1,0 +1,19 @@
+{
+ "slug": "villa-costruzioni-edili-s-r-l",
+ "company": "Villa Costruzioni",
+ "full_name": "Fabrizio",
+ "first": "Fabrizio",
+ "linkedin": "https://www.linkedin.com/in/fabrizio-villa-88b20899",
+ "cover_note": "Villa Costruzioni lavora soprattutto per enti pubblici come il Comune di Genova e AMT, con venti persone fra operai e tecnici e mezzi propri.",
+ "evidence": [
+  {
+   "url": "https://www.villacostruzioni.com/azienda",
+   "quote": "Lavoriamo soprattutto per enti pubblici: il Comune di Genova, AMT, il Commissario di Governo per il dissesto idrogeologico, i comuni liguri."
+  },
+  {
+   "url": "https://www.villacostruzioni.com/azienda",
+   "quote": "Siamo venti persone fra operai e tecnici e usiamo mezzi nostri."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "pandora-srl",
+ "company": "Pandora",
+ "full_name": "Giovanni",
+ "first": "Giovanni",
+ "linkedin": "https://www.linkedin.com/in/giovanni-balotelli-28b09042",
+ "cover_note": "Pandora lavora nel Nord Italia con uffici di progettazione e pratiche a Brescia e un magazzino con squadre di installatori a Varese.",
+ "evidence": [
+  {
+   "url": "https://pandorasolare.com/",
+   "quote": "Brescia Uffici di progettazione e gestione pratiche Varese Magazzino con mezzi e squadre installatori. La nostra area di azione Ã¨ il Nord Italia dove siamo organizzati in sedi distinte"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

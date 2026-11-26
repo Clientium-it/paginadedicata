@@ -1,0 +1,19 @@
+{
+ "slug": "bsr-engineering-srl",
+ "company": "BSR Engineering",
+ "full_name": "Cosimo",
+ "first": "Cosimo",
+ "linkedin": "https://www.linkedin.com/in/cosimo-di-maggio-b03a799a",
+ "cover_note": "BSR Engineering dal 1972 progetta e realizza piscine, parchi termali, centri benessere e grandi fontane, con sede a Eraclea.",
+ "evidence": [
+  {
+   "url": "https://www.bsrengineering.com/",
+   "quote": "Dal 1972 BSR Engineering progetta e realizza Piscine, Parchi Termali, Centri benessere e grandi Fontane, soddisfa le esigenze dei propri clienti"
+  },
+  {
+   "url": "https://www.bsrengineering.com/",
+   "quote": "Via delle Industrie, 31 - 30020 Eraclea (VE)"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

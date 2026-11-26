@@ -1,0 +1,19 @@
+{
+ "slug": "liuni-s-p-a-2",
+ "company": "Liuni",
+ "full_name": "Gianfranco",
+ "first": "Gianfranco",
+ "linkedin": "https://www.linkedin.com/in/gianfranco-gallinoni-01017289",
+ "cover_note": "Liuni lavora con pavimenti e rivestimenti da oltre 60 anni e nel 2000 ha inaugurato la filiale di Roma.",
+ "evidence": [
+  {
+   "url": "https://www.liuni.com/azienda/",
+   "quote": "Liuni: pavimenti e rivestimenti da oltre 60 anni."
+  },
+  {
+   "url": "https://www.liuni.com/azienda/",
+   "quote": "La filiale di Roma è stata inaugurata nel 2000"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

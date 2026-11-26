@@ -1,0 +1,19 @@
+{
+ "slug": "tieffe-s-r-l",
+ "company": "Tieffe",
+ "full_name": "Franco",
+ "first": "Franco",
+ "linkedin": "https://www.linkedin.com/in/franco-tieni-39241aa5",
+ "cover_note": "Tieffe è sul mercato da cinquant'anni e sul sito racconta il restauro di un edificio del XIII secolo in Piazza dei Signori a Verona.",
+ "evidence": [
+  {
+   "url": "https://tieffe.tv/portfolio-item/luxury-apartment-in-verona/",
+   "quote": "Il sapiente restauro di un edificio del XIII secolo in Piazza dei Signori a Verona, la piazza più armoniosa, aristocratica ed elegante della città. Trentadue Suite Apartments"
+  },
+  {
+   "url": "https://tieffe.tv/chi-siamo/",
+   "quote": "Siamo presenti sul mercato da cinquanta anni"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

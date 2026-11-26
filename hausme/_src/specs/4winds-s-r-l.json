@@ -1,0 +1,19 @@
+{
+ "slug": "4winds-s-r-l",
+ "company": "Fourwinds",
+ "full_name": "Daniele",
+ "first": "Daniele",
+ "linkedin": "https://www.linkedin.com/in/daniele-parisi-7126b21bb",
+ "cover_note": "Fourwinds progetta, installa e mantiene impianti elettrici, fotovoltaici e di climatizzazione con oltre 10 anni di esperienza in ambito residenziale e industriale.",
+ "evidence": [
+  {
+   "url": "https://www.fourwinds.it/lavori-eseguiti/",
+   "quote": "Sono moltissimi i lavori che Fourwinds ha eseguito negli anni, riguardanti la progettazione, l’installazione e la manutenzione di impianti elettrici, di climatizzazione e fotovoltaici."
+  },
+  {
+   "url": "https://www.fourwinds.it/",
+   "quote": "Fourwinds nasce da oltre 10 anni di esperienza entrando nel settore delle energie rinnovabili come specialista nel settore delle installazioni di sistemi fotovoltaici, pompe di calore, sistemi di condizionamento e caldaie, in ambito residenziale e industriale."
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "s-e-i-c-o-impianti-s-r-l",
+ "company": "Seico",
+ "full_name": "Nadia",
+ "first": "Nadia",
+ "linkedin": "https://www.linkedin.com/in/nadia-duchi-968501184",
+ "cover_note": "Seico dal 1990 lavora in tutto il mondo su impianti elettrostrumentali e pneumatici e progetta serbatoi certificati CE PED e ATEX.",
+ "evidence": [
+  {
+   "url": "https://seicoimpianti.com/web/chi-siamo/",
+   "quote": "Fin dal 1990, Seico lavora in tutto il MONDO nei settori degli impianti elettro-strumentali, impianti pneumatici ad alta tecnologia e costruzione di serbatoi e sistemi di soffiaggio"
+  },
+  {
+   "url": "https://seicoimpianti.com/web/",
+   "quote": "Progettiamo e realizziamo serbatoi certificati secondo le direttive CE-PED, CE-ATEX, EN-ASME"
+  }
+ ],
+ "checked": "2026-11-25 VPS5 playwright verbatim (hausme batch3)"
+}
