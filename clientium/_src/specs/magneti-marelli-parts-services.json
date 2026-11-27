@@ -1,0 +1,28 @@
+{
+ "slug": "magneti-marelli-parts-services",
+ "company": "Magneti Marelli Parts & Services",
+ "first_name": "Raimondo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Magneti Marelli da Corbetta rifornisce concessionari e ricambisti con una gamma che copre fino al 99% dei veicoli in circolazione e applicazioni per 58 case auto. Qui trova come lavoriamo e cosa potremmo fare per Magneti Marelli Parts & Services.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Magneti Marelli Parts & Services.",
+ "evidence": [
+  {
+   "claim": "Magneti Marelli da Corbetta rifornisce concessionari e ricambisti con una gamma che copre fino al 99% dei veicoli in circolazione e applicazioni per 58 case auto.",
+   "url": "https://magnetimarelli-parts-and-services.com/",
+   "quote": "A complete and up-to-date range to meet all market demands, covering up to 99% of vehicles on the road and applications for 58 car manufacturers || Marelli Aftermarket Italy S.p.A. Viale Aldo Borletti, 61/63 20011 Corbetta (MI), Italy || Magneti Marelli Parts & Services is capable of rapidly and efficiently responding to dealers and spare-parts suppliers via an interconnected and widespread infrastructure"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

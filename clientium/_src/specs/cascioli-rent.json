@@ -1,0 +1,28 @@
+{
+ "slug": "cascioli-rent",
+ "company": "Cascioli RENT",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cascioli lavora nell'automotive tra Marche e Abruzzo con 12 punti vendita, 9 officine, 2 carrozzerie, 2 centri noleggio e oltre 250 collaboratori. Qui trova come lavoriamo e cosa potremmo fare per Cascioli RENT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cascioli RENT.",
+ "evidence": [
+  {
+   "claim": "Cascioli lavora nell'automotive tra Marche e Abruzzo con 12 punti vendita, 9 officine, 2 carrozzerie, 2 centri noleggio e oltre 250 collaboratori.",
+   "url": "https://www.cascioligroup.it/pagina/chi-siamo",
+   "quote": "Rappresenta l'eccellenza nelle regioni Marche e Abruzzo con i suoi 12 punti vendita, 9 officine, 2 carrozzerie, 2 centri noleggio e oltre 250 collaboratori al vostro servizio. || Attualmente Il Gruppo Cascioli è leader del settore automotive per le province di Ascoli-Piceno, Fermo, Macerata, Ancona, L'Aquila e Teramo"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

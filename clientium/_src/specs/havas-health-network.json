@@ -1,0 +1,28 @@
+{
+ "slug": "havas-health-network",
+ "company": "Havas Health Network",
+ "first_name": "Anna Maria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Havas Health unisce creatività, media e innovazione per la salute da 30 anni, con oltre 6500 persone e 200 uffici in più di 70 paesi. Qui trova come lavoriamo e cosa potremmo fare per Havas Health Network.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Havas Health Network.",
+ "evidence": [
+  {
+   "claim": "Havas Health unisce creatività, media e innovazione per la salute da 30 anni, con oltre 6500 persone e 200 uffici in più di 70 paesi.",
+   "url": "https://havashealthandyou.com/about/",
+   "quote": "To be the world’s best company at creating meaningful connections using creativity, media and innovation to inspire healthier lives. || 30 Years 70+ Countries 200+ Offices 6500+ People"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

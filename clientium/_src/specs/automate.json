@@ -1,0 +1,28 @@
+{
+ "slug": "automate",
+ "company": "Automate",
+ "first_name": "Eugenio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Automate segue da oltre 15 anni l'automazione dei processi industriali, con progetti di Digital Twin e simulazione nei settori aeroportuale, logistico e manifatturiero. Qui trova come lavoriamo e cosa potremmo fare per Automate.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Automate.",
+ "evidence": [
+  {
+   "claim": "Automate segue da oltre 15 anni l'automazione dei processi industriali, con progetti di Digital Twin e simulazione nei settori aeroportuale, logistico e manifatturiero.",
+   "url": "https://automatesrl.it/l-azienda-automate/",
+   "quote": "Automate è una azienda italiana leader nel campo dell'automazione e trasformazione digitale dei processi industriali da oltre 15 anni. || Consolidiamo l’offerta di Digital Twin & Simulation grazie alle varie realizzazioni presso clienti rilevanti nei settori aeroportuale, logistica e manifatturiero."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

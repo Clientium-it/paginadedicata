@@ -1,0 +1,28 @@
+{
+ "slug": "kocca",
+ "company": "KOCCA",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Kocca è un brand di moda femminile italiano nato nel 2001 dai fratelli Miranda e presente a Milano, Roma, Napoli e Torino. Qui trova come lavoriamo e cosa potremmo fare per KOCCA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per KOCCA.",
+ "evidence": [
+  {
+   "claim": "Kocca è un brand di moda femminile italiano nato nel 2001 dai fratelli Miranda e presente a Milano, Roma, Napoli e Torino.",
+   "url": "https://kocca.it/pages/chi-siamo",
+   "quote": "Kocca è un brand di moda femminile italiano nato nel 2001 da un’idea dei fratelli Miranda che nasce con l’obiettivo di valorizzare la personalità e lo stile contemporaneo delle donne. || Ti aspettiamo nelle principali città italiane: Milano, Roma, Napoli, Torino e molte altre"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

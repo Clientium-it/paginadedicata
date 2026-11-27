@@ -1,0 +1,28 @@
+{
+ "slug": "echosens",
+ "company": "Echosens",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Echosens offre da oltre 25 anni con FibroScan esami non invasivi su fibrosi e steatosi del fegato in più di 127 paesi. Qui trova come lavoriamo e cosa potremmo fare per Echosens.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Echosens.",
+ "evidence": [
+  {
+   "claim": "Echosens offre da oltre 25 anni con FibroScan esami non invasivi su fibrosi e steatosi del fegato in più di 127 paesi.",
+   "url": "https://www.echosens.com/",
+   "quote": "FibroScan ® by Echosens has been delivering fast, non-invasive insights into liver fibrosis (stiffness) and steatosis (fat) for over 25 years. || Echosens has made FibroScan ® available in over 127+ countries enabling millions of liver examinations worldwide. || Find practical resources, user support, and expert insights for healthcare professionals using FibroScan® to optimize daily clinical practice."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

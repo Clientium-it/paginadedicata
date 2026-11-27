@@ -1,0 +1,28 @@
+{
+ "slug": "lincotek",
+ "company": "Lincotek Group",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lincotek Equipment realizza impianti chiavi in mano, prodotti e assistenza post vendita da Collecchio, in provincia di Parma. Qui trova come lavoriamo e cosa potremmo fare per Lincotek Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lincotek Group.",
+ "evidence": [
+  {
+   "claim": "Lincotek Equipment realizza impianti chiavi in mano, prodotti e assistenza post vendita da Collecchio, in provincia di Parma.",
+   "url": "https://www.lincotek.com/equipment/products-services/",
+   "quote": "Turnkey Systems Discover more Products Discover more After Sales Service Discover more || Lincotek Equipment Division Collecchio, Parma | Italy Lincotek Equipment S.p.A. | Via Talignano 5, 43044 Pontescodogna – Collecchio (Pr)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

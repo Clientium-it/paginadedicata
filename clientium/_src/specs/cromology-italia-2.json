@@ -1,0 +1,28 @@
+{
+ "slug": "cromology-italia-2",
+ "company": "Cromology Italia",
+ "first_name": "Iacopo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cromology progetta e produce vernici e pitture per applicatori professionisti e privati, distribuite in oltre 50 paesi con più di 8.500 partner. Qui trova come lavoriamo e cosa potremmo fare per Cromology Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cromology Italia.",
+ "evidence": [
+  {
+   "claim": "Cromology progetta e produce vernici e pitture per applicatori professionisti e privati, distribuite in oltre 50 paesi con più di 8.500 partner.",
+   "url": "https://www.cromology.it/chi-siamo/",
+   "quote": "Cromology progetta, produce e distribuisce un vasto assortimento di vernici e di pitture per applicatori professionisti e privati. Distribuisce i suoi prodotti innovativi in più di 50 paesi nel mondo || Distribuisce i suoi prodotti innovativi in più di 50 paesi nel mondo, di cui 8 con una presenza diretta (Belgio, Spagna, Francia, Italia, Lussemburgo, Marocco, Portogallo e Svizzera). || oltre 8.500 partner (superstore bricolage, distributori indipendenti e digital pure players), Cromology progetta, produce e distribuisce un vasto assortimento di vernici e di pitture per applicatori professionisti e privati."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

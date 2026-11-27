@@ -1,0 +1,28 @@
+{
+ "slug": "plures",
+ "company": "PLURES",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Alia gestisce i servizi ambientali nelle province di Firenze, Prato e Pistoia e con AliaEstra fornisce luce, gas e rifiuti a case e imprese. Qui trova come lavoriamo e cosa potremmo fare per PLURES.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PLURES.",
+ "evidence": [
+  {
+   "claim": "Alia gestisce i servizi ambientali nelle province di Firenze, Prato e Pistoia e con AliaEstra fornisce luce, gas e rifiuti a case e imprese.",
+   "url": "https://aliaestra.it/",
+   "quote": "Diamo energia e servizi a tutta Italia e gestiamo i servizi ambientali nelle province di Firenze, Prato e Pistoia. || Lavoriamo ogni giorno nelle provincie di Prato, Pistoia e Firenze per chiudere il cerchio dell'economia circolare || AliaEstra: luce, gas e rifiuti per la tua casa e impresa"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

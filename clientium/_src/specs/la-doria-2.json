@@ -1,0 +1,28 @@
+{
+ "slug": "la-doria-2",
+ "company": "La Doria",
+ "first_name": "Luciano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "La Doria produce derivati del pomodoro, sughi pronti, legumi, succhi di frutta e pasta secca a marchio delle catene distributive, con sede ad Angri. Qui trova come lavoriamo e cosa potremmo fare per La Doria.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per La Doria.",
+ "evidence": [
+  {
+   "claim": "La Doria produce derivati del pomodoro, sughi pronti, legumi, succhi di frutta e pasta secca a marchio delle catene distributive, con sede ad Angri.",
+   "url": "https://www.gruppoladoria.it/",
+   "quote": "Siamo produttori di derivati del pomodoro, sughi pronti, legumi conservati, succhi di frutta e pasta secca a marchio delle catene distributive. || La Doria S.p.A.- società con unico socio, Via Nazionale 320 Angri (Sa) - Italia || Una grande food company internazionale dal cuore italiano a servizio dei grandi marchi privati."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "engel-volkers-italia-2",
+ "company": "Engel & Völkers Italia",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Engel & Völkers si occupa da 49 anni di immobili residenziali e commerciali nel segmento premium con circa 1.100 sedi in oltre 35 paesi. Qui trova come lavoriamo e cosa potremmo fare per Engel & Völkers Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Engel & Völkers Italia.",
+ "evidence": [
+  {
+   "claim": "Engel & Völkers si occupa da 49 anni di immobili residenziali e commerciali nel segmento premium con circa 1.100 sedi in oltre 35 paesi.",
+   "url": "https://www.engelvoelkers.com/de/en/company/about-us",
+   "quote": "For 49 years, we have specialized in residential and commercial real estate services in the premium segment. || More than 16,700 people work under the Engel & Völkers brand in over 35 countries on 5 continents and round about 1,100 locations."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

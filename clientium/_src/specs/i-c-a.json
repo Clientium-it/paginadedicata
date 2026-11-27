@@ -1,0 +1,28 @@
+{
+ "slug": "i-c-a",
+ "company": "I.C.A",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ICA ha sede a Civitanova Marche, dal dicembre 2022 fa parte della divisione legno di Sherwin Williams e spedisce da filiali in Italia e all'estero. Qui trova come lavoriamo e cosa potremmo fare per I.C.A.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per I.C.A.",
+ "evidence": [
+  {
+   "claim": "ICA ha sede a Civitanova Marche, dal dicembre 2022 fa parte della divisione legno di Sherwin Williams e spedisce da filiali in Italia e all'estero.",
+   "url": "https://www.icaspa.com/ww/en/about_us",
+   "quote": "ICA is a large Italian company with headquarters in Civitanova Marche (Macerata). In December 2022, it joined the wood division of The Sherwin-Williams Company || stock is sent out to the depots and branches (which are located both within Italy and further afield)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "atg-europe-2",
+ "company": "ATG Europe",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ATG Europe è nata oltre 50 anni fa come società di ingegneria per lo spazio e dal 2022 lavora anche nella Big Science. Qui trova come lavoriamo e cosa potremmo fare per ATG Europe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ATG Europe.",
+ "evidence": [
+  {
+   "claim": "ATG Europe è nata oltre 50 anni fa come società di ingegneria per lo spazio e dal 2022 lavora anche nella Big Science.",
+   "url": "https://www.atg-europe.com/",
+   "quote": "Established over 50 years ago as an engineering company with a primary focus on the space sector, we have expanded our expertise to the BIG SCIENCE domain since 2022. || High-end thermal and mechanical engineering solutions for the aerospace and high-tech industries."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "maury-microwave",
+ "company": "Maury Microwave",
+ "first_name": "Giampiero",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Maury Microwave progetta e produce prodotti RF, microonde e onde millimetriche per calibrazione e misura in aerospazio, difesa, semiconduttori e telecomunicazioni. Qui trova come lavoriamo e cosa potremmo fare per Maury Microwave.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Maury Microwave.",
+ "evidence": [
+  {
+   "claim": "Maury Microwave progetta e produce prodotti RF, microonde e onde millimetriche per calibrazione e misura in aerospazio, difesa, semiconduttori e telecomunicazioni.",
+   "url": "https://maurymw.com/",
+   "quote": "We design and manufacture the most advanced RF, microwave, and millimeter-wave products for precision calibration, device characterization, and measurement solutions. || cutting-edge applications across the aerospace, defense, semiconductor, telecommunications, education, and research sectors."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

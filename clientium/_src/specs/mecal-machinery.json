@@ -1,0 +1,28 @@
+{
+ "slug": "mecal-machinery",
+ "company": "Mecal Machinery",
+ "first_name": "Carmelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mecal progetta dal 1978 centri di lavoro, linee automatiche, troncatrici, saldatrici e pulitrici. Qui trova come lavoriamo e cosa potremmo fare per Mecal Machinery.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mecal Machinery.",
+ "evidence": [
+  {
+   "claim": "Mecal progetta dal 1978 centri di lavoro, linee automatiche, troncatrici, saldatrici e pulitrici.",
+   "url": "https://www.mecal.com/",
+   "quote": "MECAL Machinery EXCELLENCE THAT WORKS Dal 1978, esperti nella progettazione || Vedi tutti i Prodotti Centri di lavoro Linee Automatiche Logistica Macchine complementari Pulitrici Saldatrici Troncatrici singole Troncatrici Doppia Testa"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

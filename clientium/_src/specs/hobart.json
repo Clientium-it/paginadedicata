@@ -1,0 +1,28 @@
+{
+ "slug": "hobart",
+ "company": "HOBART GmbH",
+ "first_name": "Marcello",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hobart da oltre 100 anni lavora sul lavaggio da Offenburg per gastronomia, ristorazione collettiva, panifici, macellerie, industria, navale e catering aereo. Qui trova come lavoriamo e cosa potremmo fare per HOBART GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per HOBART GmbH.",
+ "evidence": [
+  {
+   "claim": "Hobart da oltre 100 anni lavora sul lavaggio da Offenburg per gastronomia, ristorazione collettiva, panifici, macellerie, industria, navale e catering aereo.",
+   "url": "https://www.hobart.de/",
+   "quote": "Denn HOBART hat seit über 100 Jahren Erfahrung rund ums Spülen. || HOBART GmbH Robert-Bosch-Straße 17 77656 Offenburg || Branchen Gastronomie Gemeinschafts- verpflegung Bäckerei Fleischerei Industrie Marine Airline catering"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

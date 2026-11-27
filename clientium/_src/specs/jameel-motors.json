@@ -1,0 +1,28 @@
+{
+ "slug": "jameel-motors",
+ "company": "Jameel Motors",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Jameel Motors offre un servizio completo a clienti privati e aziendali in oltre 15 paesi attraverso aziende radicate nelle comunità locali. Qui trova come lavoriamo e cosa potremmo fare per Jameel Motors.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Jameel Motors.",
+ "evidence": [
+  {
+   "claim": "Jameel Motors offre un servizio completo a clienti privati e aziendali in oltre 15 paesi attraverso aziende radicate nelle comunità locali.",
+   "url": "https://alj.com/en/story/",
+   "quote": "delivering award winning end-to-end service to retail and commercial customers in more than 15 countries across three continents through locally established businesses rooted in the heart of the community || retail and commercial customers in more than 15 countries across three continents || delivering award winning end-to-end service to retail and commercial customers"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

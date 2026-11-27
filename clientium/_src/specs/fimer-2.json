@@ -1,0 +1,28 @@
+{
+ "slug": "fimer-2",
+ "company": "FIMER",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FIMER sviluppa inverter di stringa e centralizzati con stabilimenti in Italia e India e 50 anni di esperienza, dal residenziale alle utility scale. Qui trova come lavoriamo e cosa potremmo fare per FIMER.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FIMER.",
+ "evidence": [
+  {
+   "claim": "FIMER sviluppa inverter di stringa e centralizzati con stabilimenti in Italia e India e 50 anni di esperienza, dal residenziale alle utility scale.",
+   "url": "https://www.fimer.com/corporate/company-profile",
+   "quote": "We have the technological expertise and manufacturing strength to offer end-to-end string and central solutions — from design to service — worldwide. We are a pioneer , backed by 50 years of experience . || Born Italian, we drive the energy change globally. With our plants in Italy and India , we develop every kind of inverter, for every purpose, everywhere. || Our solutions Redefining the future concept of energy. We are leading the way. Residential read more Commercial & Industrial read more Utility Scale read more Microgrids"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

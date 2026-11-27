@@ -1,0 +1,28 @@
+{
+ "slug": "artelia-italia",
+ "company": "Artelia Italia",
+ "first_name": "Gabriele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Artelia offre consulenza, ingegneria e project management in mobilità, acqua, energia, edilizia e industria, con sedi in oltre 40 paesi. Qui trova come lavoriamo e cosa potremmo fare per Artelia Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Artelia Italia.",
+ "evidence": [
+  {
+   "claim": "Artelia offre consulenza, ingegneria e project management in mobilità, acqua, energia, edilizia e industria, con sedi in oltre 40 paesi.",
+   "url": "https://www.arteliagroup.com/",
+   "quote": "International, independent and multidisciplinary, Artelia is a consulting, engineering and project management group operating in the fields of mobility, water, energy, building and industry. || Artelia has subsidiaries and branches in more than 40 countries around the world. From these locations, the Group’s employees are at your side in over a hundred countries."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

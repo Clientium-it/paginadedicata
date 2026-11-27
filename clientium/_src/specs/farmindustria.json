@@ -1,0 +1,28 @@
+{
+ "slug": "farmindustria",
+ "company": "Farmindustria",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Farmindustria conta circa 200 aziende associate a capitale nazionale ed estero, con oltre 130 stabilimenti sul territorio nazionale e 72.200 addetti. Qui trova come lavoriamo e cosa potremmo fare per Farmindustria.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Farmindustria.",
+ "evidence": [
+  {
+   "claim": "Farmindustria conta circa 200 aziende associate a capitale nazionale ed estero, con oltre 130 stabilimenti sul territorio nazionale e 72.200 addetti.",
+   "url": "https://www.farmindustria.it/chi-siamo/",
+   "quote": "Conta circa 200 aziende associate a capitale nazionale e a capitale estero, con oltre 130 stabilimenti su tutto il territorio nazionale, 72.200 addetti altamente qualificati || Largo del Nazareno 3/8 00187 Roma Tel. 06 675801 Avenue de la Joyeuse Entrée 1 B - 1040 Bruxelles"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "dunext",
+ "company": "Dunext",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dunext dal 2023 produce sistemi di accumulo a batterie da 50 kWh a oltre 5 MWh per commerciale, industriale e utility, con cinque filiali estere. Qui trova come lavoriamo e cosa potremmo fare per Dunext.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dunext.",
+ "evidence": [
+  {
+   "claim": "Dunext dal 2023 produce sistemi di accumulo a batterie da 50 kWh a oltre 5 MWh per commerciale, industriale e utility, con cinque filiali estere.",
+   "url": "https://www.dunext.com/about.html",
+   "quote": "Founded in 2023, Dunext is one of the leading battery energy storage system manufacturers focused on one-stop commercial, industrial, and utility-scale energy storage solutions. || With five overseas subsidiaries and offices, Dunext supports customers and partners across global battery energy storage projects || Dunext provides scalable commercial, industrial, and utility energy storage solutions, with BESS systems ranging from compact 50 kWh units to over 5 MWh."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "athlon-italy",
+ "company": "Athlon Italy",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Athlon fa parte del gruppo Arval BNP Paribas, gestisce una flotta di oltre 400.000 veicoli ed è presente in tutta Europa. Qui trova come lavoriamo e cosa potremmo fare per Athlon Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Athlon Italy.",
+ "evidence": [
+  {
+   "claim": "Athlon fa parte del gruppo Arval BNP Paribas, gestisce una flotta di oltre 400.000 veicoli ed è presente in tutta Europa.",
+   "url": "https://www.athlon.com:443/we-are-athlon/our-history/",
+   "quote": "Now a part of Arval BNP Paribas Group , our fleet has grown to more than 400.000 vehicles. You’ll find us throughout Europe, pushing boundaries and preparing for the future. || Select your country International Belgium France Germany Italy Luxembourg Netherlands Poland Portugal Spain United Kingdom"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

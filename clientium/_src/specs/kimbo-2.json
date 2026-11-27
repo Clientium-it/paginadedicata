@@ -1,0 +1,28 @@
+{
+ "slug": "kimbo-2",
+ "company": "Kimbo",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Kimbo produce nello stabilimento di Melito di Napoli da 40.000 mq e dal 2009 gestisce la logistica dal Kimbo hub all'interporto di Nola. Qui trova come lavoriamo e cosa potremmo fare per Kimbo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kimbo.",
+ "evidence": [
+  {
+   "claim": "Kimbo produce nello stabilimento di Melito di Napoli da 40.000 mq e dal 2009 gestisce la logistica dal Kimbo hub all'interporto di Nola.",
+   "url": "https://kimbo.it/pages/storia",
+   "quote": "Lo stabilimento di Melito di Napoli si estende su 40.000 mq, dove l’aggiornamento delle apparecchiature e dei processi produttivi è costante || Dal 2009 Kimbo è all’avanguardia anche nella logistica integrata, con il Kimbo-hub (18.000 mq) all’interporto di Nola. || Professional Bar e pasticceria Ristoranti Uffici Negozi specializzati Training center"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

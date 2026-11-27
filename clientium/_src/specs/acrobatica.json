@@ -1,0 +1,28 @@
+{
+ "slug": "acrobatica",
+ "company": "Acrobatica",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Acrobatica affianca alle ristrutturazioni esterne su fune l'efficientamento energetico e le rinnovabili e conta 170 aree di intervento in Europa e Medio Oriente. Qui trova come lavoriamo e cosa potremmo fare per Acrobatica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Acrobatica.",
+ "evidence": [
+  {
+   "claim": "Acrobatica affianca alle ristrutturazioni esterne su fune l'efficientamento energetico e le rinnovabili e conta 170 aree di intervento in Europa e Medio Oriente.",
+   "url": "https://acrobaticagroup.com/i-nostri-mercati/",
+   "quote": "nel corso degli ultimi trent’anni, abbiamo lavorato per ampliare la nostra offerta, lanciando nuove linee di business che spaziano dalle ristrutturazioni esterne su fune all’efficientamento energetico e alle energie rinnovabili || 170 Aree di intervento in Europa e Medio Oriente (incluse le società franchising)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

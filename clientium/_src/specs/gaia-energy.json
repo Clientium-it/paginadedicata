@@ -1,0 +1,28 @@
+{
+ "slug": "gaia-energy",
+ "company": "Gaia Energy",
+ "first_name": "Raffaele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gaia Energy da oltre 20 anni realizza impianti da fonti rinnovabili per aziende e privati, con 83 MWp di fotovoltaico installati e 1163 edifici efficientati. Qui trova come lavoriamo e cosa potremmo fare per Gaia Energy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gaia Energy.",
+ "evidence": [
+  {
+   "claim": "Gaia Energy da oltre 20 anni realizza impianti da fonti rinnovabili per aziende e privati, con 83 MWp di fotovoltaico installati e 1163 edifici efficientati.",
+   "url": "https://www.gaiaenergy.it/",
+   "quote": "Da oltre 20 anni supportiamo aziende e privati nella realizzazione di impianti per la produzione di energia da fonti rinnovabili || 83 MWp di impianti fotovoltaici installati 1163 edifici efficientati || sviluppiamo sistemi di autoconsumo collettivo e a distanza, ideali per comunità energetiche e condomìni"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

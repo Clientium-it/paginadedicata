@@ -1,0 +1,28 @@
+{
+ "slug": "atacana",
+ "company": "ATACANA GROUP",
+ "first_name": "Tarciana",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Atacana affianca team globali delle life sciences nel lancio di nuovi prodotti unendo competitive intelligence, strumenti di AI ed esperienza sul campo. Qui trova come lavoriamo e cosa potremmo fare per ATACANA GROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ATACANA GROUP.",
+ "evidence": [
+  {
+   "claim": "Atacana affianca team globali delle life sciences nel lancio di nuovi prodotti unendo competitive intelligence, strumenti di AI ed esperienza sul campo.",
+   "url": "https://www.atacana.com/atacana-our-team",
+   "quote": "Today, we partner with global life sciences teams to help them launch, compete, and win, combining real-world experience, AI-powered intelligence, and proven CI methodology to deliver measurable results. || Atacana is and always will be completely virtual so you can literally be anywhere in the world and still work"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

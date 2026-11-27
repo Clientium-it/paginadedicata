@@ -1,0 +1,28 @@
+{
+ "slug": "f-lli-de-cecco-di-filippo-2",
+ "company": "F.lli De Cecco di Filippo",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "De Cecco produce pasta, sughi, farine, oli e prodotti da forno e che la pasta di semola è il cuore della produzione. Qui trova come lavoriamo e cosa potremmo fare per F.lli De Cecco di Filippo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per F.lli De Cecco di Filippo.",
+ "evidence": [
+  {
+   "claim": "De Cecco produce pasta, sughi, farine, oli e prodotti da forno e che la pasta di semola è il cuore della produzione.",
+   "url": "https://www.dececco.com/it_it/products/",
+   "quote": "Tutti i tipi di pasta, sughi, farine, oli e prodotti da forno De Cecco Pasta di semola La pasta di semola è un grande classico della cultura gastronomica italiana, rappresenta il cuore della produzione De Cecco. || F.lli De Cecco di Filippo - Fara San Martino S.p.A. Via F. De Cecco - 66015 Fara San Martino (CH), Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}
