@@ -1,0 +1,28 @@
+{
+ "slug": "geistlich-biomaterials-italia",
+ "company": "Geistlich Biomaterials Italia",
+ "first_name": "Pier Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Geistlich ha sede a Thiene e documenta l'efficacia del suo Bio Oss con oltre 25 anni di successi clinici e 900 pubblicazioni. Qui trova come lavoriamo e cosa potremmo fare per Geistlich Biomaterials Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Geistlich Biomaterials Italia.",
+ "evidence": [
+  {
+   "claim": "Geistlich ha sede a Thiene e documenta l'efficacia del suo Bio Oss con oltre 25 anni di successi clinici e 900 pubblicazioni.",
+   "url": "https://shop.geistlich.it/it/bio-ossr.html",
+   "quote": "L’efficacia di Geistlich Bio-Oss ® è comprovata da oltre 25 anni di successi clinici documentati in oltre 900 pubblicazioni scientifiche. || Via Castelletto 28 36016 Thiene (VI)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

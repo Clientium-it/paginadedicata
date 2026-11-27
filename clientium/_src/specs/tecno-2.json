@@ -1,0 +1,28 @@
+{
+ "slug": "tecno-2",
+ "company": "Tecno",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecno progetta e realizza articoli in poliuretano a Beinasco, in provincia di Torino, per automotive, serigrafia, sgombero neve e lavorazione di legno e marmo. Qui trova come lavoriamo e cosa potremmo fare per Tecno.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecno.",
+ "evidence": [
+  {
+   "claim": "Tecno progetta e realizza articoli in poliuretano a Beinasco, in provincia di Torino, per automotive, serigrafia, sgombero neve e lavorazione di legno e marmo.",
+   "url": "https://tecnoitaly.com/azienda/",
+   "quote": "TECNO progetta e realizza articoli in poliuretano per i vari settori, tra i quali l’Automotive, il geotermico e l’industriale, la serigrafia, lo sgombero neve, la lavorazione del legno e del marmo. || TECNO S.r.l. Strada Borgaretto 30/2 – 10092 Beinasco (TO) Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

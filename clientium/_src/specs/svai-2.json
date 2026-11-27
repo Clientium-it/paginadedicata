@@ -1,0 +1,28 @@
+{
+ "slug": "svai-2",
+ "company": "SVAI",
+ "first_name": "Giancarlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SVAI conta 380 collaboratori e 19 sedi nel nord Italia, al fianco di privati, installatori e imprese edili che costruiscono, rinnovano e abitano. Qui trova come lavoriamo e cosa potremmo fare per SVAI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SVAI.",
+ "evidence": [
+  {
+   "claim": "SVAI conta 380 collaboratori e 19 sedi nel nord Italia, al fianco di privati, installatori e imprese edili che costruiscono, rinnovano e abitano.",
+   "url": "https://www.svai.it/chi-siamo/",
+   "quote": "Attualmente il fatturato si attesta ad 116 milioni di euro , sviluppato con 380 collaboratori . || Con 19 sedi nel nord Italia siamo sempre vicini ai sogni e desideri di chi costruisce, rinnova e abita, con tante idee, spunti e soluzioni. || PRIVATI INSTALLATORI IMPRENDITORI IMPRESE EDILI"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

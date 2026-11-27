@@ -1,0 +1,28 @@
+{
+ "slug": "bartec",
+ "company": "BARTEC",
+ "first_name": "Bruno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "BARTEC si occupa di protezione dalle esplosioni da 50 anni per settori come oil and gas, chimica, farmaceutica ed energia. Qui trova come lavoriamo e cosa potremmo fare per BARTEC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BARTEC.",
+ "evidence": [
+  {
+   "claim": "BARTEC si occupa di protezione dalle esplosioni da 50 anni per settori come oil and gas, chimica, farmaceutica ed energia.",
+   "url": "https://bartec.com/",
+   "quote": "BARTEC as a unique provider in the field of explosion protection with 50 years of experience. || Oil and Gas Chemical Pharmaceuticals Energy Manufacturing and Logistics Hydrogen Food and Beverages"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

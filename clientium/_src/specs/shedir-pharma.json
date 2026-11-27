@@ -1,0 +1,28 @@
+{
+ "slug": "shedir-pharma",
+ "company": "Shedir Pharma Group",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Shedir Pharma produce e commercializza integratori alimentari, cosmetici e dispositivi medici, con sede a Piano di Sorrento. Qui trova come lavoriamo e cosa potremmo fare per Shedir Pharma Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Shedir Pharma Group.",
+ "evidence": [
+  {
+   "claim": "Shedir Pharma produce e commercializza integratori alimentari, cosmetici e dispositivi medici, con sede a Piano di Sorrento.",
+   "url": "https://shedirpharma.com/azienda/",
+   "quote": "specializzata nella produzione e nella commercializzazione di integratori alimentari, cosmetici e dispositivi medici || ha la sua sede legale e amministrativa a Piano di Sorrento (NA), nella Penisola sorrentina e rappresenta il centro coordinatore di tutte le attività di business dell'azienda || La fiducia è alla base delle nostre relazioni con medici, farmacisti e consumatori."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

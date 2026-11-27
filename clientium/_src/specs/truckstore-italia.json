@@ -1,0 +1,28 @@
+{
+ "slug": "truckstore-italia",
+ "company": "TruckStore Italia",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TruckStore Italia si occupa di veicoli industriali e commerciali, con sede a Marsala, in provincia di Trapani. Qui trova come lavoriamo e cosa potremmo fare per TruckStore Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TruckStore Italia.",
+ "evidence": [
+  {
+   "claim": "TruckStore Italia si occupa di veicoli industriali e commerciali, con sede a Marsala, in provincia di Trapani.",
+   "url": "https://truckstoreitalia.com/about/",
+   "quote": "Benvenuti in Truckstore Italia, il punto di riferimento nel settore dei veicoli industriali e commerciali. || Sede legale: Via Valeria 71, 91025, Marsala (TP)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "takler-2",
+ "company": "Takler Group",
+ "first_name": "Piergiuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Takler Group realizza prodotti per camion e rimorchi e si occupa di estrusione dell'alluminio, con sede a Matera. Qui trova come lavoriamo e cosa potremmo fare per Takler Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Takler Group.",
+ "evidence": [
+  {
+   "claim": "Takler Group realizza prodotti per camion e rimorchi e si occupa di estrusione dell'alluminio, con sede a Matera.",
+   "url": "https://taklergroup.com/",
+   "quote": "Discover our products for trucks and trailers and aluminium extrusion || Operational headquarters Via Alberto Manicone – Z.I. Jesce 75100 Matera – Italy Registered office Via Selva 101 70022 Altamura (BA) – Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

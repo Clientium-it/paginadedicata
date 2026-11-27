@@ -1,0 +1,28 @@
+{
+ "slug": "target-point",
+ "company": "Target Point",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Target Point nasce nel 1995 a Tezze sul Brenta, tra le province di Vicenza, Padova e Treviso, nel cuore del Veneto. Qui trova come lavoriamo e cosa potremmo fare per Target Point.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Target Point.",
+ "evidence": [
+  {
+   "claim": "Target Point nasce nel 1995 a Tezze sul Brenta, tra le province di Vicenza, Padova e Treviso, nel cuore del Veneto.",
+   "url": "https://targetpoint.it/azienda-di-arredamento/",
+   "quote": "Target Point nasce nel 1995 a Tezze sul Brenta tra le provincie di Vicenza, Padova e Treviso, nel cuore del Veneto"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

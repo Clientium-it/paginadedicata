@@ -1,0 +1,28 @@
+{
+ "slug": "autocentri-balduina-hauswagen-capital",
+ "company": "Autocentri Balduina srl. Hauswagen srl. Capital",
+ "first_name": "Pier Giacomo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Autocentri Balduina è concessionaria di marchi come Audi, Volkswagen, Skoda e Porsche nelle province di Roma, Viterbo e Frosinone. Qui trova come lavoriamo e cosa potremmo fare per Autocentri Balduina srl. Hauswagen srl. Capital.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Autocentri Balduina srl. Hauswagen srl. Capital.",
+ "evidence": [
+  {
+   "claim": "Autocentri Balduina è concessionaria di marchi come Audi, Volkswagen, Skoda e Porsche nelle province di Roma, Viterbo e Frosinone.",
+   "url": "https://www.autocentribalduina.com/",
+   "quote": "Autocentri Balduina Concessionaria Audi, Volkswagen, Skoda, Dongfeng, Sportequipe, ICH-X e Porsche Roma, Viterbo e Frosinone"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

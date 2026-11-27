@@ -1,0 +1,28 @@
+{
+ "slug": "zapp-precision-metals",
+ "company": "Zapp Precision Metals GmbH",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Zapp produce fili, barre e profili per l'automotive e il medicale con 15 sedi tra Europa, Stati Uniti e Asia. Qui trova come lavoriamo e cosa potremmo fare per Zapp Precision Metals GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Zapp Precision Metals GmbH.",
+ "evidence": [
+  {
+   "claim": "Zapp produce fili, barre e profili per l'automotive e il medicale con 15 sedi tra Europa, Stati Uniti e Asia.",
+   "url": "https://www.zapp.com/en-us/about-us",
+   "quote": "Based on our German roots, we have built up a network of production locations and service centers on three continents. || 15 Locations worldwide Europe 5 USA 5 Asia 5 || a center of excellence for wires, bars and profiles, especially for applications in the automotive and medical technology"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

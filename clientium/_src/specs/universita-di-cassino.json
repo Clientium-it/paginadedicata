@@ -1,0 +1,28 @@
+{
+ "slug": "universita-di-cassino",
+ "company": "Università di Cassino",
+ "first_name": "Vito",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "L'Università di Cassino è entrata tra le migliori 650 al mondo nel THE World University Rankings 2027 e collabora con la European University of Technology. Qui trova come lavoriamo e cosa potremmo fare per Università di Cassino.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Università di Cassino.",
+ "evidence": [
+  {
+   "claim": "L'Università di Cassino è entrata tra le migliori 650 al mondo nel THE World University Rankings 2027 e collabora con la European University of Technology.",
+   "url": "https://www.unicas.it/",
+   "quote": "THE World University Rankings 2027: Unicas tra le migliori 650 al mondo Migliore nuova entrata per l'Italia e 32° posto su circa 60 atenei entrati in classifica. || international delegations from the member universities of the European University of Technology (EUt+) gather across Cassino and Gaeta to jointly redesign European Higher Education"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

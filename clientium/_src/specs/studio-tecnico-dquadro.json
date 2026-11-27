@@ -1,0 +1,28 @@
+{
+ "slug": "studio-tecnico-dquadro",
+ "company": "Studio tecnico dquadro",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dquadro offre servizi tecnici di progettazione integrata a livello internazionale, con sede a Cuneo, e progetta grandi parchi fotovoltaici a terra per investitori privati. Qui trova come lavoriamo e cosa potremmo fare per Studio tecnico dquadro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Studio tecnico dquadro.",
+ "evidence": [
+  {
+   "claim": "Dquadro offre servizi tecnici di progettazione integrata a livello internazionale, con sede a Cuneo, e progetta grandi parchi fotovoltaici a terra per investitori privati.",
+   "url": "https://d-quadro.it/servizi/",
+   "quote": "d-quadro offre una gamma completa di servizi tecnici nell’ambito della progettazione integrata a livello internazionale || d-quadro scarl Via Giovanni Battista Bongioanni, 42 12100 Cuneo || Inoltre, d-quadro si dedica alla progettazione di parchi fotovoltaici a terra di grandi dimensioni per investitori privati."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

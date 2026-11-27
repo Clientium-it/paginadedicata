@@ -1,0 +1,28 @@
+{
+ "slug": "skyline-boutique-hotel-palermo",
+ "company": "Skyline boutique hotel palermo",
+ "first_name": "Tiberio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hotel Skyline si trova ai piani alti di un edificio nel centro di Palermo e offre comfort, design e una vista sulla città. Qui trova come lavoriamo e cosa potremmo fare per Skyline boutique hotel palermo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Skyline boutique hotel palermo.",
+ "evidence": [
+  {
+   "claim": "Hotel Skyline si trova ai piani alti di un edificio nel centro di Palermo e offre comfort, design e una vista sulla città.",
+   "url": "https://skylinepalermo.it/",
+   "quote": "Situato ai piani alti di uno degli edifici più iconici del centro di Palermo, Hotel Skyline offre un’esperienza pensata per chi cerca comfort, design e una prospettiva unica sulla città."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "garofoli-6",
+ "company": "Garofoli",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Garofoli opera da oltre 40 anni nel materiale elettrico in Puglia, Basilicata e Calabria, con 19 punti vendita e un'offerta per imprese, installatori e progettisti. Qui trova come lavoriamo e cosa potremmo fare per Garofoli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Garofoli.",
+ "evidence": [
+  {
+   "claim": "Garofoli opera da oltre 40 anni nel materiale elettrico in Puglia, Basilicata e Calabria, con 19 punti vendita e un'offerta per imprese, installatori e progettisti.",
+   "url": "https://www.garofolispa.eu/",
+   "quote": "Garofoli opera da più di 40 anni nel settore delle elettroforniture e, con 19 punti vendita , è oggi una realtà saldamente ai vertici nel mercato della fornitura di materiale elettrico in Puglia, Basilicata e Calabria. || Attualmente, contiamo su 3 uffici tecnico-commerciali situati a Taranto, Locorotondo (BA) e Casarano (LE), 1 showroom ad Andria (BT) e 19 punti vendita dislocati in varie città della Puglia, Basilicata e Calabria. || offre soluzioni professionali in illuminotecnica, impianti speciali e industriali, termoidraulica, energie rinnovabili al servizio di imprese, installatori e progettisti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

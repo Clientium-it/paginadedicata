@@ -1,0 +1,28 @@
+{
+ "slug": "nobel-biocare",
+ "company": "Nobel Biocare",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nobel Biocare ha oltre 50 anni di cura dei pazienti e si rivolge a clinici e laboratori con oltre 20 milioni di sorrisi riabilitati. Qui trova come lavoriamo e cosa potremmo fare per Nobel Biocare.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nobel Biocare.",
+ "evidence": [
+  {
+   "claim": "Nobel Biocare ha oltre 50 anni di cura dei pazienti e si rivolge a clinici e laboratori con oltre 20 milioni di sorrisi riabilitati.",
+   "url": "https://www.nobelbiocare.com/en-int",
+   "quote": "Our excellence is defined in over 4,500 published scientific articles. Our legacy is built on 50-plus years of successful patient care that has seen over 20 million smiles rehabilitated. || For clinicians For labs"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "costruzioni-ferroviarie",
+ "company": "Costruzioni Ferroviarie",
+ "first_name": "Gianfilippo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Costruzioni Ferroviarie realizza costruzioni elettromeccaniche per il settore ferrotranviario e automobilistico. Qui trova come lavoriamo e cosa potremmo fare per Costruzioni Ferroviarie.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Costruzioni Ferroviarie.",
+ "evidence": [
+  {
+   "claim": "Costruzioni Ferroviarie realizza costruzioni elettromeccaniche per il settore ferrotranviario e automobilistico.",
+   "url": "https://costruzioniferroviarie.it/",
+   "quote": "Costruzioni Ferroviarie: costruzioni elettromeccaniche settore ferrotranviario e automobilistico"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

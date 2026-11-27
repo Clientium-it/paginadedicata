@@ -1,0 +1,28 @@
+{
+ "slug": "confindustria-bari-e-bat",
+ "company": "Confindustria Bari e BAT",
+ "first_name": "Valeria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Confindustria Bari e BAT rappresenta circa 800 aziende con oltre 30.000 dipendenti sul territorio. Qui trova come lavoriamo e cosa potremmo fare per Confindustria Bari e BAT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Confindustria Bari e BAT.",
+ "evidence": [
+  {
+   "claim": "Confindustria Bari e BAT rappresenta circa 800 aziende con oltre 30.000 dipendenti sul territorio.",
+   "url": "https://confindustria.babt.it/chi-siamo/",
+   "quote": "L'Associazione rappresenta circa 800 aziende con oltre 30.000 dipendenti. || Via Amendola, 172/5 - 70126 BARI"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

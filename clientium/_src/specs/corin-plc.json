@@ -1,0 +1,28 @@
+{
+ "slug": "corin-plc",
+ "company": "Corin Group PLC",
+ "first_name": "Elvira",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Corin lavora con oltre 800 dipendenti per aiutare i chirurghi a curare meglio i pazienti, con sede e produzione a Cirencester. Qui trova come lavoriamo e cosa potremmo fare per Corin Group PLC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Corin Group PLC.",
+ "evidence": [
+  {
+   "claim": "Corin lavora con oltre 800 dipendenti per aiutare i chirurghi a curare meglio i pazienti, con sede e produzione a Cirencester.",
+   "url": "https://www.coringroup.com/about-us/careers/",
+   "quote": "With more than 800 employees worldwide, we're united by a shared mission: Helping Surgeons Treat Their Patients Better™ || Our global headquarters and advanced manufacturing facility are based in Cirencester, UK, supported by teams across the United States, Australia, Japan, France, Germany, and Italy || patients, surgeons and healthcare providers to connect more closely than ever"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

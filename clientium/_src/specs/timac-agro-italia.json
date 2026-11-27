@@ -1,0 +1,28 @@
+{
+ "slug": "timac-agro-italia",
+ "company": "TIMAC AGRO Italia",
+ "first_name": "Pierluigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TIMAC AGRO Italia lavora da oltre trent'anni nella nutrizione vegetale con oltre 170 tecnici sul territorio e due siti industriali. Qui trova come lavoriamo e cosa potremmo fare per TIMAC AGRO Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TIMAC AGRO Italia.",
+ "evidence": [
+  {
+   "claim": "TIMAC AGRO Italia lavora da oltre trent'anni nella nutrizione vegetale con oltre 170 tecnici sul territorio e due siti industriali.",
+   "url": "https://it.timacagro.com/",
+   "quote": "Da oltre trent’anni, TIMAC AGRO Italia guida l’innovazione nella nutrizione vegetale con una rete capillare di esperti in campo, presenti in ogni comune e provincia per offrire agli agricoltori soluzioni su misura per massimizzare resa e qualità. || 300 Dipendenti +170 Tecnici sul territorio +25000 Aziende agricole visitate 2 Siti industriali || +25000 Aziende agricole visitate"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

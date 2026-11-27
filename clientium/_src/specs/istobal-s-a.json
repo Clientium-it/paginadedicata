@@ -1,0 +1,28 @@
+{
+ "slug": "istobal-s-a",
+ "company": "ISTOBAL S.A",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ISTOBAL da oltre 75 anni produce soluzioni per il lavaggio e la cura del veicolo, con stabilimenti in Spagna, Stati Uniti, Brasile e Cina. Qui trova come lavoriamo e cosa potremmo fare per ISTOBAL S.A.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ISTOBAL S.A.",
+ "evidence": [
+  {
+   "claim": "ISTOBAL da oltre 75 anni produce soluzioni per il lavaggio e la cura del veicolo, con stabilimenti in Spagna, Stati Uniti, Brasile e Cina.",
+   "url": "https://istobal.com/quienes-somos",
+   "quote": "Con más de 75 años de experiencia, ISTOBAL es el grupo multinacional español de referencia en el diseño, fabricación y comercialización de soluciones innovadoras para el lavado y cuidado del vehículo || Cinco plantas de fabricación y ensamblaje en España, Estados Unidos, Brasil y China. || Estaciones de servicio Concesionarios Supermercados Gestión de residuos Proyectos ferroviarios Flotas de vehículos Logística/Empresas de transporte Lavaderos profesionales"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

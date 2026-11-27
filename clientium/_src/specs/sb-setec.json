@@ -1,0 +1,28 @@
+{
+ "slug": "sb-setec",
+ "company": "SB SETEC",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SB SETEC lavora soprattutto nel settore downstream della raffinazione e petrolchimico e offre fino a 400.000 ore di ingegneria all'anno. Qui trova come lavoriamo e cosa potremmo fare per SB SETEC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SB SETEC.",
+ "evidence": [
+  {
+   "claim": "SB SETEC lavora soprattutto nel settore downstream della raffinazione e petrolchimico e offre fino a 400.000 ore di ingegneria all'anno.",
+   "url": "https://www.sbsetec.it/",
+   "quote": "Our main Clients are in the downstream sector (refining and petrochemical) but we also work in partnership for some upstream projects. || SB SETEC’s in-house work force provides 300,000 engineering man-hours per year, which can be increased to 400.000 by mobilizing sub-contractors that are strictly cooperating with us. || Our main Clients are in the downstream sector (refining and petrochemical) but we also work in partnership for some upstream projects."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

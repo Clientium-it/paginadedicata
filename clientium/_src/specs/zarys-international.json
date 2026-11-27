@@ -1,0 +1,28 @@
+{
+ "slug": "zarys-international",
+ "company": "ZARYS International",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Zarys produce dal 1989 kit chirurgici e set procedurali per ospedali e strutture mediche, con filiali in diversi Paesi europei e a Dubai. Qui trova come lavoriamo e cosa potremmo fare per ZARYS International.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ZARYS International.",
+ "evidence": [
+  {
+   "claim": "Zarys produce dal 1989 kit chirurgici e set procedurali per ospedali e strutture mediche, con filiali in diversi Paesi europei e a Dubai.",
+   "url": "https://zarys.com/about-us/about-zarys/",
+   "quote": "ZARYS was founded in 1989 in Zabrze, where its main headquarters, modern Logistics Center, and production line for dedicated surgical packs and procedure sets are still located today || We have already established our own branches in the Czech Republic, Romania, Portugal, Italy, Hungary and Dubai where we also have a warehouse || a reliable partner for hospitals, doctors, and medical facilities"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

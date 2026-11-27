@@ -1,0 +1,28 @@
+{
+ "slug": "micerium",
+ "company": "MICERIUM",
+ "first_name": "Mario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Micerium opera nel settore dentale dal 1977 e produce e distribuisce dispositivi medici per l'odontoiatria da Avegno, in provincia di Genova. Qui trova come lavoriamo e cosa potremmo fare per MICERIUM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MICERIUM.",
+ "evidence": [
+  {
+   "claim": "Micerium opera nel settore dentale dal 1977 e produce e distribuisce dispositivi medici per l'odontoiatria da Avegno, in provincia di Genova.",
+   "url": "https://micerium.com/about-us/",
+   "quote": "MICERIUM S.p.A. is a company present in the dental sector since 1977. We manufacture and distribute medical devices for the most modern dentistry. || Via Guglielmo Marconi, 83 16036 Avegno (GE) ITALIA"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "gs-servizi",
+ "company": "GS SERVIZI",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "GS Servizi opera nelle telecomunicazioni, nell'Information Technology e nei servizi digitali con presenza tecnica diretta nelle province di Palermo, Catania e Messina. Qui trova come lavoriamo e cosa potremmo fare per GS SERVIZI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GS SERVIZI.",
+ "evidence": [
+  {
+   "claim": "GS Servizi opera nelle telecomunicazioni, nell'Information Technology e nei servizi digitali con presenza tecnica diretta nelle province di Palermo, Catania e Messina.",
+   "url": "https://gssrl.net/",
+   "quote": "specializzata nel settore delle telecomunicazioni, dell'Information Technology e dei servizi digitali avanzati, operante su tutto il territorio regionale || presenza tecnica e operativa diretta nelle province di Palermo, Catania e Messina, garantendo interventi rapidi, supporto specializzato e una copertura capillare dei propri servizi || con soluzioni innovative dedicate a clienti privati, aziende ed enti pubblici"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "italtractor-itm-2",
+ "company": "Italtractor ITM",
+ "first_name": "Gerardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Italtractor ITM produce componenti e soluzioni complete per sottocarri di macchine cingolate per edilizia, miniere, forestale e agricoltura, con sedi in più continenti. Qui trova come lavoriamo e cosa potremmo fare per Italtractor ITM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Italtractor ITM.",
+ "evidence": [
+  {
+   "claim": "Italtractor ITM produce componenti e soluzioni complete per sottocarri di macchine cingolate per edilizia, miniere, forestale e agricoltura, con sedi in più continenti.",
+   "url": "https://www.group-itm.com/de/",
+   "quote": "Die ITM Group ist ein internationaler Premium-Markendesigner, Hersteller und Serviceanbieter von Fahrwerkskomponenten und kompletten Fahrwerkslösungen, der praktisch das gesamte Spektrum moderner Raupenmaschinenanwendungen in der Bau-, Bergbau-, Versorgungs-, Forst-, Straßenbau- und Agrarindustrie abdeckt || ITM Italien ITM Spanien ITM Deutschland ITM Nordamerika ITM Latin America ITM Australien ITM China || in der Bau-, Bergbau-, Versorgungs-, Forst-, Straßenbau- und Agrarindustrie abdeckt"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

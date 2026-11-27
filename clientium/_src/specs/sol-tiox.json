@@ -1,0 +1,28 @@
+{
+ "slug": "sol-tiox",
+ "company": "Sol.Tiox",
+ "first_name": "Alessio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sol.Tiox produce nello stabilimento di Scarlino pigmenti di biossido di titanio a base solfato, unico impianto del genere in Italia. Qui trova come lavoriamo e cosa potremmo fare per Sol.Tiox.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sol.Tiox.",
+ "evidence": [
+  {
+   "claim": "Sol.Tiox produce nello stabilimento di Scarlino pigmenti di biossido di titanio a base solfato, unico impianto del genere in Italia.",
+   "url": "https://soltiox.it/",
+   "quote": "lo stabilimento di Scarlino ha consolidato la propria reputazione come produttore globale leader esperto nel settore del TiO2 a base solfato, in grado di offrire un’ampia gamma di pigmenti sia in forma rutilo che anatasio, commercializzati in tutto il mondo || l’acquisizione dello stabilimento di Scarlino (GR) – unico impianto produttivo di biossido di titanio in Italia || I prodotti vengono usati in una vasta gamma di settori: inchiostri, coating, plastiche, fibre, cosmetica, personal care, farmaceutica, alimentare"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "oms-officina-meccanica-sestese",
+ "company": "OMS Officina Meccanica Sestese",
+ "first_name": "Islam",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OMS produce soluzioni e macchine per il fine linea di imballaggio, con oltre 350 dipendenti e 12 filiali nel mondo. Qui trova come lavoriamo e cosa potremmo fare per OMS Officina Meccanica Sestese.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OMS Officina Meccanica Sestese.",
+ "evidence": [
+  {
+   "claim": "OMS produce soluzioni e macchine per il fine linea di imballaggio, con oltre 350 dipendenti e 12 filiali nel mondo.",
+   "url": "https://oms-group.com/",
+   "quote": "Thanks to the commitment of over 350 employees, in 12 branches around the world, we are global leaders in the production of end-of-line packaging solutions and machines. || in 12 branches around the world || Bricks & Roof tiles Construction Ceramic Wood Bags Bales Hollow Glass Cans Paper Cardboard Fruits & Vegetables White Goods Logistics Others"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

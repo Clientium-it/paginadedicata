@@ -1,0 +1,28 @@
+{
+ "slug": "confindustria-2",
+ "company": "Confindustria",
+ "first_name": "Gaetano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Confindustria da 116 anni affianca le imprese italiane nella crescita e nell'innovazione con sedi a Roma e Bruxelles. Qui trova come lavoriamo e cosa potremmo fare per Confindustria.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Confindustria.",
+ "evidence": [
+  {
+   "claim": "Confindustria da 116 anni affianca le imprese italiane nella crescita e nell'innovazione con sedi a Roma e Bruxelles.",
+   "url": "https://www.confindustria.it/",
+   "quote": "Da 116 anni aiutiamo le imprese a crescere, innovare ed affrontare le sfide del futuro per un Paese più forte e competitivo. || Roma Viale dell'Astronomia, 30 00144 Roma Tel. (+39) 06 59031 C.F. 80017770589 info@confindustria.it Bruxelles Avenue de la Joyeuse Entrée, 1 1040 Bruxelles Tel. +32 (0)2 286 12 11 C.F. 80017770589 delegazione@confindustria.eu"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

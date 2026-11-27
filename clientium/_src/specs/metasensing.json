@@ -1,0 +1,28 @@
+{
+ "slug": "metasensing",
+ "company": "MetaSensing",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MetaSensing è un'azienda italiana e olandese che produce e gestisce sensori radar per il telerilevamento, con sedi in Italia, Paesi Bassi e Singapore. Qui trova come lavoriamo e cosa potremmo fare per MetaSensing.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MetaSensing.",
+ "evidence": [
+  {
+   "claim": "MetaSensing è un'azienda italiana e olandese che produce e gestisce sensori radar per il telerilevamento, con sedi in Italia, Paesi Bassi e Singapore.",
+   "url": "https://metasensing.com/about-us/",
+   "quote": "MetaSensing is an Italian-Dutch company focusing on advanced radar technology, which manufactures and operates radar sensors for different remote sensing applications. || Italy Milano (MI), Italy Roma (RM), Italy Rocca D'Evandro (CE), Italy The Netherlands MetaSensing BV, The Netherlands Singapore MetaSensing AP Pte Ltd @JustCo, Singapore || including Space Agencies, research institutes, universities, and private business"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

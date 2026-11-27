@@ -1,0 +1,28 @@
+{
+ "slug": "almeco",
+ "company": "Almeco Group",
+ "first_name": "Florian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Almeco produce laminati in alluminio per il settore architetturale, solare, decorativo e illuminotecnico con trattamenti superficiali dei metalli. Qui trova come lavoriamo e cosa potremmo fare per Almeco Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Almeco Group.",
+ "evidence": [
+  {
+   "claim": "Almeco produce laminati in alluminio per il settore architetturale, solare, decorativo e illuminotecnico con trattamenti superficiali dei metalli.",
+   "url": "https://almecogroup.com/",
+   "quote": "Il Gruppo Almeco è leader mondiale nella produzione di laminati in alluminio per il settore architetturale, solare, decorativo e illuminotecnico. || PER ARCHITETTI E TRASFORMATORI Trattamenti superficiali dei metalli per i tuoi progetti."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

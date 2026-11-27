@@ -1,0 +1,28 @@
+{
+ "slug": "l-automobile",
+ "company": "Gruppo L'Automobile",
+ "first_name": "Pierluigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "L'Automobile da 50 anni cresce con sedi a Roma, Frosinone, Latina, Formia e Avezzano e oltre 350 persone. Qui trova come lavoriamo e cosa potremmo fare per Gruppo L'Automobile.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo L'Automobile.",
+ "evidence": [
+  {
+   "claim": "L'Automobile da 50 anni cresce con sedi a Roma, Frosinone, Latina, Formia e Avezzano e oltre 350 persone.",
+   "url": "https://www.gruppolautomobile.it/chi-siamo",
+   "quote": "Siamo un team di persone che da 50 anni non ha mai smesso di crescere e di migliorare. || ha saputo costruire una grande realtà con sedi operative su Roma, Frosinone, Latina, Formia, Avezzano e oltre 350 persone che rappresentano l'anima dell'azienda."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

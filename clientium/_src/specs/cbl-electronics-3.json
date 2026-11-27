@@ -1,0 +1,28 @@
+{
+ "slug": "cbl-electronics-3",
+ "company": "CBL Electronics",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CBL Electronics lavora per i settori dello spazio, dell'aeronautica, della difesa e dell'elettronica, con sedi a Todi, Erbusco e Parabiago. Qui trova come lavoriamo e cosa potremmo fare per CBL Electronics.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CBL Electronics.",
+ "evidence": [
+  {
+   "claim": "CBL Electronics lavora per i settori dello spazio, dell'aeronautica, della difesa e dell'elettronica, con sedi a Todi, Erbusco e Parabiago.",
+   "url": "https://cblelectronics.com/en/solutions/Technical-customer-assistance-services",
+   "quote": "Our service covers space, aeronautics, defense, semiconductors and consumers electronics applications. || Pian di Porto, voc. Bodoglie 148/p/3 06059 Todi (PG) ITALY (+39) 075 89 89 408 (+39) 075 78 25 678 Via dell'Industria, 30 25030 Erbusco (BS) ITALY (+39) 030 09 74 211 Via Achille Grandi, 4 20015 Parabiago (MI) ITALY || Our service covers space, aeronautics, defense, semiconductors and consumers electronics applications."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

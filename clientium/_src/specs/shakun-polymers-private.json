@@ -1,0 +1,28 @@
+{
+ "slug": "shakun-polymers-private",
+ "company": "Shakun Polymers Private Limited",
+ "first_name": "Vittorio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Shakun Polymers produce compound in PVC dal 1991 in India per settori come cavi elettrici e solari, servendo Medio Oriente, Asia e Africa. Qui trova come lavoriamo e cosa potremmo fare per Shakun Polymers Private Limited.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Shakun Polymers Private Limited.",
+ "evidence": [
+  {
+   "claim": "Shakun Polymers produce compound in PVC dal 1991 in India per settori come cavi elettrici e solari, servendo Medio Oriente, Asia e Africa.",
+   "url": "https://www.shakunpolymers.com/",
+   "quote": "Since our inception in 1991 and being the best PVC compound manufacturers in India, we have been driven by a singular vision || Over the years, with the unwavering dedication of our exceptional team, we have established a commanding presence across the Indian subcontinent, the Middle East, Southeast Asia, and Africa. || Explore the diverse range of industries we serve and the innovative solutions we provide. Power Cable Solar Cable Housing Wire Commercial Building"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

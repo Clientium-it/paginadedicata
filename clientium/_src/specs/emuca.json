@@ -1,0 +1,28 @@
+{
+ "slug": "emuca",
+ "company": "emuca",
+ "first_name": "Eugenio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Emuca serve 5.000 clienti in oltre 60 paesi con sedi commerciali in Spagna, Italia, Regno Unito, Francia e Portogallo. Qui trova come lavoriamo e cosa potremmo fare per emuca.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per emuca.",
+ "evidence": [
+  {
+   "claim": "Emuca serve 5.000 clienti in oltre 60 paesi con sedi commerciali in Spagna, Italia, Regno Unito, Francia e Portogallo.",
+   "url": "https://www.emuca.com/about-us",
+   "quote": "Our sales offices in Spain, Italy, UK, France and Portugal allow us to be in contact with our 5,000 customers in more than 60 countries. || Our European shipping platforms in Italy and Spain have more than 35,000m2 equipped with advanced telematic systems, automatic vertical warehouses and innovative order management systems. || Manufacturers Wholesalers & Distributors Carpenters & Interior designers Ecommerce Retail Contract"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

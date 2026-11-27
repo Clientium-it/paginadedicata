@@ -1,0 +1,28 @@
+{
+ "slug": "lef",
+ "company": "LEF HOLDING",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "LEF progetta e sviluppa prodotti e sistemi tecnologici per il settore ferroviario, come circuiti di binario e sistemi di comunicazione, tra Sesto Fiorentino e Modugno. Qui trova come lavoriamo e cosa potremmo fare per LEF HOLDING.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LEF HOLDING.",
+ "evidence": [
+  {
+   "claim": "LEF progetta e sviluppa prodotti e sistemi tecnologici per il settore ferroviario, come circuiti di binario e sistemi di comunicazione, tra Sesto Fiorentino e Modugno.",
+   "url": "https://www.lefgroup.com/",
+   "quote": "LEF progetta e sviluppa prodotti e sistemi ad alto contenuto tecnologico per il settore ferroviario. Sistema di comunicazione su onda convogliata (PLC) wireless e radio, connessioni induttive, circuiti di binario || LEF Eletech LEF S.r.l. Sede legale: Viale Ludovico Ariosto 478/480 50019 Sesto Fiorentino (FI) tel. +39 055 4217727 fax +39 055 4217719 Sede operativa: Via delle Margherite, 6 70026 Modugno (BA) || la gestione intelligente dei servizi cittadini, delle stazioni Ferroviarie, di Ospedali, Aree Pubbliche, Centri Commerciali, Alberghi e Sistemi di Illuminazione"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

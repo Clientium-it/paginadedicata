@@ -1,0 +1,28 @@
+{
+ "slug": "pastificio-di-martino-gaetano-f-lli",
+ "company": "PASTIFICIO DI MARTINO GAETANO & F.LLI",
+ "first_name": "Giusy",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gruppo Di Martino esporta pasta in oltre 35 paesi con sette stabilimenti in tre regioni italiane e uffici commerciali ad Amburgo e New York. Qui trova come lavoriamo e cosa potremmo fare per PASTIFICIO DI MARTINO GAETANO & F.LLI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PASTIFICIO DI MARTINO GAETANO & F.LLI.",
+ "evidence": [
+  {
+   "claim": "Gruppo Di Martino esporta pasta in oltre 35 paesi con sette stabilimenti in tre regioni italiane e uffici commerciali ad Amburgo e New York.",
+   "url": "https://gruppodimartino.it/chi-siamo/",
+   "quote": "Il Gruppo Di Martino esporta il 93% della produzione in oltre 35 paesi, per un totale di oltre 8 milioni di porzioni di pasta al giorno. || Il Gruppo Di Martino, attualmente, ha sette stabilimenti produttivi in tre regioni italiane e due uffici commerciali ad Amburgo e New York."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

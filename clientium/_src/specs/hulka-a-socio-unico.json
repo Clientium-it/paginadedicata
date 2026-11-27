@@ -1,0 +1,28 @@
+{
+ "slug": "hulka-a-socio-unico",
+ "company": "HULKA S.R.L. a socio unico",
+ "first_name": "Flaminia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hulka nasce nel 1996 e sviluppa i prodotti VEA per pelli sensibili, allergiche e reattive, distribuiti in farmacia e all'estero. Qui trova come lavoriamo e cosa potremmo fare per HULKA S.R.L. a socio unico.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per HULKA S.R.L. a socio unico.",
+ "evidence": [
+  {
+   "claim": "Hulka nasce nel 1996 e sviluppa i prodotti VEA per pelli sensibili, allergiche e reattive, distribuiti in farmacia e all'estero.",
+   "url": "https://hulka.it/it/azienda/chi-siamo",
+   "quote": "Hulka S.r.l. a socio unico è un’azienda italiana, nasce nel 1996 da un’idea del Dr. Panin, pediatra di famiglia, con la finalità di sviluppare prodotti rivolti a soggetti con pelli sensibili, allergiche e reattive. || I prodotti VEA sono distribuiti e disponibili, oltre che sul territorio italiano, anche nei seguenti mercati: Francia - Germania - Svizzera - Spagna - Malta - Romania. || I prodotti della linea VEA sono distribuiti in tutta Italia e sono reperibili nei canali farmacia, parafarmacia, erboristeria e corner farmacia presso la grande distribuzione."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

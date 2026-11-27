@@ -1,0 +1,28 @@
+{
+ "slug": "seta-beauty-clinic",
+ "company": "Seta Beauty Clinic",
+ "first_name": "Kiara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Seta Beauty si occupa di skin care in Italia con più di 80 centri attivi in varie regioni. Qui trova come lavoriamo e cosa potremmo fare per Seta Beauty Clinic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Seta Beauty Clinic.",
+ "evidence": [
+  {
+   "claim": "Seta Beauty si occupa di skin care in Italia con più di 80 centri attivi in varie regioni.",
+   "url": "https://setabeauty.com/chi-siamo/",
+   "quote": "un leader di riferimento nel settore dello Skin Care in Italia con più di 80 centri attivi in varie regioni || con più di 80 centri attivi in varie regioni"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

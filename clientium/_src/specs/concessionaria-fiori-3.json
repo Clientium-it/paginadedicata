@@ -1,0 +1,28 @@
+{
+ "slug": "concessionaria-fiori-3",
+ "company": "Concessionaria Fiori",
+ "first_name": "Mattia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Concessionaria Fiori vende auto nuove e usate con assistenza nel Lazio, con 2.317 auto pronte in 9 sedi tra Roma e Latina. Qui trova come lavoriamo e cosa potremmo fare per Concessionaria Fiori.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Concessionaria Fiori.",
+ "evidence": [
+  {
+   "claim": "Concessionaria Fiori vende auto nuove e usate con assistenza nel Lazio, con 2.317 auto pronte in 9 sedi tra Roma e Latina.",
+   "url": "https://concessionariafiori.it/",
+   "quote": "Concessionaria Fiori · auto nuove, usate e assistenza nel Lazio Da Fiori la tua c'è. 2.317 auto pronte in 9 sedi tra Roma e Latina || CONCESSIONARIA FIORI · 9 SEDI Trova la sede più vicina a te."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

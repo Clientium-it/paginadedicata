@@ -1,0 +1,28 @@
+{
+ "slug": "encres-dubuit",
+ "company": "ENCRES DUBUIT",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Encres Dubuit produce inchiostri per la stampa industriale da cinquant'anni, usati in settori come automobile, packaging e cosmetica. Qui trova come lavoriamo e cosa potremmo fare per ENCRES DUBUIT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ENCRES DUBUIT.",
+ "evidence": [
+  {
+   "claim": "Encres Dubuit produce inchiostri per la stampa industriale da cinquant'anni, usati in settori come automobile, packaging e cosmetica.",
+   "url": "https://www.encresdubuit.com/",
+   "quote": "Encres DUBUIT innove depuis cinquante ans sur les marchés mondiaux de l’impression industrielle. || Encres DUBUIT obtient la certification Imprim’Vert pour ses trois sites de production || Elles sont utilisées chaque jour dans l’industrie automobile, dans l’électroniques, la communication visuelle, le packaging , la cosmétique…"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

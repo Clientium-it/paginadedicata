@@ -1,0 +1,28 @@
+{
+ "slug": "esaote-5",
+ "company": "Esaote",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Esaote da oltre 40 anni sviluppa sistemi di diagnostica per immagini, ecografia, risonanza magnetica e informatica sanitaria, per medici e pazienti. Qui trova come lavoriamo e cosa potremmo fare per Esaote.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Esaote.",
+ "evidence": [
+  {
+   "claim": "Esaote da oltre 40 anni sviluppa sistemi di diagnostica per immagini, ecografia, risonanza magnetica e informatica sanitaria, per medici e pazienti.",
+   "url": "https://www.esaote.com",
+   "quote": "Medical diagnostic imaging: ultrasound, MRI and Healthcare IT || Our History: over 40 years of innovation in Healthcare || For both doctors and patients."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

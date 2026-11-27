@@ -1,0 +1,28 @@
+{
+ "slug": "a29-energy-service-company",
+ "company": "A29 Energy Service Company",
+ "first_name": "Nino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "A29 è attiva dal 2014 nell'efficientamento energetico e nelle infrastrutture tecnologiche per il settore industriale, commerciale, residenziale e la Pubblica Amministrazione. Qui trova come lavoriamo e cosa potremmo fare per A29 Energy Service Company.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per A29 Energy Service Company.",
+ "evidence": [
+  {
+   "claim": "A29 è attiva dal 2014 nell'efficientamento energetico e nelle infrastrutture tecnologiche per il settore industriale, commerciale, residenziale e la Pubblica Amministrazione.",
+   "url": "https://www.a29energia.it/chi-siamo/",
+   "quote": "A29 è attiva dal 2014 e si distingue come partner strategico per la transizione energetica e digitale , fornendo servizi, soluzioni e prodotti per l’efficientamento energetico e le infrastrutture tecnologiche || Sede Legale Piazza del Popolo, 18, 00187 Roma (RM) || Oltre alla nostra expertise nel settore industriale, commerciale e residenziale, ci rivolgiamo anche alla Pubblica Amministrazione"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

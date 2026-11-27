@@ -1,0 +1,28 @@
+{
+ "slug": "casillo-2",
+ "company": "Casillo",
+ "first_name": "Salvatore",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Casillo lavora e distribuisce grano duro e grano tenero da Corato, in provincia di Bari. Qui trova come lavoriamo e cosa potremmo fare per Casillo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Casillo.",
+ "evidence": [
+  {
+   "claim": "Casillo lavora e distribuisce grano duro e grano tenero da Corato, in provincia di Bari.",
+   "url": "https://www.casillogroup.com/it/chi-siamo",
+   "quote": "Il Gruppo Casillo è una food company leader mondiale nella lavorazione e nella distribuzione del grano duro e uno dei maggiori protagonisti nel mercato del grano tenero. || Via Sant'Elia Z.I. 70033 Corato (BA) Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

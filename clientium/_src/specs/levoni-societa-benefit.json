@@ -1,0 +1,28 @@
+{
+ "slug": "levoni-societa-benefit",
+ "company": "Levoni SpA Società Benefit",
+ "first_name": "Evi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Levoni produce salami, mortadelle, prosciutti e altre specialità a Castellucchio ed è presente in salumerie e gastronomie in tutta Italia. Qui trova come lavoriamo e cosa potremmo fare per Levoni SpA Società Benefit.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Levoni SpA Società Benefit.",
+ "evidence": [
+  {
+   "claim": "Levoni produce salami, mortadelle, prosciutti e altre specialità a Castellucchio ed è presente in salumerie e gastronomie in tutta Italia.",
+   "url": "https://www.levoni.it/it/azienda/il-gruppo",
+   "quote": "Nella sede di Castellucchio è concentrata la maggior parte della produzione Levoni: salami, mortadelle, prosciutti cotti, pancette, lardi e tutte le specialità. || Il Gruppo Levoni è composto dalla Sede di Castellucchio, dal Macello Mec Carni di Marcaria, dai tre prosciuttifici di San Daniele del Friuli, Lesignano de’ Bagni e Corniglio; dalle sedi commerciali Levoni America Corporation e Levoni Svizzera SA. || Coerentemente con questa scelta, siamo presenti nelle migliori salumerie, macellerie e gastronomie d’Italia."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

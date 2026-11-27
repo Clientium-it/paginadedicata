@@ -1,0 +1,28 @@
+{
+ "slug": "knorr-bremse-rail-systems-italia",
+ "company": "Knorr-Bremse Rail Systems Italia",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Knorr-Bremse sviluppa sistemi per treni ad alta velocità, regionali, metro e carrozze passeggeri con oltre 120 anni di esperienza e circa 40 sedi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Knorr-Bremse Rail Systems Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Knorr-Bremse Rail Systems Italia.",
+ "evidence": [
+  {
+   "claim": "Knorr-Bremse sviluppa sistemi per treni ad alta velocità, regionali, metro e carrozze passeggeri con oltre 120 anni di esperienza e circa 40 sedi nel mondo.",
+   "url": "https://rail.knorr-bremse.com/en/it/",
+   "quote": "With more than 120 years of experience, a global presence, and a consistent focus on quality, we develop connected, sustainable systems that help our customers operate their fleets more safely, efficiently, and environmentally friendly. || ~ 40 locations worldwide || High-speed trains Regional and commuter trains Passenger cars Metros"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

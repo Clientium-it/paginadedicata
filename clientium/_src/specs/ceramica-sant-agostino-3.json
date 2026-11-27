@@ -1,0 +1,28 @@
+{
+ "slug": "ceramica-sant-agostino-3",
+ "company": "Ceramica Sant'Agostino",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ceramica Sant'Agostino produce circa 4,5 milioni di metri quadrati di ceramica all'anno ed esporta in più di 80 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Ceramica Sant'Agostino.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ceramica Sant'Agostino.",
+ "evidence": [
+  {
+   "claim": "Ceramica Sant'Agostino produce circa 4,5 milioni di metri quadrati di ceramica all'anno ed esporta in più di 80 Paesi.",
+   "url": "https://www.ceramicasantagostino.it/it/chi-siamo",
+   "quote": "Con una capacità produttiva di circa 4,5 milioni di metri quadrati all’anno, l’azienda esporta la maggioranza della sua produzione in più di 80 Paesi || Complessivamente lo stabilimento di Ceramica Sant’Agostino occupa una superficie di 237.000 m², di cui 98.000 m² coperti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

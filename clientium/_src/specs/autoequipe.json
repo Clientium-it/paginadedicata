@@ -1,0 +1,28 @@
+{
+ "slug": "autoequipe",
+ "company": "AUTOEQUIPE",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Autoequipe è concessionaria di Renault, Dacia, Seat, Cupra e Horizon a Roma, con sette sedi, una divisione usato e noleggio e oltre 150 professionisti. Qui trova come lavoriamo e cosa potremmo fare per AUTOEQUIPE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per AUTOEQUIPE.",
+ "evidence": [
+  {
+   "claim": "Autoequipe è concessionaria di Renault, Dacia, Seat, Cupra e Horizon a Roma, con sette sedi, una divisione usato e noleggio e oltre 150 professionisti.",
+   "url": "https://www.gruppoautoequipe.it/chi-siamo/",
+   "quote": "siamo concessionaria ufficiale Renault, Dacia, Seat, Cupra e Horizon , e poniamo al centro della nostra offerta, con la stessa forza e specializzazione, la nostra Divisione Usato e la nostra Divisione Noleggio . || Oggi contiamo sette sedi a Roma e oltre 150 professionisti pronti ad accompagnarti nella scelta del veicolo ideale e in ogni esigenza legata alla mobilità."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

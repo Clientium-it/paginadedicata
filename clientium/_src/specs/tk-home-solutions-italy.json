@@ -1,0 +1,28 @@
+{
+ "slug": "tk-home-solutions-italy",
+ "company": "TK Home Solutions Italy",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TK Home Solutions progetta, costruisce e installa montascale e miniascensori su misura, con stabilimenti in Italia e nei Paesi Bassi. Qui trova come lavoriamo e cosa potremmo fare per TK Home Solutions Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TK Home Solutions Italy.",
+ "evidence": [
+  {
+   "claim": "TK Home Solutions progetta, costruisce e installa montascale e miniascensori su misura, con stabilimenti in Italia e nei Paesi Bassi.",
+   "url": "https://www.tke-homesolutions.it/chi-siamo/",
+   "quote": "Con stabilimenti produttivi in Italia e nei Paesi Bassi, uniamo competenza ingegneristica, produzione locale e rigorosi controlli di qualità || TK Home Solutions opera con una rete tecnica e commerciale capillare in tutte le regioni italiane, isole comprese || progetta, costruisce e installa montascale e miniascensori su misura per anziani e persone con disabilità"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

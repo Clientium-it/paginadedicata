@@ -1,0 +1,28 @@
+{
+ "slug": "gmm-farma",
+ "company": "GMM Farma",
+ "first_name": "Salvatore",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "GMM Farma acquista farmaci brand nei paesi europei e li importa in Italia, con oltre 400 prodotti importati da 20 paesi per le farmacie italiane. Qui trova come lavoriamo e cosa potremmo fare per GMM Farma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GMM Farma.",
+ "evidence": [
+  {
+   "claim": "GMM Farma acquista farmaci brand nei paesi europei e li importa in Italia, con oltre 400 prodotti importati da 20 paesi per le farmacie italiane.",
+   "url": "https://www.gmmfarma.it/",
+   "quote": "GMM Farma acquista farmaci Brand dai vari paesi Europei e li importa in Italia. || Con oltre 400 prodotti importati e 20 paesi coinvolti, Gmm Farma continua ad ampliare il proprio network ispirando, di fatto, la farmacia del futuro. || permettendo alle farmacie italiane di offrire i propri servizi in totale sicurezza"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

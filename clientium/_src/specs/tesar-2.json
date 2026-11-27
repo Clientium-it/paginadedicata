@@ -1,0 +1,28 @@
+{
+ "slug": "tesar-2",
+ "company": "Tesar",
+ "first_name": "Anna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tesar dal 1991 fornisce sistemi per la raccolta dati, la pianificazione, il controllo e la gestione della produzione e della qualità dell'industria. Qui trova come lavoriamo e cosa potremmo fare per Tesar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tesar.",
+ "evidence": [
+  {
+   "claim": "Tesar dal 1991 fornisce sistemi per la raccolta dati, la pianificazione, il controllo e la gestione della produzione e della qualità dell'industria.",
+   "url": "https://www.tesar.it/chi-siamo",
+   "quote": "Dal 1991, forniamo sistemi per la raccolta dei dati , per la pianificazione , il controllo , e la gestione della produzione oltre che della qualità dell’industria. || lavorazione metalli, rubinetteria e valvolame, tornitura e lavorazione barre, stampaggio plastica, fonderie, minuterie metalliche, Fashion&luxury, Aerospace, Automotive, Food&Beverage."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

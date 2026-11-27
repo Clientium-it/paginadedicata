@@ -1,0 +1,28 @@
+{
+ "slug": "azienda-agricola-fusero",
+ "company": "Azienda Agricola Fusero",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fusero, a Savigliano, produce latticini dal latte munto ogni mattina in stalla, come la panna cotta, e rifornisce diverse catene di supermercati. Qui trova come lavoriamo e cosa potremmo fare per Azienda Agricola Fusero.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Azienda Agricola Fusero.",
+ "evidence": [
+  {
+   "claim": "Fusero, a Savigliano, produce latticini dal latte munto ogni mattina in stalla, come la panna cotta, e rifornisce diverse catene di supermercati.",
+   "url": "https://www.aziendaagricolafusero.it/i-nostri-prodotti-agricoli/",
+   "quote": "La panna cotta racconta la declinazione più golosa del latte munto ogni mattina in stalla. || Via Cuneo, 41/A, 12038 Savigliano (CN) || Basko Carrefour Iper Express Market Despar Banco Fresco Rossetto Conad Famila Allafonte COOP Cortilia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

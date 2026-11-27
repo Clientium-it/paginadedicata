@@ -1,0 +1,28 @@
+{
+ "slug": "terranostra-coldiretti",
+ "company": "Terranostra Coldiretti",
+ "first_name": "Dominga",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Terranostra, promossa da Coldiretti, è nata nel 1973 per valorizzare il mondo rurale e favorire l'interscambio tra città e campagna. Qui trova come lavoriamo e cosa potremmo fare per Terranostra Coldiretti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Terranostra Coldiretti.",
+ "evidence": [
+  {
+   "claim": "Terranostra, promossa da Coldiretti, è nata nel 1973 per valorizzare il mondo rurale e favorire l'interscambio tra città e campagna.",
+   "url": "https://terranostralombardia.it/chi-siamo",
+   "quote": "promossa da Coldiretti, nata nel 1973 per valorizzare il mondo rurale, favorire l’interscambio tra città e campagna, promuovere le strutture associate || CF: 08730260158 - Via Fabio Filzi, 27 Milano"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

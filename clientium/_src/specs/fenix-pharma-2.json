@@ -1,0 +1,28 @@
+{
+ "slug": "fenix-pharma-2",
+ "company": "Fenix Pharma",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fenix Pharma distribuisce medicinali, dispositivi medici e integratori in diverse aree terapeutiche come gastroenterologia e otorinolaringoiatria con sede operativa a Roma. Qui trova come lavoriamo e cosa potremmo fare per Fenix Pharma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fenix Pharma.",
+ "evidence": [
+  {
+   "claim": "Fenix Pharma distribuisce medicinali, dispositivi medici e integratori in diverse aree terapeutiche come gastroenterologia e otorinolaringoiatria con sede operativa a Roma.",
+   "url": "https://fenixpharma.it/chi-siamo/",
+   "quote": "FENIX PHARMA opera nella distribuzione di medicinali, dispositivi medici e integratori alimentari, in diverse aree terapeutiche (gastroenterologia, osteoarticolare, otorinolaringoiatria). || FENIX PHARMA SOC.COOP.P.A SEDE OPERATIVA: Via Giunio Antonio Resti, 71 00143 ROMA"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

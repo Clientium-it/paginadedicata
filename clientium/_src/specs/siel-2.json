@@ -1,0 +1,28 @@
+{
+ "slug": "siel-2",
+ "company": "siel sas",
+ "first_name": "Samantha",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Siel da oltre 40 anni lavora sulla sicurezza dell'energia elettrica e sulla produzione da fonti rinnovabili, con sedi in Italia, Stati Uniti e Cile. Qui trova come lavoriamo e cosa potremmo fare per siel sas.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per siel sas.",
+ "evidence": [
+  {
+   "claim": "Siel da oltre 40 anni lavora sulla sicurezza dell'energia elettrica e sulla produzione da fonti rinnovabili, con sedi in Italia, Stati Uniti e Cile.",
+   "url": "https://www.sielups.com/chi-siamo/",
+   "quote": "SIEL S.p.A. è un’azienda italiana con oltre 40 anni di esperienza nella sicurezza dell’energia elettrica e nella produzione da fonti rinnovabili. || Siel S.p.A. Via 1° Maggio, 25 20060 Trezzano Rosa – Milano – Italy Siel Roma Roma – Italy Siel America Inc. Boonton Township – U.S.A. Siel Latam Spa Las Condes – Chile Siel Colombia Sas Bogotà – COLOMBIA Siel Middle East Llc Masdar – United Arab Emirates || plus fondamentali per i settori ad alta criticità come quello finanziario, sanitario, dei Centri di Elaborazione Dati e della telecomunicazione."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

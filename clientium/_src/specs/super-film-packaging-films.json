@@ -1,0 +1,28 @@
+{
+ "slug": "super-film-packaging-films",
+ "company": "SUPER FILM PACKAGING FILMS",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Süper Film produce film in BOPP, BOPET e CAST, oltre a linee di metallizzazione, a Gaziantep, con una produzione di BOPP salita a 130.000 tonnellate. Qui trova come lavoriamo e cosa potremmo fare per SUPER FILM PACKAGING FILMS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SUPER FILM PACKAGING FILMS.",
+ "evidence": [
+  {
+   "claim": "Süper Film produce film in BOPP, BOPET e CAST, oltre a linee di metallizzazione, a Gaziantep, con una produzione di BOPP salita a 130.000 tonnellate.",
+   "url": "https://superfilm.com/",
+   "quote": "Süper Film; BOPP, BOPET, CAST, METALİZE ve KAPLAMA hatlarıyla Gaziantep’te faaliyetlerini sürdürmektedir. || 2024 yılı ilk çeyreğinde devreye alınan yeni BOPP hattıyla, yıllık BOPP film üretimi 130.000 tona çıkarılmıştır."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

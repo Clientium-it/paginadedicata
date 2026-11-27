@@ -1,0 +1,28 @@
+{
+ "slug": "corza-medical",
+ "company": "Corza Medical",
+ "first_name": "Yari",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Corza Medical è presente in oltre 80 paesi con oltre 3000 persone e si rivolge a chirurghi, ospedali e partner distributivi. Qui trova come lavoriamo e cosa potremmo fare per Corza Medical.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Corza Medical.",
+ "evidence": [
+  {
+   "claim": "Corza Medical è presente in oltre 80 paesi con oltre 3000 persone e si rivolge a chirurghi, ospedali e partner distributivi.",
+   "url": "https://corza.com/global/",
+   "quote": "$500M+ revenue 80+ countries with commercial presence 3000+ employees 200+ years of innovation || With headquarters in the U.S., Switzerland, and China, our manufacturing capabilities span seven locations across the globe. || Surgeons Surgical teams Hospitals and ASCs Distribution partners OEM and private label"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}
