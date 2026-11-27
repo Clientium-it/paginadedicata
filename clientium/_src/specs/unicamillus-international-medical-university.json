@@ -1,0 +1,28 @@
+{
+ "slug": "unicamillus-international-medical-university",
+ "company": "UniCamillus International Medical University",
+ "first_name": "Laura",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "UniCamillus offre Medicina e Chirurgia in italiano e in inglese e Odontoiatria con campus a Roma, Venezia, Mestre e Cefalù. Qui trova come lavoriamo e cosa potremmo fare per UniCamillus International Medical University.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per UniCamillus International Medical University.",
+ "evidence": [
+  {
+   "claim": "UniCamillus offre Medicina e Chirurgia in italiano e in inglese e Odontoiatria con campus a Roma, Venezia, Mestre e Cefalù.",
+   "url": "https://unicamillus.org/campus/",
+   "quote": "Medicina e Chirurgia Roma - in lingua italiana Medicina e Chirurgia Roma - in lingua inglese Medicina e Chirurgia Venezia Medicina e Chirurgia Cefalù Odontoiatria e Protesi Dentaria Roma || Campus Roma, Lido di Venezia, Mestre, Cefalù Sede di Roma Via di Sant’Alessandro, 8, 00131 Roma RM"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

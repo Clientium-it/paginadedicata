@@ -1,0 +1,28 @@
+{
+ "slug": "tecomec-2",
+ "company": "Tecomec",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecomec dal 1985 sviluppa e produce componenti e accessori per giardinaggio, agricoltura, foreste e pulizia, anche con i marchi Geoline e Mecline. Qui trova come lavoriamo e cosa potremmo fare per Tecomec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecomec.",
+ "evidence": [
+  {
+   "claim": "Tecomec dal 1985 sviluppa e produce componenti e accessori per giardinaggio, agricoltura, foreste e pulizia, anche con i marchi Geoline e Mecline.",
+   "url": "https://www.tecomec.com/en/the-company",
+   "quote": "Founded in 1985 , the company began producing quality accessories and spare parts for chain saws || the production expanded with components for agriculture under the Geoline brand and for cleaning under the Mecline brand || development, production and distribution of components and accessories for gardening, agriculture, forestry and cleaning"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "rigoni-di-asiago-2",
+ "company": "Rigoni di Asiago",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rigoni di Asiago ha aperto il primo stabilimento a Foza nel 1990, ha lanciato Fiordifrutta nel 1996 e ha avviato la distribuzione negli USA. Qui trova come lavoriamo e cosa potremmo fare per Rigoni di Asiago.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rigoni di Asiago.",
+ "evidence": [
+  {
+   "claim": "Rigoni di Asiago ha aperto il primo stabilimento a Foza nel 1990, ha lanciato Fiordifrutta nel 1996 e ha avviato la distribuzione negli USA.",
+   "url": "https://www.rigonidiasiago.com/it-it/pages/storia",
+   "quote": "1990 Il primo stabilimento Viene aperto il primo stabilimento di produzione ad Asiago, a Foza. 1996 Fiordifrutta Nasce Fiordifrutta, una preparazione realizzata esclusivamente con frutta biologica e dolcificata con succo di mela. || Viene aperto il polo logistico nel Nord Italia, ad Albaredo d’Adige. - Inizia la distribuzione commerciale negli USA."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

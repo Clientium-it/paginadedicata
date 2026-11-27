@@ -1,0 +1,28 @@
+{
+ "slug": "poker-3",
+ "company": "Poker",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Poker produce dal 1978 prodotti professionali per capelli destinati ai saloni, con negozi Komè in 18 città e 8 sedi per la formazione. Qui trova come lavoriamo e cosa potremmo fare per Poker.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Poker.",
+ "evidence": [
+  {
+   "claim": "Poker produce dal 1978 prodotti professionali per capelli destinati ai saloni, con negozi Komè in 18 città e 8 sedi per la formazione.",
+   "url": "https://pokersrl.it/",
+   "quote": "Poker srl è stata fondata dai coniugi De Col nel 1978 come azienda produttrice di prodotti professionali per capelli, destinati ai saloni di acconciatura. || È presente con la sua rete di negozi ( Komè store) in 18 città diverse e dispone di 8 sedi dedicate alla formazione. || Da oltre 45 anni lavoriamo a fianco dei parrucchieri Italiani!"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

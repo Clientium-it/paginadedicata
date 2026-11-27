@@ -1,0 +1,28 @@
+{
+ "slug": "syncro",
+ "company": "Syncro-Group",
+ "first_name": "Walter",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Syncro Group copre tutto il processo della plastica, dal dosaggio all'estrusione al riciclo, ed è presente in Italia, USA, India, Brasile e Cina. Qui trova come lavoriamo e cosa potremmo fare per Syncro-Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Syncro-Group.",
+ "evidence": [
+  {
+   "claim": "Syncro Group copre tutto il processo della plastica, dal dosaggio all'estrusione al riciclo, ed è presente in Italia, USA, India, Brasile e Cina.",
+   "url": "https://syncro-group.com/about-us/",
+   "quote": "SYNCRO GROUP provides a comprehensive portfolio of advanced technologies designed to optimize every stage of the plastics production process , from raw material storage, conveying, dosing and mixing to extrusion automation, quality control, material recovery and recycling. || With an international presence spanning Italy, the USA, India, Brazil and China, and a direct commercial and technical network covering more than 50 countries || providing manufacturers, research institutes and universities with advanced solutions to test new materials, develop innovative formulations and optimize production processes"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

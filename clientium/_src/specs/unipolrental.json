@@ -1,0 +1,28 @@
+{
+ "slug": "unipolrental",
+ "company": "UnipolRental",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "UnipolRental ha oltre 400 dipendenti, una flotta di oltre 120.000 veicoli e oltre 30.000 clienti tra grandi e medie aziende, PMI, pubbliche amministrazioni e professionisti. Qui trova come lavoriamo e cosa potremmo fare per UnipolRental.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per UnipolRental.",
+ "evidence": [
+  {
+   "claim": "UnipolRental ha oltre 400 dipendenti, una flotta di oltre 120.000 veicoli e oltre 30.000 clienti tra grandi e medie aziende, PMI, pubbliche amministrazioni e professionisti.",
+   "url": "https://www.unipolrental.it:443/chi-siamo",
+   "quote": "Ad oggi, la società vanta oltre 400 dipendenti, una flotta di oltre 120.000 veicoli ed oltre 30.000 clienti tra grandi e medie aziende, PMI, Pubbliche Amministrazioni, privati e liberi professionisti. || ai già 10.000 centri di assistenza convenzionati e ai 3 customer point a conduzione diretta sul territorio || oltre 30.000 clienti tra grandi e medie aziende, PMI, Pubbliche Amministrazioni, privati e liberi professionisti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

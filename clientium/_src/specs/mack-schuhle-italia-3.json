@@ -1,0 +1,28 @@
+{
+ "slug": "mack-schuhle-italia-3",
+ "company": "Mack & Schuhle Italia",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mack & Schuhle produce e distribuisce vini nel mondo con cantine dislocate nelle regioni chiave d'Italia. Qui trova come lavoriamo e cosa potremmo fare per Mack & Schuhle Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mack & Schuhle Italia.",
+ "evidence": [
+  {
+   "claim": "Mack & Schuhle produce e distribuisce vini nel mondo con cantine dislocate nelle regioni chiave d'Italia.",
+   "url": "https://mus.it/",
+   "quote": "Mack & Schuhle Italia è un’azienda italiana che produce e distribuisce vini nel mondo , con l’obiettivo di dare valore alle eccellenze enologiche con cui raccontiamo i nostri territori. || Le nostre cantine, dislocate nelle regioni chiave d’Italia, racchiudono i colori, i sapori e le tradizioni vinicole di ogni regione."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

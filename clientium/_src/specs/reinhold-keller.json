@@ -1,0 +1,28 @@
+{
+ "slug": "reinhold-keller",
+ "company": "REINHOLD KELLER Group",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Reinhold Keller ha realizzato oltre 35.000 progetti di arredo interni in più di 90 paesi per catene di ristorazione, ospitalità, fitness e sanità. Qui trova come lavoriamo e cosa potremmo fare per REINHOLD KELLER Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per REINHOLD KELLER Group.",
+ "evidence": [
+  {
+   "claim": "Reinhold Keller ha realizzato oltre 35.000 progetti di arredo interni in più di 90 paesi per catene di ristorazione, ospitalità, fitness e sanità.",
+   "url": "https://reinhold-keller.com/en/company/",
+   "quote": "Our complete interior fit-out solutions are designed for companies in chain restaurants, hospitality, fitness, and healthcare. || Over 35,000 projects in over 90 countries – we have been realizing projects successfully around the globe for many years! || Our complete interior fit-out solutions are designed for companies in chain restaurants, hospitality, fitness, and healthcare."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

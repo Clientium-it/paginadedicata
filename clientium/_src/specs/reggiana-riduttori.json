@@ -1,0 +1,28 @@
+{
+ "slug": "reggiana-riduttori",
+ "company": "Reggiana Riduttori",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Reggiana Riduttori progetta e costruisce da 50 anni riduttori epicicloidali e motoriduttori in Italia ed è presente in 45 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Reggiana Riduttori.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Reggiana Riduttori.",
+ "evidence": [
+  {
+   "claim": "Reggiana Riduttori progetta e costruisce da 50 anni riduttori epicicloidali e motoriduttori in Italia ed è presente in 45 Paesi.",
+   "url": "https://reggianariduttori.com/history/",
+   "quote": "At Reggiana Riduttori we have been passionately designing and building planetary gears, gearmotors and wheel gears entirely Made in Italy for 50 years, combining co-design, quality and flexibility. || Reggiana Riduttori's present tells of a strong mission for internationalization, being present in 45 countries around the world, and a distinct appreciation of Made in Italy engineering globally. || Markets Agriculture & Forestry Recycling Mining Industry Marine & Offshore Mobile Sugar"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

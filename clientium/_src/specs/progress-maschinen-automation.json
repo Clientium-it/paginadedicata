@@ -1,0 +1,28 @@
+{
+ "slug": "progress-maschinen-automation",
+ "company": "Progress Maschinen & Automation",
+ "first_name": "Lukas",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Progress da oltre 60 anni sviluppa a Bressanone macchine e impianti per lavorare il tondino di acciaio, anche per reti elettrosaldate e prefabbricati in calcestruzzo. Qui trova come lavoriamo e cosa potremmo fare per Progress Maschinen & Automation.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Progress Maschinen & Automation.",
+ "evidence": [
+  {
+   "claim": "Progress da oltre 60 anni sviluppa a Bressanone macchine e impianti per lavorare il tondino di acciaio, anche per reti elettrosaldate e prefabbricati in calcestruzzo.",
+   "url": "https://pma.progress.group/it/azienda/chi-siamo",
+   "quote": "Da oltre 60 anni, sviluppiamo macchine e impianti per la lavorazione del tondino di acciaio. La nostra azienda, con sede a Bressanone, elabora soluzioni su misura in stretta collaborazione con il cliente. || La nostra azienda, con sede a Bressanone, elabora soluzioni su misura in stretta collaborazione con il cliente. || siamo diventati fornitori di sistemi completi per stabilimenti di sagomatura, produttori di reti elettrosaldate e stabilimenti di produzione di elementi prefabbricati in calcestruzzo."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "metal-work-pneumatic",
+ "company": "Metal Work Pneumatic",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Metal Work progetta e produce interamente in Italia dal 1967 componenti per l'automazione industriale con presenza diretta in oltre 74 paesi. Qui trova come lavoriamo e cosa potremmo fare per Metal Work Pneumatic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Metal Work Pneumatic.",
+ "evidence": [
+  {
+   "claim": "Metal Work progetta e produce interamente in Italia dal 1967 componenti per l'automazione industriale con presenza diretta in oltre 74 paesi.",
+   "url": "https://metalwork.it/",
+   "quote": "Since 1967, Metal Work has been designing and manufacturing entirely in Italy components, systems and technologies for industrial automation and motion control. || With a direct presence in more than 74 countries, Metal Work has established itself as a leading company in the international industrial automation sector || Metal Work offers a vast range of electrical and pneumatic automation components for the medical, pharmaceutical and biotechnological industries."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

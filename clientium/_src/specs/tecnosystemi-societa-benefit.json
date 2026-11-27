@@ -1,0 +1,28 @@
+{
+ "slug": "tecnosystemi-societa-benefit",
+ "company": "Tecnosystemi S.p.A. Società Benefit",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecnosystemi produce in 3 stabilimenti a Vittorio Veneto accessori HVAC per installare impianti di condizionamento, ventilazione meccanica controllata, zonificazione e fotovoltaico. Qui trova come lavoriamo e cosa potremmo fare per Tecnosystemi S.p.A. Società Benefit.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecnosystemi S.p.A. Società Benefit.",
+ "evidence": [
+  {
+   "claim": "Tecnosystemi produce in 3 stabilimenti a Vittorio Veneto accessori HVAC per installare impianti di condizionamento, ventilazione meccanica controllata, zonificazione e fotovoltaico.",
+   "url": "https://www.tecnosystemi.com/",
+   "quote": "Siamo produttori italiani di accessori HVAC. Sviluppiamo soluzioni tecniche innovative e personalizzate per semplificare l’installazione di impianti di condizionamento, ventilazione meccanica controllata, zonificazione e fotovoltaico. || PLANT 1 – Via dell’Industria 2/4 PLANT 2 – Via Caduti del Lavoro 7 PLANT 3 – Via Caduti del Lavoro 5 z.i. San Giacomo di Veglia, 31029 Vittorio Veneto (TV)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

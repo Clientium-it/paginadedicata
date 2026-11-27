@@ -1,0 +1,28 @@
+{
+ "slug": "raccorderie-metalliche",
+ "company": "RACCORDERIE METALLICHE",
+ "first_name": "Alessio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Racmet si occupa di sistemi di raccordi a pressare, tubi e raccordi. Qui trova come lavoriamo e cosa potremmo fare per RACCORDERIE METALLICHE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RACCORDERIE METALLICHE.",
+ "evidence": [
+  {
+   "claim": "Racmet si occupa di sistemi di raccordi a pressare, tubi e raccordi.",
+   "url": "https://www.racmet.com/",
+   "quote": "Sistemi raccordi a pressare, raccordi a pressare, tubi e raccordi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

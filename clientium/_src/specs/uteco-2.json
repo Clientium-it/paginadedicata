@@ -1,0 +1,28 @@
+{
+ "slug": "uteco-2",
+ "company": "Uteco",
+ "first_name": "Lorenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Uteco offre da oltre trentacinque anni soluzioni per stampa e converting, con 75.000 mq a Colognola ai Colli e una sede ad Atlanta. Qui trova come lavoriamo e cosa potremmo fare per Uteco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Uteco.",
+ "evidence": [
+  {
+   "claim": "Uteco offre da oltre trentacinque anni soluzioni per stampa e converting, con 75.000 mq a Colognola ai Colli e una sede ad Atlanta.",
+   "url": "https://www.uteco.com/it/azienda",
+   "quote": "Da oltre trentacinque anni offriamo soluzioni per la stampa e il converting che anticipano i cambiamenti di mercato, credendo nei valori di innovazione, flessibilità e sostenibilità. || Oggi la nostra sede principale si trova a Colognola ai Colli , nell’est veronese, e ricopre una superficie totale di 75.000 mq di spazio operativo. Dall’ottobre degli anni 2000 abbiamo una sede commerciale, Uteco North America , in America, ad Atlanta (GA)."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

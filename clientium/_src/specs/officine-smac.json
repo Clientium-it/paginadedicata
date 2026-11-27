@@ -1,0 +1,28 @@
+{
+ "slug": "officine-smac",
+ "company": "OFFICINE SMAC",
+ "first_name": "Ilaria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Smac costruisce dal 1969 a Fiorano Modenese automazioni, impianti e attrezzature per industrie ceramiche e dei laterizi. Qui trova come lavoriamo e cosa potremmo fare per OFFICINE SMAC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OFFICINE SMAC.",
+ "evidence": [
+  {
+   "claim": "Smac costruisce dal 1969 a Fiorano Modenese automazioni, impianti e attrezzature per industrie ceramiche e dei laterizi.",
+   "url": "https://www.smac.it/azienda/",
+   "quote": "La Officine Smac S.p.A. dal 1969 e’ specializzata nella costruzione di automazioni, impianti ed attrezzature per industrie ceramiche e dei laterizi. || OFFICINE SMAC - Via Sacco e Vanzetti, 13-15 - 41042 Fiorano Modenese (MO) – Italy || Costruzione automazioni, impianti e attrezzature per industrie ceramiche e dei laterizi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

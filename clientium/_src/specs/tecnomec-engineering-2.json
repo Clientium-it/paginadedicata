@@ -1,0 +1,28 @@
+{
+ "slug": "tecnomec-engineering-2",
+ "company": "TECNOMEC ENGINEERING",
+ "first_name": "Mirko",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecnomec costruisce e installa impianti industriali dal 1997 per clienti Oil & Gas, Power Generation e farmaceutici con un'officina di 100.000 mq a Taranto. Qui trova come lavoriamo e cosa potremmo fare per TECNOMEC ENGINEERING.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TECNOMEC ENGINEERING.",
+ "evidence": [
+  {
+   "claim": "Tecnomec costruisce e installa impianti industriali dal 1997 per clienti Oil & Gas, Power Generation e farmaceutici con un'officina di 100.000 mq a Taranto.",
+   "url": "https://www.tecnomec-eng.it/company/",
+   "quote": "Since 1997 Tecnomec Engineering has been working in the field of construction and erection of industrial plants, overseeing projects from their design and fabrication to installation and start up. || Head Office Grumo Appula, Bari Workshop Taranto 100.000 sqm with 34.000 sqm of covered area || By working with international customers, leaders in the sectors of Oil & Gas, Power Generation, Off- Shore and Pharmaceutical"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

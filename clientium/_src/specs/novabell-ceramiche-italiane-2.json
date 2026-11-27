@@ -1,0 +1,28 @@
+{
+ "slug": "novabell-ceramiche-italiane-2",
+ "company": "Novabell Ceramiche Italiane",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Novabell produce dal 1988 a Roteglia pavimenti e rivestimenti in gres porcellanato per spazi interni ed esterni. Qui trova come lavoriamo e cosa potremmo fare per Novabell Ceramiche Italiane.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Novabell Ceramiche Italiane.",
+ "evidence": [
+  {
+   "claim": "Novabell produce dal 1988 a Roteglia pavimenti e rivestimenti in gres porcellanato per spazi interni ed esterni.",
+   "url": "https://www.novabell.it/",
+   "quote": "Dal 1988 , NovaBell racconta una storia di passione per la ceramica. Il grès porcellanato del brand nasce per trasformare gli spazi interni ed esterni , offrendo pavimenti e rivestimenti || NovaBell S.p.A. Via Molino Roteglia, 1 – 42014 Roteglia (RE)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

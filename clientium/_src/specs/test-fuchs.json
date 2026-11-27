@@ -1,0 +1,28 @@
+{
+ "slug": "test-fuchs",
+ "company": "TEST-FUCHS GmbH",
+ "first_name": "Tommaso",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Test Fuchs realizza sistemi di test e sistemi aerospaziali dalla sua sede in Austria e segue i clienti europei con contatti regionali dedicati. Qui trova come lavoriamo e cosa potremmo fare per TEST-FUCHS GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TEST-FUCHS GmbH.",
+ "evidence": [
+  {
+   "claim": "Test Fuchs realizza sistemi di test e sistemi aerospaziali dalla sua sede in Austria e segue i clienti europei con contatti regionali dedicati.",
+   "url": "https://www.test-fuchs.com/",
+   "quote": "Safety in test. Safety in flight. Test systems Aerospace systems Gross-Siegharts, Austria || Regional contacts Europe Pascal Le Merdy Head of Sales Region Europe +49 172 71 26 85 2"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

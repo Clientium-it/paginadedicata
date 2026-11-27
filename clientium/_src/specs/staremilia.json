@@ -1,0 +1,28 @@
+{
+ "slug": "staremilia",
+ "company": "StarEmilia",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "StarEmilia dal 2010 è concessionaria ufficiale Mercedes-Benz e smart per privati e aziende con sedi a Casalecchio di Reno e Ferrara. Qui trova come lavoriamo e cosa potremmo fare per StarEmilia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per StarEmilia.",
+ "evidence": [
+  {
+   "claim": "StarEmilia dal 2010 è concessionaria ufficiale Mercedes-Benz e smart per privati e aziende con sedi a Casalecchio di Reno e Ferrara.",
+   "url": "https://www.penskecars.it/staremilia/chi-siamo-staremilia/",
+   "quote": "Dal 2010 StarEmilia è Concessionaria Ufficiale di Vendita e Assistenza Mercedes-Benz e smart, con sedi a Casalecchio di Reno (BO) e Ferrara (FE). || Le sedi di StarEmilia S.r.l si trovano in Via dei Trasvolatori Atlantici 4 a Ferrara ed in Via Del Lavoro 50 a Casalecchio di Reno , provincia di Bologna || StarEmilia si rivolge ad una clientela di privati ed aziende come partner in grado di offrire un’offerta diversificata di prodotti e servizi premium."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "miag-fahrzeugbau",
+ "company": "MIAG Fahrzeugbau GmbH",
+ "first_name": "Irina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MIAG produce a Braunschweig carrelli industriali antideflagranti, con una storia che parte dal 1846 e oltre 150 punti di contatto nel mondo. Qui trova come lavoriamo e cosa potremmo fare per MIAG Fahrzeugbau GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MIAG Fahrzeugbau GmbH.",
+ "evidence": [
+  {
+   "claim": "MIAG produce a Braunschweig carrelli industriali antideflagranti, con una storia che parte dal 1846 e oltre 150 punti di contatto nel mondo.",
+   "url": "https://miag.de/en/home_e",
+   "quote": "With a history dating back to 1846 and special know-how that has grown for more than 90 years, MIAG Fahrzeugbau GmbH, located in Braunschweig, successfully serves the national and international market with explosion-protected industrial trucks. || More than 150 contact possibilities all over the world guarantee customer-oriented advice, sales and service. || Our equipment is used in the following sectors, among others: chemical and pharmaceutical industry, paint factories, explosives industry, automotive industry, refineries, oil rigs, cosmetics industry"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

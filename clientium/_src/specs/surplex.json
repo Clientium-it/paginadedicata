@@ -1,0 +1,28 @@
+{
+ "slug": "surplex",
+ "company": "Surplex",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Surplex dal 1999 organizza aste industriali in tutta Europa con oltre 200 collaboratori, soprattutto di macchine per la lavorazione di metallo e legno. Qui trova come lavoriamo e cosa potremmo fare per Surplex.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Surplex.",
+ "evidence": [
+  {
+   "claim": "Surplex dal 1999 organizza aste industriali in tutta Europa con oltre 200 collaboratori, soprattutto di macchine per la lavorazione di metallo e legno.",
+   "url": "https://www.surplex.com/leistungsspektrum",
+   "quote": "Auf zahllosen Industrieversteigerungen in ganz Europa bietet Surplex erstklassige Maschinen und Industriegüter in großer Auswahl an. Sie stammen primär aus der Metall- und Holzbearbeitung sowie aus Bau, Kunststoff und weiteren Branchen. || Surplex in Zahlen: 1999 gegründet Standorte in ganz Europa 200+ Mitarbeiter || Surplex bringt die Akteure des weltweiten Maschinenhandels an einen Tisch, z. B. Betriebsleiter, Handwerker, Insolvenzverwalter, Bank- und Leasing-Experten, Maschinenhändler."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "ocme-2",
+ "company": "OCME",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OCME costruisce dal 1954 a Parma macchine per l'imballaggio di bevande e alimenti, con 11.000 macchine vendute in 160 Paesi. Qui trova come lavoriamo e cosa potremmo fare per OCME.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OCME.",
+ "evidence": [
+  {
+   "claim": "OCME costruisce dal 1954 a Parma macchine per l'imballaggio di bevande e alimenti, con 11.000 macchine vendute in 160 Paesi.",
+   "url": "https://www.ocme.com/it/chi-siamo",
+   "quote": "FONDATA NEL 1954, OCME È UN'AZIENDA LEADER NEL SETTORE DEI MACCHINARI PER L'IMBALLAGGIO, con sede a Parma e operante a livello globale, fornisce ai suoi clienti soluzioni basate sull'innovazione per l'imballaggio dei beni di consumo. || 160 Paesi con le nostre soluzioni 11.000 macchine vendute 630 dipendenti (più di 170 nelle filiali in tutto il mondo) || I vostri settori bevande alimentare home and personal care carta tissue e corrugati petrolchimico"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

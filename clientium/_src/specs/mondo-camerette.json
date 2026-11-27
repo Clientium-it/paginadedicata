@@ -1,0 +1,28 @@
+{
+ "slug": "mondo-camerette",
+ "company": "Mondo Camerette",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mondo Camerette arreda camere per ragazzi con consulenti specializzati e nel 2022 per i 10 anni ha aperto il trentesimo punto vendita in Italia. Qui trova come lavoriamo e cosa potremmo fare per Mondo Camerette.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mondo Camerette.",
+ "evidence": [
+  {
+   "claim": "Mondo Camerette arreda camere per ragazzi con consulenti specializzati e nel 2022 per i 10 anni ha aperto il trentesimo punto vendita in Italia.",
+   "url": "https://www.mondocamerette.it/azienda/",
+   "quote": "In ogni negozio “ Mondo Camerette ”, troverai consulenti esperti, specializzati unicamente nell’arredamento delle camere per ragazzi. || 2022 Mondo Camerette festeggia i 10 anni di attività e per farlo apre il trentesimo punto vendita in Italia."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "san-marco-3",
+ "company": "San Marco Group",
+ "first_name": "Metin",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "San Marco è nata come colorificio, vanta oltre 80 anni di storia e produce e distribuisce pitture e vernici tramite una rete di rivenditori specializzati. Qui trova come lavoriamo e cosa potremmo fare per San Marco Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per San Marco Group.",
+ "evidence": [
+  {
+   "claim": "San Marco è nata come colorificio, vanta oltre 80 anni di storia e produce e distribuisce pitture e vernici tramite una rete di rivenditori specializzati.",
+   "url": "https://san-marco.com/",
+   "quote": "San Marco è parte di San Marco Group, azienda leader in Italia nella produzione e distribuzione di pitture e vernici || Prima colorificio ed ora brand di un importante gruppo, San Marco vanta oltre 80 anni di storia ed è presente in tutto il territorio nazionale e internazionale con un network di rivenditori specializzati."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

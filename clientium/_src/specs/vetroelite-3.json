@@ -1,0 +1,28 @@
+{
+ "slug": "vetroelite-3",
+ "company": "VETROelite Group",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vetroelite disegna bottiglie brevettate per distillati, fragranze e food&wine, con sedi a Ormelle in provincia di Treviso e ad Abbiategrasso. Qui trova come lavoriamo e cosa potremmo fare per VETROelite Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VETROelite Group.",
+ "evidence": [
+  {
+   "claim": "Vetroelite disegna bottiglie brevettate per distillati, fragranze e food&wine, con sedi a Ormelle in provincia di Treviso e ad Abbiategrasso.",
+   "url": "https://www.vetroelite.com/packaging-in-vetro/",
+   "quote": "Prodotti di design che incontrano le esigenze di diversi settori merceologici. Distillati, Fragranze, Food&Wine sono mondi da esplorare, scoprire e raccontare anche attraverso un packaging. Le nostre bottiglie sono brevettate || Sedi in Italia Vetroelite S.r.l. - Treviso Via I Maggio, 4 31024 Ormelle (TV) ITA +39 0422 205 711 Vetroelite S.r.l. - Milano Via Mendosio, 30/A 20081 Abbiategrasso (MI) ITA || Distillati, Fragranze, Food&Wine sono mondi da esplorare, scoprire e raccontare anche attraverso un packaging."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

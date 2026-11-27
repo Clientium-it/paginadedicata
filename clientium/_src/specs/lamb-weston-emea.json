@@ -1,0 +1,28 @@
+{
+ "slug": "lamb-weston-emea",
+ "company": "Lamb Weston EMEA",
+ "first_name": "Luciano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lamb Weston trasforma patate in prodotti surgelati e fiocchi dal 1985 con stabilimenti come Oosterbierum, Bergen op Zoom, Wisbech e Hollabrunn. Qui trova come lavoriamo e cosa potremmo fare per Lamb Weston EMEA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lamb Weston EMEA.",
+ "evidence": [
+  {
+   "claim": "Lamb Weston trasforma patate in prodotti surgelati e fiocchi dal 1985 con stabilimenti come Oosterbierum, Bergen op Zoom, Wisbech e Hollabrunn.",
+   "url": "https://lambweston.eu/emea/about-us/our-history",
+   "quote": "In 1985 C. Meijer starts processing potatoes into high quality frozen potato products and flakes. || Acquisition of four potato processing factories: Oosterbierum (NL), Bergen op Zoom (NL), Wisbech (UK) and Hollabrunn (AT) with focus on profitable growth."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

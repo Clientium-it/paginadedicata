@@ -1,0 +1,28 @@
+{
+ "slug": "sairem",
+ "company": "SAIREM",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sairem dal 1978 sviluppa a Lione applicazioni industriali a microonde e radiofrequenza con oltre 5.000 macchine attive in 70 paesi. Qui trova come lavoriamo e cosa potremmo fare per SAIREM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SAIREM.",
+ "evidence": [
+  {
+   "claim": "Sairem dal 1978 sviluppa a Lione applicazioni industriali a microonde e radiofrequenza con oltre 5.000 macchine attive in 70 paesi.",
+   "url": "https://www.sairem.com/",
+   "quote": "Founded in 1978 and headquartered in Lyon, France, SAIREM is a world leader in industrial microwave and radio frequency applications with over 5,000 machines operating in 70 countries. || SAIREM – FRANCE 82 rue Elisée Reclus 69150 Décines-Charpieu France +33 (0)4 72 01 81 60 SAIREM USA 6725-B Jimmy Carter Blvd Peachtree Corners, GA 30071 || SAIREM develops advanced solutions for industrial applications, laboratories, food industry, and plasma processes."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

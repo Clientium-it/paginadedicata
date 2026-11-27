@@ -1,0 +1,28 @@
+{
+ "slug": "seda-international-packaging",
+ "company": "Seda International Packaging Group",
+ "first_name": "Biagio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Seda produce dal 1964 packaging per l'industria del gelato in tutto il mondo, con sedi in Italia, Germania, Regno Unito, Spagna e Nord America. Qui trova come lavoriamo e cosa potremmo fare per Seda International Packaging Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Seda International Packaging Group.",
+ "evidence": [
+  {
+   "claim": "Seda produce dal 1964 packaging per l'industria del gelato in tutto il mondo, con sedi in Italia, Germania, Regno Unito, Spagna e Nord America.",
+   "url": "https://www.sedagroup.com/ice-cream",
+   "quote": "Our packaging has been used in the industrial ice cream industry worldwide since 1964. We lead the global market across our whole product range, which enables us to offer all types of packaging used in the ice cream industry. || locations international seda north america seda UK seda germany seda iberica seda iberica (es) seda italy || Products Ice Cream Dairy & Spreads Food Service Food Industry Products directory"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

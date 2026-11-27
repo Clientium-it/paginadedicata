@@ -1,0 +1,28 @@
+{
+ "slug": "vrent",
+ "company": "VRENT",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "VRENT noleggia una flotta di 2100 veicoli tra autocompattatori, spazzatrici stradali e scarrabili su tutto il territorio italiano e in altre aree europee. Qui trova come lavoriamo e cosa potremmo fare per VRENT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VRENT.",
+ "evidence": [
+  {
+   "claim": "VRENT noleggia una flotta di 2100 veicoli tra autocompattatori, spazzatrici stradali e scarrabili su tutto il territorio italiano e in altre aree europee.",
+   "url": "https://www.vrent.it/",
+   "quote": "Scegli e noleggia il mezzo più adatto a te tra i 2100 veicoli della nostra flotta: autocompattatori, minicompattatori, costipatori, mezzi satelliti con vasca, raccolta ingombranti, scarrabili, spazzatrici stradali e tanto altro ancora. || VRENT opera su tutto il territorio italiano e, tramite i suoi partner internazionali, anche in altre aree europee."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

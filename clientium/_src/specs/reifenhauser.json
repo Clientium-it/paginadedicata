@@ -1,0 +1,28 @@
+{
+ "slug": "reifenhauser",
+ "company": "Reifenhauser Group",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Reifenhäuser costruisce in Germania impianti e componenti per estrusione e stampaggio a iniezione, con sedi in Italia, India, Cina e Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per Reifenhauser Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Reifenhauser Group.",
+ "evidence": [
+  {
+   "claim": "Reifenhäuser costruisce in Germania impianti e componenti per estrusione e stampaggio a iniezione, con sedi in Italia, India, Cina e Stati Uniti.",
+   "url": "https://reifenhauser.com/",
+   "quote": "Reifenhäuser produziert hochwertige Extrusionsanlagen und Komponenten für Extrusion und Spritzguss. Überzeugen Sie sich von einzigartiger Qualität made in Germany! || Alle Länder-Kontakte Reifenhäuser Indien Reiloy USA Reifenhäuser Italien Reifenhäuser China || Finden Sie die passende Anlage für Ihre Anwendung: Hygiene Medizin Konsumgüter Industrie / Technologie Landwirtschaft Filtration"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

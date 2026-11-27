@@ -1,0 +1,28 @@
+{
+ "slug": "audi-zentrum-bologna",
+ "company": "Audi Zentrum Bologna",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Penske è nata nel 2012, conta circa 800 collaboratori e 25 sedi tra Emilia Romagna e Lombardia per 11 brand come Ferrari e Porsche. Qui trova come lavoriamo e cosa potremmo fare per Audi Zentrum Bologna.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Audi Zentrum Bologna.",
+ "evidence": [
+  {
+   "claim": "Penske è nata nel 2012, conta circa 800 collaboratori e 25 sedi tra Emilia Romagna e Lombardia per 11 brand come Ferrari e Porsche.",
+   "url": "https://www.penskecars.it/",
+   "quote": "Penske Automotive Italy, nata nel febbraio 2012 dalla joint venture tra Penske Automotive Group e le famiglie Vanti-Mantellini, conta circa 800 collaboratori e rappresenta 11 brand: BMW, MINI, Audi, Ferrari, Jaguar, Land Rover, Lamborghini, Maserati, Mercedes-Benz, Porsche e Volvo. || Penske Automotive Italy, attualmente, è il più importante Dealer Automotive Italiano del segmento Premium e Luxury, con 25 sedi tra Emilia-Romagna e Lombardia."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

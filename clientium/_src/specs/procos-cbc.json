@@ -1,0 +1,28 @@
+{
+ "slug": "procos-cbc",
+ "company": "Procos SpA (CBC Group)",
+ "first_name": "Simone",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Procos sviluppa e produce principi attivi farmaceutici e intermedi avanzati per l'industria farmaceutica nel sito cGMP di Cameri da 155.000 metri quadri. Qui trova come lavoriamo e cosa potremmo fare per Procos SpA (CBC Group).",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Procos SpA (CBC Group).",
+ "evidence": [
+  {
+   "claim": "Procos sviluppa e produce principi attivi farmaceutici e intermedi avanzati per l'industria farmaceutica nel sito cGMP di Cameri da 155.000 metri quadri.",
+   "url": "https://www.procos.it/",
+   "quote": "PROCOS S.P.A. is specialized in the development, scale-up and production of Active Pharmaceutical Ingredients (APIs), advanced intermediates and related services for the pharmaceutical industry. || The manufacturing site is located in Cameri, Italy. This 155,000 sq. meter, cutting-edge multipurpose plant, fully designed under cGMP compliance"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

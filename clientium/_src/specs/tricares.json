@@ -1,0 +1,28 @@
+{
+ "slug": "tricares",
+ "company": "TRiCares GmbH",
+ "first_name": "Laura",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TRiCares sviluppa un sistema di sostituzione della valvola tricuspide via catetere senza chirurgia a cuore aperto, con uffici in Francia, Germania, Stati Uniti e Brasile. Qui trova come lavoriamo e cosa potremmo fare per TRiCares GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TRiCares GmbH.",
+ "evidence": [
+  {
+   "claim": "TRiCares sviluppa un sistema di sostituzione della valvola tricuspide via catetere senza chirurgia a cuore aperto, con uffici in Francia, Germania, Stati Uniti e Brasile.",
+   "url": "https://www.tricares.com/",
+   "quote": "Our vision is to bring to market a catheter-based tricuspid valve replacement system that will help patients suffering from severe tricuspid regurgitation (TR) without the need for open-heart surgery. || TRiCares is a global business, with offices in France, Germany, the US and Brazil."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

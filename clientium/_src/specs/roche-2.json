@@ -1,0 +1,28 @@
+{
+ "slug": "roche-2",
+ "company": "Roche",
+ "first_name": "Anita",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Roche lavora in Italia da 125 anni con soluzioni per diagnosticare e trattare malattie gravi e conta oltre 100.000 dipendenti in più di 150 paesi. Qui trova come lavoriamo e cosa potremmo fare per Roche.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Roche.",
+ "evidence": [
+  {
+   "claim": "Roche lavora in Italia da 125 anni con soluzioni per diagnosticare e trattare malattie gravi e conta oltre 100.000 dipendenti in più di 150 paesi.",
+   "url": "https://www.roche.it/chi-siamo",
+   "quote": "Da 125 anni Roche Italia lavora per supportare i pazienti con soluzioni per prevenire, diagnosticare, monitorare e trattare malattie gravi. || con oltre 100.000 dipendenti presenti in piÃ¹ di 150 Paesi || Prodotti per i laboratori e la ricerca, soluzioni di diagnostica decentralizzata e strumenti di automonitoraggio"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

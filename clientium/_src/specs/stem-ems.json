@@ -1,0 +1,28 @@
+{
+ "slug": "stem-ems",
+ "company": "Stem EMS",
+ "first_name": "Lucia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Stem produce supporti barella e dispositivi di sicurezza per ambulanze e ha aperto l'export con costruttori come la francese Picot e la tedesca Weinsberg. Qui trova come lavoriamo e cosa potremmo fare per Stem EMS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Stem EMS.",
+ "evidence": [
+  {
+   "claim": "Stem produce supporti barella e dispositivi di sicurezza per ambulanze e ha aperto l'export con costruttori come la francese Picot e la tedesca Weinsberg.",
+   "url": "https://www.stem.it/",
+   "quote": "Stem Technology progetta e produce attrezzature e sistemi per il trasporto sanitario, l’emergenza, il soccorso e la sicurezza. Stem è altamente specializzata nella produzione di supporti barella e dispositivi di sicurezza per ambulanze e mezzi di soccorso. || Strada Ghiaie, 12/D 43014 – Medesano (PR) Italia || Ha inizio una promettente apertura del mercato export con importanti costruttori di ambulanze, due tra i principali: Picot francese e Weinsberg tedesca."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

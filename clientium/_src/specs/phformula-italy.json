@@ -1,0 +1,28 @@
+{
+ "slug": "phformula-italy",
+ "company": "pHformula Italy",
+ "first_name": "Flavio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "PHformula Italy distribuisce ufficialmente il marchio in Italia e Malta con linee per la persona, per gli estetisti e per la medicina estetica. Qui trova come lavoriamo e cosa potremmo fare per pHformula Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per pHformula Italy.",
+ "evidence": [
+  {
+   "claim": "PHformula Italy distribuisce ufficialmente il marchio in Italia e Malta con linee per la persona, per gli estetisti e per la medicina estetica.",
+   "url": "https://www.phformula.it/",
+   "quote": "Prodotti estetica persona Prodotti estetica professionisti Prodotti medicina estetica Punti vendita pHformula Contatti Consulta www.phformula.com © 2022 pHformula All rights reserved Privacy & Cookies Policy | Credits Distributore ufficiale per Italia e Malta del marchio pHformula || Distributore ufficiale per Italia e Malta del marchio pHformula"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

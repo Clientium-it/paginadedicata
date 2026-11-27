@@ -1,0 +1,28 @@
+{
+ "slug": "schunk",
+ "company": "SCHUNK",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Schunk è nata nel 1945 come piccola officina meccanica e oggi conta circa 3.700 dipendenti in oltre 75 paesi tra bloccaggio, presa e automazione. Qui trova come lavoriamo e cosa potremmo fare per SCHUNK.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SCHUNK.",
+ "evidence": [
+  {
+   "claim": "Schunk è nata nel 1945 come piccola officina meccanica e oggi conta circa 3.700 dipendenti in oltre 75 paesi tra bloccaggio, presa e automazione.",
+   "url": "https://schunk.com/it/it/societa/l-azienda-schunk",
+   "quote": "I nostri specialisti hanno una vasta competenza nella tecnologia di bloccaggio utensili e attrezzature, nella tecnologia di presa e nella tecnologia di automazione. || Fondata nel 1945 da Friedrich Schunk come piccola officina meccanica, oggi ci siamo evoluti in un'azienda tecnologica internazionale con circa 3.700 dipendenti in più di 75 paesi || Industria automobilistica Difesa Elettronica E-mobility Life Science"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

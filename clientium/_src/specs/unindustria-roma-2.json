@@ -1,0 +1,28 @@
+{
+ "slug": "unindustria-roma-2",
+ "company": "Unindustria Roma",
+ "first_name": "Oscar",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Unindustria riunisce 2.900 aziende con 225.000 dipendenti e 8 sedi nel Lazio, per l'85% piccole e medie imprese. Qui trova come lavoriamo e cosa potremmo fare per Unindustria Roma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Unindustria Roma.",
+ "evidence": [
+  {
+   "claim": "Unindustria riunisce 2.900 aziende con 225.000 dipendenti e 8 sedi nel Lazio, per l'85% piccole e medie imprese.",
+   "url": "https://www.un-industria.it/menu/associazione/chi-siamo/",
+   "quote": "2.900 aziende aderenti per 225.000 dipendenti 120 professionisti al servizio delle imprese del Lazio 8 sedi presenti sul territorio laziale || Unione degli Industriali e delle imprese Roma, Frosinone, Latina, Rieti, Viterbo. In una parola UNINDUSTRIA || 85% delle associate sono Piccole e Medie, il 15% Grandi Imprese 65% opera nel settore dei Servizi 35% opera nel settore Industria"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

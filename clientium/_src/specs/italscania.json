@@ -1,0 +1,28 @@
+{
+ "slug": "italscania",
+ "company": "Italscania",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Scania ha circa 100 distributori nazionali, oltre 1600 punti di assistenza e stabilimenti tra Svezia, Francia, Paesi Bassi, Polonia, Brasile e Argentina. Qui trova come lavoriamo e cosa potremmo fare per Italscania.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Italscania.",
+ "evidence": [
+  {
+   "claim": "Scania ha circa 100 distributori nazionali, oltre 1600 punti di assistenza e stabilimenti tra Svezia, Francia, Paesi Bassi, Polonia, Brasile e Argentina.",
+   "url": "https://www.scania.com/group/en/home/about-scania/contact-us.html",
+   "quote": "Scania is represented worldwide by approximately 100 national distributors, who organise sales and workshop services. More than 1600 service points around offer quality support to our customers. || Production facilities are found in Sweden, France, Netherlands, Poland, Brazil and Argentina."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "reer-safety",
+ "company": "ReeR Safety",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ReeR produce sensori optoelettronici per la sicurezza industriale con filiali in Spagna, Stati Uniti, Cina, Taiwan, Corea e India e distributori in oltre 65 paesi. Qui trova come lavoriamo e cosa potremmo fare per ReeR Safety.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ReeR Safety.",
+ "evidence": [
+  {
+   "claim": "ReeR produce sensori optoelettronici per la sicurezza industriale con filiali in Spagna, Stati Uniti, Cina, Taiwan, Corea e India e distributori in oltre 65 paesi.",
+   "url": "https://www.reersafety.com/en/about-us/",
+   "quote": "Today ReeR is both the Italian leading company and one of the main world manufacturers of optoelectronic sensors for industrial safety. || with subsidiaries in Spain , United States , China , Taiwan , Korea , and India and a Country Manager in France . Supported by an extensive network of skilled distributors , we provide unparalleled customer service in more than 65 countries around the world. || Industries such as chemical, petrochemical, pharmaceutical, food, and maritime often face these risks, making it essential to rely on manufacturers who provide reliable, modular, and regulation-compliant solutions."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "meusburger-georg-co-kg-2",
+ "company": "Meusburger Georg GmbH & Co KG",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Meusburger fornisce normalizzati di alta precisione. Qui trova come lavoriamo e cosa potremmo fare per Meusburger Georg GmbH & Co KG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Meusburger Georg GmbH & Co KG.",
+ "evidence": [
+  {
+   "claim": "Meusburger fornisce normalizzati di alta precisione.",
+   "url": "https://www.meusburger.com/it-it",
+   "quote": "La Meusburger: il fornitore leader di normalizzati di alta precisione"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

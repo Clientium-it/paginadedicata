@@ -1,0 +1,28 @@
+{
+ "slug": "velo-de-ville",
+ "company": "VELO DE VILLE",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Velo de Ville dal 1966 propone biciclette ed e-bike configurate individualmente, esporta in altri Paesi europei dal 2010 e dal 2015 si trova ad Altenberge. Qui trova come lavoriamo e cosa potremmo fare per VELO DE VILLE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VELO DE VILLE.",
+ "evidence": [
+  {
+   "claim": "Velo de Ville dal 1966 propone biciclette ed e-bike configurate individualmente, esporta in altri Paesi europei dal 2010 e dal 2015 si trova ad Altenberge.",
+   "url": "https://www.velo-de-ville.com/it/L-azienda/Chi-siamo/",
+   "quote": "VELO DE VILLE – Dal 1966 siamo sinonimo di biciclette ed e-bike configurate individualmente, qualità premium Made in Germany e autentica passione per il Custom Made. || Nel 2010 iniziano le esportazioni verso altri Paesi europei. Nel 2015, l'azienda si trasferisce a Steinkuhle in Altenberge"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

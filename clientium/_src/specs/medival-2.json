@@ -1,0 +1,28 @@
+{
+ "slug": "medival-2",
+ "company": "Medival",
+ "first_name": "Alessio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Medival distribuisce da oltre 40 anni a livello nazionale dispositivi medici per anestesia, rianimazione, pronto soccorso, dialisi e chirurgia, con sede a Padova. Qui trova come lavoriamo e cosa potremmo fare per Medival.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Medival.",
+ "evidence": [
+  {
+   "claim": "Medival distribuisce da oltre 40 anni a livello nazionale dispositivi medici per anestesia, rianimazione, pronto soccorso, dialisi e chirurgia, con sede a Padova.",
+   "url": "https://www.medival.it/it/",
+   "quote": "Siamo un'azienda qualificata e specializzata che da oltre 40 anni seleziona e distribuisce a livello nazionale dispositivi medici e apparecchiature medicali di elevata qualità. || Sede legale e uffici: Via San Crispino, 33 Magazzino: Via San Crispino , 35 35129 Padova || offrendo prodotti indirizzati principalmente nelle aree critiche e chirurgiche, come Anestesia, Rianimazione, Pronto Soccorso, Dialisi, Chirurgia Generale, Chirurgia Addominale, ORL e Uro-Ginecologica."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

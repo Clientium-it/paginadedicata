@@ -1,0 +1,28 @@
+{
+ "slug": "senec-italia",
+ "company": "SENEC Italia",
+ "first_name": "Elia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SENEC offre per la casa sistemi di accumulo, moduli fotovoltaici e stazioni di ricarica, oltre a soluzioni CER per aziende e famiglie. Qui trova come lavoriamo e cosa potremmo fare per SENEC Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SENEC Italia.",
+ "evidence": [
+  {
+   "claim": "SENEC offre per la casa sistemi di accumulo, moduli fotovoltaici e stazioni di ricarica, oltre a soluzioni CER per aziende e famiglie.",
+   "url": "https://senec.com/it",
+   "quote": "Soluzioni energetiche per la tua casa Sistemi di accumulo, moduli fotovoltaici, stazioni di ricarica elettrica, servizi di fornitura energetica e molto altro ancora. || Le CER sono le soluzioni a disposizione di aziende e famiglie, per contrastare l’aumento delle bollette elettriche."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

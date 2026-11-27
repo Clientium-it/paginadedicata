@@ -1,0 +1,28 @@
+{
+ "slug": "qlar",
+ "company": "Qlar Group",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Qlar ha 140 anni di esperienza e 300 brevetti nella misurazione, miscelazione e lavorazione, con società in 14 paesi per infrastrutture, energia e chimica. Qui trova come lavoriamo e cosa potremmo fare per Qlar Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Qlar Group.",
+ "evidence": [
+  {
+   "claim": "Qlar ha 140 anni di esperienza e 300 brevetti nella misurazione, miscelazione e lavorazione, con società in 14 paesi per infrastrutture, energia e chimica.",
+   "url": "https://www.qlar.com/about-us",
+   "quote": "With 140 years engineering experience and 300 patents to our name, we lead the way in measuring, combining and processing technologies. || We operate globally, through a network of companies in 14 countries around the world, partnering with major players in the infrastructure, energy, chemicals and high-performance materials sectors || partnering with major players in the infrastructure, energy, chemicals and high-performance materials sectors, as well as alternative fuels in the cement and steel industries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

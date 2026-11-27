@@ -1,0 +1,28 @@
+{
+ "slug": "zimm",
+ "company": "ZIMM GmbH",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ZIMM produce a Lustenau martinetti a vite in 14 taglie, attuatori elettromeccanici e rinvii angolari, con lavorazioni CNC nel sito di Ankara. Qui trova come lavoriamo e cosa potremmo fare per ZIMM GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ZIMM GmbH.",
+ "evidence": [
+  {
+   "claim": "ZIMM produce a Lustenau martinetti a vite in 14 taglie, attuatori elettromeccanici e rinvii angolari, con lavorazioni CNC nel sito di Ankara.",
+   "url": "https://zimm.com/",
+   "quote": "The portfolio includes screw jacks in 14 sizes with lifting capacities from 2.5 to 1,000 kN, electromechanical actuators from 25 to 200 kN as well as ZK bevel gearboxes in 4 sizes || Gearbox manufacturing and production according to drawings take place at the headquarters in Lustenau in accordance with ISO 9001:2015; CNC machining at the Sincan/Ankara site || Automation Cable, wire and tube industry Automated guided vehicles Hydraulic steel construction Ropeway systems Wind energy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

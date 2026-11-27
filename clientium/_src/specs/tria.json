@@ -1,0 +1,28 @@
+{
+ "slug": "tria",
+ "company": "TRIA",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tria costruisce granulatori a lame dal 1954, quando il primo nacque a Milano, e ha filiali in America e a Shanghai. Qui trova come lavoriamo e cosa potremmo fare per TRIA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TRIA.",
+ "evidence": [
+  {
+   "claim": "Tria costruisce granulatori a lame dal 1954, quando il primo nacque a Milano, e ha filiali in America e a Shanghai.",
+   "url": "https://www.triaplastics.com/corporate-timeline/",
+   "quote": "1954 A Milano il primo granulatore a lame TRIA viene studiato e prodotto da Angelo Anceschi. || 2011 Viene costituita la filiale TRIA Trading (Shanghai) Co. Ltd per sviluppare le vendite in Asia. 2010 Viene costituita TRIA America per meglio supportare le vendite crescenti in quel mercato."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "spa-societa-prodotti-antibiotici",
+ "company": "SPA Società Prodotti Antibiotici",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SPA nasce a Milano nel 1947 per produrre una delle prime penicilline italiane e oggi ha farmaci per medicina interna e cardiologia. Qui trova come lavoriamo e cosa potremmo fare per SPA Società Prodotti Antibiotici.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SPA Società Prodotti Antibiotici.",
+ "evidence": [
+  {
+   "claim": "SPA nasce a Milano nel 1947 per produrre una delle prime penicilline italiane e oggi ha farmaci per medicina interna e cardiologia.",
+   "url": "https://spafarma.com/it/azienda/storia/",
+   "quote": "Milano, 24 maggio 1947. Il fisiologo Rodolfo Ferrari e il microbiologo Carlo Callerio fondano SPA - Società Prodotti Antibiotici , con l’obiettivo di produrre una delle prime penicilline italiane nell’immediato dopoguerra. || SPA dà il benvenuto alla nuova filiale spagnola || SPA entra nel mondo della medicina interna e della cardiologia con farmaci ancor oggi apprezzati ed utilizzati da medici di medicina generale e specialisti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}
