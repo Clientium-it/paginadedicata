@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
-"""Sviluppatore Migliore M2 pages: one spec JSON -> <out>/<slug>/index.html + <out>/assets/.
+"""Migliore Software M2 pages (paginadedicata.com/miglioresoftware/<slug>/): one spec JSON -> <out>/<slug>/index.html + <out>/assets/.
 Usage: python3 build.py specs/*.json --out <folder outside the repo>
 Spec: slug, company, first (optional), fact, idea, evidence [{claim,url,quote}].
 Every page's visible text is checked: no dashes/colons/!/; and none of the banned claims."""
 import html, json, os, re, shutil, sys
 HERE = os.path.dirname(os.path.abspath(__file__)); ASSETS = os.path.join(HERE, '..', 'assets')
 TPL = open(os.path.join(HERE, 'template.html'), encoding='utf-8').read()
-BRAND = 'Sviluppatore Migliore'
+BRAND = 'Migliore Software'
+CAL = 'https://api.leadconnectorhq.com/widget/booking/qptu3dFMjAFbAdFhx98R'
 BAD = re.compile(r'[—–:!;]| - ')
 BANNED = re.compile(r'30\s*%|€|\beuro\b|prezz|costo|audit|settiman|\bgiorni\b|unique|clientium|sidac|magazzin|risorse umane|\bHR\b|su misura|gestional|garanti', re.I)
-SHARED = ('logo.webp', 'og.jpg')
+SHARED = ('ms-logo-white.webp', 'ms-logo-dark.webp', 'ms-matteo-hero.webp', 'ms-matteo-office.webp', 'ms-favicon.png', 'og.jpg')
 E = lambda s: html.escape(s, quote=False); A = lambda s: html.escape(s, quote=True)
 fin = lambda s: s if s.endswith(('.', '?')) else s + '.'
 def visible(page):
@@ -20,8 +21,8 @@ def render(sp):
     fact, idea = (sp.get('fact') or '').strip(), (sp.get('idea') or '').strip()
     if not (fact and idea and sp.get('evidence')): raise ValueError(f'{slug}: needs fact, idea and evidence')
     prep = f'{first} di {c}' if first else c
-    vals = {'BRAND': E(BRAND), 'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(prep), 'PREP_ATTR': A(prep), 'FACT': E(fin(fact)), 'IDEA': E(fin(idea)),
-            'LEAD_CSS': 'h1{font-size:38px}' if len(c) > 28 else '', 'CLARITY_ATTR': ''}
+    vals = {'BRAND': E(BRAND), 'CAL': CAL, 'COMPANY': E(c), 'COMPANY_ATTR': A(c), 'PREP': E(prep), 'PREP_ATTR': A(prep), 'FACT': E(fin(fact)), 'IDEA': E(fin(idea)),
+            'LEAD_CSS': 'html:not(.phone) h1{font-size:42px}' if len(c) > 24 else '', 'CLARITY_ATTR': ''}
     page = re.sub(r'\{\{(\w+)\}\}', lambda m: vals[m.group(1)], TPL)
     txt = visible(page)
     if m := BAD.search(txt): raise ValueError(f'{slug}: copy rule broken near {txt[max(0,m.start()-40):m.end()+20]!r}')
