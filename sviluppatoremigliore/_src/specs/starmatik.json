@@ -1,0 +1,13 @@
+{
+ "slug": "starmatik",
+ "company": "Starmatik",
+ "first": "",
+ "fact": "Starmatik progetta e realizza celle di piegatura e di asservimento per il taglio laser, con installazioni in 40 Paesi",
+ "idea": "Con macchine installate in tanti Paesi, immagino che il software a bordo sia cresciuto negli anni e che oggi ogni modifica vada fatta con molta attenzione per non toccare le consegne",
+ "evidence": [
+  {"claim": "progetta e realizza celle di piegatura e di asservimento per il taglio laser", "url": "https://www.starmatik.com/azienda/",
+   "quote": "Progettiamo e realizziamo sistemi evoluti di automazione industriale, con una peculiare specializzazione nelle celle di piegatura e di asservimento per il taglio laser"},
+  {"claim": "installazioni in 40 Paesi", "url": "https://www.starmatik.com/azienda/", "quote": "Oggi Starmatik conta installazioni in 40 Paesi"},
+  {"claim": "ATECO 28.29.99, fatturato ultimo bilancio 26.249.106, Spresiano", "url": "https://data.clientium.it (camerale)", "quote": "ateco 28.29.99 revenue 26249106"}
+ ]
+}
