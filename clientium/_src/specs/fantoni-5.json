@@ -1,0 +1,28 @@
+{
+ "slug": "fantoni-5",
+ "company": "FANTONI",
+ "first_name": "Oriana",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fantoni produce pannelli, laminati, carte impregnate e arredi certificati FSC, recuperando 450.000 tonnellate di legno all'anno e producendo 360.000 tonnellate di truciolare. Qui trova come lavoriamo e cosa potremmo fare per FANTONI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FANTONI.",
+ "evidence": [
+  {
+   "claim": "Fantoni produce pannelli, laminati, carte impregnate e arredi certificati FSC, recuperando 450.000 tonnellate di legno all'anno e producendo 360.000 tonnellate di truciolare.",
+   "url": "https://www.fantoni.it/",
+   "quote": "I prodotti Fantoni, siano essi pannelli, laminati, carte impregnate, arredi o sistemi fonoassorbenti, sono certificati FSC® e garantiscono al mercato la provenienza del legname utilizzato || 450.000 tonnellate annue di legno recuperato e 360.000 tonnellate annue di pannelli truciolare prodotti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

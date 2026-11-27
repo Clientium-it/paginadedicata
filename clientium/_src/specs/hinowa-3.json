@@ -1,0 +1,28 @@
+{
+ "slug": "hinowa-3",
+ "company": "Hinowa",
+ "first_name": "Lorenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hinowa realizza mezzi per operazioni in quota e movimento terra, come piattaforme aeree, minidumper e carrelli elevatori cingolati, su un'area di 90.000 mq. Qui trova come lavoriamo e cosa potremmo fare per Hinowa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hinowa.",
+ "evidence": [
+  {
+   "claim": "Hinowa realizza mezzi per operazioni in quota e movimento terra, come piattaforme aeree, minidumper e carrelli elevatori cingolati, su un'area di 90.000 mq.",
+   "url": "https://www.hinowa.com/azienda",
+   "quote": "Hinowa è una società specializzata nella realizzazione di mezzi per operazioni in quota e movimento terra , come piattaforme aeree, minidumper e carrelli elevatori cingolati, oltre che sottocarri. || con 30.000 mq coperti, all’interno di un’area totale di 90.000 mq"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

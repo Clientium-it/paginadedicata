@@ -1,0 +1,28 @@
+{
+ "slug": "renesola",
+ "company": "ReneSola Ltd",
+ "first_name": "Donatella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ReneSola opera dal 2005 nel campo delle nuove energie con soluzioni per impianti destinate a clienti residenziali, industriali e commerciali. Qui trova come lavoriamo e cosa potremmo fare per ReneSola Ltd.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ReneSola Ltd.",
+ "evidence": [
+  {
+   "claim": "ReneSola opera dal 2005 nel campo delle nuove energie con soluzioni per impianti destinate a clienti residenziali, industriali e commerciali.",
+   "url": "https://www.renesola-energy.com/company.html",
+   "quote": "Renesola, established in 2005, has been a pioneer in the global new energy field, committed to making unremitting efforts to mitigate global warming, and providing quality power station solutions for global clients. || Address: No.5 fuqiang road, Xuejia town, Xinbei district, Changzhou city || Industry and Commerce Household Large Surface Power Station"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

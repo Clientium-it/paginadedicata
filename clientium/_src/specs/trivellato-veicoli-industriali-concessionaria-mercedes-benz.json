@@ -1,0 +1,28 @@
+{
+ "slug": "trivellato-veicoli-industriali-concessionaria-mercedes-benz",
+ "company": "Trivellato veicoli industriali concessionaria Mercedes-Benz",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Trivellato Industriali è concessionaria ufficiale Mercedes-Benz per la vendita e l'assistenza di veicoli commerciali e industriali, con sedi a Vicenza, Verona, Padova e Rovigo. Qui trova come lavoriamo e cosa potremmo fare per Trivellato veicoli industriali concessionaria Mercedes-Benz.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Trivellato veicoli industriali concessionaria Mercedes-Benz.",
+ "evidence": [
+  {
+   "claim": "Trivellato Industriali è concessionaria ufficiale Mercedes-Benz per la vendita e l'assistenza di veicoli commerciali e industriali, con sedi a Vicenza, Verona, Padova e Rovigo.",
+   "url": "https://industriali.trivellato.it/",
+   "quote": "Concessionaria ufficiale per la Vendita e Assistenza di Veicoli Commerciali e Industriali Mercedes-Benz , Trivellato Industriali è sinonimo di competenza e professionalità. || Ti aspettiamo in una delle nostre Concessionarie Ufficiali e Officine Autorizzate di Vicenza, Verona, Padova e Rovigo ."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

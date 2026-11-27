@@ -1,0 +1,28 @@
+{
+ "slug": "marcegaglia",
+ "company": "Marcegaglia",
+ "first_name": "Franco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Marcegaglia lavora acciai al carbonio e inossidabili per molti settori, con 36 stabilimenti in 4 continenti, 60 unità commerciali e 15000 clienti. Qui trova come lavoriamo e cosa potremmo fare per Marcegaglia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Marcegaglia.",
+ "evidence": [
+  {
+   "claim": "Marcegaglia lavora acciai al carbonio e inossidabili per molti settori, con 36 stabilimenti in 4 continenti, 60 unità commerciali e 15000 clienti.",
+   "url": "https://www.marcegaglia.com/officialwebsite/about/",
+   "quote": "Con oltre 70 norme internazionali di produzione di acciai al carbonio e inossidabili e più di 130 specifiche interne a protocollo, customizzate per il cliente, Marcegaglia è in grado di servire molteplici settori di applicazione || 36 Stabilimenti steel in 4 continenti 60 Unità commerciali 15000 Clienti || specializzazione in edilizia, automotive, alimentare, commercio, meccanica, agricoltura, chimica, petrolchimica, impiantistica industriale, termomeccanica, idraulica, arredamento, energia e molti altri"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

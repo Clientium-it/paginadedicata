@@ -1,0 +1,28 @@
+{
+ "slug": "rizzetto-comfortable-salotti",
+ "company": "Rizzetto Comfortable salotti",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rizzetto dal 1996 progetta e realizza imbottiti made in Italy dalle linee essenziali e contemporanee. Qui trova come lavoriamo e cosa potremmo fare per Rizzetto Comfortable salotti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rizzetto Comfortable salotti.",
+ "evidence": [
+  {
+   "claim": "Rizzetto dal 1996 progetta e realizza imbottiti made in Italy dalle linee essenziali e contemporanee.",
+   "url": "https://www.rizzettodivani.it/azienda/",
+   "quote": "è nata nel 1996 ed è stata creata per progettare e realizzare imbottiti rigorosamente made in Italy dalle linee essenziali e contemporanee"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

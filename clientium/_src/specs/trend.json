@@ -1,0 +1,28 @@
+{
+ "slug": "trend",
+ "company": "Trend Group",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Trend produce ogni anno oltre 1,5 milioni di m² di mosaico vetroso e 800.000 m² di lastre etherium, con sedi in Italia e all'estero. Qui trova come lavoriamo e cosa potremmo fare per Trend Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Trend Group.",
+ "evidence": [
+  {
+   "claim": "Trend produce ogni anno oltre 1,5 milioni di m² di mosaico vetroso e 800.000 m² di lastre etherium, con sedi in Italia e all'estero.",
+   "url": "https://trend-group.com/about-us/",
+   "quote": "we produce and distribute annually more than 1.5 million m² of glass mosaic and 800,000 m² of etherium® by E-Stone slabs || In addition to the main offices in Italy , the United States , the Middle East , and India , the company also has offices in the United Kingdom, Australia, Russia, and Argentina || Our materials cover public spaces, luxury hotels, spas, private residences, and renowned retail environments."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

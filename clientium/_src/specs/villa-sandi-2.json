@@ -1,0 +1,28 @@
+{
+ "slug": "villa-sandi-2",
+ "company": "Villa Sandi",
+ "first_name": "Mirko",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Villa Sandi produce ed esporta prosecco da Crocetta del Montello, in provincia di Treviso. Qui trova come lavoriamo e cosa potremmo fare per Villa Sandi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Villa Sandi.",
+ "evidence": [
+  {
+   "claim": "Villa Sandi produce ed esporta prosecco da Crocetta del Montello, in provincia di Treviso.",
+   "url": "https://www.villasandi.it/en/history",
+   "quote": "acquiring and maintaining to this day the leading position in the export of prosecco among producers in the province of Treviso || Villa Sandi Via Erizzo 113/A 31035 Crocetta del Montello TV (Italia)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

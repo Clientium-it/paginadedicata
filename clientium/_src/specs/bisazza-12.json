@@ -1,0 +1,28 @@
+{
+ "slug": "bisazza-12",
+ "company": "Bisazza",
+ "first_name": "Laura",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bisazza nasce nel 1956 ad Alte di Vicenza e riveste facciate di edifici pubblici, residenziali e commerciali con una rete di 2.800 rivenditori. Qui trova come lavoriamo e cosa potremmo fare per Bisazza.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bisazza.",
+ "evidence": [
+  {
+   "claim": "Bisazza nasce nel 1956 ad Alte di Vicenza e riveste facciate di edifici pubblici, residenziali e commerciali con una rete di 2.800 rivenditori.",
+   "url": "https://www.bisazza.com/de/corporate",
+   "quote": "Established by Renato Bisazza in 1956 in Alte, Vicenza, Northern Italy, the company has become a trailblazer, marked by a dynamic entrepreneurial spirit, a mastery of modern technologies, and an ability to read and anticipate the needs of the global market || The company's distribution network currently includes 4 flagship stores in London, Milan, New York and Paris and 2,800 local retailers around the world || cladding the facades of public, residential and commercial buildings in Italy and France"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

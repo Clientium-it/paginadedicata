@@ -1,0 +1,28 @@
+{
+ "slug": "mandelli",
+ "company": "Mandelli",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mandelli riunisce cinque marchi di proprietà come Tucano Urbano ed Eleveit a Carate Brianza e opera a livello nazionale e internazionale. Qui trova come lavoriamo e cosa potremmo fare per Mandelli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mandelli.",
+ "evidence": [
+  {
+   "claim": "Mandelli riunisce cinque marchi di proprietà come Tucano Urbano ed Eleveit a Carate Brianza e opera a livello nazionale e internazionale.",
+   "url": "https://www.mandelli.net/chisiamo/",
+   "quote": "Oggi con i nostri 5 Premium Brand di proprietà, Tucano Urbano , T.ur , TAAC , Eleveit e Brera Cicli , siamo un solido punto di riferimento per il settore, a livello nazionale e internazionale || Via Tommaso Grossi, 5 – 20841 Carate Brianza (MB) Italy Tel. +39 0362 1797888 || AGENTI RIVENDITORI DISTRIBUTORI INTERNAZIONALI"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "tfl",
+ "company": "TFL Group",
+ "first_name": "André",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TFL produce e fornisce a livello globale syntans conosciuti con i marchi SELLATAN e TANIGAN. Qui trova come lavoriamo e cosa potremmo fare per TFL Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TFL Group.",
+ "evidence": [
+  {
+   "claim": "TFL produce e fornisce a livello globale syntans conosciuti con i marchi SELLATAN e TANIGAN.",
+   "url": "https://www.tfl.com/en/",
+   "quote": "TFL is a leading global manufacturer and supplier of high quality syntans that are recognized worldwide under the famous brand names of SELLATAN® and TANIGAN®."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

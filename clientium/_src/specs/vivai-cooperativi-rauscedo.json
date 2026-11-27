@@ -1,0 +1,28 @@
+{
+ "slug": "vivai-cooperativi-rauscedo",
+ "company": "Vivai Cooperativi Rauscedo",
+ "first_name": "Asia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vivai Rauscedo produce ogni anno oltre 80 milioni di barbatelle innestate con duecento soci e una presenza commerciale in 38 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Vivai Cooperativi Rauscedo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vivai Cooperativi Rauscedo.",
+ "evidence": [
+  {
+   "claim": "Vivai Rauscedo produce ogni anno oltre 80 milioni di barbatelle innestate con duecento soci e una presenza commerciale in 38 Paesi.",
+   "url": "https://www.vivairauscedo.com/",
+   "quote": "Più di 80 milioni di barbatelle innestate ogni anno, duecento soci-produttori, oltre 1.300 dipendenti nei periodi della cernita, una capillare presenza commerciale in 38 Paesi nel mondo. || La sede centrale dei Vivai Cooperativi Rauscedo si estende su una superficie coperta di circa 31.000 m² || assicurare e rendere disponibile ai viticoltori di tutto il mondo un prodotto perfetto sotto il profilo morfologico, genetico e sanitario"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

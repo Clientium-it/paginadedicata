@@ -1,0 +1,28 @@
+{
+ "slug": "dorado-2",
+ "company": "Dorado",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Exclusion, con oltre vent'anni di produzione, ha creato nuovi brand e nuovi alimenti dalla sua sede di Monsole di Cona. Qui trova come lavoriamo e cosa potremmo fare per Dorado.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dorado.",
+ "evidence": [
+  {
+   "claim": "Exclusion, con oltre vent'anni di produzione, ha creato nuovi brand e nuovi alimenti dalla sua sede di Monsole di Cona.",
+   "url": "https://exclusion.it/azienda/",
+   "quote": "con l'esperienza di oltre vent'anni di produzione e le nuove ricerche, l'azienda ha creato nuovi brand e nuovi alimenti || Dorado srl Via Romea, 10 – 30010 Monsole di Cona (VE)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

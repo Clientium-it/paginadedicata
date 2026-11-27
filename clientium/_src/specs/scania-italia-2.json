@@ -1,0 +1,28 @@
+{
+ "slug": "scania-italia-2",
+ "company": "Scania Italia",
+ "first_name": "Simone",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Scania conta circa 100 distributori nazionali e oltre 1600 punti di assistenza nel mondo, con stabilimenti in Svezia, Francia e Polonia. Qui trova come lavoriamo e cosa potremmo fare per Scania Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Scania Italia.",
+ "evidence": [
+  {
+   "claim": "Scania conta circa 100 distributori nazionali e oltre 1600 punti di assistenza nel mondo, con stabilimenti in Svezia, Francia e Polonia.",
+   "url": "https://www.scania.com/group/en/home/about-scania/contact-us.html",
+   "quote": "Scania is represented worldwide by approximately 100 national distributors, who organise sales and workshop services. More than 1600 service points around offer quality support to our customers. || Production facilities are found in Sweden, France, Netherlands, Poland, Brazil and Argentina."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

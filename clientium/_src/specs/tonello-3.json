@@ -1,0 +1,28 @@
+{
+ "slug": "tonello-3",
+ "company": "tonello",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tonello produce dal 1981 macchine e tecnologie per il trattamento in capo e il finissaggio dei tessuti a Sarcedo. Qui trova come lavoriamo e cosa potremmo fare per tonello.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per tonello.",
+ "evidence": [
+  {
+   "claim": "Tonello produce dal 1981 macchine e tecnologie per il trattamento in capo e il finissaggio dei tessuti a Sarcedo.",
+   "url": "https://tonello.com/",
+   "quote": "Dal 1981 produciamo macchine e tecnologie per il trattamento in capo e il finissaggio dei tessuti. || Via della Fisica 1/3 – Sarcedo (VI) 36030 Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

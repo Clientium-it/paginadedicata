@@ -1,0 +1,28 @@
+{
+ "slug": "mare-gioioso-di-sebastiano",
+ "company": "MARE GIOIOSO s.r.l di Sebastiano",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mare Gioioso movimenta oltre 400 tonnellate di prodotto ittico al mese e lo distribuisce in tutta Italia con 45 mezzi tra ristoranti, GDO e ingrosso. Qui trova come lavoriamo e cosa potremmo fare per MARE GIOIOSO s.r.l di Sebastiano.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MARE GIOIOSO s.r.l di Sebastiano.",
+ "evidence": [
+  {
+   "claim": "Mare Gioioso movimenta oltre 400 tonnellate di prodotto ittico al mese e lo distribuisce in tutta Italia con 45 mezzi tra ristoranti, GDO e ingrosso.",
+   "url": "https://maregioioso.it/",
+   "quote": "oltre 400 tonnellate di prodotto ittico movimentato mensilmente e distribuito ogni giorno da 45 mezzi in tutta Italia tra ristoranti, catene di grande distribuzione e vendita all’ingrosso || Oltre alla sede principale, situata nella zona industriale di Monopoli, Mare Gioioso può contare anche su un nuovissimo e moderno centro di depurazione e confezionamento di mitili all’interno di uno stabilimento situato a Torre Canne di Fasano (BR) || distribuito ogni giorno da 45 mezzi in tutta Italia tra ristoranti, catene di grande distribuzione e vendita all’ingrosso"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

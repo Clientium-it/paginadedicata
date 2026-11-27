@@ -1,0 +1,28 @@
+{
+ "slug": "moba-mobile-automation",
+ "company": "MOBA Mobile Automation",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MOBA opera da oltre 50 anni nell'automazione mobile e aiuta OEM e clienti finali aggiornando i loro prodotti con sensori, sistemi di controllo e software. Qui trova come lavoriamo e cosa potremmo fare per MOBA Mobile Automation.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MOBA Mobile Automation.",
+ "evidence": [
+  {
+   "claim": "MOBA opera da oltre 50 anni nell'automazione mobile e aiuta OEM e clienti finali aggiornando i loro prodotti con sensori, sistemi di controllo e software.",
+   "url": "https://moba-automation.it/",
+   "quote": "MOBA Mobile Automation AG è all’avanguardia nella tecnologia dell’automazione mobile da oltre 50 anni, grazie al suo impegno globale per l’innovazione, la qualità e la vicinanza al cliente. || MOBA AG International MOBA AG Deutschland MOBA España MOBA France MOBA Italy MOBA do Brasil MOBA Corp USA MOBA UK MOBA Australia Moba UAE Moba Austria MOBA Latinoamerica 摩巴中国区 Moba India Moba Denmark || Supportiamo gli OEM e i clienti finali a diventare più sicuri, più efficienti e più economici aggiornando i loro prodotti con sensori, sistemi di controllo e soluzioni software innovativi."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

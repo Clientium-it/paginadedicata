@@ -1,0 +1,28 @@
+{
+ "slug": "unifarm",
+ "company": "Unifarm",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Unifarm serve più di 1.900 farmacie con 41.000 referenze a magazzino e 5 piattaforme logistiche a Trento, Bolzano, Padova, Genova e Cagliari. Qui trova come lavoriamo e cosa potremmo fare per Unifarm.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Unifarm.",
+ "evidence": [
+  {
+   "claim": "Unifarm serve più di 1.900 farmacie con 41.000 referenze a magazzino e 5 piattaforme logistiche a Trento, Bolzano, Padova, Genova e Cagliari.",
+   "url": "https://www.unifarm.it/",
+   "quote": "Più di 1.900 farmacie servite, 41.000 referenze a magazzino, 50.000 km percorsi ogni giorno e 5 piattaforme logistiche situate a Trento, Bolzano, Padova, Genova e Cagliari. || 5 piattaforme logistiche situate a Trento, Bolzano, Padova, Genova e Cagliari"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

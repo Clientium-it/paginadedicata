@@ -1,0 +1,28 @@
+{
+ "slug": "biohorizons-camlog-italia",
+ "company": "BioHorizons Camlog Italia",
+ "first_name": "Bruno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "BioHorizons Camlog propone impianti autofilettanti con una connessione comprovata da milioni di applicazioni in oltre vent'anni. Qui trova come lavoriamo e cosa potremmo fare per BioHorizons Camlog Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BioHorizons Camlog Italia.",
+ "evidence": [
+  {
+   "claim": "BioHorizons Camlog propone impianti autofilettanti con una connessione comprovata da milioni di applicazioni in oltre vent'anni.",
+   "url": "https://www.biohorizonscamlog.it/it/",
+   "quote": "Il cuore degli impianti autofilettanti è la connessione impianto-abutment CAMLOG Tube-in-Tube®, scientificamente documentata e comprovata da milioni di applicazioni nell'arco di più di 20 anni."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

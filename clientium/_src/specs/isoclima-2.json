@@ -1,0 +1,28 @@
+{
+ "slug": "isoclima-2",
+ "company": "Isoclima",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Isoclima dal 1995 produce guaine tubolari in polietilene espanso per il rivestimento di tubazioni, con due stabilimenti a Rezzato e Scisciano. Qui trova come lavoriamo e cosa potremmo fare per Isoclima.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Isoclima.",
+ "evidence": [
+  {
+   "claim": "Isoclima dal 1995 produce guaine tubolari in polietilene espanso per il rivestimento di tubazioni, con due stabilimenti a Rezzato e Scisciano.",
+   "url": "https://isoclima.com/",
+   "quote": "Isoclima S.p.A. opera nel settore idrotermosanitario dal 1995 ed è specializzata nella produzione di guaine tubolari in polietilene espanso a cellule chiuse per il rivestimento di tubazioni in rame e plastiche che trovano impiego nell'impiantistica idrotermosanitaria e del condizionamento || L'attività produttiva si svolge in due stabilimenti, uno nel nord Italia (Rezzato – BS) ed uno nel sud Italia (Scisciano – NA) dando vita ad un'importante realtà produttiva italiana in continua espansione"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

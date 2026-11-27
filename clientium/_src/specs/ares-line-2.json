@@ -1,0 +1,28 @@
+{
+ "slug": "ares-line-2",
+ "company": "Ares Line",
+ "first_name": "Adalberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ares Line progetta dal 1987 esperienze di comfort per spazi collettivi come auditorium, teatri e sale conferenza, con sede a Thiene. Qui trova come lavoriamo e cosa potremmo fare per Ares Line.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ares Line.",
+ "evidence": [
+  {
+   "claim": "Ares Line progetta dal 1987 esperienze di comfort per spazi collettivi come auditorium, teatri e sale conferenza, con sede a Thiene.",
+   "url": "https://www.aresline.com/it/home",
+   "quote": "Progettiamo esperienze di comfort per spazi collettivi, dal 1987 || Headquarter via L. Manin, 11 36016 Thiene (VI) Italy T +39 0445 314 931 info@aresline.com Parigi Office France T +33 6 09 24 57 18 paris@aresline.com Toronto Office 324, Carlingview Drive Toronto ON M9W 5G5 Canada T +1 416 679 8133 northamerica@aresline.com Riyadh Showroom Riyadh, 8897 Olaya Additional No 2542 Olaya Al Rabih tower Floor No 4 PO. Box 27026 - Zip Code 11417 Kingdom of Saudi Arabia T +966 598133333 milad@aresline.com Libya - Benghazi Showroom Alamer Company for Importing Furniture Airport road - Benghazi Libya T + 218 91 2140050 w.misillati@aresline.com San Paolo Office brasil@aresline.com || Collective spaces auditorium, teatri, centri congressi e sale conferenza sale polivalenti su misura Educational aule studio e formazione spazi ricreativi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

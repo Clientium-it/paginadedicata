@@ -1,0 +1,28 @@
+{
+ "slug": "padoa",
+ "company": "Padoa",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Padoa da oltre novant'anni unisce manualità e tecnica a creatività e fantasia nei lavori difficili, a Milano. Qui trova come lavoriamo e cosa potremmo fare per Padoa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Padoa.",
+ "evidence": [
+  {
+   "claim": "Padoa da oltre novant'anni unisce manualità e tecnica a creatività e fantasia nei lavori difficili, a Milano.",
+   "url": "https://www.padoa1927.it/",
+   "quote": "Da oltre novant’anni, amiamo i lavori difficili, le sfide. Viviamo il nostro mestiere con passione, cercando di fondere la manualità e la tecnica con la creatività e la fantasia. || Via Cortina d'Ampezzo 8, 20139 - Milano, Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

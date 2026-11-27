@@ -1,0 +1,28 @@
+{
+ "slug": "campisa",
+ "company": "Campisa",
+ "first_name": "Piero",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Campisa produce attrezzature logistiche come baie e rampe di carico e sistemi di sollevamento idraulico per porte rapide e portoni industriali. Qui trova come lavoriamo e cosa potremmo fare per Campisa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Campisa.",
+ "evidence": [
+  {
+   "claim": "Campisa produce attrezzature logistiche come baie e rampe di carico e sistemi di sollevamento idraulico per porte rapide e portoni industriali.",
+   "url": "https://www.campisa.it/",
+   "quote": "un’impresa industriale specializzata nella produzione di attrezzature logistiche all’avanguardia, per la realizzazione di baie e rampe di carico , sistemi brevettati di sollevamento idraulico Fidelity ® per porte rapide e portoni industriali. || Più di 14.000 m 2 coperti per la produzione di baie di carico e i suoi accessori. || Ideali per ambienti chimici e alimentari"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

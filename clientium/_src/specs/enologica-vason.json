@@ -1,0 +1,28 @@
+{
+ "slug": "enologica-vason",
+ "company": "Enologica Vason",
+ "first_name": "Martino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vason produce biotecnologie e coadiuvanti per l'industria enologica, alimentare e del beverage, con servizi di laboratorio e analisi dal Veronese. Qui trova come lavoriamo e cosa potremmo fare per Enologica Vason.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Enologica Vason.",
+ "evidence": [
+  {
+   "claim": "Vason produce biotecnologie e coadiuvanti per l'industria enologica, alimentare e del beverage, con servizi di laboratorio e analisi dal Veronese.",
+   "url": "https://www.vason.com/index.cfm/it/chi-siamo/",
+   "quote": "Enologica Vason produce e commercializza biotecnologie e coadiuvanti per l’industria enologica e del beverage. L’offerta è completata da servizi di laboratorio e analisi, che accompagnano il cliente nell’intero processo produttivo. || Sede legale: Via Nassar, 37 – 37029 San Pietro in Cariano, Verona - Italy Sede amministrativa: Via Mirandola, 49 – 37026 Pescantina, Verona - Italy || prodotti destinati all’industria enologica, alimentare e del beverage"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

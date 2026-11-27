@@ -1,0 +1,28 @@
+{
+ "slug": "garbuio",
+ "company": "Garbuio",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Garbuio dal 1970 fornisce materie prime e semilavorati per la panificazione e la pasticceria da Bolzano Vicentino. Qui trova come lavoriamo e cosa potremmo fare per Garbuio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Garbuio.",
+ "evidence": [
+  {
+   "claim": "Garbuio dal 1970 fornisce materie prime e semilavorati per la panificazione e la pasticceria da Bolzano Vicentino.",
+   "url": "https://www.garbuio1970.it/chi-siamo/",
+   "quote": "Garbuio è un impresa familiare che dal 1970 si pone come intermediario per la fornitura di materie prime e semilavorati nel settore della panificazione e pasticceria || A Bolzano Vicentino Comodo all’uscita di Vicenza Nord direzione Treviso, vi aspetta la migliore selezione di prodotti garantita da Garbuio || garantire ai professionisti e al consumatore finale , sapori e prodotti di altissima qualità provenienti da tutta l’Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

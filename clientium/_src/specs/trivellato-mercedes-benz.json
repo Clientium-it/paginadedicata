@@ -1,0 +1,28 @@
+{
+ "slug": "trivellato-mercedes-benz",
+ "company": "Trivellato Mercedes-Benz",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Trivellato è concessionaria Mercedes, smart, AMG e altri marchi, con auto nuove e usate nelle province di Vicenza, Verona, Padova e Rovigo. Qui trova come lavoriamo e cosa potremmo fare per Trivellato Mercedes-Benz.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Trivellato Mercedes-Benz.",
+ "evidence": [
+  {
+   "claim": "Trivellato è concessionaria Mercedes, smart, AMG e altri marchi, con auto nuove e usate nelle province di Vicenza, Verona, Padova e Rovigo.",
+   "url": "https://www.trivellato.it/",
+   "quote": "Trivellato, concessionaria auto Mercedes , smart , AMG , XPENG , Sportequipe e ICH-X . Auto nuove, auto KM 0, auto aziendali e auto usate ai migliori prezzi del mercato. || Ogni anno decine di migliaia di clienti ci scelgono per la nostra competenza e professionalità: scopri i nostri servizi per il Veneto. Operiamo nelle province di Vicenza, Verona, Padova e Rovigo."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

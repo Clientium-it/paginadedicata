@@ -1,0 +1,28 @@
+{
+ "slug": "elit",
+ "company": "Elit group",
+ "first_name": "Celestino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Elit dal 1987 progetta e produce a Piacenza convertitori statici di energia elettrica di media e grossa potenza. Qui trova come lavoriamo e cosa potremmo fare per Elit group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Elit group.",
+ "evidence": [
+  {
+   "claim": "Elit dal 1987 progetta e produce a Piacenza convertitori statici di energia elettrica di media e grossa potenza.",
+   "url": "https://www.elit-ups.com/lazienda/?lang=it",
+   "quote": "ELIT è stata costituita nel 1987 per la progettazione, produzione, commercializzazione ed assistenza di convertitori statici di energia elettrica di media e grossa potenza || La sede è situata in: Via Croce Rossa, 11 29122 Piacenza || Aeronautica Militare Italiana Marina Militare Italiana Aeronautica Militare USA Aeronautica Militare Francese Marina Militare Francese Aeronautica Militare Spagnola"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

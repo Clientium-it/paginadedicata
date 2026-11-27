@@ -1,0 +1,28 @@
+{
+ "slug": "alma",
+ "company": "ALMA",
+ "first_name": "Alma",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Alma Service, fondata nel 2003, cresce grazie alla preparazione tecnica dei suoi collaboratori e alla prontezza degli interventi presso i clienti, con sede a Verona. Qui trova come lavoriamo e cosa potremmo fare per ALMA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ALMA.",
+ "evidence": [
+  {
+   "claim": "Alma Service, fondata nel 2003, cresce grazie alla preparazione tecnica dei suoi collaboratori e alla prontezza degli interventi presso i clienti, con sede a Verona.",
+   "url": "https://www.almaservicesrl.it/about-us/",
+   "quote": "Fondata nel 2003, Alma Service è oggi un’azienda in continua crescita grazie alla preparazione tecnica dei suoi Collaboratori, alla prontezza degli interventi presso i clienti || Indirizzo: Via La Bella, n. 89 -Domegliara 37015 - Verona - ITALY"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

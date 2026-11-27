@@ -1,0 +1,28 @@
+{
+ "slug": "pasta-zara",
+ "company": "Pasta Zara",
+ "first_name": "Beatrice",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pasta Zara produce pasta con sede a Riese Pio X dal 1965 e stabilimenti nel Nord Italia, distribuita in 108 paesi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Pasta Zara.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pasta Zara.",
+ "evidence": [
+  {
+   "claim": "Pasta Zara produce pasta con sede a Riese Pio X dal 1965 e stabilimenti nel Nord Italia, distribuita in 108 paesi nel mondo.",
+   "url": "https://pastazara.it/pages/storia",
+   "quote": "La fine degli anni 90 e l'inizio del 2000 vide l'apertura di altri stabilimenti nel Nord Italia e la distribuzione di pasta in 108 paesi nel mondo || Nel 1965 la sede pincipale si spostò a Riese Pio X"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

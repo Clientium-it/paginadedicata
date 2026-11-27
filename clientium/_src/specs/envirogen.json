@@ -1,0 +1,28 @@
+{
+ "slug": "envirogen",
+ "company": "Envirogen Group",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Envirogen da oltre 50 anni aiuta clienti di food & beverage, sanità e industria con il trattamento delle acque e la filtrazione di processo. Qui trova come lavoriamo e cosa potremmo fare per Envirogen Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Envirogen Group.",
+ "evidence": [
+  {
+   "claim": "Envirogen da oltre 50 anni aiuta clienti di food & beverage, sanità e industria con il trattamento delle acque e la filtrazione di processo.",
+   "url": "https://www.envirogengroup.com/about-industrial-water-treatment/",
+   "quote": "For over 50 years, we have been helping our food and beverage, healthcare and industrial water treatment clients solve their complex water processing and process filtration challenges. || UK Office Envirogen Group Unit 9, Wimsey Way Alfreton Trading Estate Alfreton Derbyshire DE55 4LS Tel: +44 (0)1773 441029 || including automotive and aerospace manufacturers, power and energy suppliers and chemical and petrochemical processors."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

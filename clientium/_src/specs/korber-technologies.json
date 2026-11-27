@@ -1,0 +1,28 @@
+{
+ "slug": "korber-technologies",
+ "company": "Körber Technologies",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Körber Technologies fornisce soluzioni di automazione e logistica su misura per settori come automotive, largo consumo, commercio elettronico, alimentare e farmaceutico. Qui trova come lavoriamo e cosa potremmo fare per Körber Technologies.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Körber Technologies.",
+ "evidence": [
+  {
+   "claim": "Körber Technologies fornisce soluzioni di automazione e logistica su misura per settori come automotive, largo consumo, commercio elettronico, alimentare e farmaceutico.",
+   "url": "https://www.koerber.com/de",
+   "quote": "Wir liefern maßgeschneiderte Automatisierungs- und Logistiklösungen für etablierte als auch aufstrebende Branchen. || Automotive Konsumgüter E-Commerce & Einzelhandel Lebensmittel & Getränke Nikotin Paket & Post Pharma & Life Sciences Logistikdienstleister (3PL)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "honda-motor-europe-logistics-nv",
+ "company": "Honda Motor Europe Logistics NV",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Honda Motor Europe Logistics si occupa della distribuzione di auto, moto, prodotti power e motori industriali dalle sedi di Gent, Aalst e sei filiali europee. Qui trova come lavoriamo e cosa potremmo fare per Honda Motor Europe Logistics NV.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Honda Motor Europe Logistics NV.",
+ "evidence": [
+  {
+   "claim": "Honda Motor Europe Logistics si occupa della distribuzione di auto, moto, prodotti power e motori industriali dalle sedi di Gent, Aalst e sei filiali europee.",
+   "url": "https://hondamotoreuropelogistics.com/",
+   "quote": "Honda Motor Europe Logistics zorgt voor de distributie van wagens, motorfietsen, power producten en industriële motoren. || Dit doen we vanuit onze vestigingen te Gent, Aalst en onze 6 Europese branches."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

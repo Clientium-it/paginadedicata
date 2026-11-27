@@ -1,0 +1,28 @@
+{
+ "slug": "automator-marking-systems",
+ "company": "Automator Marking Systems",
+ "first_name": "Luciano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Automator Marking Systems offre soluzioni di marcatura industriale per l'identificazione, la tracciabilità e la codifica di prodotti e componenti. Qui trova come lavoriamo e cosa potremmo fare per Automator Marking Systems.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Automator Marking Systems.",
+ "evidence": [
+  {
+   "claim": "Automator Marking Systems offre soluzioni di marcatura industriale per l'identificazione, la tracciabilità e la codifica di prodotti e componenti.",
+   "url": "https://www.automator.com/en/",
+   "quote": "Automator Marking Systems offers a broad portfolio of industrial marking solutions, covering a wide range of applications, including: Product identification and traceability Part marking and coding Data matrix and barcode marking Logo marking and branding Regulatory and compliance marking || Automator Marking Systems S.r.l. Via Meucci 8, 20094 Corsico (MI) Italy VAT: 12593300960 Phone: + 39 02 48601445 Mail: info@automator.com"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

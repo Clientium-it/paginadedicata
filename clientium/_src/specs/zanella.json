@@ -1,0 +1,28 @@
+{
+ "slug": "zanella",
+ "company": "Zanella sas",
+ "first_name": "Franco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Zanella confeziona pantaloni sartoriali da uomo dal 1954. Qui trova come lavoriamo e cosa potremmo fare per Zanella sas.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Zanella sas.",
+ "evidence": [
+  {
+   "claim": "Zanella confeziona pantaloni sartoriali da uomo dal 1954.",
+   "url": "https://zanella.com/",
+   "quote": "Zanella | Tailored Trousers for Men since 1954 | Skip to content"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

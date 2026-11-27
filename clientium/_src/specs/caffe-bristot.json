@@ -1,0 +1,28 @@
+{
+ "slug": "caffe-bristot",
+ "company": "Caffè Bristot",
+ "first_name": "Lisa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Caffè Bristot nasce più di cento anni fa ai piedi delle Dolomiti intorno alla passione per il caffè. Qui trova come lavoriamo e cosa potremmo fare per Caffè Bristot.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Caffè Bristot.",
+ "evidence": [
+  {
+   "claim": "Caffè Bristot nasce più di cento anni fa ai piedi delle Dolomiti intorno alla passione per il caffè.",
+   "url": "https://www.caffebristot.com/",
+   "quote": "Caffè Bristot siamo una comunità nata più di cento anni fa ai piedi delle Dolomiti intorno a un’unica passione, quella per il caffè."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

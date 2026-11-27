@@ -1,0 +1,28 @@
+{
+ "slug": "margherita-2",
+ "company": "Margherita",
+ "first_name": "Leonardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Margherita produce 370.000 pizze al giorno in cinque stabilimenti tra le province di Treviso e Venezia per hotel, ristoranti e catering. Qui trova come lavoriamo e cosa potremmo fare per Margherita.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Margherita.",
+ "evidence": [
+  {
+   "claim": "Margherita produce 370.000 pizze al giorno in cinque stabilimenti tra le province di Treviso e Venezia per hotel, ristoranti e catering.",
+   "url": "https://www.margheritagroup.com/azienda/",
+   "quote": "5 stabilimenti 11 linee di produzione 370.000 pizze al giorno || I nostri cinque stabilimenti produttivi sono organizzati in due poli produttivi in provincia di Treviso e di Venezia. || clienti che operano nel settore della ristorazione come hotel, ristoranti, B&B, bar, panetterie, imprese di catering"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

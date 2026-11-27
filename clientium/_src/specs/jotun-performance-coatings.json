@@ -1,0 +1,28 @@
+{
+ "slug": "jotun-performance-coatings",
+ "company": "Jotun Performance Coatings",
+ "first_name": "Giulia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Jotun opera in oltre 100 paesi su tutti i continenti con vernici decorative, marine, protettive e in polvere. Qui trova come lavoriamo e cosa potremmo fare per Jotun Performance Coatings.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Jotun Performance Coatings.",
+ "evidence": [
+  {
+   "claim": "Jotun opera in oltre 100 paesi su tutti i continenti con vernici decorative, marine, protettive e in polvere.",
+   "url": "https://www.jotun.com/de-en/about-jotun/what-we-do",
+   "quote": "Jotun operates in four segments: Decorative Paints, Marine Coatings, Protective Coatings, and Powder Coatings. || With a presence in over 100 countries on all continents, Jotun is a true global player. || Paint for your home Shipping and yachting Energy Architecture and design Infrastructure Light industry"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

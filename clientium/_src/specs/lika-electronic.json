@@ -1,0 +1,28 @@
+{
+ "slug": "lika-electronic",
+ "company": "Lika Electronic",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lika Electronic dal 1982 produce encoder rotativi, sensori e sistemi di misura magnetici, con il 60% del fatturato esportato in più di 50 paesi. Qui trova come lavoriamo e cosa potremmo fare per Lika Electronic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lika Electronic.",
+ "evidence": [
+  {
+   "claim": "Lika Electronic dal 1982 produce encoder rotativi, sensori e sistemi di misura magnetici, con il 60% del fatturato esportato in più di 50 paesi.",
+   "url": "https://www.lika.it/ita/azienda/mission",
+   "quote": "Sin dalla sua fondazione nel 1982, Lika Electronic sviluppa e produce encoder rotativi incrementali e assoluti, ottici e magnetici, sensori e sistemi di misura magnetici lineari e rotativi sia incrementali che assoluti, attuatori rotativi || Attualmente la quota delle esportazioni di Lika Electronic raggiunge il 60% del fatturato in più di 50 paesi."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

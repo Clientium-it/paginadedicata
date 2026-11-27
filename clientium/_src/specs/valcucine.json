@@ -1,0 +1,28 @@
+{
+ "slug": "valcucine",
+ "company": "Valcucine",
+ "first_name": "Alessandra",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Valcucine dal 1980 progetta cucine ed è presente in oltre 285 showroom nel mondo, tra cui 30 Atelier. Qui trova come lavoriamo e cosa potremmo fare per Valcucine.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Valcucine.",
+ "evidence": [
+  {
+   "claim": "Valcucine dal 1980 progetta cucine ed è presente in oltre 285 showroom nel mondo, tra cui 30 Atelier.",
+   "url": "https://www.valcucine.com/azienda/",
+   "quote": "Dal 1980 Valcucine innova il modo di vivere e progettare la cucina. || Oggi Valcucine è presente in oltre 285 showroom nel mondo, tra cui 30 Atelier, distribuiti in Europa, Stati Uniti, Medio Oriente, India, Sud-Est asiatico e Sudafrica."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

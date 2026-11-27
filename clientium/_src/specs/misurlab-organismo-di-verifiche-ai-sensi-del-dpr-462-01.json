@@ -1,0 +1,28 @@
+{
+ "slug": "misurlab-organismo-di-verifiche-ai-sensi-del-dpr-462-01",
+ "company": "MISURLAB S.R.L.-ORGANISMO DI VERIFICHE AI SENSI DEL DPR 462/01",
+ "first_name": "Gian Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Misurlab da circa 15 anni affianca clienti pubblici e privati con verifiche progettuali, monitoraggio tecnico e certificazione nei settori energia, infrastrutture e ambiente. Qui trova come lavoriamo e cosa potremmo fare per MISURLAB S.R.L.-ORGANISMO DI VERIFICHE AI SENSI DEL DPR 462/01.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MISURLAB S.R.L.-ORGANISMO DI VERIFICHE AI SENSI DEL DPR 462/01.",
+ "evidence": [
+  {
+   "claim": "Misurlab da circa 15 anni affianca clienti pubblici e privati con verifiche progettuali, monitoraggio tecnico e certificazione nei settori energia, infrastrutture e ambiente.",
+   "url": "https://misurlab.it/chi-siamo/",
+   "quote": "Abbiamo iniziato la nostra attività circa 15 anni fa e da allora abbiamo supportato passo dopo passo centinaia di clienti pubblici e privati nelle attività di verifica progettuale, monitoraggio tecnico dell'implementazione e certificazione. || Operiamo principalmente nei settori Energia, Infrastrutture e Ambiente supportando imprese e pubbliche amministrazioni su tutto il territorio nazionale. || Operiamo in tutta Italia per imprese e Pubbliche Amministrazioni."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

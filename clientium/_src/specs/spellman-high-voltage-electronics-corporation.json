@@ -1,0 +1,28 @@
+{
+ "slug": "spellman-high-voltage-electronics-corporation",
+ "company": "Spellman High Voltage Electronics Corporation",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Spellman produce alimentatori ad alta tensione e generatori a raggi X per settori come l'imaging medicale, il semiconduttore e il controllo di sicurezza. Qui trova come lavoriamo e cosa potremmo fare per Spellman High Voltage Electronics Corporation.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Spellman High Voltage Electronics Corporation.",
+ "evidence": [
+  {
+   "claim": "Spellman produce alimentatori ad alta tensione e generatori a raggi X per settori come l'imaging medicale, il semiconduttore e il controllo di sicurezza.",
+   "url": "https://spellmanhv.com/",
+   "quote": "High Voltage Power Supplies, X-Ray Generator and Monoblock® X-Ray Source Manufacturer || Corporate Headquarters - NY Valhalla, NY Mexico Bochum, Germany United Kingdom Japan China Korea India || Medical Imaging Analytical Semiconductor Security Screening Inspection Undersea Power Research Industrial Process"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

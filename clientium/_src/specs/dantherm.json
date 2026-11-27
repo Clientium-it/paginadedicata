@@ -1,0 +1,28 @@
+{
+ "slug": "dantherm",
+ "company": "Dantherm Group",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dantherm fornisce soluzioni per il controllo del clima a industrie di tutto il mondo, dai data center ai cantieri fino ai magazzini. Qui trova come lavoriamo e cosa potremmo fare per Dantherm Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dantherm Group.",
+ "evidence": [
+  {
+   "claim": "Dantherm fornisce soluzioni per il controllo del clima a industrie di tutto il mondo, dai data center ai cantieri fino ai magazzini.",
+   "url": "https://www.danthermgroup.com/",
+   "quote": "Supplying industries around the world with climate solutions that set the standard for efficiency and effectiveness. || Agriculture Archives and preservation Automotive Camps and field hospitals Classic car storage Commercial buildings Construction Data centers and telecoms Emergency services Energy and renewables Events and festivals Food and beverage Heritage sites || Industrial, factories and production Leisure and recreation Military and aerospace Museums and galleries Pharmaceutical and scientific Rental companies Residential buildings Swimming pools Transport and logistics Warehouses and storage Water damage restoration Waterworks"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

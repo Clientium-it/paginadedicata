@@ -1,0 +1,28 @@
+{
+ "slug": "michelotto",
+ "company": "Michelotto Group",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Michelotto si occupa di ingegneria per il motorsport e lavorazioni di precisione a Padova dal 1969. Qui trova come lavoriamo e cosa potremmo fare per Michelotto Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Michelotto Group.",
+ "evidence": [
+  {
+   "claim": "Michelotto si occupa di ingegneria per il motorsport e lavorazioni di precisione a Padova dal 1969.",
+   "url": "https://michelotto.eu/",
+   "quote": "Michelotto — Motorsport Engineering & Precision Manufacturing | Padova, dal 1969 || Padova, dal 1969"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

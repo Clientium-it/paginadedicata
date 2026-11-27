@@ -1,0 +1,28 @@
+{
+ "slug": "bcf",
+ "company": "BCF",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "BCF lavora tubi e produce componentistica in lamiera per impianti di refrigerazione, riscaldamento e condizionamento, in provincia di Udine. Qui trova come lavoriamo e cosa potremmo fare per BCF.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BCF.",
+ "evidence": [
+  {
+   "claim": "BCF lavora tubi e produce componentistica in lamiera per impianti di refrigerazione, riscaldamento e condizionamento, in provincia di Udine.",
+   "url": "https://bcf-italia.com/",
+   "quote": "BCF è specializzata nella lavorazione di tubi per il settore HVAC-R, oltre che nella produzione di componentistica in lamiera. || BCF Italia SRL a Socio Unico Via J. Linussio, 13 – Zona industriale 33061 Rivignano-Teor (UD) Italy || Refrigerazione Soluzioni su misura per ogni esigenza del freddo industriale e commerciale. Riscaldamento Componenti ad alta efficienza per sistemi di riscaldamento di nuova generazione. Condizionamento Soluzioni componentistiche per il comfort climatico in ambito residenziale e industriale."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

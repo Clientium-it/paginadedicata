@@ -1,0 +1,28 @@
+{
+ "slug": "the-beauty-lab",
+ "company": "The Beauty LAb",
+ "first_name": "Rayssa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "The Beauty Lab propone workshop di cosmetica e aperitivi creativi per vivere qualcosa di diverso. Qui trova come lavoriamo e cosa potremmo fare per The Beauty LAb.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per The Beauty LAb.",
+ "evidence": [
+  {
+   "claim": "The Beauty Lab propone workshop di cosmetica e aperitivi creativi per vivere qualcosa di diverso.",
+   "url": "https://thebeautylabcosmeticworkshop.it/",
+   "quote": "Workshop di cosmetica e aperitivi creativi per vivere qualcosa di diverso, davvero."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

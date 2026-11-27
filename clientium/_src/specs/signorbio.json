@@ -1,0 +1,28 @@
+{
+ "slug": "signorbio",
+ "company": "SignorBIO",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SignorBIO offre stoviglie e pack in bagassa, legno e cartoncino, con oltre 300 prodotti a catalogo per la ristorazione. Qui trova come lavoriamo e cosa potremmo fare per SignorBIO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SignorBIO.",
+ "evidence": [
+  {
+   "claim": "SignorBIO offre stoviglie e pack in bagassa, legno e cartoncino, con oltre 300 prodotti a catalogo per la ristorazione.",
+   "url": "https://www.signorbio.com/",
+   "quote": "Stoviglie e pack in bagassa, legno e cartoncino. Oltre 300 prodotti a catalogo! || Sede Via Fratelli Bandiera, 18 46100 Mantova (MN) || Ristoranti Street food Bar Hotel Catering"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

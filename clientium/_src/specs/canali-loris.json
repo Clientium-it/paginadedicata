@@ -1,0 +1,28 @@
+{
+ "slug": "canali-loris",
+ "company": "Canali Loris",
+ "first_name": "Loris",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Canali realizza capi maschili sartoriali e leisure. Qui trova come lavoriamo e cosa potremmo fare per Canali Loris.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Canali Loris.",
+ "evidence": [
+  {
+   "claim": "Canali realizza capi maschili sartoriali e leisure.",
+   "url": "https://it.canali.com/chi-siamo",
+   "quote": "Canali è specializzata in capi di lusso maschili, sartoriali e leisure, e testimone di un’eleganza tipicamente italiana."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

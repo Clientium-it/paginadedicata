@@ -1,0 +1,28 @@
+{
+ "slug": "intercable-tools-2",
+ "company": "Intercable Tools",
+ "first_name": "Armin",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Intercable Tools sviluppa e produce utensili speciali isolati e idraulici per la distribuzione di energia, con sede a Brunico. Qui trova come lavoriamo e cosa potremmo fare per Intercable Tools.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Intercable Tools.",
+ "evidence": [
+  {
+   "claim": "Intercable Tools sviluppa e produce utensili speciali isolati e idraulici per la distribuzione di energia, con sede a Brunico.",
+   "url": "https://www.intercable.com/de/",
+   "quote": "Mit der Entwicklung und Produktion von isolierten, sowie hydraulischen Spezialwerkzeugen für die Energieverteilung, gilt das Unternehmen weltweit als Begriff für höchste Qualität und Zuverlässigkeit || Intercable Tools (Headquarter) Intercable Tools GmbH Rienzfeldstraße 21 39031 Bruneck, Italien Tel: +39 0474 067100"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

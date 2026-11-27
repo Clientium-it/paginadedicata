@@ -1,0 +1,28 @@
+{
+ "slug": "inim-electronics-2",
+ "company": "Inim Electronics",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Inim Electronics sviluppa da oltre 20 anni tecnologie Made in Italy per la protezione delle persone e degli edifici. Qui trova come lavoriamo e cosa potremmo fare per Inim Electronics.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Inim Electronics.",
+ "evidence": [
+  {
+   "claim": "Inim Electronics sviluppa da oltre 20 anni tecnologie Made in Italy per la protezione delle persone e degli edifici.",
+   "url": "https://www.inim.it/azienda/chi-siamo/",
+   "quote": "Da oltre 20 anni sviluppiamo tecnologie Made in Italy per la protezione delle persone e degli edifici || Sede legale in Monteprandone (AP) Via dei Lavoratori n. 10 63076 Frazione Centobuchi || Che tu sia un installatore, un progettista o un partner, siamo pronti ad affiancarti in ogni fase."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

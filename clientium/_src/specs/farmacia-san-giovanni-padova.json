@@ -1,0 +1,28 @@
+{
+ "slug": "farmacia-san-giovanni-padova",
+ "company": "Farmacia San Giovanni Padova",
+ "first_name": "Debora",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Farmacia San Giovanni opera dal 1978 sotto la direzione della sua titolare con un orientamento verso la medicina naturale e articoli sanitari e ortopedici. Qui trova come lavoriamo e cosa potremmo fare per Farmacia San Giovanni Padova.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Farmacia San Giovanni Padova.",
+ "evidence": [
+  {
+   "claim": "Farmacia San Giovanni opera dal 1978 sotto la direzione della sua titolare con un orientamento verso la medicina naturale e articoli sanitari e ortopedici.",
+   "url": "http://www.farmaciasangiovanni.pd.it/chi-siamo/",
+   "quote": "La FARMACIA SAN GIOVANNI dal 1978 è sotto la direzione della titolare, dr.ssa Laura Visco, che ha promosso nel corso di questi anni un particolare orientamento verso il mondo della medicina naturale || Nel 2004 è stato acquisito il negozio a fianco adibito a sanitaria, incrementando l'offerta di articoli sanitari ed ortopedici"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

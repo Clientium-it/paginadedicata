@@ -1,0 +1,28 @@
+{
+ "slug": "ondulkart-2",
+ "company": "Ondulkart",
+ "first_name": "Simone",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ondulkart è uno scatolificio e un'azienda cartotecnica con quattro sedi produttive a Cessalto, in provincia di Treviso, su oltre 50.000 mq. Qui trova come lavoriamo e cosa potremmo fare per Ondulkart.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ondulkart.",
+ "evidence": [
+  {
+   "claim": "Ondulkart è uno scatolificio e un'azienda cartotecnica con quattro sedi produttive a Cessalto, in provincia di Treviso, su oltre 50.000 mq.",
+   "url": "https://www.ondulkart.com/le-sedi/",
+   "quote": "Ondulkart è uno scatolificio e un’ azienda cartotecnica strutturata in quattro diverse sedi produttive situate a Cessalto (Treviso) || I quattro stabilimenti coprono complessivamente più di 50.000 mq, distribuiti tra produzione, magazzini e uffici."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

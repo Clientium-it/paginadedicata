@@ -1,0 +1,28 @@
+{
+ "slug": "la-triveneta-cavi-by-nexans",
+ "company": "La Triveneta Cavi by Nexans",
+ "first_name": "Alessia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "La Triveneta Cavi progetta e produce cavi a bassa e media tensione per edilizia, industria, infrastrutture ed energie rinnovabili, con 4 unità produttive. Qui trova come lavoriamo e cosa potremmo fare per La Triveneta Cavi by Nexans.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per La Triveneta Cavi by Nexans.",
+ "evidence": [
+  {
+   "claim": "La Triveneta Cavi progetta e produce cavi a bassa e media tensione per edilizia, industria, infrastrutture ed energie rinnovabili, con 4 unità produttive.",
+   "url": "https://latrivenetacavi.nexans.com/en/company.html",
+   "quote": "LTC by Nexans designs and manufactures low and medium voltage cables for construction, industry, infrastructure, renewable energy and advanced electrical systems. || 30 countries served by LTC 665 employees 4 production units || construction, industry, infrastructure, renewable energy and advanced electrical systems"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

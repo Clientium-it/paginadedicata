@@ -1,0 +1,28 @@
+{
+ "slug": "coges",
+ "company": "Coges",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Coges sviluppa da oltre 45 anni tecnologie di pagamento per il vending e il retail, con produzione in Italia e uffici in Europa. Qui trova come lavoriamo e cosa potremmo fare per Coges.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Coges.",
+ "evidence": [
+  {
+   "claim": "Coges sviluppa da oltre 45 anni tecnologie di pagamento per il vending e il retail, con produzione in Italia e uffici in Europa.",
+   "url": "https://coges.eu/about-coges/",
+   "quote": "we've been advancing payment technologies for vending and retail businesses for over 45 years || With a manufacturing site and commercial office in Italy, as well as representation and commercial offices in other EU countries, Coges continues to support businesses with tailored solutions across Europe. || Vending operators Offer the best payment method for each location—from cashless to card, cash, or mobile. Manage even large, mixed fleets easily with our IoT connectivity—this is where we excel. Coffee roasters & OCS operators Manage all your coffee machines effectively from one platform. Use real-time data to monitor, consumption, coffee quality and ensure contractual obligations are followed. HoReCa & retail Fast, reliable payment systems designed to streamline workflows and enhance client satisfaction. Perfect for hospitality and retail businesses looking for effective solutions."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

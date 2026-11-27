@@ -1,0 +1,28 @@
+{
+ "slug": "tomra-recycling",
+ "company": "TOMRA Recycling",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TOMRA Recycling trasforma il recupero delle risorse con la selezione avanzata di rifiuti e metalli, presente in oltre 100 paesi con più di 5.800 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per TOMRA Recycling.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TOMRA Recycling.",
+ "evidence": [
+  {
+   "claim": "TOMRA Recycling trasforma il recupero delle risorse con la selezione avanzata di rifiuti e metalli, presente in oltre 100 paesi con più di 5.800 dipendenti.",
+   "url": "https://www.tomra.com/about-tomra",
+   "quote": "Transforming resource recovery through advanced waste and metals sorting that turns waste into value. || Present in over 100 countries Over 5,800 employees globally"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

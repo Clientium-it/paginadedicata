@@ -1,0 +1,28 @@
+{
+ "slug": "bios-line-2",
+ "company": "Bios Line",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bios Line dal 1986 formula e distribuisce integratori alimentari, dispositivi medici e fitocosmesi per erboristerie, farmacie e parafarmacie. Qui trova come lavoriamo e cosa potremmo fare per Bios Line.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bios Line.",
+ "evidence": [
+  {
+   "claim": "Bios Line dal 1986 formula e distribuisce integratori alimentari, dispositivi medici e fitocosmesi per erboristerie, farmacie e parafarmacie.",
+   "url": "https://www.biosline.it/",
+   "quote": "OLTRE 30 LINEE Per la salute e il benessere delle persone. Dal 1986 Bios Line formula, realizza e distribuisce integratori alimentari , dispositivi medici e fitocosmesi avanzata per il benessere e la cura della persona. || Viale Finlandia, 4 35020 Ponte San Nicolò - Padova || Bios Line è presente nelle Erboristerie, Farmacie e Parafarmacie."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

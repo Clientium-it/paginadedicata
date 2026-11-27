@@ -1,0 +1,28 @@
+{
+ "slug": "ormet-3",
+ "company": "Ormet",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ormet da oltre 50 anni si occupa di sollevamento e manutenzione su autocarri e mezzi semoventi con 5 centri di assistenza. Qui trova come lavoriamo e cosa potremmo fare per Ormet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ormet.",
+ "evidence": [
+  {
+   "claim": "Ormet da oltre 50 anni si occupa di sollevamento e manutenzione su autocarri e mezzi semoventi con 5 centri di assistenza.",
+   "url": "https://www.ormet.it/azienda/chi-siamo/",
+   "quote": "Vantiamo oltre 50 anni di esperienza maturata nel mondo delle tecnologie del sollevamento e della manutenzione, applicata agli autocarri ed ai mezzi semoventi || Abbiamo 5 centri di assistenza per revisioni gru e autocarri e per qualsiasi tipo di riparazione || lavoriamo con aziende operanti nel settore dell’ edilizia , del trasporto, del noleggio e del riciclo"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

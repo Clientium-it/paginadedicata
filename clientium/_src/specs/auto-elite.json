@@ -1,0 +1,28 @@
+{
+ "slug": "auto-elite",
+ "company": "Auto elite",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Auto Elite rappresenta i marchi Stellantis ed EMC in Basilicata, con le sedi di Potenza e Villa D'Agri. Qui trova come lavoriamo e cosa potremmo fare per Auto elite.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Auto elite.",
+ "evidence": [
+  {
+   "claim": "Auto Elite rappresenta i marchi Stellantis ed EMC in Basilicata, con le sedi di Potenza e Villa D'Agri.",
+   "url": "https://www.autoelite.it/sedi/concessionaria-emc-e-officina-autorizzata-per-fiat-lancia-alfa-romeo-jeep-abarth-fiat-professional-in-villa-dagri/",
+   "quote": "Auto Elite SRL è un punto di riferimento per i brand Stellantis ed EMC in Basilicata. || Sede di Potenza Via Rifreddo 7, Potenza (PZ) 097154577 info@autoelite.it Contattaci! Sede di Villa D'Agri Via Nazionale 3, (PZ) 0975352250 info@autoelite.it"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

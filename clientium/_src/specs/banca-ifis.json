@@ -1,0 +1,28 @@
+{
+ "slug": "banca-ifis",
+ "company": "Banca Ifis",
+ "first_name": "Gabriele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Banca Ifis offre alle imprese factoring, supply chain finance, finanziamenti, leasing e noleggio. Qui trova come lavoriamo e cosa potremmo fare per Banca Ifis.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Banca Ifis.",
+ "evidence": [
+  {
+   "claim": "Banca Ifis offre alle imprese factoring, supply chain finance, finanziamenti, leasing e noleggio.",
+   "url": "https://www.bancaifis.it/",
+   "quote": "FACTORING & SUPPLY CHAIN​ Factoring - Crediti commerciali​ Factoring - Crediti fiscali​ Supply Chain Finance FINANZIAMENTI​ Finanziamenti a medio-lungo termine LEASING & NOLEGGIO​ Leasing Noleggio di Ifis Rental Services CORPORATE & INVESTMENT BANKING || LE SOCIETÀ DEL GRUPPO BANCA IFIS Banca Ifis Banca Credifarma Cap.Ital.Fin. Ifis Npl Investing Ifis Npl Servicing illimity Bank Ifis Rental Services Ifis Finance I.F.N. S.A. Ifis Finance Sp. z o.o. Fürstenberg SIM || Servizi per il Business Servizi per i Privati Chi Siamo Investor Relations Media Sostenibilità Imprese e Professionisti Farmacie Conto Deposito Conto Corrente Leasing"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "sim-italy",
+ "company": "SIM Spa Italy",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SIMEM dal 1963 progetta e produce mescolatori e impianti di betonaggio per il settore del calcestruzzo in 120 Paesi. Qui trova come lavoriamo e cosa potremmo fare per SIM Spa Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SIM Spa Italy.",
+ "evidence": [
+  {
+   "claim": "SIMEM dal 1963 progetta e produce mescolatori e impianti di betonaggio per il settore del calcestruzzo in 120 Paesi.",
+   "url": "https://simem.com/",
+   "quote": "Since 1963, SIMEM continues a storied history of designing, manufacturing, and supplying high-quality mixers, batch plants, and equipment solutions for the global concrete construction marketplace || 60 Years of activity 120 Countries 240 Personnel +5000 Equipment Produced"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

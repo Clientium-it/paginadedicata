@@ -1,0 +1,28 @@
+{
+ "slug": "geistlich-biomaterials-italia-komet",
+ "company": "GEISTLICH BIOMATERIALS ITALIA / KOMET",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Geistlich sviluppa, produce e distribuisce dispositivi medici per la rigenerazione di osso, cartilagine e tessuti, presente in oltre 110 regioni. Qui trova come lavoriamo e cosa potremmo fare per GEISTLICH BIOMATERIALS ITALIA / KOMET.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GEISTLICH BIOMATERIALS ITALIA / KOMET.",
+ "evidence": [
+  {
+   "claim": "Geistlich sviluppa, produce e distribuisce dispositivi medici per la rigenerazione di osso, cartilagine e tessuti, presente in oltre 110 regioni.",
+   "url": "https://www.geistlich.com/about-us",
+   "quote": "Geistlich develops, manufactures, and distributes cutting-edge medical devices for the regeneration of bone, cartilage, and tissue. || Find your local Geistlich sales partner in over 110 regions || Dental Professionals Dental Patients Orthopedic Professionals Orthopedic Patients Infectiology Professionals"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

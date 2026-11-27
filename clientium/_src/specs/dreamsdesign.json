@@ -1,0 +1,28 @@
+{
+ "slug": "dreamsdesign",
+ "company": "Dreamsdesign",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dreamsdesign progetta e produce da oltre 20 anni articoli ad alta tecnologia per l'hobbistica specializzata e riduttori di pressione per la carbonatazione dell'acqua. Qui trova come lavoriamo e cosa potremmo fare per Dreamsdesign.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dreamsdesign.",
+ "evidence": [
+  {
+   "claim": "Dreamsdesign progetta e produce da oltre 20 anni articoli ad alta tecnologia per l'hobbistica specializzata e riduttori di pressione per la carbonatazione dell'acqua.",
+   "url": "https://dreamsdesign.it/azienda/",
+   "quote": "ha maturato una solida esperienza nella progettazione e produzione di articoli ad alta tecnologia per il settore dell’hobbistica specializzata || Dreamsdesign unisce la creatività dei suoi migliori tecnici e designer a un’esperienza di oltre 20 anni || I principali produttori mondiali di sistemi di refrigerazione e carbonatazione dell’acqua scelgono i riduttori di pressione Dreamsdesign"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

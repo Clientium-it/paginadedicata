@@ -1,0 +1,28 @@
+{
+ "slug": "cimolai",
+ "company": "Cimolai",
+ "first_name": "Anthony",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cimolai progetta, fornisce e monta strutture in acciaio complesse per ponti, stadi, energia e ambito navale, con sede a Porcia. Qui trova come lavoriamo e cosa potremmo fare per Cimolai.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cimolai.",
+ "evidence": [
+  {
+   "claim": "Cimolai progetta, fornisce e monta strutture in acciaio complesse per ponti, stadi, energia e ambito navale, con sede a Porcia.",
+   "url": "https://www.cimolai.com/en/company/about-us/",
+   "quote": "Cimolai operates internationally in the design, supply and assembly of complex steel structures, diversifying its activities in the fields of Civil Engineering , Industrial , Military and Aerospace , as well as in the Energy , Maritime and Offshore sectors. || Headquarters Corso Lino Zanussi, 26 33080 Porcia (PN) Italy || Bridges and Viaducts Stadiums and Arenas Buildings Energy Maritime and Offshore Telescopes Defence"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}
