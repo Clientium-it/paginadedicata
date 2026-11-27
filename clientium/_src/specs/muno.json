@@ -1,0 +1,28 @@
+{
+ "slug": "muno",
+ "company": "MUNO",
+ "first_name": "Xavier",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Muno affianca le concerie con soluzioni chimiche a basso impatto per produrre pellami in modo più sostenibile, da Paderno Dugnano. Qui trova come lavoriamo e cosa potremmo fare per MUNO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MUNO.",
+ "evidence": [
+  {
+   "claim": "Muno affianca le concerie con soluzioni chimiche a basso impatto per produrre pellami in modo più sostenibile, da Paderno Dugnano.",
+   "url": "https://www.munocorp.com/",
+   "quote": "we support tanners with low-impact chemical solutions to help them meet growing demand for sustainably produced leathers || Muno Holdings Srl Via Alessandro Manzoni, 37 Paderno Dugnano (MI) Italy, 20037"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

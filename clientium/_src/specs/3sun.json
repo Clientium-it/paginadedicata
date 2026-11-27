@@ -1,0 +1,28 @@
+{
+ "slug": "3sun",
+ "company": "3SUN",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "3SUN produce celle e moduli fotovoltaici nel suo stabilimento in Europa, con 3 GW di capacità produttiva, per progetti residenziali, commerciali e su larga scala. Qui trova come lavoriamo e cosa potremmo fare per 3SUN.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per 3SUN.",
+ "evidence": [
+  {
+   "claim": "3SUN produce celle e moduli fotovoltaici nel suo stabilimento in Europa, con 3 GW di capacità produttiva, per progetti residenziali, commerciali e su larga scala.",
+   "url": "https://www.3sun.com/",
+   "quote": "3SUN Gigafactory is Europe’s only facility for the production of photovoltaic cells and modules, distinguished by a high level of automation and advanced manufacturing processes that ensure quality, efficiency, and global competitiveness. || 3 GW of installed production capacity || commercial and industrial (C&I) projects, utility-scale installations, and residential applications"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

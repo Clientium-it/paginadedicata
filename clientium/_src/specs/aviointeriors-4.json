@@ -1,0 +1,28 @@
+{
+ "slug": "aviointeriors-4",
+ "company": "Aviointeriors",
+ "first_name": "Alessandra",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Aviointeriors dal 1972 produce sedili per aerei con uno stabilimento di 67.000 metri quadri e 250 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per Aviointeriors.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aviointeriors.",
+ "evidence": [
+  {
+   "claim": "Aviointeriors dal 1972 produce sedili per aerei con uno stabilimento di 67.000 metri quadri e 250 dipendenti.",
+   "url": "https://aviointeriors.it/about/",
+   "quote": "Since 1972 we are one of the leading aircraft seat manufacturers in the world, and ambassador of Italian style in the aircraft cabin interiors. || 67.000 sqm of plant 250 employees"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

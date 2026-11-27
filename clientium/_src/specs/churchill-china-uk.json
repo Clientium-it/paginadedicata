@@ -1,0 +1,28 @@
+{
+ "slug": "churchill-china-uk",
+ "company": "Churchill China (UK) Ltd",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Churchill China produce ceramiche in Inghilterra dal 1795 per hotel ristoranti e caterer con oltre 800 distributori in più di 80 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Churchill China (UK) Ltd.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Churchill China (UK) Ltd.",
+ "evidence": [
+  {
+   "claim": "Churchill China produce ceramiche in Inghilterra dal 1795 per hotel ristoranti e caterer con oltre 800 distributori in più di 80 Paesi.",
+   "url": "https://www.churchill1795.com/en/about-us/",
+   "quote": "Established in 1795, Churchill have been manufacturing ceramics in Stoke-on-Trent, England for over 230 years || 3 International warehouses in Stoke, Rotterdam and Chicago. A network of over 800 distributors, in over 80 countries. || Sectors Hotels Buffet Contract Caterers Hot Counter Cafe Hot Beverage Restaurant"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

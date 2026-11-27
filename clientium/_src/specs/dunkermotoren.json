@@ -1,0 +1,28 @@
+{
+ "slug": "dunkermotoren",
+ "company": "Dunkermotoren",
+ "first_name": "Angelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dunkermotoren sviluppa soluzioni di azionamento per automazione, tecnologia medicale e logistica, con stabilimenti in Germania, Serbia, Cina e Repubblica Ceca. Qui trova come lavoriamo e cosa potremmo fare per Dunkermotoren.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dunkermotoren.",
+ "evidence": [
+  {
+   "claim": "Dunkermotoren sviluppa soluzioni di azionamento per automazione, tecnologia medicale e logistica, con stabilimenti in Germania, Serbia, Cina e Repubblica Ceca.",
+   "url": "https://www.dunkermotoren.com/",
+   "quote": "For decades, Dunkermotoren has been developing intelligent drive solutions that power innovation in automation, medical technology, logistics and beyond. || Production Facilities Bonndorf, Germany Subotica, Serbia Changzhou, China Náchod, Czech Republic || We take pride in being a leader in diverse industries like industrial automation, building automation, laboratory and medical technology, and motive applications."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

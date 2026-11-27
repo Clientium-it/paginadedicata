@@ -1,0 +1,28 @@
+{
+ "slug": "pastificio-di-martino",
+ "company": "Pastificio Di Martino",
+ "first_name": "Sofia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pastificio Di Martino produce pasta trafilata al bronzo dal 1912 e la porta dall'Italia in più di 36 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Pastificio Di Martino.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pastificio Di Martino.",
+ "evidence": [
+  {
+   "claim": "Pastificio Di Martino produce pasta trafilata al bronzo dal 1912 e la porta dall'Italia in più di 36 Paesi.",
+   "url": "https://www.pastadimartino.it/pages/chi-siamo",
+   "quote": "trafilata al bronzo ed essiccata lentamente a bassa temperatura, lavorata con sapienza dal 1912 in un territorio unico al mondo || la Pasta Di Martino arriva dall'Italia in più di 36 Paesi ed è la protagonista dei nostri Pasta Store e Pasta Bar"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

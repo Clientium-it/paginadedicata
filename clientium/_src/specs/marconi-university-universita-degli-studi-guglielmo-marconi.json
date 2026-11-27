@@ -1,0 +1,28 @@
+{
+ "slug": "marconi-university-universita-degli-studi-guglielmo-marconi",
+ "company": "Marconi University (Università degli Studi Guglielmo Marconi)",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Università Marconi dal 2004 propone un modello di didattica online ed è riconosciuta dal MUR con la sede centrale nel quartiere Prati di Roma. Qui trova come lavoriamo e cosa potremmo fare per Marconi University (Università degli Studi Guglielmo Marconi).",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Marconi University (Università degli Studi Guglielmo Marconi).",
+ "evidence": [
+  {
+   "claim": "Università Marconi dal 2004 propone un modello di didattica online ed è riconosciuta dal MUR con la sede centrale nel quartiere Prati di Roma.",
+   "url": "https://www.unimarconi.it/chi-siamo/",
+   "quote": "L'Università degli Studi Guglielmo Marconi, istituita e riconosciuta dal MUR nel 2004, è stato il primo Ateneo nel panorama accademico nazionale a proporre ai propri studenti un modello di didattica online || La sede centrale dell'Università degli Studi Guglielmo Marconi si sviluppa nel quartiere Prati di Roma e comprende tre sedi distinte."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

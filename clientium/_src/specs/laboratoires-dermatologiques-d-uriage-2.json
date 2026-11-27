@@ -1,0 +1,28 @@
+{
+ "slug": "laboratoires-dermatologiques-d-uriage-2",
+ "company": "Laboratoires Dermatologiques d'Uriage",
+ "first_name": "Cristina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Uriage ha uno stabilimento riconosciuto dal SSN per il trattamento delle dermatosi infiammatorie e pruriginose di bambini e adulti, come psoriasi ed eczema. Qui trova come lavoriamo e cosa potremmo fare per Laboratoires Dermatologiques d'Uriage.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Laboratoires Dermatologiques d'Uriage.",
+ "evidence": [
+  {
+   "claim": "Uriage ha uno stabilimento riconosciuto dal SSN per il trattamento delle dermatosi infiammatorie e pruriginose di bambini e adulti, come psoriasi ed eczema.",
+   "url": "https://uriage.com/IT/it",
+   "quote": "Lo stabilimento è riconosciuto dal SSN e specializzato nel trattamento di tutti i tipi di dermatosi infiammatorie e pruriginose del bambino e dell'adulto: psoriasi, eczema, prurito, atopia…"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

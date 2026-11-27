@@ -1,0 +1,28 @@
+{
+ "slug": "ometec",
+ "company": "OMETEC",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OMETEC dal 2006 progetta e costruisce stampi e si occupa di stampaggio plastico per l'automotive, l'energy management e il packaging, da Sora. Qui trova come lavoriamo e cosa potremmo fare per OMETEC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OMETEC.",
+ "evidence": [
+  {
+   "claim": "OMETEC dal 2006 progetta e costruisce stampi e si occupa di stampaggio plastico per l'automotive, l'energy management e il packaging, da Sora.",
+   "url": "https://www.ometec.it/",
+   "quote": "OMETEC nasce nel 2006 da una partnership vincente tra aziende ultratrentennali operanti nel settore della progettazione e costruzione stampi e nello stampaggio plastico || OMETEC SRL Via Felci, snc 03039 Sora (FR) Italy || le aziende che operano nei settori dell’automotive, energy management e packaging"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

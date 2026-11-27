@@ -1,0 +1,28 @@
+{
+ "slug": "wycon-cosmetics-2",
+ "company": "WYCON cosmetics",
+ "first_name": "Ilaria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "WYCON nasce nel 2009 nel make-up e ha negozi in centri storici, centri commerciali e vie principali, in Italia e all'estero. Qui trova come lavoriamo e cosa potremmo fare per WYCON cosmetics.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per WYCON cosmetics.",
+ "evidence": [
+  {
+   "claim": "WYCON nasce nel 2009 nel make-up e ha negozi in centri storici, centri commerciali e vie principali, in Italia e all'estero.",
+   "url": "https://www.wyconcosmetics.com/de-de/pages/apri-il-tuo-negozio",
+   "quote": "WYCON wurde im 2009 mit dem Ziel gegründet, make-up zu einem Mittel persönlicher Ausdruckskraft zu machen, das zugänglich, zeitgemäß und ständig im Wandel ist || Unsere Geschäfte befinden sich an strategisch günstigen, gut sichtbaren Standorten: in historischen Zentren, Einkaufszentren, Hauptstraßen und stark frequentierten Fußgängerzonen, sowohl in Italien als auch im Ausland."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

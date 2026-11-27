@@ -1,0 +1,28 @@
+{
+ "slug": "faam",
+ "company": "FAAM",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FAAM recupera batterie a fine vita e lavora il piombo a Calitri in provincia di Avellino tramite la controllata Repiombo. Qui trova come lavoriamo e cosa potremmo fare per FAAM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FAAM.",
+ "evidence": [
+  {
+   "claim": "FAAM recupera batterie a fine vita e lavora il piombo a Calitri in provincia di Avellino tramite la controllata Repiombo.",
+   "url": "https://faam.com/plant/",
+   "quote": "Calitri (Avellino, Italia) Tramite la controllata Repiombo - area coperta di 8.000mq e aree esterne di 20.000mq. Recupero di batterie a fine vita e metallurgia del piombo. || Calitri (Avellino, Italia) Tramite la controllata Repiombo - area coperta di 8.000mq e aree esterne di 20.000mq."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

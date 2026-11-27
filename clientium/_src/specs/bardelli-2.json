@@ -1,0 +1,28 @@
+{
+ "slug": "bardelli-2",
+ "company": "Gruppo Bardelli",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gruppo Bardelli produce e commercializza piastrelle in gres porcellanato e mosaico in ceramica per interni ed esterni con due stabilimenti a Cerrione e Oderzo. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Bardelli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Bardelli.",
+ "evidence": [
+  {
+   "claim": "Gruppo Bardelli produce e commercializza piastrelle in gres porcellanato e mosaico in ceramica per interni ed esterni con due stabilimenti a Cerrione e Oderzo.",
+   "url": "https://www.gruppobardelli.com/pages/chi-siamo",
+   "quote": "Gruppo Industriale italiano specializzato nella produzione e commercializzazione di piastrelle in gres porcellanato e mosaico in ceramica per architettura di interni ed esterni. || I due stabilimenti produttivi si trovano in Italia, a Cerrione, in provincia di Biella, e a Oderzo, in provincia di Treviso."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

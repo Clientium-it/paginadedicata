@@ -1,0 +1,28 @@
+{
+ "slug": "exeltis-italia",
+ "company": "Exeltis Italia",
+ "first_name": "Ruggero",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "La filiale italiana di Exeltis nasce nel 2017 e commercializza farmaci, medical devices e integratori per la salute delle donne in tutta Italia. Qui trova come lavoriamo e cosa potremmo fare per Exeltis Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Exeltis Italia.",
+ "evidence": [
+  {
+   "claim": "La filiale italiana di Exeltis nasce nel 2017 e commercializza farmaci, medical devices e integratori per la salute delle donne in tutta Italia.",
+   "url": "https://exeltis.it/chisiamo/",
+   "quote": "La filiale italiana di Exeltis nasce nel 2017, nel 2019 commercializza già più di 10 prodotti (farmaci, medical devices, integratori) su tutto il territorio nazionale con l’obiettivo di migliorare la salute delle donne || opera attraverso una rete di oltre 40 filiali, impiegando quasi 4.000 professionisti in oltre 40 paesi || rispondere agli unmets-needs di pazienti, care giveers ed operatori sanitari"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

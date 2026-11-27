@@ -1,0 +1,28 @@
+{
+ "slug": "himalaya",
+ "company": "HIMALAYA",
+ "first_name": "Pasquale",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Himalaya dal 1989 porta nelle erboristerie, farmacie e centri benessere prodotti naturali provenienti da paesi come India, Cina, Marocco, Italia e Inghilterra. Qui trova come lavoriamo e cosa potremmo fare per HIMALAYA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per HIMALAYA.",
+ "evidence": [
+  {
+   "claim": "Himalaya dal 1989 porta nelle erboristerie, farmacie e centri benessere prodotti naturali provenienti da paesi come India, Cina, Marocco, Italia e Inghilterra.",
+   "url": "https://himalaya.it/pages/chi-siamo",
+   "quote": "Dal 1989 Himalaya porta nelle erboristerie, farmacie e centri benessere prodotti naturali ricchi di tradizione e cultura. || con prodotti provenienti da paesi come India, Cina, Marocco, Italia, Inghilterra e molti altri || porta nelle erboristerie, farmacie e centri benessere prodotti naturali ricchi di tradizione e cultura"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

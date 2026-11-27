@@ -1,0 +1,28 @@
+{
+ "slug": "euroflex",
+ "company": "Euroflex",
+ "first_name": "Valentina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Euroflex produce tubi, profilati, nastri e lamiere su due stabilimenti con una capacità di 100.000 tonnellate. Qui trova come lavoriamo e cosa potremmo fare per Euroflex.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Euroflex.",
+ "evidence": [
+  {
+   "claim": "Euroflex produce tubi, profilati, nastri e lamiere su due stabilimenti con una capacità di 100.000 tonnellate.",
+   "url": "https://www.euroflexspa.it/it/home/",
+   "quote": "Euroflex S.p.A. produzione di tubi e tubolari, profilati aperti, nastri e lamiere || ha una capacità produttiva di 100.000 tonnellate e si estende su una superficie complessiva di 55.000 m2 (di cui 24.000 coperti), ripartiti su due stabilimenti || Ponteggi per edilizia Carpenteria Segnaletica Stradale Serre per agricoltura Mobilio Fotovoltaico Scaffalature Grigliato elettrofuso"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

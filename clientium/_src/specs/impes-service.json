@@ -1,0 +1,28 @@
+{
+ "slug": "impes-service",
+ "company": "Impes Service",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Impes Service realizza impianti elettrici e di automazione per oil & gas e siderurgia, con sede vicino Matera e filiali in Europa e Nord Africa. Qui trova come lavoriamo e cosa potremmo fare per Impes Service.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Impes Service.",
+ "evidence": [
+  {
+   "claim": "Impes Service realizza impianti elettrici e di automazione per oil & gas e siderurgia, con sede vicino Matera e filiali in Europa e Nord Africa.",
+   "url": "https://www.impesservice.it/",
+   "quote": "Gli specialisti degli impianti elettrici e di automazione in sistemi complessi. La Impes Service concentra esperienze quarantennali, know-how, professionalità e maestranze altamente qualificate. || La Impes Service SpA ha sede legale, amministrativa e operativa nell’area industriale di Ferrandina, vicino Matera (Basilicata). Ha filiali in Europa e Nord Africa e, grazie al suo network mondiale, è in grado di fornire servizi anche in altre nazioni. || Settore Oil & Gas Settore produzione e distribuzione elettricità Settore chimico farmaceutico Settore siderurgico cementiero"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "difa-cooper",
+ "company": "Difa Cooper",
+ "first_name": "Demetrio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Difa Cooper opera nel settore dermatologico dal 1959 con tecnologie brevettate, da Caronno Pertusella, in provincia di Varese, al fianco di medici, farmacisti e pazienti. Qui trova come lavoriamo e cosa potremmo fare per Difa Cooper.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Difa Cooper.",
+ "evidence": [
+  {
+   "claim": "Difa Cooper opera nel settore dermatologico dal 1959 con tecnologie brevettate, da Caronno Pertusella, in provincia di Varese, al fianco di medici, farmacisti e pazienti.",
+   "url": "https://difacooper.eu/",
+   "quote": "Operating in the dermatological sector since 1959 and with the know-how acquired over decades in national and international research we are able to provide unique and exclusive solutions thanks to our many patented technologies. || Via Milano, 160 21042 Caronno Pertusella (VA) - Italy || doctors, pharmacists and patients, enabling us to know and anticipate therapeutic needs"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

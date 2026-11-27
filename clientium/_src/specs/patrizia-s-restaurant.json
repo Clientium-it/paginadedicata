@@ -1,0 +1,28 @@
+{
+ "slug": "patrizia-s-restaurant",
+ "company": "Patrizia's Restaurant Group",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Patrizia's ha aperto il primo ristorante nel Bronx nel 1991 e oggi ha locali tra New York, il New Jersey, la Florida e Aruba. Qui trova come lavoriamo e cosa potremmo fare per Patrizia's Restaurant Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Patrizia's Restaurant Group.",
+ "evidence": [
+  {
+   "claim": "Patrizia's ha aperto il primo ristorante nel Bronx nel 1991 e oggi ha locali tra New York, il New Jersey, la Florida e Aruba.",
+   "url": "https://www.patrizias.com/about/",
+   "quote": "in 1991, they opened their first Patrizia's restaurant in the Bronx || locations in Williamsburg, Brooklyn, The Bronx, Staten Island, Long Island (Hicksville, Massapequa, Commack & Hauppauge), Sheepshead Bay, Manhattan, Maspeth Queens, Matawan & Red Bank, New Jersey & our always sunny locations in Fort Lauderdale, Deerfield Beach Florida & Aruba"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

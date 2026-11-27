@@ -1,0 +1,28 @@
+{
+ "slug": "farmaceutici-damor-2",
+ "company": "Farmaceutici Damor",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Farmaceutici Damor è un'azienda farmaceutica italiana fondata nel 1943 con un sito produttivo di oltre 16.000 mq a Napoli. Qui trova come lavoriamo e cosa potremmo fare per Farmaceutici Damor.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Farmaceutici Damor.",
+ "evidence": [
+  {
+   "claim": "Farmaceutici Damor è un'azienda farmaceutica italiana fondata nel 1943 con un sito produttivo di oltre 16.000 mq a Napoli.",
+   "url": "https://www.damorpharma.it/chi-siamo/",
+   "quote": "Farmaceutici Damor è una storica azienda farmaceutica italiana, fondata nel 1943 || Il Sito Produttivo di Farmaceutici Damor si trova a Napoli. Ha una dimensione di oltre 16.000 mq e garantisce i migliori standard di qualità di produzione."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "rigamonti-salumificio",
+ "company": "RIGAMONTI SALUMIFICIO",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rigamonti prepara bresaola dal 1913 e ha avviato altri due impianti, a Poggiridenti negli anni 70 e a Mazzo in Valtellina nel 1986. Qui trova come lavoriamo e cosa potremmo fare per RIGAMONTI SALUMIFICIO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RIGAMONTI SALUMIFICIO.",
+ "evidence": [
+  {
+   "claim": "Rigamonti prepara bresaola dal 1913 e ha avviato altri due impianti, a Poggiridenti negli anni 70 e a Mazzo in Valtellina nel 1986.",
+   "url": "https://www.rigamontisalumificio.it/chi-siamo/",
+   "quote": "era il 1913 quando Francesco Rigamonti decise di aprire un laboratorio con annessa macelleria-salumeria in cui seguendo i segreti delle antiche ricette tramandate a livello locale cominciò a preparare la bresaola || sono stati avviati altri due impianti, a Poggiridenti negli anni 70 e a Mazzo in Valtellina nel 1986"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

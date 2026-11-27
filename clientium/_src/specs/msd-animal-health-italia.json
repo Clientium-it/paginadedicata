@@ -1,0 +1,28 @@
+{
+ "slug": "msd-animal-health-italia",
+ "company": "MSD Animal Health Italia",
+ "first_name": "Chiara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MSD Animal Health è presente in 50 Paesi e in Italia ha un sito produttivo ad Aprilia, rivolgendosi a veterinari e allevatori. Qui trova come lavoriamo e cosa potremmo fare per MSD Animal Health Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MSD Animal Health Italia.",
+ "evidence": [
+  {
+   "claim": "MSD Animal Health è presente in 50 Paesi e in Italia ha un sito produttivo ad Aprilia, rivolgendosi a veterinari e allevatori.",
+   "url": "https://www.msd-animal-health.it/chi-siamo/",
+   "quote": "MSD Animal Health è presente in 50 Paesi e i suoi prodotti sono commercializzati in circa 150 mercati in tutto il mondo || In Italia, MSD Animal Health è presente a Milano con una filiale che conta oltre 50 dipendenti, sul territorio con una forza vendita composta da 71 professionisti e ad Aprilia con un sito produttivo che annovera oltre 92 dipendenti || Offriamo a Medici Veterinari, Allevatori e Pet Parent"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

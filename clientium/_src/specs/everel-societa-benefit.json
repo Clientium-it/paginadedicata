@@ -1,0 +1,28 @@
+{
+ "slug": "everel-societa-benefit",
+ "company": "Everel Group S.p.A. Società Benefit",
+ "first_name": "Ioan",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Everel produce componentistica elettronica ed elettromeccanica, 100 milioni di componenti ogni anno, per elettrodomestici, automotive, machinery e healthcare. Qui trova come lavoriamo e cosa potremmo fare per Everel Group S.p.A. Società Benefit.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Everel Group S.p.A. Società Benefit.",
+ "evidence": [
+  {
+   "claim": "Everel produce componentistica elettronica ed elettromeccanica, 100 milioni di componenti ogni anno, per elettrodomestici, automotive, machinery e healthcare.",
+   "url": "https://www.everelgroup.com/",
+   "quote": "Everel Group : componentistica elettronica ed elettromeccanica 100 milioni di componenti prodotti ogni anno || Everel Group S.p.A. Headquarters Via Cavour, 9 37067 - Valeggio sul Mincio (VR) Italia || Grandi elettrodomestici Piccoli elettrodomestici Riscaldamento ventilazione e air management Machinery Automotive Gardening & Outdoor Healthcare"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

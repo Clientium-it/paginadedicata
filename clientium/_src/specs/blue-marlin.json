@@ -1,0 +1,28 @@
+{
+ "slug": "blue-marlin",
+ "company": "BLUE MARLIN",
+ "first_name": "Pier Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Blue Marlin dal 1996 fa conoscere e valorizza la bottarga da Mogoro in Sardegna. Qui trova come lavoriamo e cosa potremmo fare per BLUE MARLIN.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BLUE MARLIN.",
+ "evidence": [
+  {
+   "claim": "Blue Marlin dal 1996 fa conoscere e valorizza la bottarga da Mogoro in Sardegna.",
+   "url": "https://bottarga.it/azienda/",
+   "quote": "Dal 1996 quando l’azienda è nata, a Mogoro in Sardegna, l’idea è stata una soltanto: far conoscere e valorizzare una delle specialità più appetitose della nostra isola, la bottarga. || Sede Legale e Operativa Via Is Carrelis 1, 09095 – Mogoro (OR) – Sardegna (IT)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

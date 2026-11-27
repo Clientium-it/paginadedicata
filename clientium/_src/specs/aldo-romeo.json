@@ -1,0 +1,28 @@
+{
+ "slug": "aldo-romeo",
+ "company": "Aldo Romeo",
+ "first_name": "Dimitri",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Aldo Romeo dal 1939 fornisce ricambi, accessori e attrezzature per officina in tutta Italia, nel primo impianto e nell'aftermarket. Qui trova come lavoriamo e cosa potremmo fare per Aldo Romeo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aldo Romeo.",
+ "evidence": [
+  {
+   "claim": "Aldo Romeo dal 1939 fornisce ricambi, accessori e attrezzature per officina in tutta Italia, nel primo impianto e nell'aftermarket.",
+   "url": "https://aldoromeospa.it/",
+   "quote": "Dal 1939, forniamo una vasta gamma di ricambi, accessori e attrezzature per officina, prodotti dalle principali aziende del settore, sia italiane che estere. Operiamo sia nel primo impianto (OE) che nell’aftermarket (IAM). || L’espansione territoriale continua, portando all’inaugurazione, negli ultimi dieci anni, di numerose filiali in tutta Italia: Catania, Bari, Padova, Cosenza, Pescara, Cagliari, Brescia fino a raggiungere, oggi, l’intera copertura nazionale. || Siamo orgogliosi di essere il partner di fiducia per tante officine e professionisti del settore automobilistico."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

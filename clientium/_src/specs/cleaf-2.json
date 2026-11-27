@@ -1,0 +1,28 @@
+{
+ "slug": "cleaf-2",
+ "company": "Cleaf",
+ "first_name": "Michela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cleaf sviluppa pannelli nobilitati, laminati e bordi nei propri siti produttivi in Brianza, installati in tutto il mondo da architetti e produttori di mobili. Qui trova come lavoriamo e cosa potremmo fare per Cleaf.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cleaf.",
+ "evidence": [
+  {
+   "claim": "Cleaf sviluppa pannelli nobilitati, laminati e bordi nei propri siti produttivi in Brianza, installati in tutto il mondo da architetti e produttori di mobili.",
+   "url": "https://cleaf.it/it/azienda/",
+   "quote": "Pannelli nobilitati, laminati, bordi interamente sviluppati all'interno dei siti produttivi in Brianza e installati in tutto il mondo da architetti e produttori di mobili per creare ambienti stimolanti in cui vivere. || Stabilimenti C1 Via Bottego 15 20851 Lissone MB Italia C3 Via delle Industrie 19/21 20851 Lissone MB Italia C4 Via San Giuseppe 3 20832 Desio MB Italia C5 Via delle Valli 1 20847 Albiate MB Italia || installati in tutto il mondo da architetti e produttori di mobili per creare ambienti stimolanti in cui vivere"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}
