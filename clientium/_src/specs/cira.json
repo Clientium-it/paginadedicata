@@ -1,0 +1,28 @@
+{
+ "slug": "cira",
+ "company": "CIRA",
+ "first_name": "Ciro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CIRA fa ricerca aeronautica e spaziale dal 1984 a Capua con impianti di prova usati da enti e industrie di tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per CIRA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CIRA.",
+ "evidence": [
+  {
+   "claim": "CIRA fa ricerca aeronautica e spaziale dal 1984 a Capua con impianti di prova usati da enti e industrie di tutto il mondo.",
+   "url": "https://www.cira.it/it/chi-siamo/",
+   "quote": "è una società a prevalente partecipazione pubblica costituita nel 1984 per svolgere attività di ricerca nelle discipline aeronautiche e spaziali. || Il Centro, che ha sede e strutture operative a Capua, in Campania, || impianti di prova unici al mondo e laboratori all'avanguardia utilizzati da enti e industrie di tutto il mondo"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

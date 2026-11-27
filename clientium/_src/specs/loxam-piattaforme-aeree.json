@@ -1,0 +1,28 @@
+{
+ "slug": "loxam-piattaforme-aeree",
+ "company": "Loxam Piattaforme Aeree",
+ "first_name": "Gabriele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Loxam noleggia piattaforme aeree con una flotta di 3.500 mezzi in 150 modelli e sedi in tutta Italia per costruzioni, industria, impianti ed eventi. Qui trova come lavoriamo e cosa potremmo fare per Loxam Piattaforme Aeree.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Loxam Piattaforme Aeree.",
+ "evidence": [
+  {
+   "claim": "Loxam noleggia piattaforme aeree con una flotta di 3.500 mezzi in 150 modelli e sedi in tutta Italia per costruzioni, industria, impianti ed eventi.",
+   "url": "https://www.loxam.it/",
+   "quote": "Una flotta di 3.500 mezzi in 150 diversi modelli ti assicura di noleggiare la piattaforma aerea più adatta. || Grazie alle nostre sedi presenti in tutta Italia ti offriamo un noleggio di piattaforme aeree rapido ed efficiente. || Settori Impianti tecnologici Costruzioni Industria Manutenzione del verde Eventi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

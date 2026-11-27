@@ -1,0 +1,28 @@
+{
+ "slug": "difar-distribuzione",
+ "company": "DIFAR DISTRIBUZIONE",
+ "first_name": "Franco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Difar distribuisce da oltre vent'anni nella filiera della salute, anche con prodotti a marchio proprio, da due sedi logistiche a Milazzo e Bastia Umbra. Qui trova come lavoriamo e cosa potremmo fare per DIFAR DISTRIBUZIONE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per DIFAR DISTRIBUZIONE.",
+ "evidence": [
+  {
+   "claim": "Difar distribuisce da oltre vent'anni nella filiera della salute, anche con prodotti a marchio proprio, da due sedi logistiche a Milazzo e Bastia Umbra.",
+   "url": "https://difar.it/",
+   "quote": "DIFAR È DISTRIBUTORE NAZIONALE IN FARMACIA E IN TUTTA LA FILIERA DELLA SALUTE DIFAR È RICERCA E SVILUPPO DI PRODOTTI A MARCHIO PROPRIO Oltre vent’anni di esperienza || Siamo dotati di due strutture logistiche (Milazzo e Bastia Umbra) che garantiscono un servizio logistico di eccellenza. || Offriamo un framework completo alle aziende italiane ed estere che desiderano distribuire i propri prodotti nella filiera della salute."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

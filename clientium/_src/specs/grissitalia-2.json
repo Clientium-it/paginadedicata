@@ -1,0 +1,28 @@
+{
+ "slug": "grissitalia-2",
+ "company": "GRISSITALIA",
+ "first_name": "Export",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Grissitalia produce circa 80.000 tonnellate annue di pane e grissini in 4 stabilimenti, per la GDO e il discount anche in private label. Qui trova come lavoriamo e cosa potremmo fare per GRISSITALIA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GRISSITALIA.",
+ "evidence": [
+  {
+   "claim": "Grissitalia produce circa 80.000 tonnellate annue di pane e grissini in 4 stabilimenti, per la GDO e il discount anche in private label.",
+   "url": "https://www.grissitalia.it/stabilimenti/",
+   "quote": "Il nostro gruppo opera nel comparto pane fresco e sostitutivi del pane con una produzione globale di circa 80.000 tonnellate annue e vantiamo 4 stabilimenti produttivi dotati delle più moderne tecnologie. || 57.000 tonnellate annue PANE MORBIDO ORICOLA (AQ) e ALESSANDRIA 9.000 tonnellate annue PANE FRESCO e PANGRATTATO PRATO SESIA (NO) 8.800 tonnellate annue GRISSINI ALESSANDRIA 10.800 tonnellate annue PANE SURGELATO MOMBERCELLI (AT) || Siamo presenti con i nostri marchi e con private label sia a livello di G.D.O. che canale discount."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

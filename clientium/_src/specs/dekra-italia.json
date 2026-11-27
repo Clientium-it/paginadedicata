@@ -1,0 +1,28 @@
+{
+ "slug": "dekra-italia",
+ "company": "DEKRA Italia",
+ "first_name": "Cristiana",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "DEKRA ha radici nell'automotive da oltre 100 anni e oggi offre certificazione e consulenza a energia, infrastrutture, digitale e servizi finanziari. Qui trova come lavoriamo e cosa potremmo fare per DEKRA Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per DEKRA Italia.",
+ "evidence": [
+  {
+   "claim": "DEKRA ha radici nell'automotive da oltre 100 anni e oggi offre certificazione e consulenza a energia, infrastrutture, digitale e servizi finanziari.",
+   "url": "https://www.dekra.it/it/mercati/",
+   "quote": "DEKRA supporta i principali settori industriali, tra cui automotive, energia, infrastrutture, tecnologie digitali e servizi finanziari, attraverso soluzioni strutturate di assurance, certificazione e consulenza. || Affondiamo le nostre radici nel settore automotive. Oltre 100 anni dopo, forniamo servizi indipendenti a tutti i principali settori industriali. || Non solo le organizzazioni che operano in settori regolamentati e critici per la sicurezza devono gestire simultaneamente conformità normativa, rischio operativo, esposizione alla cybersecurity e requisiti di sostenibilità."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

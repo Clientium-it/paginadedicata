@@ -1,0 +1,28 @@
+{
+ "slug": "aromitalia",
+ "company": "Aromitalia",
+ "first_name": "Moad",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Aromitalia da oltre 80 anni fa ingredienti per gelateria, pasticceria e bar per gelatieri di tutto il mondo con 16 filiali, di cui 6 produttive. Qui trova come lavoriamo e cosa potremmo fare per Aromitalia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aromitalia.",
+ "evidence": [
+  {
+   "claim": "Aromitalia da oltre 80 anni fa ingredienti per gelateria, pasticceria e bar per gelatieri di tutto il mondo con 16 filiali, di cui 6 produttive.",
+   "url": "https://www.aromitalia.it/la-nostra-storia",
+   "quote": "Aromitalia con i suoi ingredienti per gelato, da oltre 80 anni, suscita il rispetto e l’interesse dei gelatieri di tutto il mondo. || forte di 16 filiali nel mondo , di cui 6 produttive || Prodotti Gelateria Pasticceria Soft e Bar"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

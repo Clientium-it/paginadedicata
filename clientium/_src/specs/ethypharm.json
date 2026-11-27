@@ -1,0 +1,28 @@
+{
+ "slug": "ethypharm",
+ "company": "Ethypharm",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ethypharm produce farmaci per sistema nervoso centrale, dolore severo e dipendenze, con 6 siti produttivi tra Regno Unito, Francia, Spagna e Cina. Qui trova come lavoriamo e cosa potremmo fare per Ethypharm.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ethypharm.",
+ "evidence": [
+  {
+   "claim": "Ethypharm produce farmaci per sistema nervoso centrale, dolore severo e dipendenze, con 6 siti produttivi tra Regno Unito, Francia, Spagna e Cina.",
+   "url": "https://www.ethypharm.com/about-us/at-a-glance/",
+   "quote": "Ethypharm is a specialty pharmaceutical company providing essential medicines in Central Nervous System (CNS), specifically for severe pain and addiction, as well as in Internal Medicines. || 6 manufacturing sites in the UK, France (2) , Spain (2) & in China. || The Group also offers a wide range of injectable medicines for hospitals and emergency situations."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

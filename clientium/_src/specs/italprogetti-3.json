@@ -1,0 +1,28 @@
+{
+ "slug": "italprogetti-3",
+ "company": "Italprogetti",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Italprogetti produce botti in polipropilene e impianti di automazione per la conceria e realizza impianti di trattamento effluenti, con tre unità produttive tra cui San Romano. Qui trova come lavoriamo e cosa potremmo fare per Italprogetti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Italprogetti.",
+ "evidence": [
+  {
+   "claim": "Italprogetti produce botti in polipropilene e impianti di automazione per la conceria e realizza impianti di trattamento effluenti, con tre unità produttive tra cui San Romano.",
+   "url": "https://italprogetti.it/azienda/",
+   "quote": "affermandosi come azienda leader a livello mondiale principalmente nel settore della conceria, con la produzione di botti in polipropilene e di impianti di automazione, e con la progettazione e realizzazione di impianti di trattamento effluenti. || La produzione è distribuita su tre unità principali: Stabilimento storico di San Romano || L’insieme di questi valori ci permette di essere un punto fermo nel settore conciario, ambientale e oleario."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

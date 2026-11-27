@@ -1,0 +1,28 @@
+{
+ "slug": "giordano-c",
+ "company": "Giordano&C",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Giordano progetta e mette in servizio impianti tecnologici per l'industria e le rinnovabili, con quasi 200 dipendenti a Boves e filiali in Usa e Messico. Qui trova come lavoriamo e cosa potremmo fare per Giordano&C.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Giordano&C.",
+ "evidence": [
+  {
+   "claim": "Giordano progetta e mette in servizio impianti tecnologici per l'industria e le rinnovabili, con quasi 200 dipendenti a Boves e filiali in Usa e Messico.",
+   "url": "https://www.giordanocompany.it/",
+   "quote": "Su un'area di 10.000 metri quadrati a Boves, con 2 filiali operative estere in Usa e Messico e una filiale fiscale in UK , la Giordano&C , con un organico interno di quasi 200 dipendenti || Su un'area di 10.000 metri quadrati a Boves, con 2 filiali operative estere in Usa e Messico e una filiale fiscale in UK || Progettiamo, realizziamo e mettiamo in servizio impianti tecnologici complessi per l’industria e per il terziario avanzato e impianti di produzione di energia rinnovabile."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "geoside",
+ "company": "Geoside",
+ "first_name": "Laura",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Geoside offre soluzioni energetiche a imprese, condomini ed enti pubblici con oltre 3.000 clienti serviti e 700 condomini in gestione. Qui trova come lavoriamo e cosa potremmo fare per Geoside.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Geoside.",
+ "evidence": [
+  {
+   "claim": "Geoside offre soluzioni energetiche a imprese, condomini ed enti pubblici con oltre 3.000 clienti serviti e 700 condomini in gestione.",
+   "url": "https://www.geoside.com/it",
+   "quote": "Offriamo soluzioni energetiche innovative e sostenibili, su misura per ogni esigenza . Ci rivolgiamo a imprese, condomini ed enti pubblici per generare efficienza e risparmio . || + 3.000 Clienti serviti + 700 Condomini in gestione + 400 Interventi di efficientamento per le imprese || Ci rivolgiamo a imprese, condomini ed enti pubblici per generare efficienza e risparmio ."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "atitech-2",
+ "company": "Atitech",
+ "first_name": "Gioacchino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Atitech fa manutenzione aeronautica sulle basi di Napoli, Roma Fiumicino e Olbia con 12 hangar e oltre 100 clienti tra compagnie aeree ed enti. Qui trova come lavoriamo e cosa potremmo fare per Atitech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Atitech.",
+ "evidence": [
+  {
+   "claim": "Atitech fa manutenzione aeronautica sulle basi di Napoli, Roma Fiumicino e Olbia con 12 hangar e oltre 100 clienti tra compagnie aeree ed enti.",
+   "url": "https://www.atitech.it/it/chi-siamo/",
+   "quote": "Sulle tre basi di Napoli Capodichino, Roma Fiumicino ed Olbia l’azienda fornisce servizi altamente qualificati di manutenzione di base (heavy e light), riparazione di componenti, servizi di ingegneria e addestramento tecnico. || Oltre agli HUB principali di FCO, NAP ed Olbia Atitech è presente su 29 scali periferici , (20 in Italia e 9 all’estero), dove offre il proprio servizio di manutenzione di linea. || Con un totale di 12 hangar , Atitech vanta un parco clienti di oltre 100 aziende tra compagnie aeree, enti istituzionali e governativi."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

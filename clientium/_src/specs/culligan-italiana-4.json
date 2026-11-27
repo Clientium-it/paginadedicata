@@ -1,0 +1,28 @@
+{
+ "slug": "culligan-italiana-4",
+ "company": "Culligan Italiana",
+ "first_name": "Gabriele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Culligan da oltre 80 anni porta acqua da bere più buona a case, ristoranti, bar, mense e strutture ricettive con assistenza in tutta Italia. Qui trova come lavoriamo e cosa potremmo fare per Culligan Italiana.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Culligan Italiana.",
+ "evidence": [
+  {
+   "claim": "Culligan da oltre 80 anni porta acqua da bere più buona a case, ristoranti, bar, mense e strutture ricettive con assistenza in tutta Italia.",
+   "url": "https://www.culligan.it/casa/",
+   "quote": "Con oltre 80 anni di esperienza, siamo specializzati nel fornire acqua più buona e più sicura per tutte le esigenze domestiche. || Assistenza clienti in tutta Italia || Soluzioni personalizzate per l’acqua da bere per ristoranti, bar, mense, strutture ricettive."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

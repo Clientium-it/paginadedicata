@@ -1,0 +1,28 @@
+{
+ "slug": "immi",
+ "company": "IMMI",
+ "first_name": "Valeria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IMMI produce da oltre 60 anni soluzioni di sicurezza per camion, scuolabus e mezzi di soccorso, con sedi in Messico, Cina e Regno Unito. Qui trova come lavoriamo e cosa potremmo fare per IMMI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IMMI.",
+ "evidence": [
+  {
+   "claim": "IMMI produce da oltre 60 anni soluzioni di sicurezza per camion, scuolabus e mezzi di soccorso, con sedi in Messico, Cina e Regno Unito.",
+   "url": "https://www.imminet.com/",
+   "quote": "Celebrating over 60 Years as a global leader in safety, IMMI designs, engineers, manufactures, and markets the safety solutions of tomorrow || Headquarters Saltillo, Mexico Wuxi, China Morpeth, UK 18881 IMMI Way Westfield, IN 46074 || Industries Commercial Truck Fire EMS School Buses Powersports Tie-Downs Off-Highway Defense"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

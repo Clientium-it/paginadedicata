@@ -1,0 +1,28 @@
+{
+ "slug": "florim-ceramiche-3",
+ "company": "Florim Ceramiche",
+ "first_name": "Giacomo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Florim da oltre 60 anni crea superfici di alta gamma per architettura e interior design con fabbriche 4.0 a Mordano e Fiorano. Qui trova come lavoriamo e cosa potremmo fare per Florim Ceramiche.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Florim Ceramiche.",
+ "evidence": [
+  {
+   "claim": "Florim da oltre 60 anni crea superfici di alta gamma per architettura e interior design con fabbriche 4.0 a Mordano e Fiorano.",
+   "url": "https://www.florim.com:443/it/azienda/chi-siamo",
+   "quote": "Da oltre 60 anni, sotto la guida della Famiglia Lucchese , il saper fare italiano di Florim si esprime in superfici di alta gamma riconosciute nel mondo. || 2017 Entra in funzione la nuova fabbrica 4.0 a Mordano 2018 Entra in funzione la nuova fabbrica 4.0 a Fiorano || Diamo vita a un sistema completo per l’architettura e l’interior design , dove materia, spazio e arredo dialogano all’interno di un’unica visione."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

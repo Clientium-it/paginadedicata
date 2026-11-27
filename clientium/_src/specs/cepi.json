@@ -1,0 +1,28 @@
+{
+ "slug": "cepi",
+ "company": "Cepi",
+ "first_name": "Frida",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cepi da oltre 40 anni progetta e installa impianti per stoccaggio e dosaggio di solidi e liquidi per pasta, dolci, latticini e pet food. Qui trova come lavoriamo e cosa potremmo fare per Cepi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cepi.",
+ "evidence": [
+  {
+   "claim": "Cepi da oltre 40 anni progetta e installa impianti per stoccaggio e dosaggio di solidi e liquidi per pasta, dolci, latticini e pet food.",
+   "url": "https://www.cepisilos.com/chi-siamo/",
+   "quote": "Da oltre 40 anni progettiamo, costruiamo e installiamo impianti automatizzati e completamente personalizzati per lo stoccaggio, il trasporto e il dosaggio di solidi e liquidi || PANIFICAZIONE E BISCOTTERIA PASTICCERIA PASTA E CEREALI LATTICINI PREMIX ALIMENTI FUNZIONALI E PER L’INFANZIA PET FOOD BEVANDE"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "icon",
+ "company": "Icon",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Enesco fa parte del Gruppo ICON e con Forgea offre un servizio integrato sugli impianti a enti locali, aziende e privati. Qui trova come lavoriamo e cosa potremmo fare per Icon.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Icon.",
+ "evidence": [
+  {
+   "claim": "Enesco fa parte del Gruppo ICON e con Forgea offre un servizio integrato sugli impianti a enti locali, aziende e privati.",
+   "url": "https://enesco.it/societa-servizi-energetici/",
+   "quote": "Enesco fa parte del Gruppo ICON e opera in stretta sinergia con Forgea , società specializzata nell’installazione degli impianti e General Contractor, offrendo un servizio integrato a 360°. || Abbiamo maturato una consolidata esperienza nel settore della Pubblica Amministrazione e nel mercato privato, collaborando con competenza e affidabilità con enti locali, aziende e privati"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

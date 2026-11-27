@@ -1,0 +1,28 @@
+{
+ "slug": "ferretti-5",
+ "company": "Ferretti Group",
+ "first_name": "Filippo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ferretti realizza yacht di lusso per clienti in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Ferretti Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ferretti Group.",
+ "evidence": [
+  {
+   "claim": "Ferretti realizza yacht di lusso per clienti in tutto il mondo.",
+   "url": "https://www.ferrettigroup.com/en-us/",
+   "quote": "Luxury Yachts by Ferretti Group: Leading Luxury Yachting Worldwide"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

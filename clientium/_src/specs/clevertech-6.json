@@ -1,0 +1,28 @@
+{
+ "slug": "clevertech-6",
+ "company": "CLEVERTECH",
+ "first_name": "Umberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Clevertech progetta sistemi di automazione per linee di produzione a secco e umido e ha in progetto in India il quarto stabilimento nel mondo. Qui trova come lavoriamo e cosa potremmo fare per CLEVERTECH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CLEVERTECH.",
+ "evidence": [
+  {
+   "claim": "Clevertech progetta sistemi di automazione per linee di produzione a secco e umido e ha in progetto in India il quarto stabilimento nel mondo.",
+   "url": "https://clevertech-group.com/it/",
+   "quote": "SISTEMI DI AUTOMAZIONE PER LINEE DI PRODUZIONE A SECCO E UMIDO || Dalla sua nascita Clevertech India ha registrato una crescita esponenziale anno dopo anno, che ha portato l’azienda a progettare il quarto stabilimento produttivo nel mondo proprio in India. || Pet Food Personal & Hair Care Beverage Food Baby care & Tissue Home Care & Chemical Wine & Spirits Cans & Ends Making"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

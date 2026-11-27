@@ -1,0 +1,28 @@
+{
+ "slug": "abk-industrie-ceramiche",
+ "company": "ABK GROUP Industrie Ceramiche",
+ "first_name": "Alessia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ABK idea e produce collezioni in gres porcellanato nel distretto ceramico, con sede a Fiorano Modenese e produzione di lastre e grandi formati a Solignano. Qui trova come lavoriamo e cosa potremmo fare per ABK GROUP Industrie Ceramiche.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ABK GROUP Industrie Ceramiche.",
+ "evidence": [
+  {
+   "claim": "ABK idea e produce collezioni in gres porcellanato nel distretto ceramico, con sede a Fiorano Modenese e produzione di lastre e grandi formati a Solignano.",
+   "url": "https://www.abkgroup.it/it/abk-group/chi-siamo/",
+   "quote": "Le collezioni ABK Group, ideate e prodotte nel Distretto dell'eccellenza ceramica, offrono superfici, formati e finiture che moltiplicano all'infinito le possibilità espressive del gres porcellanato. || Headquarter via del Crociale, 69 41042 Fiorano Modenese (MO) +39 0536 849611 Apri in Google Maps Sede legale via S. Lorenzo, 24/A 41034 Finale Emilia (MO) +39 0535 761311 Apri in Google Maps Produzione lastre e grandi formati S.S. per Vignola 569, 226 41014 Solignano (MO)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}
