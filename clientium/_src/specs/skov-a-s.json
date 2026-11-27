@@ -1,0 +1,28 @@
+{
+ "slug": "skov-a-s",
+ "company": "SKOV A/S",
+ "first_name": "Andrei",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SKOV dal 1966 fornisce sistemi di ventilazione e gestione per allevamenti, con oltre 500 dipendenti e filiali in Thailandia, Cina e Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per SKOV A/S.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SKOV A/S.",
+ "evidence": [
+  {
+   "claim": "SKOV dal 1966 fornisce sistemi di ventilazione e gestione per allevamenti, con oltre 500 dipendenti e filiali in Thailandia, Cina e Stati Uniti.",
+   "url": "https://www.skov.com/en/about/",
+   "quote": "SKOV has been operating in the market since 1966 and has become one of the world's leading ventilation and farm management systems suppliers, with over 500 employees. || Besides its headquarters in Denmark, the SKOV Group has subsidiary companies in Thailand, China, and the United States."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "m-e-p-macchine-elettroniche-piegatrici",
+ "company": "M.E.P. Macchine Elettroniche Piegatrici",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MEP Group realizza impianti completi e macchine per lavorare l'acciaio in rotolo o in barra usato nel cemento armato. Qui trova come lavoriamo e cosa potremmo fare per M.E.P. Macchine Elettroniche Piegatrici.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per M.E.P. Macchine Elettroniche Piegatrici.",
+ "evidence": [
+  {
+   "claim": "MEP Group realizza impianti completi e macchine per lavorare l'acciaio in rotolo o in barra usato nel cemento armato.",
+   "url": "https://www.mepgroup.com/products",
+   "quote": "MEP Group is the leader company for the production of complete plants and machinery for the processing of steel in coil or bar used in reinforced concrete. || Via Leonardo Da Vinci, 20, 33010 Reana del Rojale UD"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

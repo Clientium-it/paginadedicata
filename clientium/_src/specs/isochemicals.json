@@ -1,0 +1,28 @@
+{
+ "slug": "isochemicals",
+ "company": "Isochemicals",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Isochemicals fornisce additivi e gas per materie plastiche espanse, attiva in Europa e fuori dall'Europa. Qui trova come lavoriamo e cosa potremmo fare per Isochemicals.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Isochemicals.",
+ "evidence": [
+  {
+   "claim": "Isochemicals fornisce additivi e gas per materie plastiche espanse, attiva in Europa e fuori dall'Europa.",
+   "url": "https://www.sacme.it/il-gruppo/la-storia/",
+   "quote": "Nasce Isochemicals Srl: additivi e gas per materie plastiche espanse. Società attiva nel panorama europeo ed extra-europeo."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "polygon-3",
+ "company": "Polygon Group",
+ "first_name": "Sergio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Polygon ripara danni da acqua, fuoco e clima per assicurazioni e amministratori di immobili con 7.500 dipendenti e circa 465.000 interventi l'anno in 18 paesi. Qui trova come lavoriamo e cosa potremmo fare per Polygon Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Polygon Group.",
+ "evidence": [
+  {
+   "claim": "Polygon ripara danni da acqua, fuoco e clima per assicurazioni e amministratori di immobili con 7.500 dipendenti e circa 465.000 interventi l'anno in 18 paesi.",
+   "url": "https://www.polygongroup.com/about-us/",
+   "quote": "Polygon’s core business is property damage restoration due to the effects of water, fire and climate. Our 7,500 employees complete about 465,000 assignments each year. || We do business in 18 countries on 3 continents, through more than 400 local depots. || serving a range of sectors including insurance, property management, government and industrial clients"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

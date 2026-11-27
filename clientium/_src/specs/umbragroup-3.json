@@ -1,0 +1,28 @@
+{
+ "slug": "umbragroup-3",
+ "company": "UMBRAGROUP",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Umbragroup produce viti a ricircolo di sfere per l'aeronautica e l'industria con stabilimenti in Italia, Germania e Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per UMBRAGROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per UMBRAGROUP.",
+ "evidence": [
+  {
+   "claim": "Umbragroup produce viti a ricircolo di sfere per l'aeronautica e l'industria con stabilimenti in Italia, Germania e Stati Uniti.",
+   "url": "https://www.umbragroup.com/company",
+   "quote": "Today UMBRAGROUP is the world leader in the manufacture of ball screws in the aeronautics sector and one of the main players in the industrial market || With plants in Italy, Germany, and the United States || the Group ’s focus is on serving the following businesses worldwide: Aircraft manufacturers; Integrated systems manufacturers; Airlines; Machine tool manufacturers."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

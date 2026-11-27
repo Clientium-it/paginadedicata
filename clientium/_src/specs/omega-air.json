@@ -1,0 +1,28 @@
+{
+ "slug": "omega-air",
+ "company": "OMEGA AIR",
+ "first_name": "Giacomo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Omega Air si occupa di filtrazione e trattamento di aria e gas, con 370 dipendenti, 5 filiali e presenza in oltre 80 paesi. Qui trova come lavoriamo e cosa potremmo fare per OMEGA AIR.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OMEGA AIR.",
+ "evidence": [
+  {
+   "claim": "Omega Air si occupa di filtrazione e trattamento di aria e gas, con 370 dipendenti, 5 filiali e presenza in oltre 80 paesi.",
+   "url": "https://www.omega-air.si/company/about-us",
+   "quote": "Over the years OMEGA AIR became a trusted specialist for gas and air filtration and treatment present all over the world. || 80+ countries 37 authorized representatives 5 subsidiary offices 8 regional managers 36 development engineers 370 employees || Our products are installed in a wide range of general industry, electronics, food and beverage, chemical, petrochemical, plastics, pharmaceutical, medical, and automotive industry applications."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

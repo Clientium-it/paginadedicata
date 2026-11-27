@@ -1,0 +1,28 @@
+{
+ "slug": "pasqua-vigneti-e-cantine-2",
+ "company": "Pasqua Vigneti e Cantine",
+ "first_name": "Cecilia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pasqua rinnova i grandi vini veneti e i classici italiani unendo cultura enologica e tradizione di famiglia. Qui trova come lavoriamo e cosa potremmo fare per Pasqua Vigneti e Cantine.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pasqua Vigneti e Cantine.",
+ "evidence": [
+  {
+   "claim": "Pasqua rinnova i grandi vini veneti e i classici italiani unendo cultura enologica e tradizione di famiglia.",
+   "url": "https://pasqua.it/portfolio/",
+   "quote": "Our wines express both enological culture and family tradition, renovating the great Veneto wines and the Italian classics."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

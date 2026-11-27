@@ -1,0 +1,28 @@
+{
+ "slug": "paperdi",
+ "company": "Paperdi",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Paperdi produce dal 1989 a Caserta articoli tissue monouso per uso igienico e alimentare e nel 2017 ha rilevato la Cartiera di Pietramelara. Qui trova come lavoriamo e cosa potremmo fare per Paperdi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Paperdi.",
+ "evidence": [
+  {
+   "claim": "Paperdi produce dal 1989 a Caserta articoli tissue monouso per uso igienico e alimentare e nel 2017 ha rilevato la Cartiera di Pietramelara.",
+   "url": "https://www.paperdi.it/chi-siamo/",
+   "quote": "Opera dal 1989 nel comparto “tissue” del settore della carta, producendo, presso lo stabilimento di Caserta, articoli monouso per impieghi igienici e alimentari. || Nel 2017 la Società ha rilevato la Cartiera di Pietramelara, inattiva dal 2013 || Canale di vendita Area industria Area HORECA Area Bagno Medicale and Estetica"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

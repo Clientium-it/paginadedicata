@@ -1,0 +1,28 @@
+{
+ "slug": "moretto-3",
+ "company": "Moretto",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Moretto produce dal 1980 sistemi automatizzati per la trasformazione delle materie plastiche ed è presente in oltre 70 Paesi con 10 filiali. Qui trova come lavoriamo e cosa potremmo fare per Moretto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Moretto.",
+ "evidence": [
+  {
+   "claim": "Moretto produce dal 1980 sistemi automatizzati per la trasformazione delle materie plastiche ed è presente in oltre 70 Paesi con 10 filiali.",
+   "url": "https://www.moretto.com/it/chi-siamo",
+   "quote": "Dalla sua fondazione nel 1980, Moretto S.p.A . ha saputo conquistare la leadership nella produzione di sistemi automatizzati per l’industria di trasformazione delle materie plastiche. || Il gruppo è presente direttamente in oltre 70 Paesi e conta su 10 filiali, offrendo una gamma di soluzioni estremamente personalizzate per un mercato in continua evoluzione. || impianti della nostra clientela, operante nei settori dello stampaggio a iniezione, dell’estrusione e del PET"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "rizieri-winery",
+ "company": "Rizieri Winery",
+ "first_name": "Elena",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rizieri coltiva circa 6,5 ettari di proprietà attorno a una cascina ottocentesca, più un ettaro di Nebbiolo da Barolo a La Morra. Qui trova come lavoriamo e cosa potremmo fare per Rizieri Winery.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rizieri Winery.",
+ "evidence": [
+  {
+   "claim": "Rizieri coltiva circa 6,5 ettari di proprietà attorno a una cascina ottocentesca, più un ettaro di Nebbiolo da Barolo a La Morra.",
+   "url": "https://rizieri.com/",
+   "quote": "Coltiviamo solo vigneti di proprietà: circa 6,5 ettari , che circondano in un corpo unico la cascina ottocentesca e la cantina ecocompatibile di recente costruzione, sono allevati ad Arneis, Dolcetto, Barbera, Merlot e Nebbiolo; || circa 1 ettaro di Nebbiolo da Barolo, con la Menzione Geografica Aggiuntiva (MGA) Silio, si trova invece nel comune di La Morra"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

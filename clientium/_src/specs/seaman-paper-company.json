@@ -1,0 +1,28 @@
+{
+ "slug": "seaman-paper-company",
+ "company": "Seaman Paper Company",
+ "first_name": "Barbara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Seaman Paper stampa e trasforma carte tissue per il packaging retail europeo con una joint venture in Italia e dal 2015 con Werola a Rastatt. Qui trova come lavoriamo e cosa potremmo fare per Seaman Paper Company.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Seaman Paper Company.",
+ "evidence": [
+  {
+   "claim": "Seaman Paper stampa e trasforma carte tissue per il packaging retail europeo con una joint venture in Italia e dal 2015 con Werola a Rastatt.",
+   "url": "https://www.seamanpaper.com/us/history",
+   "quote": "Seaman established a joint venture company in Italy with the Pagliani family to print and convert white and colored tissue papers for the European retail packaging market. || In 2015 Seaman Paper started its direct presence in Europe by acquiring WerolaKrepp und Buntpapierfabrik in Rastatt, Germany"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

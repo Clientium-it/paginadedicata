@@ -1,0 +1,28 @@
+{
+ "slug": "niederwieser-3",
+ "company": "Niederwieser",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Niederwieser produce in casa imballaggi e buste dall'estrusione alla stampa, con sede a Laives e stabilimenti a Campogalliano e Sulzberg. Qui trova come lavoriamo e cosa potremmo fare per Niederwieser.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Niederwieser.",
+ "evidence": [
+  {
+   "claim": "Niederwieser produce in casa imballaggi e buste dall'estrusione alla stampa, con sede a Laives e stabilimenti a Campogalliano e Sulzberg.",
+   "url": "https://www.niederwiesergroup.com/about/company",
+   "quote": "all our packaging solutions are made entirely in-house – from extrusion to pouch making through to printing || With our main headquarters in Laives, two state-of-the-art production sites in Campogalliano and Sulzberg and a sales office in Barcelona"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

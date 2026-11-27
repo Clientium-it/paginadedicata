@@ -1,0 +1,28 @@
+{
+ "slug": "pmp-industries",
+ "company": "PMP Industries",
+ "first_name": "Sergiy",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "PMP offre pompe e motori per applicazioni mobili e produce a Coseano e Gradiska riduttori su misura per acciaierie e macchine movimento terra. Qui trova come lavoriamo e cosa potremmo fare per PMP Industries.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PMP Industries.",
+ "evidence": [
+  {
+   "claim": "PMP offre pompe e motori per applicazioni mobili e produce a Coseano e Gradiska riduttori su misura per acciaierie e macchine movimento terra.",
+   "url": "https://pmp-industries.com/about-us.php",
+   "quote": "High pressure pumps and motors for a wide range of mobile applications. PMH models are entirely designed and manufactured by PMP || Steel Works Division, through the production sites of Coseano (Italy) and Gradiska (Bosnia), can supply: || customized heavy duty gearboxes for different sectors (steelmaking plants, earthmoving machines, mining equipment, lifting applications)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

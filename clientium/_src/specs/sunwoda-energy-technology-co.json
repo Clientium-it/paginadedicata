@@ -1,0 +1,28 @@
+{
+ "slug": "sunwoda-energy-technology-co",
+ "company": "Sunwoda Energy Technology Co",
+ "first_name": "Greta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sunwoda si occupa di accumulo energetico commerciale, industriale e residenziale con 44,1 GWh di capacità installata e progetti in oltre 100 paesi. Qui trova come lavoriamo e cosa potremmo fare per Sunwoda Energy Technology Co.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sunwoda Energy Technology Co.",
+ "evidence": [
+  {
+   "claim": "Sunwoda si occupa di accumulo energetico commerciale, industriale e residenziale con 44,1 GWh di capacità installata e progetti in oltre 100 paesi.",
+   "url": "https://www.sunwodaenergy.com/aboutus",
+   "quote": "The company focuses on commercial and industrial energy storage, residential energy storage, and network energy solutions, providing high-quality, one-stop energy storage products and solutions for a wide range of applications. || 29 Focus on new energy industry for 29 years 44.1GWh Accumulated ESS Installed Capacity Tier 1 BNEF Tier 1 Energy Storage Manufacturer 100+ Projects distributed in more than 100 countries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "merit-medical-emea",
+ "company": "Merit Medical EMEA",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Merit Medical propone dispositivi medicali monouso per procedure interventistiche e diagnostiche in cardiologia, radiologia e oncologia e serve ospedali nel mondo con circa 7.000 persone. Qui trova come lavoriamo e cosa potremmo fare per Merit Medical EMEA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Merit Medical EMEA.",
+ "evidence": [
+  {
+   "claim": "Merit Medical propone dispositivi medicali monouso per procedure interventistiche e diagnostiche in cardiologia, radiologia e oncologia e serve ospedali nel mondo con circa 7.000 persone.",
+   "url": "https://www.merit.com/",
+   "quote": "proprietary disposable medical devices used in interventional, diagnostic and therapeutic procedures, particularly in cardiology, radiology, oncology, critical care and endoscopy. Merit serves client hospitals and physicians worldwide, and employs approximately 7,000 people worldwide. || Merit serves client hospitals and physicians worldwide"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

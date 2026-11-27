@@ -1,0 +1,28 @@
+{
+ "slug": "ronal",
+ "company": "RONAL GROUP",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ronal unisce le divisioni Wheels e Bathrooms e a giugno 2026 ha presentato a Colonia novità per auto e veicoli commerciali. Qui trova come lavoriamo e cosa potremmo fare per RONAL GROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RONAL GROUP.",
+ "evidence": [
+  {
+   "claim": "Ronal unisce le divisioni Wheels e Bathrooms e a giugno 2026 ha presentato a Colonia novità per auto e veicoli commerciali.",
+   "url": "https://www.ronalgroup.com/",
+   "quote": "Vom 9. bis 11. Juni 2026 präsentieren wir auf der The Tire Cologne in Köln (Halle 7.1, Stand C-19) zahlreiche Produktneuheiten und innovative Technologien für Pkw, Performance-Fahrzeuge und Nutzfahrzeuge. || RONAL Bathrooms Gebündelte Kompetenz Präzision, die Qualität schafft RONAL Wheels Division RONAL WHEELS Geschäftsbereiche || zahlreiche Produktneuheiten und innovative Technologien für Pkw, Performance-Fahrzeuge und Nutzfahrzeuge"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "sant-orsola-sca",
+ "company": "Sant'Orsola Sca",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sant'Orsola riunisce circa 700 produttori di piccoli frutti, fragole e ciliegie in tutta Italia, partiti dai primi anni '70 a Sant'Orsola Terme. Qui trova come lavoriamo e cosa potremmo fare per Sant'Orsola Sca.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sant'Orsola Sca.",
+ "evidence": [
+  {
+   "claim": "Sant'Orsola riunisce circa 700 produttori di piccoli frutti, fragole e ciliegie in tutta Italia, partiti dai primi anni '70 a Sant'Orsola Terme.",
+   "url": "https://www.santorsola.com/azienda/",
+   "quote": "Siamo un’ organizzazione di produttori specializzati nella coltivazione di piccoli frutti, fragole e ciliegie. La nostra storia parte nei primi anni '70 a Sant’Orsola Terme, in Trentino || grazie alla preziosa attività del nostro reparto Ricerca & Sviluppo, e al lavoro attento e generoso di circa 700 produttori in tutta Italia || iniziano il loro viaggio verso i migliori supermercati e negozi ortofrutta d’Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "salvagnini-5",
+ "company": "Salvagnini",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Salvagnini da oltre sessant'anni progetta e produce sistemi flessibili per la lavorazione della lamiera, con siti produttivi in Italia e in Austria. Qui trova come lavoriamo e cosa potremmo fare per Salvagnini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Salvagnini.",
+ "evidence": [
+  {
+   "claim": "Salvagnini da oltre sessant'anni progetta e produce sistemi flessibili per la lavorazione della lamiera, con siti produttivi in Italia e in Austria.",
+   "url": "https://www.salvagninigroup.com/en-US/company-profile",
+   "quote": "For more than sixty years , Salvagnini has been designing, producing and selling flexible systems for sheet metal processing. Our panel benders, punching machines, press-brakes, fiber laser cutting machines, FMS lines || Four production sites in Italy, and the largest plant in Europe totally dedicated to panel benders located in Austria. || We work in over 170 industries including lighting, vending machines, doors, automotive, Ho.Re.Ca, home appliances, building technologies, laboratory equipment, HVAC"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

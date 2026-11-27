@@ -1,0 +1,28 @@
+{
+ "slug": "sapio-life-4",
+ "company": "SAPIO LIFE",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sapio Life dal 1989 segue i privati con terapie domiciliari e homecare e fornisce gas e tecnologie a ospedali, laboratori e centri di ricerca. Qui trova come lavoriamo e cosa potremmo fare per SAPIO LIFE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SAPIO LIFE.",
+ "evidence": [
+  {
+   "claim": "Sapio Life dal 1989 segue i privati con terapie domiciliari e homecare e fornisce gas e tecnologie a ospedali, laboratori e centri di ricerca.",
+   "url": "https://www.sapiolife.it/chi-siamo/",
+   "quote": "Nata nel 1989, Sapio Life, infatti, si rivolge sia ai privati con tecnologie, ausilli, terapie domiciliari e servizi integrati di homecare sia alle strutture sanitarie con la fornitura altamente qualificata di gas e tecnologie collegate. || per diventare partner strategico di aziende sanitarie, ospedali, laboratori e centri di ricerca pubblici e privati"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

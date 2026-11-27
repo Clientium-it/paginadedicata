@@ -1,0 +1,28 @@
+{
+ "slug": "mobilificio-san-giacomo",
+ "company": "Mobilificio San Giacomo",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sangiacomo produce nei suoi stabilimenti sistemi componibili di mobili di design per la zona giorno e la zona notte. Qui trova come lavoriamo e cosa potremmo fare per Mobilificio San Giacomo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mobilificio San Giacomo.",
+ "evidence": [
+  {
+   "claim": "Sangiacomo produce nei suoi stabilimenti sistemi componibili di mobili di design per la zona giorno e la zona notte.",
+   "url": "https://www.msg.it/azienda",
+   "quote": "Sangiacomo è un'azienda che produce sistemi componibili di mobili moderni di design per zona giorno e notte, contraddistinti da una coerenza formale frutto di un'attenta ricerca estetica e funzionale || Sangiacomo è prima di tutto una realtà produttiva : la maggior parte dei prodotti a catalogo nasce nei suoi stabilimenti ."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

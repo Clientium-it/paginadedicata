@@ -1,0 +1,28 @@
+{
+ "slug": "valpaint-2",
+ "company": "Valpaint",
+ "first_name": "Gino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Valpaint produce dal 1988 pitture e rivestimenti per interni ed esterni con sedi in Spagna, Croazia, Bosnia, Montenegro e Tunisia. Qui trova come lavoriamo e cosa potremmo fare per Valpaint.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Valpaint.",
+ "evidence": [
+  {
+   "claim": "Valpaint produce dal 1988 pitture e rivestimenti per interni ed esterni con sedi in Spagna, Croazia, Bosnia, Montenegro e Tunisia.",
+   "url": "https://www.valpaint.it/it/profilo-aziendale/",
+   "quote": "VALPAINT è leader nella produzione di pitture e rivestimenti per la decorazione di interni ed esterni. Fondata nel 1988 da Ferdinando Sarti || Sede principale: ITALIA In Europa: VALPAINT ESPAÑA S.L. - Burgos (Spagna) VALPAINT DESIGN D.O.O. - Sarajevo (Bosnia Herzegovine) VALPAINT DESIGN D.O.O. - Podgorica (Montenegro) VALPAINT DESIGN D.O.O. - Zagreb (Croazia) Nel mondo: VALPAINT EXPORT S.A. - Zaghouan (Tunisia) 2° Stabilimento - Charguia 2 (Tunisia)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "radformation",
+ "company": "Radformation",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Radformation sviluppa software di automazione per cliniche oncologiche, usato ogni giorno in migliaia di cliniche nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Radformation.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Radformation.",
+ "evidence": [
+  {
+   "claim": "Radformation sviluppa software di automazione per cliniche oncologiche, usato ogni giorno in migliaia di cliniche nel mondo.",
+   "url": "https://www.radformation.com/",
+   "quote": "Automation software that enables cancer clinics to do more in less time. Transform your department with increased plan quality, safety, and efficiency. || Used Daily in Thousands of Clinics Around the World || we’re helping the hardest working cancer clinics ensure their patients receive the safest, highest quality, and most efficient treatment possible"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

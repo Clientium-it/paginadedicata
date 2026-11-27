@@ -1,0 +1,28 @@
+{
+ "slug": "oz",
+ "company": "OZ",
+ "first_name": "Flavio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OZ produce a San Martino di Lupari cerchi in lega leggera per racing, aftermarket, moto e progetti su misura per case auto di lusso. Qui trova come lavoriamo e cosa potremmo fare per OZ.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OZ.",
+ "evidence": [
+  {
+   "claim": "OZ produce a San Martino di Lupari cerchi in lega leggera per racing, aftermarket, moto e progetti su misura per case auto di lusso.",
+   "url": "https://www.ozracing.com/italian-company",
+   "quote": "Its main headquarters and production facility are in Italy (San Martino di Lupari, Padua), and it sells light alloy wheels through a global network of branches and qualified sales partners. || Its main headquarters and production facility are in Italy (San Martino di Lupari, Padua) || is a major supplier to multiple sectors, including: racing (F1, Rally, DTM, Indy, etc.), after market, motorbike, and OEM with custom projects for luxury auto makers."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "prestige-yachts",
+ "company": "Prestige Yachts",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Prestige costruisce industrialmente yacht a motore dal 1989 con design francese e italiano e una rete di dealer che segue i clienti nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Prestige Yachts.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Prestige Yachts.",
+ "evidence": [
+  {
+   "claim": "Prestige costruisce industrialmente yacht a motore dal 1989 con design francese e italiano e una rete di dealer che segue i clienti nel mondo.",
+   "url": "https://www.prestige-yachts.com/",
+   "quote": "Since 1989, PRESTIGE has perfected and reinvented its savoir-faire in the industrial construction of motor yachts. With multiple decades of experience, PRESTIGE yachts are the jewel of French and Italian design and industrial production || PRESTIGE dealers support our customers all over the world, placing all their expertise and know-how at their disposal."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "molino-spadoni",
+ "company": "Molino Spadoni",
+ "first_name": "Marcello",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Molino Spadoni produce farine speciali e miscele per casa e professionisti in 15 stabilimenti, con oltre il 32% di quota nella GDO italiana. Qui trova come lavoriamo e cosa potremmo fare per Molino Spadoni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Molino Spadoni.",
+ "evidence": [
+  {
+   "claim": "Molino Spadoni produce farine speciali e miscele per casa e professionisti in 15 stabilimenti, con oltre il 32% di quota nella GDO italiana.",
+   "url": "https://www.molinospadoni.it/azienda-molino-spadoni/",
+   "quote": "Oggi siamo punto di riferimento nel mercato delle farine speciali e miscele (oltre il 32% di quota di mercato GDO Italia) per uso domestico e professionale || La nostra attività è dislocata in 15 stabilimenti di proprietà in cui operano oltre 180 dipendenti, cui si affianca una rete di agenti commerciali e distributori. || Intercettiamo le esigenze di consumatori e professionisti, soddisfando i bisogni di più generazioni."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

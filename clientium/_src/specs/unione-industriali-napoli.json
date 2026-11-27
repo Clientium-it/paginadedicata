@@ -1,0 +1,28 @@
+{
+ "slug": "unione-industriali-napoli",
+ "company": "Unione Industriali Napoli",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Unione Industriali Napoli rappresenta le imprese di beni e servizi della provincia, dalla cantieristica navale alla filiera alimentare fino alla chimica e farmaceutica. Qui trova come lavoriamo e cosa potremmo fare per Unione Industriali Napoli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Unione Industriali Napoli.",
+ "evidence": [
+  {
+   "claim": "Unione Industriali Napoli rappresenta le imprese di beni e servizi della provincia, dalla cantieristica navale alla filiera alimentare fino alla chimica e farmaceutica.",
+   "url": "https://www.unindustria.na.it/chi-siamo",
+   "quote": "L’Unione Industriali Napoli è l’Associazione di rappresentanza delle imprese produttrici di beni e/o servizi, appartenenti a tutti i settori merceologici, che svolgono la propria attività nel territorio della Provincia. || Unione Industriali Napoli - Piazza dei Martiri, 58 - 80121 Napoli || Cantieristica Navale Economia Portuale Filiera Alimentare I.C.T. Impianti, facility management e global service Industria Chimica e Farmaceutica"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

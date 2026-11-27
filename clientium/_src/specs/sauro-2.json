@@ -1,0 +1,28 @@
+{
+ "slug": "sauro-2",
+ "company": "Sauro",
+ "first_name": "Ilaria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sauro propone da Villafranca Padovana morsetti e connettori con passo da 2,54 a 15,24 mm per correnti fino a 135 ampere. Qui trova come lavoriamo e cosa potremmo fare per Sauro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sauro.",
+ "evidence": [
+  {
+   "claim": "Sauro propone da Villafranca Padovana morsetti e connettori con passo da 2,54 a 15,24 mm per correnti fino a 135 ampere.",
+   "url": "https://www.sauro.net/",
+   "quote": "Wide range of terminal blocks and connectors in pitches from 2,54 to 15,24 mm, which can carry currents up to 135 amps and be used with wire cross-section from 0,5 to 35 mm² || SAURO srl – Viale delle Industrie, 17 – 35010 – Villafranca Padovana (PD) – Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

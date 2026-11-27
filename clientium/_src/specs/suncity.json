@@ -1,0 +1,28 @@
+{
+ "slug": "suncity",
+ "company": "SunCity Group",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SunCity realizza e gestisce a proprio carico impianti fotovoltaici per aziende, utility, CER ed enti pubblici con sedi a Roma, Pescara e Milano. Qui trova come lavoriamo e cosa potremmo fare per SunCity Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SunCity Group.",
+ "evidence": [
+  {
+   "claim": "SunCity realizza e gestisce a proprio carico impianti fotovoltaici per aziende, utility, CER ed enti pubblici con sedi a Roma, Pescara e Milano.",
+   "url": "https://www.suncityitalia.com/per-le-aziende/servizio-energia-ppa/",
+   "quote": "Con SunCity potrai stipulare un contratto a lungo termine che ti garantirà un prezzo stabile e competitivo, rispetto alle tariffe tradizionali, per l’energia prodotta dall’impianto fotovoltaico, il cui investimento per la realizzazione e gestione sarà totalmente a nostro carico. || Sede Roma: +39 06 87763199 Sede Pescara: +39 085 690888 Sede Pescara: +39 085 9564486 Sede Milano: +39 02 38266323 || Aziende Scopri di più Utility e IPP Scopri di più CER ed Enti pubblici Scopri di più"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

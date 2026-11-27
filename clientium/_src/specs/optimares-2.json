@@ -1,0 +1,28 @@
+{
+ "slug": "optimares-2",
+ "company": "Optimares",
+ "first_name": "Eniz",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Optimares progetta e assembla sedili pensati per chi viaggia e ha realizzato con Poltrona Frau e Ferrari un sedile su misura per Hawaiian. Qui trova come lavoriamo e cosa potremmo fare per Optimares.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Optimares.",
+ "evidence": [
+  {
+   "claim": "Optimares progetta e assembla sedili pensati per chi viaggia e ha realizzato con Poltrona Frau e Ferrari un sedile su misura per Hawaiian.",
+   "url": "https://www.optimares.com/",
+   "quote": "Optimares assembled the seats, Poltrona Frau produced the leather covers, and Ferrari made the carbon fiber structure supporting the seats. || Hawaiian collaborated with Optimares, an Italian seat manufacturer specializing in traveler-centric design, created an exclusive, highly customized seat."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

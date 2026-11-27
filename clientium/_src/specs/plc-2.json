@@ -1,0 +1,28 @@
+{
+ "slug": "plc-2",
+ "company": "PLC",
+ "first_name": "Carmelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "PLC progetta, installa e mantiene impianti energetici nelle rinnovabili e nelle infrastrutture elettriche, con sedi operative ad Acerra. Qui trova come lavoriamo e cosa potremmo fare per PLC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PLC.",
+ "evidence": [
+  {
+   "claim": "PLC progetta, installa e mantiene impianti energetici nelle rinnovabili e nelle infrastrutture elettriche, con sedi operative ad Acerra.",
+   "url": "https://www.plc-spa.it/",
+   "quote": "PLC offre diverse soluzioni per la progettazione, l’installazione e la manutenzione degli impianti energetici, nei settori delle rinnovabili e delle infrastrutture elettriche. || Sedi operative: Via delle Industrie, 100 – Località Pantano Zona ASI Via delle Industrie, 272/274 – Località Pantano Zona ASI 80011 – Acerra (NA) || nei settori delle rinnovabili e delle infrastrutture elettriche"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

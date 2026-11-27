@@ -1,0 +1,28 @@
+{
+ "slug": "semar-2",
+ "company": "Semar",
+ "first_name": "Elena",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Semar produce trasformatori elettrici e moduli di alimentazione con oltre 600 collaboratori e stabilimenti in Italia, Cina, Tunisia e USA. Qui trova come lavoriamo e cosa potremmo fare per Semar.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Semar.",
+ "evidence": [
+  {
+   "claim": "Semar produce trasformatori elettrici e moduli di alimentazione con oltre 600 collaboratori e stabilimenti in Italia, Cina, Tunisia e USA.",
+   "url": "https://semar.com/azienda/",
+   "quote": "Semar è una società internazionale specializzata nella produzione di trasformatori elettrici e moduli di alimentazione || Con oltre 600 collaboratori distribuiti tra i nostri stabilimenti produttivi in Italia, Cina , Tunisia e USA || NAVALE DISTRIBUZIONE ELETTRICA DOMOTICA IMPIANTI CIVILI ED INDUSTRIALI SENSORISTICA TELECOMUNICAZIONI AUTOMOTIVE FERROVIARIO"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

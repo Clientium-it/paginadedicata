@@ -1,0 +1,28 @@
+{
+ "slug": "seingim",
+ "company": "Seingim",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Seingim offre ingegneria multidisciplinare, progettazione e consulenza tecnica nei settori industriale, civile, energetico e pubblico dalla sede di Ceggia. Qui trova come lavoriamo e cosa potremmo fare per Seingim.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Seingim.",
+ "evidence": [
+  {
+   "claim": "Seingim offre ingegneria multidisciplinare, progettazione e consulenza tecnica nei settori industriale, civile, energetico e pubblico dalla sede di Ceggia.",
+   "url": "https://www.seingim.it/servizi/",
+   "quote": "In SEINGIM offriamo un ampio ventaglio di servizi di ingegneria multidisciplinare, progettazione e consulenza tecnica avanzata. Operiamo in diversi settori – industriale, civile, energetico e pubblico || Headquarter Viale Duca D’Aosta, 96 30022 Ceggia, Venezia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

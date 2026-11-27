@@ -1,0 +1,28 @@
+{
+ "slug": "mir-2",
+ "company": "MIR",
+ "first_name": "Katherina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MIR fornisce spirometri e ossimetri a professionisti e pazienti in più di 100 Paesi con filiali in Nord America, Francia e Brasile. Qui trova come lavoriamo e cosa potremmo fare per MIR.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MIR.",
+ "evidence": [
+  {
+   "claim": "MIR fornisce spirometri e ossimetri a professionisti e pazienti in più di 100 Paesi con filiali in Nord America, Francia e Brasile.",
+   "url": "https://spirometry.com./it/chi-siamo/",
+   "quote": "Nella nostra ampia gamma di prodotti forniamo spirometri e ossimetri su misura per le diverse esigenze di professionisti e pazienti || 3 filiali dirette, Nord America, Francia e Brasile e una consolidata rete distributiva rendono i nostri prodotti disponibili in più di 100 Paesi || Offriamo una gamma completa di spirometri e ossimetri, progettati per soddisfare le esigenze sia degli operatori sanitari sia dei pazienti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

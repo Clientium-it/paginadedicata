@@ -1,0 +1,28 @@
+{
+ "slug": "vulcaflex-2",
+ "company": "VULCAFLEX",
+ "first_name": "Lucia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vulcaflex realizza prodotti 100% made in Italy per le componenti di brand internazionali di automotive, moda e arredamento, con produzione e centro ricerche a Cotignola. Qui trova come lavoriamo e cosa potremmo fare per VULCAFLEX.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VULCAFLEX.",
+ "evidence": [
+  {
+   "claim": "Vulcaflex realizza prodotti 100% made in Italy per le componenti di brand internazionali di automotive, moda e arredamento, con produzione e centro ricerche a Cotignola.",
+   "url": "https://vulcaflex.com/",
+   "quote": "realizzando prodotti 100% made in Italy che vestano con stile, qualità e tecnologia d’avanguardia le componenti dei maggiori brand internazionali dei settori automotive, moda e arredamento || Uffici commerciali Vulcaflex S.p.A. Via Fabiani, 1 20097 San Donato M.se – Italy (MI) Tel: (+39) 02 52531300 Produzione e Centro Ricerche Vulcaflex S.p.A. Via De Gasperi, 2 48033 Cotignola (RA) || le componenti dei maggiori brand internazionali dei settori automotive, moda e arredamento"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

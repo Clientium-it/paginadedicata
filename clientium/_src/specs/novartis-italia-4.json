@@ -1,0 +1,28 @@
+{
+ "slug": "novartis-italia-4",
+ "company": "Novartis Italia",
+ "first_name": "Agnese",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Novartis lavora per reinventare la medicina contro le malattie gravi e che i suoi farmaci raggiungono 296 milioni di persone nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Novartis Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Novartis Italia.",
+ "evidence": [
+  {
+   "claim": "Novartis lavora per reinventare la medicina contro le malattie gravi e che i suoi farmaci raggiungono 296 milioni di persone nel mondo.",
+   "url": "https://www.novartis.com/about",
+   "quote": "Every day, we work to reimagine medicine to improve and extend people’s lives so that patients, healthcare professionals and societies are empowered in the face of serious disease. Our medicines reach 296 million people worldwide. || so that patients, healthcare professionals and societies are empowered in the face of serious disease"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

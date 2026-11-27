@@ -1,0 +1,28 @@
+{
+ "slug": "zeco-2",
+ "company": "ZECO",
+ "first_name": "Diego",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ZECO realizza dalle Dolomiti turbine Pelton, Francis e Kaplan chiavi in mano e ammodernamenti, con 60 anni di tradizione. Qui trova come lavoriamo e cosa potremmo fare per ZECO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ZECO.",
+ "evidence": [
+  {
+   "claim": "ZECO realizza dalle Dolomiti turbine Pelton, Francis e Kaplan chiavi in mano e ammodernamenti, con 60 anni di tradizione.",
+   "url": "https://zecohydropower.com/",
+   "quote": "What we do. Turnkey solutions. Pelton turbine Francis turbine Kaplan turbine Refurbish From water to wire Sustainable energy production || Made in Italy. 60 years tradition Meets innovation From the Italian Dolomites To wherever you are"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

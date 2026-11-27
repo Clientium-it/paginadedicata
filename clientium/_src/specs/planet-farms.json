@@ -1,0 +1,28 @@
+{
+ "slug": "planet-farms",
+ "company": "Planet Farms",
+ "first_name": "Edoardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Planet Farms coltiva in verticale riducendo di oltre il 90% suolo e acqua rispetto all'agricoltura in campo, senza usare pesticidi. Qui trova come lavoriamo e cosa potremmo fare per Planet Farms.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Planet Farms.",
+ "evidence": [
+  {
+   "claim": "Planet Farms coltiva in verticale riducendo di oltre il 90% suolo e acqua rispetto all'agricoltura in campo, senza usare pesticidi.",
+   "url": "https://www.planetfarms.ag/it",
+   "quote": "Grazie alla coltivazione verticale, riduciamo l’uso di suolo e acqua di oltre il 90% rispetto all’agricoltura tradizionale in campo e aboliamo l’utilizzo di pesticidi."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

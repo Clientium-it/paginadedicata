@@ -1,0 +1,28 @@
+{
+ "slug": "nidec-sv-probe",
+ "company": "Nidec SV Probe",
+ "first_name": "Sergio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nidec SV Probe fornisce dal 1994 probe MEMS e probe card per dispositivi nei mercati 5G, automotive, RF, mobile e IoT. Qui trova come lavoriamo e cosa potremmo fare per Nidec SV Probe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nidec SV Probe.",
+ "evidence": [
+  {
+   "claim": "Nidec SV Probe fornisce dal 1994 probe MEMS e probe card per dispositivi nei mercati 5G, automotive, RF, mobile e IoT.",
+   "url": "https://nidecsvprobe.com/about_us/aid-143/about-us-4463.html",
+   "quote": "In business since 1994, Nidec SV Probe provides a range of innovative, customizable MEMS Probes and a diverse line of probe cards. Our extensive probe card line includes MEMS-based, Vertical and Cantilever technologies || Corporate Headquarters Nidec SV Probe Pte. Ltd. 19A Serangoon North Avenue 5 #03-00, Singapore, 554859 Main: 65.6769.8233 Fax: 65.6765.8183 Corporate Offices - USA Nidec SV Probe, Inc. 7810 South Hardy Drive Suite 113 Tempe, Arizona || Nidec SV Probe’s testing solutions are ideal for some of most advanced devices in the high growth 5G, Automotive, RF, Mobile & IoT markets."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

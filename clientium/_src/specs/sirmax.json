@@ -1,0 +1,28 @@
+{
+ "slug": "sirmax",
+ "company": "Sirmax",
+ "first_name": "Lorenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sirmax produce compound di polipropilene, tecnopolimeri, elastomeri termoplastici e polimeri riciclati per automotive, elettrodomestici, utensili elettrici, edilizia ed elettronica. Qui trova come lavoriamo e cosa potremmo fare per Sirmax.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sirmax.",
+ "evidence": [
+  {
+   "claim": "Sirmax produce compound di polipropilene, tecnopolimeri, elastomeri termoplastici e polimeri riciclati per automotive, elettrodomestici, utensili elettrici, edilizia ed elettronica.",
+   "url": "https://www.sirmax.com/en/",
+   "quote": "At Sirmax, we produce a variety of polypropylene compounds, engineering plastics, thermoplastic elastomers and recycled polymers, which enables us to cover many different application sectors || Our multi-product and multi-country approach has made Sirmax a landmark for the main global players in the automotive, appliance, power tools, construction and electronics sectors. || the main global players in the automotive, appliance, power tools, construction and electronics sectors"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

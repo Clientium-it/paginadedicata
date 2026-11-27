@@ -1,0 +1,28 @@
+{
+ "slug": "tosca-3",
+ "company": "Tosca",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tosca da oltre 60 anni sviluppa soluzioni su misura di imballaggi riutilizzabili per retailer, produttori e centri di distribuzione. Qui trova come lavoriamo e cosa potremmo fare per Tosca.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tosca.",
+ "evidence": [
+  {
+   "claim": "Tosca da oltre 60 anni sviluppa soluzioni su misura di imballaggi riutilizzabili per retailer, produttori e centri di distribuzione.",
+   "url": "https://www.toscaltd.com/why-tosca/",
+   "quote": "Tosca has led the evolution of the reusables industry for more than 60 years by providing bespoke solutions that drive savings and sustainability impact with minimal lift from our partners. || Retailers Fewer out-of-stocks, higher product quality, greater sustainability impact. Suppliers & manufacturers Improve throughput, optimize storage, and reduce rejections. Distribution centers Drive efficiency"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

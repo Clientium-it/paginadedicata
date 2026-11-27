@@ -1,0 +1,28 @@
+{
+ "slug": "saba-italia-2",
+ "company": "Saba Italia",
+ "first_name": "Elena",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Saba crea prodotti per l'abitare dal residenziale al contract, con progetti per workspace e hospitality e flagship store a Milano e Parigi. Qui trova come lavoriamo e cosa potremmo fare per Saba Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Saba Italia.",
+ "evidence": [
+  {
+   "claim": "Saba crea prodotti per l'abitare dal residenziale al contract, con progetti per workspace e hospitality e flagship store a Milano e Parigi.",
+   "url": "https://sabaitalia.com/it/progetti",
+   "quote": "Ogni nostro prodotto si trasforma in una storia che interpreta diverse visioni dell’abitare, in un linguaggio flessibile che sa declinarsi dal residenziale al contract. || FlagshipStores Milano Paris || Residential Workspace Hospitality Tutti i progetti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

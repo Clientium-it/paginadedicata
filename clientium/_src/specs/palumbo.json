@@ -1,0 +1,28 @@
+{
+ "slug": "palumbo",
+ "company": "PALUMBO",
+ "first_name": "Alessandra",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Palumbo fa refit di superyacht e navi commerciali in 7 cantieri tra Ancona, Malta, Marsiglia, Messina, Napoli, Savona e Fiume. Qui trova come lavoriamo e cosa potremmo fare per PALUMBO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PALUMBO.",
+ "evidence": [
+  {
+   "claim": "Palumbo fa refit di superyacht e navi commerciali in 7 cantieri tra Ancona, Malta, Marsiglia, Messina, Napoli, Savona e Fiume.",
+   "url": "https://www.palumbogroup.it/",
+   "quote": "7 shipyards in the mediterranean and east atlantic over 2000 ships refitted in the past 5 years over 600 superyachts refitted in the past 5 years || locations ancona malta marseille messina naples savona rijeka || A choice for many referenced super and mega yachts that have repetitively returned to the group’s facilities for service year after year as well as commercial vessels."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

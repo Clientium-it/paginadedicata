@@ -1,0 +1,28 @@
+{
+ "slug": "regensight",
+ "company": "Regensight",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Regensight progetta e porta sul mercato dispositivi medici oftalmici attivi e soluzioni come RitSight per il cross linking corneale, pensati per i chirurghi oculisti. Qui trova come lavoriamo e cosa potremmo fare per Regensight.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Regensight.",
+ "evidence": [
+  {
+   "claim": "Regensight progetta e porta sul mercato dispositivi medici oftalmici attivi e soluzioni come RitSight per il cross linking corneale, pensati per i chirurghi oculisti.",
+   "url": "https://regensight.com/prodotti/",
+   "quote": "Regensight adotta un sistema di gestione della qualità certificato UNI CEI EN ISO 13485:2021 per la progettazione, gestione della fabbricazione ed immissione in commercio di dispositivi medici oftalmici attivi e relativi accessori sterili. || RitSight® Soluzione oftalmica di riboflavina 0.22% per il cross-linking corneale || il nostro obiettivo è essere rappresentativi delle esigenze dei chirurghi oculisti per migliorare l’assistenza ai pazienti che si affidano loro."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

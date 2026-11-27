@@ -1,0 +1,28 @@
+{
+ "slug": "sesto-autoveicoli-2",
+ "company": "Sesto Autoveicoli",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sesto Autoveicoli dal 1963 vende, noleggia e assiste auto nuove e usate a Milano con tre sedi e oltre 140 collaboratori. Qui trova come lavoriamo e cosa potremmo fare per Sesto Autoveicoli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sesto Autoveicoli.",
+ "evidence": [
+  {
+   "claim": "Sesto Autoveicoli dal 1963 vende, noleggia e assiste auto nuove e usate a Milano con tre sedi e oltre 140 collaboratori.",
+   "url": "https://www.sestoautoveicoli.it/chi-siamo/",
+   "quote": "Fondata nel 1963 da una famiglia di imprenditori lungimiranti, Sesto Autoveicoli è da sempre un punto di riferimento nel panorama automotive milanese. || Con tre sedi e oltre 140 collaboratori, l’azienda unisce tradizione e innovazione per offrire servizi completi: vendita e noleggio di auto nuove e usate, assistenza, carrozzeria, vendita di ricambi e servizi fleet."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

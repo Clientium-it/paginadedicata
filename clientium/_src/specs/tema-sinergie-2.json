@@ -1,0 +1,28 @@
+{
+ "slug": "tema-sinergie-2",
+ "company": "Tema Sinergie",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tema Sinergie è nata a Faenza nel 1985 e lavora con ospedali, centri di ricerca e industria farmaceutica su medicina nucleare, radiofarmacia e radioterapia. Qui trova come lavoriamo e cosa potremmo fare per Tema Sinergie.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tema Sinergie.",
+ "evidence": [
+  {
+   "claim": "Tema Sinergie è nata a Faenza nel 1985 e lavora con ospedali, centri di ricerca e industria farmaceutica su medicina nucleare, radiofarmacia e radioterapia.",
+   "url": "https://www.temasinergie.com/en/company/about-us",
+   "quote": "Founded in Faenza in 1985, the company has grown to To become an international partner in the fields of nuclear medicine, radiopharmacy, cancer radiation therapy, and the pharmaceutical industry. || Every day, in hospitals, research centers, and manufacturing facilities around the world, professionals are working to improve health and quality of life."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

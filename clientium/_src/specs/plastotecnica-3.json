@@ -1,0 +1,28 @@
+{
+ "slug": "plastotecnica-3",
+ "company": "Plastotecnica",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Plastotecnica produce a Bagnoli di Sopra film in polietilene personalizzati per imballaggi industriali, per clienti come produttori di pellet, sale e vetrerie. Qui trova come lavoriamo e cosa potremmo fare per Plastotecnica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Plastotecnica.",
+ "evidence": [
+  {
+   "claim": "Plastotecnica produce a Bagnoli di Sopra film in polietilene personalizzati per imballaggi industriali, per clienti come produttori di pellet, sale e vetrerie.",
+   "url": "https://www.plastotecnica.com/it",
+   "quote": "Film in polietilene per imballaggi industriali, prodotti con tecnologie avanzate di estrusione cast e bolla. Personalizzabili con stampa flessografica, taglio, saldatura e ribobinatura || Viale dell'Industria, 5a Strada nr. 2/I 35023 Bagnoli di Sopra (PD) || Pellet di legno, Produttori di sale, Trasporti e Logistica, Vetrerie"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

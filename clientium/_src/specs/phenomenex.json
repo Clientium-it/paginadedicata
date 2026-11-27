@@ -1,0 +1,28 @@
+{
+ "slug": "phenomenex",
+ "company": "Phenomenex",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Phenomenex sviluppa soluzioni di chimica analitica per separazione e purificazione nei laboratori, con oltre 1.100 persone in 25 uffici nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Phenomenex.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Phenomenex.",
+ "evidence": [
+  {
+   "claim": "Phenomenex sviluppa soluzioni di chimica analitica per separazione e purificazione nei laboratori, con oltre 1.100 persone in 25 uffici nel mondo.",
+   "url": "https://www.phenomenex.com/our-company/about-us",
+   "quote": "Phenomenex is a global technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers in industrial, clinical research, governmental and academic laboratories. || 1,100+ Employees in 25 Offices Worldwide || our team of skilled scientists caters to diverse markets including pharmaceuticals, biopharmaceuticals, clinical research, toxicology, environment, and food."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

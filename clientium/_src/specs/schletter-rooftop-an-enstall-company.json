@@ -1,0 +1,28 @@
+{
+ "slug": "schletter-rooftop-an-enstall-company",
+ "company": "Schletter Rooftop Gmbh an Enstall Company",
+ "first_name": "Piero",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Schletter produce sistemi di montaggio in alluminio e acciaio per fotovoltaico su tetti, facciate e parchi solari con otto sedi in cinque continenti. Qui trova come lavoriamo e cosa potremmo fare per Schletter Rooftop Gmbh an Enstall Company.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Schletter Rooftop Gmbh an Enstall Company.",
+ "evidence": [
+  {
+   "claim": "Schletter produce sistemi di montaggio in alluminio e acciaio per fotovoltaico su tetti, facciate e parchi solari con otto sedi in cinque continenti.",
+   "url": "https://www.schletter-group.com/it/azienda/impresa/",
+   "quote": "Siamo leader mondiali nella produzione di sistemi di montaggio per impianti fotovoltaici in alluminio e acciaio. Produciamo sistemi di montaggio per tetti, facciate e parchi solari e offriamo strumenti di progettazione fotovoltaica. || Con otto sedi distribuite sui cinque continenti, forniamo i sistemi di montaggio e i servizi di prima classe che vi servono per fare progredire i vostri progetti fotovoltaici."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}
