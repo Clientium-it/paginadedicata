@@ -1,0 +1,28 @@
+{
+ "slug": "marini",
+ "company": "Marini",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Marini costruisce dal 1899 impianti di asfalto discontinui made in Italy ad Alfonsine, con filiali in tutti i continenti. Qui trova come lavoriamo e cosa potremmo fare per Marini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Marini.",
+ "evidence": [
+  {
+   "claim": "Marini costruisce dal 1899 impianti di asfalto discontinui made in Italy ad Alfonsine, con filiali in tutti i continenti.",
+   "url": "https://marini.fayat.com/",
+   "quote": "founded in Alfonsine in 1899, is the global leader in the construction of discontinuous made-in-Italy asphalt plants || MARINI is a forward-looking company, with branch offices on all continents"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

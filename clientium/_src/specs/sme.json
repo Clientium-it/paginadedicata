@@ -1,0 +1,28 @@
+{
+ "slug": "sme",
+ "company": "SME GROUP",
+ "first_name": "Pietro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SME conta oltre 1.000 dipendenti e offre più di 200.000 articoli nei suoi 9 punti vendita tra Veneto e Friuli Venezia Giulia. Qui trova come lavoriamo e cosa potremmo fare per SME GROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SME GROUP.",
+ "evidence": [
+  {
+   "claim": "SME conta oltre 1.000 dipendenti e offre più di 200.000 articoli nei suoi 9 punti vendita tra Veneto e Friuli Venezia Giulia.",
+   "url": "https://www.sme.it/chi-siamo",
+   "quote": "conta oltre 1.000 dipendenti e si contraddistingue per un assortimento vasto, profondo e completo, con oltre 200.000 articoli che trovano spazio nelle ampie superfici dei 9 punti vendita SME sparsi tra Veneto e Friuli Venezia Giulia || Marghera (VE) Marcon (VE) San Donà di Piave (VE) Portogruaro (VE) Pordenone (PN) Susegana (TV) Gradisca d'Isonzo (GO) Martignacco (UD) Trieste (TS)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

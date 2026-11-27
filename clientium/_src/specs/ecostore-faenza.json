@@ -1,0 +1,28 @@
+{
+ "slug": "ecostore-faenza",
+ "company": "ECOSTORE FAENZA",
+ "first_name": "Eco store",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ecostore nasce nel marzo 2001 con 3 negozi di proprietà a Milano e oggi è una rete di negozi in franchising presente in tutta Italia. Qui trova come lavoriamo e cosa potremmo fare per ECOSTORE FAENZA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ECOSTORE FAENZA.",
+ "evidence": [
+  {
+   "claim": "Ecostore nasce nel marzo 2001 con 3 negozi di proprietà a Milano e oggi è una rete di negozi in franchising presente in tutta Italia.",
+   "url": "https://www.ecostore.it/chi-siamo/",
+   "quote": "Nasciamo nel marzo del 2001 con 3 negozi di proprietà a Milano || la rete di negozi in franchising, presente in tutta Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

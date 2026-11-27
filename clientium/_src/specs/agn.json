@@ -1,0 +1,28 @@
+{
+ "slug": "agn",
+ "company": "AGN",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "AGN Energia da oltre 65 anni porta energia per riscaldamento, industria e agricoltura, anche nei luoghi più lontani, con sedi a Genova e Volpiano. Qui trova come lavoriamo e cosa potremmo fare per AGN.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per AGN.",
+ "evidence": [
+  {
+   "claim": "AGN Energia da oltre 65 anni porta energia per riscaldamento, industria e agricoltura, anche nei luoghi più lontani, con sedi a Genova e Volpiano.",
+   "url": "https://www.agnenergia.com/it",
+   "quote": "Da oltre 65 anni portiamo energia anche nei luoghi più lontani. Riscaldamento, industria, agricoltura: soluzioni affidabili e proiettate verso il futuro del Bio GPL. || Sede Direzionale Via D'Annunzio 2/75 16121 Genova GE – Italia Sede Legale Via Amalfi 6 10088 Volpiano TO – Italia || La soluzione energetica ideale per aziende, negozi e ristoranti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

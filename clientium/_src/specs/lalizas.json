@@ -1,0 +1,28 @@
+{
+ "slug": "lalizas",
+ "company": "LALIZAS",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "LALIZAS produce e distribuisce oltre 10.000 prodotti di accessori nautici e attrezzature di sicurezza marittima, con una presenza commerciale in 130 paesi. Qui trova come lavoriamo e cosa potremmo fare per LALIZAS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LALIZAS.",
+ "evidence": [
+  {
+   "claim": "LALIZAS produce e distribuisce oltre 10.000 prodotti di accessori nautici e attrezzature di sicurezza marittima, con una presenza commerciale in 130 paesi.",
+   "url": "https://www.lalizas.com/company",
+   "quote": "LALIZAS manufactures and distributes over 10.000 products of marine accessories, safety equipment and miscellaneous items directly related to maritime companies, ship suppliers, chandleries, marine stores, shipyards and boat builders. || LALIZAS manufactures safety marine equipment with a commercial presence in 130 countries around the world || maritime companies, ship suppliers, chandleries, marine stores, shipyards and boat builders"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

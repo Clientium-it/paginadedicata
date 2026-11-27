@@ -1,0 +1,28 @@
+{
+ "slug": "evoca-3",
+ "company": "Evoca Group",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Evoca Group produce macchine da caffè professionali e distributori automatici per il consumo fuori casa e vende in oltre 135 paesi. Qui trova come lavoriamo e cosa potremmo fare per Evoca Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Evoca Group.",
+ "evidence": [
+  {
+   "claim": "Evoca Group produce macchine da caffè professionali e distributori automatici per il consumo fuori casa e vende in oltre 135 paesi.",
+   "url": "https://www.evocagroup.com/it/azienda",
+   "quote": "è un produttore leader a livello mondiale di macchine da caffè professionali e distributori automatici per il consumo fuori casa || che vende i suoi prodotti in oltre 135 paesi nel mondo tramite più di 30 hub strategici in Europa , America , Asia e Oceania"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

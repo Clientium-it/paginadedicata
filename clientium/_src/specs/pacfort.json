@@ -1,0 +1,28 @@
+{
+ "slug": "pacfort",
+ "company": "Pacfort Group",
+ "first_name": "Deborah",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pacfort sviluppa imballaggi a base di fibra che sostituiscono legno, plastica e schiume, con una presenza in Europa, Regno Unito e Medio Oriente. Qui trova come lavoriamo e cosa potremmo fare per Pacfort Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pacfort Group.",
+ "evidence": [
+  {
+   "claim": "Pacfort sviluppa imballaggi a base di fibra che sostituiscono legno, plastica e schiume, con una presenza in Europa, Regno Unito e Medio Oriente.",
+   "url": "https://pacfort.com/",
+   "quote": "Pacfort develops fibre-based packaging solutions that replace traditional materials like wood, plastics, and foams, enabling a shift to efficient, high performance and circular packaging and display systems that don’t compromise on quality. || With growing presence across Europe, the UK, and the Middle East, we are proud to be driving the future of sustainable packaging through smart materials and responsible design. || export packaging machinery automotive pumps & valves industrial equipment logistics retail displays exhibition systems"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

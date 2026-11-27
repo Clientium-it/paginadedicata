@@ -1,0 +1,28 @@
+{
+ "slug": "menu-3",
+ "company": "menù",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Menù produce specialità alimentari per la ristorazione dal 1932, con oltre cinquecento prodotti a catalogo, da Medolla in provincia di Modena. Qui trova come lavoriamo e cosa potremmo fare per menù.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per menù.",
+ "evidence": [
+  {
+   "claim": "Menù produce specialità alimentari per la ristorazione dal 1932, con oltre cinquecento prodotti a catalogo, da Medolla in provincia di Modena.",
+   "url": "https://www.menu.it/it/home",
+   "quote": "Dal 1932 produttori di specialità alimentari al servizio della ristorazione Menù è un'impresa leader nella produzione di specialità alimentari destinate alla ristorazione professionale: condimenti, salse e creme, funghi, primi piatti, pietanze preparate e dessert. || Sede legale/Stabilimento: Via Statale 12 n.102 41036 Medolla (MO) Uffici: Via Concordia n.25 41032 Cavezzo (MO) || Menù offre oltre cinquecento prodotti in catalogo per moltiplicare le idee e dare un aiuto a ristoranti, bar, paninoteche, birrerie, pub, macellerie e gastronomie."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

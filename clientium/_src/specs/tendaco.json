@@ -1,0 +1,28 @@
+{
+ "slug": "tendaco",
+ "company": "Tendaco",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tendaco produce teli confezionati per il mercato della protezione solare, con sede a Piavon di Oderzo. Qui trova come lavoriamo e cosa potremmo fare per Tendaco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tendaco.",
+ "evidence": [
+  {
+   "claim": "Tendaco produce teli confezionati per il mercato della protezione solare, con sede a Piavon di Oderzo.",
+   "url": "https://www.tendaco.it/azienda/",
+   "quote": "Produciamo teli confezionati per il mercato della protezione solare, utilizzando sia tecnologie di confezionamento tradizionali che moderne. || Via del Commercio, 22 31046 Piavon di Oderzo (TV)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

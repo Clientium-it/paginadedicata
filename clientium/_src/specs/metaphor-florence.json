@@ -1,0 +1,28 @@
+{
+ "slug": "metaphor-florence",
+ "company": "Metaphor (Gruppo Florence)",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Metaphor produce a Carpi maglieria per i principali brand internazionali del lusso, con 46 dipendenti, 2 stabilimenti e 32.000 prodotti all'anno. Qui trova come lavoriamo e cosa potremmo fare per Metaphor (Gruppo Florence).",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Metaphor (Gruppo Florence).",
+ "evidence": [
+  {
+   "claim": "Metaphor produce a Carpi maglieria per i principali brand internazionali del lusso, con 46 dipendenti, 2 stabilimenti e 32.000 prodotti all'anno.",
+   "url": "https://metaphor.gruppoflorence.it/",
+   "quote": "Metaphor è un’azienda italiana con sede a Carpi specializzata nella produzione di maglieria di altissima qualità per i principali brand internazionali del lusso || 46 dipendenti 2 stabilimenti 3.380 mq di superficie produttiva 32.000 prodotti all’anno || i principali brand internazionali del lusso"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

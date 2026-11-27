@@ -1,0 +1,28 @@
+{
+ "slug": "d-b-audiotechnik",
+ "company": "d&b audiotechnik",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "D&b audiotechnik, con base in Germania e 20 sedi nel mondo, lavora in oltre 70 paesi con artisti e tecnici del suono. Qui trova come lavoriamo e cosa potremmo fare per d&b audiotechnik.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per d&b audiotechnik.",
+ "evidence": [
+  {
+   "claim": "D&b audiotechnik, con base in Germania e 20 sedi nel mondo, lavora in oltre 70 paesi con artisti e tecnici del suono.",
+   "url": "https://www.dbaudio.com/global/en/about-db/careers/",
+   "quote": "In over 70 countries, we support venues, producers, and creatives in bringing their ideas to life and making them resonate with audiences. || At home in Germany. With 20 sites around the globe. Germany Backnang, Ilsfeld France Paris Italy Ferrara Spain Barcelona || trusted by artists, sound engineers, and venues around the world"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

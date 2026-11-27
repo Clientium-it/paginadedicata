@@ -1,0 +1,28 @@
+{
+ "slug": "mutti-2",
+ "company": "Mutti",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mutti lavora il pomodoro da oltre 125 anni. Qui trova come lavoriamo e cosa potremmo fare per Mutti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mutti.",
+ "evidence": [
+  {
+   "claim": "Mutti lavora il pomodoro da oltre 125 anni.",
+   "url": "https://www.mutti.com/muttis-world/about-us/",
+   "quote": "Our mission has always been to elevate the tomato to its highest expression . || For over 125 years , this passion has guided everything we do."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "dihr-kromo",
+ "company": "DIHR & KROMO",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "DIHR sviluppa, produce e distribuisce una gamma completa di attrezzature in oltre 120 paesi, con sede a Cernusco sul Naviglio e produzione a Castelfranco Veneto. Qui trova come lavoriamo e cosa potremmo fare per DIHR & KROMO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per DIHR & KROMO.",
+ "evidence": [
+  {
+   "claim": "DIHR sviluppa, produce e distribuisce una gamma completa di attrezzature in oltre 120 paesi, con sede a Cernusco sul Naviglio e produzione a Castelfranco Veneto.",
+   "url": "https://www.dihr.com/azienda/",
+   "quote": "DIHR sviluppa, produce e distribuisce una gamma completa di attrezzature in oltre 120 paesi. || Sede legale Via Gobetti 2/a 20063 Cernusco sul Naviglio (MI) Italy Sede produttiva Via del Lavoro 28 31033 Castelfranco Veneto (TV) Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

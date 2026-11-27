@@ -1,0 +1,28 @@
+{
+ "slug": "chiaravalli-3",
+ "company": "Chiaravalli Group",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Chiaravalli ha 35000 mq di stabilimenti produttivi e 30000 mq di logistica in Italia. Qui trova come lavoriamo e cosa potremmo fare per Chiaravalli Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Chiaravalli Group.",
+ "evidence": [
+  {
+   "claim": "Chiaravalli ha 35000 mq di stabilimenti produttivi e 30000 mq di logistica in Italia.",
+   "url": "https://www.chiaravalli.com/it",
+   "quote": "35000 mq di stabilimenti produttivi in Italia 30000 mq di logistica in Italia || 35000 mq di stabilimenti produttivi in Italia 30000 mq di logistica in Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "tgw-italia",
+ "company": "TGW Italia",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TGW Logistics offre automazione e logistica di magazzino per aziende all'ingrosso, al dettaglio e del commercio online, con oltre 5.000 specialisti e 24 unità. Qui trova come lavoriamo e cosa potremmo fare per TGW Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TGW Italia.",
+ "evidence": [
+  {
+   "claim": "TGW Logistics offre automazione e logistica di magazzino per aziende all'ingrosso, al dettaglio e del commercio online, con oltre 5.000 specialisti e 24 unità.",
+   "url": "https://www.tgw-group.com/it/azienda/fatti-cifre/",
+   "quote": "Con oltre 5.000 specialisti provenienti da 69 nazioni, TGW Logistics offre competenze, dedizione e innovazione di livello mondiale nell'automazione e logistica di magazzino. || TGW Logistics gestisce 24 unità in Europa, Nord America e Asia, da Wels a Barcellona, da Grand Rapids a Shanghai, garantendo un supporto senza interruzioni in tutto il mondo. || I flussi di lavoro automatizzati aiutano le aziende all'ingrosso, al dettaglio e di e-commerce a raggiungere i loro obiettivi di evasione ordini."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "base",
+ "company": "Base Group",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Base Group dal 1988 vende automazioni per cancelli, porte, tende e tapparelle. Qui trova come lavoriamo e cosa potremmo fare per Base Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Base Group.",
+ "evidence": [
+  {
+   "claim": "Base Group dal 1988 vende automazioni per cancelli, porte, tende e tapparelle.",
+   "url": "http://basegroup.it/",
+   "quote": "Vendita di automazioni per cancelli, porte, tende e tapparelle dal 1988"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

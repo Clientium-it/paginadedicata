@@ -1,0 +1,28 @@
+{
+ "slug": "garuti-vini",
+ "company": "GARUTI VINI",
+ "first_name": "Alessio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Garuti produce vino da quattro generazioni a Sorbara, in provincia di Modena, ed esporta nel mondo. Qui trova come lavoriamo e cosa potremmo fare per GARUTI VINI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GARUTI VINI.",
+ "evidence": [
+  {
+   "claim": "Garuti produce vino da quattro generazioni a Sorbara, in provincia di Modena, ed esporta nel mondo.",
+   "url": "https://garutivini.it/",
+   "quote": "Esportiamo nel mondo la qualità emiliana Vino L'eleganza di un vino raffinato famiglia Autentici e genuini da quattro generazioni || Via per Solara, 6 - 41030 Sorbara (MO)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

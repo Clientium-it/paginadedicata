@@ -1,0 +1,28 @@
+{
+ "slug": "arredissima-3",
+ "company": "ArredissimA",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ArredissimA propone soluzioni d'arredo per ogni ambiente, dalle cucine ai divani all'arredo bagno, con negozi su tutto il territorio nazionale. Qui trova come lavoriamo e cosa potremmo fare per ArredissimA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ArredissimA.",
+ "evidence": [
+  {
+   "claim": "ArredissimA propone soluzioni d'arredo per ogni ambiente, dalle cucine ai divani all'arredo bagno, con negozi su tutto il territorio nazionale.",
+   "url": "https://www.arredissima.com/",
+   "quote": "ArredissimA propone un vastissimo assortimento di soluzioni d’arredo per ogni ambiente grazie ai negozi d’arredamento presenti su tutto il territorio nazionale: cucine, soggiorni, divani, mobili per camere da letto matrimoniali e camerette, arredo bagno, armadi e molto altro || grazie ai negozi d’arredamento presenti su tutto il territorio nazionale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

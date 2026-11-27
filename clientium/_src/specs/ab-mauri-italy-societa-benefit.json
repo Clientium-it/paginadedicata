@@ -1,0 +1,28 @@
+{
+ "slug": "ab-mauri-italy-societa-benefit",
+ "company": "AB Mauri Italy Società Benefit",
+ "first_name": "Rita",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "AB Mauri produce lievito a Casteggio e ingredienti per panificazione, pasticceria e pizzeria a Cologne, con circa 280 dipendenti in Italia. Qui trova come lavoriamo e cosa potremmo fare per AB Mauri Italy Società Benefit.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per AB Mauri Italy Società Benefit.",
+ "evidence": [
+  {
+   "claim": "AB Mauri produce lievito a Casteggio e ingredienti per panificazione, pasticceria e pizzeria a Cologne, con circa 280 dipendenti in Italia.",
+   "url": "https://www.abmauri.it/chi-siamo/il-nostro-gruppo/",
+   "quote": "AB Mauri in Italia conta circa 280 dipendenti ed è presente con tre siti produttivi: Casteggio (PV) per la produzione di lievito; Cologne (BS) per la produzione di ingredienti per la panificazione, pasticceria e pizzeria || Sede Legale: Via Milano, 42 - 27045 Casteggio (PV) Sedi Operative: Via Milano, 42 - 27045 Casteggio (PV) Via S. Pietro, 19 – 25033 Cologne (BS) || produzione di ingredienti per la panificazione, pasticceria e pizzeria"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

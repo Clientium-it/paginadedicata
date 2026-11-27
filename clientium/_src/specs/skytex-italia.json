@@ -1,0 +1,28 @@
+{
+ "slug": "skytex-italia",
+ "company": "Skytex italia",
+ "first_name": "Moreno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Skytex dal 2006 lavora con settori come calzature, pelletteria, moda, automotive, sport e luxury da Casnate con Bernate. Qui trova come lavoriamo e cosa potremmo fare per Skytex italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Skytex italia.",
+ "evidence": [
+  {
+   "claim": "Skytex dal 2006 lavora con settori come calzature, pelletteria, moda, automotive, sport e luxury da Casnate con Bernate.",
+   "url": "https://skytex.it/chi-siamo-it",
+   "quote": "Dal 2006, trasformiamo desideri e visioni in un risultato da esperire con i sensi. || SKYTEX Srl Via Socrate 10/A 22070 Casnate con Bernate (CO) - Italia || Calzature, accessori, fashion, automotive, pelletteria, sport, luxury… SkyTex opera con una pluralità di settori, ampliando di anno in anno il suo target di riferimento."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

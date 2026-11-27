@@ -1,0 +1,28 @@
+{
+ "slug": "casalgrande-padana",
+ "company": "Casalgrande Padana",
+ "first_name": "Ilaria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Casalgrande Padana produce dal 1960 materiali ceramici per facciate ventilate, piscine e rivestimenti, con sede a Casalgrande. Qui trova come lavoriamo e cosa potremmo fare per Casalgrande Padana.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Casalgrande Padana.",
+ "evidence": [
+  {
+   "claim": "Casalgrande Padana produce dal 1960 materiali ceramici per facciate ventilate, piscine e rivestimenti, con sede a Casalgrande.",
+   "url": "https://www.casalgrandepadana.it/azienda",
+   "quote": "Fondata nel 1960, Casalgrande Padana produce materiali ceramici evoluti. || Via Statale 467, 73 42013 - Casalgrande (RE) - Italy || Centri Commerciali Edilizia Pubblica Edilizia Residenziale Pareti Ventilate Piscine Rivestimenti di Facciate"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

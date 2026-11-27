@@ -1,0 +1,28 @@
+{
+ "slug": "manageritalia-2",
+ "company": "Manageritalia",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Manageritalia riunisce 13 associazioni territoriali in una federazione che rappresenta oltre 45mila dirigenti, quadri ed executive professional del terziario, con sedi a Roma e Milano. Qui trova come lavoriamo e cosa potremmo fare per Manageritalia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Manageritalia.",
+ "evidence": [
+  {
+   "claim": "Manageritalia riunisce 13 associazioni territoriali in una federazione che rappresenta oltre 45mila dirigenti, quadri ed executive professional del terziario, con sedi a Roma e Milano.",
+   "url": "https://www.manageritalia.it/chi-siamo/",
+   "quote": "Le 13 Associazioni territoriali e quella dedicata agli Executive Professional, costituiscono la Federazione che rappresenta oltre 45mila dirigenti, quadri ed executive professional associati e tutto il management e le alte professionalità del terziario. || La presidenza Manageritalia ha sede in Via Orazio 31 – 00193 – Roma (tel 06 684016) e una sede in Via Stoppani 6 – 20129, Milano (tel 02 29409078). || Ci rivolgiamo a dirigenti, quadri ed executive professional."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

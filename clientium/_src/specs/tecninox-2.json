@@ -1,0 +1,28 @@
+{
+ "slug": "tecninox-2",
+ "company": "Tecninox Group",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecninox progetta e costruisce impianti su misura per i settori farmaceutico, biotech, cosmetico, nutraceutico e diagnostica con quasi mezzo secolo di esperienza. Qui trova come lavoriamo e cosa potremmo fare per Tecninox Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecninox Group.",
+ "evidence": [
+  {
+   "claim": "Tecninox progetta e costruisce impianti su misura per i settori farmaceutico, biotech, cosmetico, nutraceutico e diagnostica con quasi mezzo secolo di esperienza.",
+   "url": "https://www.tecninox.it/it",
+   "quote": "Dalla progettazione all'automazione, gli impianti sono disegnati e costruiti con una combinazione di know-how tecnico sedimentato in quasi mezzo secolo di esperienza nel settore e un'idea di sviluppo vicina all'unicità del custom artigianale. || Via Emilia, 89/A Loc. Sanguinaro 43015 – Noceto (PR) || Farmaceutico Biotech Cosmetico Nutraceutico Diagnostica I settori di competenza di TECNinox Group"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

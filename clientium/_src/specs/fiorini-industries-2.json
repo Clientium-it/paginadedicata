@@ -1,0 +1,28 @@
+{
+ "slug": "fiorini-industries-2",
+ "company": "Fiorini Industries",
+ "first_name": "Igor",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fiorini Industries progetta e costruisce componenti idronici per riscaldamento e condizionamento e distribuisce i suoi brand in 52 paesi. Qui trova come lavoriamo e cosa potremmo fare per Fiorini Industries.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fiorini Industries.",
+ "evidence": [
+  {
+   "claim": "Fiorini Industries progetta e costruisce componenti idronici per riscaldamento e condizionamento e distribuisce i suoi brand in 52 paesi.",
+   "url": "https://www.fiorini-industries.com/",
+   "quote": "Fiorini Industries progetta e costruisce prodotti e componenti idronici per impianti di riscaldamento e condizionamento, per la produzione di acqua calda sanitaria e per lo scambio termico ad alta efficienza. || Fiorini, attiva sia in Italia che all'estero, distribuisce i propri brand attraverso una rete di distributori e installatori in 52 paesi. || rete di distributori e installatori in 52 paesi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

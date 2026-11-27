@@ -1,0 +1,28 @@
+{
+ "slug": "latteria-montello-2",
+ "company": "Latteria Montello",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nonno Nanni produce formaggi freschi e stracchini in Italia, in uno stabilimento di 20.000 m². Qui trova come lavoriamo e cosa potremmo fare per Latteria Montello.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Latteria Montello.",
+ "evidence": [
+  {
+   "claim": "Nonno Nanni produce formaggi freschi e stracchini in Italia, in uno stabilimento di 20.000 m².",
+   "url": "https://www.nonnonanni.it/70-anni-di-storia/",
+   "quote": "Latteria Montello è un’azienda con una consolidata esperienza nel settore dei formaggi freschi e una significativa presenza nel segmento premium del mercato degli stracchini in Italia. || Si sviluppa su uno stabilimento di 20.000 m 2 a cui si devono aggiungere i 5000 m 2 di depuratore e i 2000 m 2 di spazio riservato ai servizi."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

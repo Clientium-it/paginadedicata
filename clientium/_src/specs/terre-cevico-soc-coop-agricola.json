@@ -1,0 +1,28 @@
+{
+ "slug": "terre-cevico-soc-coop-agricola",
+ "company": "Terre Cevico Soc. Coop Agricola",
+ "first_name": "Rita",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Terre Cevico dal 1963 produce vino con i soci viticoltori del territorio romagnolo ed è presente in quasi 90 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Terre Cevico Soc. Coop Agricola.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Terre Cevico Soc. Coop Agricola.",
+ "evidence": [
+  {
+   "claim": "Terre Cevico dal 1963 produce vino con i soci viticoltori del territorio romagnolo ed è presente in quasi 90 Paesi.",
+   "url": "https://www.terrecevico.com/azienda-terre-cevico/",
+   "quote": "Siamo nati come cooperativa nel 1963, producendo vino con i nostri soci viticoltori sul territorio romagnolo. || Siamo presenti in quasi 90 Paesi del mondo, la nostra top five è composta da Regno Unito, Giappone, Svezia, Germania, Stati Uniti d’America."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

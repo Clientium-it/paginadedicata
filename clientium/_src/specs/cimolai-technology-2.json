@@ -1,0 +1,28 @@
+{
+ "slug": "cimolai-technology-2",
+ "company": "Cimolai Technology",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cimolai Technology dal 2004 progetta e realizza attrezzature per il sollevamento e la movimentazione destinate a cantieri navali, marine e contesti industriali. Qui trova come lavoriamo e cosa potremmo fare per Cimolai Technology.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cimolai Technology.",
+ "evidence": [
+  {
+   "claim": "Cimolai Technology dal 2004 progetta e realizza attrezzature per il sollevamento e la movimentazione destinate a cantieri navali, marine e contesti industriali.",
+   "url": "https://www.cimolaitechnology.com/it/azienda/chi-siamo",
+   "quote": "Fondata nel 2004, Cimolai Technology progetta e realizza attrezzature avanzate per il sollevamento e la movimentazione destinate a cantieri navali, marine e contesti industriali ad alta complessità. || La sede centrale di Cimolai Technology si estende su 53.000 m², di cui 22.000 m² completamente coperti e dedicati alla produzione e agli uffici. || collaborando fianco a fianco con enti pubblici e aziende private per sviluppare soluzioni personalizzate"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

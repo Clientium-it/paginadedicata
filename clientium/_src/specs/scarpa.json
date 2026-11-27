@@ -1,0 +1,28 @@
+{
+ "slug": "scarpa",
+ "company": "SCARPA",
+ "first_name": "Elena",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Scarpa produce calzature per la montagna come scarponi da alpinismo scarpette da arrampicata e scarpe da trail running ad Asolo in provincia di Treviso. Qui trova come lavoriamo e cosa potremmo fare per SCARPA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SCARPA.",
+ "evidence": [
+  {
+   "claim": "Scarpa produce calzature per la montagna come scarponi da alpinismo scarpette da arrampicata e scarpe da trail running ad Asolo in provincia di Treviso.",
+   "url": "https://scarpa.com/en-ce/pages/storelocator",
+   "quote": "COLLECTIONS Mountaineering boots Ski mountaineering & telemark boots Climbing shoes Hiking Boots Trail running shoes Urban outdoor shoes Kids mountain shoes || Calzaturificio SCARPA Viale Enrico Fermi 1 - 31011 Asolo (Tv) Italy C.F./P.I/Reg. Imp. Tv 00173370263 Cap. Soc. € 2.080.000 I.V. Rea 29468"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "negroni-corporation",
+ "company": "Negroni Corporation",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Negroni porta in tavola prodotti alimentari italiani da oltre 100 anni, con sede a Verona. Qui trova come lavoriamo e cosa potremmo fare per Negroni Corporation.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Negroni Corporation.",
+ "evidence": [
+  {
+   "claim": "Negroni porta in tavola prodotti alimentari italiani da oltre 100 anni, con sede a Verona.",
+   "url": "https://www.negroni.com/",
+   "quote": "Da oltre 100 anni, la Stella di Negroni porta in tavola la qualità italiana, illuminando i tuoi momenti quotidiani || Sede Amministrativa: Via Valpantena, 18/G Quinto di Valpantena 37142 Verona (Italia)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

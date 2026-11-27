@@ -1,0 +1,28 @@
+{
+ "slug": "zimm-maschinenelemente-co-kg",
+ "company": "ZIMM Maschinenelemente GmbH & Co KG",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ZIMM sviluppa e produce riduttori industriali e tecnica di azionamento per il movimento lineare, con la produzione a Lustenau e la lavorazione meccanica ad Ankara. Qui trova come lavoriamo e cosa potremmo fare per ZIMM Maschinenelemente GmbH & Co KG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ZIMM Maschinenelemente GmbH & Co KG.",
+ "evidence": [
+  {
+   "claim": "ZIMM sviluppa e produce riduttori industriali e tecnica di azionamento per il movimento lineare, con la produzione a Lustenau e la lavorazione meccanica ad Ankara.",
+   "url": "https://it.zimm.com/",
+   "quote": "ZIMM sviluppa e produce riduttori industriali e tecnica di azionamento per il movimento lineare preciso e la trasmissione di coppia in ambito industriale || La produzione dei riduttori e la produzione su disegno avvengono presso la sede di Lustenau secondo ISO 9001:2015; la lavorazione meccanica presso lo stabilimento di Sincan/Ankara è certificata secondo ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "bormioli-rocco",
+ "company": "Bormioli Rocco",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bormioli Rocco produce articoli in vetro per la casa e la ristorazione, con 4 stabilimenti, 2 atelier di decorazione e sede a Parma. Qui trova come lavoriamo e cosa potremmo fare per Bormioli Rocco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bormioli Rocco.",
+ "evidence": [
+  {
+   "claim": "Bormioli Rocco produce articoli in vetro per la casa e la ristorazione, con 4 stabilimenti, 2 atelier di decorazione e sede a Parma.",
+   "url": "https://shop.bormiolirocco.com/pages/azienda",
+   "quote": "La nostra Business Unit Glassware (Home & Professional) è composta da 4 stabilimenti produttivi, 2 atelier di decorazione e 5 filiali commerciali , per una presenza capillare e internazionale. || La nostra sede legale si trova a Parma , mentre le nostre strutture produttive sono dislocate strategicamente per ottimizzare il ciclo produttivo e garantire elevati standard qualitativi. || i nostri prodotti sono apprezzati sia dai consumatori che dai professionisti della ristorazione, che ne riconoscono l'innovazione e la cura artigianale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "cadicagroup",
+ "company": "CADICAGROUP",
+ "first_name": "Claudy",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cadica, nata a Carpi, progetta e produce etichette, cartellini e packaging di lusso per oltre 1.000 brand in diversi paesi. Qui trova come lavoriamo e cosa potremmo fare per CADICAGROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CADICAGROUP.",
+ "evidence": [
+  {
+   "claim": "Cadica, nata a Carpi, progetta e produce etichette, cartellini e packaging di lusso per oltre 1.000 brand in diversi paesi.",
+   "url": "https://www.cadica.com/company/",
+   "quote": "Founded in Carpi, at the heart of Italy's manufacturing district, Cadica Group is now an international partner specialized in the design and production of custom fashion labels, hangtags and luxury packaging. || with a presence in Italy, Turkey Tunisia, China, Hong Kong || A longstanding focus on the luxury and premium segments, serving over 1,000 brands, from world-renowned fashion houses to emerging labels."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

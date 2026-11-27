@@ -1,0 +1,28 @@
+{
+ "slug": "zml-industries",
+ "company": "ZML Industries",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ZML produce a Maniago getti in ghisa, pressofusi in alluminio e filo di rame smaltato in 3 stabilimenti, per i settori elettrodomestico, automobilistico e meccanica generale. Qui trova come lavoriamo e cosa potremmo fare per ZML Industries.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ZML Industries.",
+ "evidence": [
+  {
+   "claim": "ZML produce a Maniago getti in ghisa, pressofusi in alluminio e filo di rame smaltato in 3 stabilimenti, per i settori elettrodomestico, automobilistico e meccanica generale.",
+   "url": "https://zml.it/",
+   "quote": "Produciamo a Maniago (PN) getti in ghisa, pressofusi in alluminio e filo di rame smaltato, con una capacità di circa 60.000 tonnellate l'anno. || 3 Stabilimenti produttivi || nel settore dell'elettrodomestico, automobilistico e meccanica generale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

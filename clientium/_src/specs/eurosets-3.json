@@ -1,0 +1,28 @@
+{
+ "slug": "eurosets-3",
+ "company": "eurosets",
+ "first_name": "Gino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Eurosets nasce nel 1991 nel distretto biomedicale di Medolla su 33.000 metri quadri e ha aperto una sede commerciale a Dubai. Qui trova come lavoriamo e cosa potremmo fare per eurosets.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per eurosets.",
+ "evidence": [
+  {
+   "claim": "Eurosets nasce nel 1991 nel distretto biomedicale di Medolla su 33.000 metri quadri e ha aperto una sede commerciale a Dubai.",
+   "url": "https://www.eurosets.com/en/company/",
+   "quote": "Founded in 1991, Eurosets is located in the biomedical district of Medolla (MO), spanning an area of 33,000 square meters. || A new commercial branch was opened in Dubai."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

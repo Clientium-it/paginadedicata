@@ -1,0 +1,28 @@
+{
+ "slug": "cerve",
+ "company": "CERVE",
+ "first_name": "Monica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cerve, nata a Parma nel 1953, lavora nella decorazione e produzione con 6 stabilimenti e 80 linee per profumeria, cosmetica, tableware e food & beverage. Qui trova come lavoriamo e cosa potremmo fare per CERVE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CERVE.",
+ "evidence": [
+  {
+   "claim": "Cerve, nata a Parma nel 1953, lavora nella decorazione e produzione con 6 stabilimenti e 80 linee per profumeria, cosmetica, tableware e food & beverage.",
+   "url": "https://cerve.it/azienda-cerve/",
+   "quote": "nasce nel 1953 a Parma, fra i protagonisti dello sviluppo economico/industriale di quegli anni || 4000000 PEZZI AL GIORNO 6 STABILIMENTI 80 LINEE DECORAZIONE E PRODUZIONE || Settori Profumeria & Cosmetica Tableware Food & Beverage"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

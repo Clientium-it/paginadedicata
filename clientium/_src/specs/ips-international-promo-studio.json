@@ -1,0 +1,28 @@
+{
+ "slug": "ips-international-promo-studio",
+ "company": "IPS International Promo Studio",
+ "first_name": "Cristina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IPS realizza capi per sfilate e prêt-à-porter nelle linee Uomo, Donna e Bambino, con 265 dipendenti e 5 stabilimenti per i grandi brand del lusso. Qui trova come lavoriamo e cosa potremmo fare per IPS International Promo Studio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IPS International Promo Studio.",
+ "evidence": [
+  {
+   "claim": "IPS realizza capi per sfilate e prêt-à-porter nelle linee Uomo, Donna e Bambino, con 265 dipendenti e 5 stabilimenti per i grandi brand del lusso.",
+   "url": "https://ipsmoda.gruppoflorence.it/",
+   "quote": "IPS realizza capi di abbigliamento per sfilate e prêt-à-porter, destinati alle linee Uomo, Donna e Bambino/a (0-16 anni) || 265 dipendenti 5 stabilimenti 9300 m² superficie produttiva 158.000 prodotti all’anno || al servizio dei grandi brand del lusso"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

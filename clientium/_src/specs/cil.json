@@ -1,0 +1,28 @@
+{
+ "slug": "cil",
+ "company": "CIL",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CIL opera dal 1969 nel settore alberghiero, nella ristorazione e in quello sanitario, con il noleggio di biancheria tra Forlì, Ravenna, Rimini e Bologna. Qui trova come lavoriamo e cosa potremmo fare per CIL.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CIL.",
+ "evidence": [
+  {
+   "claim": "CIL opera dal 1969 nel settore alberghiero, nella ristorazione e in quello sanitario, con il noleggio di biancheria tra Forlì, Ravenna, Rimini e Bologna.",
+   "url": "https://lavanderiacil.com/azienda/",
+   "quote": "La Compagnia Italiana Lavanderie (CIL) opera nel settore alberghiero, nella ristorazione e nel settore termale e in quello sanitario dal 1969 || Serviamo e operiamo su tutto il territorio delle province di Forlì, Ravenna, Rimini e Pesaro, fino a Bologna. || si affianca anche il servizio di noleggio di biancheria per hotel, ristoranti, case vacanze e strutture sanitarie e ospedaliere"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

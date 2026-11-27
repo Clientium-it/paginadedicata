@@ -1,0 +1,28 @@
+{
+ "slug": "mebra-plastik-italia",
+ "company": "Mebra Plastik Italia",
+ "first_name": "Annalisa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mebra Plastik produce dal 1972 tubi estrusi per oleodinamica e pneumatica a Busto Arsizio ed esporta in 80 paesi. Qui trova come lavoriamo e cosa potremmo fare per Mebra Plastik Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mebra Plastik Italia.",
+ "evidence": [
+  {
+   "claim": "Mebra Plastik produce dal 1972 tubi estrusi per oleodinamica e pneumatica a Busto Arsizio ed esporta in 80 paesi.",
+   "url": "https://www.mebraplastik.com/chi-siamo",
+   "quote": "ha dato vita nel 1972 ad una realtà che è oggi specializzata nel settore dell’ estrusione di tubi per oleodinamica e pneumatica || Con un fatturato consolidato nel 2021 di 21 milioni di euro e una produzione interamente concentrata negli stabilimenti di Busto Arsizio (VA) , è presente in tutta Italia ed esporta in 80 Paesi nel mondo. || per distributori, rivenditori e OEM operanti in diversi settori industriali, alimentari e automotive"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

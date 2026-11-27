@@ -1,0 +1,28 @@
+{
+ "slug": "aspiag-service",
+ "company": "Aspiag Service",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Despar porta nei suoi punti vendita in Emilia Romagna 35 linee di prodotti esclusivi e oltre 6.000 referenze, tra Bologna, Ferrara, Modena e Rimini. Qui trova come lavoriamo e cosa potremmo fare per Aspiag Service.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aspiag Service.",
+ "evidence": [
+  {
+   "claim": "Despar porta nei suoi punti vendita in Emilia Romagna 35 linee di prodotti esclusivi e oltre 6.000 referenze, tra Bologna, Ferrara, Modena e Rimini.",
+   "url": "https://www.despar.it/it/prodotti-a-marchio-despar/",
+   "quote": "35 linee di prodotti esclusivi e un vasto assortimento di oltre 6.000 referenze scelte per te || Emilia-Romagna Bologna (20) Ferrara (29) Forli-Cesena (5) Modena (9) Parma (2) Ravenna (14) Reggio Emilia (3) Rimini (11)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

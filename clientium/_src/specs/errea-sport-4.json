@@ -1,0 +1,28 @@
+{
+ "slug": "errea-sport-4",
+ "company": "Erreà Sport",
+ "first_name": "Michael",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Erreà propone collezioni di abbigliamento tecnico sportivo, teamwear e il merchandising ufficiale. Qui trova come lavoriamo e cosa potremmo fare per Erreà Sport.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Erreà Sport.",
+ "evidence": [
+  {
+   "claim": "Erreà propone collezioni di abbigliamento tecnico sportivo, teamwear e il merchandising ufficiale.",
+   "url": "https://www.errea.com/",
+   "quote": "scoprire le nostre collezioni di abbigliamento tecnico sportivo, teamwear e il merchandising ufficiale dedicato alla tua zona"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

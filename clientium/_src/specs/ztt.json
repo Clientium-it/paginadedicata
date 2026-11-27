@@ -1,0 +1,28 @@
+{
+ "slug": "ztt",
+ "company": "ZTT Group",
+ "first_name": "Giada",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ZTT opera dal 1992 in energie rinnovabili, sistemi sottomarini, reti elettriche e telecomunicazioni, con 80 controllate e 8 stabilimenti esteri. Qui trova come lavoriamo e cosa potremmo fare per ZTT Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ZTT Group.",
+ "evidence": [
+  {
+   "claim": "ZTT opera dal 1992 in energie rinnovabili, sistemi sottomarini, reti elettriche e telecomunicazioni, con 80 controllate e 8 stabilimenti esteri.",
+   "url": "https://www.zttgroup.com/",
+   "quote": "a leading global manufacturing technology group with operations in renewable energy, submarine systems, power grids, telecommunications, and industrial internet || Founded in 1992, ZTT has expanded its footprint to over 160 countries, with 80 subsidiaries, nearly 18,000 employees, and 8 overseas factories. || we support telecom operators and enterprise customers in building reliable, high-capacity, and future-ready networks worldwide"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

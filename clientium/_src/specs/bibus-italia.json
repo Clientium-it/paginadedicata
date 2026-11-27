@@ -1,0 +1,28 @@
+{
+ "slug": "bibus-italia",
+ "company": "BIBUS ITALIA",
+ "first_name": "Angelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bibus Italia realizza soluzioni su misura per l'oleodinamica mobile e industriale, dalla progettazione fino alla produzione in serie, con 51 filiali. Qui trova come lavoriamo e cosa potremmo fare per BIBUS ITALIA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BIBUS ITALIA.",
+ "evidence": [
+  {
+   "claim": "Bibus Italia realizza soluzioni su misura per l'oleodinamica mobile e industriale, dalla progettazione fino alla produzione in serie, con 51 filiali.",
+   "url": "https://bibus.com/en/technology/",
+   "quote": "Customised solutions for mobile and industrial hydraulics, starting with conception, through planning, engineering and design to series production readiness || 51 branches With our subsidiaries and supplier plants, we are always close to you."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

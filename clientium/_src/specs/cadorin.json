@@ -1,0 +1,28 @@
+{
+ "slug": "cadorin",
+ "company": "Cadorin Group",
+ "first_name": "Riadh",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cadorin opera in uno stabilimento di 15.000 m² e offre un servizio tecnico ad architetti, interior designer e privati con forniture in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Cadorin Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cadorin Group.",
+ "evidence": [
+  {
+   "claim": "Cadorin opera in uno stabilimento di 15.000 m² e offre un servizio tecnico ad architetti, interior designer e privati con forniture in tutto il mondo.",
+   "url": "https://www.cadoringroup.it/",
+   "quote": "Oggi Cadorin opera su uno stabilimento produttivo di 15.000 m², dotato di tecnologie avanzate e processi all'avanguardia || La sede produttiva offre un servizio tecnico professionale dedicato a committenze, architetti, interior designer, professionisti del settore e privati, garantendo forniture dirette in tutto il mondo || dedicato a committenze, architetti, interior designer, professionisti del settore e privati"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

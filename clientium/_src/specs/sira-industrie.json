@@ -1,0 +1,28 @@
+{
+ "slug": "sira-industrie",
+ "company": "Sira Industrie",
+ "first_name": "Giulio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sira Industrie fornisce getti in pressocolata e stampi in alluminio per l'industria meccanica e l'automotive con stabilimenti in diversi Paesi. Qui trova come lavoriamo e cosa potremmo fare per Sira Industrie.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sira Industrie.",
+ "evidence": [
+  {
+   "claim": "Sira Industrie fornisce getti in pressocolata e stampi in alluminio per l'industria meccanica e l'automotive con stabilimenti in diversi Paesi.",
+   "url": "https://www.siraindustrie.com/it-it/chi-siamo/",
+   "quote": "DIE CASTING DIVISION di SIRA INDUSTRIE si occupa di fornitura di getti in pressocolata a ciclo completo e stampi per la pressocolata in alluminio, destinati all’industria meccanica e all’automotive || presente a livello internazionale con stabilimenti di produzione, unità commerciali e società collegate in diversi Paesi || destinati all’industria meccanica e all’automotive"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

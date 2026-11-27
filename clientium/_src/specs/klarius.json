@@ -1,0 +1,28 @@
+{
+ "slug": "klarius",
+ "company": "klarius",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Klarius produce componenti di scarico aftermarket in Europa, con sede a Cheadle nello Staffordshire. Qui trova come lavoriamo e cosa potremmo fare per klarius.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per klarius.",
+ "evidence": [
+  {
+   "claim": "Klarius produce componenti di scarico aftermarket in Europa, con sede a Cheadle nello Staffordshire.",
+   "url": "https://www.klarius.eu/about-us/",
+   "quote": "Klarius Products Ltd is the largest manufacturer of aftermarket exhaust components in Europe, based in Cheadle, Staffordshire. || Brookhouse Industrial Estate New Haden Road Cheadle Stoke on Trent ST10 1UF, UK"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

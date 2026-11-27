@@ -1,0 +1,28 @@
+{
+ "slug": "motor-power-company-2",
+ "company": "Motor Power Company",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Motor Power Company produce motori da 35 anni per settori come robotica packaging medicale tessile e material handling con 5 milioni di motori prodotti. Qui trova come lavoriamo e cosa potremmo fare per Motor Power Company.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Motor Power Company.",
+ "evidence": [
+  {
+   "claim": "Motor Power Company produce motori da 35 anni per settori come robotica packaging medicale tessile e material handling con 5 milioni di motori prodotti.",
+   "url": "https://www.motorpowerco.com/company",
+   "quote": "35 years of experience 5 million motors produced 5 % of turnover invested in R&D || Through the creation of a manufacturing plant in China || Laser Material Handling Material Processing Medical Packaging Robotics Textile E-mobility Pharma"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

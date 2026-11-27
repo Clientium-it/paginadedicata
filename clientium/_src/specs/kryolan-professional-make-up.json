@@ -1,0 +1,28 @@
+{
+ "slug": "kryolan-professional-make-up",
+ "company": "Kryolan Professional Make-up",
+ "first_name": "Giacomo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Kryolan porta avanti il suo modo di fare da più di 80 anni e 3 generazioni. Qui trova come lavoriamo e cosa potremmo fare per Kryolan Professional Make-up.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kryolan Professional Make-up.",
+ "evidence": [
+  {
+   "claim": "Kryolan porta avanti il suo modo di fare da più di 80 anni e 3 generazioni.",
+   "url": "https://us.kryolan.com?ref=cookie_notice&destination=/",
+   "quote": "For more than 80 years and 3 generations we do it our way"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

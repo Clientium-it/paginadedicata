@@ -1,0 +1,28 @@
+{
+ "slug": "loacker-4",
+ "company": "Loacker",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Loacker usa solo nocciole 100% italiane, coltivate nelle sue tenute in Toscana e nei noccioleti delle famiglie partner. Qui trova come lavoriamo e cosa potremmo fare per Loacker.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Loacker.",
+ "evidence": [
+  {
+   "claim": "Loacker usa solo nocciole 100% italiane, coltivate nelle sue tenute in Toscana e nei noccioleti delle famiglie partner.",
+   "url": "https://www.loacker.com:443/int/en/about-us.html",
+   "quote": "We use only 100 per cent Italian hazelnuts, grown on our estates in Tuscany and in the hazelnut groves of our partner families. || These are the geographical coordinates of the Loacker headquarters in Auna di Sotto at 1,000 meters above sea level with view of the Dolomites and the Sciliar."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

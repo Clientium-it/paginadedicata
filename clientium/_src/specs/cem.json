@@ -1,0 +1,28 @@
+{
+ "slug": "cem",
+ "company": "CEM",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CEM realizza riqualificazioni energetiche, adeguamenti sismici degli edifici e ristrutturazioni chiavi in mano per pubbliche amministrazioni e committenti privati, da Reggio Emilia. Qui trova come lavoriamo e cosa potremmo fare per CEM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CEM.",
+ "evidence": [
+  {
+   "claim": "CEM realizza riqualificazioni energetiche, adeguamenti sismici degli edifici e ristrutturazioni chiavi in mano per pubbliche amministrazioni e committenti privati, da Reggio Emilia.",
+   "url": "https://cemsrlre.com/",
+   "quote": "Al servizio di pubbliche amministrazioni e committenti privati ci occupiamo di: Riqualificazioni energetiche Adeguamento sismico edifici Ristrutturazioni chiavi in mano || CeM Srl Via Rinaldi 103/i 42124 Reggio Emilia P.I. 02790490359 || pubbliche amministrazioni e committenti privati"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

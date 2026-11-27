@@ -1,0 +1,28 @@
+{
+ "slug": "manz-ag",
+ "company": "Manz AG",
+ "first_name": "Farid",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Manz è un'azienda di costruzione macchine quotata in borsa, attiva per l'industria automobilistica, l'elettromobilità, la produzione di batterie, l'elettronica e l'energia, con sede a Reutlingen. Qui trova come lavoriamo e cosa potremmo fare per Manz AG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Manz AG.",
+ "evidence": [
+  {
+   "claim": "Manz è un'azienda di costruzione macchine quotata in borsa, attiva per l'industria automobilistica, l'elettromobilità, la produzione di batterie, l'elettronica e l'energia, con sede a Reutlingen.",
+   "url": "https://www.manz.com/unternehmen",
+   "quote": "ist ein börsennotiertes Maschinenbauunternehmen für Anwendungen in den Bereichen: Automobilindustrie, Elektromobilität, Batteriefertigung, Elektronik und Energie || Manz AG Steigäckerstraße 5 72768 Reutlingen Deutschland || Automobilindustrie, Elektromobilität, Batteriefertigung, Elektronik und Energie"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

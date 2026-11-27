@@ -1,0 +1,28 @@
+{
+ "slug": "beghelli-6",
+ "company": "Beghelli",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Beghelli dal 2025 fa parte del Gruppo GEWISS e realizza soluzioni di illuminazione integrate per professionisti e utenti finali. Qui trova come lavoriamo e cosa potremmo fare per Beghelli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Beghelli.",
+ "evidence": [
+  {
+   "claim": "Beghelli dal 2025 fa parte del Gruppo GEWISS e realizza soluzioni di illuminazione integrate per professionisti e utenti finali.",
+   "url": "https://www.beghelli.it/it",
+   "quote": "Dal 2025 Beghelli è parte del Gruppo GEWISS, all’interno dell’ecosistema GEWISS LightZone, dove realizziamo soluzioni di illuminazione integrate che trasformano la complessità in semplicità, supportando professionisti e utenti finali nella realizzazione dei loro bisogni."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

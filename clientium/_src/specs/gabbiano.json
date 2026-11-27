@@ -1,0 +1,28 @@
+{
+ "slug": "gabbiano",
+ "company": "Gabbiano",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gabbiano porta accessori per capelli e biogiotteria per bambini nella grande distribuzione con una rete vendita di 200 persone in tutta Italia. Qui trova come lavoriamo e cosa potremmo fare per Gabbiano.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gabbiano.",
+ "evidence": [
+  {
+   "claim": "Gabbiano porta accessori per capelli e biogiotteria per bambini nella grande distribuzione con una rete vendita di 200 persone in tutta Italia.",
+   "url": "https://gabbiano.it/chi-siamo/",
+   "quote": "una rete di vendita dedicata di 200 persone su tutto il territorio nazionale || SEDE LEGALE E AMMINISTRATIVA Via Cisa, 2 46034 Cerese di Borgo Virgilio (MN) – Italy || accessori capelli e biogiotteria a target kids nel canale G.D.O. e G.D.S."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "panariagroup-industrie-ceramiche-3",
+ "company": "Panariagroup Industrie Ceramiche",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Panariagroup serve architettura residenziale, commerciale e pubblica con 7 stabilimenti produttivi e oltre 10.000 clienti professionali in più di 130 paesi. Qui trova come lavoriamo e cosa potremmo fare per Panariagroup Industrie Ceramiche.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Panariagroup Industrie Ceramiche.",
+ "evidence": [
+  {
+   "claim": "Panariagroup serve architettura residenziale, commerciale e pubblica con 7 stabilimenti produttivi e oltre 10.000 clienti professionali in più di 130 paesi.",
+   "url": "https://www.panariagroup.it/",
+   "quote": "Con oltre 1.700 dipendenti, oltre 10.000 clienti professionali, 7 stabilimenti produttivi (3 in Italia, 3 in Portogallo e 1 negli Stati Uniti) || presente in Italia, Portogallo, Stati Uniti, India, e con vendite in oltre 130 paesi nel mondo || per tutte le esigenze dell’architettura residenziale, commerciale e pubblica"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}
