@@ -1,0 +1,28 @@
+{
+ "slug": "auto-2000",
+ "company": "Auto 2000",
+ "first_name": "Simone",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Auto 2000 è concessionaria e officina autorizzata Fiat dal 1982 e ha aperto un secondo showroom a Ponte a Egola con tutti i marchi del gruppo. Qui trova come lavoriamo e cosa potremmo fare per Auto 2000.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Auto 2000.",
+ "evidence": [
+  {
+   "claim": "Auto 2000 è concessionaria e officina autorizzata Fiat dal 1982 e ha aperto un secondo showroom a Ponte a Egola con tutti i marchi del gruppo.",
+   "url": "https://www.autoduemila.com/chi-siamo/",
+   "quote": "Abbiamo iniziato con la vendita di ricambi e rivendita auto e nel 1982 siamo diventati concessionaria e o fficina autorizzata Fiat, Lancia, Fiat Professional e Abarth || abbiamo aperto un secondo grande showroom a San Miniato, località Ponte a Egola , con tutti i marchi del gruppo FCA: Jeep, Alfa Romeo, Lancia, Fiat e Fiat Professional || tra i maggiori punti di riferimento degli automobilisti di Ponsacco, Pisa, Ponte a Egola, Pontedera e tutta la Valdera e la zona del Cuoio"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

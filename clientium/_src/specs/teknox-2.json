@@ -1,0 +1,28 @@
+{
+ "slug": "teknox-2",
+ "company": "Teknox",
+ "first_name": "Armando",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Teknox progetta da 60 anni impianti di lavaggio industriale ad acqua per componenti, venduti in oltre 80 paesi tramite distributori. Qui trova come lavoriamo e cosa potremmo fare per Teknox.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Teknox.",
+ "evidence": [
+  {
+   "claim": "Teknox progetta da 60 anni impianti di lavaggio industriale ad acqua per componenti, venduti in oltre 80 paesi tramite distributori.",
+   "url": "https://www.teknox.net/azienda/",
+   "quote": "Da 60 anni, Teknox si occupa della progettazione e realizzazione di impianti di lavaggio industriale ad acqua per componenti. || propone macchinari dalle alte performance in oltre 80 paesi, attraverso distributori qualificati e operativi in tutti i continenti. || I macchinari Teknox vengono impiegati nelle realtà più disparate: dalle officine meccaniche alle industrie alimentari, dalle fonderie ai produttori di cosmetici"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

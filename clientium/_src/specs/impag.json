@@ -1,0 +1,28 @@
+{
+ "slug": "impag",
+ "company": "IMPAG Group",
+ "first_name": "Gunay",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IMPAG fornisce materie prime speciali, ingredienti e consulenza a life science e material science servendo clienti in oltre 30 Paesi. Qui trova come lavoriamo e cosa potremmo fare per IMPAG Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IMPAG Group.",
+ "evidence": [
+  {
+   "claim": "IMPAG fornisce materie prime speciali, ingredienti e consulenza a life science e material science servendo clienti in oltre 30 Paesi.",
+   "url": "https://www.impag.com/en",
+   "quote": "IMPAG is providing specialty raw materials, ingredients and consultancy for the Life Science and Material Science industry. || Through our national companies, we serve customers in over 30 countries and supply raw materials throughout Europe. || High-quality raw materials and active ingredients for the Personal and Home Care industries."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

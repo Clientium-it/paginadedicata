@@ -1,0 +1,28 @@
+{
+ "slug": "veneta-cucine-4",
+ "company": "Veneta Cucine",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Veneta Cucine impiega oltre 800 persone tra Biancade, Codissago e San Biagio di Callalta e immette sul mercato 90.000 sistemi cucina ogni anno. Qui trova come lavoriamo e cosa potremmo fare per Veneta Cucine.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Veneta Cucine.",
+ "evidence": [
+  {
+   "claim": "Veneta Cucine impiega oltre 800 persone tra Biancade, Codissago e San Biagio di Callalta e immette sul mercato 90.000 sistemi cucina ogni anno.",
+   "url": "https://www.venetacucine.com/it/veneta-cucine",
+   "quote": "impiega oltre 800 persone grazie alle quali progetta, produce, gestisce, amministra e distribuisce 10 sistemi, 40 modelli su 5 diverse scocche, che generano 300 varianti cromatiche e materiche, con infinite possibilità di personalizzazioni tali da immettere sul mercato 90.000 sistemi cucina ogni anno || suddivisi tra il complesso di Biancade (TV) che ospita sia la produzione che gli uffici, lo stabilimento per la lavorazione del legno di Codissago - Longarone (BL) e quello di San Biagio Di Callalta (TV) dedicato alla linea di prodotto Caranto"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

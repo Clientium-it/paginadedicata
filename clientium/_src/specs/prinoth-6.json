@@ -1,0 +1,28 @@
+{
+ "slug": "prinoth-6",
+ "company": "PRINOTH",
+ "first_name": "Hannes",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Prinoth oltre ai battipista produce veicoli cingolati e mezzi per la gestione della vegetazione, con sedi principali in Italia, Canada e Austria. Qui trova come lavoriamo e cosa potremmo fare per PRINOTH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PRINOTH.",
+ "evidence": [
+  {
+   "claim": "Prinoth oltre ai battipista produce veicoli cingolati e mezzi per la gestione della vegetazione, con sedi principali in Italia, Canada e Austria.",
+   "url": "https://prinoth.com/en/company/history",
+   "quote": "Over the decades, Prinoth expanded its expertise beyond snow grooming to crawler carriers and vegetation management equipment || we source 100 percent renewable electricity for our main sites in Italy, Canada, and Austria || enabled Prinoth to expand its field of operations into more industries, including construction, power electric and environmental work"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

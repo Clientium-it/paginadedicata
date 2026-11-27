@@ -1,0 +1,28 @@
+{
+ "slug": "dubhe-2",
+ "company": "Dubhe",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dubhe distribuisce da Candiolo ricambi per autocarri e veicoli commerciali, specializzata in parti di motore, cambio e differenziale. Qui trova come lavoriamo e cosa potremmo fare per Dubhe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dubhe.",
+ "evidence": [
+  {
+   "claim": "Dubhe distribuisce da Candiolo ricambi per autocarri e veicoli commerciali, specializzata in parti di motore, cambio e differenziale.",
+   "url": "https://www.mecdiesel.it/",
+   "quote": "Dubhe è il distributore italiano specializzato in parti di ricambio per autocarro e veicolo commerciale con una forte specializzazione sui ricambi motore, cambio e differenziale. || Indirizzo Via Sestriere 3, 10060 Candiolo (TO) Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

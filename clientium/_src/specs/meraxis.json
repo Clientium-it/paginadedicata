@@ -1,0 +1,28 @@
+{
+ "slug": "meraxis",
+ "company": "Meraxis Group",
+ "first_name": "Anna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Meraxis fornisce in tutto il mondo polimeri prime, riciclati e compound su misura, con 1.250 m² di laboratorio a Rehau. Qui trova come lavoriamo e cosa potremmo fare per Meraxis Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Meraxis Group.",
+ "evidence": [
+  {
+   "claim": "Meraxis fornisce in tutto il mondo polimeri prime, riciclati e compound su misura, con 1.250 m² di laboratorio a Rehau.",
+   "url": "https://www.meraxis-group.com/portfolio-loesungen/one-stop-shop",
+   "quote": "Das heißt, wir beliefern Kunden weltweit mit Polymeren und polymerbasierten Produkten und Lösungen. Wir bieten neben Prime- auch Recyclingware und maßgeschneiderte Compounds. || Auf 1.250 m² Laborfläche am Standort Rehau (Deutschland) entwickeln wir Rezepturen, analysieren Materialien und begleiten Sie von der Rohstoffprüfung bis zur Produktqualifizierung. || KMU vertrauen uns ebenso wie Konzerne. Denn wir arbeiten global mit bewährten Zulieferpartnern"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "wipak",
+ "company": "Wipak",
+ "first_name": "Sara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Wipak produce imballaggi flessibili per prodotti alimentari e sanitari con stabilimenti tra Italia, Finlandia, Germania, Spagna e Cina. Qui trova come lavoriamo e cosa potremmo fare per Wipak.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Wipak.",
+ "evidence": [
+  {
+   "claim": "Wipak produce imballaggi flessibili per prodotti alimentari e sanitari con stabilimenti tra Italia, Finlandia, Germania, Spagna e Cina.",
+   "url": "https://wipak.com/about-us/",
+   "quote": "You don’t just need flexible packaging for your food and healthcare products , you need an experienced and knowledgeable extension of your team. || Production plants China, Finland, France, Germany, Italy, Netherlands, Poland, Spain, UK Sales offices China, Czech Republic, Hungary, Japan, Norway, Singapore, Sweden, Turkey || You don’t just need flexible packaging for your food and healthcare products , you need an experienced and knowledgeable extension of your team."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

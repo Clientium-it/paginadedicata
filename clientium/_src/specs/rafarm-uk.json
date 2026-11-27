@@ -1,0 +1,28 @@
+{
+ "slug": "rafarm-uk",
+ "company": "RAFARM UK LIMITED",
+ "first_name": "Giulia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rafarm dal 1970 sviluppa farmaci in Grecia con 750 persone e 100 prodotti in sviluppo, presente in 60 paesi. Qui trova come lavoriamo e cosa potremmo fare per RAFARM UK LIMITED.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RAFARM UK LIMITED.",
+ "evidence": [
+  {
+   "claim": "Rafarm dal 1970 sviluppa farmaci in Grecia con 750 persone e 100 prodotti in sviluppo, presente in 60 paesi.",
+   "url": "https://www.rafarmgroup.gr/",
+   "quote": "Η RAFARM, συμπλήρωσε, το 2024, 50 χρόνια από την ίδρυσή της, με πολλά και σημαντικά ορόσημα, πρωτιές και διακρίσεις που την κατατάσσουν μεταξύ των μεγαλύτερων ελληνικών φαρμακοβιομηχανιών στην εγχώρια και διεθνή αγορά. || 1970 > 750 άνθρωποι > 100 προϊόντα ανάπτυξης RAFARM 60 χώρες"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "transtecno-4",
+ "company": "Transtecno Group",
+ "first_name": "Selen",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Transtecno produce motoriduttori in ghisa per coppie fino a 3500 Nm, anche per allevamento, caldaie a biomassa e autolavaggi, con aziende in diversi Paesi. Qui trova come lavoriamo e cosa potremmo fare per Transtecno Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Transtecno Group.",
+ "evidence": [
+  {
+   "claim": "Transtecno produce motoriduttori in ghisa per coppie fino a 3500 Nm, anche per allevamento, caldaie a biomassa e autolavaggi, con aziende in diversi Paesi.",
+   "url": "https://transtecno.com/",
+   "quote": "La gamma è costruita in ghisa ad elevata resistenza, per coppie fino a 3500 Nm (31.000 lb-in). || Transtecno Group è composto da aziende dislocate in diversi Paesi, punti strategici a livello internazionale. || Motoriduttori per mercati specifici Allevamento Poultry&PigTecno Caldaie a biomassa FireTecno Autolavaggio Car-WashTecno Outdoor WashdownTecno"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "faba",
+ "company": "FABA",
+ "first_name": "Giulia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Faba ha portato 540.000 Raccontastorie nelle camerette dei bambini, ha oltre 500 prodotti sonori a catalogo ed è presente in 5 paesi. Qui trova come lavoriamo e cosa potremmo fare per FABA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FABA.",
+ "evidence": [
+  {
+   "claim": "Faba ha portato 540.000 Raccontastorie nelle camerette dei bambini, ha oltre 500 prodotti sonori a catalogo ed è presente in 5 paesi.",
+   "url": "https://www.myfaba.it/chi-siamo/",
+   "quote": "3.000.000 Prodotti Sonori venduti 540.000 Raccontastorie nelle camerette di bambini e bambine +500 Prodotti Sonori a catalogo 5 Paesi e 4 lingue || Coordina il team commerciale che lavora in Italia, Francia, Belgio e Spagna. || Con Faba vogliamo accompagnare i bambini nel loro percorso di crescita, rendendo l’ascolto dei contenuti audio una pratica diffusa e diventando un alleato dei genitori nel tenere i bambini lontani dagli schermi."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

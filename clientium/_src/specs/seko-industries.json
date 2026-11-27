@@ -1,0 +1,28 @@
+{
+ "slug": "seko-industries",
+ "company": "SEKO INDUSTRIES",
+ "first_name": "Ahmedou",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SEKO progetta la serie Separator, vagli a tamburo pensati per gli impianti di compostaggio e di riciclo. Qui trova come lavoriamo e cosa potremmo fare per SEKO INDUSTRIES.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SEKO INDUSTRIES.",
+ "evidence": [
+  {
+   "claim": "SEKO progetta la serie Separator, vagli a tamburo pensati per gli impianti di compostaggio e di riciclo.",
+   "url": "https://kongskilde.com/",
+   "quote": "The SEKO Separator Series represents the latest generation of drum screening technology, designed to deliver maximum performance, durability, and efficiency in composting and recycling applications. || KONGSKILDE-SEKO SRL Via Gorizia, 90 – 35010 Curtarolo (PD) – ITALY || designed to deliver maximum performance, durability, and efficiency in composting and recycling applications"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

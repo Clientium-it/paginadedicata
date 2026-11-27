@@ -1,0 +1,28 @@
+{
+ "slug": "logista-retail-italia",
+ "company": "Logista Retail Italia",
+ "first_name": "Vincenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Logista distribuisce prodotti convenience a oltre 53.000 punti vendita tra tabaccherie e bar con 3 centri di distribuzione e circa 90 depositi in Italia. Qui trova come lavoriamo e cosa potremmo fare per Logista Retail Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Logista Retail Italia.",
+ "evidence": [
+  {
+   "claim": "Logista distribuisce prodotti convenience a oltre 53.000 punti vendita tra tabaccherie e bar con 3 centri di distribuzione e circa 90 depositi in Italia.",
+   "url": "https://www.logistaretail.it/chi-siamo.html",
+   "quote": "leader a livello nazionale nella distribuzione di prodotti convenience per tabaccherie e bar. Con 3 Centri di distribuzione in Italia e un efficace sistema di commercializzazione multicanale || oltre 53.000 Punti vendita serviti Circa 90 Depositi in Italia || Leader nella distribuzione di prodotti per tabaccherie e bar"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

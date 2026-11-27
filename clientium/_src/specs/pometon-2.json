@@ -1,0 +1,28 @@
+{
+ "slug": "pometon-2",
+ "company": "Pometon",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pometon produce polveri metalliche e graniglie in 2 stabilimenti tra Italia e Serbia per settori dall'automotive all'aerospaziale. Qui trova come lavoriamo e cosa potremmo fare per Pometon.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pometon.",
+ "evidence": [
+  {
+   "claim": "Pometon produce polveri metalliche e graniglie in 2 stabilimenti tra Italia e Serbia per settori dall'automotive all'aerospaziale.",
+   "url": "https://www.pometon.com/it/chi-siamo/",
+   "quote": "Pometon è il principale produttore europeo di polveri metalliche e graniglie . Con una rete globale di filiali, forniamo soluzioni personalizzate per diversi settori, dall’automotive all’industria aerospaziale || 2 Siti produttivi I nostri stabilimenti in Italia e in Serbia garantiscono una capacità produttiva che ci permette di soddisfare le richieste del mercato. || forniamo soluzioni personalizzate per diversi settori, dall’automotive all’industria aerospaziale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

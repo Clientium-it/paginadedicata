@@ -1,0 +1,28 @@
+{
+ "slug": "mauro-saviola-2",
+ "company": "GRUPPO MAURO SAVIOLA",
+ "first_name": "Elisabetta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Saviola realizza il Pannello Ecologico interamente in legno riciclato al 100%, scelto da aziende d'arredo per produrre mobili e cucine. Qui trova come lavoriamo e cosa potremmo fare per GRUPPO MAURO SAVIOLA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GRUPPO MAURO SAVIOLA.",
+ "evidence": [
+  {
+   "claim": "Saviola realizza il Pannello Ecologico interamente in legno riciclato al 100%, scelto da aziende d'arredo per produrre mobili e cucine.",
+   "url": "https://www.saviola.com/",
+   "quote": "Pannello Ecologico® è un prodotto di alto design, realizzato completamente in legno con essenze 100% riciclate. Pannello Ecologico® e’ stato scelto dalle migliori aziende d’arredo per la produzione di mobili e cucine. || Sede Centrale Viale Lombardia, 29, 46019, Viadana (MN)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

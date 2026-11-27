@@ -1,0 +1,28 @@
+{
+ "slug": "wamgroup-2",
+ "company": "WAMGROUP",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "WAMGROUP produce componenti per la movimentazione di solidi sfusi ed è presente in India con una filiale dal 1996 che fa da hub produttivo. Qui trova come lavoriamo e cosa potremmo fare per WAMGROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per WAMGROUP.",
+ "evidence": [
+  {
+   "claim": "WAMGROUP produce componenti per la movimentazione di solidi sfusi ed è presente in India con una filiale dal 1996 che fa da hub produttivo.",
+   "url": "https://wamgroup.in/en/WAMIN/home",
+   "quote": "The Italian WAMGROUP, worldwide leader in developing and manufacturing equipment and plant components for bulk solids handling and processing, has been represented in India by its own subsidiary since 1996. || Apart from being responsible for distribution of the WAMGROUP product range in India, Sri Lanka, Bangladesh and Nepal, WAM India is the Group’s manufacturing hub for the subcontinent. || Feed & Food Battery Plastics & Chemicals Building & Construction Animal Nutrition"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

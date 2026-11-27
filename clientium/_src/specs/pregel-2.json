@@ -1,0 +1,28 @@
+{
+ "slug": "pregel-2",
+ "company": "PreGel",
+ "first_name": "Vittorio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pregel produce da oltre cinquantacinque anni semilavorati per gelateria, pasticceria e coffee shop ed esporta in oltre 130 paesi. Qui trova come lavoriamo e cosa potremmo fare per PreGel.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PreGel.",
+ "evidence": [
+  {
+   "claim": "Pregel produce da oltre cinquantacinque anni semilavorati per gelateria, pasticceria e coffee shop ed esporta in oltre 130 paesi.",
+   "url": "https://pregel.it/chi-siamo/idee-e-valori/",
+   "quote": "Da oltre cinquantacinque anni produciamo semilavorati per la gelateria , pasticceria e coffee shop . || il nostro prodotto oggi è esportato in oltre 130 paesi || Da oltre cinquantacinque anni produciamo semilavorati per la gelateria , pasticceria e coffee shop ."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

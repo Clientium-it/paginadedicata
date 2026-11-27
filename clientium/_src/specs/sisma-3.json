@@ -1,0 +1,28 @@
+{
+ "slug": "sisma-3",
+ "company": "Sisma",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sisma costruisce oltre 150 modelli di macchine per catena orafa e ha filiali in Germania, Messico, Spagna, Turchia e Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per Sisma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sisma.",
+ "evidence": [
+  {
+   "claim": "Sisma costruisce oltre 150 modelli di macchine per catena orafa e ha filiali in Germania, Messico, Spagna, Turchia e Stati Uniti.",
+   "url": "https://www.sisma.com/azienda/",
+   "quote": "Con oltre 150 modelli di macchine per la produzione automatica di catena orafa , SISMA ha costruito una reputazione solida nel mondo della gioielleria, espandendo nel tempo il proprio know-how a molteplici ambiti applicativi. || Grazie a f iliali operative in Germania, Messico, Spagna, Turchia e Stati Uniti , e a una rete commerciale globale, integriamo il nostro know-how tecnico con un costante scambio internazionale. || Analizziamo a fondo i processi dei nostri clienti nei settori della gioielleria e dell’ industria , per consigliare le soluzioni più performanti , adatte alle reali esigenze operative."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

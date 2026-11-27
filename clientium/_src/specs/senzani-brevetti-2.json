@@ -1,0 +1,28 @@
+{
+ "slug": "senzani-brevetti-2",
+ "company": "SENZANI BREVETTI",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Senzani costruisce macchine per il packaging con sede a Faenza e ha installato oltre 2.200 macchine nel mondo per food, home care e tabacco. Qui trova come lavoriamo e cosa potremmo fare per SENZANI BREVETTI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SENZANI BREVETTI.",
+ "evidence": [
+  {
+   "claim": "Senzani costruisce macchine per il packaging con sede a Faenza e ha installato oltre 2.200 macchine nel mondo per food, home care e tabacco.",
+   "url": "https://www.senzani.com/about-us/",
+   "quote": "Over the years, we have installed more than 2,200 machines worldwide for major companies and multinationals across the food industry, fabric & home care, tobacco, and many other sectors. || We are a leading packaging machinery manufacturer headquartered in Faenza (Italy), with a global presence across all continents through a network of partner agencies. || for major companies and multinationals across the food industry, fabric & home care, tobacco, and many other sectors."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "wartsila-italia-2",
+ "company": "Wärtsilä Italia",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Wärtsilä offre soluzioni di propulsione, energia e ciclo di vita per il settore navale ed energetico, con 17.900 dipendenti in 78 paesi. Qui trova come lavoriamo e cosa potremmo fare per Wärtsilä Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Wärtsilä Italia.",
+ "evidence": [
+  {
+   "claim": "Wärtsilä offre soluzioni di propulsione, energia e ciclo di vita per il settore navale ed energetico, con 17.900 dipendenti in 78 paesi.",
+   "url": "https://www.wartsila.com/about",
+   "quote": "In marine, we are a global pioneer in power, propulsion, digital, and lifecycle solutions, helping our customers navigate decarbonisation with confidence. || 17,900 employees 123 nationalities 78 countries 199 locations || Wärtsilä is a global leader in innovative technologies and lifecycle solutions for the marine and energy industries."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

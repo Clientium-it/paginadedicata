@@ -1,0 +1,28 @@
+{
+ "slug": "poplast",
+ "company": "POPLAST",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Poplast produce imballaggi flessibili per food e no food con stampa flessografica e rotocalco nei due stabilimenti di Castel San Giovanni e Lamporecchio. Qui trova come lavoriamo e cosa potremmo fare per POPLAST.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per POPLAST.",
+ "evidence": [
+  {
+   "claim": "Poplast produce imballaggi flessibili per food e no food con stampa flessografica e rotocalco nei due stabilimenti di Castel San Giovanni e Lamporecchio.",
+   "url": "https://www.poplast.it/chi-siamo/",
+   "quote": "con due stabilimenti produttivi di oltre 30.000 mq (Castel San Giovanni) e oltre 7.000 mq (Lamporecchio), è in grado di fornire al mercato del packaging alimentare e industriale , imballaggi flessibili di elevata qualità e sostenibilità || Il GRUPPO POPLAST , con due stabilimenti produttivi di oltre 30.000 mq (Castel San Giovanni) e oltre 7.000 mq (Lamporecchio) || Il GRUPPO POPLAST è uno dei maggiori player nazionali della stampa flessografica e stampa rotocalco, e dei processi di laminazione e taglio per il packaging dei settori food e no-food."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

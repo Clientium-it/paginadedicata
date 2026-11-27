@@ -1,0 +1,28 @@
+{
+ "slug": "fondital",
+ "company": "Fondital",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fondital ha sede a Vobarno e produce radiatori in alluminio e sistemi di riscaldamento oltre a componenti strutturali per l'industria automobilistica. Qui trova come lavoriamo e cosa potremmo fare per Fondital.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fondital.",
+ "evidence": [
+  {
+   "claim": "Fondital ha sede a Vobarno e produce radiatori in alluminio e sistemi di riscaldamento oltre a componenti strutturali per l'industria automobilistica.",
+   "url": "https://www.fondital.com/de/de/",
+   "quote": "Fondital ist ein europäischer Marktführer in der Herstellung von Aluminiumheizkörpern und innovativen Heizsystemen sowie ein Hersteller von Strukturbauteilen für die Automobilindustrie. || Sede Legale e Amministrativa Via Cerreto, 40 - 25079 VOBARNO (Brescia) Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

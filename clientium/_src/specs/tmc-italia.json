@@ -1,0 +1,28 @@
+{
+ "slug": "tmc-italia",
+ "company": "TMC Italia",
+ "first_name": "Pier Luigi Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TMC è una società globale di consulenza tecnologica attiva in chimica e food, aerospazio e difesa, automotive e ferroviario. Qui trova come lavoriamo e cosa potremmo fare per TMC Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TMC Italia.",
+ "evidence": [
+  {
+   "claim": "TMC è una società globale di consulenza tecnologica attiva in chimica e food, aerospazio e difesa, automotive e ferroviario.",
+   "url": "https://www.themembercompany.com/",
+   "quote": "We are a global technology consulting company with a team of employeneurs who combine deep technical expertise and strong entrepreneurial skills. || Chemicals, Process & Food Industry Aeronautics, Space & Defense Automotive, Railway & Transport"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

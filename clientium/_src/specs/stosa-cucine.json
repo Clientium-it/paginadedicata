@@ -1,0 +1,28 @@
+{
+ "slug": "stosa-cucine",
+ "company": "Stosa Cucine",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Stosa produce cucine italiane da oltre 60 anni ed è scelta dai consumatori di oltre 80 paesi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Stosa Cucine.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Stosa Cucine.",
+ "evidence": [
+  {
+   "claim": "Stosa produce cucine italiane da oltre 60 anni ed è scelta dai consumatori di oltre 80 paesi nel mondo.",
+   "url": "https://www.stosacucine.com/it/chi-siamo/",
+   "quote": "È il percorso di una grande azienda che da oltre 60 anni produce cucine italiane di qualità, riconosciute e apprezzate per innovazione e design in Italia e all’estero. || di essere scelta dai consumatori di oltre 80 paesi nel mondo || Creare eccezionale valore per i consumatori e i rivenditori nel mondo"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

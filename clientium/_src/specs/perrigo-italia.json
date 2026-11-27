@@ -1,0 +1,28 @@
+{
+ "slug": "perrigo-italia",
+ "company": "PERRIGO Italia",
+ "first_name": "Pierpaolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Perrigo dal 1887 offre prodotti per la salute e il benessere delle persone ed è presente in diversi paesi tra cui l'Italia. Qui trova come lavoriamo e cosa potremmo fare per PERRIGO Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PERRIGO Italia.",
+ "evidence": [
+  {
+   "claim": "Perrigo dal 1887 offre prodotti per la salute e il benessere delle persone ed è presente in diversi paesi tra cui l'Italia.",
+   "url": "https://www.perrigo.com/",
+   "quote": "Since 1887, Perrigo has been providing its customers and consumers with high-quality products that support personal health and wellness by delivering effective solutions that meet the needs of consumers. || Change Location Australia Belgium(Dut) Belgium(Fre) Czech Republic Denmark Finland France Germany Greece Italy Netherlands Norway Poland Portugal Romania Slovakia Spain Sweden Turkey Ukraine United Kingdom"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

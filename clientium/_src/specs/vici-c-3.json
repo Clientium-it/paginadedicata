@@ -1,0 +1,28 @@
+{
+ "slug": "vici-c-3",
+ "company": "Vici & C",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vicivision offre macchine di misura ottica per controlli dimensionali su componenti automotive, applicazioni aerospaziali, dispositivi medicali ed elettronica di precisione. Qui trova come lavoriamo e cosa potremmo fare per Vici & C.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vici & C.",
+ "evidence": [
+  {
+   "claim": "Vicivision offre macchine di misura ottica per controlli dimensionali su componenti automotive, applicazioni aerospaziali, dispositivi medicali ed elettronica di precisione.",
+   "url": "https://www.vicivision.com/it/settori/",
+   "quote": "Dai componenti automotive alle applicazioni aerospaziali, dai dispositivi medicali all’elettronica di precisione: le nostre macchine di misura ottica garantiscono controlli dimensionali rapidi e affidabili || Vici & C. S.p.A. Via J. Gutenberg, 5 47822 Santarcangelo di Romagna (RN) - Italy || Dai componenti automotive alle applicazioni aerospaziali, dai dispositivi medicali all’elettronica di precisione"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

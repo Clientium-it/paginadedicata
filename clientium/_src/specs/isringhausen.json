@@ -1,0 +1,28 @@
+{
+ "slug": "isringhausen",
+ "company": "Isringhausen",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Isringhausen sviluppa e produce sistemi di seduta e molle tecniche per camion, furgoni, autobus e fuoristrada e opera in 22 paesi. Qui trova come lavoriamo e cosa potremmo fare per Isringhausen.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Isringhausen.",
+ "evidence": [
+  {
+   "claim": "Isringhausen sviluppa e produce sistemi di seduta e molle tecniche per camion, furgoni, autobus e fuoristrada e opera in 22 paesi.",
+   "url": "https://www.isri.com/",
+   "quote": "Wir sind einer der führenden Hersteller für die Entwicklung und Fertigung innovativer Sitzsysteme und Technischer Federn weltweit. Unsere Produkte kommen weltweit in Lkws, Transportern, Bussen und Offroad-Fahrzeugen zum Einsatz. || Heute ist die ISRINGHAUSEN Group in 22 Ländern und einem starken Vertriebsnetzwerk einer der weltweit führenden Zulieferer für die Automobil- und Nutzfahrzeugbranche. || Wir sind einer der führenden Hersteller von Sitzsystemen und Technischen Federn für die Automobil- und Nutzfahrzeugindustrie."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

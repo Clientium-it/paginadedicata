@@ -1,0 +1,28 @@
+{
+ "slug": "yaskawa-italia",
+ "company": "YASKAWA Italia",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Yaskawa progetta da oltre 30 anni impianti robotizzati chiavi in mano per saldatura e pressopiegatura, con un'accademia a Orbassano. Qui trova come lavoriamo e cosa potremmo fare per YASKAWA Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per YASKAWA Italia.",
+ "evidence": [
+  {
+   "claim": "Yaskawa progetta da oltre 30 anni impianti robotizzati chiavi in mano per saldatura e pressopiegatura, con un'accademia a Orbassano.",
+   "url": "https://www.yaskawa.it/Formazione-sedi",
+   "quote": "Con oltre 30 anni di esperienza nella progettazione di impianti, offriamo soluzioni e sistemi chiavi in mano configurati secondo le specifiche del cliente. Sistemi di saldatura ad arco standard Sistemi di saldatura a punti Sistema robotizzato di pressopiegatura || La nostra Accademia Yaskawa ad Orbassano (Torino) ha: Un’area di 350 m2 Una training room con celle “You Teach Me” Più di 10 robot con controlli di generazioni diverse 8 celle robotizzate || Settori industriali Arti | Divertimento Automazione laboratorio Automotive Ceramics | Sanitary Chimica / Plastica"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

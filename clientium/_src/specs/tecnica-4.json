@@ -1,0 +1,28 @@
+{
+ "slug": "tecnica-4",
+ "company": "Tecnica Group",
+ "first_name": "Tobias",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecnica Group produce calzature e attrezzatura per sport invernali con 4000 persone in 12 paesi tra Europa, Nord America e Asia. Qui trova come lavoriamo e cosa potremmo fare per Tecnica Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tecnica Group.",
+ "evidence": [
+  {
+   "claim": "Tecnica Group produce calzature e attrezzatura per sport invernali con 4000 persone in 12 paesi tra Europa, Nord America e Asia.",
+   "url": "https://www.tecnicagroup.com/",
+   "quote": "Tecnica Group is a leading sport equipment manufacturer in the market of footwear and winter sports equipment. || We are a team of 4000 employees working in 12 countries across Europe, North America, and Asia."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

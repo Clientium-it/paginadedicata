@@ -1,0 +1,28 @@
+{
+ "slug": "confindustria-verona",
+ "company": "Confindustria Verona",
+ "first_name": "Raffaele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Confindustria Verona assiste le imprese su credito, fisco, agevolazioni, sostenibilità, lavoro, sicurezza e formazione. Qui trova come lavoriamo e cosa potremmo fare per Confindustria Verona.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Confindustria Verona.",
+ "evidence": [
+  {
+   "claim": "Confindustria Verona assiste le imprese su credito, fisco, agevolazioni, sostenibilità, lavoro, sicurezza e formazione.",
+   "url": "https://www.confindustria.verona.it/",
+   "quote": "Informazione Tecnica Gestione amministrativa e finanziaria Credito Finanza Assicurazioni Fisco Diritto d'impresa Agevolazioni Sostenibilità Risorse Umane Lavoro e previdenza Sicurezza e salute sul lavoro Formazione"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

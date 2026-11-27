@@ -1,0 +1,28 @@
+{
+ "slug": "la-doria-5",
+ "company": "La Doria",
+ "first_name": "Maria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "La Doria è nata nel 1954 ad Angri in provincia di Salerno e lavora sul mercato italiano e in Gran Bretagna, Australia, Giappone e Germania. Qui trova come lavoriamo e cosa potremmo fare per La Doria.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per La Doria.",
+ "evidence": [
+  {
+   "claim": "La Doria è nata nel 1954 ad Angri in provincia di Salerno e lavora sul mercato italiano e in Gran Bretagna, Australia, Giappone e Germania.",
+   "url": "https://www.ladoria.it/storia-ladoria/",
+   "quote": "1954 Una storia di famiglia Ad Angri, in provincia di Salerno, Diodato Ferraioli fonda l’azienda La Doria. || La Doria aumenta le quote di mercato in Italia, e all’estero (Gran Bretagna, Australia, Giappone e Germania)."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

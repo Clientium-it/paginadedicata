@@ -1,0 +1,28 @@
+{
+ "slug": "senseca",
+ "company": "Senseca",
+ "first_name": "Valentina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Senseca progetta strumenti per automazione e processo, monitoraggio ambientale e misura portatile, prodotti nei propri siti in Germania, Italia, Inghilterra e Spagna. Qui trova come lavoriamo e cosa potremmo fare per Senseca.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Senseca.",
+ "evidence": [
+  {
+   "claim": "Senseca progetta strumenti per automazione e processo, monitoraggio ambientale e misura portatile, prodotti nei propri siti in Germania, Italia, Inghilterra e Spagna.",
+   "url": "https://www.senseca.com/en/company",
+   "quote": "We provide advanced automation and process instrumentation, environmental monitoring solutions, and portable measurement devices built for reliable performance in demanding conditions. || Designed and manufactured at our own production sites in Germany, Italy, England and Spain, meeting the highest quality and industry standards."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

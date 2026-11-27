@@ -1,0 +1,28 @@
+{
+ "slug": "vdp",
+ "company": "VDP Group",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "VDP produce nei siti di Schio, Albignasego e Camposampiero getti da pochi kg fino a 100.000 kg per navale, energia e movimento terra. Qui trova come lavoriamo e cosa potremmo fare per VDP Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VDP Group.",
+ "evidence": [
+  {
+   "claim": "VDP produce nei siti di Schio, Albignasego e Camposampiero getti da pochi kg fino a 100.000 kg per navale, energia e movimento terra.",
+   "url": "https://www.vdp.it/",
+   "quote": "La capacità produttiva di VDP Group è composta da impianti automatici in sabbia a verde e manuale sabbia-resina per la produzione di getti del peso di pochi kg fino a 100.000 kg. || VDP Fonderia Via Lago di Alleghe, 39 – 36015 Schio (VI) VDZ Via Marco Polo, 3 – 35020 Albignasego (PD) VDC Via Ippolito Nievo, 1 – 35012 Camposampiero (PD) || uno dei principali player di mercato per applicazioni nel settore navale, energia, movimento terra ed altre primarie derivazioni di settore."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

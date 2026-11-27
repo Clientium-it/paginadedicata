@@ -1,0 +1,28 @@
+{
+ "slug": "sirio-3",
+ "company": "Sirio",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sirio distribuisce dalla provincia di Firenze componenti elettrici ed elettronici per macchine automatiche e dal 2015 ha un'unità commerciale a Bologna. Qui trova come lavoriamo e cosa potremmo fare per Sirio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sirio.",
+ "evidence": [
+  {
+   "claim": "Sirio distribuisce dalla provincia di Firenze componenti elettrici ed elettronici per macchine automatiche e dal 2015 ha un'unità commerciale a Bologna.",
+   "url": "https://www.siriofirenze.com/",
+   "quote": "SIRIO è una realtà leader nella distribuzione di componenti elettrici ed elettronici per macchine automatiche. Situata nella provincia di Firenze || Dal 2015 l’azienda ha un’ unità commerciale anche a Bologna || SIRIO offre una serie di soluzioni tecnologiche per le macchine industriali di ogni settore: dall’alimentare alle energie alternative, fino alla grande industria e al settore ferroviario"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

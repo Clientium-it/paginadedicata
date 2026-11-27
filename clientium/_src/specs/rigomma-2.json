@@ -1,0 +1,28 @@
+{
+ "slug": "rigomma-2",
+ "company": "Rigomma",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rigomma è nata nel 1952 ricostruendo pneumatici e nel 2021 ha aperto a Monza il suo diciottesimo negozio. Qui trova come lavoriamo e cosa potremmo fare per Rigomma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rigomma.",
+ "evidence": [
+  {
+   "claim": "Rigomma è nata nel 1952 ricostruendo pneumatici e nel 2021 ha aperto a Monza il suo diciottesimo negozio.",
+   "url": "https://www.rigomma.it/azienda/",
+   "quote": "1952 – RIGOMMA, acronimo di Ricostruzione Gomme Marghera, nasce come azienda di ricostruzione pneumatici su iniziativa del Cav. Giuseppe Levorato || 2021 – Rigomma inaugura il negozio di Monza, 18° negozio del gruppo che amplia così la propria presenza in Lombardia."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}
