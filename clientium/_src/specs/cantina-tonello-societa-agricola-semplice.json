@@ -1,0 +1,28 @@
+{
+ "slug": "cantina-tonello-societa-agricola-semplice",
+ "company": "Cantina Tonello Società Agricola Semplice",
+ "first_name": "Diletta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cantina Tonello coltiva 10 ettari di vigneti con viticoltura biologica su terreni vulcanici a Montorso Vicentino. Qui trova come lavoriamo e cosa potremmo fare per Cantina Tonello Società Agricola Semplice.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cantina Tonello Società Agricola Semplice.",
+ "evidence": [
+  {
+   "claim": "Cantina Tonello coltiva 10 ettari di vigneti con viticoltura biologica su terreni vulcanici a Montorso Vicentino.",
+   "url": "https://www.vinitonello.com/",
+   "quote": "10 Ettari di vigneti Il nostro spazio di lavoro, tra terreni vulcanici e viticoltura biologica || Via Corcironda, 6 36050 Montorso Vicentino (VI)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

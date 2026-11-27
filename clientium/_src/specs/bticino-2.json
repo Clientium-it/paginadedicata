@@ -1,0 +1,28 @@
+{
+ "slug": "bticino-2",
+ "company": "BTICINO",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "BTicino ha sede a Varese, fa parte del gruppo Legrand e si rivolge sia alle famiglie sia a professionisti come architetti, progettisti e installatori. Qui trova come lavoriamo e cosa potremmo fare per BTICINO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BTICINO.",
+ "evidence": [
+  {
+   "claim": "BTicino ha sede a Varese, fa parte del gruppo Legrand e si rivolge sia alle famiglie sia a professionisti come architetti, progettisti e installatori.",
+   "url": "https://www.bticino.it/",
+   "quote": "BTicino Spa - Viale Borri 231, 21100 Varese - Capitale sociale 98.800.000 i.v. - R.I. Varese e C.F./P.I. 10991860155 - R.E.A. Varese 237038 BTicino è una società del gruppo Legrand || Viale Borri 231, 21100 Varese || Per le famiglie e i single che amano la propria casa PER I PROFESSIONISTI Architetti, progettisti, installatori e rivenditori"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

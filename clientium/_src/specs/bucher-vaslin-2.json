@@ -1,0 +1,28 @@
+{
+ "slug": "bucher-vaslin-2",
+ "company": "Bucher Vaslin",
+ "first_name": "Andrian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bucher Vaslin mette oltre 75 anni di esperienza al servizio di tutte le regioni vinicole del mondo. Qui trova come lavoriamo e cosa potremmo fare per Bucher Vaslin.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bucher Vaslin.",
+ "evidence": [
+  {
+   "claim": "Bucher Vaslin mette oltre 75 anni di esperienza al servizio di tutte le regioni vinicole del mondo.",
+   "url": "https://www.buchervaslin.com/services/formations/",
+   "quote": "vous bénéficiez de tout le savoir-faire de Bucher Vaslin, sur plus de 75 années d'expérience, dans toutes les régions vinicoles du monde"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

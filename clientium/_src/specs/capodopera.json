@@ -1,0 +1,28 @@
+{
+ "slug": "capodopera",
+ "company": "Capodopera",
+ "first_name": "Daniela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Capodopera nasce nel 1992 e arreda con le sue collezioni gli ambienti più intimi in numerosi Paesi del mondo. Qui trova come lavoriamo e cosa potremmo fare per Capodopera.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Capodopera.",
+ "evidence": [
+  {
+   "claim": "Capodopera nasce nel 1992 e arreda con le sue collezioni gli ambienti più intimi in numerosi Paesi del mondo.",
+   "url": "https://capodopera.it/about/la-nostra-storia/",
+   "quote": "La nostra storia nasce nel 1992, da una cartella piena di idee. || Ad oggi le sue collezioni arredano con personalità e carattere gli ambienti più intimi di numerosi Paesi del mondo. || L’azienda deve venire usata da privati, rivenditori e architetti."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

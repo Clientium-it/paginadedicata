@@ -1,0 +1,28 @@
+{
+ "slug": "hoppecke",
+ "company": "Hoppecke",
+ "first_name": "Tiziano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hoppecke impiega oltre 2.000 persone in 22 paesi, con 12 siti produttivi e oltre 300 tecnici in Europa, e serve metà delle aziende del DAX. Qui trova come lavoriamo e cosa potremmo fare per Hoppecke.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hoppecke.",
+ "evidence": [
+  {
+   "claim": "Hoppecke impiega oltre 2.000 persone in 22 paesi, con 12 siti produttivi e oltre 300 tecnici in Europa, e serve metà delle aziende del DAX.",
+   "url": "https://www.hoppecke.com/en/about-hoppecke/company/",
+   "quote": "We employ more than 2,000 people in 22 countries and run one of the largest research and development departments in the industry in Europe || 12 production locations 22 international subsidiaries More than 300 service technicians in Europe || 50% of the companies in the DAX and 40% of the companies in the EuroStoxx 50 are customers of HOPPECKE"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "pfm",
+ "company": "pfm",
+ "first_name": "Angela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "PFM sviluppa soluzioni di packaging su misura per oltre 18 settori, dal bakery al caffè al farmaceutico, con sede a Torrebelvicino. Qui trova come lavoriamo e cosa potremmo fare per pfm.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per pfm.",
+ "evidence": [
+  {
+   "claim": "PFM sviluppa soluzioni di packaging su misura per oltre 18 settori, dal bakery al caffè al farmaceutico, con sede a Torrebelvicino.",
+   "url": "https://www.pfm.it/en/",
+   "quote": "18+ Sectors. One Engineering Principle. Each sector behaves differently. PFM analyses these characteristics and translates them into functional engineering, ensuring packaging solutions tailored to the physical nature of every product. || P.F.M. S.P.A. Via Pasubio 49, 36036 Torrebelvicino (Vicenza) Italia || Bakery Beverages Chocolate & Confectionery Coffee Dairy Detergents Fine granulates Fish Frozen Foods Fruit & Vegetables Meat & Sausages Pasta Pet food Pharma Powders Sliced Bread Snacks Sweets Wet wipes"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

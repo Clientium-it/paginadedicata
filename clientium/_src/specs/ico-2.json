@@ -1,0 +1,28 @@
+{
+ "slug": "ico-2",
+ "company": "ICO",
+ "first_name": "Gioele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ICO è un'azienda familiare nata in Abruzzo nel 1952 che produce imballaggi e scatole in cartone ondulato per oltre 1600 clienti in Italia. Qui trova come lavoriamo e cosa potremmo fare per ICO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ICO.",
+ "evidence": [
+  {
+   "claim": "ICO è un'azienda familiare nata in Abruzzo nel 1952 che produce imballaggi e scatole in cartone ondulato per oltre 1600 clienti in Italia.",
+   "url": "https://www.ico.it/chi-siamo",
+   "quote": "Siamo un’azienda famigliare nata in Abruzzo nel 1952 divenuta oggi una realtà di riferimento per la produzione di imballaggi e scatole in cartone ondulato in Italia. || ICO si specializza nella produzione di cassette per ortofrutta e acquisisce lo stabilimento di Foggia. || più di 1600 clienti, distribuiti in tutta Italia e provenienti da settori di business quali farmaceutico, home care, vitivinicolo, food & beverage"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

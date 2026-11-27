@@ -1,0 +1,28 @@
+{
+ "slug": "ferrari-f-lli-lunelli",
+ "company": "Ferrari F.lli Lunelli",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ferrari Trento nasce nel 1902 dal sogno di Giulio Ferrari di creare in Trentino un vino capace di confrontarsi con i migliori Champagne. Qui trova come lavoriamo e cosa potremmo fare per Ferrari F.lli Lunelli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ferrari F.lli Lunelli.",
+ "evidence": [
+  {
+   "claim": "Ferrari Trento nasce nel 1902 dal sogno di Giulio Ferrari di creare in Trentino un vino capace di confrontarsi con i migliori Champagne.",
+   "url": "https://www.ferraritrento.com/chi-siamo/",
+   "quote": "Ferrari Trento nasce nel 1902 da un uomo, Giulio Ferrari, e dal suo sogno di creare in Trentino un vino capace di confrontarsi con i migliori Champagne. || Via del Ponte 15, 38123 Trento (Italia) || Ferrari Trento da sempre è brindisi delle grandi celebrazioni dello sport, delle istituzioni, della cultura e dello spettacolo."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

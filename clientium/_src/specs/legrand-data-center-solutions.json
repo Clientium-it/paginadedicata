@@ -1,0 +1,28 @@
+{
+ "slug": "legrand-data-center-solutions",
+ "company": "Legrand Data Center Solutions",
+ "first_name": "Emanuel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Legrand offre soluzioni per data center come contenimento server, UPS, PDU intelligenti e KVM, con 90 filiali in circa 90 paesi e vendite in 180. Qui trova come lavoriamo e cosa potremmo fare per Legrand Data Center Solutions.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Legrand Data Center Solutions.",
+ "evidence": [
+  {
+   "claim": "Legrand offre soluzioni per data center come contenimento server, UPS, PDU intelligenti e KVM, con 90 filiali in circa 90 paesi e vendite in 180.",
+   "url": "https://www.legrand.it/",
+   "quote": "soluzioni dell’offerta Legrand per il contenimento server e UPS (Gruppi di Continuità), PDU intelligenti (Power Distribution Units) e KVM Raritan, sistemi di contenimento e condizionamento Minkels || 90 filiali e uffici in circa 90 paesi e prodotti venduti in 180 || Gli ambiti di maggior interesse di Borri sono: oil & gas, energia, utilities, processi industriali e servizi, ICT"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

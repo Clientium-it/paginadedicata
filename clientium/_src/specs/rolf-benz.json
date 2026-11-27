@@ -1,0 +1,28 @@
+{
+ "slug": "rolf-benz",
+ "company": "Rolf Benz",
+ "first_name": "Giulia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rolf Benz lavora su misura, con produzione Made in Germany e showroom a Nagold e Stoccarda. Qui trova come lavoriamo e cosa potremmo fare per Rolf Benz.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rolf Benz.",
+ "evidence": [
+  {
+   "claim": "Rolf Benz lavora su misura, con produzione Made in Germany e showroom a Nagold e Stoccarda.",
+   "url": "https://www.rolf-benz.com/de_DE/",
+   "quote": "In Einzelanfertigung Für Sie gemacht Made in Germany Showroom Nagold Beratungstermine AUS LIEBE ZUM LIEGEN || NEU IM DOROTHEEN QUARTIER: ROLF BENZ HAUS STUTTGART"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

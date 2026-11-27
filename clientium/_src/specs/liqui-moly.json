@@ -1,0 +1,28 @@
+{
+ "slug": "liqui-moly",
+ "company": "LIQUI MOLY GmbH",
+ "first_name": "Carlotta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Liqui Moly offre una gamma completa di oltre 4.000 articoli per officina, veicoli commerciali, industria e nautica da Ulm. Qui trova come lavoriamo e cosa potremmo fare per LIQUI MOLY GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LIQUI MOLY GmbH.",
+ "evidence": [
+  {
+   "claim": "Liqui Moly offre una gamma completa di oltre 4.000 articoli per officina, veicoli commerciali, industria e nautica da Ulm.",
+   "url": "https://www.liqui-moly.com/de/de/customer/account/login/",
+   "quote": "Einer der wenigen Vollsortimenter rund um den Globus mit über 4.000 Artikeln aus einer Hand || LIQUI MOLY GmbH Jerg-Wieland-Straße 4 89081 Ulm +49 731 1420-0 info@liqui-moly.de || Werkstatt Nutzfahrzeuge Tankstelle Industrie Bike Camping Marine Aero"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

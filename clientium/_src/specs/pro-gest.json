@@ -1,0 +1,28 @@
+{
+ "slug": "pro-gest",
+ "company": "Pro-Gest",
+ "first_name": "Gianmarco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pro-Gest produce in modo integrato carta, cartone, imballi e packaging, con una rete di 20 impianti produttivi in 6 regioni italiane. Qui trova come lavoriamo e cosa potremmo fare per Pro-Gest.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pro-Gest.",
+ "evidence": [
+  {
+   "claim": "Pro-Gest produce in modo integrato carta, cartone, imballi e packaging, con una rete di 20 impianti produttivi in 6 regioni italiane.",
+   "url": "https://www.progestspa.com/azienda/il-gruppo/",
+   "quote": "nella produzione integrata verticalmente di carta, cartone, imballi e packaging || il Gruppo conta oggi una rete di 20 impianti produttivi operativi in 6 regioni italiane"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

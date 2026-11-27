@@ -1,0 +1,28 @@
+{
+ "slug": "irsap-3",
+ "company": "IRSAP",
+ "first_name": "Laura",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Irsap ha stabilimenti produttivi in Italia e Romania e filiali commerciali in Francia, Spagna, Inghilterra e Germania. Qui trova come lavoriamo e cosa potremmo fare per IRSAP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IRSAP.",
+ "evidence": [
+  {
+   "claim": "Irsap ha stabilimenti produttivi in Italia e Romania e filiali commerciali in Francia, Spagna, Inghilterra e Germania.",
+   "url": "https://www.irsap.com/it/company/storia-sp",
+   "quote": "con stabilimenti produttivi in Italia, Romania e filiali commerciali in Francia, Spagna, Inghilterra, Germania. || Via Orazio Rossi, 56 45031 Arquà Polesine (RO) Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

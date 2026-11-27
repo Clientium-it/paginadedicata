@@ -1,0 +1,28 @@
+{
+ "slug": "e-prima",
+ "company": "E-Prima",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "E-Prima ha sviluppato oltre 5 GW di progetti fotovoltaici ed eolici e più di 15 GW di sistemi BESS, con sedi in Spagna e Messico. Qui trova come lavoriamo e cosa potremmo fare per E-Prima.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per E-Prima.",
+ "evidence": [
+  {
+   "claim": "E-Prima ha sviluppato oltre 5 GW di progetti fotovoltaici ed eolici e più di 15 GW di sistemi BESS, con sedi in Spagna e Messico.",
+   "url": "https://e-prima.com/",
+   "quote": "Oltre 5 GW di progetti fotovoltaici ed eolici sviluppati e più di 15 GW di sistemi BESS realizzati || Sede Spagna E-prima España Calle José Abascal, núm. 58 / Piso 2.º D E-prima Latam Messico Calle Lago Zurich núm. 219 / Piso 12 || famiglie, imprese e strutture produttive a scegliere soluzioni affidabili, performanti e realmente adatte alle proprie esigenze"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

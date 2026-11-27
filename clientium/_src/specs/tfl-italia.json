@@ -1,0 +1,28 @@
+{
+ "slug": "tfl-italia",
+ "company": "TFL Italia",
+ "first_name": "Emanuele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TFL Italia produce da oltre 30 anni scarichi per auto sportive e lavora con marchi come Porsche, Ferrari, Lamborghini e Maserati. Qui trova come lavoriamo e cosa potremmo fare per TFL Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TFL Italia.",
+ "evidence": [
+  {
+   "claim": "TFL Italia produce da oltre 30 anni scarichi per auto sportive e lavora con marchi come Porsche, Ferrari, Lamborghini e Maserati.",
+   "url": "https://www.tfl-italy.com/about-us/",
+   "quote": "TFL Italy has been working in the field of sports car exhausts for over 30 years. || the best car manufacturers such as Porsche, Alfa Romeo, McLaren, Lamborghini, Aston Martin, Maserati, Ferrari and Bentley"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

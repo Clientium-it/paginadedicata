@@ -1,0 +1,28 @@
+{
+ "slug": "aia-6",
+ "company": "AIA",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "AIA porta da oltre 40 anni prodotti freschi e genuini sulle tavole degli italiani da San Martino Buon Albergo. Qui trova come lavoriamo e cosa potremmo fare per AIA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per AIA.",
+ "evidence": [
+  {
+   "claim": "AIA porta da oltre 40 anni prodotti freschi e genuini sulle tavole degli italiani da San Martino Buon Albergo.",
+   "url": "https://www.aiafood.com/it/",
+   "quote": "AIA è presente da oltre 40 anni sulle tavole degli italiani con prodotti freschi e genuini. || Piazzale Apollinare Veronesi, 1 (ex via Sant'Antonio, 60) - 37036 San Martino Buon Albergo (VR) Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

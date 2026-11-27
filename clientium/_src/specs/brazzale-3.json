@@ -1,0 +1,28 @@
+{
+ "slug": "brazzale-3",
+ "company": "Brazzale",
+ "first_name": "Rosanna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Brazzale è attiva senza interruzioni da almeno otto generazioni e possiede impianti agroindustriali in centro Europa e in Sud America. Qui trova come lavoriamo e cosa potremmo fare per Brazzale.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Brazzale.",
+ "evidence": [
+  {
+   "claim": "Brazzale è attiva senza interruzioni da almeno otto generazioni e possiede impianti agroindustriali in centro Europa e in Sud America.",
+   "url": "https://www.brazzale.com/chi-siamo/",
+   "quote": "rappresenta la più antica azienda italiana del settore, in attività ininterrotta da almeno otto generazioni || La vocazione internazionale del gruppo, che possiede impianti agroindustriali in centro Europa ed in Sud America"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "contract-realizzazione-di-arredi-a-servizio-di-progettisti-e-contractor",
+ "company": "Contract srl",
+ "first_name": "Angelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Contract dal 1991 realizza arredi e soluzioni di interior per progetti internazionali nei settori retail, hospitality, private e luxury. Qui trova come lavoriamo e cosa potremmo fare per Contract srl.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Contract srl.",
+ "evidence": [
+  {
+   "claim": "Contract dal 1991 realizza arredi e soluzioni di interior per progetti internazionali nei settori retail, hospitality, private e luxury.",
+   "url": "https://contractsrl.com/",
+   "quote": "General contractor dal 1991, realizziamo soluzioni di interior in ambiziosi progetti internazionali nei settori retail, hospitality, private e luxury. || Grazie a una consolidata rete di contatti e sedi operative, coordiniamo artigiani specializzati in tutto il mondo creando soluzioni funzionali dal forte impatto estetico. || diamo vita ad allestimenti distintivi per i settori retail, hospitality, private e luxury"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

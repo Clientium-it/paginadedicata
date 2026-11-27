@@ -1,0 +1,28 @@
+{
+ "slug": "free2move-2",
+ "company": "Free2move",
+ "first_name": "Horacio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Free2move è una piattaforma di mobilità presente in oltre 170 paesi, con abbonamenti auto, parcheggi, car sharing e noleggio a lungo termine. Qui trova come lavoriamo e cosa potremmo fare per Free2move.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Free2move.",
+ "evidence": [
+  {
+   "claim": "Free2move è una piattaforma di mobilità presente in oltre 170 paesi, con abbonamenti auto, parcheggi, car sharing e noleggio a lungo termine.",
+   "url": "https://www.free2move.com/de/en/about-us/",
+   "quote": "Active in over 170 countries, Free2move is a mobility platform that offers a wide range of services, including car subscriptions, parking spaces, (electric) car-sharing (from one minute to several days or months), and even long-term car rental. || The company is headquartered in Paris, France, and is part of the multinational Stellantis Group."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

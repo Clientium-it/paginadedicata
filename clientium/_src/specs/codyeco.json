@@ -1,0 +1,28 @@
+{
+ "slug": "codyeco",
+ "company": "Codyeco",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Codyeco unisce la vendita di prodotti chimici al supporto tecnico quotidiano con filiali a Solofra e Arzignano. Qui trova come lavoriamo e cosa potremmo fare per Codyeco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Codyeco.",
+ "evidence": [
+  {
+   "claim": "Codyeco unisce la vendita di prodotti chimici al supporto tecnico quotidiano con filiali a Solofra e Arzignano.",
+   "url": "https://50.codyeco.com/",
+   "quote": "unire la vendita di prodotti chimici alla garanzia di un quotidiano supporto tecnico || L’apertura delle filiali di Solofra e Arzignano rappresentò per Codyeco un’intuizione strategica di grande valore"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

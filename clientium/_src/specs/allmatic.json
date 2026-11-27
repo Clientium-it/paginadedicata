@@ -1,0 +1,28 @@
+{
+ "slug": "allmatic",
+ "company": "Allmatic",
+ "first_name": "Adamo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Allmatic dal 1989 sviluppa soluzioni di automazione per la sicurezza degli edifici, per installatori e professionisti, presenti in oltre 50 paesi. Qui trova come lavoriamo e cosa potremmo fare per Allmatic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Allmatic.",
+ "evidence": [
+  {
+   "claim": "Allmatic dal 1989 sviluppa soluzioni di automazione per la sicurezza degli edifici, per installatori e professionisti, presenti in oltre 50 paesi.",
+   "url": "https://www.allmatic.com/chi-siamo/",
+   "quote": "Dal 1989 siamo in prima linea nello sviluppo di soluzioni di automazione avanzate che non solo soddisfano le esigenze di oggi ma anticipano anche le sfide di domani || Presenti in oltre 50 Paesi, la nostra portata è globale, ma il nostro impegno per la qualità resta saldamente radicato nella nostra tradizione italiana || Diamo forma al futuro della sicurezza degli edifici per installatori e professionisti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

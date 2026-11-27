@@ -1,0 +1,28 @@
+{
+ "slug": "officina-meccanica-g-apollonio",
+ "company": "OFFICINA MECCANICA G. APOLLONIO",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Officina Apollonio progetta e costruisce dal 1972 valvole a lama, doppia lama e a farfalla a Monfalcone. Qui trova come lavoriamo e cosa potremmo fare per OFFICINA MECCANICA G. APOLLONIO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OFFICINA MECCANICA G. APOLLONIO.",
+ "evidence": [
+  {
+   "claim": "Officina Apollonio progetta e costruisce dal 1972 valvole a lama, doppia lama e a farfalla a Monfalcone.",
+   "url": "http://officina-apollonio.it/",
+   "quote": "Dal \"1972\" l'Officina Meccanica G. Apollonio progetta e costruisce valvole a lama, doppia lama ed a farfalla. || Via Schiavetti 1 - Z.I. Schiavetti 34074 Monfalcone (GO) - Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "officine-mario-dorin",
+ "company": "Officine Mario Dorin",
+ "first_name": "Giacomo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dorin produce più di 600 modelli di compressori e unità condensanti in uno stabilimento di circa 20.000 metri quadrati per supermercati e centri di logistica. Qui trova come lavoriamo e cosa potremmo fare per Officine Mario Dorin.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Officine Mario Dorin.",
+ "evidence": [
+  {
+   "claim": "Dorin produce più di 600 modelli di compressori e unità condensanti in uno stabilimento di circa 20.000 metri quadrati per supermercati e centri di logistica.",
+   "url": "https://www.dorin.com/it/catalogo/",
+   "quote": "più di 600 modelli tra compressori aperti e semi-ermetici ed unità condensanti || cambiò sede e si trasferì nell'attuale stabilimento di circa 20.000 metri quadrati || centri commerciali, supermercati, ipermercati e centri di logistica"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

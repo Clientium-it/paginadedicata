@@ -1,0 +1,28 @@
+{
+ "slug": "zonson-smart-auto-italia-part-of-zte",
+ "company": "Zonson Smart Auto Italia part of ZTE group",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Zonson Smart Auto si concentra sui veicoli commerciali a nuova energia, forte dell'eredità di ZTE nelle comunicazioni e nell'informatica. Qui trova come lavoriamo e cosa potremmo fare per Zonson Smart Auto Italia part of ZTE group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Zonson Smart Auto Italia part of ZTE group.",
+ "evidence": [
+  {
+   "claim": "Zonson Smart Auto si concentra sui veicoli commerciali a nuova energia, forte dell'eredità di ZTE nelle comunicazioni e nell'informatica.",
+   "url": "https://www.zxsmartauto.com/global/",
+   "quote": "Leveraging ZTE's heritage in communications and IT, we focus on new-energy commercial vehicles, aspiring to be a world-leading smart bus provider."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

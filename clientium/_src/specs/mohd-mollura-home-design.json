@@ -1,0 +1,28 @@
+{
+ "slug": "mohd-mollura-home-design",
+ "company": "MOHD Mollura Home Design",
+ "first_name": "Angela",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mohd da oltre 50 anni si occupa di arredo di lusso e design con sedi a Messina, Catania e Milano. Qui trova come lavoriamo e cosa potremmo fare per MOHD Mollura Home Design.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MOHD Mollura Home Design.",
+ "evidence": [
+  {
+   "claim": "Mohd da oltre 50 anni si occupa di arredo di lusso e design con sedi a Messina, Catania e Milano.",
+   "url": "https://www.mohd.it/it/about/",
+   "quote": "Con oltre 50 anni di esperienza , Mohd è una delle aziende leader in tutto il mondo nel settore arredo di lusso e design. || Messina Catania Milano"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

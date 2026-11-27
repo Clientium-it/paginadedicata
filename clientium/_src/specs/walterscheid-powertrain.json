@@ -1,0 +1,28 @@
+{
+ "slug": "walterscheid-powertrain",
+ "company": "Walterscheid Powertrain Group",
+ "first_name": "Walter",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Walterscheid sviluppa sistemi di trasmissione e servizi per l'industria e per macchine agricole, da costruzione e speciali. Qui trova come lavoriamo e cosa potremmo fare per Walterscheid Powertrain Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Walterscheid Powertrain Group.",
+ "evidence": [
+  {
+   "claim": "Walterscheid sviluppa sistemi di trasmissione e servizi per l'industria e per macchine agricole, da costruzione e speciali.",
+   "url": "https://www.walterscheid.com/blog/zusammenschluss-von-walterscheid-powertrain-group-und-comer-industries/",
+   "quote": "einem führenden Anbieter von hochentwickelten, einsatzkritischen Antriebssystemen und Dienstleistungen für Off-Highway- und Industrieanwendungen || Walterscheid GmbH Hauptstraße 150 53797 Lohmar / Germany || entwickelt die Walterscheid Getriebe GmbH Antriebssysteme für Landwirtschafts-, Bau- und Spezialmaschinen."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

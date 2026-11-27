@@ -1,0 +1,28 @@
+{
+ "slug": "solari",
+ "company": "SOLARI",
+ "first_name": "Rodolfo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Solari fornisce dagli anni '60 ferrovie e aeroporti in Europa, Stati Uniti, America del Sud, Asia e Africa, con filiali a Milano e Modena. Qui trova come lavoriamo e cosa potremmo fare per SOLARI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SOLARI.",
+ "evidence": [
+  {
+   "claim": "Solari fornisce dagli anni '60 ferrovie e aeroporti in Europa, Stati Uniti, America del Sud, Asia e Africa, con filiali a Milano e Modena.",
+   "url": "https://www.solari.it/storia/",
+   "quote": "Negli anni ’60 Solari diventa il principale fornitore delle ferrovie e degli aeroporti in Europa – tra cui le Ferrovie italiane e francesi oggi come allora – , Stati Uniti, America del Sud, Asia e Africa || In Italia, Solari è presente con due filiali operative a Milano e Modena oltre alla nuova sede commerciale a Martellago (Venezia) || per grandi clienti come Poste, Inps, Rai, Agenzia delle Entrate nonché per molti altri enti pubblici e privati"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "alce-nero-freddo",
+ "company": "Alce Nero Freddo*",
+ "first_name": "Bruno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Alce Nero propone bevande biologiche come succhi e nettari di frutta, bevande vegetali, orzo, caffè, infusi, tisane e tè, da Castel San Pietro Terme. Qui trova come lavoriamo e cosa potremmo fare per Alce Nero Freddo*.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Alce Nero Freddo*.",
+ "evidence": [
+  {
+   "claim": "Alce Nero propone bevande biologiche come succhi e nettari di frutta, bevande vegetali, orzo, caffè, infusi, tisane e tè, da Castel San Pietro Terme.",
+   "url": "https://www.alcenero.com/collections/bevande",
+   "quote": "A comporre la linea delle nostre bevande biologiche concorre una nutrita varietà di prodotti tra cui succhi e nettari di frutta , bevande vegetali , orzo , caffè , infusi , tisane e tè || Alce Nero S.p.A. - Via Henry Ford 7-9 - 40024 - Castel San Pietro Terme (BO) Italia - info@alcenero.it"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "homes",
+ "company": "Gruppo Homes",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nardiinterni dal 1964 produce sistemi componibili d'arredo per la zona giorno e notte e arreda spazi collettivi come negozi, bar, uffici e hotel. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Homes.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Homes.",
+ "evidence": [
+  {
+   "claim": "Nardiinterni dal 1964 produce sistemi componibili d'arredo per la zona giorno e notte e arreda spazi collettivi come negozi, bar, uffici e hotel.",
+   "url": "https://www.nardiinterni.it/azienda-gruppo/",
+   "quote": "NARDIINTERNI nasce nel 1964 come azienda produttrice di sistemi componibili d’arredo destinati alla zona giorno e alla zona notte con vocazione strettamente artigianale. || Dall’altra il progetto si concentra su arredamenti per spazi collettivi, negozi, bar, uffici, aree comuni e hotel."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

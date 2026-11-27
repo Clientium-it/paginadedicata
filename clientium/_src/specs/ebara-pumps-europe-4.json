@@ -1,0 +1,28 @@
+{
+ "slug": "ebara-pumps-europe-4",
+ "company": "Ebara Pumps Europe",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ebara produce elettropompe per i mercati industriale e domestico con sede a Gambellara e stabilimento produttivo a Cles. Qui trova come lavoriamo e cosa potremmo fare per Ebara Pumps Europe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ebara Pumps Europe.",
+ "evidence": [
+  {
+   "claim": "Ebara produce elettropompe per i mercati industriale e domestico con sede a Gambellara e stabilimento produttivo a Cles.",
+   "url": "https://www.ebaraeurope.com/ebara-pumps-europe/",
+   "quote": "positioned itself as one of the biggest manufacturers of electric pumps for Europe’s industrial and domestic markets, operating in the drainage, waste water, industry, water supply and civil construction sectors || Headquarter Gambellara Production plant Cles || Domestic and Residential Applications Gardening and Irrigation Swimming pool Water supply Heating and Air Conditioning Dirty Water and Drainage Industrial applications"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

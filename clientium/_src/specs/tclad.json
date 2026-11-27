@@ -1,0 +1,28 @@
+{
+ "slug": "tclad",
+ "company": "TCLAD",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TCLAD sviluppa soluzioni di gestione termica per sistemi elettronici ad alta potenza, con stabilimenti a Taiwan e in Cina per aerospazio, difesa e automotive. Qui trova come lavoriamo e cosa potremmo fare per TCLAD.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TCLAD.",
+ "evidence": [
+  {
+   "claim": "TCLAD sviluppa soluzioni di gestione termica per sistemi elettronici ad alta potenza, con stabilimenti a Taiwan e in Cina per aerospazio, difesa e automotive.",
+   "url": "https://tclad.com/about-tclad/",
+   "quote": "TCLAD specializes in advanced thermal management solutions engineered to meet the stringent performance demands of high-power and high-reliability electronic systems. || Our state-of-the-art facilities in Asia — located in Hsinchu City, Taiwan, and Kunshan, Suzhou, China (subsidiary) — span over 340,000 square feet of combined office, laboratory and fabrication space. || TCLAD supports a wide range of industries, including aerospace and defense, automotive, and industrial automation, providing engineering collaboration, rapid prototyping, and custom design support to solve complex thermal challenges from concept through production."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "faber-industrie-3",
+ "company": "Faber Industrie",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Faber progetta e produce dal 1972 bombole ad alta pressione per gas destinate a energia pulita, usi industriali e autorespiratori. Qui trova come lavoriamo e cosa potremmo fare per Faber Industrie.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Faber Industrie.",
+ "evidence": [
+  {
+   "claim": "Faber progetta e produce dal 1972 bombole ad alta pressione per gas destinate a energia pulita, usi industriali e autorespiratori.",
+   "url": "https://faber-italy.com/",
+   "quote": "a world’s leading company in the design, manufacturing, testing and marketing of high-pressure gas cylinders and systems used for Clean Energy (CNG & Hydrogen), Industrial (Technical, Medical, Special, Food&Beverage and Fire-Fighting gases) and Air Breathing Apparatus (SCUBA & SCBA). || Faber’s cylinders are part of our lives since 1972"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "newchem",
+ "company": "NEWCHEM",
+ "first_name": "Shawn",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Newchem produce principi attivi farmaceutici secondo le normative GMP, con stabilimenti a Verona e Pavia, sede a Milano e vendite in 51 paesi. Qui trova come lavoriamo e cosa potremmo fare per NEWCHEM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per NEWCHEM.",
+ "evidence": [
+  {
+   "claim": "Newchem produce principi attivi farmaceutici secondo le normative GMP, con stabilimenti a Verona e Pavia, sede a Milano e vendite in 51 paesi.",
+   "url": "https://www.newchemspa.com/it/chi-siamo/",
+   "quote": "Newchem, con stabilimenti produttivi a Verona e Pavia e sede centrale a Milano, produce una vasta gamma di API ( principi attivi farmaceutici) , in linea con le normative GMP || 51 paesi in cui vendiamo i nostri prodotti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

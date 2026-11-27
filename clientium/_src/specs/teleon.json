@@ -1,0 +1,28 @@
+{
+ "slug": "teleon",
+ "company": "Teleon",
+ "first_name": "Laura",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Teleon offre lenti intraoculari come ACUNEX, LENTIS e FEMTIS e il sistema laser ViaLuxe per la chirurgia della cataratta e il glaucoma. Qui trova come lavoriamo e cosa potremmo fare per Teleon.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Teleon.",
+ "evidence": [
+  {
+   "claim": "Teleon offre lenti intraoculari come ACUNEX, LENTIS e FEMTIS e il sistema laser ViaLuxe per la chirurgia della cataratta e il glaucoma.",
+   "url": "https://www.teleon-surgical.com/de/national/home/",
+   "quote": "Teleon bietet Ihnen mit den ACUNEX, LENTIS und FEMTIS Intraokularlinsen (IOL) inklusive einer der weltweit führenden Multifokallinsen-Optiken sowie dem ViaLuxe Lasersystem für die nicht-invasive Behandlung des Glaukoms modernste Lösungen für die Kataraktchirurgie und ein gutes Sehen. || Teleon Surgical Vertriebs GmbH, Berlin Teleon Surgical GmbH, Berlin"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "icape",
+ "company": "ICAPE Group",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ICAPE Group serve 3650 clienti in 60 Paesi con 40 business unit, 11 magazzini e 4 laboratori, nei settori automotive, medicale e aerospaziale. Qui trova come lavoriamo e cosa potremmo fare per ICAPE Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ICAPE Group.",
+ "evidence": [
+  {
+   "claim": "ICAPE Group serve 3650 clienti in 60 Paesi con 40 business unit, 11 magazzini e 4 laboratori, nei settori automotive, medicale e aerospaziale.",
+   "url": "https://www.icape-group.com/",
+   "quote": "40 Business units 4 Laboratories 3650 Customers 60 Countries delivered 11 Warehouses || 33 Avenue du Général Leclerc, 92260 Fontenay-aux-Roses - France || Automotive Medical Industrial Consumer & Multimedia Aerospace Metering Power / Energy Telecom Railway IoT Lighting"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

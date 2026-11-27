@@ -1,0 +1,28 @@
+{
+ "slug": "aran-world-aran-contract",
+ "company": "Aran world",
+ "first_name": "Marzia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Aran Contract è presente in oltre 120 Paesi su cinque continenti, con più di 2.500 punti vendita e oltre 70.000 mq di stabilimenti ad Atri. Qui trova come lavoriamo e cosa potremmo fare per Aran world.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aran world.",
+ "evidence": [
+  {
+   "claim": "Aran Contract è presente in oltre 120 Paesi su cinque continenti, con più di 2.500 punti vendita e oltre 70.000 mq di stabilimenti ad Atri.",
+   "url": "https://arancontract.it/la-nostra-storia/",
+   "quote": "presente in oltre 120 Paesi nei cinque continenti e con una rete di più di 2.500 punti vendita globali || Con oltre 70.000 mq di stabilimenti a Atri, in provincia di Teramo, l'azienda ha costruito una catena produttiva altamente automatizzata e certificata || Collaboriamo con i più prestigiosi studi di architettura e general contractors, offrendo un partner solido"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "repower-italia-5",
+ "company": "Repower Italia",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Repower Italia sviluppa 100 MW di capacità da energia eolica distribuita per sostenere gli obiettivi green di Italia ed Europa. Qui trova come lavoriamo e cosa potremmo fare per Repower Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Repower Italia.",
+ "evidence": [
+  {
+   "claim": "Repower Italia sviluppa 100 MW di capacità da energia eolica distribuita per sostenere gli obiettivi green di Italia ed Europa.",
+   "url": "https://repoweritaly.com/about",
+   "quote": "Repower Italy is a joint venture project which utilizes the benefits of distributed wind power to rapidly develop 100MW of generation capacity and help Italy and Europe pursue their green energy goals."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

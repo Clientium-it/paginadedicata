@@ -1,0 +1,28 @@
+{
+ "slug": "shenzhen-infypower-co",
+ "company": "Shenzhen Infypower Co",
+ "first_name": "Joseph",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Infypower dal 2014 sviluppa e produce elettronica di potenza e soluzioni di controllo intelligente. Qui trova come lavoriamo e cosa potremmo fare per Shenzhen Infypower Co.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Shenzhen Infypower Co.",
+ "evidence": [
+  {
+   "claim": "Infypower dal 2014 sviluppa e produce elettronica di potenza e soluzioni di controllo intelligente.",
+   "url": "https://www.infypower.com/about-infy-power",
+   "quote": "Founded in 2014, Infypower is a global innovation leader engaged in the R&D, manufacturing and supply of power electronics and intelligent control solutions."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "kufner-textil-kufner-textile-corporation",
+ "company": "Kufner Textil GmbH (Kufner Textile Corporation)",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Kufner è presente nell'industria tessile con 26 sedi di vendita proprie e rappresentanze in oltre 100 Paesi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Kufner Textil GmbH (Kufner Textile Corporation).",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kufner Textil GmbH (Kufner Textile Corporation).",
+ "evidence": [
+  {
+   "claim": "Kufner è presente nell'industria tessile con 26 sedi di vendita proprie e rappresentanze in oltre 100 Paesi nel mondo.",
+   "url": "https://kufner.com/company/",
+   "quote": "Als Global Player der Textilindustrie sind wir mit vier Produktionsstandorten sowie 26 eigenen Vertriebsstandorten – jeweils mit komplettem Service-Setup – und weiteren langjährigen Partner-Vertretungen in über 100 Ländern weltweit vertreten. || Kufner Holding GmbH Inselkammerstraße 10 82008 Unterhaching Deutschland || Clothtech Automotive Furniture Aviation Medical More Ideas"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

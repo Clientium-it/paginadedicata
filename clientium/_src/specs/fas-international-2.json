@@ -1,0 +1,28 @@
+{
+ "slug": "fas-international-2",
+ "company": "FAS International",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FAS International dal 1967 progetta soluzioni per trasformare ogni punto vendita in un ecosistema connesso, da Schio in provincia di Vicenza. Qui trova come lavoriamo e cosa potremmo fare per FAS International.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FAS International.",
+ "evidence": [
+  {
+   "claim": "FAS International dal 1967 progetta soluzioni per trasformare ogni punto vendita in un ecosistema connesso, da Schio in provincia di Vicenza.",
+   "url": "https://www.fas.it/it/chi-siamo/",
+   "quote": "Dal 1967 progettiamo soluzioni smart e sostenibili che trasformano ogni punto vendita in un ecosistema connesso e fluido || Via Lago Di Vico, 60 - 36015 Schio (VI) Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

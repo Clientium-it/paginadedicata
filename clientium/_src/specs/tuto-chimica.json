@@ -1,0 +1,28 @@
+{
+ "slug": "tuto-chimica",
+ "company": "tuto chimica",
+ "first_name": "Arnaldo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tuto Chimica dal 1963 sviluppa e produce detergenti professionali per ristorazione, industrie alimentari, lavanderie industriali e imprese di pulizia. Qui trova come lavoriamo e cosa potremmo fare per tuto chimica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per tuto chimica.",
+ "evidence": [
+  {
+   "claim": "Tuto Chimica dal 1963 sviluppa e produce detergenti professionali per ristorazione, industrie alimentari, lavanderie industriali e imprese di pulizia.",
+   "url": "https://tutochimica.it/pages/tuto-chimica-la-nostra-storia",
+   "quote": "Dal 1963 Tuto Chimica sviluppa e produce detergenti professionali, formulazioni speciali e soluzioni dedicate al mondo della pulizia professionale, industriale e domestica. || Tuto Chimica s.n.c. Via Tenente Zanon, 24, 36028 Rossano Veneto VI || Ristorazione e Horeca Industrie alimentari Lavanderie industriali e self-service Imprese di pulizia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

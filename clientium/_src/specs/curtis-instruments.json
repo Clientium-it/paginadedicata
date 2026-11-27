@@ -1,0 +1,28 @@
+{
+ "slug": "curtis-instruments",
+ "company": "Curtis Instruments",
+ "first_name": "Pasquale",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Curtis Instruments produce controller per la velocità dei motori e strumentazione, con sede a Mount Kisco e stabilimenti a Porto Rico, Bulgaria e Cina. Qui trova come lavoriamo e cosa potremmo fare per Curtis Instruments.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Curtis Instruments.",
+ "evidence": [
+  {
+   "claim": "Curtis Instruments produce controller per la velocità dei motori e strumentazione, con sede a Mount Kisco e stabilimenti a Porto Rico, Bulgaria e Cina.",
+   "url": "https://www.curtisinstruments.com/videos/about/",
+   "quote": "With headquarters in Mount Kisco, New York, and four state-of-the-art design engineering centers worldwide, Curtis manufactures motor speed controllers and instrumentation, ensuring top quality and performance for a wide range of industries. || Curtis Manufacturing produces all products in-house across manufacturing sites in Puerto Rico, Bulgaria, and China to meet global demand."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

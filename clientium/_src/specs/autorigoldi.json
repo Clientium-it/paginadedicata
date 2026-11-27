@@ -1,0 +1,28 @@
+{
+ "slug": "autorigoldi",
+ "company": "Autorigoldi",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Autorigoldi, con 7 sedi tra vendita, assistenza e ricambi fra Milano e provincia, tratta i marchi Volkswagen, Škoda e Audi su oltre 35.000 metri quadri. Qui trova come lavoriamo e cosa potremmo fare per Autorigoldi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Autorigoldi.",
+ "evidence": [
+  {
+   "claim": "Autorigoldi, con 7 sedi tra vendita, assistenza e ricambi fra Milano e provincia, tratta i marchi Volkswagen, Škoda e Audi su oltre 35.000 metri quadri.",
+   "url": "https://www.autorigoldi.it/chi-siamo/",
+   "quote": "con 7 sedi vendita, assistenza e ricambi fra Milano e provincia, Autorigoldi è punto di riferimento per i marchi Volkswagen , Škoda e Audi con oltre 35.000 metri quadri di spazi || con 7 sedi vendita, assistenza e ricambi fra Milano e provincia || La Divisione Fleet è dedicata allo sviluppo delle flotte aziendali per piccole, medie e grandi imprese"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

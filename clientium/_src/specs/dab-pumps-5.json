@@ -1,0 +1,28 @@
+{
+ "slug": "dab-pumps-5",
+ "company": "DAB Pumps",
+ "first_name": "Agostino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "DAB Pumps progetta tecnologie per la gestione dell'acqua in ambito residenziale, commerciale, industriale e agricolo. Qui trova come lavoriamo e cosa potremmo fare per DAB Pumps.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per DAB Pumps.",
+ "evidence": [
+  {
+   "claim": "DAB Pumps progetta tecnologie per la gestione dell'acqua in ambito residenziale, commerciale, industriale e agricolo.",
+   "url": "https://dabpumps.com/en_en",
+   "quote": "We design technologies that make water management simple and efficient. For every application, whether residential, commercial, industrial, or agricultural, we offer products engineered to simplify your work || Our extensive product portfolio covers every water management application across residential, commercial, industrial, and agricultural sectors."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

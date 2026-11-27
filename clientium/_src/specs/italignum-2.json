@@ -1,0 +1,28 @@
+{
+ "slug": "italignum-2",
+ "company": "Italignum",
+ "first_name": "Raffaele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Italignum commercializza pannelli e legname nazionali e di importazione diretta da tutto il mondo, su 13.000 mq coperti e 7.000 mq di piazzale. Qui trova come lavoriamo e cosa potremmo fare per Italignum.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Italignum.",
+ "evidence": [
+  {
+   "claim": "Italignum commercializza pannelli e legname nazionali e di importazione diretta da tutto il mondo, su 13.000 mq coperti e 7.000 mq di piazzale.",
+   "url": "https://italignum.com/chi-siamo/",
+   "quote": "da allora commercializziamo pannelli e legname nazionali e di importazione diretta da tutto il mondo || raggiungendo così una superficie coperta totale di 13.000 mq e 7.000 mq di piazzale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

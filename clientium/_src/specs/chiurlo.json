@@ -1,0 +1,28 @@
+{
+ "slug": "chiurlo",
+ "company": "CHIURLO",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Chiurlo opera da 125 anni nel settore delle energie in Friuli Venezia Giulia con 280 collaboratori e 5 sedi operative. Qui trova come lavoriamo e cosa potremmo fare per CHIURLO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CHIURLO.",
+ "evidence": [
+  {
+   "claim": "Chiurlo opera da 125 anni nel settore delle energie in Friuli Venezia Giulia con 280 collaboratori e 5 sedi operative.",
+   "url": "https://www.chiurlo.it/pagina/chi-siamo-oggi",
+   "quote": "Da 125 anni, operiamo in Friuli-Venezia Giulia nel settore delle energie . || 280 collaboratori 5 sedi operative 2 DIVISIONI || privati, liberi professionisti, PMI, industrie, imprese agricole, aziende meccaniche, enti e condomini"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

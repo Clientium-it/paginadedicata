@@ -1,0 +1,28 @@
+{
+ "slug": "selco",
+ "company": "Selco",
+ "first_name": "Cristiano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Selco Italia progetta, costruisce e distribuisce apparecchiature per la domotica e la sicurezza e fornisce assistenza a installatori e privati. Qui trova come lavoriamo e cosa potremmo fare per Selco.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Selco.",
+ "evidence": [
+  {
+   "claim": "Selco Italia progetta, costruisce e distribuisce apparecchiature per la domotica e la sicurezza e fornisce assistenza a installatori e privati.",
+   "url": "https://selcoitalia.it/content/4-chi-siamo",
+   "quote": "SELCO ITALIA e' un'azienda di progettazione, costruzione e distribuzione di apparecchiature per la domotica e per la sicurezza || Distribuisce batterie al Pb/Ca AGM e GEL a marchio BDS || Offriamo assistenza qualificata e consulenza pre e post-vendita per installatori e privati"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

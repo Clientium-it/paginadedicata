@@ -1,0 +1,28 @@
+{
+ "slug": "domo-engineering-plastics-italy",
+ "company": "DOMO Engineering Plastics Italy",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "DOMO produce compound tecnici a base di Poliammide 6 e 66 per automotive, elettrico ed elettronico, con 10 linee di compound. Qui trova come lavoriamo e cosa potremmo fare per DOMO Engineering Plastics Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per DOMO Engineering Plastics Italy.",
+ "evidence": [
+  {
+   "claim": "DOMO produce compound tecnici a base di Poliammide 6 e 66 per automotive, elettrico ed elettronico, con 10 linee di compound.",
+   "url": "https://www.domochemicals.com/it/about-domo-chemicals/Europe/Italy",
+   "quote": "In questo sito, DOMO produce compound tecnici a base di Poliammide 6 e 66, oltre ad alcune specialità basate su altre resine. || L’impianto si estende su una superficie di 30.000 m², dispone di 10 linee di compound con una capacità nominale fino a 40 kt/anno e di una linea pilota per la produzione di campionature. || Automotive Beni industriali e di consumo Elettrico ed Elettronico"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

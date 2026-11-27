@@ -1,0 +1,28 @@
+{
+ "slug": "trivellato-industriali",
+ "company": "TRIVELLATO INDUSTRIALI",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Trivellato Industriali progetta, produce e installa chiusure industriali rapide e automatiche e si occupa di logistica di magazzino a Monselice, in provincia di Padova. Qui trova come lavoriamo e cosa potremmo fare per TRIVELLATO INDUSTRIALI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TRIVELLATO INDUSTRIALI.",
+ "evidence": [
+  {
+   "claim": "Trivellato Industriali progetta, produce e installa chiusure industriali rapide e automatiche e si occupa di logistica di magazzino a Monselice, in provincia di Padova.",
+   "url": "https://www.trivellatosrl.it/",
+   "quote": "La nostra azienda si occupa di progettare, produrre ed installare chiusure industriali rapide ed automatiche e tutto quanto concerne la logistica di magazzino quali operazioni di carico/scarico e stoccaggio merci || Via Veneto n. 23 - 35043 Monselice (PD) Italy || Settori Merceologici Alimentare Agricoltura Industria Civile"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

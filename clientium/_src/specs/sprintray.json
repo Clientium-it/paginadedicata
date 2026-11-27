@@ -1,0 +1,28 @@
+{
+ "slug": "sprintray",
+ "company": "SprintRay",
+ "first_name": "Giammaria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SprintRay sviluppa un ecosistema di produzione chairside che unisce stampanti 3D, software con intelligenza artificiale, materiali biocompatibili e servizi cloud. Qui trova come lavoriamo e cosa potremmo fare per SprintRay.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SprintRay.",
+ "evidence": [
+  {
+   "claim": "SprintRay sviluppa un ecosistema di produzione chairside che unisce stampanti 3D, software con intelligenza artificiale, materiali biocompatibili e servizi cloud.",
+   "url": "https://sprintray.com/company/",
+   "quote": "Today, SprintRay develops the industry's most advanced chairside manufacturing ecosystem, bringing together 3D printers, AI-powered software, biocompatible materials, cloud services, and clinical workflows into one connected platform. || helping practices care for more patients with greater speed, efficiency, and control"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

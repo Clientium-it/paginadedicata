@@ -1,0 +1,28 @@
+{
+ "slug": "bossoni-3",
+ "company": "GRUPPO BOSSONI",
+ "first_name": "Cristian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gruppo Bossoni raccoglie 16 marchi auto in 36 punti vendita nelle province di Brescia, Cremona, Mantova e Piacenza. Qui trova come lavoriamo e cosa potremmo fare per GRUPPO BOSSONI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GRUPPO BOSSONI.",
+ "evidence": [
+  {
+   "claim": "Gruppo Bossoni raccoglie 16 marchi auto in 36 punti vendita nelle province di Brescia, Cremona, Mantova e Piacenza.",
+   "url": "https://www.gruppobossoni.it/pagina/la-storia-del-gruppo-bossoni",
+   "quote": "Una forte presenza sul Territorio, dove oggi vanta 16 Marchi, dopo l'acquisizione della totalità delle azioni di Agricar SpA, Brand Mercedes || con 36 punti vendita distribuiti in maniera capillare nelle Province di Brescia, Cremona, Mantova e Piacenza."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

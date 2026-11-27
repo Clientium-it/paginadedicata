@@ -1,0 +1,28 @@
+{
+ "slug": "sadi",
+ "company": "Sadi",
+ "first_name": "Alfio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sadi dal 1908 fabbrica stucchi decorativi in gesso usati in teatri, banche, ambasciate e stazioni ferroviarie. Qui trova come lavoriamo e cosa potremmo fare per Sadi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sadi.",
+ "evidence": [
+  {
+   "claim": "Sadi dal 1908 fabbrica stucchi decorativi in gesso usati in teatri, banche, ambasciate e stazioni ferroviarie.",
+   "url": "https://www.sadisrl.it/decorativo-in-gesso/",
+   "quote": "Risale infatti al 1908 la fabbricazione a livello industriale di stucchi decorativi in gesso. || Milano: +39 02 87165432 Roma: +39 06 5655 9168 || architetti dell’epoca in teatri, banche, ambasciate, stazioni ferroviarie e edifici pubblici"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

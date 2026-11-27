@@ -1,0 +1,28 @@
+{
+ "slug": "sikora-ag",
+ "company": "SIKORA AG",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SIKORA produce tecnologie di misurazione, regolazione e selezione. Qui trova come lavoriamo e cosa potremmo fare per SIKORA AG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SIKORA AG.",
+ "evidence": [
+  {
+   "claim": "SIKORA produce tecnologie di misurazione, regolazione e selezione.",
+   "url": "https://sikora.net/",
+   "quote": "SIKORA, Hersteller innovativer Mess-, Regel- und Sortiertechnologien, belegt im Gesamtranking der wachstumsstärksten Mittelständler 2026 Platz 14."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

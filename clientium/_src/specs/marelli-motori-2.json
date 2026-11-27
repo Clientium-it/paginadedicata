@@ -1,0 +1,28 @@
+{
+ "slug": "marelli-motori-2",
+ "company": "Marelli Motori",
+ "first_name": "Diego",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Marelli Motori produce dal 1891 alternatori, generatori e motori elettrici per i settori navale, oil & gas ed energia, in oltre 120 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Marelli Motori.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Marelli Motori.",
+ "evidence": [
+  {
+   "claim": "Marelli Motori produce dal 1891 alternatori, generatori e motori elettrici per i settori navale, oil & gas ed energia, in oltre 120 Paesi.",
+   "url": "https://www.marellimotori.com/about/",
+   "quote": "Marelli Motori is a leading manufacturer of alternators, generators and electric motors. Founded in northern Italy in 1891, the company enjoys worldwide brand recognition in the marine, oil & gas, power generation, co-generation, hydro, and other industrial sectors. || Marelli Motori employs around 500 people and operates an extensive manufacturing facility in Italy with own subsidiaries in the United States, Germany, South Africa and Malaysia and has an extended sales, distribution, and service network across four continents, supplying its technologically advanced products in more than 120 countries. || from integrators and OEMs, to ship owners, shipyards and operators"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "strega-alberti-benevento",
+ "company": "Strega Alberti Benevento",
+ "first_name": "Pietro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Strega dal 1860 produce a Benevento il Liquore Strega e prodotti dolciari, presenti in 50 paesi tra cui Stati Uniti, Argentina, Messico e Australia. Qui trova come lavoriamo e cosa potremmo fare per Strega Alberti Benevento.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Strega Alberti Benevento.",
+ "evidence": [
+  {
+   "claim": "Strega dal 1860 produce a Benevento il Liquore Strega e prodotti dolciari, presenti in 50 paesi tra cui Stati Uniti, Argentina, Messico e Australia.",
+   "url": "https://www.strega.it/azienda/",
+   "quote": "Strega nasce nel 1860 a Benevento dove ancora oggi ha sede lo storico stabilimento della famiglia Alberti, nei pressi della stazione ferroviaria, ove avviene la produzione del Liquore Strega e dei golosi prodotti dolciari. || I nostri prodotti oltre ad una capillare diffusione sul territorio nazionale sono presenti in 50 Paesi nel mondo tra cui USA, Argentina, Messico e Australia oltre naturalmente i Paesi della Comunità Europea."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

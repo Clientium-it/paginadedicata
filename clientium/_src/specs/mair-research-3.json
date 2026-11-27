@@ -1,0 +1,28 @@
+{
+ "slug": "mair-research-3",
+ "company": "mair research",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mair Research dal 1977, a Schio, progetta e produce macchine e linee per la finitura di tubi e barre, con tre stabilimenti. Qui trova come lavoriamo e cosa potremmo fare per mair research.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per mair research.",
+ "evidence": [
+  {
+   "claim": "Mair Research dal 1977, a Schio, progetta e produce macchine e linee per la finitura di tubi e barre, con tre stabilimenti.",
+   "url": "https://www.mair-research.com/",
+   "quote": "MAIR RESEARCH è stata fondata nel 1977 a Schio, Vicenza – Italy, con una mission ben precisa: Progettare e produrre macchine e linee innovative per la finitura di tubi e barre. || 10001 covered sqm (3 Factories) 1 Stand-alone single machines 10001 Export countries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

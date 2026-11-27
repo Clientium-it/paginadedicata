@@ -1,0 +1,28 @@
+{
+ "slug": "fabbrica-boschetti",
+ "company": "Fabbrica Boschetti",
+ "first_name": "Alessandra",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fabbrica Boschetti produce conserve dal 1891 nel veronese, dalle mousse di mela alle confetture fino a mostarde e salse senapate. Qui trova come lavoriamo e cosa potremmo fare per Fabbrica Boschetti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fabbrica Boschetti.",
+ "evidence": [
+  {
+   "claim": "Fabbrica Boschetti produce conserve dal 1891 nel veronese, dalle mousse di mela alle confetture fino a mostarde e salse senapate.",
+   "url": "https://www.fabbricaboschetti.it/",
+   "quote": "Fabbrica Boschetti, conserve dal 1891. Un’azienda in continua evoluzione, esperti nella produzione di mousse di mela dalle terre venete, confetture e specialità del territorio come mostarde e salse senapate. || Via Fontanelle 11, Albaro di Ronco all’Adige (VR)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

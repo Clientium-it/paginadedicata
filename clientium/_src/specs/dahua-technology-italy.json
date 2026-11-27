@@ -1,0 +1,28 @@
+{
+ "slug": "dahua-technology-italy",
+ "company": "Dahua Technology Italy",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dahua Technology Italy nasce nel 2018 dall'acquisizione di Videotrend da parte del gruppo Dahua, con sede a Cinisello Balsamo. Qui trova come lavoriamo e cosa potremmo fare per Dahua Technology Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dahua Technology Italy.",
+ "evidence": [
+  {
+   "claim": "Dahua Technology Italy nasce nel 2018 dall'acquisizione di Videotrend da parte del gruppo Dahua, con sede a Cinisello Balsamo.",
+   "url": "https://dahuatech.it/chi-siamo/",
+   "quote": "Dahua Technology Italy nasce nel 2018 dopo l’acquisizione di Videotrend da parte del gruppo Dahua || Dahua Technology Italy Via Cesare Cantù, 8/10 20092 Cinisello Balsamo (MI)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}
