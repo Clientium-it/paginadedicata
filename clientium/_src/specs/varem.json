@@ -1,0 +1,28 @@
+{
+ "slug": "varem",
+ "company": "VAREM",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Varem distribuisce i suoi prodotti in oltre 100 paesi nei 5 continenti, con attività a Bovolenta e Limena in provincia di Padova. Qui trova come lavoriamo e cosa potremmo fare per VAREM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VAREM.",
+ "evidence": [
+  {
+   "claim": "Varem distribuisce i suoi prodotti in oltre 100 paesi nei 5 continenti, con attività a Bovolenta e Limena in provincia di Padova.",
+   "url": "https://www.varem.com/",
+   "quote": "i nostri prodotti sono direttamente distribuiti in oltre 100 paesi nei 5 continenti || Le attività di Varem si sviluppano nel nord est d'Italia in provincia di Padova a Bovolenta e Limena."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

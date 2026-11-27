@@ -1,0 +1,28 @@
+{
+ "slug": "p-e-labellers-6",
+ "company": "P.E. LABELLERS",
+ "first_name": "Umberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "P.E. Labellers da 50 anni realizza soluzioni automatiche flessibili e modulari, con un team di 90 tecnici distribuito a livello globale. Qui trova come lavoriamo e cosa potremmo fare per P.E. LABELLERS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per P.E. LABELLERS.",
+ "evidence": [
+  {
+   "claim": "P.E. Labellers da 50 anni realizza soluzioni automatiche flessibili e modulari, con un team di 90 tecnici distribuito a livello globale.",
+   "url": "https://www.pelabellers.com/",
+   "quote": "For 50 years we've been adding value to your offering with our flexible and modular automated solutions. || relying on a team of 90 technical profiles, globally distributed, represents a highly valuable feature"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

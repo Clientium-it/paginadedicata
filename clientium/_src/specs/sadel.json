@@ -1,0 +1,28 @@
+{
+ "slug": "sadel",
+ "company": "SADEL",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SADEL produce oltre 125.000 attrezzature per la flotta nazionale, da Castel Maggiore in provincia di Bologna, per operatori del trasporto e costruttori di treni. Qui trova come lavoriamo e cosa potremmo fare per SADEL.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SADEL.",
+ "evidence": [
+  {
+   "claim": "SADEL produce oltre 125.000 attrezzature per la flotta nazionale, da Castel Maggiore in provincia di Bologna, per operatori del trasporto e costruttori di treni.",
+   "url": "https://sadel.it/index.php/about-us/",
+   "quote": "SADEL producing over 125,000 pieces of equipment and distributing them throughout most of the national fleet || Via Serenari, 1 40013 Castel Maggiore (BO) Italy || supporting transport operators and train builders alike"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

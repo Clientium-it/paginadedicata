@@ -1,0 +1,28 @@
+{
+ "slug": "negozio-di-abbigliamento",
+ "company": "Negozio di Abbigliamento",
+ "first_name": "Jada",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "La Moda propone nel suo punto vendita a Torino un'ampia selezione di maglie e maglioni in cotone e seta per uomo e donna. Qui trova come lavoriamo e cosa potremmo fare per Negozio di Abbigliamento.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Negozio di Abbigliamento.",
+ "evidence": [
+  {
+   "claim": "La Moda propone nel suo punto vendita a Torino un'ampia selezione di maglie e maglioni in cotone e seta per uomo e donna.",
+   "url": "https://www.lamodaabbigliamentotorino.it/",
+   "quote": "Nel nostro punto vendita trovi un’ampia selezione di maglie e maglioni in cotone e seta, perfetti per uomo e donna. || Via Carlo Capelli, 50 - 10146 TORINO (TO)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

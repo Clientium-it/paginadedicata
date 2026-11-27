@@ -1,0 +1,28 @@
+{
+ "slug": "sumitomo-chemical",
+ "company": "SUMITOMO CHEMICAL",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sumitomo Chemical distribuisce agrofarmaci, pesticidi biologici, regolatori di crescita, trattamenti per le sementi e tecnologie per il post raccolta attraverso cinque società. Qui trova come lavoriamo e cosa potremmo fare per SUMITOMO CHEMICAL.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SUMITOMO CHEMICAL.",
+ "evidence": [
+  {
+   "claim": "Sumitomo Chemical distribuisce agrofarmaci, pesticidi biologici, regolatori di crescita, trattamenti per le sementi e tecnologie per il post raccolta attraverso cinque società.",
+   "url": "https://sumitomo-chem-agro.com/",
+   "quote": "Through 5 affiliates & Direct Distribution Zones, we distribute disease and pest control, plant growth regulation, agrochemicals and biological pesticides, plant growth regulators (PGRs), seed treatment, post-harvest technologies. || Our 5 companies France: Sumitomo Chemical Agro Europe Italy: Sumitomo Chemical Italia South Africa: Philagro South Africa Spain: Kenogard UK: Sumitomo Chemical (UK)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

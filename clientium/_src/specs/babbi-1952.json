@@ -1,0 +1,28 @@
+{
+ "slug": "babbi-1952",
+ "company": "Babbi 1952",
+ "first_name": "Serena",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Babbi produce coni, cialde e preparati per gelatieri dal 1952 ed è presente in oltre 70 paesi. Qui trova come lavoriamo e cosa potremmo fare per Babbi 1952.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Babbi 1952.",
+ "evidence": [
+  {
+   "claim": "Babbi produce coni, cialde e preparati per gelatieri dal 1952 ed è presente in oltre 70 paesi.",
+   "url": "https://babbi.com/it/storia",
+   "quote": "Nel 1952 fondò l’ Azienda Dolciaria Babbi , dedicata alla produzione di coni, cialde e preparati per maestri gelatieri . || Oggi Babbi è presente in oltre 70 Paesi, portando ovunque la stessa passione che animava Nonno Attilio || offrire corsi dedicati sia ai professionisti della gelateria e della pasticceria, sia a chi si affaccia per la prima volta a questo mondo"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

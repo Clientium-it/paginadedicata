@@ -1,0 +1,28 @@
+{
+ "slug": "organon-italia",
+ "company": "Organon Italia",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Organon propone oltre 70 medicinali in ambiti come salute riproduttiva, malattie cardiovascolari, neurologia e dermatologia in più di 140 mercati. Qui trova come lavoriamo e cosa potremmo fare per Organon Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Organon Italia.",
+ "evidence": [
+  {
+   "claim": "Organon propone oltre 70 medicinali in ambiti come salute riproduttiva, malattie cardiovascolari, neurologia e dermatologia in più di 140 mercati.",
+   "url": "https://www.organon.com/",
+   "quote": "Our portfolio encompasses more than 70 medicines across a range of areas including reproductive health, cardiovascular disease, neurology, dermatology, autoimmune, and respiratory conditions. || We bring these important therapies to more than 140 markets around the world. || Organon Pro for healthcare professionals"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

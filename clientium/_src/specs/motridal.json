@@ -1,0 +1,28 @@
+{
+ "slug": "motridal",
+ "company": "MOTRIDAL",
+ "first_name": "Altin",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Motridal dal 1953 progetta e costruisce a Piacenza macchine e impianti per il trasporto dei materiali sfusi per società di ingegneria ed EPC contractor internazionali. Qui trova come lavoriamo e cosa potremmo fare per MOTRIDAL.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MOTRIDAL.",
+ "evidence": [
+  {
+   "claim": "Motridal dal 1953 progetta e costruisce a Piacenza macchine e impianti per il trasporto dei materiali sfusi per società di ingegneria ed EPC contractor internazionali.",
+   "url": "https://www.motridal.com/sistemi-di-trasporto/chi-siamo/",
+   "quote": "MOTRIDAL progetta e costruisce macchine e sistemi per il trasporto dei materiali sfusi fornendo sia trasportatori singoli che impianti di trasporto e stoccaggio completi. || Motridal Spa è stata fondata nel 1953 ed ha la sua sede amministrativa e produttiva a Piacenza, 40 km a sud di Milano. || La clientela Motridal comprende le principali società di ingegneria ed impiantistica, EPC contractors internazionali ed utilizzatori finali"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

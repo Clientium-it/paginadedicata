@@ -1,0 +1,28 @@
+{
+ "slug": "acqua-minerale-san-benedetto-2",
+ "company": "Gruppo Acqua Minerale San Benedetto",
+ "first_name": "Anna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "San Benedetto imbottiglia acqua minerale negli stabilimenti di Scorzè, Popoli e Donato per famiglie, benessere, tempo libero e sportivi. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Acqua Minerale San Benedetto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Acqua Minerale San Benedetto.",
+ "evidence": [
+  {
+   "claim": "San Benedetto imbottiglia acqua minerale negli stabilimenti di Scorzè, Popoli e Donato per famiglie, benessere, tempo libero e sportivi.",
+   "url": "https://www.sanbenedetto.it/it/azienda/chi-siamo",
+   "quote": "La prima bottiglia viene prodotta in vetro nello stabilimento di Scorzè, Venezia, dove nello stesso anno, il 10 Aprile, è stata fondata l'Acqua Minerale San Benedetto S.p.A. || Nasce un nuovo stabilimento a Popoli, Pescara, dove viene imbottigliata l'acqua minerale Guizza Fonte Valle Reale, cui seguirà nel 1997 lo stabilimento di Donato, a Biella, dove la Alpe Guizza S.p.A. produrrà acqua minerale Guizza Fonte Caudana || Per le famiglie Per il benessere Per il tempo libero Per gli sportivi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

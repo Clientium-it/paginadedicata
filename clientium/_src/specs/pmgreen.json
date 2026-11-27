@@ -1,0 +1,28 @@
+{
+ "slug": "pmgreen",
+ "company": "PMGREEN",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "PMGREEN opera nel mondo del fotovoltaico e delle energie rinnovabili, con sedi a Pontassieve e Reggio Emilia, a supporto di installatori, progettisti e aziende. Qui trova come lavoriamo e cosa potremmo fare per PMGREEN.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PMGREEN.",
+ "evidence": [
+  {
+   "claim": "PMGREEN opera nel mondo del fotovoltaico e delle energie rinnovabili, con sedi a Pontassieve e Reggio Emilia, a supporto di installatori, progettisti e aziende.",
+   "url": "https://www.pmgreen.com/chi-siamo/",
+   "quote": "PMGREEN è l’evoluzione naturale di due realtà storiche – PM Service e Greensun – che hanno unito competenze e visione per creare un unico player di riferimento nel mondo del fotovoltaico e delle energie rinnovabili || sede legale e operativa Viale Hanoi, 44 50065 – Pontassieve (FI) Italy +39 0558323587 [email protected] Sede operativa Via Gramsci, 104 42124 – Reggio Emilia (RE) Italy || Ogni giorno mettiamo in campo prodotti selezionati, competenze tecniche, strumenti digitali e una rete di servizi integrati per supportare installatori, progettisti e aziende."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

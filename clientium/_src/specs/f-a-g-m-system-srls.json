@@ -1,0 +1,28 @@
+{
+ "slug": "f-a-g-m-system-srls",
+ "company": "F.a.g.m.system srls",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FGM System dal 2005 si occupa di costruzioni e lavorazioni conto terzi per fluidi alimentari e farmaceutici, con assemblaggi meccanici, installazioni e cantieristica. Qui trova come lavoriamo e cosa potremmo fare per F.a.g.m.system srls.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per F.a.g.m.system srls.",
+ "evidence": [
+  {
+   "claim": "FGM System dal 2005 si occupa di costruzioni e lavorazioni conto terzi per fluidi alimentari e farmaceutici, con assemblaggi meccanici, installazioni e cantieristica.",
+   "url": "https://www.fgmsystem.it/fgm-system-chi-siamo/",
+   "quote": "F.G.M. System S.r.l. nasce nel 2005 già dotata di un’esperienza pluriennale nel settore delle costruzioni e lavorazioni conto terzi di fluidi alimentari e farmaceutici, assemblaggi meccanici, installazioni, manutenzioni e cantieristica || L’azienda svolge la sua attività in diversi capannoni che occupano un’area di circa 3000 metri"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "beninca-3",
+ "company": "Benincà Group",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Benincà Group realizza sistemi per il controllo accessi e l'automazione di varchi pedonali o veicolari in contesti residenziali, collettivi e industriali. Qui trova come lavoriamo e cosa potremmo fare per Benincà Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Benincà Group.",
+ "evidence": [
+  {
+   "claim": "Benincà Group realizza sistemi per il controllo accessi e l'automazione di varchi pedonali o veicolari in contesti residenziali, collettivi e industriali.",
+   "url": "https://www.benincagroup.com/it/chi-siamo.html",
+   "quote": "Benincà Group è una realtà composta da aziende specializzate in sistemi per il controllo accessi e l’automazione di varchi pedonali o veicolari in contesti residenziali, collettivi e industriali. || I prodotti sono distribuiti attraverso una rete internazionale di professionisti e filiali in Europa, America, Asia e Oceania. || automazione di varchi pedonali o veicolari in contesti residenziali, collettivi e industriali"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

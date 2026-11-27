@@ -1,0 +1,28 @@
+{
+ "slug": "pietro-fiorentini",
+ "company": "Pietro Fiorentini",
+ "first_name": "Sergio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pietro Fiorentini produce regolatori e prodotti per il gas ad alta e media pressione, per produttori di rinnovabili e di energia elettrica. Qui trova come lavoriamo e cosa potremmo fare per Pietro Fiorentini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Pietro Fiorentini.",
+ "evidence": [
+  {
+   "claim": "Pietro Fiorentini produce regolatori e prodotti per il gas ad alta e media pressione, per produttori di rinnovabili e di energia elettrica.",
+   "url": "https://www.fiorentini.com/it/",
+   "quote": "Prodotti per il gas Regolatori per gas ad alta-media pressione Azione pilotata Aperflux 101 Aperflux 851 ASX 176 ASX 176/FO Dixi AP Reflux 819 || Produttori di energie rinnovabili Industria hard-to-abate Agricoltura e silvicoltura Società di gestione ambientale Società di gestione dell'acqua Produttori di energia elettrica"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

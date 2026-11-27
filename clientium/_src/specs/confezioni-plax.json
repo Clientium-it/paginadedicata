@@ -1,0 +1,28 @@
+{
+ "slug": "confezioni-plax",
+ "company": "CONFEZIONI PLAX",
+ "first_name": "Omar",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Plax costruisce stampi e lavora lo stampaggio di materiale termoplastico con 7 siti produttivi tra Italia, Romania, Cina e Tunisia. Qui trova come lavoriamo e cosa potremmo fare per CONFEZIONI PLAX.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CONFEZIONI PLAX.",
+ "evidence": [
+  {
+   "claim": "Plax costruisce stampi e lavora lo stampaggio di materiale termoplastico con 7 siti produttivi tra Italia, Romania, Cina e Tunisia.",
+   "url": "https://www.plax.it/chi-siamo/plax-group/",
+   "quote": "Il gruppo Plax è un’azienda specializzata nella costruzione di stampi e nello stampaggio di materiale termoplastico. || 7 siti produttivi (Italia, Romania, Cina, Tunisia) per progettare e costruire stampi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

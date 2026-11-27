@@ -1,0 +1,28 @@
+{
+ "slug": "cantina-francesco-bellei",
+ "company": "Cantina Francesco Bellei",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cantina Francesco Bellei è un progetto di famiglia fondato nel 1920, portato avanti dalla famiglia Cavicchioli nei comuni di Bomporto e San Prospero. Qui trova come lavoriamo e cosa potremmo fare per Cantina Francesco Bellei.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cantina Francesco Bellei.",
+ "evidence": [
+  {
+   "claim": "Cantina Francesco Bellei è un progetto di famiglia fondato nel 1920, portato avanti dalla famiglia Cavicchioli nei comuni di Bomporto e San Prospero.",
+   "url": "https://www.francescobellei.it/chi-siamo",
+   "quote": "Fondata nel 1920, la Cantina Francesco Bellei è un progetto di famiglia, portato avanti dalla famiglia Cavicchioli che ne ha raccolto l'eredità e ne continua la missione. || Tra i fiumi Secchia e Panaro, nei comuni di Bomporto e San Prospero in provincia di Modena"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

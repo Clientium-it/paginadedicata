@@ -1,0 +1,28 @@
+{
+ "slug": "cerdomus-2",
+ "company": "Cerdomus",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cerdomus nasce nel 1969 lungo la Via Emilia tra Bologna e Faenza capitale della ceramica artistica italiana. Qui trova come lavoriamo e cosa potremmo fare per Cerdomus.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cerdomus.",
+ "evidence": [
+  {
+   "claim": "Cerdomus nasce nel 1969 lungo la Via Emilia tra Bologna e Faenza capitale della ceramica artistica italiana.",
+   "url": "https://www.cerdomus.com/it/azienda/chi-siamo",
+   "quote": "Cerdomus nasce nel 1969 lungo la millenaria Via Emilia, tra Bologna e Faenza, la capitale della ceramica artistica italiana. || Via Emilia Ponente, 1000 - 48014 Castel Bolognese (RA) Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

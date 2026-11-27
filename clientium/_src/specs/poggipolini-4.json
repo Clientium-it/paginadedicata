@@ -1,0 +1,28 @@
+{
+ "slug": "poggipolini-4",
+ "company": "Poggipolini",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Poggipolini progetta e produce sistemi di fissaggio speciali e lavorazioni meccaniche ad alta precisione per i settori aerospace, automotive e motorsport, con sede a Bologna. Qui trova come lavoriamo e cosa potremmo fare per Poggipolini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Poggipolini.",
+ "evidence": [
+  {
+   "claim": "Poggipolini progetta e produce sistemi di fissaggio speciali e lavorazioni meccaniche ad alta precisione per i settori aerospace, automotive e motorsport, con sede a Bologna.",
+   "url": "https://poggipolini.it/",
+   "quote": "Siamo un gruppo internazionale specializzato nel progettare e produrre sistemi di fissaggio speciali e critici, lavorazioni meccaniche ad alta precisione, sistemi integrati e soluzioni tecniche per la riduzione del peso per i settori aerospace, automotive e motorsport || HQ Bologna HPF Texas-USA Saturn California-USA Aero Delhi-INDIA Aviomec Mornago Sens-inÂ® Bologna"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

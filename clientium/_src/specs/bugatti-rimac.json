@@ -1,0 +1,28 @@
+{
+ "slug": "bugatti-rimac",
+ "company": "Bugatti Rimac",
+ "first_name": "Ivan",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bugatti Rimac produce hypercar e ha sede a Sveta Nedelja in Croazia. Qui trova come lavoriamo e cosa potremmo fare per Bugatti Rimac.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bugatti Rimac.",
+ "evidence": [
+  {
+   "claim": "Bugatti Rimac produce hypercar e ha sede a Sveta Nedelja in Croazia.",
+   "url": "https://bugatti-rimac.com/",
+   "quote": "We make revolutionary hypercars with relentless innovation and a rebellious vision || Bugatti Rimac d.o.o, Kerestinečka cesta 54, Kerestinec, 10431 Sveta Nedelja, Croatia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

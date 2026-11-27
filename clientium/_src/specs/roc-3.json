@@ -1,0 +1,28 @@
+{
+ "slug": "roc-3",
+ "company": "ROC",
+ "first_name": "Denis",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "RoC, fondato nel 1957 nella Farmacia Rogé Cavaillès di Parigi, ha sviluppato il primo prodotto ipoallergenico e la prima tecnologia di stabilizzazione del retinolo. Qui trova come lavoriamo e cosa potremmo fare per ROC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ROC.",
+ "evidence": [
+  {
+   "claim": "RoC, fondato nel 1957 nella Farmacia Rogé Cavaillès di Parigi, ha sviluppato il primo prodotto ipoallergenico e la prima tecnologia di stabilizzazione del retinolo.",
+   "url": "https://rocskincare.it/pages/la-nostra-storia",
+   "quote": "Fondato nel 1957 all’interno della Farmacia Rogé Cavaillès di Parigi, RoC® è da sempre pioniere nella cura della pelle, grazie allo sviluppo del primo prodotto ipoallergenico, della prima protezione UV completa e della prima tecnologia di stabilizzazione del retinolo."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

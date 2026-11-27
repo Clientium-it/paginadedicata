@@ -1,0 +1,28 @@
+{
+ "slug": "corvezzo",
+ "company": "Corvezzo",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Corvezzo produce Prosecco e Pinot Grigio biologici a Cessalto, in provincia di Treviso, ed è presente in oltre 50 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Corvezzo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Corvezzo.",
+ "evidence": [
+  {
+   "claim": "Corvezzo produce Prosecco e Pinot Grigio biologici a Cessalto, in provincia di Treviso, ed è presente in oltre 50 Paesi.",
+   "url": "https://corvezzo.it/la-nostra-storia/",
+   "quote": "Corvezzo è cresciuta rapidamente fino a diventare il principale produttore italiano di Prosecco e Pinot Grigio biologici, presente in oltre 50 Paesi nel mondo. || Giovanni e Maria Corvezzo fondano l’azienda agricola di famiglia a Cessalto, nel cuore della provincia di Treviso."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

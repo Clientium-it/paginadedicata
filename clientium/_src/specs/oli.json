@@ -1,0 +1,28 @@
+{
+ "slug": "oli",
+ "company": "OLI Group",
+ "first_name": "Lorenzo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OLI produce vibratori industriali ed elettrici e sistemi per il consolidamento del calcestruzzo per clienti in tutto il mondo con 3 stabilimenti produttivi. Qui trova come lavoriamo e cosa potremmo fare per OLI Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OLI Group.",
+ "evidence": [
+  {
+   "claim": "OLI produce vibratori industriali ed elettrici e sistemi per il consolidamento del calcestruzzo per clienti in tutto il mondo con 3 stabilimenti produttivi.",
+   "url": "https://www.olivibra.com/",
+   "quote": "OLI is the international leader in industrial vibration technology, providing clients around the world with industrial vibrators, electric vibrators , concrete consolidation , frequency converters and a vast range of products || The high level of customer service is guaranteed by 20 OLI Trading Subsidiaries, 36+ local warehouses and 3 manufacturing plants worldwide. || Building & Construction Renewable Energies Heavy Industries Food & Feed Plastics & Chemical Processing Plants & Machinery Recycling & Environment Technology"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

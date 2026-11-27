@@ -1,0 +1,28 @@
+{
+ "slug": "sag-tubi-2",
+ "company": "SAG TUBI",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sag Tubi, nei suoi stabilimenti di Novellara e Tredozio, lavora ogni tipo di tubo rigido e flessibile, dal diametro di 4 mm a 152,4 mm. Qui trova come lavoriamo e cosa potremmo fare per SAG TUBI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SAG TUBI.",
+ "evidence": [
+  {
+   "claim": "Sag Tubi, nei suoi stabilimenti di Novellara e Tredozio, lavora ogni tipo di tubo rigido e flessibile, dal diametro di 4 mm a 152,4 mm.",
+   "url": "https://sagtubi.saggroup.com/storia/",
+   "quote": "Sag Tubi, all’interno dei propri stabilimenti di Novellara e Tredozio è in grado di lavorare qualsiasi tipo di tubo rigido e flessibile, dal Ø di 4 mm al Ø di 152,4 mm || la sede storica di Novellara è affiancata dalla sede di Sag Tubi Tredozio"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

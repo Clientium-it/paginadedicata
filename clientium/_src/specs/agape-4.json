@@ -1,0 +1,28 @@
+{
+ "slug": "agape-4",
+ "company": "Agape",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Agape dal 1973 si dedica al bagno, uno degli ambienti più speciali della casa, con 50 anni di cultura del progetto e dell'architettura. Qui trova come lavoriamo e cosa potremmo fare per Agape.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Agape.",
+ "evidence": [
+  {
+   "claim": "Agape dal 1973 si dedica al bagno, uno degli ambienti più speciali della casa, con 50 anni di cultura del progetto e dell'architettura.",
+   "url": "https://www.agapedesign.it/about",
+   "quote": "La storia di Agape inizia nel 1973 e attraversa 50 anni di evoluzione della cultura del progetto, dell’architettura, della tecnologia e dello stile di vita, interpretando uno degli ambienti più speciali della casa: il bagno. || siamo profondamente innamorati della nostra sede sulle rive del Mincio a due passi da Mantova rinascimentale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

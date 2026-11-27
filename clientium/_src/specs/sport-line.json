@@ -1,0 +1,28 @@
+{
+ "slug": "sport-line",
+ "company": "SPORT LINE",
+ "first_name": "Stefania",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sport Line da oltre 50 anni segue nella Sabina gli appassionati degli sport all'aria aperta. Qui trova come lavoriamo e cosa potremmo fare per SPORT LINE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SPORT LINE.",
+ "evidence": [
+  {
+   "claim": "Sport Line da oltre 50 anni segue nella Sabina gli appassionati degli sport all'aria aperta.",
+   "url": "https://www.sportline-italia.it/chi-siamo/",
+   "quote": "Da oltre 50 anni Sport Line rappresenta punto di riferimento in tutta la Sabina per gli appassionati degli sport all'aria aperta"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

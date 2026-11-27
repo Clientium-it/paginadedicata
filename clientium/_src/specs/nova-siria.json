@@ -1,0 +1,28 @@
+{
+ "slug": "nova-siria",
+ "company": "Nova Siria",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nova Siria da 85 anni progetta e produce raccordi e componenti per condotte in pressione di acquedotti, gasdotti, oleodotti e impianti industriali. Qui trova come lavoriamo e cosa potremmo fare per Nova Siria.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nova Siria.",
+ "evidence": [
+  {
+   "claim": "Nova Siria da 85 anni progetta e produce raccordi e componenti per condotte in pressione di acquedotti, gasdotti, oleodotti e impianti industriali.",
+   "url": "https://www.novasiria.it/chi-siamo/",
+   "quote": "Da 85 anni progettiamo e produciamo raccordi e componenti per condotte in pressione di acquedotti, gasdotti, oleodotti e impianti industriali || l’acquisizione di due nuovi stabilimenti nel comune di Roletto , tra Pinerolo e Torino || si rivolge alle Multiutilities, alle imprese di costruzione e manutenzione di reti di distribuzione acqua, gas, fognature ed impianti industriali, ai grossisti e distributori e ai progettisti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

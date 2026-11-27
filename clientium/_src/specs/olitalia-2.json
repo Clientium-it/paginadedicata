@@ -1,0 +1,28 @@
+{
+ "slug": "olitalia-2",
+ "company": "Olitalia",
+ "first_name": "Lucio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Olitalia ha sede a Forlì conta 130 dipendenti ed è presente in 100 paesi servendo ristoranti e chef. Qui trova come lavoriamo e cosa potremmo fare per Olitalia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Olitalia.",
+ "evidence": [
+  {
+   "claim": "Olitalia ha sede a Forlì conta 130 dipendenti ed è presente in 100 paesi servendo ristoranti e chef.",
+   "url": "https://www.olitalia.com/ww-en/company/company",
+   "quote": "Olitalia is present in 100 countries around the world today. || Olitalia has its roots in the Emilia Romagna region, Italy’s culinary heartland, with headquarters in Forlì. Thanks to exponential growth, it now has 130 employees. || For restaurants and chefs Olitalia gives restaurant professionals the products they need to serve dishes that reflect their passion for good food and gastronomic culture."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

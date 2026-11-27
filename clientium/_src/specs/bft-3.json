@@ -1,0 +1,28 @@
+{
+ "slug": "bft-3",
+ "company": "BFT",
+ "first_name": "Cosimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "BFT opera nell'automazione degli accessi e ha sede a Schio in provincia di Vicenza. Qui trova come lavoriamo e cosa potremmo fare per BFT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BFT.",
+ "evidence": [
+  {
+   "claim": "BFT opera nell'automazione degli accessi e ha sede a Schio in provincia di Vicenza.",
+   "url": "https://www.bft-automation.com/",
+   "quote": "Bft is a global leader in Access Automation, known for our Be Ahead philosophy. || BFT S.p.A. Via Lago di Vico, 44 - 36015 Schio (VI) - ITALIA - P. IVA IT 00867710246 - CAP. SOC. I.V. 600.000 €"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

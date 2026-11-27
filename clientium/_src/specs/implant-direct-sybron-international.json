@@ -1,0 +1,28 @@
+{
+ "slug": "implant-direct-sybron-international",
+ "company": "Implant Direct Sybron International",
+ "first_name": "Raffaella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Implant Direct fornisce a migliaia di clinici impianti, abutment, soluzioni protesiche, strumenti chirurgici, biomateriali e strumenti digitali per tutto il percorso di cura. Qui trova come lavoriamo e cosa potremmo fare per Implant Direct Sybron International.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Implant Direct Sybron International.",
+ "evidence": [
+  {
+   "claim": "Implant Direct fornisce a migliaia di clinici impianti, abutment, soluzioni protesiche, strumenti chirurgici, biomateriali e strumenti digitali per tutto il percorso di cura.",
+   "url": "https://www.implantdirect.com/en-us/about-us",
+   "quote": "We support thousands of clinicians with a full range of implants, abutments, and prosthetic solutions, the digital tools to treat patients from diagnosis to end treatment, surgical instruments, and biomaterials. || We support thousands of clinicians with a full range of implants, abutments, and prosthetic solutions"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "landi-renzo-6",
+ "company": "Landi Renzo",
+ "first_name": "Pasquale",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Landi Renzo progetta e produce componenti e sistemi di alimentazione alternativi per autotrazione con una presenza in più di 50 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Landi Renzo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Landi Renzo.",
+ "evidence": [
+  {
+   "claim": "Landi Renzo progetta e produce componenti e sistemi di alimentazione alternativi per autotrazione con una presenza in più di 50 Paesi.",
+   "url": "https://landirenzogroup.com/investors/profilo-del-gruppo/",
+   "quote": "progetta, produce e commercializza componenti e sistemi di alimentazione alternativi per autotrazione ed ha due tipologie di clientela || Con una presenza a livello mondiale in più di 50 Paesi e una percentuale di export sul fatturato consolidato di circa l ’80% || le case automobilistiche (OEM) e rivenditori e importatori indipendenti del mercato After market"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

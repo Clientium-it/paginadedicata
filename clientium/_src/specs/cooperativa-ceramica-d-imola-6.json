@@ -1,0 +1,28 @@
+{
+ "slug": "cooperativa-ceramica-d-imola-6",
+ "company": "Cooperativa Ceramica d'Imola",
+ "first_name": "Erminia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cooperativa Ceramica d'Imola, fondata nel 1874 a Imola, produce pavimenti e rivestimenti in ceramica con i marchi Imola, LaFaenza e Leonardo. Qui trova come lavoriamo e cosa potremmo fare per Cooperativa Ceramica d'Imola.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cooperativa Ceramica d'Imola.",
+ "evidence": [
+  {
+   "claim": "Cooperativa Ceramica d'Imola, fondata nel 1874 a Imola, produce pavimenti e rivestimenti in ceramica con i marchi Imola, LaFaenza e Leonardo.",
+   "url": "https://ccimola.com/",
+   "quote": "Cooperativa Ceramica d’ Imola è oggi un player globale nei pavimenti e rivestimenti in ceramica, simbolo del Made in Italy nel mondo. E’ presente sul mercato con i seguenti marchi commerciali: Imola, LaFaenza e Leonardo. || Una storia straordinaria, affascinante ed unica per la più antica Cooperativa di Produzione e Lavoro d’ Italia, fondata nel 1874 ad Imola."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

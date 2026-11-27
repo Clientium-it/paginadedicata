@@ -1,0 +1,28 @@
+{
+ "slug": "corghi",
+ "company": "Corghi",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Corghi, fondata oltre 70 anni fa a Correggio, serve concessionari di automobili, distributori di pneumatici e professionisti del settore in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Corghi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Corghi.",
+ "evidence": [
+  {
+   "claim": "Corghi, fondata oltre 70 anni fa a Correggio, serve concessionari di automobili, distributori di pneumatici e professionisti del settore in tutto il mondo.",
+   "url": "https://www.corghi.com/",
+   "quote": "Oltre 70 anni fa, i fratelli Erminio e Remo Corghi fondarono la Corghi Elettromeccanica a Correggio (RE). || Da Correggio al mondo, Corghi ha costruito una presenza globale solida e riconosciuta, portando innovazione e qualità nelle officine di ogni continente. || le esigenze dei concessionari di automobili, dei distributori di pneumatici e dei professionisti del settore."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

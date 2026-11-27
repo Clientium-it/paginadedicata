@@ -1,0 +1,28 @@
+{
+ "slug": "ivas",
+ "company": "ivas",
+ "first_name": "Christian",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gruppo Ivas da oltre 20 anni opera oltre i confini nazionali e ha aperto un hub di distribuzione a Bilbao sul mercato spagnolo. Qui trova come lavoriamo e cosa potremmo fare per ivas.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ivas.",
+ "evidence": [
+  {
+   "claim": "Gruppo Ivas da oltre 20 anni opera oltre i confini nazionali e ha aperto un hub di distribuzione a Bilbao sul mercato spagnolo.",
+   "url": "https://www.gruppoivas.com/",
+   "quote": "Da oltre 20 anni Gruppo Ivas ha spinto la propria visione oltre i confini nazionali || Ivas consolida la propria presenza sul mercato spagnolo con la costituzione di Ivas Iberica e la relativa apertura di un hub di distribuzione con sede a Bilbao"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

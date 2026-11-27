@@ -1,0 +1,28 @@
+{
+ "slug": "amon-2",
+ "company": "Amon",
+ "first_name": "p",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Amon sviluppa da oltre trent'anni sistemi di controllo preingegnerizzati, da Modena, per la movimentazione, il settore agricolo e i veicoli per la manutenzione stradale. Qui trova come lavoriamo e cosa potremmo fare per Amon.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Amon.",
+ "evidence": [
+  {
+   "claim": "Amon sviluppa da oltre trent'anni sistemi di controllo preingegnerizzati, da Modena, per la movimentazione, il settore agricolo e i veicoli per la manutenzione stradale.",
+   "url": "https://www.amoncontrols.com/about-us-company/",
+   "quote": "In over thirty years of activity we have defined and developed the solutions that are now called pre-engineered control systems || Via G. Fucà, 97 - 41122 Modena - Italy || material handling (tele-handlers, aerial platforms, hydraulic cranes), agricultural sector (AG tractors, AG implements) and road maintenance vehicles (plows, saltspreaders, sweepers)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

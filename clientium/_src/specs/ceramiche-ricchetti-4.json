@@ -1,0 +1,28 @@
+{
+ "slug": "ceramiche-ricchetti-4",
+ "company": "Gruppo Ceramiche Ricchetti",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ricchetti da oltre 60 anni produce piastrelle da pavimento e rivestimento, con sede a Maranello. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Ceramiche Ricchetti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Ceramiche Ricchetti.",
+ "evidence": [
+  {
+   "claim": "Ricchetti da oltre 60 anni produce piastrelle da pavimento e rivestimento, con sede a Maranello.",
+   "url": "https://www.ricchetti-group.com/it",
+   "quote": "Da oltre 60 anni, produciamo piastrelle da pavimento e rivestimento fortemente orientate a qualità, design e pulizia estetica. || Sede Legale Via Trebbo 109, 41053 Maranello (MO) Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

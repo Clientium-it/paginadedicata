@@ -1,0 +1,28 @@
+{
+ "slug": "malvestio-2",
+ "company": "Malvestio",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Malvestio produce arredi e prodotti ad alta tecnologia per le strutture sanitarie, con due stabilimenti in Italia e una sede commerciale in Francia. Qui trova come lavoriamo e cosa potremmo fare per Malvestio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Malvestio.",
+ "evidence": [
+  {
+   "claim": "Malvestio produce arredi e prodotti ad alta tecnologia per le strutture sanitarie, con due stabilimenti in Italia e una sede commerciale in Francia.",
+   "url": "https://malvestio.it/",
+   "quote": "Guidiamo il futuro della cura con prodotti e arredi altamente tecnologici per le strutture sanitarie. || Due stabilimenti produttivi in Italia e una sede commerciale in Francia || per le strutture sanitarie"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

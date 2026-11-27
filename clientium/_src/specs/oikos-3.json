@@ -1,0 +1,28 @@
+{
+ "slug": "oikos-3",
+ "company": "OIKOS",
+ "first_name": "Angelo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Oikos dal 1984 sviluppa soluzioni decorative lavorando su prodotti, materiali e processi produttivi dalla sua sede di Gatteo. Qui trova come lavoriamo e cosa potremmo fare per OIKOS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OIKOS.",
+ "evidence": [
+  {
+   "claim": "Oikos dal 1984 sviluppa soluzioni decorative lavorando su prodotti, materiali e processi produttivi dalla sua sede di Gatteo.",
+   "url": "https://oikos-group.it/it-IT/chi-siamo",
+   "quote": "dal 1984, Oikos porta avanti una ricerca continua su prodotti, materiali e processi produttivi, sviluppando soluzioni decorative pensate per unire estetica, prestazioni e attenzione agli spazi in cui viviamo || Via Cherubini n. 2 47043 Gatteo (FC)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

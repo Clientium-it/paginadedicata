@@ -1,0 +1,28 @@
+{
+ "slug": "green-free-fotovoltaico",
+ "company": "Green free fotovoltaico",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Green Mood progetta e realizza impianti fotovoltaici, accumulo, pompe di calore e colonnine di ricarica, con sede a Quiliano e filiali in Emilia Romagna e Sicilia. Qui trova come lavoriamo e cosa potremmo fare per Green free fotovoltaico.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Green free fotovoltaico.",
+ "evidence": [
+  {
+   "claim": "Green Mood progetta e realizza impianti fotovoltaici, accumulo, pompe di calore e colonnine di ricarica, con sede a Quiliano e filiali in Emilia Romagna e Sicilia.",
+   "url": "https://greenmood.org/green-mood-chi-siamo/",
+   "quote": "Green Mood Italia Srls è un general contractor nazionale per l'efficienza energetica con sede a Quiliano (SV). Progettiamo e realizziamo impianti fotovoltaici, accumulo, pompe di calore, colonnine di ricarica e comunità energetiche rinnovabili || Sede legale Via G. Rossi 5/E – 17047 Quiliano (SV) Operatività Tutta Italia, con filiali in Emilia-Romagna e in Sicilia || Famiglie e proprietari di abitazioni, imprese edili e studi tecnici, amministratori condominiali, nuove costruzioni residenziali e commerciali"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

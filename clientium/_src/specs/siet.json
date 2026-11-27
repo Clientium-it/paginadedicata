@@ -1,0 +1,28 @@
+{
+ "slug": "siet",
+ "company": "Siet",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Siet da trent'anni esegue prove collaudi e certificazioni su componenti meccanici e termo idraulici a Piacenza. Qui trova come lavoriamo e cosa potremmo fare per Siet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Siet.",
+ "evidence": [
+  {
+   "claim": "Siet da trent'anni esegue prove collaudi e certificazioni su componenti meccanici e termo idraulici a Piacenza.",
+   "url": "https://www.siet.it/",
+   "quote": "SIET mette a disposizione dell'industria la propria trentennale esperienza nell'esecuzione di prove per lo sviluppo, il collaudo, la qualificazione e la certificazione di componenti meccanici e termo idraulici. || SIET S.p.A. via Nino Bixio 27/c - 29121 Piacenza Italia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

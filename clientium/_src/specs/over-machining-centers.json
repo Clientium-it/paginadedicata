@@ -1,0 +1,28 @@
+{
+ "slug": "over-machining-centers",
+ "company": "OVER Machining Centers",
+ "first_name": "Valter",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OVER Machining Centers costruisce da oltre trent'anni centri di lavoro a controllo numerico per automotive, aerospace e ferroviario a Pontenure. Qui trova come lavoriamo e cosa potremmo fare per OVER Machining Centers.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OVER Machining Centers.",
+ "evidence": [
+  {
+   "claim": "OVER Machining Centers costruisce da oltre trent'anni centri di lavoro a controllo numerico per automotive, aerospace e ferroviario a Pontenure.",
+   "url": "https://www.overmc.it/it/azienda/about",
+   "quote": "Siamo da oltre trent’anni tra le aziende leader nella costruzione di centri di lavoro a controllo numerico (centri di tornitura, fresatura ed alesatura), sia attraverso retrofitting completi sia con progettazioni customizzate sulle esigenze produttive dei clienti. || OVER Machining Centers S.R.L. Via D’Antona 1/11 29010 Pontenure (Italia) || operanti in tutti i comparti che utilizzano macchinari ad asportazione di truciolo: automotive (come i torni per la produzione di dischi freno), aerospace (per la produzione di \"slat”, di carrelli di atterraggio ed altri componenti ), ferroviario"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

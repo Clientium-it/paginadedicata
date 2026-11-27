@@ -1,0 +1,28 @@
+{
+ "slug": "san-patrignano-soc-coop-sociale",
+ "company": "San Patrignano Soc. Coop. Sociale",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "San Patrignano accoglie da oltre 40 anni ragazze e ragazzi con problemi di dipendenza, a Coriano vicino a Rimini. Qui trova come lavoriamo e cosa potremmo fare per San Patrignano Soc. Coop. Sociale.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per San Patrignano Soc. Coop. Sociale.",
+ "evidence": [
+  {
+   "claim": "San Patrignano accoglie da oltre 40 anni ragazze e ragazzi con problemi di dipendenza, a Coriano vicino a Rimini.",
+   "url": "https://www.sanpatrignano.org/",
+   "quote": "Da oltre 40 anni San Patrignano offre un aiuto gratuito a ragazze e ragazzi con problemi di dipendenza. Ben 27mila quelli accolti finora e circa 800 quelli attualmente in percorso. || Via San Patrignano 53 – 47853 Coriano (Rimini) || a chi è già caduto nel dramma della droga, dell’alcolismo o del gioco d’azzardo, ma anche a migliaia di ragazzi perché in futuro non si trovino nello stesso problema"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

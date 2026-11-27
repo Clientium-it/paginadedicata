@@ -1,0 +1,28 @@
+{
+ "slug": "oxy-implant-official",
+ "company": "Oxy Implant Official",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Oxy Implant lavora da oltre 35 anni nell'implantologia dentale e supporta i team odontoiatrici da Colico in provincia di Lecco. Qui trova come lavoriamo e cosa potremmo fare per Oxy Implant Official.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Oxy Implant Official.",
+ "evidence": [
+  {
+   "claim": "Oxy Implant lavora da oltre 35 anni nell'implantologia dentale e supporta i team odontoiatrici da Colico in provincia di Lecco.",
+   "url": "https://oxyimplant.com/biomec-oxy-implant/",
+   "quote": "Oltre 35 anni di esperienza nel settore dell’implantologia dentale, con un focus costante sulla qualità e l’affidabilità delle nostre soluzioni || Via Nazionale Nord 21/A 23823 Colico (LC) || offrire il massimo supporto ai Team odontoiatrici"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "benvic-europe",
+ "company": "Benvic Europe",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Benvic sviluppa compound in PVC da oltre 60 anni e opera in Francia Italia Polonia Spagna Regno Unito e Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per Benvic Europe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Benvic Europe.",
+ "evidence": [
+  {
+   "claim": "Benvic sviluppa compound in PVC da oltre 60 anni e opera in Francia Italia Polonia Spagna Regno Unito e Stati Uniti.",
+   "url": "https://www.benvic.com/about-us/the-group.html",
+   "quote": "With more than 60 years of experience and expertise, we are a global leader in compounding and the largest independent European PVC compounder || Country France Italy Poland Spain United Kingdom United States || Automotive Construction Consumer Electrical & electronics Electrical cables & wires Fluid transportation Healthcare & medical Industrial & transportation Packaging"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

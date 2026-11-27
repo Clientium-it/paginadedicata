@@ -1,0 +1,28 @@
+{
+ "slug": "thermoplay-by-spectrix",
+ "company": "THERMOPLAY by SPECTRIX",
+ "first_name": "Ersin",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Thermoplay produce tecnologia a canale caldo per applicazioni a media cavità, per settori come packaging, personal care, medicale, pharma, elettronica e componenti automotive. Qui trova come lavoriamo e cosa potremmo fare per THERMOPLAY by SPECTRIX.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per THERMOPLAY by SPECTRIX.",
+ "evidence": [
+  {
+   "claim": "Thermoplay produce tecnologia a canale caldo per applicazioni a media cavità, per settori come packaging, personal care, medicale, pharma, elettronica e componenti automotive.",
+   "url": "https://spectrix.com/en/thermoplay/",
+   "quote": "Thermoplay delivers practical hot runner technology for medium cavity applications – flexible, proven, and cost-efficient. || Packaging FMCG Personal Care Medical Pharma Electronics Technical Parts Automotive Components"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

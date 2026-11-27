@@ -1,0 +1,28 @@
+{
+ "slug": "comec-dromontgroup",
+ "company": "Comec Dromontgroup",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Comec dal 1970 produce macchine e impianti per i settori chimico, ceramico, farmaceutico e alimentare, nel sito produttivo di Ciano d'Enza. Qui trova come lavoriamo e cosa potremmo fare per Comec Dromontgroup.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Comec Dromontgroup.",
+ "evidence": [
+  {
+   "claim": "Comec dal 1970 produce macchine e impianti per i settori chimico, ceramico, farmaceutico e alimentare, nel sito produttivo di Ciano d'Enza.",
+   "url": "https://comec.eu.com/company/",
+   "quote": "Established in 1970, Comec is specialized in machineries and plants for the chemical, ceramic, pharmaceutical and food industries. || At our production site in Ciano d’Enza, Engineering and Manufacturing work side by side. || Coatings & Inks Food & Cosmetics Adhesives & Sealants"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

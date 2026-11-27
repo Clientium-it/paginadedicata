@@ -1,0 +1,28 @@
+{
+ "slug": "crcc-asia",
+ "company": "CRCC Asia",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CRCC Global da 20 anni mette in contatto studenti con tirocini internazionali ed esperienze all'estero in molti paesi. Qui trova come lavoriamo e cosa potremmo fare per CRCC Asia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CRCC Asia.",
+ "evidence": [
+  {
+   "claim": "CRCC Global da 20 anni mette in contatto studenti con tirocini internazionali ed esperienze all'estero in molti paesi.",
+   "url": "https://www.crccglobal.com/about-us",
+   "quote": "For 20 years, CRCC Global (formerly CRCC Asia) has connected students with international internships and global experiences that build careers, confidence and cross-cultural understanding. || Japan, Tokyo Japan, Kansai South Korea, Seoul China, Beijing China, Shanghai Hong Kong SAR, Hong Kong Taiwan, Taipei Thailand, Bangkok Vietnam, Ho Chi Minh City India, Mumbai United Kingdom, London France, Paris Germany, Berlin Madrid, Spain Turin, Italy || Become part of our global host company network and connect with motivated international interns across a wide range of sectors, while supporting the next generation of career-ready graduates."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

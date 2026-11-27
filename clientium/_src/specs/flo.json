@@ -1,0 +1,28 @@
+{
+ "slug": "flo",
+ "company": "Flo",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Flo fornisce alle catene di distribuzione internazionali e ai professionisti della ristorazione italiana ed europea prodotti in materiali sostenibili, da Fontanellato in provincia di Parma. Qui trova come lavoriamo e cosa potremmo fare per Flo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Flo.",
+ "evidence": [
+  {
+   "claim": "Flo fornisce alle catene di distribuzione internazionali e ai professionisti della ristorazione italiana ed europea prodotti in materiali sostenibili, da Fontanellato in provincia di Parma.",
+   "url": "https://www.flo.eu/",
+   "quote": "forniamo alle catene di distribuzione internazionali e ai professionisti della ristorazione italiana ed europea una gamma completa di prodotti, realizzati secondo concetti di materiali sostenibili || Sede Centrale FLO S.p.A. Frazione Ghiara Sabbioni, 33/A - IT 43012 FONTANELLATO (Parma) || forniamo alle catene di distribuzione internazionali e ai professionisti della ristorazione italiana ed europea"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

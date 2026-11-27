@@ -1,0 +1,28 @@
+{
+ "slug": "m-g-a-di-scarsi-maurizio-e-c",
+ "company": "M.G.A. DI SCARSI MAURIZIO E C",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MGA è concessionario unico Linde Material Handling per le province di Alessandria, Asti, Genova, Savona e Imperia. Qui trova come lavoriamo e cosa potremmo fare per M.G.A. DI SCARSI MAURIZIO E C.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per M.G.A. DI SCARSI MAURIZIO E C.",
+ "evidence": [
+  {
+   "claim": "MGA è concessionario unico Linde Material Handling per le province di Alessandria, Asti, Genova, Savona e Imperia.",
+   "url": "https://www.mgacarrellielevatori.com/azienda/chi-siamo/",
+   "quote": "l’azienda è concessionario unico Linde Material Handling per le province di Alessandria, Asti, Genova, Savona e Imperia, territori in cui rappresenta il brand tedesco con un servizio tecnico e commerciale capillare || Via Pernigotti 7/A – 15070, Belforte Monferrato (AL) || un’offerta che copre le esigenze del piccolo artigiano come della grande industria"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

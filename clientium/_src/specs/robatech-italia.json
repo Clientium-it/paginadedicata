@@ -1,0 +1,28 @@
+{
+ "slug": "robatech-italia",
+ "company": "Robatech Italia",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Robatech dal 1975 produce sistemi di incollaggio per settori come packaging, converting, automotive e legno, con sede in Svizzera e presenza in oltre 80 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Robatech Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Robatech Italia.",
+ "evidence": [
+  {
+   "claim": "Robatech dal 1975 produce sistemi di incollaggio per settori come packaging, converting, automotive e legno, con sede in Svizzera e presenza in oltre 80 Paesi.",
+   "url": "https://www.robatech.com/en/about-robatech",
+   "quote": "Since 1975 Robatech has designed and produced high-quality controls, application heads, melting and dosing systems that bring more sustainability, security, and simplicity to gluing processes. || The Robatech Group, headquartered in Muri, Switzerland, is represented in more than 80 countries. Over 700 dedicated employees and partners worldwide provide personal customer advice and fast service in a wide range of industries. || Industries Packaging Converting Automotive Graphics Mattresses Building Supplies Woodworking"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

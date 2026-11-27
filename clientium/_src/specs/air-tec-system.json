@@ -1,0 +1,28 @@
+{
+ "slug": "air-tec-system",
+ "company": "Air-Tec System",
+ "first_name": "Lamberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Air-Tec System progetta macchinari e impianti per la movimentazione di materiali sfusi, da San Giovanni in Persiceto, per i settori chimico, farmaceutico e alimentare. Qui trova come lavoriamo e cosa potremmo fare per Air-Tec System.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Air-Tec System.",
+ "evidence": [
+  {
+   "claim": "Air-Tec System progetta macchinari e impianti per la movimentazione di materiali sfusi, da San Giovanni in Persiceto, per i settori chimico, farmaceutico e alimentare.",
+   "url": "https://www.air-tec.it/azienda/chi-siamo/",
+   "quote": "Progetta e realizza macchinari e impianti per vari settori industriali in tutto il mondo: chimico, farmaceutico, edilizio, alimentare e della plastica. || SEDE LEGALE Via Einstein 40 – 40017 San Giovanni in Persiceto (BO) - Italia SEDE OPERATIVA E RICEVIMENTO MERCI Via Einstein 10-12 -40017 San Giovanni in Persiceto, Bologna - Italia || Air-Tec System è da sempre partner di produttori nazionali ed internazionali che operano nel settore della movimentazione di materiali sfusi, a cui fornisce macchinari e componenti che completano gli impianti."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

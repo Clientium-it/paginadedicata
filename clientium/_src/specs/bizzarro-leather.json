@@ -1,0 +1,28 @@
+{
+ "slug": "bizzarro-leather",
+ "company": "BIZZARRO LEATHER",
+ "first_name": "Monica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bizzarro Leather fornisce pelli per abbigliamento pelletteria calzature accessori arredamento e automotive. Qui trova come lavoriamo e cosa potremmo fare per BIZZARRO LEATHER.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BIZZARRO LEATHER.",
+ "evidence": [
+  {
+   "claim": "Bizzarro Leather fornisce pelli per abbigliamento pelletteria calzature accessori arredamento e automotive.",
+   "url": "https://www.bizzarroleather.com/prodotti",
+   "quote": "I nostri prodotti trovano applicazione nei campi più diversi: Abbigliamento, Pelletteria, Calzature, Accessori, Cartotecnica, Arredamento, Automotive, Interni Nautica, Rivestimenti, Pavimentazioni, ecc. || Partner creativo, etico ed innovativo dei più noti Brand di Alta Gamma."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

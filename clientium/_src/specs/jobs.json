@@ -1,0 +1,28 @@
+{
+ "slug": "jobs",
+ "company": "JOBS",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Jobs dal 1979 produce macchine per fresatura a 3 e 5 assi per i settori aerospaziale, automobilistico, meccanico ed energetico con circa 170 persone. Qui trova come lavoriamo e cosa potremmo fare per JOBS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per JOBS.",
+ "evidence": [
+  {
+   "claim": "Jobs dal 1979 produce macchine per fresatura a 3 e 5 assi per i settori aerospaziale, automobilistico, meccanico ed energetico con circa 170 persone.",
+   "url": "https://jobs.it/it/azienda",
+   "quote": "Dal 1979 Jobs produce macchine e impianti automatizzati per fresatura a 3 e 5 assi ad alta velocità e ad alta potenza largamente impiegati dalle più avanzate aziende mondiali per lavorazioni ad altissimo contenuto tecnologico. || La sede Jobs impiega circa 170 persone ed il 70% della produzione viene esportato verso i paesi più industrializzati. || Jobs è riconosciuta come azienda di riferimento nella tecnologia delle lavorazioni di fresatura ad alte prestazioni per produzioni aerospaziali, automobilistiche, di meccanica generale e per l’energia."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

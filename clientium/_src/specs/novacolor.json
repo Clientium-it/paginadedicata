@@ -1,0 +1,28 @@
+{
+ "slug": "novacolor",
+ "company": "novacolor",
+ "first_name": "Roberta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Novacolor nasce nel 1982 a Forlì e realizza finiture decorative per pareti e pavimenti al fianco di architetti e progettisti negli interventi contract. Qui trova come lavoriamo e cosa potremmo fare per novacolor.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per novacolor.",
+ "evidence": [
+  {
+   "claim": "Novacolor nasce nel 1982 a Forlì e realizza finiture decorative per pareti e pavimenti al fianco di architetti e progettisti negli interventi contract.",
+   "url": "https://www.novacolor.it/chi-siamo/",
+   "quote": "Novacolor nasce nel 1982 a Forlì, nel cuore di una delle aree più produttive d’Italia. || Novacolor, specializzato in finiture decorative per pareti e pavimenti. || Novacolor si propone come partner strategico al fianco di architetti e progettisti nello sviluppo di interventi contract"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

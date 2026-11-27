@@ -1,0 +1,28 @@
+{
+ "slug": "pozzoni",
+ "company": "POZZONI",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pozzoni stampa riviste, libri, moduli continui, cartevalori ed etichette autoadesive per clienti dell'editoria, delle banche e dell'industria, con circa 2.500 dipendenti in 14 stabilimenti. Qui trova come lavoriamo e cosa potremmo fare per POZZONI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per POZZONI.",
+ "evidence": [
+  {
+   "claim": "Pozzoni stampa riviste, libri, moduli continui, cartevalori ed etichette autoadesive per clienti dell'editoria, delle banche e dell'industria, con circa 2.500 dipendenti in 14 stabilimenti.",
+   "url": "https://pozzoni.it/it/chisiamo/gruppopozzoni",
+   "quote": "riviste, libri in bianco e nero ed illustrati, moduli continui, cartevalori, stampa piana, etichette autoadesive || opera con un team di circa 2.500 dipendenti in 14 stabilimenti di produzione || clienti che operano principalmente nel settore editoriale, bancario ed industriale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

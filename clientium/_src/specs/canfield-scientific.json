@@ -1,0 +1,28 @@
+{
+ "slug": "canfield-scientific",
+ "company": "Canfield Scientific",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Canfield Scientific realizza sistemi di imaging per la ricerca scientifica e le applicazioni sanitarie, dal settore farmaceutico a quello cosmetico e della cura della pelle. Qui trova come lavoriamo e cosa potremmo fare per Canfield Scientific.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Canfield Scientific.",
+ "evidence": [
+  {
+   "claim": "Canfield Scientific realizza sistemi di imaging per la ricerca scientifica e le applicazioni sanitarie, dal settore farmaceutico a quello cosmetico e della cura della pelle.",
+   "url": "https://www.canfieldsci.com/about/",
+   "quote": "Leader mondiale nei sistemi di imaging, servizi e prodotti per la ricerca scientifica e le applicazioni sanitarie, compresi i settori farmaceutico, biotecnologico, cosmetico, medico e della cura della pelle. || settori farmaceutico, biotecnologico, cosmetico, medico e della cura della pelle"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "baudouin-2",
+ "company": "Baudouin",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Baudouin progetta e produce da oltre 100 anni motori e gruppi elettrogeni per il settore marino e la generazione di energia in oltre 100 Paesi. Qui trova come lavoriamo e cosa potremmo fare per Baudouin.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Baudouin.",
+ "evidence": [
+  {
+   "claim": "Baudouin progetta e produce da oltre 100 anni motori e gruppi elettrogeni per il settore marino e la generazione di energia in oltre 100 Paesi.",
+   "url": "https://baudouin.com/our-company/",
+   "quote": "For over 100 years, Moteurs Baudouin has designed and manufactured reliable engines and power solutions, built on a strong maritime heritage. Today, Baudouin offers propulsion and auxiliary engines, generator sets and variable speed engines for marine, off-highway, and power generation applications. || With a presence in over 100 countries and more than 300 service points worldwide, Baudouin provides expert support from specification to maintenance || Tugboats Workboats Yacht & Pleasure Agriculture & Water Pump Commercial & Public Buildings Construction Data Centres Greenhouse Healthcare & Hospitals"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}
