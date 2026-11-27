@@ -1,0 +1,28 @@
+{
+ "slug": "omp-racing-co",
+ "company": "OMP Racing Co",
+ "first_name": "Corrado",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OMP offre oltre 2.000 prodotti per la sicurezza di auto da corsa e piloti, spedisce in 27 paesi e lavora con i team del motorsport. Qui trova come lavoriamo e cosa potremmo fare per OMP Racing Co.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OMP Racing Co.",
+ "evidence": [
+  {
+   "claim": "OMP offre oltre 2.000 prodotti per la sicurezza di auto da corsa e piloti, spedisce in 27 paesi e lavora con i team del motorsport.",
+   "url": "https://www.ompracing.com/about-us/",
+   "quote": "OMP is one of a very few industry suppliers in the world able to offer a complete range of performance driven products dedicated to race car and driver safety with over 2,000 products in its catalog || We ship to 27 countries. || OMP collaborates with the most important manufacturers, teams and organizations in motorsports"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

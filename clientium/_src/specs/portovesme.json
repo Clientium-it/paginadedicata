@@ -1,0 +1,28 @@
+{
+ "slug": "portovesme",
+ "company": "PORTOVESME",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Portovesme è l'unico produttore di zinco e piombo in Italia con circa 900 lavoratori tra i siti di Portoscuso e San Gavino. Qui trova come lavoriamo e cosa potremmo fare per PORTOVESME.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PORTOVESME.",
+ "evidence": [
+  {
+   "claim": "Portovesme è l'unico produttore di zinco e piombo in Italia con circa 900 lavoratori tra i siti di Portoscuso e San Gavino.",
+   "url": "https://www.portovesme.it/it/who-we-are/our-history",
+   "quote": "Oggi la Portovesme S.r.l. è l’unico produttore di Zinco e Piombo in Italia, definito dallo stesso Ministero di importanza strategica nazionale. Occupa circa 900 lavoratori che operano stabilmente all’interno degli impianti. || La Portovesme S.r.l. è stata costituita il 2 luglio 1999 con l’acquisizione da ENI sia del sito produttivo di Portoscuso, avviato nel 1970, che del sito di San Gavino, avviato nel 1929."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

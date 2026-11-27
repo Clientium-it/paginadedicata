@@ -1,0 +1,28 @@
+{
+ "slug": "stanhome",
+ "company": "Stanhome",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Stanhome propone prodotti per la cura della casa, la bellezza e la famiglia con una rete di agenti in Romania, Spagna, Cipro, Vietnam e Malta. Qui trova come lavoriamo e cosa potremmo fare per Stanhome.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Stanhome.",
+ "evidence": [
+  {
+   "claim": "Stanhome propone prodotti per la cura della casa, la bellezza e la famiglia con una rete di agenti in Romania, Spagna, Cipro, Vietnam e Malta.",
+   "url": "https://www.stanhome.com/",
+   "quote": "With our home care products, you streamline your daily routine with high-performance formulas and smart solutions. With our beauty and family care products, you nurture yourself and those who matter most. || thanks to a network of agents operating in the following countries: Romania Spain Cyprus Vietnam Malta"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

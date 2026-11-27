@@ -1,0 +1,28 @@
+{
+ "slug": "mec-2",
+ "company": "MEC",
+ "first_name": "Maria Grazia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MeC fa consulenza di cost analysis dal 2006 per OEM e TIER, partita da Torino e oggi con filiali a Modena, Detroit e Tangeri. Qui trova come lavoriamo e cosa potremmo fare per MEC.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MEC.",
+ "evidence": [
+  {
+   "claim": "MeC fa consulenza di cost analysis dal 2006 per OEM e TIER, partita da Torino e oggi con filiali a Modena, Detroit e Tangeri.",
+   "url": "https://mecsrl.net/chi-siamo/",
+   "quote": "MeC è una società di consulenza specializzata nel Cost analysis. Fondata nel 2006 a Torino, è presente oggi nel mercato europeo e americano per collaborare con OEMs e TIERs in tutto il mondo. || 2012 2012 MODENA L’azienda MeC apre la sua prima filiale 2013 2013 DETROIT Viene fondata l’azienda MeC US 2022 2022 TANGERI Viene fondata la filiale MeC Tangeri || ci avviciniamo all’industria delle macchine agricole specializzandoci in questo settore e in quello dei veicoli commerciali di medie e grandi dimensioni."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "r-store",
+ "company": "R-Store",
+ "first_name": "Felice",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "R-Store è fornitore di servizi autorizzato Apple con tecnici certificati e ricambi originali e segue anche aziende e partite IVA. Qui trova come lavoriamo e cosa potremmo fare per R-Store.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per R-Store.",
+ "evidence": [
+  {
+   "claim": "R-Store è fornitore di servizi autorizzato Apple con tecnici certificati e ricambi originali e segue anche aziende e partite IVA.",
+   "url": "https://www.rstore.it/pages/services",
+   "quote": "Siamo un fornitore di servizi autorizzato Apple. Siete in ottime mani. I nostri tecnici sono certificati da Apple e utilizziamo esclusivamente ricambi originali per garantire interventi precisi, rapidi e accurati. || Azienda o Partita IVA? Scegli Apple per il tuo Business"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "relx-international-2",
+ "company": "RELX International",
+ "first_name": "Emiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "RELX offre pod, dispositivi e AirPouch alla nicotina con un canale wholesale e una presenza in paesi come Italia, Spagna, Francia e Australia. Qui trova come lavoriamo e cosa potremmo fare per RELX International.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RELX International.",
+ "evidence": [
+  {
+   "claim": "RELX offre pod, dispositivi e AirPouch alla nicotina con un canale wholesale e una presenza in paesi come Italia, Spagna, Francia e Australia.",
+   "url": "https://relxnow.com/",
+   "quote": "Pod&Device Explore All Pod&Device 🔥 RELX Pod Pro 🔥 Infinity 2 Plus Essential 2 Artisan Plus Infinity Plus Morning Dew Nicotine AirPouch Explore All Nicotine AirPouch RELX AirPouch What is DuraPress™ For Wholesale || Select your country or region Global Australia Canada Colombia Czech Egypt France Indonesia Italy New Zealand Peru Philippines Serbia Spain United Kingdom Romania Austria"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

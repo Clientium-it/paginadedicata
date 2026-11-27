@@ -1,0 +1,28 @@
+{
+ "slug": "unifor-4",
+ "company": "UniFor",
+ "first_name": "Lorenza",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "UniFor del Gruppo Molteni produce dal 1969 sistemi di arredo per uffici, da Turate per musei, biblioteche e banche in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per UniFor.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per UniFor.",
+ "evidence": [
+  {
+   "claim": "UniFor del Gruppo Molteni produce dal 1969 sistemi di arredo per uffici, da Turate per musei, biblioteche e banche in tutto il mondo.",
+   "url": "https://unifor.it/en/identity",
+   "quote": "UniFor, part of the Molteni Group, since it was founded in 1969, develops and produces furnishing systems designed to interpret the complexity of the workplace with simple solutions. || An international company with solid national roots, UniFor has been drawing direct lines between its Turate headquarters and major international centres since the 1970s. || With its furniture, UniFor gives life to museums, libraries, banks, corporations and institutions all over the world."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

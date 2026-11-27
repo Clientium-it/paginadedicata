@@ -1,0 +1,28 @@
+{
+ "slug": "manifattura-di-valduggia",
+ "company": "manifattura di valduggia",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ragno propone Italian Lifewear dal 1879. Qui trova come lavoriamo e cosa potremmo fare per manifattura di valduggia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per manifattura di valduggia.",
+ "evidence": [
+  {
+   "claim": "Ragno propone Italian Lifewear dal 1879.",
+   "url": "https://ragno.com/de-de",
+   "quote": "Kopieren Sie das Aussehen des Talents Italian Lifewear Since 1879 ENTDECKEN SIE UNSERE GESCHICHTE"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

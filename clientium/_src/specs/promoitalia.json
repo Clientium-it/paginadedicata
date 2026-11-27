@@ -1,0 +1,28 @@
+{
+ "slug": "promoitalia",
+ "company": "Promoitalia Group",
+ "first_name": "Ippolita",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Promoitalia è nata nel 1994, lavora con un'équipe di medici esperti e oggi ha uffici in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per Promoitalia Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Promoitalia Group.",
+ "evidence": [
+  {
+   "claim": "Promoitalia è nata nel 1994, lavora con un'équipe di medici esperti e oggi ha uffici in tutto il mondo.",
+   "url": "https://webpromoitalia.com/about-us/",
+   "quote": "Promoitalia was born in 1994 and boasts an outstanding team, also composed of an equipe of renowned medical experts || the continuous growth of our company, nowadays with offices worldwide, confirms our market-leading position"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

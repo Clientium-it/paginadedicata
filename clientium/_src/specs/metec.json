@@ -1,0 +1,28 @@
+{
+ "slug": "metec",
+ "company": "METEC Group",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Metec produce dal 1994 anodi in alluminio, zinco e magnesio per la protezione catodica, con sedi in Italia, Regno Unito e Tunisia. Qui trova come lavoriamo e cosa potremmo fare per METEC Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per METEC Group.",
+ "evidence": [
+  {
+   "claim": "Metec produce dal 1994 anodi in alluminio, zinco e magnesio per la protezione catodica, con sedi in Italia, Regno Unito e Tunisia.",
+   "url": "https://metecgroup.com/about-us/",
+   "quote": "1994 Metec Is Founded Metec is born in Sicilia, Italy as a producer of aluminium, zinc, and magnesium anodes for Cathodic Protection || Locations United Kingdom Italy Tunisia || Sectors Offshore Renewables Offshore Oil & Gas Offshore Drilling & Production Vessels Port & Harbour Ship Build & Ship Repair"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

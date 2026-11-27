@@ -1,0 +1,28 @@
+{
+ "slug": "surtec-3",
+ "company": "SurTec Group",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SurTec sviluppa e produce formulati chimici per pulizia industriale, pretrattamento dei metalli e galvanica, con sede italiana a Soliera. Qui trova come lavoriamo e cosa potremmo fare per SurTec Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SurTec Group.",
+ "evidence": [
+  {
+   "claim": "SurTec sviluppa e produce formulati chimici per pulizia industriale, pretrattamento dei metalli e galvanica, con sede italiana a Soliera.",
+   "url": "https://www.surtec.com/it/",
+   "quote": "SurTec sviluppa, produce e fornisce formulati chimici per la pulizia industriale dei pezzi, il pretrattamento dei metalli, i rivestimenti funzionali e la galvanica. || SurTec Italia Sas di Externa Holding Srl Via Boito, 251 41019 Soliera (MO) Italia || SurTec fornisce quasi tutti i segmenti che si occupano di trattamento delle superfici, compresi i settori automobilistico, dei trasporti, delle costruzioni, elettronico ed elettrico, sanitario e lifestyle."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

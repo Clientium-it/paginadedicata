@@ -1,0 +1,28 @@
+{
+ "slug": "msd",
+ "company": "MSD",
+ "first_name": "Pasquale",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MSD da oltre 130 anni sviluppa farmaci e vaccini per la prevenzione e la cura delle malattie nelle persone e negli animali. Qui trova come lavoriamo e cosa potremmo fare per MSD.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MSD.",
+ "evidence": [
+  {
+   "claim": "MSD da oltre 130 anni sviluppa farmaci e vaccini per la prevenzione e la cura delle malattie nelle persone e negli animali.",
+   "url": "https://www.msd.com/company-overview/",
+   "quote": "For more than 130 years, we’ve brought hope to humanity through the development of important medicines and vaccines. || We’re at the forefront of research to deliver innovative health solutions that advance the prevention and treatment of diseases in people and animals. || For patients and healthcare professionals"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

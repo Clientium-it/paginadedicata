@@ -1,0 +1,28 @@
+{
+ "slug": "sitem",
+ "company": "SITEM",
+ "first_name": "Judith",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sitem ha sede a Trevi e produce lamierini magnetici tranciati per motori elettrici da 0,09 a 30 kW, a disegno o a catalogo, anche per l'automotive. Qui trova come lavoriamo e cosa potremmo fare per SITEM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SITEM.",
+ "evidence": [
+  {
+   "claim": "Sitem ha sede a Trevi e produce lamierini magnetici tranciati per motori elettrici da 0,09 a 30 kW, a disegno o a catalogo, anche per l'automotive.",
+   "url": "https://www.sitem.it/",
+   "quote": "Sitem produce una vasta gamma di lamierini magnetici tranciati per motori elettrici, con potenze che variano da 0,09 kw a 30 kw, a disegno del cliente o a catalogo. || La guida e la struttura del gruppo restano invariate, con la direzione operativa che continuerà dalla sede centrale di Trevi (Italia). || La nostra produzione è concepita per far fronte alle esigenze del mercato industriale, dell’energia, dell’automotive."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

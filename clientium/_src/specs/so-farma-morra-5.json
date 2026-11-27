@@ -1,0 +1,28 @@
+{
+ "slug": "so-farma-morra-5",
+ "company": "So.Farma.Morra",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sofarma Morra evade oltre 14.000 ordini al giorno per 8000 farmacie italiane con 15 filiali e circa 90.000 referenze a magazzino. Qui trova come lavoriamo e cosa potremmo fare per So.Farma.Morra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per So.Farma.Morra.",
+ "evidence": [
+  {
+   "claim": "Sofarma Morra evade oltre 14.000 ordini al giorno per 8000 farmacie italiane con 15 filiali e circa 90.000 referenze a magazzino.",
+   "url": "https://sofarmamorra.it/chi-siamo/",
+   "quote": "L’ azienda evade oltre 14.000 ordini giornalieri assicurando la consegna dei medicinali in 8000 farmacie italiane servite quotidianamente attraverso almeno due consegne. || Il gruppo conta oggi 15 filiali dislocate sulla quasi totalità del territorio nazionale, per un totale di oltre 50.000mq dedicati allo stoccaggio di circa 90.000 referenze tra farmaci, parafarmaci, prodotti omeopatici e veterinari"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "sapa",
+ "company": "Sapa Group",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SAPA fa stampaggio a iniezione per l'automotive e fornisce direttamente i maggiori car maker con 22 stabilimenti tra Italia, Spagna, Polonia e altri paesi. Qui trova come lavoriamo e cosa potremmo fare per Sapa Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sapa Group.",
+ "evidence": [
+  {
+   "claim": "SAPA fa stampaggio a iniezione per l'automotive e fornisce direttamente i maggiori car maker con 22 stabilimenti tra Italia, Spagna, Polonia e altri paesi.",
+   "url": "https://sapaoneshot.com/it/storia/",
+   "quote": "Oggi SAPA è un gruppo industriale italiano dedicato allo stampaggio ad iniezione per il settore automotive, con fornitura diretta ai maggiori Car Makers in Italia e all’estero, contribuendo attivamente alla mobilità sostenibile. || 22 FACTORIES 5 Italy 5 Spain 1 Portugal 2 Poland 3 Czechia 1 Germany 1 Brazil 1 Netherlands 1 Estonia 1 Morocco 1 China || SAPA acquisisce Selmat e si espande nel settore dei veicoli industriali e delle auto di lusso."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "medov",
+ "company": "Medov",
+ "first_name": "Emiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Medov dal 1947 coordina da Genova attività nel trasporto marittimo tra Mediterraneo, Regno Unito e area ARA con uffici diretti e partner locali. Qui trova come lavoriamo e cosa potremmo fare per Medov.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Medov.",
+ "evidence": [
+  {
+   "claim": "Medov dal 1947 coordina da Genova attività nel trasporto marittimo tra Mediterraneo, Regno Unito e area ARA con uffici diretti e partner locali.",
+   "url": "https://www.medov.it/",
+   "quote": "From its headquarters in Genoa, Medov coordinates all its activities across the Mediterranean, the United Kingdom and the ARA region through a network of direct offices and established local partners. || Since 1947 , we have met and overcome every challenge, anticipating change in the shipping industry"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

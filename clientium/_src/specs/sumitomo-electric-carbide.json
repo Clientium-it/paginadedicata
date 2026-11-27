@@ -1,0 +1,28 @@
+{
+ "slug": "sumitomo-electric-carbide",
+ "company": "Sumitomo Electric Carbide",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sumitomo Electric Carbide offre utensili per tornitura, foratura e fresatura, utensili in CBN e PCD, custom tooling e materiali in metallo duro. Qui trova come lavoriamo e cosa potremmo fare per Sumitomo Electric Carbide.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sumitomo Electric Carbide.",
+ "evidence": [
+  {
+   "claim": "Sumitomo Electric Carbide offre utensili per tornitura, foratura e fresatura, utensili in CBN e PCD, custom tooling e materiali in metallo duro.",
+   "url": "https://sumicarbide.com/",
+   "quote": "Turning Tools CBN / PCD Tools Drilling Tools Milling Tools Custom Tooling CBN / PCD Blanks Laser Optics Carbide Materials || Available Positions in Mt. Prospect, IL and New Berlin, WI"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

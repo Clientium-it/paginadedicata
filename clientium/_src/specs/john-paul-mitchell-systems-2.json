@@ -1,0 +1,28 @@
+{
+ "slug": "john-paul-mitchell-systems-2",
+ "company": "John Paul Mitchell Systems",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Paul Mitchell riunisce marchi come Tea Tree, Neuro, Awapuhi Wild Ginger, MITCH, Paul Mitchell Tools e la linea Professional Hair Color. Qui trova come lavoriamo e cosa potremmo fare per John Paul Mitchell Systems.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per John Paul Mitchell Systems.",
+ "evidence": [
+  {
+   "claim": "Paul Mitchell riunisce marchi come Tea Tree, Neuro, Awapuhi Wild Ginger, MITCH, Paul Mitchell Tools e la linea Professional Hair Color.",
+   "url": "https://www.paulmitchell.com/",
+   "quote": "Our Brands Paul Mitchell Paul Mitchell Tools Tea Tree Neuro Awapuhi Wild Ginger MITCH Paul Mitchell Pet Professional Hair Color"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

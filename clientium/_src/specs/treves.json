@@ -1,0 +1,28 @@
+{
+ "slug": "treves",
+ "company": "Trèves Group",
+ "first_name": "Stefania",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Trèves si concentra sull'acustica per oltre 15 gruppi automobilistici, con 26 stabilimenti in 15 paesi e 8 centri tecnici. Qui trova come lavoriamo e cosa potremmo fare per Trèves Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Trèves Group.",
+ "evidence": [
+  {
+   "claim": "Trèves si concentra sull'acustica per oltre 15 gruppi automobilistici, con 26 stabilimenti in 15 paesi e 8 centri tecnici.",
+   "url": "https://www.treves-group.com/",
+   "quote": "4600 collaborateurs de plus de 15 nationalités 750 M€ de CA en 2026 avec plus de 15 groupes automobiles 150 ingénieurs en R&D dans 8 centres techniques 26 usines dans 15 pays || Trèves recentre son expertise de manière exclusive sur l'acoustique, son domaine d'excellence."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

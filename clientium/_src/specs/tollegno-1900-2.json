@@ -1,0 +1,28 @@
+{
+ "slug": "tollegno-1900-2",
+ "company": "Tollegno 1900",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tollegno 1900 lavora lana merino e fibre pregiate da oltre 100 anni e ha uffici a New York, Hong Kong, Shanghai e Osaka. Qui trova come lavoriamo e cosa potremmo fare per Tollegno 1900.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tollegno 1900.",
+ "evidence": [
+  {
+   "claim": "Tollegno 1900 lavora lana merino e fibre pregiate da oltre 100 anni e ha uffici a New York, Hong Kong, Shanghai e Osaka.",
+   "url": "https://www.tollegno1900.it/about-us/",
+   "quote": "We were founded in 1900 and in over 100 years of history we have given life to a project that has chosen merino wool and fine fibres as cornerstones || as demonstrated by our offices located in New York, Hong Kong, Shanghai and Osaka"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

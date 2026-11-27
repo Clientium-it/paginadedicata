@@ -1,0 +1,28 @@
+{
+ "slug": "tamini-trasformatori-4",
+ "company": "Tamini Trasformatori",
+ "first_name": "Sergio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tamini progetta, produce e manutiene trasformatori per industrie ad alta intensità energetica e operatori del settore energetico, con sedi in USA e India. Qui trova come lavoriamo e cosa potremmo fare per Tamini Trasformatori.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tamini Trasformatori.",
+ "evidence": [
+  {
+   "claim": "Tamini progetta, produce e manutiene trasformatori per industrie ad alta intensità energetica e operatori del settore energetico, con sedi in USA e India.",
+   "url": "https://www.tamini.it/it/",
+   "quote": "progettiamo, produciamo e manuteniamo in tutto il mondo trasformatori per industrie ad alta intensità energetica e per operatori del settore energetico. || attraverso un’estesa rete commerciale e sedi in USA e India. || trasformatori per industrie ad alta intensità energetica e per operatori del settore energetico."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

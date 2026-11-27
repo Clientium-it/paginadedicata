@@ -1,0 +1,28 @@
+{
+ "slug": "sudwolle",
+ "company": "Südwolle Group",
+ "first_name": "Alice",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Südwolle produce filati pettinati in pura lana e misti per maglieria, calzetteria e tessitura, con sedi in Italia, Germania, Cina, Stati Uniti e altri paesi. Qui trova come lavoriamo e cosa potremmo fare per Südwolle Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Südwolle Group.",
+ "evidence": [
+  {
+   "claim": "Südwolle produce filati pettinati in pura lana e misti per maglieria, calzetteria e tessitura, con sedi in Italia, Germania, Cina, Stati Uniti e altri paesi.",
+   "url": "https://www.suedwollegroup.com/",
+   "quote": "Worsted yarns in pure wool and blends - Suedwolle Group || Locations Australia Bulgaria Canada China Germany Hong Kong Italy New Zealand Poland Romania South Africa USA United Kingdom Vietnam || Segments Circular knitting Flat knitting Hand knitting Hosiery Technical Weaving"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

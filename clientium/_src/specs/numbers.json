@@ -1,0 +1,28 @@
+{
+ "slug": "numbers",
+ "company": "NUMBERS",
+ "first_name": "Dario",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Numbers vende e offre consulenza su telecomunicazioni, energia, digital transformation e automotive con negozi diretti e corner nei centri commerciali in tutta Italia. Qui trova come lavoriamo e cosa potremmo fare per NUMBERS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per NUMBERS.",
+ "evidence": [
+  {
+   "claim": "Numbers vende e offre consulenza su telecomunicazioni, energia, digital transformation e automotive con negozi diretti e corner nei centri commerciali in tutta Italia.",
+   "url": "https://numbersgroup.it/",
+   "quote": "Siamo specializzati nella vendita e consulenza di prodotti e servizi nei settori delle telecomunicazioni, energia, digital transformation e automotive. || Store Negozi diretti per chiudere contratti in tutta Italia Corner Stand di vendita presso i centri commerciali || Connectivity Servizi di connettività per aziende e privati"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

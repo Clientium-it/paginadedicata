@@ -1,0 +1,28 @@
+{
+ "slug": "prima-sole-components",
+ "company": "Prima Sole Components",
+ "first_name": "Carmine",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "PS Components lavora nei componenti in plastica per auto, moto ed elettrodomestici con due sedi produttive in Germania e Slovacchia. Qui trova come lavoriamo e cosa potremmo fare per Prima Sole Components.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Prima Sole Components.",
+ "evidence": [
+  {
+   "claim": "PS Components lavora nei componenti in plastica per auto, moto ed elettrodomestici con due sedi produttive in Germania e Slovacchia.",
+   "url": "https://www.pscomponents.eu/profilo-strategia.php",
+   "quote": "P.S. Components conferma l'intenzione di investire nel settore dei componenti in plastica per auto, moto ed elettrodomestici con l'obiettivo di diventare un punto di riferimento del mercato internazionale. || investe nel mercato europeo creando due nuove sedi di produzione in Germania (Prima Germany GmbH) e in Slovacchia (Prima Poprad sro) || investire nel settore dei componenti in plastica per auto, moto ed elettrodomestici"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "seko-3",
+ "company": "SEKO",
+ "first_name": "Luigino",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SEKO progetta e produce dal 1976 sistemi di dosaggio chimico per trattamento acque, pulizia e igiene con 22 filiali nel mondo. Qui trova come lavoriamo e cosa potremmo fare per SEKO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SEKO.",
+ "evidence": [
+  {
+   "claim": "SEKO progetta e produce dal 1976 sistemi di dosaggio chimico per trattamento acque, pulizia e igiene con 22 filiali nel mondo.",
+   "url": "https://www.seko.com/de/site/who-we-are",
+   "quote": "Seit 1976 stellt SEKO mit seiner Konstruktions- und Fertigungskompetenz eine konkurrenzlose Präzision, Konsistenz und Zuverlässigkeit bei der Chemikaliendosierung für die Wasseraufbereitungs-, Reinigungs- und Hygieneindustrie bereit. || Combining a global reach with dedicated local support, SEKO is by your side no matter where you are, with 22 worldwide subsidiaries and region-specific solutions ideal for you and your process. || Global manufacturer of chemical dosing solutions within the cleaning & hygiene and water-treatment industries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}
