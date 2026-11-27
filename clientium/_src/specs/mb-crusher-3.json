@@ -1,0 +1,28 @@
+{
+ "slug": "mb-crusher-3",
+ "company": "MB Crusher",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "MB Crusher progetta e assembla attrezzature per demolizioni, cave e lavori stradali in 45.000 metri quadri e le vende in oltre 150 paesi con 230 dealer. Qui trova come lavoriamo e cosa potremmo fare per MB Crusher.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MB Crusher.",
+ "evidence": [
+  {
+   "claim": "MB Crusher progetta e assembla attrezzature per demolizioni, cave e lavori stradali in 45.000 metri quadri e le vende in oltre 150 paesi con 230 dealer.",
+   "url": "https://www.mbcrusher.com/us/us/company",
+   "quote": "More than 45.000 square meters host research and development laboratories, production departments, sales, marketing and administrative offices. Here, every piece of equipment is designed, assembled and distributed to international markets by more than 250 people. || There are 9 subsidiaries abroad that support the headquarters to promote and distribute the products to all continents. And a network of over 230 dealers helps sell MB Crusher’s products to over 150 countries. || Versatile, efficient, and practical, MB Crusher products can adapt to any area of application Find out more DEMOLITIONS ROAD WORKS QUARRIES AND MINES"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "motor-city",
+ "company": "Motor City",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Motor City è concessionaria Toyota a Roma con 6 showroom, 5 centri assistenza e 4 magazzini ricambi sul litorale romano. Qui trova come lavoriamo e cosa potremmo fare per Motor City.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Motor City.",
+ "evidence": [
+  {
+   "claim": "Motor City è concessionaria Toyota a Roma con 6 showroom, 5 centri assistenza e 4 magazzini ricambi sul litorale romano.",
+   "url": "https://www.motorcityonline.it/chi-siamo/",
+   "quote": "Oggi la nostra concessionaria Toyota a Roma vanta 6 showroom 5 centri assistenza e 4 magazzini ricambi per garantire un servizio capillare e di indubbia efficienza. || Grazie alla consolidata presenza delle nostre sedi nel litorale romano, Motorcity ha saputo conquistare l’indiscussa leadership nella copertura di un territorio importantissimo e nevralgico."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

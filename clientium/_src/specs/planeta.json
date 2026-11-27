@@ -1,0 +1,28 @@
+{
+ "slug": "planeta",
+ "company": "PLANETA",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Planeta ha fondato le sue tenute in cinque territori tra Menfi, Vittoria, Noto, Etna e Capo Milazzo e fa ricerca sui vitigni autoctoni. Qui trova come lavoriamo e cosa potremmo fare per PLANETA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PLANETA.",
+ "evidence": [
+  {
+   "claim": "Planeta ha fondato le sue tenute in cinque territori tra Menfi, Vittoria, Noto, Etna e Capo Milazzo e fa ricerca sui vitigni autoctoni.",
+   "url": "https://www.planeta.it/chi-siamo/",
+   "quote": "fondando le nostre tenute in cinque diversi territori da ovest a est, cercandone una nostra interpretazione attraverso la ricerca sui vitigni autoctoni, compresi quelli ormai dimenticati, e sull’adattabilità dei diversi terroir ad accogliere anche i vitigni internazionali || MENFI VITTORIA NOTO ETNA CAPO MILAZZO territori Un percorso legato alla diversità dei paesaggi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

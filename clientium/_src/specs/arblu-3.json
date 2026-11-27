@@ -1,0 +1,28 @@
+{
+ "slug": "arblu-3",
+ "company": "Arblu",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Arblu produce piatti doccia e arredo bagno nello stabilimento di Fontanafredda di 12.000 mq strutturato in 8 aree funzionali. Qui trova come lavoriamo e cosa potremmo fare per Arblu.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Arblu.",
+ "evidence": [
+  {
+   "claim": "Arblu produce piatti doccia e arredo bagno nello stabilimento di Fontanafredda di 12.000 mq strutturato in 8 aree funzionali.",
+   "url": "https://www.arblu.it/about/",
+   "quote": "È il 2008 l’anno della specializzazione nella produzione di piatti doccia culminata nel 2009 con l’integrazione coordinata di tutto l’arredo bagno. || segue il trasferimento nel 2003 nell’attuale stabilimento a Fontanafredda (PN) di 12.000 mq di superficie coperta strutturato in 8 aree funzionali"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

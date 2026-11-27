@@ -1,0 +1,28 @@
+{
+ "slug": "roboze-2",
+ "company": "Roboze",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Roboze unisce robotica industriale, materiali ad alte prestazioni e AI per produrre componenti critici per aviazione, spazio, difesa, motorsport ed energia. Qui trova come lavoriamo e cosa potremmo fare per Roboze.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Roboze.",
+ "evidence": [
+  {
+   "claim": "Roboze unisce robotica industriale, materiali ad alte prestazioni e AI per produrre componenti critici per aviazione, spazio, difesa, motorsport ed energia.",
+   "url": "https://www.roboze.com/en/",
+   "quote": "We integrate industrial robotics, advanced high-performance materials , and Industrial AI to create autonomous production systems capable of manufacturing mission-critical components at scale. || Capabilities aviation space defense industrial motorsport energy mobility"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

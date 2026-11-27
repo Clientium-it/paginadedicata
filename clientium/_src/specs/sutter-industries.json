@@ -1,0 +1,28 @@
+{
+ "slug": "sutter-industries",
+ "company": "Sutter Industries",
+ "first_name": "Anna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sutter crea detergenti per casa, ambienti professionali e persona con filiali in Spagna, Portogallo, Argentina e Cile e raggiunge oltre 60 paesi. Qui trova come lavoriamo e cosa potremmo fare per Sutter Industries.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sutter Industries.",
+ "evidence": [
+  {
+   "claim": "Sutter crea detergenti per casa, ambienti professionali e persona con filiali in Spagna, Portogallo, Argentina e Cile e raggiunge oltre 60 paesi.",
+   "url": "https://www.sutter.it/",
+   "quote": "Creiamo e produciamo detergenti per la pulizia e l'igiene di ambienti domestici, professionali e della persona, che si prendono cura di te, delle cose che ami e dell'ambiente. || All’estero siamo presenti con filiali proprie in Spagna, Portogallo, Argentina e Cile e raggiungiamo oltre 60 Paesi nel mondo grazie ad accordi con distributori locali."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "fratelli-piacenza",
+ "company": "Fratelli Piacenza",
+ "first_name": "Simona",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Piacenza crea collezioni di ready to wear, maglieria e accessori con lo stabilimento a Pollone e lo showroom a Milano. Qui trova come lavoriamo e cosa potremmo fare per Fratelli Piacenza.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fratelli Piacenza.",
+ "evidence": [
+  {
+   "claim": "Piacenza crea collezioni di ready to wear, maglieria e accessori con lo stabilimento a Pollone e lo showroom a Milano.",
+   "url": "https://shop.piacenza1733.com/pages/chi-siamo",
+   "quote": "Il nostro brand esprime competenza tessile e visione moderna attraverso collezioni di ready-to-wear, maglieria e accessori pensate per chi riconosce valore nel tempo || Indirizzo stabilimenti: Regione Cisi, 13814 – Pollone (BI) Indirizzo showroom: Via Chiossetto 20, 20122 – Milano"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

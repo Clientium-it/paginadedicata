@@ -1,0 +1,28 @@
+{
+ "slug": "morato",
+ "company": "Morato Group",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Morato fa pane da 50 anni e ha sede ad Altavilla Vicentina. Qui trova come lavoriamo e cosa potremmo fare per Morato Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Morato Group.",
+ "evidence": [
+  {
+   "claim": "Morato fa pane da 50 anni e ha sede ad Altavilla Vicentina.",
+   "url": "https://moratopane.com/it",
+   "quote": "50 anni di pane e idee Sapere, fare, immaginare: il nostro modo di pensare da 50 anni. || Morato Pane S.p.a. • Via D’Azeglio 49 36077 Altavilla Vicentina"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

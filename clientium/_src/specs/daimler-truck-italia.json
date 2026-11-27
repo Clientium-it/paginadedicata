@@ -1,0 +1,28 @@
+{
+ "slug": "daimler-truck-italia",
+ "company": "Daimler Truck Italia",
+ "first_name": "Valentina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mercedes Benz Trucks propone autocarri per trasporto a lungo e corto raggio, per l'edilizia, elettrici e speciali. Qui trova come lavoriamo e cosa potremmo fare per Daimler Truck Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Daimler Truck Italia.",
+ "evidence": [
+  {
+   "claim": "Mercedes Benz Trucks propone autocarri per trasporto a lungo e corto raggio, per l'edilizia, elettrici e speciali.",
+   "url": "https://www.mercedes-benz-trucks.com/it/it/home.html",
+   "quote": "Tutti i risultati (16) eMobility (2) Trasporto a lungo raggio (5) Trasporto a corto raggio (2) Trasporto edile (4) Autocarri speciali (4)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

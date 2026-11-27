@@ -1,0 +1,28 @@
+{
+ "slug": "sibeg",
+ "company": "Sibeg",
+ "first_name": "Giorgio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sibeg produce bevande in 3 stabilimenti a Catania, Palermo e Siracusa e consegna ogni giorno in oltre 30.000 punti vendita della regione. Qui trova come lavoriamo e cosa potremmo fare per Sibeg.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sibeg.",
+ "evidence": [
+  {
+   "claim": "Sibeg produce bevande in 3 stabilimenti a Catania, Palermo e Siracusa e consegna ogni giorno in oltre 30.000 punti vendita della regione.",
+   "url": "https://www.sibeg.it/azienda/storia/",
+   "quote": "Con un fatturato di 184 milioni di euro, oggi l’azienda conta circa 415 dipendenti, produce e consegna quotidianamente bevande in oltre 30.000 punti vendita della Regione || annovera già 3 stabilimenti produttivi (Catania, Palermo e Siracusa) e ben 9 depositi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

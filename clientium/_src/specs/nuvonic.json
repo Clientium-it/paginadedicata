@@ -1,0 +1,28 @@
+{
+ "slug": "nuvonic",
+ "company": "Nuvonic",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nuvonic offre sistemi UV per acqua, aria e superfici all'alimentare, al farmaceutico e alle acque municipali, con uffici in UK, Stati Uniti, Cina e Germania. Qui trova come lavoriamo e cosa potremmo fare per Nuvonic.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nuvonic.",
+ "evidence": [
+  {
+   "claim": "Nuvonic offre sistemi UV per acqua, aria e superfici all'alimentare, al farmaceutico e alle acque municipali, con uffici in UK, Stati Uniti, Cina e Germania.",
+   "url": "https://www.nuvonic.com/",
+   "quote": "Nuvonic’s UV product range spans water, air and surface applications, supporting customers across food and beverage, pharmaceuticals, manufacturing, municipal water and aquatics. || Nuvonic has offices in the UK, the United States, China and Germany. || Nuvonic’s UV product range spans water, air and surface applications, supporting customers across food and beverage, pharmaceuticals, manufacturing, municipal water and aquatics."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

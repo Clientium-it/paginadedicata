@@ -1,0 +1,28 @@
+{
+ "slug": "teledyne-lecroy",
+ "company": "Teledyne LeCroy",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Teledyne LeCroy offre oscilloscopi, sonde e analizzatori di protocollo per data center e hyperscaler, reti, memorie e produttori di apparati di rete. Qui trova come lavoriamo e cosa potremmo fare per Teledyne LeCroy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Teledyne LeCroy.",
+ "evidence": [
+  {
+   "claim": "Teledyne LeCroy offre oscilloscopi, sonde e analizzatori di protocollo per data center e hyperscaler, reti, memorie e produttori di apparati di rete.",
+   "url": "https://www.teledynelecroy.com/",
+   "quote": "Oscilloscopes Oscilloscopes Models Oscilloscope Probes Oscilloscope Software Options Protocol Test Solutions Protocol Analyzers Interposers and Probes Exercisers and Generators || Industries & Applications Industries & Applications Data Centers & Hyperscalers Interconnects Networks Memory Networks Equipment Manufacturers (NEMs) Service Providers"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

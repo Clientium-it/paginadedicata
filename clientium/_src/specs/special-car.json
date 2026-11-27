@@ -1,0 +1,28 @@
+{
+ "slug": "special-car",
+ "company": "SPECIAL CAR GROUP",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Special Car rappresenta 10 brand in Sardegna con 3 sedi, 4 officine e una carrozzeria, e ha servito oltre 10.000 clienti con 150 collaboratori. Qui trova come lavoriamo e cosa potremmo fare per SPECIAL CAR GROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SPECIAL CAR GROUP.",
+ "evidence": [
+  {
+   "claim": "Special Car rappresenta 10 brand in Sardegna con 3 sedi, 4 officine e una carrozzeria, e ha servito oltre 10.000 clienti con 150 collaboratori.",
+   "url": "https://www.specialcargroup.com/chi-siamo/",
+   "quote": "Il gruppo Special Car è Concessionario Ufficiale e Agente di Vendita per un totale di 10 brand in Sardegna, con 3 sedi, 4 officine, una carrozzeria all’avanguardia, oltre 10.000 clienti serviti e 150 collaboratori diretti. || Centro Service Ufficiale BMW e MINI con sedi a Elmas (Cagliari), Oristano e Sassari"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

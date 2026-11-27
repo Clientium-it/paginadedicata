@@ -1,0 +1,28 @@
+{
+ "slug": "power-tech-2",
+ "company": "Power Tech ®",
+ "first_name": "Franco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Power Tech distribuisce elettronica di consumo B2B in tutta Italia dal 1994, con oltre 5000 articoli pronti nella sede logistica The Stock. Qui trova come lavoriamo e cosa potremmo fare per Power Tech ®.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Power Tech ®.",
+ "evidence": [
+  {
+   "claim": "Power Tech distribuisce elettronica di consumo B2B in tutta Italia dal 1994, con oltre 5000 articoli pronti nella sede logistica The Stock.",
+   "url": "https://www.powertechstore.com/it/chi-siamo",
+   "quote": "Dal 1994 PowerTech si occupa della distribuzione di elettronica di consumo B2B su tutto il territorio nazionale, riuscendo a garantire sempre la giusta soluzione di acquisto ai propri clienti nel più breve tempo possibile. || “The Stock” è la sede logistica di Power Tech da cui partono le spedizioni e dove è possibile fare direttamente i propri acquisti girando tra gli oltre 2000mq di esposizione con oltre 5000 articoli in pronta consegna."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

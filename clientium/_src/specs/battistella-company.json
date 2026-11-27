@@ -1,0 +1,28 @@
+{
+ "slug": "battistella-company",
+ "company": "Battistella Company",
+ "first_name": "Annalisa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Battistella dal 1953 crea sistemi d'arredo modulari per casa, ufficio e spazi pubblici, con 709 dipendenti e forniture in 40 paesi. Qui trova come lavoriamo e cosa potremmo fare per Battistella Company.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Battistella Company.",
+ "evidence": [
+  {
+   "claim": "Battistella dal 1953 crea sistemi d'arredo modulari per casa, ufficio e spazi pubblici, con 709 dipendenti e forniture in 40 paesi.",
+   "url": "https://www.battistellacompany.it/it/",
+   "quote": "Fondata nel 1953, Battistella Company è tra i principali produttori italiani di mobili. Crea sistemi d’arredo modulari per casa, ufficio e spazi pubblici. || Dipendenti 709 Materiale riciclato in un anno 93% Fatturato annuo (Milioni di €) 166 Paesi forniti 40 || rispondere in maniera puntuale ed efficace alle esigenze di mercato, sia che riguardino il settore pubblico che quello domestico"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

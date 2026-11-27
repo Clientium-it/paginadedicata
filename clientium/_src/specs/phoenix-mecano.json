@@ -1,0 +1,28 @@
+{
+ "slug": "phoenix-mecano",
+ "company": "Phoenix Mecano",
+ "first_name": "Edoardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Phoenix Mecano è la filiale italiana di un gruppo presente in 60 paesi e progetta e produce custodie industriali e tastiere a membrana, con sede a Modena. Qui trova come lavoriamo e cosa potremmo fare per Phoenix Mecano.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Phoenix Mecano.",
+ "evidence": [
+  {
+   "claim": "Phoenix Mecano è la filiale italiana di un gruppo presente in 60 paesi e progetta e produce custodie industriali e tastiere a membrana, con sede a Modena.",
+   "url": "https://www.phoenix-mecano.com/it-it/azienda/chi-siamo/",
+   "quote": "Phoenix Mecano S.r.l. è la filiale italiana del gruppo che opera in 60 paesi in tutto il mondo. Progettiamo e produciamo sistemi di custodie industriali per dispositivi elettronici e tastiere a membrana di elevata qualità. || Dalla nostra sede aziendale di Modena ti consegniamo componenti standard, componenti personalizzati e soluzioni di sistema complete, pensate per i settori più diversi. || Le applicazioni sono estremamente diversificate e utilizzabili in diversi settori: IOT, Ferroviario/Mobilità, Petrolchimico, Idrogeno/Energie Rinnovabili, Macchinari, Difesa, Veicoli Speciali, Tecnologie per agricoltura, Medicale."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

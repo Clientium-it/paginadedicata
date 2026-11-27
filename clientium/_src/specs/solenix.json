@@ -1,0 +1,28 @@
+{
+ "slug": "solenix",
+ "company": "Solenix",
+ "first_name": "Donata",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Solenix sviluppa software per osservazione della Terra, space situational awareness e segmento di terra, con progetti per ESA ed EUMETSAT. Qui trova come lavoriamo e cosa potremmo fare per Solenix.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Solenix.",
+ "evidence": [
+  {
+   "claim": "Solenix sviluppa software per osservazione della Terra, space situational awareness e segmento di terra, con progetti per ESA ed EUMETSAT.",
+   "url": "https://solenix.ch/company",
+   "quote": "We develop innovative software products and deliver expert services in Earth Observation, Artificial Intelligence, Space Situational Awareness and ground segment systems, with a strong track record of successful projects for ESA, EUMETSAT and leading aerospace organisations. || We are distributed at the group's places of business in a growing number of European countries, such as Germany, Italy, Switzerland, and Portugal. || successful projects for ESA, EUMETSAT and leading aerospace organisations"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

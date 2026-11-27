@@ -1,0 +1,28 @@
+{
+ "slug": "legor",
+ "company": "LEGOR GROUP",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Legor da oltre 40 anni trasforma metalli in leghe, polveri e soluzioni galvaniche per orafi, argentieri, moda e galvanica industriale, con 9 filiali nel mondo. Qui trova come lavoriamo e cosa potremmo fare per LEGOR GROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LEGOR GROUP.",
+ "evidence": [
+  {
+   "claim": "Legor da oltre 40 anni trasforma metalli in leghe, polveri e soluzioni galvaniche per orafi, argentieri, moda e galvanica industriale, con 9 filiali nel mondo.",
+   "url": "https://legor.com/lazienda/",
+   "quote": "da oltre 40 anni trasformiamo i metalli in leghe, polveri e soluzioni galvaniche di eccellenza per rendere le tue idee delle creazioni affascinanti. || 200 Collaboratori 9 Filiali nel mondo 40% Gioielli nel mondo con leghe Legor || al servizio dei settori orafo argentiero, della moda e del settore galvanico industriale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

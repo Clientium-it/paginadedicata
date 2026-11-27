@@ -1,0 +1,28 @@
+{
+ "slug": "novalix",
+ "company": "NovAliX",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "NovAliX affianca biotech e aziende farmaceutiche nella drug discovery preclinica dalla sede di Strasburgo. Qui trova come lavoriamo e cosa potremmo fare per NovAliX.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per NovAliX.",
+ "evidence": [
+  {
+   "claim": "NovAliX affianca biotech e aziende farmaceutiche nella drug discovery preclinica dalla sede di Strasburgo.",
+   "url": "https://novalix.com/",
+   "quote": "Novalix is a premier drug discovery partner to biotech firms and pharmaceutical companies. We apply our exceptional scientific talent and exclusive resources across our platforms to improve the odds of success at each critical pre-clinical stage. || Novalix Headquarters 16, rue d’Ankara 67000 Strasbourg, France || Novalix is a premier drug discovery partner to biotech firms and pharmaceutical companies."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

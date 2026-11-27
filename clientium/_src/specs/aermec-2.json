@@ -1,0 +1,28 @@
+{
+ "slug": "aermec-2",
+ "company": "Aermec",
+ "first_name": "Pierandrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Aermec offre refrigeratori, pompe di calore, fan coil e unità di trattamento aria con 10 filiali estere e oltre 70 distributori esclusivi. Qui trova come lavoriamo e cosa potremmo fare per Aermec.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Aermec.",
+ "evidence": [
+  {
+   "claim": "Aermec offre refrigeratori, pompe di calore, fan coil e unità di trattamento aria con 10 filiali estere e oltre 70 distributori esclusivi.",
+   "url": "https://global.aermec.com/en/company/",
+   "quote": "Aermec’s product offering includes chillers, heat pumps, fan coils, air handling units, VRF and rooftop systems, which can be integrated into complete solutions to simplify management and optimise energy performance. || Aermec is present in the global market through its 10 foreign subsidiaries, as well as a network of more than 70 exclusive international distributors. || Aermec products ensure well-being in residential and commercial buildings, data processing centres, healthcare facilities, industrial sites and service-dedicated companies"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

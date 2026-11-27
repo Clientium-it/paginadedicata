@@ -1,0 +1,28 @@
+{
+ "slug": "messersi-packaging",
+ "company": "Messersì Packaging",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Messersì progetta e produce macchine e linee di fine linea per vetro, food and beverage, carta, legno ed edilizia, presente in oltre 60 paesi. Qui trova come lavoriamo e cosa potremmo fare per Messersì Packaging.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Messersì Packaging.",
+ "evidence": [
+  {
+   "claim": "Messersì progetta e produce macchine e linee di fine linea per vetro, food and beverage, carta, legno ed edilizia, presente in oltre 60 paesi.",
+   "url": "https://messersi.com/it/azienda/",
+   "quote": "Oggi l’azienda progetta e produce sistemi di automazione industriale con macchine e linee per ogni fine linea, di qualunque settore industriale e logistico, per qualunque merce e imballaggio, ovunque nel mondo. || Presenti in oltre 60 paesi; 70% quota export || Settori Vetro Food&Beverage Carta Legno Edilizia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

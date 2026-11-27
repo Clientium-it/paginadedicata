@@ -1,0 +1,28 @@
+{
+ "slug": "otsuka-pharmaceutical-italy-2",
+ "company": "Otsuka Pharmaceutical Italy",
+ "first_name": "Cesare",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Otsuka sviluppa medicinali per patologie complesse del corpo e della mente con una rete di 37 istituti di ricerca nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Otsuka Pharmaceutical Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Otsuka Pharmaceutical Italy.",
+ "evidence": [
+  {
+   "claim": "Otsuka sviluppa medicinali per patologie complesse del corpo e della mente con una rete di 37 istituti di ricerca nel mondo.",
+   "url": "https://www.otsuka.it/",
+   "quote": "Insieme, ci concentriamo su alcune delle problematiche sanitarie irrisolte e sviluppiamo medicinali per curare alcune delle patologie più complesse del corpo e della mente. || I nostri investimenti coinvolgono una rete di 37 istituti di ricerca in tutto il mondo. || ponendo esigenze e prospettive di pazienti, caregiver e operatori sanitari al centro di tutto ciò che facciamo"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

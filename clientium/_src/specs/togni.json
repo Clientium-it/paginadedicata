@@ -1,0 +1,28 @@
+{
+ "slug": "togni",
+ "company": "Togni",
+ "first_name": "Gloria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Togni produce vini, spumanti e acque minerali a Serra San Quirico con marchi come Rocca dei Forti, Frasassi e GocciaBlu. Qui trova come lavoriamo e cosa potremmo fare per Togni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Togni.",
+ "evidence": [
+  {
+   "claim": "Togni produce vini, spumanti e acque minerali a Serra San Quirico con marchi come Rocca dei Forti, Frasassi e GocciaBlu.",
+   "url": "https://www.togni.it/",
+   "quote": "Aree di Business Vini Spumanti Acque Minerali Rocca dei Forti Centinari Franciacorta Viebulla Tor dell'Elmo Frasassi GocciaBlu San Cassiano Sepinia || Via Leonardo da Vinci, 1 60048 / Serra San Quirico / An / Italy"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

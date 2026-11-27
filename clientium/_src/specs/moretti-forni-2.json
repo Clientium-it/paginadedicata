@@ -1,0 +1,28 @@
+{
+ "slug": "moretti-forni-2",
+ "company": "Moretti Forni",
+ "first_name": "Daniel",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Moretti Forni produce forni professionali per pizzeria e pasticceria, ha una sede di oltre 10mila mq a Mondolfo e una filiale a Miami. Qui trova come lavoriamo e cosa potremmo fare per Moretti Forni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Moretti Forni.",
+ "evidence": [
+  {
+   "claim": "Moretti Forni produce forni professionali per pizzeria e pasticceria, ha una sede di oltre 10mila mq a Mondolfo e una filiale a Miami.",
+   "url": "https://morettiforni.com/storia",
+   "quote": "Il 60esimo anniversario si festeggia nella moderna sede di Mondolfo, una struttura di oltre 10mila mq, progettata nell’ottica di una produzione più razionale, efficiente e sicura || Un passo significativo alla conquista degli strategici mercati nordamericani è l’apertura della filiale con sede a Miami (FL): una presenza diretta per garantire la cottura perfetta ai clienti USA || Moretti Forni detiene la leadership europea nella produzione di forni professionali per pizzeria e pasticceria"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

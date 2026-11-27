@@ -1,0 +1,28 @@
+{
+ "slug": "pittini",
+ "company": "Gruppo Pittini",
+ "first_name": "Laura",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Pittini produce oltre 3 milioni di tonnellate l'anno di acciai lunghi per edilizia e meccanica e serve più di 65 paesi esportando il 70%. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Pittini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Pittini.",
+ "evidence": [
+  {
+   "claim": "Pittini produce oltre 3 milioni di tonnellate l'anno di acciai lunghi per edilizia e meccanica e serve più di 65 paesi esportando il 70%.",
+   "url": "https://www.pittini.it/il-gruppo/chi-siamo/",
+   "quote": "Il Gruppo Pittini, con una produzione annua di oltre 3 milioni di tonnellate di acciaio, è il primo produttore italiano di acciai lunghi destinati all’edilizia e all’industria meccanica. || Stabilimenti produttivi e filiali commerciali presenti in diversi Paesi europei, la capacità di servire costantemente oltre 65 Paesi ed un valore dell’esportazione pari al 70% fanno del Gruppo Pittini un’importante realtà a livello europeo. || La produzione è incentrata su acciai lunghi per l’edilizia e la meccanica."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

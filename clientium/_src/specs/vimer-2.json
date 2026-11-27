@@ -1,0 +1,28 @@
+{
+ "slug": "vimer-2",
+ "company": "Vimer",
+ "first_name": "Lara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Vimer è un'industria cartotecnica nata nel 1973 a San Giustino, con 2 sedi produttive, 180 collaboratori e clienti in farmaceutico, lusso e alimentare. Qui trova come lavoriamo e cosa potremmo fare per Vimer.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Vimer.",
+ "evidence": [
+  {
+   "claim": "Vimer è un'industria cartotecnica nata nel 1973 a San Giustino, con 2 sedi produttive, 180 collaboratori e clienti in farmaceutico, lusso e alimentare.",
+   "url": "https://vimer.it/azienda/",
+   "quote": "Siamo un'industria cartotecnica che nasce nel 1973 a San Giustino grazie alla volontà e allo spirito imprenditoriale di Luigi Merendelli e della sua famiglia. || 2 sedi produttive, 16.000 mq di stabilimenti, 180 collaboratori in Europa, 5 linee complete di produzione. || Farmaceutico Lusso Profumi & Cosmesi Alimentare"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

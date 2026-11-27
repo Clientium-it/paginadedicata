@@ -1,0 +1,28 @@
+{
+ "slug": "spineart",
+ "company": "Spineart",
+ "first_name": "Valentina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Spineart dal 2005 a Ginevra sviluppa tecnologie brevettate per la chirurgia spinale mininvasiva e lavora con chirurghi e ospedali in oltre 60 paesi. Qui trova come lavoriamo e cosa potremmo fare per Spineart.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Spineart.",
+ "evidence": [
+  {
+   "claim": "Spineart dal 2005 a Ginevra sviluppa tecnologie brevettate per la chirurgia spinale mininvasiva e lavora con chirurghi e ospedali in oltre 60 paesi.",
+   "url": "https://www.spineart.com/company/our-company/",
+   "quote": "Spineart was founded in Geneva, Switzerland, in 2005. We deliver patented, clinically validated technologies in minimally invasive surgery, motion preservation, 3D-printed implants, and robotic guidance, improving patient outcomes worldwide. || Spineart has over 370 employees, serving 60 countries around the world. || Spineart partners with surgeons and hospitals in 60+ countries to accelerate the adoption of advanced spine technologies that support patient care."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

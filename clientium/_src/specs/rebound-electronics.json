@@ -1,0 +1,28 @@
+{
+ "slug": "rebound-electronics",
+ "company": "Rebound Electronics",
+ "first_name": "Marianna",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rebound ha 43 uffici in 27 paesi con hub di acquisto in Asia, Europa e Medio Oriente e segue supply chain e inventario per aerospazio, automotive e medicale. Qui trova come lavoriamo e cosa potremmo fare per Rebound Electronics.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rebound Electronics.",
+ "evidence": [
+  {
+   "claim": "Rebound ha 43 uffici in 27 paesi con hub di acquisto in Asia, Europa e Medio Oriente e segue supply chain e inventario per aerospazio, automotive e medicale.",
+   "url": "https://reboundeu.com/about/",
+   "quote": "Data driven decision making ensures that Rebound can offer clients effective connected supply chain and inventory management solutions. || 43 offices in 27 countries, with dedicated purchasing hubs in Asia, Europe & the Middle East. || We support clients from a range of industries and sectors including: Aerospace & Defence Audio visual Automotive Cloud Datacentres Energy Industrial Medical Transportation"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "umbra-3",
+ "company": "Umbra",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Umbra da oltre 80 anni fornisce a odontoiatri e odontotecnici più di 50.000 prodotti e apparecchiature con 16 filiali in Italia. Qui trova come lavoriamo e cosa potremmo fare per Umbra.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Umbra.",
+ "evidence": [
+  {
+   "claim": "Umbra da oltre 80 anni fornisce a odontoiatri e odontotecnici più di 50.000 prodotti e apparecchiature con 16 filiali in Italia.",
+   "url": "https://umbra.it/",
+   "quote": "Da oltre 80 anni sul mercato dentale Italiano, siamo i fornitori di fiducia di Odontoiatri ed Odontotecnici con oltre 50.000 prodotti di consumo ed apparecchiature per lo studio odontoiatrico e il laboratorio odontotecnico. || Abbiamo 16 filiali in tutto il territorio nazionale, e servizio di installazione e manutenzione delle apparecchiature. || siamo i fornitori di fiducia di Odontoiatri ed Odontotecnici"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

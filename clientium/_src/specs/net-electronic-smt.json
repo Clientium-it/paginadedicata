@@ -1,0 +1,28 @@
+{
+ "slug": "net-electronic-smt",
+ "company": "Net Electronic Smt",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "NES segue l'intero ciclo dell'elettronica dalla progettazione all'assemblaggio e collaudo, con 170 dipendenti, 5 sedi e clienti come Leonardo e Alstom. Qui trova come lavoriamo e cosa potremmo fare per Net Electronic Smt.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Net Electronic Smt.",
+ "evidence": [
+  {
+   "claim": "NES segue l'intero ciclo dell'elettronica dalla progettazione all'assemblaggio e collaudo, con 170 dipendenti, 5 sedi e clienti come Leonardo e Alstom.",
+   "url": "https://www.nesitalia.com/company/",
+   "quote": "NES partners with you across the entire electronics lifecycle—design (electronic, mechanical, PCB) and engineering (DFA, DFM, DFT) through assembly, testing, repair, and electromechanical integration with wiring and final enclosure. || 30mln € 2025 turnover sales 5branches 10,000m3 of total area 170 employees || REFERENCE DEFENCE LEONARDO ELECTRONICS MBDA RHEINMETALL HONEYWELL WASS LARIMART RAILWAY HITACHI ALSTOM MERMEC STE SPII WEGH AEROSPACE THALES ALENIA SPACE"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

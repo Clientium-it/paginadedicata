@@ -1,0 +1,28 @@
+{
+ "slug": "rocamed-sam",
+ "company": "Rocamed SAM",
+ "first_name": "Romina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rocamed offre soluzioni per urologia, ginecologia e laparoscopia, con 4 siti produttivi e una rete in oltre 65 paesi. Qui trova come lavoriamo e cosa potremmo fare per Rocamed SAM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rocamed SAM.",
+ "evidence": [
+  {
+   "claim": "Rocamed offre soluzioni per urologia, ginecologia e laparoscopia, con 4 siti produttivi e una rete in oltre 65 paesi.",
+   "url": "https://www.rocamed.com/",
+   "quote": "ROCAMED is a medical device company focused on human health, providing innovative solutions in urology, gynecology and laparoscopy. || MANUFACTURER 4 manufacturing sites EDUCATION Training programs worldwide NETWORK 65+ Countries || the product information on this website is intended only for licensed physicians and healthcare professionals"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

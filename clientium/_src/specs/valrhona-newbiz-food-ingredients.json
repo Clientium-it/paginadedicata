@@ -1,0 +1,28 @@
+{
+ "slug": "valrhona-newbiz-food-ingredients",
+ "company": "VALRHONA NEWBIZ (Food Ingredients)",
+ "first_name": "Eric",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Valrhona affianca pasticcieri, cioccolatieri e artigiani di tutto il mondo con cioccolato professionale e formazione a Tain L'Hermitage, Parigi, Brooklyn e Tokyo. Qui trova come lavoriamo e cosa potremmo fare per VALRHONA NEWBIZ (Food Ingredients).",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per VALRHONA NEWBIZ (Food Ingredients).",
+ "evidence": [
+  {
+   "claim": "Valrhona affianca pasticcieri, cioccolatieri e artigiani di tutto il mondo con cioccolato professionale e formazione a Tain L'Hermitage, Parigi, Brooklyn e Tokyo.",
+   "url": "http://www.valrhona.com/it/",
+   "quote": "Valrhona affianca i maestri pasticcieri, i cioccolatieri e gli artigiani di tutto il mondo con una gamma di cioccolato professionale d’eccezione. || Tain L’Hermitage, Parigi, Brooklyn, Tokyo, Dubaï... Oggi 30 maestri pasticcieri accolgono e accompagnano ogni anno in formazione professionisti appassionati, virtuosi della golosità. || Valrhona affianca i maestri pasticcieri, i cioccolatieri e gli artigiani di tutto il mondo con una gamma di cioccolato professionale d’eccezione."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

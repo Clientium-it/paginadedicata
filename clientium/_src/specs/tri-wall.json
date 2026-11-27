@@ -1,0 +1,28 @@
+{
+ "slug": "tri-wall",
+ "company": "Tri-Wall Limited",
+ "first_name": "Gennaro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tri Wall realizza imballaggi in carta per carichi pesanti per automotive, aerospazio, elettronica e chimica, con sedi in Asia, Europa e Nord America. Qui trova come lavoriamo e cosa potremmo fare per Tri-Wall Limited.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tri-Wall Limited.",
+ "evidence": [
+  {
+   "claim": "Tri Wall realizza imballaggi in carta per carichi pesanti per automotive, aerospazio, elettronica e chimica, con sedi in Asia, Europa e Nord America.",
+   "url": "https://tri-wall.com/about-us/environment/",
+   "quote": "With deep-rooted expertise in heavy-duty, paper-based packaging systems, Tri-Wall serves a diverse range of industries including automotive, aerospace, electronics, retail, chemicals, and agriculture. || With operations in Asia, Europe, and North America, the Tri-Wall Group is a global network of companies dedicated to offering innovative and cost-effective packaging solutions. || Tri-Wall serves a diverse range of industries including automotive, aerospace, electronics, retail, chemicals, and agriculture."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

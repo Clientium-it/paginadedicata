@@ -1,0 +1,28 @@
+{
+ "slug": "salvagnini-6",
+ "company": "Salvagnini",
+ "first_name": "Mirko",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Salvagnini da oltre sessant'anni sviluppa, produce e vende sistemi flessibili per la lavorazione della lamiera, con stabilimenti in Italia e in Austria. Qui trova come lavoriamo e cosa potremmo fare per Salvagnini.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Salvagnini.",
+ "evidence": [
+  {
+   "claim": "Salvagnini da oltre sessant'anni sviluppa, produce e vende sistemi flessibili per la lavorazione della lamiera, con stabilimenti in Italia e in Austria.",
+   "url": "https://www.salvagninigroup.com/de-DE",
+   "quote": "Seit über sechzig Jahren entwickelt, produziert und verkauft Salvagnini flexible Systeme für die Blechbearbeitung. Unsere Biegezentren, Stanzmaschinen, Abkantpressen, Faserlaserschneidmaschinen, FMS-Linien, automatischen Blechlager und Software || Vier Produktionsstandorte in Italien und das weltweit größte ausschließlich Biegezentren gewidmete Werk in Österreich."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

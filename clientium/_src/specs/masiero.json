@@ -1,0 +1,28 @@
+{
+ "slug": "masiero",
+ "company": "MASIERO",
+ "first_name": "Svetlana",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Masiero propone 21 collezioni di illuminazione con 16 designer, 49 finiture e 300 articoli, anche per l'esterno dal design contemporaneo al classico. Qui trova come lavoriamo e cosa potremmo fare per MASIERO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MASIERO.",
+ "evidence": [
+  {
+   "claim": "Masiero propone 21 collezioni di illuminazione con 16 designer, 49 finiture e 300 articoli, anche per l'esterno dal design contemporaneo al classico.",
+   "url": "https://www.masierogroup.com/",
+   "quote": "21 collezioni, 16 designers, 49 finiture, 300 articoli, tutti accomunati dal gusto inconfondibile di Masiero. || Giardini propone soluzioni di illuminazione per l’esterno in grado di soddisfare ogni esigenza e mood d’arredo, spaziando dal design contemporaneo al classico."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn_sn4_b1_pages_request)"
+}

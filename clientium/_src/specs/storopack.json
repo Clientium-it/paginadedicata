@@ -1,0 +1,28 @@
+{
+ "slug": "storopack",
+ "company": "Storopack",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Storopack è un'azienda familiare che offre in tutto il mondo imballaggi protettivi in carta, aria e schiuma anche per ecommerce, alimentare e medicale. Qui trova come lavoriamo e cosa potremmo fare per Storopack.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Storopack.",
+ "evidence": [
+  {
+   "claim": "Storopack è un'azienda familiare che offre in tutto il mondo imballaggi protettivi in carta, aria e schiuma anche per ecommerce, alimentare e medicale.",
+   "url": "https://www.storopack.de/",
+   "quote": "Mit unseren Papierpolstern, Luftpolstern und Schaumpolstern , sowie unseren Verpackungschips bieten wir flexible Schutzverpackungen. || Storopack ist Spezialist für Schutzverpackungen und ein weltweit agierendes Familienunternehmen. || Online-Handel / E-Commerce Zerbrechliche Güter Empfindliche Güter Schwere Güter Leichte Güter Lebensmittel Temperaturabhängig Temperaturunabhängig HVAC & Sanitär Medical"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

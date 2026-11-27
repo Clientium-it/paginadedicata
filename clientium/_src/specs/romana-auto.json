@@ -1,0 +1,28 @@
+{
+ "slug": "romana-auto",
+ "company": "Romana Auto",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Romana Auto vende auto usate, nuove e Km Zero di Fiat, Jeep e Lancia a Roma, con sedi anche ad Albano Laziale e Viterbo. Qui trova come lavoriamo e cosa potremmo fare per Romana Auto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Romana Auto.",
+ "evidence": [
+  {
+   "claim": "Romana Auto vende auto usate, nuove e Km Zero di Fiat, Jeep e Lancia a Roma, con sedi anche ad Albano Laziale e Viterbo.",
+   "url": "https://www.romana-auto.it/",
+   "quote": "Romana Auto ha il più grande stock di auto usate a Roma, usato garantito, nuovo e Km Zero. Rivenditore multimarca specializzato nella vendita di auto Fiat, Jeep e Lancia || I principali punti vendita sono nella capitale, ma ha una sede anche ad Albano Laziale e una a Viterbo."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

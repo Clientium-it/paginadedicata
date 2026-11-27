@@ -1,0 +1,28 @@
+{
+ "slug": "tecnograf",
+ "company": "TECNOGRAF",
+ "first_name": "Francesco Maria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecnograf nasce nel 1964 come tipografia tradizionale e progetta e realizza stampati aziendali, con sede a Reggio Emilia. Qui trova come lavoriamo e cosa potremmo fare per TECNOGRAF.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TECNOGRAF.",
+ "evidence": [
+  {
+   "claim": "Tecnograf nasce nel 1964 come tipografia tradizionale e progetta e realizza stampati aziendali, con sede a Reggio Emilia.",
+   "url": "https://www.tecnograf.biz/",
+   "quote": "Tecnograf nasce nel 1964 come tipografia tradizionale caratterizzandosi per la particolare cura con cui vengono progettati e realizzati gli stampati aziendali || Tecnograf srl via Norvegia, 11 – 42124 Reggio Emilia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

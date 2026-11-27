@@ -1,0 +1,28 @@
+{
+ "slug": "rampini-carlo",
+ "company": "Rampini Carlo",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rampini progetta e produce a Passignano sul Trasimeno autobus urbani elettrici e a idrogeno e veicoli speciali per servizi militari, antincendio e aeroporti. Qui trova come lavoriamo e cosa potremmo fare per Rampini Carlo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rampini Carlo.",
+ "evidence": [
+  {
+   "claim": "Rampini progetta e produce a Passignano sul Trasimeno autobus urbani elettrici e a idrogeno e veicoli speciali per servizi militari, antincendio e aeroporti.",
+   "url": "https://www.rampini.it/it/azienda-rampini-leader-umbria_2/",
+   "quote": "Dall'inizio degli anni 2000 abbiamo incrementato la nostra attività progettando e producendo autobus urbani con caratteristiche speciali integrate (elettrici e idrogeno) che oggi viaggiano per le strade d'Italia e d'Europa. || La nostra sede di Passignano sul Trasimeno, in provincia di Perugia, è un concentrato di efficienza e tecnologia. || Si avvia la progettazione e produzione di attrezzature e veicoli speciali per servizi militari, veicoli antincendio e attrezzature di supporto a terra per aeroporti sia militari che civili."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

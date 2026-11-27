@@ -1,0 +1,28 @@
+{
+ "slug": "trevalli-cooperlat",
+ "company": "TreValli Cooperlat",
+ "first_name": "Giordano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TreValli trasforma il latte in panna, formaggi e specialità casearie, ha sede a Jesi e conta nove cooperative socie di sei regioni. Qui trova come lavoriamo e cosa potremmo fare per TreValli Cooperlat.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TreValli Cooperlat.",
+ "evidence": [
+  {
+   "claim": "TreValli trasforma il latte in panna, formaggi e specialità casearie, ha sede a Jesi e conta nove cooperative socie di sei regioni.",
+   "url": "https://trevalli.cooperlat.it/chi-siamo/",
+   "quote": "Da questi allevamenti nasce il latte che trasformiamo ogni giorno in panna, formaggi e specialità casearie. La stessa cura ci ha portato, già negli anni ‘70, a sviluppare Hoplà, la nostra linea vegetale || Un’azienda con sede a Jesi, in provincia di Ancona, che porta in tavola le storie di nove cooperative socie di sei regioni diverse || dalla panna ai formaggi, dalle specialità casearie ai prodotti per la pasticceria e la ristorazione"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

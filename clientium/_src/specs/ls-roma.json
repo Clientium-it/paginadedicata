@@ -1,0 +1,28 @@
+{
+ "slug": "ls-roma",
+ "company": "LS GROUP Roma",
+ "first_name": "Bruno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Renault Retail a Roma vende veicoli Renault e Dacia nuovi e usati e dispone di due officine meccaniche, carrozzeria e magazzino ricambi. Qui trova come lavoriamo e cosa potremmo fare per LS GROUP Roma.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LS GROUP Roma.",
+ "evidence": [
+  {
+   "claim": "Renault Retail a Roma vende veicoli Renault e Dacia nuovi e usati e dispone di due officine meccaniche, carrozzeria e magazzino ricambi.",
+   "url": "https://www.carlovers-roma.it/chi-siamo/",
+   "quote": "A Roma, rappresenta i marchi del Gruppo Renault: Renault, Dacia , offrendo un'ampia gamma di veicoli nuovi e usati. Dispone di due officine meccaniche , carrozzeria e magazzino ricambi || CAR LOVERS Roma - Esposizioni e Vendita esposizioni e vendita Viale Guglielmo Marconi, 283, 00146 Roma (RM)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

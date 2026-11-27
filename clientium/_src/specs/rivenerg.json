@@ -1,0 +1,28 @@
+{
+ "slug": "rivenerg",
+ "company": "RivEnerg",
+ "first_name": "Archita",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "RivEnerg progetta, installa e mantiene impianti fotovoltaici per aziende e famiglie da Massafra ed è certificata ISO 9001. Qui trova come lavoriamo e cosa potremmo fare per RivEnerg.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RivEnerg.",
+ "evidence": [
+  {
+   "claim": "RivEnerg progetta, installa e mantiene impianti fotovoltaici per aziende e famiglie da Massafra ed è certificata ISO 9001.",
+   "url": "https://rivenerg.it/",
+   "quote": "Progettazione, Installazione e Manutenzione Fotovoltaico per Aziende e Famiglie. Azienda certificata ISO 9001:2015. || Uffici: Via Magna Grecia, 38 - Massafra (TA) Magazzino: SS 7, Km 28 - Massafra (TA) || Supportiamo famiglie e aziende nella transizione energetica con soluzioni fotovoltaiche personalizzate e all’avanguardia."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

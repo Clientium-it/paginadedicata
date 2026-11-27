@@ -1,0 +1,28 @@
+{
+ "slug": "nuova-solmine",
+ "company": "Nuova Solmine",
+ "first_name": "Antonella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nuova Solmine produce acido solforico e oleum per accumulatori, acciaierie e fertilizzanti e vende in Italia e nell'area mediterranea. Qui trova come lavoriamo e cosa potremmo fare per Nuova Solmine.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nuova Solmine.",
+ "evidence": [
+  {
+   "claim": "Nuova Solmine produce acido solforico e oleum per accumulatori, acciaierie e fertilizzanti e vende in Italia e nell'area mediterranea.",
+   "url": "https://www.nuovasolmine.it/",
+   "quote": "Azienda leader in Italia nella produzione e commercializzazione di acido solforico ed oleum; produce inoltre acqua demineralizzata, vapore ed energia elettrica || Il mercato di Nuova Solmine interessa sia l’Italia, dove la società è leader, che l’estero, con particolare riferimento all’area Mediterranea (Francia, Spagna Marocco, Algeria, Tunisia, Israele, Turchia, Grecia), ma non solo. || Anche l’acido solforico diluito trova numerose applicazioni nelle fabbriche di accumulatori, nelle acciaierie, nell’ industria farmaceutica, alimentare e nel settore dei fertilizzanti, nella depurazione delle acque."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

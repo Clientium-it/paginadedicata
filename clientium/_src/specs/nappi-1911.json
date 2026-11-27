@@ -1,0 +1,28 @@
+{
+ "slug": "nappi-1911",
+ "company": "Nappi 1911",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nappi produce da quattro generazioni semilavorati per gelateria, pasticceria e horeca in tre siti produttivi, con oltre 1000 referenze in più di 87 paesi. Qui trova come lavoriamo e cosa potremmo fare per Nappi 1911.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nappi 1911.",
+ "evidence": [
+  {
+   "claim": "Nappi produce da quattro generazioni semilavorati per gelateria, pasticceria e horeca in tre siti produttivi, con oltre 1000 referenze in più di 87 paesi.",
+   "url": "https://www.nappi.com/azienda/",
+   "quote": "Oggi siamo presenti, con più di 1000 referenze, in più di 87 paesi del Mondo e da quattro generazioni produciamo nei nostri stabilimenti prodotti per Gelateria, Pasticceria, Yogurteria, Industria Dolciaria e HO.RE.CA. || Con tre siti produttivi ed una superficie complessiva di 70.000 mq di cui coperti 38.000 mq. || nella preparazione di semilavorati per gelateria, pasticceria e industria dolciaria e yogurteria."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

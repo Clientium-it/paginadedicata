@@ -1,0 +1,28 @@
+{
+ "slug": "polo-nazionale-droni",
+ "company": "Polo Nazionale Droni",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Polo Nazionale Droni è l'associazione di categoria del settore, con sezioni regionali, soci e partner su droni aerei, terrestri, navali e subacquei. Qui trova come lavoriamo e cosa potremmo fare per Polo Nazionale Droni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Polo Nazionale Droni.",
+ "evidence": [
+  {
+   "claim": "Polo Nazionale Droni è l'associazione di categoria del settore, con sezioni regionali, soci e partner su droni aerei, terrestri, navali e subacquei.",
+   "url": "https://www.polonazionaledroni.com/",
+   "quote": "Notizie Risorse Normative e Autorità Droni aerei Droni terrestri Droni navali Droni subacquei Sistemi antidroni Tecnologie Cross Demand Contatti Home Il Polo Chi siamo e missione L’associazione di categoria del settore || Rete territoriale Le sezioni regionali Soci e partner Chi fa parte del Polo || Sanità ed emergenza sanitaria Farmaci, campioni, defibrillatori Infrastrutture e monitoraggio Difesa e sicurezza"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

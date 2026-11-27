@@ -1,0 +1,28 @@
+{
+ "slug": "sarim-ambiente",
+ "company": "SARIM AMBIENTE",
+ "first_name": "Cosimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sarim gestisce il ciclo integrato dei rifiuti in 19 comuni con una flotta di 930 mezzi e 1.124 risorse su tutto il territorio nazionale. Qui trova come lavoriamo e cosa potremmo fare per SARIM AMBIENTE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SARIM AMBIENTE.",
+ "evidence": [
+  {
+   "claim": "Sarim gestisce il ciclo integrato dei rifiuti in 19 comuni con una flotta di 930 mezzi e 1.124 risorse su tutto il territorio nazionale.",
+   "url": "https://sarimambiente.it/",
+   "quote": "Ci occupiamo della gestione del ciclo integrato dei rifiuti e siamo operativi su tutto il territorio nazionale, con una particolare competenza nella organizzazione della raccolta differenziata dei rifiuti urbani || FLOTTA 930 RISORSE 1.124 KG DI RIFIUTI 176.591.912 COMUNI 19 || Grazie al Metodo Sarim tutti i comuni serviti hanno raggiunto, in media, una percentuale di raccolta differenziata superiore al 65%, con punte anche del 90%."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

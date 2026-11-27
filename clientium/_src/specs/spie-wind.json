@@ -1,0 +1,28 @@
+{
+ "slug": "spie-wind",
+ "company": "SPIE Wind",
+ "first_name": "Mariarosaria",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SPIE Wind segue impianti eolici onshore e offshore come partner indipendente per costruttori, proprietari e gestori con quasi 1.000 persone tra Europa e Americhe. Qui trova come lavoriamo e cosa potremmo fare per SPIE Wind.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SPIE Wind.",
+ "evidence": [
+  {
+   "claim": "SPIE Wind segue impianti eolici onshore e offshore come partner indipendente per costruttori, proprietari e gestori con quasi 1.000 persone tra Europa e Americhe.",
+   "url": "https://www.spie-wind.com/",
+   "quote": "SPIE WIND ist Teil von SPIE und vereint alle Kom­pe­ten­zen und Ser­vices rund um On- & Offshore Wind­kraft­anlagen. Mit nunmehr fast 1.000 Kolleginnen und Kollegen in Europa, Nord- und Südamerika || SPIE Wind Germany GmbH (Headquarter) Konsul-Smidt-Str. 71 D-28217 Bremen || Als unab­hängiger Service­partner von Herstellern, Eigen­tümern und Betreibern tragen wir dazu bei"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

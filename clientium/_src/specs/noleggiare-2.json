@@ -1,0 +1,28 @@
+{
+ "slug": "noleggiare-2",
+ "company": "Noleggiare",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Noleggiare offre a privati e aziende auto e veicoli commerciali a breve, medio e lungo termine con 63 sedi in tutta Italia. Qui trova come lavoriamo e cosa potremmo fare per Noleggiare.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Noleggiare.",
+ "evidence": [
+  {
+   "claim": "Noleggiare offre a privati e aziende auto e veicoli commerciali a breve, medio e lungo termine con 63 sedi in tutta Italia.",
+   "url": "https://www.noleggiare.it/it/chi-siamo/",
+   "quote": "Noleggiamo auto e veicoli commerciali a privati ed aziende in varie modalità: breve, medio e lungo termine . || Siamo presenti in tutta Italia con 63 sedi situate nelle principali località turistiche , negli aeroporti e nelle stazioni ferroviarie del territorio. || Noleggiamo auto e veicoli commerciali a privati ed aziende in varie modalità: breve, medio e lungo termine ."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}

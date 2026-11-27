@@ -1,0 +1,28 @@
+{
+ "slug": "petcube",
+ "company": "Petcube",
+ "first_name": "Anastasia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Petcube crea dal 2012 prodotti tecnologici per animali domestici, a partire da una videocamera per tenere d'occhio il proprio animale tutto il giorno. Qui trova come lavoriamo e cosa potremmo fare per Petcube.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Petcube.",
+ "evidence": [
+  {
+   "claim": "Petcube crea dal 2012 prodotti tecnologici per animali domestici, a partire da una videocamera per tenere d'occhio il proprio animale tutto il giorno.",
+   "url": "https://petcube.com/about-us/",
+   "quote": "With a lot of passion for pets and technology, we founded Petcube in 2012, to create pet products for the XXI century. || A pet camera is an obvious one to start with. It’s like a smartphone for your pet. Allows you to stay connected anytime, and monitors your pet all day long."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b2_pages_request)"
+}
