@@ -1,0 +1,28 @@
+{
+ "slug": "trafag-italia",
+ "company": "Trafag Italia",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Trafag dal 1942 serve applicazioni industriali in tutto il mondo con soluzioni standard, configurabili e su misura per OEM e system integrator. Qui trova come lavoriamo e cosa potremmo fare per Trafag Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Trafag Italia.",
+ "evidence": [
+  {
+   "claim": "Trafag dal 1942 serve applicazioni industriali in tutto il mondo con soluzioni standard, configurabili e su misura per OEM e system integrator.",
+   "url": "https://www.trafag.com/en/about-us/",
+   "quote": "Founded in 1942 and headquartered in Bubikon, Switzerland, we serve demanding industrial applications worldwide with a broad portfolio of standardized, configurable and tailor-made solutions. || Supported by production facilities in Switzerland, Germany, the Czech Republic and India, we ensure high quality standards and reliable delivery worldwide. || we help OEMs, system integrators and operators meet demanding quality, safety and operational requirements under extreme conditions."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

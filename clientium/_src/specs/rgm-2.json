@@ -1,0 +1,28 @@
+{
+ "slug": "rgm-2",
+ "company": "RGM",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "RGM sviluppa e produce sistemi su misura per la conversione di energia, per i settori dei trasporti, dell'energia, industriale e medicale, con sede a Genova. Qui trova come lavoriamo e cosa potremmo fare per RGM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RGM.",
+ "evidence": [
+  {
+   "claim": "RGM sviluppa e produce sistemi su misura per la conversione di energia, per i settori dei trasporti, dell'energia, industriale e medicale, con sede a Genova.",
+   "url": "https://www.rgm.it/welcome-to-rgm/",
+   "quote": "RGM has specialized in development and production of complex custom systems for energy conversion, for a wide range of applications in transportation, hybrid systems and energy storage, industrial and medical markets. || Via Buccari 19-21 16153 Genova - Italy Headquarters || transportation, hybrid systems and energy storage, industrial and medical markets"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

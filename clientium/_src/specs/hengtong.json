@@ -1,0 +1,28 @@
+{
+ "slug": "hengtong",
+ "company": "Hengtong Group",
+ "first_name": "Ezio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hengtong ha realizzato oltre 150 progetti di comunicazione ed energia sottomarina e conta 14 basi produttive e oltre 40 società di servizi tecnici all'estero. Qui trova come lavoriamo e cosa potremmo fare per Hengtong Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hengtong Group.",
+ "evidence": [
+  {
+   "claim": "Hengtong ha realizzato oltre 150 progetti di comunicazione ed energia sottomarina e conta 14 basi produttive e oltre 40 società di servizi tecnici all'estero.",
+   "url": "https://www.hengtonggroup.com/",
+   "quote": "全球创建12座海外产业基地 承建150多个海洋通信与能源互联项目 || 14 座 海外产业基地 40 + 海外技术服务公司 150 + 业务覆盖 国家和地区"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

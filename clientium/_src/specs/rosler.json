@@ -1,0 +1,28 @@
+{
+ "slug": "rosler",
+ "company": "Rösler",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rösler produce da oltre 90 anni macchine e sistemi per la vibrofinitura e granigliatura, con una rete mondiale di 15 sedi e sette stabilimenti produttivi. Qui trova come lavoriamo e cosa potremmo fare per Rösler.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Rösler.",
+ "evidence": [
+  {
+   "claim": "Rösler produce da oltre 90 anni macchine e sistemi per la vibrofinitura e granigliatura, con una rete mondiale di 15 sedi e sette stabilimenti produttivi.",
+   "url": "https://www.rosler.com/it/chi-siamo/lazienda",
+   "quote": "Da oltre 90 anni il nome Rösler è sinonimo di altissima qualità nella produzione di macchine e sistemi di impianti per i settori della vibrofinitura e della granigliatura || Il Gruppo Rösler mette a vostra disposizione una rete mondiale con 15 sedi, tra cui sette stabilimenti produttivi, a cui si aggiungono 150 rappresentanti in grado di fornirvi assistenza grazie alla loro pluriennale esperienza."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

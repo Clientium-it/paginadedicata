@@ -1,0 +1,28 @@
+{
+ "slug": "kao-chimigraf",
+ "company": "Kao Chimigraf",
+ "first_name": "Pier Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Kao Chimigraf opera dal 1970 ed è presente in oltre 60 paesi tra Europa, Americhe, Medio Oriente, Nord Africa e Asia. Qui trova come lavoriamo e cosa potremmo fare per Kao Chimigraf.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kao Chimigraf.",
+ "evidence": [
+  {
+   "claim": "Kao Chimigraf opera dal 1970 ed è presente in oltre 60 paesi tra Europa, Americhe, Medio Oriente, Nord Africa e Asia.",
+   "url": "https://kaochimigraf.com/en/about-us/company.html",
+   "quote": "Since we began in 1970, at Kao Chimigraf we have always had a strong commitment to quality || Present today in over 60 countries in Europe, the Americas, the Middle East, North Africa and Asia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

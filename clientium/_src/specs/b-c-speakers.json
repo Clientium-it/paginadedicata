@@ -1,0 +1,28 @@
+{
+ "slug": "b-c-speakers",
+ "company": "B&C Speakers",
+ "first_name": "Patricia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "B&C Speakers progetta e produce i suoi altoparlanti a Bagno a Ripoli con circa 210 dipendenti e sedi commerciali in USA, Cina e Brasile. Qui trova come lavoriamo e cosa potremmo fare per B&C Speakers.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per B&C Speakers.",
+ "evidence": [
+  {
+   "claim": "B&C Speakers progetta e produce i suoi altoparlanti a Bagno a Ripoli con circa 210 dipendenti e sedi commerciali in USA, Cina e Brasile.",
+   "url": "https://bcspeakers.com/en/about-bc/made-in-italy",
+   "quote": "B&C Speakers has about 210 employees, ~10% of which are engaged in our Research and Development department. B&C Speakers designs, produces and trades all of its products directly from its head office located in Bagno a Ripoli (Florence), Italy. || B&C also have sales and distribution centres in Italy (Europe), USA (US/Canada), China and Brazil."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "lamberti-3",
+ "company": "lamberti",
+ "first_name": "Gianpaolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lamberti produce polimeri sintetici all'acqua e specialità chimiche alla base della finitura della pelle. Qui trova come lavoriamo e cosa potremmo fare per lamberti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per lamberti.",
+ "evidence": [
+  {
+   "claim": "Lamberti produce polimeri sintetici all'acqua e specialità chimiche alla base della finitura della pelle.",
+   "url": "https://leatherformulators.lamberti.com/",
+   "quote": "Waterborne synthetic polymers and chemical specialties are the backbone of leather finishing."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

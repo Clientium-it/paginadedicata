@@ -1,0 +1,28 @@
+{
+ "slug": "emmegi-confezioni-abiti-lusso",
+ "company": "Emmegi srl confezioni abiti lusso",
+ "first_name": "Young hee",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Emmegi confeziona capi per brand del lusso internazionali con 27 dipendenti, uno stabilimento di 3.700 mq e 27.000 prodotti all'anno. Qui trova come lavoriamo e cosa potremmo fare per Emmegi srl confezioni abiti lusso.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Emmegi srl confezioni abiti lusso.",
+ "evidence": [
+  {
+   "claim": "Emmegi confeziona capi per brand del lusso internazionali con 27 dipendenti, uno stabilimento di 3.700 mq e 27.000 prodotti all'anno.",
+   "url": "https://emmegiconfezioni.gruppoflorence.it/azienda/",
+   "quote": "Tra i più richiesti partner per il confezionamento di capi di primo livello, negli anni Emmegi ha avviato e consolidato numerose collaborazioni con i più prestigiosi brand del lusso internazionali || 27 dipendenti 1 stabilimento 3.700 mq di superficie produttiva 27.000 prodotti all’anno || con i più prestigiosi brand del lusso internazionali"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "iveco-orecchia-2",
+ "company": "iveco orecchia",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Iveco Orecchia da più di 90 anni serve i professionisti del trasporto su strada e del movimento terra nel Nord Ovest con sette sedi. Qui trova come lavoriamo e cosa potremmo fare per iveco orecchia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per iveco orecchia.",
+ "evidence": [
+  {
+   "claim": "Iveco Orecchia da più di 90 anni serve i professionisti del trasporto su strada e del movimento terra nel Nord Ovest con sette sedi.",
+   "url": "https://www.iveco-orecchia.it/azienda/",
+   "quote": "Da più di 90 anni Iveco Orecchia è al servizio dei propri clienti per ogni esigenza del trasporto su strada, dei cantieri e delle costruzioni. || Iveco Orecchia è presente sul territorio del Nord-Ovest con sette sedi proprie ed è organizzata in tre divisioni principali: Veicoli commerciali e Industriali, Autobus e Movimento Terra. || tutti i professionisti del trasporto su strada e delle macchine movimento terra"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

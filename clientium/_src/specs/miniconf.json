@@ -1,0 +1,28 @@
+{
+ "slug": "miniconf",
+ "company": "Miniconf",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Miniconf crea e distribuisce abbigliamento da 0 a 16 anni con oltre 350 collaboratori tra sede, filiali e store. Qui trova come lavoriamo e cosa potremmo fare per Miniconf.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Miniconf.",
+ "evidence": [
+  {
+   "claim": "Miniconf crea e distribuisce abbigliamento da 0 a 16 anni con oltre 350 collaboratori tra sede, filiali e store.",
+   "url": "https://www.miniconf.it/chi-siamo/",
+   "quote": "Miniconf è un’azienda italiana multibrand & multichannel specializzata nella creazione e distribuzione di abbigliamento da 0 a 16 anni || L’azienda si avvale di oltre 350 collaboratori tra sede, filiali e store"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

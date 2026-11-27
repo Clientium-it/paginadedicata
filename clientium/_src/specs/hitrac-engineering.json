@@ -1,0 +1,28 @@
+{
+ "slug": "hitrac-engineering",
+ "company": "HITRAC ENGINEERING GROUP",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hitrac Engineering Group progetta, realizza e fa manutenzione di impianti tecnologici in 48 Paesi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per HITRAC ENGINEERING GROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per HITRAC ENGINEERING GROUP.",
+ "evidence": [
+  {
+   "claim": "Hitrac Engineering Group progetta, realizza e fa manutenzione di impianti tecnologici in 48 Paesi nel mondo.",
+   "url": "https://www.hitrac-engineering.com/",
+   "quote": "Progettazione, realizzazione e manutenzione di impianti tecnologici all'avanguardia || Hitrac Engineering Group ha consolidato le sue credenziali in 48 Paesi nel mondo."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "bausch-lomb-italia",
+ "company": "Bausch + Lomb Italia",
+ "first_name": "Lucio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Bausch + Lomb Italia conta circa 220 dipendenti, con la sede commerciale a Vimodrone e lo stabilimento produttivo di Macherio. Qui trova come lavoriamo e cosa potremmo fare per Bausch + Lomb Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Bausch + Lomb Italia.",
+ "evidence": [
+  {
+   "claim": "Bausch + Lomb Italia conta circa 220 dipendenti, con la sede commerciale a Vimodrone e lo stabilimento produttivo di Macherio.",
+   "url": "https://www.bausch.it/chi-siamo/",
+   "quote": "Bausch + Lomb Italia conta circa 220 dipendenti e ha due sedi operative: la sede legale e commerciale di Vimodrone (MI) e lo stabilimento produttivo di Macherio (MB). || Bausch + Lomb Italia conta circa 220 dipendenti e ha due sedi operative: la sede legale e commerciale di Vimodrone (MI) e lo stabilimento produttivo di Macherio (MB)."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

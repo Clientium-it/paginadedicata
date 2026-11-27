@@ -1,0 +1,28 @@
+{
+ "slug": "ipoh",
+ "company": "IPOH",
+ "first_name": "Simonluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IPOH da oltre 30 anni ascolta le persone per individuare e categorizzare i motivi principali del loro dormire male. Qui trova come lavoriamo e cosa potremmo fare per IPOH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IPOH.",
+ "evidence": [
+  {
+   "claim": "IPOH da oltre 30 anni ascolta le persone per individuare e categorizzare i motivi principali del loro dormire male.",
+   "url": "https://www.ipoh.it/",
+   "quote": "In oltre 30 anni di attività abbiamo ascoltato le persone, individuando e categorizzando i motivi principali del loro dormire male || Sede Centrale Via dell'Adige 14 - 39040 Cortaccia sulla strada del Vino- BZ"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

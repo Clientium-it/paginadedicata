@@ -1,0 +1,28 @@
+{
+ "slug": "asd-laminat",
+ "company": "ASD Laminat",
+ "first_name": "Gualtiero",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ASD Laminat produce laminati per arredamento e costruzioni, con quasi 500 persone, uno stabilimento di 80.000 metri quadrati e attività in oltre 70 paesi. Qui trova come lavoriamo e cosa potremmo fare per ASD Laminat.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ASD Laminat.",
+ "evidence": [
+  {
+   "claim": "ASD Laminat produce laminati per arredamento e costruzioni, con quasi 500 persone, uno stabilimento di 80.000 metri quadrati e attività in oltre 70 paesi.",
+   "url": "https://www.asdlaminat.com/company/about/",
+   "quote": "nearly 500 employees, our production facility built on an area of 80,000 m² and our activities in more than 70 countries || ASD Laminat - Italy Via Guido Rossa snc61022 Vallefoglia (PU) Italy +39 0721 478021 italy@asdlaminat.com || we create value in the furniture and construction industry with the laminates we produce"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

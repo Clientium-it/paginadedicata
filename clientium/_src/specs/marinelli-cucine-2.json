@@ -1,0 +1,28 @@
+{
+ "slug": "marinelli-cucine-2",
+ "company": "MARINELLI CUCINE",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Marinelli Cucine realizza da oltre 30 anni cucine per la casa dei suoi clienti, con sede a Pesaro. Qui trova come lavoriamo e cosa potremmo fare per MARINELLI CUCINE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MARINELLI CUCINE.",
+ "evidence": [
+  {
+   "claim": "Marinelli Cucine realizza da oltre 30 anni cucine per la casa dei suoi clienti, con sede a Pesaro.",
+   "url": "https://marinellicucine.it/it/azienda/",
+   "quote": "Da più di 30 anni Marinelli Cucine realizza prodotti di qualità capaci di soddisfare le esigenze domestiche dei suoi Clienti e di appagare il loro gusto estetico. || Via del Vallo n.1 61122 Pesaro pu"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "basicnet",
+ "company": "BasicNet",
+ "first_name": "Pietro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "BasicNet opera nell'abbigliamento, nelle calzature e negli accessori per sport e tempo libero con marchi come Kappa, Superga, Woolrich e Sundek, in oltre 130 mercati. Qui trova come lavoriamo e cosa potremmo fare per BasicNet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BasicNet.",
+ "evidence": [
+  {
+   "claim": "BasicNet opera nell'abbigliamento, nelle calzature e negli accessori per sport e tempo libero con marchi come Kappa, Superga, Woolrich e Sundek, in oltre 130 mercati.",
+   "url": "https://www.basicnet.com/Default.asp",
+   "quote": "opera nei settori abbigliamento, calzature e accessori per lo sport e il tempo libero con i marchi Kappa®, Robe di Kappa®, K-Way®, Superga®, Briko®, Jesus® Jeans, Sebago®, Woolrich® e Sundek® || Il Network dei licenziatari copre oltre 130 mercati nel mondo || Ai licenziatari, selezionati su base territoriale o per specifiche categorie merceologiche, è affidata la distribuzione dei prodotti ai dettaglianti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

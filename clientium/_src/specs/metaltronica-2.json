@@ -1,0 +1,28 @@
+{
+ "slug": "metaltronica-2",
+ "company": "Metaltronica",
+ "first_name": "Elisa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Metaltronica dal 1977 progetta e fornisce sistemi avanzati di imaging medicale per strutture sanitarie nazionali e internazionali. Qui trova come lavoriamo e cosa potremmo fare per Metaltronica.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Metaltronica.",
+ "evidence": [
+  {
+   "claim": "Metaltronica dal 1977 progetta e fornisce sistemi avanzati di imaging medicale per strutture sanitarie nazionali e internazionali.",
+   "url": "https://www.metaltronica.com/",
+   "quote": "Metaltronica progetta e fornisce sistemi avanzati di imaging medicale per le strutture sanitarie nazionali e internazionali. Since 1977 || per le strutture sanitarie nazionali e internazionali"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "belron-international",
+ "company": "Belron® International",
+ "first_name": "Alessio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Belron impiega oltre 16.000 tecnici che aiutano ogni anno milioni di clienti a tornare sulla strada, dalle filiali o con la flotta mobile. Qui trova come lavoriamo e cosa potremmo fare per Belron® International.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Belron® International.",
+ "evidence": [
+  {
+   "claim": "Belron impiega oltre 16.000 tecnici che aiutano ogni anno milioni di clienti a tornare sulla strada, dalle filiali o con la flotta mobile.",
+   "url": "https://www.belron.com/about-belron",
+   "quote": "We employ around 32,000 colleagues worldwide, including over 16,000 highly trained technicians who help millions of customers get safely back on the road each year, either from one of our branches or through our mobile fleet. || Our family of brands operates in over 40 markets across six continents through a mix of wholly owned businesses and franchises || trusted long-term partner of many leading insurers, fleet operators, and lease and rental companies"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

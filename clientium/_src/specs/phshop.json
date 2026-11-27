@@ -1,0 +1,28 @@
+{
+ "slug": "phshop",
+ "company": "PhShop",
+ "first_name": "PhShop",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "PhShop commercializza farmaci etici, ospedalieri, generici e OTC, oltre a dispositivi medici e cosmetici, per farmacie e ospedali in tutta Italia. Qui trova come lavoriamo e cosa potremmo fare per PhShop.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PhShop.",
+ "evidence": [
+  {
+   "claim": "PhShop commercializza farmaci etici, ospedalieri, generici e OTC, oltre a dispositivi medici e cosmetici, per farmacie e ospedali in tutta Italia.",
+   "url": "https://www.phshop.it/",
+   "quote": "Ci occupiamo di commercializzare farmaci etici, ospedalieri, generici, SOP e OTC in primis, ma anche di dispositivi medici, cosmetici, prodotti per l'igiene personale e parafarmaceutici. || Sede Legale: Piazza della Repubblica,30 20124 – Milano Sede Operativa: Via Ferrante Imparato, 190, Complesso Industriale Napoli Est Interporto Campano Lotto H Edificio C1/C2 80035 Nola (NA) – ITALIA || Il raggio di azione copre farmacie e ospedali, su tutto il territorio nazionale."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

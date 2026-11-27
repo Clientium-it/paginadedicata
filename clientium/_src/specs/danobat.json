@@ -1,0 +1,28 @@
+{
+ "slug": "danobat",
+ "company": "DANOBAT",
+ "first_name": "Ermanno",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Danobat da oltre settant'anni produce rettificatrici di precisione, torni e sistemi robotizzati per lavorazioni meccaniche, con sede a Elgoibar in Spagna. Qui trova come lavoriamo e cosa potremmo fare per DANOBAT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per DANOBAT.",
+ "evidence": [
+  {
+   "claim": "Danobat da oltre settant'anni produce rettificatrici di precisione, torni e sistemi robotizzati per lavorazioni meccaniche, con sede a Elgoibar in Spagna.",
+   "url": "https://www.danobat.com/it-it/su-di-noi",
+   "quote": "Con oltre sette decenni di esperienza, Danobat è leader mondiale nella produzione di impianti innovativi, tra cui rettificatrici di precisione, torni e sistemi robotizzati per lavorazioni meccaniche. || Sede Centrale Arriaga Kalea 21, 20870 Elgoibar, Gipuzkoa (Spagna) || Aerospace Automotive e veicoli elettrici Cuscinetti Robot umanoidi Energia Settore idraulico Matrici e stampi Settore ferroviario Macchinari e componenti Macchine movimento terra e veicoli industriali Industria medicale"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

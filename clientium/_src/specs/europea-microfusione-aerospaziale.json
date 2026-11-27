@@ -1,0 +1,28 @@
+{
+ "slug": "europea-microfusione-aerospaziale",
+ "company": "Europea Microfusione Aerospaziale",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Europea Microfusione Aerospaziale produce palette rotoriche, statori e componenti di turbine per l'aviazione civile e militare in un unico stabilimento a Morra De Sanctis. Qui trova come lavoriamo e cosa potremmo fare per Europea Microfusione Aerospaziale.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Europea Microfusione Aerospaziale.",
+ "evidence": [
+  {
+   "claim": "Europea Microfusione Aerospaziale produce palette rotoriche, statori e componenti di turbine per l'aviazione civile e militare in un unico stabilimento a Morra De Sanctis.",
+   "url": "https://emaht.com/",
+   "quote": "per la produzione di palette rotoriche, statori e componenti di turbine dei più avanzati motori a reazione destinati all’aviazione civile, militare, alla propulsione navale ed alle turbogas delle centrali elettriche || EMA ha un unico stabilimento nel Sud Italia, a Morra De Sanctis, in provincia di Avellino || all’aviazione civile, militare, alla propulsione navale ed alle turbogas delle centrali elettriche per la generazione di energia elettrica"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

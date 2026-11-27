@@ -1,0 +1,28 @@
+{
+ "slug": "centro-concessionaria-audi",
+ "company": "Centro S.p.A. Concessionaria Audi",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Centro Audi copre la Liguria con sedi a Genova, Savona, Lavagna e Albenga, tra vendita e assistenza dalla piccola impresa alla grande flotta aziendale. Qui trova come lavoriamo e cosa potremmo fare per Centro S.p.A. Concessionaria Audi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Centro S.p.A. Concessionaria Audi.",
+ "evidence": [
+  {
+   "claim": "Centro Audi copre la Liguria con sedi a Genova, Savona, Lavagna e Albenga, tra vendita e assistenza dalla piccola impresa alla grande flotta aziendale.",
+   "url": "https://www.centroaudi.it/chi-siamo/",
+   "quote": "con sedi a Genova, Savona, Lavagna ed Albenga, riusciamo a coprire tutto il territorio ligure per esserVi il più vicino possibile in ogni situazione || Genova Fegino – Vendita e Service Via E.Ferri 120 R – 16161 Genova Come raggiungerci Genova Albaro – Service Via E.Traverso 2/F – 16145 Genova Come raggiungerci Lavagna – Vendita Audi Prima Scelta Plus e Service Via Moggia 80 – 16033 Lavagna Come raggiungerci Savona – Service Via Nizza 170R – 17100 Savona Come raggiungerci Albenga – Service Regione Cavallo 24 – 17031 Albenga Come raggiungerci || garantendo che ogni realtà, dalla piccola impresa alla grande flotta aziendale, possa beneficiare della massima efficienza operativa"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

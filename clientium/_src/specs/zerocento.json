@@ -1,0 +1,28 @@
+{
+ "slug": "zerocento",
+ "company": "Zerocento",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Zerocento propone il noleggio KINTO tutto incluso con la gamma elettrificata Toyota e Lexus. Qui trova come lavoriamo e cosa potremmo fare per Zerocento.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Zerocento.",
+ "evidence": [
+  {
+   "claim": "Zerocento propone il noleggio KINTO tutto incluso con la gamma elettrificata Toyota e Lexus.",
+   "url": "https://zerocento.toyota.it/",
+   "quote": "Con il noleggio all-inclusive KINTO scegli tra l’ampia gamma elettrificata Toyota e Lexus e guidi senza pensieri!"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

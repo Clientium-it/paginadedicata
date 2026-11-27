@@ -1,0 +1,28 @@
+{
+ "slug": "smiths-interconnect-2",
+ "company": "Smiths Interconnect",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Smiths Interconnect fornisce componenti elettronici, sottosistemi e prodotti a microonde e a radiofrequenza tecnicamente differenziati. Qui trova come lavoriamo e cosa potremmo fare per Smiths Interconnect.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Smiths Interconnect.",
+ "evidence": [
+  {
+   "claim": "Smiths Interconnect fornisce componenti elettronici, sottosistemi e prodotti a microonde e a radiofrequenza tecnicamente differenziati.",
+   "url": "https://it.smithsinterconnect.com/markets/",
+   "quote": "Smiths Interconnect è un fornitore leader di componenti elettronici, sottosistemi, prodotti a microonde e a radiofrequenza tecnicamente differenziati."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

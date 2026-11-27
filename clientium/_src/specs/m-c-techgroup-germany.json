@@ -1,0 +1,28 @@
+{
+ "slug": "m-c-techgroup-germany",
+ "company": "M&C TechGroup Germany",
+ "first_name": "Enrico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "M&C TechGroup progetta e costruisce sistemi di analisi dei gas per il campionamento, il trattamento gas e il controllo di processo in tutto il mondo. Qui trova come lavoriamo e cosa potremmo fare per M&C TechGroup Germany.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per M&C TechGroup Germany.",
+ "evidence": [
+  {
+   "claim": "M&C TechGroup progetta e costruisce sistemi di analisi dei gas per il campionamento, il trattamento gas e il controllo di processo in tutto il mondo.",
+   "url": "https://www.mc-techgroup.com/de",
+   "quote": "M&C TechGroup ist ein führender Anbieter hochwertiger Lösungen im Bereich Gasentnahme, Gasaufbereitung und Prozesssteuerung mit langjähriger Expertise in der Projektierung und dem Bau von Gasanalysesystemen. || Wir bieten unseren Geschäftspartnern weltweit standardisierte, universell einsetzbare, aber auch spezifisch konfigurierte Lösungen für schwierigste Messaufgaben."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

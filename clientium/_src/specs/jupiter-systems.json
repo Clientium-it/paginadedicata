@@ -1,0 +1,28 @@
+{
+ "slug": "jupiter-systems",
+ "company": "jupiter systems",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Jupiter Systems da oltre 40 anni realizza soluzioni per ambienti critici di agenzie federali, enti pubblici e privati e aziende, installate in oltre 100 paesi. Qui trova come lavoriamo e cosa potremmo fare per jupiter systems.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per jupiter systems.",
+ "evidence": [
+  {
+   "claim": "Jupiter Systems da oltre 40 anni realizza soluzioni per ambienti critici di agenzie federali, enti pubblici e privati e aziende, installate in oltre 100 paesi.",
+   "url": "https://www.jupiter.com/",
+   "quote": "For over 40 years, our Silicon Valley-crafted solutions have transformed mission-critical environments. || >100 Countries with installed Jupiter systems || federal agencies, public and private organizations, and large and small corporations"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

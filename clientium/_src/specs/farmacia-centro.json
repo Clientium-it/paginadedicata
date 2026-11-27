@@ -1,0 +1,28 @@
+{
+ "slug": "farmacia-centro",
+ "company": "Farmacia Centro",
+ "first_name": "Enza",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Farmacia Centro offre un'ampia gamma di prodotti dalla medicina tradizionale all'omeopatia e fitoterapia fino alla cosmetica e dietetica a Conversano. Qui trova come lavoriamo e cosa potremmo fare per Farmacia Centro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Farmacia Centro.",
+ "evidence": [
+  {
+   "claim": "Farmacia Centro offre un'ampia gamma di prodotti dalla medicina tradizionale all'omeopatia e fitoterapia fino alla cosmetica e dietetica a Conversano.",
+   "url": "https://farmaciacentro.it/",
+   "quote": "SEA S.R.L. - FARMACIA CENTRO offre un’ampia gamma di prodotti: dalla medicina tradizionale, alla omeopatia e fitoterapia, dalla cosmetica, alla dietetica/alimentare, agli articoli sanitari. || VIA POLIGNANO, 3 70014 CONVERSANO (BA)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

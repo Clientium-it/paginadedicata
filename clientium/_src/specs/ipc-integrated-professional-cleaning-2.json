@@ -1,0 +1,28 @@
+{
+ "slug": "ipc-integrated-professional-cleaning-2",
+ "company": "IPC Integrated Professional Cleaning",
+ "first_name": "Stefania",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IPC riunisce specialisti della pulizia professionale e segue i clienti dal primo contatto fino all'assistenza dopo la vendita. Qui trova come lavoriamo e cosa potremmo fare per IPC Integrated Professional Cleaning.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IPC Integrated Professional Cleaning.",
+ "evidence": [
+  {
+   "claim": "IPC riunisce specialisti della pulizia professionale e segue i clienti dal primo contatto fino all'assistenza dopo la vendita.",
+   "url": "https://www.ipcworldwide.com/ipc-solutions/",
+   "quote": "With more than 1,000 cleaning specialists dedicated to its customers, IPC Group is active in over 120 countries to provide services and assistance, from pre-sales support to financial instruments, through to after-sales service. || IPC has four training centres in Italy, one for each Business Unit, where every year more than 5,000 hours of technical and commercial training are provided to our partners."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

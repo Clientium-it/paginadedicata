@@ -1,0 +1,28 @@
+{
+ "slug": "radici",
+ "company": "Radici Group",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "RadiciGroup produce tecnopolimeri e si espande a livello globale con stabilimenti negli Stati Uniti, in Messico, Brasile, India e Cina. Qui trova come lavoriamo e cosa potremmo fare per Radici Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Radici Group.",
+ "evidence": [
+  {
+   "claim": "RadiciGroup produce tecnopolimeri e si espande a livello globale con stabilimenti negli Stati Uniti, in Messico, Brasile, India e Cina.",
+   "url": "https://www.radicigroup.com/chi-siamo/storia/",
+   "quote": "Il business dei tecnopolimeri di RadiciGroup si espande a livello globale con l’apertura di stabilimenti negli Stati Uniti, in Messico, Brasile, India e Cina. || Il business dei tecnopolimeri di RadiciGroup si espande a livello globale con l’apertura di stabilimenti negli Stati Uniti, in Messico, Brasile, India e Cina."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

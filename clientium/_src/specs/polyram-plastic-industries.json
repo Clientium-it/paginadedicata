@@ -1,0 +1,28 @@
+{
+ "slug": "polyram-plastic-industries",
+ "company": "Polyram Plastic Industries Ltd",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Polyram produce compound termoplastici ad alte prestazioni con 9 siti produttivi, per i settori automotive, film multistrato, industriale e imballaggio. Qui trova come lavoriamo e cosa potremmo fare per Polyram Plastic Industries Ltd.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Polyram Plastic Industries Ltd.",
+ "evidence": [
+  {
+   "claim": "Polyram produce compound termoplastici ad alte prestazioni con 9 siti produttivi, per i settori automotive, film multistrato, industriale e imballaggio.",
+   "url": "https://polyram-group.com/about/",
+   "quote": "high performance thermoplastic compounds with Nine production sites spread over three continents offering global availability || Polyram Operates 9 production sites: Ram-On & Afula in Israel , Tianjin in China , Evansville In the USA , Gloucestershire UK , Bad Oeynhausen Germany, Bangkok Thailand , Italy and Morocco, has 13 subsidiaries in the USA, Spain, France, India, UK, China, Germany, Morocco, Mexico, Italy, and Thailand. || including automotive, multi-layer film, industrial and packaging"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

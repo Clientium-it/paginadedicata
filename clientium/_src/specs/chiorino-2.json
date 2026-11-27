@@ -1,0 +1,28 @@
+{
+ "slug": "chiorino-2",
+ "company": "CHIORINO",
+ "first_name": "Corrado",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Chiorino dal 1906 a Biella produce e distribuisce soluzioni di nastri leggeri per settori come packaging alimentare, intralogistica, aeroporti e stampa. Qui trova come lavoriamo e cosa potremmo fare per CHIORINO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CHIORINO.",
+ "evidence": [
+  {
+   "claim": "Chiorino dal 1906 a Biella produce e distribuisce soluzioni di nastri leggeri per settori come packaging alimentare, intralogistica, aeroporti e stampa.",
+   "url": "https://www.chiorino.com/en/about-us",
+   "quote": "Chiorino was founded in 1906 in Biella by Lorenzo Chiorino and is today a leading international company in the manufacturing and distribution of lightweight belting solutions. || An extensive network of fabrication and distribution centers for a close customer proximity and a state of the art service in 5 continents. || Food Packaging Paper and Printing Intralogistics Airports Textile Raw Materials Cutting and Punching Recycling Sports Automotive and Tyre"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

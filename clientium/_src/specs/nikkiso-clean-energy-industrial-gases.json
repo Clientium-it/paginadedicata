@@ -1,0 +1,28 @@
+{
+ "slug": "nikkiso-clean-energy-industrial-gases",
+ "company": "Nikkiso Clean Energy & Industrial Gases",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nikkiso Clean Energy lavora sulle filiere criogeniche di idrogeno, ammoniaca, CO2 e GNL, con oltre 1.800 persone in più di 20 paesi. Qui trova come lavoriamo e cosa potremmo fare per Nikkiso Clean Energy & Industrial Gases.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nikkiso Clean Energy & Industrial Gases.",
+ "evidence": [
+  {
+   "claim": "Nikkiso Clean Energy lavora sulle filiere criogeniche di idrogeno, ammoniaca, CO2 e GNL, con oltre 1.800 persone in più di 20 paesi.",
+   "url": "https://nikkisoceig.com/",
+   "quote": "We power the cryogenic and liquid-side value chains of hydrogen, ammonia, CO 2 , LNG, and other industrial gases while remaining independent of the sale of the molecule. || The Group employs more than 1,800 people in more than 20 countries || we fuel the future of the energy, transportation, marine, aerospace, and industrial gas markets"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

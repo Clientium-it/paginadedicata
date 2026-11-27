@@ -1,0 +1,28 @@
+{
+ "slug": "errebi-concessionaria-auto",
+ "company": "Errebi spa concessionaria Auto",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Errebi è una concessionaria auto nata ad Asti e cresciuta in tutto il Piemonte e in Liguria, con showroom, officina e ricambi. Qui trova come lavoriamo e cosa potremmo fare per Errebi spa concessionaria Auto.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Errebi spa concessionaria Auto.",
+ "evidence": [
+  {
+   "claim": "Errebi è una concessionaria auto nata ad Asti e cresciuta in tutto il Piemonte e in Liguria, con showroom, officina e ricambi.",
+   "url": "https://errebi.concessionaria.dacia.it/chi-siamo/",
+   "quote": "Errebi: una storia che nasce ad Asti e si espande in tutto il Piemonte e Liguria. || ERREBI - GENOVA Via Gelasio Adamoli, 213 Showroom - Lun-Sab: 8.30-12.30 / 14.30-19 Officina - Lun-Sab: 8.30-12.30 / 14.30-19 I nostri servizi: showroom | officina | ricambi || Errebi Spa modelli promozioni privati aziende offerte manutenzione pronta consegna usato"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

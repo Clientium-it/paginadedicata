@@ -1,0 +1,28 @@
+{
+ "slug": "cecom",
+ "company": "CECOM",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CECOM compra, vende e permuta scaffalature usate operando sia in Italia sia all'estero. Qui trova come lavoriamo e cosa potremmo fare per CECOM.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CECOM.",
+ "evidence": [
+  {
+   "claim": "CECOM compra, vende e permuta scaffalature usate operando sia in Italia sia all'estero.",
+   "url": "https://www.cecom.it/",
+   "quote": "Vendiamo, ritiriamo, acquistiamo, permutiamo scaffalature usate valutandole correttamente in funzione della qualità e delle caratteristiche dello scaffale. || Operiamo sia in Italia che all’estero."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

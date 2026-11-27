@@ -1,0 +1,28 @@
+{
+ "slug": "ing-m-sacchi",
+ "company": "Ing. M. Sacchi",
+ "first_name": "Mariateresa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sacchi dal 1922 si occupa di arredo ufficio e progetta chiavi in mano uffici operativi e direzionali, mense, scuole e magazzini a Torino. Qui trova come lavoriamo e cosa potremmo fare per Ing. M. Sacchi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ing. M. Sacchi.",
+ "evidence": [
+  {
+   "claim": "Sacchi dal 1922 si occupa di arredo ufficio e progetta chiavi in mano uffici operativi e direzionali, mense, scuole e magazzini a Torino.",
+   "url": "https://www.sacchi-ing.it/index.php/azienda",
+   "quote": "Dal 1922 nel settore dell'arredo ufficio Ing.M.Sacchi s.r.l. ti offre soluzioni d'avanguardia capaci di coniugare al meglio design e praticità per favorire l'efficienza || Via Canonico Tancredi 21 - 10156 Torino || progettazione chiavi in mano di uffici operativi, direzionali, comunità, mense, scuole, magazzini, officine"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

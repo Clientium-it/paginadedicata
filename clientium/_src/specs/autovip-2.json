@@ -1,0 +1,28 @@
+{
+ "slug": "autovip-2",
+ "company": "autovip",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Autovip segue da oltre 40 anni Renault e Dacia in Piemonte con oltre 100 persone e sedi a Torino, Chivasso e Pino Torinese. Qui trova come lavoriamo e cosa potremmo fare per autovip.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per autovip.",
+ "evidence": [
+  {
+   "claim": "Autovip segue da oltre 40 anni Renault e Dacia in Piemonte con oltre 100 persone e sedi a Torino, Chivasso e Pino Torinese.",
+   "url": "https://autovip.concessionaria.renault.it/chi-siamo/",
+   "quote": "Da più di 40 anni il marchio Autovip parte del Catalano Group, è il punto di riferimento del mondo Renault e Dacia in Piemonte || con più di 100 persone altamente specializzate che lavorano al suo interno e con sedi a Torino, Chivasso e Pino Torinese || veicoli commerciali per aziende e liberi professionisti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "berenice",
+ "company": "Berenice",
+ "first_name": "Roberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Berenice, fondata nel 2000, realizza sistemi di Geographic Business Process Management e applicazioni WebGIS gestionali, con sedi a Padova e Milano. Qui trova come lavoriamo e cosa potremmo fare per Berenice.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Berenice.",
+ "evidence": [
+  {
+   "claim": "Berenice, fondata nel 2000, realizza sistemi di Geographic Business Process Management e applicazioni WebGIS gestionali, con sedi a Padova e Milano.",
+   "url": "https://berenice.it/chi-siamo/",
+   "quote": "Fondata nel 2000, Berenice realizza: Sistemi di Geographic Business Process Management; Applicazioni WebGIS gestionali || Sede legale e operativa Via Giovanni Savelli 28 35129 Padova Tel. 049 80 77 707 Sede operativa Via Carlo Marx 38 20153 Milano Tel. 02 450 777 66 || Comuni Province e Città Metropolitane Regioni e Società Regionali Department of Transportation (USA) Aziende Multiservizi Aeroporti Trasporto Pubblico Locale Istituti Zooprofilattici Aziende"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

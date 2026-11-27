@@ -1,0 +1,28 @@
+{
+ "slug": "carrara-3",
+ "company": "carrara",
+ "first_name": "Sonia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Carrara produce dal 1961 guarnizioni industriali, baderne e sistemi di tenuta per valvole e flange per raffinazione e petrolchimico. Qui trova come lavoriamo e cosa potremmo fare per carrara.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per carrara.",
+ "evidence": [
+  {
+   "claim": "Carrara produce dal 1961 guarnizioni industriali, baderne e sistemi di tenuta per valvole e flange per raffinazione e petrolchimico.",
+   "url": "https://carrara.it/it/about-carrara",
+   "quote": "oggi tra i principali produttori Europei di guarnizioni industriali , specializzato nella produzione di baderne , sistemi di tenuta per valvole e guarnizioni per flange , è stata fondata nel 1961 || L'apertura della nuova sede nel 2001 permise un rilevante aumento di capacità produttiva e logistica che || l'avviamento dei processi di qualificazione nei segmenti Raffinazione, Petrolchimico, Power Generation ed EPC – Engineering Procurement and Construction – in Italia ed all'Estero"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "rabino-e-c",
+ "company": "RABINO E C",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Rabino da oltre 70 anni vende auto e offre servizi per l'acquisto della nuova vettura, con sedi a Pinerolo e Avigliana. Qui trova come lavoriamo e cosa potremmo fare per RABINO E C.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per RABINO E C.",
+ "evidence": [
+  {
+   "claim": "Rabino da oltre 70 anni vende auto e offre servizi per l'acquisto della nuova vettura, con sedi a Pinerolo e Avigliana.",
+   "url": "https://www.rabinosport.com/chi-siamo/",
+   "quote": "Noi di Rabino & C. da oltre 70 anni rivolgiamo tutta la nostra passione e il nostro impegno per garantirti la miglior offerta, qualità e servizi per l'acquisto della tua nuova auto. || Trovarci è facile! Siamo a Pinerolo e Avigliana!"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

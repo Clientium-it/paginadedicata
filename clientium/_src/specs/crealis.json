@@ -1,0 +1,28 @@
+{
+ "slug": "crealis",
+ "company": "Crealis Group",
+ "first_name": "Tommaso",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Crealis produce sistemi di chiusura per vini fermi e spumanti, distillati, birre, olio e aceto, con 13 stabilimenti nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Crealis Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Crealis Group.",
+ "evidence": [
+  {
+   "claim": "Crealis produce sistemi di chiusura per vini fermi e spumanti, distillati, birre, olio e aceto, con 13 stabilimenti nel mondo.",
+   "url": "https://www.crealisgroup.com/en/group/about-crealis/",
+   "quote": "CREALIS is the leader in closure solutions for still and sparkling wines, spirits, beers, olive oil and vinegar || 13 production sites worldwide"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

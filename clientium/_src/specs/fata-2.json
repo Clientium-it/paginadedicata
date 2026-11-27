@@ -1,0 +1,28 @@
+{
+ "slug": "fata-2",
+ "company": "FATA Group",
+ "first_name": "Ignazio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fata nasce a Torino nel 1936 e realizza grandi e complessi progetti industriali in diversi settori dell'industria. Qui trova come lavoriamo e cosa potremmo fare per FATA Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FATA Group.",
+ "evidence": [
+  {
+   "claim": "Fata nasce a Torino nel 1936 e realizza grandi e complessi progetti industriali in diversi settori dell'industria.",
+   "url": "https://www.fatagroup.it/about-us/",
+   "quote": "established in Turin (Italy) in 1936 as a manufacturing facility, is today a leading provider of high value-added services in various fields of industry, able to meet customer’s demand in the implementation of large and complex industrial projects"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

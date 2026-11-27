@@ -1,0 +1,28 @@
+{
+ "slug": "asso-sicurezza",
+ "company": "Asso Sicurezza",
+ "first_name": "Vincenzina",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Asso Sicurezza distribuisce prodotti per impianti tecnologici attraverso una rete capillare di sedi operative e organizza corsi per installatori. Qui trova come lavoriamo e cosa potremmo fare per Asso Sicurezza.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Asso Sicurezza.",
+ "evidence": [
+  {
+   "claim": "Asso Sicurezza distribuisce prodotti per impianti tecnologici attraverso una rete capillare di sedi operative e organizza corsi per installatori.",
+   "url": "https://assosicurezza.com/",
+   "quote": "Noi di Asso Sicurezza S.p.A distribuiamo prodotti per impianti tecnologici || una rete capillare di sedi operative || corsi di formazione e aggiornamento per installatori e professionisti del settore"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

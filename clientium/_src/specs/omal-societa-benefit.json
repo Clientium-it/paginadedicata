@@ -1,0 +1,28 @@
+{
+ "slug": "omal-societa-benefit",
+ "company": "OMAL S.p.A. Società Benefit",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "OMAL nasce nel 1981 da una famiglia di imprenditori specializzati nella produzione di valvole a sfera per i settori alimentare, chimico e navale. Qui trova come lavoriamo e cosa potremmo fare per OMAL S.p.A. Società Benefit.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OMAL S.p.A. Società Benefit.",
+ "evidence": [
+  {
+   "claim": "OMAL nasce nel 1981 da una famiglia di imprenditori specializzati nella produzione di valvole a sfera per i settori alimentare, chimico e navale.",
+   "url": "https://www.omal.com/en/company/about-us.html",
+   "quote": "OMAL was established in 1981 by a family of entrepreneurs specialised in the processing and production of ball valves. || Headquarters - Rodengo Saiano, Brescia - Italy Production Site - Passirano, Brescia - Italy || the food, chemical, pharmaceutical, power and energy, naval sectors"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

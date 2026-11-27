@@ -1,0 +1,28 @@
+{
+ "slug": "yachtline-arredomare-1618-2",
+ "company": "YACHTLINE ARREDOMARE 1618",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Yachtline produce arredi per mega e giga yacht e interni per dimore di prestigio, con una divisione refit a Genova. Qui trova come lavoriamo e cosa potremmo fare per YACHTLINE ARREDOMARE 1618.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per YACHTLINE ARREDOMARE 1618.",
+ "evidence": [
+  {
+   "claim": "Yachtline produce arredi per mega e giga yacht e interni per dimore di prestigio, con una divisione refit a Genova.",
+   "url": "https://www.yachtline1618.com/",
+   "quote": "nella produzione di arredi per mega e giga yachts e nella costruzione d’interni per dimore di prestigio e ville esclusive || Bientina - Headquarters READ MORE Lugnano - Site READ MORE Vicopisano - Site READ MORE Genova - Refit Division"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "sapa-2",
+ "company": "Sapa Group",
+ "first_name": "Erika",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Sapa è un gruppo italiano dello stampaggio a iniezione per l'automotive, con 13 stabilimenti in Italia e in Europa e oltre 2.300 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per Sapa Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Sapa Group.",
+ "evidence": [
+  {
+   "claim": "Sapa è un gruppo italiano dello stampaggio a iniezione per l'automotive, con 13 stabilimenti in Italia e in Europa e oltre 2.300 dipendenti.",
+   "url": "https://sapastaging.com/it/storia/",
+   "quote": "Oggi SAPA è un gruppo industriale italiano dedicato allo stampaggio ad iniezione per il settore automotive, con fornitura diretta ai maggiori Car Makers in Italia e all’estero. || con 13 stabilimenti in Italia e in Europa, oltre 2.300 dipendenti e 300 milioni di fatturato. || SAPA acquisisce Selmat e si espande nel settore dei veicoli industriali e delle auto di lusso."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

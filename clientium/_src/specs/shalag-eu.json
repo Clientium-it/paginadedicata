@@ -1,0 +1,28 @@
+{
+ "slug": "shalag-eu",
+ "company": "Shalag EU",
+ "first_name": "Alistair",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Shalag produce articoli in varie grammature da 9 a 140 grammi per i settori health care, home care e industriale, con sede a Chiesina Uzzanese. Qui trova come lavoriamo e cosa potremmo fare per Shalag EU.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Shalag EU.",
+ "evidence": [
+  {
+   "claim": "Shalag produce articoli in varie grammature da 9 a 140 grammi per i settori health care, home care e industriale, con sede a Chiesina Uzzanese.",
+   "url": "https://shalag.com/company/about-us/",
+   "quote": "Shalag manufactures a wide range of products, in a variety of basis weights; from as low as 9 gsm all the way to 140 gsm using many different types of fibers and technologies. || Shalag EU Spa Via Livornese di Sopra, 82 Chiesina Uzzanese 51013 (PT) ITALY Phone +39 0572 48041 || HEALTH CARE, HOME CARE, INDUSTRIAL"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

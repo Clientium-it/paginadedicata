@@ -1,0 +1,28 @@
+{
+ "slug": "patyka",
+ "company": "PATYKA",
+ "first_name": "Sandra",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Patyka crea cosmetici per la cura della pelle biologici e certificati B Corp, interamente prodotti in Francia. Qui trova come lavoriamo e cosa potremmo fare per PATYKA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PATYKA.",
+ "evidence": [
+  {
+   "claim": "Patyka crea cosmetici per la cura della pelle biologici e certificati B Corp, interamente prodotti in Francia.",
+   "url": "https://patyka.com/en-eu",
+   "quote": "Certified Organic & Technological Skincare B Corp Certified 100% Made in France"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

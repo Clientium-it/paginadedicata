@@ -1,0 +1,28 @@
+{
+ "slug": "costagroup",
+ "company": "COSTAGROUP",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Costagroup progetta e allestisce ristoranti, bar e locali con oltre 5.000 realizzazioni nel mondo, da una sede di 13.000 metri quadri a Riccò del Golfo. Qui trova come lavoriamo e cosa potremmo fare per COSTAGROUP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per COSTAGROUP.",
+ "evidence": [
+  {
+   "claim": "Costagroup progetta e allestisce ristoranti, bar e locali con oltre 5.000 realizzazioni nel mondo, da una sede di 13.000 metri quadri a Riccò del Golfo.",
+   "url": "https://costagroup.net/",
+   "quote": "vanta oltre 5.000 realizzazioni in tutto il Mondo e numerose collaborazioni con i più importanti brand del settore Food e Retail || L’azienda si sviluppa in 13.000 metri quadri immersi nel verde a Riccò del Golfo, in provincia di La Spezia || PROGETTIAMO E ALLESTIAMO RISTORANTI, PIZZERIE, BAR, PUB, ENOTECHE, FIERE ED EVENTI"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

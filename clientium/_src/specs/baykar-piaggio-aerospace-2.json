@@ -1,0 +1,28 @@
+{
+ "slug": "baykar-piaggio-aerospace-2",
+ "company": "BAYKAR PIAGGIO AEROSPACE",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Baykar Piaggio Aerospace, nata nel 1986, ha consegnato oltre 1000 droni, conta più di 9000 persone ed esporta in 41 paesi. Qui trova come lavoriamo e cosa potremmo fare per BAYKAR PIAGGIO AEROSPACE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per BAYKAR PIAGGIO AEROSPACE.",
+ "evidence": [
+  {
+   "claim": "Baykar Piaggio Aerospace, nata nel 1986, ha consegnato oltre 1000 droni, conta più di 9000 persone ed esporta in 41 paesi.",
+   "url": "https://baykartech.com/en",
+   "quote": "1986 YEAR FOUNDED 41 EXPORT COUNTRIES 1000+ UAVS DELIVERED 9000+ EMPLOYEES"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

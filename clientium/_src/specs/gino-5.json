@@ -1,0 +1,28 @@
+{
+ "slug": "gino-5",
+ "company": "Gino",
+ "first_name": "Gaetano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gino vende automobili da oltre 65 anni con più di 20 marchi e 15 sedi tra Piemonte, Liguria, Toscana e Lombardia. Qui trova come lavoriamo e cosa potremmo fare per Gino.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gino.",
+ "evidence": [
+  {
+   "claim": "Gino vende automobili da oltre 65 anni con più di 20 marchi e 15 sedi tra Piemonte, Liguria, Toscana e Lombardia.",
+   "url": "https://www.ginospa.com/pagina/chi-siamo/",
+   "quote": "65+ ANNI DI STORIA con competenza e passione per l'automobile. 20+ BRAND concessionari ufficiali dei migliori marchi automobilistici. 15+ SEDI in Piemonte, Liguria, Toscana e Lombardia. || 19 Risultati CONCESSIONARIA Cuneo Via Torino 234 12100 CUNEO || capace di accompagnare privati e aziende in ogni fase"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

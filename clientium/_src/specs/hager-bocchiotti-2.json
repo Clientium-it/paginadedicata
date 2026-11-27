@@ -1,0 +1,28 @@
+{
+ "slug": "hager-bocchiotti-2",
+ "company": "Hager Bocchiotti",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hager Bocchiotti realizza quadri di distribuzione fino a 160 A e quadri di distribuzione secondaria fino a 630 A. Qui trova come lavoriamo e cosa potremmo fare per Hager Bocchiotti.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Hager Bocchiotti.",
+ "evidence": [
+  {
+   "claim": "Hager Bocchiotti realizza quadri di distribuzione fino a 160 A e quadri di distribuzione secondaria fino a 630 A.",
+   "url": "https://hager.com/it",
+   "quote": "Quadri di distribuzione fino a 160 A vegaD Quadri di distribuzione secondaria fino a 630 A quadro 4 quadro 5"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

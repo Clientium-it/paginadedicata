@@ -1,0 +1,28 @@
+{
+ "slug": "scuola-di-sci-rideem",
+ "company": "Scuola di Sci Ride’em",
+ "first_name": "Margherita",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ride'em è una scuola di sci a Breuil Cervinia con lezioni di sci, snowboard, freeride, freestyle e telemark e insegnamento per persone con disabilità. Qui trova come lavoriamo e cosa potremmo fare per Scuola di Sci Ride’em.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Scuola di Sci Ride’em.",
+ "evidence": [
+  {
+   "claim": "Ride'em è una scuola di sci a Breuil Cervinia con lezioni di sci, snowboard, freeride, freestyle e telemark e insegnamento per persone con disabilità.",
+   "url": "https://www.ride-em.com/",
+   "quote": "LEZIONI SCI SNOWBOARD FREERIDE / FREESTYLE / TELEMARK / EXPLORE ZERMATT REBELS INSEGNAMENTO PER PERSONE CON DISABILITÀ TARIFFE ASSICURAZIONE SNOWCARE LESSONS NOLEGGIO SCI TEAM CONTATTI || Via Meynet, 3 11021 Breuil-Cervinia (AO)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "ghelfi-ondulati-2",
+ "company": "Ghelfi Ondulati",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ghelfi Ondulati produce cartone per logistica, retail, alimentare e industria con 202 dipendenti e 91 milioni di metri quadri l'anno. Qui trova come lavoriamo e cosa potremmo fare per Ghelfi Ondulati.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ghelfi Ondulati.",
+ "evidence": [
+  {
+   "claim": "Ghelfi Ondulati produce cartone per logistica, retail, alimentare e industria con 202 dipendenti e 91 milioni di metri quadri l'anno.",
+   "url": "https://ghelfiondulati.com/it/chi-siamo/azienda",
+   "quote": "202 dipendenti, 91 milioni di metri quadri di cartone prodotto all'anno, 36.000 metri quadri di stabilimenti e 112 milioni di euro di fatturato. || 36.000 metri quadri di stabilimenti e 112 milioni di euro di fatturato || rispondere alle esigenze di diversi settori, dalla logistica al retail, dall’alimentare all’industria."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

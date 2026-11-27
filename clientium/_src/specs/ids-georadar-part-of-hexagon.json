@@ -1,0 +1,28 @@
+{
+ "slug": "ids-georadar-part-of-hexagon",
+ "company": "IDS GeoRadar (Part of Hexagon)",
+ "first_name": "Sergio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IDS GeoRadar produce da trent'anni radar e georadar per applicazioni geofisiche, minerarie, di ingegneria civile e sicurezza, da Ospedaletto a Pisa. Qui trova come lavoriamo e cosa potremmo fare per IDS GeoRadar (Part of Hexagon).",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IDS GeoRadar (Part of Hexagon).",
+ "evidence": [
+  {
+   "claim": "IDS GeoRadar produce da trent'anni radar e georadar per applicazioni geofisiche, minerarie, di ingegneria civile e sicurezza, da Ospedaletto a Pisa.",
+   "url": "https://idsgeoradar.com/about-us/career",
+   "quote": "30 years of experience make IDS GeoRadar a leading manufacturer of Ground Penetrating Radar (GPR), Interferometric Radar and Radar technologies for geophysical applications technologies. || IDS GeoRadar s.r.l. Human Resources Via Augusto Righi, 6, 6A, 8 56121 Ospedaletto, Pisa, Italy || IDS GeoRadar provides products and solutions for Geophysical, Mining, Civil Engineering and Security applications."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

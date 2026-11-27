@@ -1,0 +1,28 @@
+{
+ "slug": "nital-2",
+ "company": "Nital",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nital importa tecnologia, innovazione e nuove tendenze per proporle al mercato, dal polo industriale di Moncalieri, vicino a Torino. Qui trova come lavoriamo e cosa potremmo fare per Nital.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Nital.",
+ "evidence": [
+  {
+   "claim": "Nital importa tecnologia, innovazione e nuove tendenze per proporle al mercato, dal polo industriale di Moncalieri, vicino a Torino.",
+   "url": "https://www.nital.it/profilo/index.php",
+   "quote": "La nostra mission è quello di importare conoscenza, tecnologia, lifestyle, innovazione, nuove tendenze, di interpretarle e di proporle al mercato, magari prima degli altri. || La nostra azienda si trova nel polo industriale e hi-tech di Moncalieri, a due passi da Torino, in un edificio moderno e tecnologico."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

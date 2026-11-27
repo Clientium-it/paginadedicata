@@ -1,0 +1,28 @@
+{
+ "slug": "yamaha-music-europe",
+ "company": "Yamaha Music Europe",
+ "first_name": "Wouter",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Yamaha Music Europe conta 760 collaboratori in Europa e gestisce 600 scuole di musica con circa 40.000 studenti iscritti. Qui trova come lavoriamo e cosa potremmo fare per Yamaha Music Europe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Yamaha Music Europe.",
+ "evidence": [
+  {
+   "claim": "Yamaha Music Europe conta 760 collaboratori in Europa e gestisce 600 scuole di musica con circa 40.000 studenti iscritti.",
+   "url": "https://it.yamaha.com/it/about-yamaha/corporate/",
+   "quote": "Number of employees: 307 in Rellingen, 760 incl. Branches in Europe (as of Nov. 2016) || Administration of 18 European Country Web Sites in 14 Languages || Yamaha Music Schools (600 schools in Europe; about 40.000 enrolled students)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

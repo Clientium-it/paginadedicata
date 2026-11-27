@@ -1,0 +1,28 @@
+{
+ "slug": "songwon-industrial-4",
+ "company": "SONGWON Industrial Group",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SONGWON è il secondo produttore al mondo di stabilizzanti per polimeri e offre un'ampia gamma di prodotti chimici speciali per molti settori industriali. Qui trova come lavoriamo e cosa potremmo fare per SONGWON Industrial Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SONGWON Industrial Group.",
+ "evidence": [
+  {
+   "claim": "SONGWON è il secondo produttore al mondo di stabilizzanti per polimeri e offre un'ampia gamma di prodotti chimici speciali per molti settori industriali.",
+   "url": "https://songwon.com/",
+   "quote": "SONGWON, the second largest manufacturer & supplier of polymer stabilizers in the world, offers a very broad range of specialty chemicals. || including the packaging, automotive, building & construction, agriculture, textiles and fibers, coatings, adhesives, durable & consumer goods, lubricants, and electric and electronic industries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

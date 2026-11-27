@@ -1,0 +1,28 @@
+{
+ "slug": "poliplast-2",
+ "company": "Poliplast",
+ "first_name": "Patrizia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Poliplast da oltre 50 anni fornisce a grossisti e ricambisti paraurti e componenti di carrozzeria adattabili per veicoli commerciali e industriali, da Albiate e Verano. Qui trova come lavoriamo e cosa potremmo fare per Poliplast.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Poliplast.",
+ "evidence": [
+  {
+   "claim": "Poliplast da oltre 50 anni fornisce a grossisti e ricambisti paraurti e componenti di carrozzeria adattabili per veicoli commerciali e industriali, da Albiate e Verano.",
+   "url": "https://poliplastsrl.it/it/",
+   "quote": "Da oltre 50 anni siamo il punto di riferimento di grossisti e ricambisti per la fornitura di paraurti e componenti di carrozzeria adattabili , per veicoli commerciali ed industriali || Gli stabilimenti produttivi per i ricambi in plastica e poliuretano di Poliplast si trovano ad Albiate e a Verano , entrambi in provincia di Monza-Brianza || siamo il punto di riferimento di grossisti e ricambisti per la fornitura di paraurti e componenti di carrozzeria adattabili"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

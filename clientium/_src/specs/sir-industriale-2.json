@@ -1,0 +1,28 @@
+{
+ "slug": "sir-industriale-2",
+ "company": "SIR INDUSTRIALE",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SIR Industriale è un'azienda italiana a conduzione familiare che opera nell'industria chimica da oltre 90 anni, con sede a Macherio. Qui trova come lavoriamo e cosa potremmo fare per SIR INDUSTRIALE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SIR INDUSTRIALE.",
+ "evidence": [
+  {
+   "claim": "SIR Industriale è un'azienda italiana a conduzione familiare che opera nell'industria chimica da oltre 90 anni, con sede a Macherio.",
+   "url": "https://sirindustriale.com/",
+   "quote": "è un’azienda italiana a conduzione familiare che ha lasciato un segno indelebile nell’industria chimica da oltre 90 anni || Headquarter (Macherio) Via Bellini 35 20846 Macherio (MB)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}
