@@ -1,0 +1,25 @@
+{
+ "slug": "edilizia-san-giorgio",
+ "company": "Edilizia San Giorgio",
+ "first": "",
+ "revenue_m": 10.373455,
+ "fact": "Edilizia San Giorgio costruisce nuovi edifici e restaura immobili, con attestazione SOA in OG1 dal 2002 e negli anni anche in OG2, OG3, OS6, OS7, OS28 e OS30",
+ "idea": "Con tante categorie in gara, immagino che una parte importante del tempo dell'ufficio tecnico vada nel ribattere a mano i computi dai PDF",
+ "evidence": [
+  {
+   "claim": "costruisce nuovi edifici e restaura immobili",
+   "url": "https://www.ediliziasangiorgio.it/",
+   "quote": "E’ specializzata nella costruzione di nuovi edifici, nella manutenzione e restauro di beni immobili."
+  },
+  {
+   "claim": "SOA OG1 dal 2002 e poi OG2, OS28, OS30, OG3, OS6, OS7",
+   "url": "https://www.ediliziasangiorgio.it/",
+   "quote": "Nel 2002 ottiene l’Attestazione SOA nella categoria OG1, e durante il corso degli anni anche nelle categorie OG2, OS28, OS30, OG3, OS6 e OS7."
+  },
+  {
+   "claim": "fatturato ultimo bilancio 10.373.455 euro, ATECO 41.20.00, Reggello",
+   "url": "https://data.clientium.it (camerale, P.IVA da Datium)",
+   "quote": "revenue 10373455"
+  }
+ ]
+}
