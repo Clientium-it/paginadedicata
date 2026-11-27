@@ -1,0 +1,28 @@
+{
+ "slug": "farina-2",
+ "company": "Gruppo Farina",
+ "first_name": "Domenico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gruppo Farina conta oltre 300 collaboratori e 100mila mq tra showroom e centri assistenza automotive a Napoli, Caserta e Benevento. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Farina.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Farina.",
+ "evidence": [
+  {
+   "claim": "Gruppo Farina conta oltre 300 collaboratori e 100mila mq tra showroom e centri assistenza automotive a Napoli, Caserta e Benevento.",
+   "url": "https://www.gruppofarina.com/chi-siamo/",
+   "quote": "Oggi, con oltre 300 collaboratori e 100mila mq dedicati a showroom e centri assistenza, siamo una delle principali realtà automotive del sud Italia. || Siamo a Napoli, Caserta e Benevento || Nasce per soddisfare le necessità aziendali, offrendo una vasta gamma di veicoli commerciali e soluzioni su misura per le imprese."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

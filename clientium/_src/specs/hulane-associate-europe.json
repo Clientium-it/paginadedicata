@@ -1,0 +1,28 @@
+{
+ "slug": "hulane-associate-europe",
+ "company": "HULANE Associate Inc. Europe",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Hulane collabora con i principali produttori automobilistici e i fornitori Tier 1 tra Asia, Europa e Nord America. Qui trova come lavoriamo e cosa potremmo fare per HULANE Associate Inc. Europe.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per HULANE Associate Inc. Europe.",
+ "evidence": [
+  {
+   "claim": "Hulane collabora con i principali produttori automobilistici e i fornitori Tier 1 tra Asia, Europa e Nord America.",
+   "url": "https://www.hulane.com/hulane-profile",
+   "quote": "we collaborate with the world’s top automotive manufacturers and Tier 1 suppliers across Asia, Europe, and North America || Hulane Headquarters (Taipei) R&D Hulane (Dongguan) R&D Hulane Puguang (Dongguan) Hulane (Nanjing) R&D Shang Ho Electrics (Jiaxing) Hulane (Hong Kong) Hulane (Vietnam) Hulane (Indonesia) Hulane (Europe) || the world’s top automotive manufacturers and Tier 1 suppliers"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

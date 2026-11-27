@@ -1,0 +1,28 @@
+{
+ "slug": "lindner-recyclingtech",
+ "company": "Lindner Recyclingtech",
+ "first_name": "Simone",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lindner produce in Austria su 14.000 m² trituratori fissi e mobili e sistemi completi per il riciclo di plastica e legno. Qui trova come lavoriamo e cosa potremmo fare per Lindner Recyclingtech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lindner Recyclingtech.",
+ "evidence": [
+  {
+   "claim": "Lindner produce in Austria su 14.000 m² trituratori fissi e mobili e sistemi completi per il riciclo di plastica e legno.",
+   "url": "https://www.lindner.com/company",
+   "quote": "The Lindner product portfolio ranges from stationary and mobile shredders for waste management through to complete systems for plastics and waste wood recycling and the production of SRF/RDF fuels. || On a total of 14,000 m², we still produce in Austria – on state-of-the-art production facilities using the latest robotics and automation technology."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

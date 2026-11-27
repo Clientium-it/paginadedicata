@@ -1,0 +1,28 @@
+{
+ "slug": "spyker-cars",
+ "company": "Spyker Cars",
+ "first_name": "Victor",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Spyker costruisce a mano hyper car, con una storia che va dalle carrozze reali alle corse di durata, con sede nei Paesi Bassi. Qui trova come lavoriamo e cosa potremmo fare per Spyker Cars.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Spyker Cars.",
+ "evidence": [
+  {
+   "claim": "Spyker costruisce a mano hyper car, con una storia che va dalle carrozze reali alle corse di durata, con sede nei Paesi Bassi.",
+   "url": "https://spykercars.com/",
+   "quote": "From royal carriages and early aviation to endurance racing and hand-built hyper cars, Spyker's history has always been shaped by more than one discipline. || Spyker HQ Frankfurtstraat 36, 1175 RH Lijnden, The Netherlands"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

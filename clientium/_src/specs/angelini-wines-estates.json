@@ -1,0 +1,28 @@
+{
+ "slug": "angelini-wines-estates",
+ "company": "Angelini Wines & Estates",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Angelini Wines riunisce cantine come Bertani, Val di Suga, Fazi Battaglia e Puiatti tra Valpolicella, Montalcino, Castelli di Jesi e Isonzo. Qui trova come lavoriamo e cosa potremmo fare per Angelini Wines & Estates.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Angelini Wines & Estates.",
+ "evidence": [
+  {
+   "claim": "Angelini Wines riunisce cantine come Bertani, Val di Suga, Fazi Battaglia e Puiatti tra Valpolicella, Montalcino, Castelli di Jesi e Isonzo.",
+   "url": "https://www.angeliniwinesandestates.com/",
+   "quote": "Bertani Val di Suga Tenuta Trerose San Leonino Fazi Battaglia Tenute San Sisto Cantina Puiatti || Valpolicella Montalcino Montepulciano Castelli di Jesi Castellina in Chianti Romans d'Isonzo"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

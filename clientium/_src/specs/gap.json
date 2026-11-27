@@ -1,0 +1,28 @@
+{
+ "slug": "gap",
+ "company": "GAP",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gruppo Piantoni offre servizi, tecnologie e risorse umane alle acciaierie e alle aziende siderurgiche, a Sovere in provincia di Bergamo. Qui trova come lavoriamo e cosa potremmo fare per GAP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per GAP.",
+ "evidence": [
+  {
+   "claim": "Gruppo Piantoni offre servizi, tecnologie e risorse umane alle acciaierie e alle aziende siderurgiche, a Sovere in provincia di Bergamo.",
+   "url": "https://gruppopiantoni70.it/",
+   "quote": "GAP Servizi integrati per le acciaierie: risorse umane e tecnologiche per il mondo della siderurgia || Via Carducci, 47 – 24060 Sovere (BG) || Offriamo servizi, tecnologie e risorse alle aziende siderurgiche."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

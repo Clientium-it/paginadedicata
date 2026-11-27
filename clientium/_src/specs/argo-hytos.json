@@ -1,0 +1,28 @@
+{
+ "slug": "argo-hytos",
+ "company": "ARGO-HYTOS",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ARGO-HYTOS sviluppa soluzioni idrauliche per macchine agricole e da costruzione, con oltre 75 anni di esperienza e più di 1.000 dipendenti. Qui trova come lavoriamo e cosa potremmo fare per ARGO-HYTOS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ARGO-HYTOS.",
+ "evidence": [
+  {
+   "claim": "ARGO-HYTOS sviluppa soluzioni idrauliche per macchine agricole e da costruzione, con oltre 75 anni di esperienza e più di 1.000 dipendenti.",
+   "url": "https://www.argo-hytos.com/en/",
+   "quote": "With over 1,000 employees and more than 75 years of experience in Fluid Motion Control and Filtration, we set new standards || We have a global presence with production facilities in Germany, the Czech Republic, India, China, Poland, and the United States, as well as numerous in-house sales subsidiaries worldwide. || innovative hydraulic solutions for the agricultural and construction machinery industry as well as general mechanical engineering"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

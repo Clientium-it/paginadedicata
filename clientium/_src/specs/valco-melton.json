@@ -1,0 +1,28 @@
+{
+ "slug": "valco-melton",
+ "company": "Valco Melton",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Valco Melton aiuta a produrre, confezionare, sigillare e controllare prodotti dalle scatole di cartone ai farmaci, presente in oltre 96 sedi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Valco Melton.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Valco Melton.",
+ "evidence": [
+  {
+   "claim": "Valco Melton aiuta a produrre, confezionare, sigillare e controllare prodotti dalle scatole di cartone ai farmaci, presente in oltre 96 sedi nel mondo.",
+   "url": "https://www.valcomelton.com/en/about",
+   "quote": "We help our partners manufacture, package, seal, and inspect a wide variety of products ranging from corrugated boxes to cartons, bags, books, paper towels, pharmaceuticals, and more. || Valco Melton maintains a presence in more than 96 locations worldwide. || Our customer base spans nearly every major industry: corrugated, packaging, envelope, folding carton, print finishing, nonwovens, tissue, automotive, textiles, and bag manufacturing, among others."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

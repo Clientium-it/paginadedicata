@@ -1,0 +1,28 @@
+{
+ "slug": "fiaip",
+ "company": "FIAIP",
+ "first_name": "Gianluca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FIAIP, fondata nel 1976, riunisce oltre 10.000 agenti immobiliari e più di 15.000 agenzie con una presenza capillare su tutto il territorio nazionale. Qui trova come lavoriamo e cosa potremmo fare per FIAIP.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FIAIP.",
+ "evidence": [
+  {
+   "claim": "FIAIP, fondata nel 1976, riunisce oltre 10.000 agenti immobiliari e più di 15.000 agenzie con una presenza capillare su tutto il territorio nazionale.",
+   "url": "https://www.fiaip.it/chi-siamo/",
+   "quote": "Fondata nel 1976, la FIAIP celebra oggi cinquant’anni di storia al servizio della professione e del Paese. || Con oltre 10.000 agenti immobiliari, più di 15.000 agenzie e una presenza capillare su tutto il territorio nazionale attraverso strutture regionali e provinciali, FIAIP rappresenta la più ampia e organizzata rete di professionisti del real estate in Italia. || oltre 10.000 agenti immobiliari, più di 15.000 agenzie"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

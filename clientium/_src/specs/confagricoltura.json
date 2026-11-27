@@ -1,0 +1,28 @@
+{
+ "slug": "confagricoltura",
+ "company": "Confagricoltura",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Confagricoltura riunisce oltre 200.000 imprese agricole in tutta Italia con Federazioni regionali, Unioni provinciali e oltre 2.200 uffici sul territorio. Qui trova come lavoriamo e cosa potremmo fare per Confagricoltura.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Confagricoltura.",
+ "evidence": [
+  {
+   "claim": "Confagricoltura riunisce oltre 200.000 imprese agricole in tutta Italia con Federazioni regionali, Unioni provinciali e oltre 2.200 uffici sul territorio.",
+   "url": "https://www.confagricoltura.it/ita/confagricoltura/chi-siamo",
+   "quote": "La Confederazione in cifre Oltre 200.000 imprese agricole Circa 64 milioni di giornate lavoro || Confagricoltura è presente in modo capillare su tutto il territorio nazionale , attraverso le Federazioni regionali (in tutte le Regioni), le Unioni provincia li (in tutte le province) gli Uffici zona e le Delegazioni comunali (oltre 2.200 uffici)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

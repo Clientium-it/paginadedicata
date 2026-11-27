@@ -1,0 +1,28 @@
+{
+ "slug": "podium-advanced-technologies",
+ "company": "Podium Advanced Technologies",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Podium Advanced Technologies sviluppa e produce sistemi di batterie ad alte prestazioni e soluzioni automotive per il motorsport e i mercati di nicchia. Qui trova come lavoriamo e cosa potremmo fare per Podium Advanced Technologies.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Podium Advanced Technologies.",
+ "evidence": [
+  {
+   "claim": "Podium Advanced Technologies sviluppa e produce sistemi di batterie ad alte prestazioni e soluzioni automotive per il motorsport e i mercati di nicchia.",
+   "url": "https://www.podium-tech.com/",
+   "quote": "A pioneering company in the development and manufacturing of high-performance battery systems and automotive solutions for motorsport and niche markets || Podium Advanced Technologies Inaugurates the New PODIUM CAMPUS FOR INNOVATION IN MANUFACTURING AND ENGINEERING in Pont-Saint-Martin"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

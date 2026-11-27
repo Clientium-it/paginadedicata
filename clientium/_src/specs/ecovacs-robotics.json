@@ -1,0 +1,28 @@
+{
+ "slug": "ecovacs-robotics",
+ "company": "ECOVACS ROBOTICS",
+ "first_name": "Elisa",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ecovacs produce robot per la pulizia della casa, delle finestre, del prato e della piscina, presenti in 180 Paesi e regioni. Qui trova come lavoriamo e cosa potremmo fare per ECOVACS ROBOTICS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ECOVACS ROBOTICS.",
+ "evidence": [
+  {
+   "claim": "Ecovacs produce robot per la pulizia della casa, delle finestre, del prato e della piscina, presenti in 180 Paesi e regioni.",
+   "url": "https://www.ecovacs.com/de/about-ecovacs",
+   "quote": "DEEBOT Intelligente Roboterreinigung fÃ¼r mehr Komfort im Alltag WINBOT Der weltweit fÃ¼hrende Fensterputzroboter GOAT Der ultimative freihndige Mihroboter ULTRAMARINE Millionen vertrauen uns, jetzt auch in Ihrem Pool || Suzhou, China Seattle, USA Tokio, Japan San Francisco, USA Neuss, Deutschland DÃ¼sseldorf, Deutschland Hongkong, China Singapur 180 Linder & Regionen"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

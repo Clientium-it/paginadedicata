@@ -1,0 +1,28 @@
+{
+ "slug": "fervo",
+ "company": "Gruppo Fervo",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gruppo Fervo lavora sulla transizione sostenibile e digitale degli asset immobiliari per real estate, logistica e retail, con 5 sedi in Italia. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Fervo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Fervo.",
+ "evidence": [
+  {
+   "claim": "Gruppo Fervo lavora sulla transizione sostenibile e digitale degli asset immobiliari per real estate, logistica e retail, con 5 sedi in Italia.",
+   "url": "https://www.fervogroup.eu/",
+   "quote": "attivo nella transizione sostenibile e digitale degli asset immobiliari , con l’obiettivo di guidarli verso un futuro Net Zero Carbon || 5 sedi in Italia + 1 office in Middle East || Settori Real Estate Logistica e trasporti GDO e Retail Assicurativo e finanziario Chimico-farmaceutico"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

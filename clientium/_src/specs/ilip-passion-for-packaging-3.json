@@ -1,0 +1,28 @@
+{
+ "slug": "ilip-passion-for-packaging-3",
+ "company": "ILIP S.r.l. Passion for packaging",
+ "first_name": "Jessica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ILIP da oltre 60 anni sviluppa soluzioni d'imballaggio per alimenti in plastica termoformata e bioplastica per GDO, ristorazione e industria agroalimentare. Qui trova come lavoriamo e cosa potremmo fare per ILIP S.r.l. Passion for packaging.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ILIP S.r.l. Passion for packaging.",
+ "evidence": [
+  {
+   "claim": "ILIP da oltre 60 anni sviluppa soluzioni d'imballaggio per alimenti in plastica termoformata e bioplastica per GDO, ristorazione e industria agroalimentare.",
+   "url": "https://www.ilip.it/",
+   "quote": "In ILIP, da oltre 60 anni, sviluppiamo soluzioni d’imballaggio per alimenti in plastica termoformata e in bioplastica, in grado di donare valore ai prodotti dei clienti e di migliorare l’esperienza del consumatore finale. || Oggi il Gruppo ILPA serve oltre 4.000 clienti B2B in più di 58 paesi in tutto il mondo. || Sviluppiamo e mettiamo a disposizione della GDO, della ristorazione moderna e degli specialisti del settore ortofrutticolo e dell’industria agroalimentare, soluzioni d’imballaggio innovative realizzate in plastica termoformata, R-PET e bioplastica."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

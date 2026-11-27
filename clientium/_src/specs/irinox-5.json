@@ -1,0 +1,28 @@
+{
+ "slug": "irinox-5",
+ "company": "IRINOX",
+ "first_name": "Marijana",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Irinox dal 1989 produce abbattitori rapidi di temperatura per ristorazione e pasticceria, progettati e costruiti in Italia negli stabilimenti di Conegliano e Vittorio Veneto. Qui trova come lavoriamo e cosa potremmo fare per IRINOX.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IRINOX.",
+ "evidence": [
+  {
+   "claim": "Irinox dal 1989 produce abbattitori rapidi di temperatura per ristorazione e pasticceria, progettati e costruiti in Italia negli stabilimenti di Conegliano e Vittorio Veneto.",
+   "url": "https://www.irinoxhome.com/it/chi-siamo",
+   "quote": "Abbiamo esordito nel mercato nel 1989, con la fondazione di Irinox per la produzione dei primi abbattitori rapidi di temperatura per la ristorazione e la pasticceria || progettati e costruiti totalmente in Italia nei nostri stabilimenti di Conegliano e Vittorio Veneto (Treviso) || i nostri iconici abbattitori rapidi di temperatura si trovano nelle più rinomate cucine, pasticcerie e centri di produzione alimentare nel mondo"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

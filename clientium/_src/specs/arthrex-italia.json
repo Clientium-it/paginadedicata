@@ -1,0 +1,28 @@
+{
+ "slug": "arthrex-italia",
+ "company": "Arthrex Italia",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Arthrex produce e distribuisce dispositivi medicali in più di 100 Paesi, con la casa madre in Florida e 25 filiali nei cinque continenti. Qui trova come lavoriamo e cosa potremmo fare per Arthrex Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Arthrex Italia.",
+ "evidence": [
+  {
+   "claim": "Arthrex produce e distribuisce dispositivi medicali in più di 100 Paesi, con la casa madre in Florida e 25 filiali nei cinque continenti.",
+   "url": "https://www.arthrex.it/",
+   "quote": "Arthrex produce e distribuisce dispositivi medicali in più di 100 Paesi nel mondo. || La casa madre si trova nel sud-ovest della Florida ma Arthrex vanta la sua presenza nei cinque continenti con ben 25 subsidiaries."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

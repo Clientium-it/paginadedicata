@@ -1,0 +1,28 @@
+{
+ "slug": "mikai",
+ "company": "Mikai",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mikai opera da quasi 50 anni nel biomedicale con prodotti per la traumatologia e la correzione dei segmenti ossei, tra Genova e Vicenza. Qui trova come lavoriamo e cosa potremmo fare per Mikai.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mikai.",
+ "evidence": [
+  {
+   "claim": "Mikai opera da quasi 50 anni nel biomedicale con prodotti per la traumatologia e la correzione dei segmenti ossei, tra Genova e Vicenza.",
+   "url": "https://www.mikai.it/chi-siamo/",
+   "quote": "Mikai opera da quasi 50 anni nel settore biomedicale realizzando e commercializzando prodotti per la traumatologia, sintesi e correzione dei segmenti ossei e delle articolazioni || Distribuite nelle sedi di Genova e Vicenza."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

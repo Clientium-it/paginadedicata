@@ -1,0 +1,28 @@
+{
+ "slug": "prodeval",
+ "company": "PRODEVAL",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Prodeval da 30 anni progetta e realizza impianti per produrre e distribuire biometano, presente in 20 paesi con 7 filiali. Qui trova come lavoriamo e cosa potremmo fare per PRODEVAL.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PRODEVAL.",
+ "evidence": [
+  {
+   "claim": "Prodeval da 30 anni progetta e realizza impianti per produrre e distribuire biometano, presente in 20 paesi con 7 filiali.",
+   "url": "https://www.prodeval.com/",
+   "quote": "Depuis 30 ans, PRODEVAL développe une expertise reconnue dans l’ingénierie et la réalisation de projets liés à la production et à la distribution de biométhane. || 20 Pays et 7 filiales"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

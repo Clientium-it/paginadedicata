@@ -1,0 +1,28 @@
+{
+ "slug": "lohmann-co-kg",
+ "company": "Lohmann GmbH & Co. KG",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Lohmann sviluppa tecnologie di incollaggio da 175 anni, con 22 sedi in 18 paesi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Lohmann GmbH & Co. KG.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Lohmann GmbH & Co. KG.",
+ "evidence": [
+  {
+   "claim": "Lohmann sviluppa tecnologie di incollaggio da 175 anni, con 22 sedi in 18 paesi nel mondo.",
+   "url": "https://lohmann-tapes.com/facts-and-figures",
+   "quote": "building on the company's 175 years as a global visionary in bonding technology || 22 Sites in 18 countries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

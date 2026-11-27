@@ -1,0 +1,28 @@
+{
+ "slug": "inventis-audiology-balance",
+ "company": "INVENTIS • Audiology & Balance",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Inventis produce strumenti per l'audiologia come otoscopi e sistemi di misurazione e opera da Padova con sedi in Nord America e Francia. Qui trova come lavoriamo e cosa potremmo fare per INVENTIS • Audiology & Balance.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per INVENTIS • Audiology & Balance.",
+ "evidence": [
+  {
+   "claim": "Inventis produce strumenti per l'audiologia come otoscopi e sistemi di misurazione e opera da Padova con sedi in Nord America e Francia.",
+   "url": "https://inventis.it/it-it/prodotti/fitting",
+   "quote": "Il portafoglio Inventis include una gamma completa di strumenti dedicati al fitting audioprotesico: il video otoscopio, il sistema per misurazioni in situ (REM), la camera di test per apparecchi acustici || Via Austria, 38 35127 Padova Tel.: +39.049.8962.844 North America Inventis North America Inc. 379 CHENEY HWY #268 Titusville FL, 32780 Toll free: +1.844.683.6847 France Synapsys sas 2 rue Marc Donadille Hôtel Technoptic 13013 Marseille || Soluzioni Otorinolaringoiatra Audioprotesista Vestibologo Medico del lavoro Pediatra"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

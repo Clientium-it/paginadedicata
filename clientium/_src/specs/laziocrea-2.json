@@ -1,0 +1,28 @@
+{
+ "slug": "laziocrea-2",
+ "company": "LAZIOcrea",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "LAZIOcrea affianca la Regione Lazio nelle attività tecniche e amministrative e offre servizi tecnologici per cittadini e imprese da Roma. Qui trova come lavoriamo e cosa potremmo fare per LAZIOcrea.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per LAZIOcrea.",
+ "evidence": [
+  {
+   "claim": "LAZIOcrea affianca la Regione Lazio nelle attività tecniche e amministrative e offre servizi tecnologici per cittadini e imprese da Roma.",
+   "url": "https://www.laziocrea.it/missione-aziendale/",
+   "quote": "affianca la Regione Lazio nelle attività tecnico-amministrative, offrendo servizi di gestione ed organizzazione delle attività di interesse regionale || Sede legale: Via Anagnina, 203 00118 – ROMA (RM) || per offrire servizi ad alto contenuto tecnologico per cittadini ed imprese"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

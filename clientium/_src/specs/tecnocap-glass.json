@@ -1,0 +1,28 @@
+{
+ "slug": "tecnocap-glass",
+ "company": "tecnocap glass",
+ "first_name": "Tonya",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tecnocap sviluppa e produce chiusure metalliche, bottiglie in alluminio e bombole aerosol per food, cosmetica, pharma e vino con sede a Cava de' Tirreni. Qui trova come lavoriamo e cosa potremmo fare per tecnocap glass.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per tecnocap glass.",
+ "evidence": [
+  {
+   "claim": "Tecnocap sviluppa e produce chiusure metalliche, bottiglie in alluminio e bombole aerosol per food, cosmetica, pharma e vino con sede a Cava de' Tirreni.",
+   "url": "https://www.tecnocapclosures.com/packaging-products/",
+   "quote": "Tecnocap Group develops and manufactures highly functional, attractive and reliable Metal Closures, Aluminum Bottles and Aerosol Cans || ITALY – Headquarters Cava de' Tirreni (Salerno) Main Phone: +39 089 441522 Email: request info » view on Googlemaps CZECH REPUBLIC Strmilov - Jindrichuv Hradec || Food & Beverage Cosmetics & Personal Care Pharma & Nutraceuticals Candles Wine & Spirits"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

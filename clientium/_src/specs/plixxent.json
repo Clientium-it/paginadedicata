@@ -1,0 +1,28 @@
+{
+ "slug": "plixxent",
+ "company": "PLIXXENT",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Plixxent lavora con le proprie case di sistema per settori come automotive, costruzioni, elastomeri e imballaggio flessibile in diversi paesi europei. Qui trova come lavoriamo e cosa potremmo fare per PLIXXENT.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per PLIXXENT.",
+ "evidence": [
+  {
+   "claim": "Plixxent lavora con le proprie case di sistema per settori come automotive, costruzioni, elastomeri e imballaggio flessibile in diversi paesi europei.",
+   "url": "https://plixxent.com/",
+   "quote": "With our seven system houses we combine individual skills, knowledge and experience while being close to you. || Belgium Czech Republic Denmark Finland France Germany Greece Italy Latvia Poland Romania Spain Sweden The Netherlands United Kingdom || Automotive Construction Diversified Industries Elastomers Flexible Packaging Footwear Furniture & Comfort Sports & Leisure Technical Insulation Transportation"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

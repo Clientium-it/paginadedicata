@@ -1,0 +1,28 @@
+{
+ "slug": "f-lli-veroni-fu-angelo-2",
+ "company": "F.lli Veroni fu Angelo",
+ "first_name": "Tommaso",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Veroni dal 1925 produce salumi italiani con sette stabilimenti e un centro di affettamento negli Stati Uniti, dove opera insieme all'Europa. Qui trova come lavoriamo e cosa potremmo fare per F.lli Veroni fu Angelo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per F.lli Veroni fu Angelo.",
+ "evidence": [
+  {
+   "claim": "Veroni dal 1925 produce salumi italiani con sette stabilimenti e un centro di affettamento negli Stati Uniti, dove opera insieme all'Europa.",
+   "url": "https://www.veroni.it/azienda/",
+   "quote": "del nostro gruppo, nato nel 1925. Da un’idea di cinque fratelli siamo diventati una realtà globale che opera nei principali Paesi europei e negli Stati Uniti, dove per primi abbiamo iniziato a importare salumi 100% Made in Italy. || Veroni è strutturata in quattro società controllate, sette stabilimenti produttivi — ognuno con la propria specializzazione — e un centro di affettamento negli Stati Uniti."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

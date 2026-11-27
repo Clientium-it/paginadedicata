@@ -1,0 +1,28 @@
+{
+ "slug": "birra-menabrea",
+ "company": "Birra Menabrea",
+ "first_name": "Stefano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Birra Menabrea produce birra a Biella da generazioni, sempre fedele alla sua ricetta tradizionale. Qui trova come lavoriamo e cosa potremmo fare per Birra Menabrea.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Birra Menabrea.",
+ "evidence": [
+  {
+   "claim": "Birra Menabrea produce birra a Biella da generazioni, sempre fedele alla sua ricetta tradizionale.",
+   "url": "https://birramenabrea.com/it/",
+   "quote": "Birra Menabrea è prodotta a Biella, ai piedi delle Alpi. Generazione dopo generazione, il nostro birrificio è sempre rimasto nel cuore della città, fedele alla ricetta tradizionale e alla qualità italiana. || INDIRIZZO: VIA RAMELLA GERMANIN N.4 13900 BIELLA (BI) ITALIA"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

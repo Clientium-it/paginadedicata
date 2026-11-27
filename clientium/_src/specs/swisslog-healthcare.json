@@ -1,0 +1,28 @@
+{
+ "slug": "swisslog-healthcare",
+ "company": "Swisslog Healthcare",
+ "first_name": "Paola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Swisslog Healthcare supporta gli ospedali con processi di stoccaggio e trasporto lungo la filiera della gestione dei farmaci. Qui trova come lavoriamo e cosa potremmo fare per Swisslog Healthcare.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Swisslog Healthcare.",
+ "evidence": [
+  {
+   "claim": "Swisslog Healthcare supporta gli ospedali con processi di stoccaggio e trasporto lungo la filiera della gestione dei farmaci.",
+   "url": "https://www.swisslog-healthcare.com/",
+   "quote": "Swisslog Healthcare ist als einziger Anbieter in der Lage, Lagerungs- und Transportprozesse entlang der Versorgungskette des Medikamentenmanagements aus einer Hand anzubieten. || Wir unterstützen Krankenhäuser bei der schnellen und zuverlässigen Einleitung von Therapien"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

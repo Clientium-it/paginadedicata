@@ -1,0 +1,28 @@
+{
+ "slug": "cisa",
+ "company": "Cisa Group",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cisa produce dal 1947 autoclavi di sterilizzazione in 2 siti tra Italia e Brasile, per laboratori, centri di ricerca e aziende farmaceutiche. Qui trova come lavoriamo e cosa potremmo fare per Cisa Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cisa Group.",
+ "evidence": [
+  {
+   "claim": "Cisa produce dal 1947 autoclavi di sterilizzazione in 2 siti tra Italia e Brasile, per laboratori, centri di ricerca e aziende farmaceutiche.",
+   "url": "https://cisagroup.it/about/",
+   "quote": "Fondata nel 1947, Cisa è stata una delle prime aziende a sviluppare le autoclavi di sterilizzazione in Italia. || 2 siti produttivi Italia e Brasile 1 sede commerciale negli Stati Uniti 140 distributori nel mondo per un’assistenza continua || Le apparecchiature Cisa Life Science sono progettate per laboratori scientifici , centri di ricerca e aziende farmaceutiche"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

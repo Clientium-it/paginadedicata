@@ -1,0 +1,28 @@
+{
+ "slug": "a-celli-nonwovens-2",
+ "company": "A. Celli Nonwovens",
+ "first_name": "Nicoletta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "A. Celli sviluppa da decenni soluzioni tecnologiche per gli impianti del settore nonwoven, con assistenza H24 in tutto il mondo, da Porcari, vicino a Lucca. Qui trova come lavoriamo e cosa potremmo fare per A. Celli Nonwovens.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per A. Celli Nonwovens.",
+ "evidence": [
+  {
+   "claim": "A. Celli sviluppa da decenni soluzioni tecnologiche per gli impianti del settore nonwoven, con assistenza H24 in tutto il mondo, da Porcari, vicino a Lucca.",
+   "url": "https://acelli.it/",
+   "quote": "Thanks to our decades of experience in the nonwoven industry, we specialize in developing cutting-edge technological solutions for any type of plant. To this we add worldwide H24 after-sales service to meet any of our customers' needs. || Via Romana Ovest 252, 55016 Porcari, Lucca - VAT 00249350463, Share Capital €500,000.00, REA n. LU 582236 || products for hygienic, medical, industrial and civil use"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

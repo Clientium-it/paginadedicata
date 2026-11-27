@@ -1,0 +1,28 @@
+{
+ "slug": "dubhe-mec-diesel-fino-al-31-12-23",
+ "company": "Dubhe srl (Mec-Diesel srl fino al 31.12.23)",
+ "first_name": "Tatiana",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dubhe fornisce a ricambisti e rettifiche prodotti a marchio proprio e di terzi, con esperienza a Torino dal 1983 e a Bologna dal 1969. Qui trova come lavoriamo e cosa potremmo fare per Dubhe srl (Mec-Diesel srl fino al 31.12.23).",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dubhe srl (Mec-Diesel srl fino al 31.12.23).",
+ "evidence": [
+  {
+   "claim": "Dubhe fornisce a ricambisti e rettifiche prodotti a marchio proprio e di terzi, con esperienza a Torino dal 1983 e a Bologna dal 1969.",
+   "url": "https://www.dubhegroup.com/it/chi-siamo",
+   "quote": "Dubhe fornisce un'ampia gamma di prodotti, sia a marchio proprio sia di terzi, sfruttando l'esperienza tecnica e produttiva sviluppata a Torino dal 1983 e a Bologna dal 1969, due città simbolo dell'industria automobilistica italiana. || Depositi e filiali rappresentano dei punti strategici per offrire al cliente disponibilità immediata e un servizio logistico rapido. || ricambisti e rettifiche possono effettuare ordini rapidi e in autonomia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "onis-visa-generating-sets",
+ "company": "ONIS VISA® Generating Sets",
+ "first_name": "Misha",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Visa produce dal 1960 gruppi elettrogeni con oltre 5.500 unità annue distribuite in più di 100 Paesi. Qui trova come lavoriamo e cosa potremmo fare per ONIS VISA® Generating Sets.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ONIS VISA® Generating Sets.",
+ "evidence": [
+  {
+   "claim": "Visa produce dal 1960 gruppi elettrogeni con oltre 5.500 unità annue distribuite in più di 100 Paesi.",
+   "url": "https://www.visa.it/",
+   "quote": "Visa SpA , fondata nel 1960, si posiziona tra i principali produttori italiani di gruppi elettrogeni con una capacità produttiva di oltre 5.500 unità annue distribuite in più di 100 Paesi . || Via I Maggio, 55 31043 Fontanelle (TV) ITALY || I gruppi elettrogeni ONIS VISA assicurano continuità di servizio per ospedali, centri commerciali e data center"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

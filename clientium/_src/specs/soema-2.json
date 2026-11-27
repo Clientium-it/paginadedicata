@@ -1,0 +1,28 @@
+{
+ "slug": "soema-2",
+ "company": "Soema",
+ "first_name": "Luigi",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Soema da oltre 35 anni progetta e realizza spazi igienici ad alta frequentazione e spogliatoi, assemblando la maggior parte dei prodotti negli stabilimenti di Recanati. Qui trova come lavoriamo e cosa potremmo fare per Soema.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Soema.",
+ "evidence": [
+  {
+   "claim": "Soema da oltre 35 anni progetta e realizza spazi igienici ad alta frequentazione e spogliatoi, assemblando la maggior parte dei prodotti negli stabilimenti di Recanati.",
+   "url": "https://soema.it/azienda/",
+   "quote": "Da oltre 35 anni, fa ricerca, progetta e realizza spazi igienici ad alta frequentazione e spogliatoi fornendo le più alte competenze specialistiche || assemblando negli stabilimenti di Recanati la maggioranza dei prodotti a catalogo || Aeroporti Aree di Servizio Centri Commerciali Industrie Sanità Scuole Stazioni Strutture Ricettive Centri Sportivi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

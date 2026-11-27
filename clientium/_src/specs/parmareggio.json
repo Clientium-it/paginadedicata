@@ -1,0 +1,28 @@
+{
+ "slug": "parmareggio",
+ "company": "Parmareggio",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Parmareggio nasce nel 1983 a Montecavolo di Quattro Castella sulle colline reggiane nella zona d'origine del Parmigiano Reggiano con sede a Modena. Qui trova come lavoriamo e cosa potremmo fare per Parmareggio.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Parmareggio.",
+ "evidence": [
+  {
+   "claim": "Parmareggio nasce nel 1983 a Montecavolo di Quattro Castella sulle colline reggiane nella zona d'origine del Parmigiano Reggiano con sede a Modena.",
+   "url": "https://parmareggio.it/valori",
+   "quote": "l’azienda nata nel 1983 a Montecavolo di Quattro Castella tra le colline reggiane nella zona d’origine del Parmigiano Reggiano || Sede legale, amministrativa, stabilimento e uffici commerciali: Via Polonia, 30-33 - 41122 Modena – Tel. 059.414711 | Stabilimento produttivo di Montecavolo di Quattro Castella (Re) - Via Togliatti, 34AB - Tel. 059.414711"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

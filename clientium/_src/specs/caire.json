@@ -1,0 +1,28 @@
+{
+ "slug": "caire",
+ "company": "CAIRE",
+ "first_name": "Matteo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "CAIRE da oltre 50 anni sviluppa apparecchiature per l'ossigenoterapia per assistenza domiciliare, hospice, ospedali, ambito militare e applicazioni industriali. Qui trova come lavoriamo e cosa potremmo fare per CAIRE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per CAIRE.",
+ "evidence": [
+  {
+   "claim": "CAIRE da oltre 50 anni sviluppa apparecchiature per l'ossigenoterapia per assistenza domiciliare, hospice, ospedali, ambito militare e applicazioni industriali.",
+   "url": "https://www.caireinc.com/corporate-home-page/about-us/",
+   "quote": "For more than 50 years, CAIRE has developed and perfected oxygen delivery equipment critical to supporting and improving all aspects of life. || home care, hospice, long-term care, hospitals, military and key industrial applications"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

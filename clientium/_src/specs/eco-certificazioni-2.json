@@ -1,0 +1,28 @@
+{
+ "slug": "eco-certificazioni-2",
+ "company": "ECO Certificazioni",
+ "first_name": "Filippo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ECO Certificazioni verifica prodotti, sistemi di gestione, impianti, installazioni e automotive, con sedi in tutta Italia e uffici a Londra, Dubai e Luoyang. Qui trova come lavoriamo e cosa potremmo fare per ECO Certificazioni.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ECO Certificazioni.",
+ "evidence": [
+  {
+   "claim": "ECO Certificazioni verifica prodotti, sistemi di gestione, impianti, installazioni e automotive, con sedi in tutta Italia e uffici a Londra, Dubai e Luoyang.",
+   "url": "https://www.eco-cert.it/chi-siamo/",
+   "quote": "Lavoriamo su prodotti, sistemi di gestione (qualità, ambiente, sicurezza e parità di genere), impianti, installazioni e automotive, mettendo a disposizione anche i nostri laboratori di prova. || Con sedi in tutta Italia e uffici internazionali a Londra, Dubai e Luoyang (Cina) , siamo al fianco delle aziende in ogni mercato, con soluzioni concrete e relazioni autentiche. || Accertiamo la conformità e la sicurezza dei veicoli e la loro idoneità al mercato per costruttori e fornitori."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

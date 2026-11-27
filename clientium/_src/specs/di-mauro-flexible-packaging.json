@@ -1,0 +1,28 @@
+{
+ "slug": "di-mauro-flexible-packaging",
+ "company": "Di Mauro Group flexible packaging",
+ "first_name": "Veronica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Di Mauro Group ha più di 125 anni di storia e 4 generazioni alle spalle, con due siti produttivi e uffici commerciali internazionali. Qui trova come lavoriamo e cosa potremmo fare per Di Mauro Group flexible packaging.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Di Mauro Group flexible packaging.",
+ "evidence": [
+  {
+   "claim": "Di Mauro Group ha più di 125 anni di storia e 4 generazioni alle spalle, con due siti produttivi e uffici commerciali internazionali.",
+   "url": "https://www.dimauroflexiblepackaging.it/azienda-new/",
+   "quote": "Più di 125 anni di storia, 4 generazioni e un profondo legame con il territorio. || Due siti produttivi e sales offices internazionali che lavorano con un unico obiettivo comune"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

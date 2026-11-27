@@ -1,0 +1,28 @@
+{
+ "slug": "martex-2",
+ "company": "Martex",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Martex realizza prodotti certificati FSC con materiali da foreste gestite responsabilmente e collabora con architetti e progettisti. Qui trova come lavoriamo e cosa potremmo fare per Martex.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Martex.",
+ "evidence": [
+  {
+   "claim": "Martex realizza prodotti certificati FSC con materiali da foreste gestite responsabilmente e collabora con architetti e progettisti.",
+   "url": "https://www.martex.it/about-us/",
+   "quote": "Martex is also FSC® certified (FSC® C174701): upon request, we manufacture products using materials sourced from responsibly managed forests, with respect for the environment, people and resources. || Via Sagree, 19 - 33080 Prata di Pordenone (PN) | tel. +39 0434 602310 || we work together: with architects, designers and companies, in a continuous exchange of ideas and solutions"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

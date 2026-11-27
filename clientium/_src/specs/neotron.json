@@ -1,0 +1,28 @@
+{
+ "slug": "neotron",
+ "company": "Neotron",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Neotron dal 1975 esegue test chimici, biochimici, microbiologici e sensoriali in oltre 10.000 m2 di laboratori riuniti in un'unica sede. Qui trova come lavoriamo e cosa potremmo fare per Neotron.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Neotron.",
+ "evidence": [
+  {
+   "claim": "Neotron dal 1975 esegue test chimici, biochimici, microbiologici e sensoriali in oltre 10.000 m2 di laboratori riuniti in un'unica sede.",
+   "url": "https://www.neotron.it/it/chi-siamo",
+   "quote": "Fondata nel 1975, oggi l'azienda vanta 50 anni di esperienza nel campo dei test chimici, biochimici, microbiologici e sensoriali e fornisce un supporto tecnico di altissimo livello. || Una delle più importanti caratteristiche di Neotron è di avere tutti i suoi dipartimenti localizzati in un'unica sede operativa, che sviluppa complessivamente oltre 10.000 m2 di laboratori"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

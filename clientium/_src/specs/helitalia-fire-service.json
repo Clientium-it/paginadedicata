@@ -1,0 +1,28 @@
+{
+ "slug": "helitalia-fire-service",
+ "company": "Helitalia Fire Service",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Helitalia Fire Service progetta, costruisce e gestisce eliporti, helideck e aeroporti su misura per clienti pubblici e privati. Qui trova come lavoriamo e cosa potremmo fare per Helitalia Fire Service.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Helitalia Fire Service.",
+ "evidence": [
+  {
+   "claim": "Helitalia Fire Service progetta, costruisce e gestisce eliporti, helideck e aeroporti su misura per clienti pubblici e privati.",
+   "url": "https://www.helitaliafireservice.it/",
+   "quote": "Helitalia Fire Service è il partner di riferimento nella progettazione, costruzione e gestione di eliporti, helideck e aeroporti. Realizziamo infrastrutture su misura || Helitalia Fire Service è il partner ideale per un'ampia gamma di clienti, sia enti pubblici che privati"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

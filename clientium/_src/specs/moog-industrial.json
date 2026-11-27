@@ -1,0 +1,28 @@
+{
+ "slug": "moog-industrial",
+ "company": "Moog Industrial",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Moog progetta e produce sistemi di controllo del movimento per i settori aerospaziale, della difesa, industriale e medicale. Qui trova come lavoriamo e cosa potremmo fare per Moog Industrial.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Moog Industrial.",
+ "evidence": [
+  {
+   "claim": "Moog progetta e produce sistemi di controllo del movimento per i settori aerospaziale, della difesa, industriale e medicale.",
+   "url": "https://www.moog.com/about-us.html",
+   "quote": "design and manufacture the most advanced motion control products for aerospace, defense, industrial, and medical applications || design and manufacture the most advanced motion control products for aerospace, defense, industrial, and medical applications"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

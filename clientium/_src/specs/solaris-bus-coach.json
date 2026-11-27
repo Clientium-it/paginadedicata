@@ -1,0 +1,28 @@
+{
+ "slug": "solaris-bus-coach",
+ "company": "Solaris Bus & Coach",
+ "first_name": "Fabrizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Solaris Bus & Coach conta 25 anni di esperienza e oltre 27.000 veicoli prodotti per il trasporto urbano di centinaia di città in Europa. Qui trova come lavoriamo e cosa potremmo fare per Solaris Bus & Coach.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Solaris Bus & Coach.",
+ "evidence": [
+  {
+   "claim": "Solaris Bus & Coach conta 25 anni di esperienza e oltre 27.000 veicoli prodotti per il trasporto urbano di centinaia di città in Europa.",
+   "url": "https://www.solarisbus.com/it/azienda/profilo-aziendale",
+   "quote": "Avvalendosi di 25 anni di esperienza e avendo prodotto più di 27.000 veicoli, Solaris influisce ogni giorno sulla qualità del trasporto urbano in centinaia di città in tutta Europa || Solaris Bus & Coach sp. z o.o. Sede centrale Obornicka 46 Bolechowo-Osiedle 62-005 Owińska Polonia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

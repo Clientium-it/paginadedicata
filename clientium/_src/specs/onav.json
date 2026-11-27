@@ -1,0 +1,28 @@
+{
+ "slug": "onav",
+ "company": "ONAV",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ONAV forma assaggiatori e sommelier con un percorso in tre livelli, attraverso le sezioni territoriali in tutta Italia e corsi per principianti, appassionati e professionisti. Qui trova come lavoriamo e cosa potremmo fare per ONAV.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ONAV.",
+ "evidence": [
+  {
+   "claim": "ONAV forma assaggiatori e sommelier con un percorso in tre livelli, attraverso le sezioni territoriali in tutta Italia e corsi per principianti, appassionati e professionisti.",
+   "url": "https://onav.it/",
+   "quote": "Un percorso didattico in tre livelli per diventare Assaggiatore e Sommelier ONAV , attraverso le nostre Sezioni Territoriali diffuse su tutto il territorio nazionale. || Sede Legale: Piazza Medici 8, 14100 Asti (AT) Sede Operativa: Piazza Santa Maria Nuova 5, 14100 Asti (AT) || Corsi per principianti, appassionati e professionisti."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

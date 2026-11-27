@@ -1,0 +1,28 @@
+{
+ "slug": "siteco",
+ "company": "SITECO",
+ "first_name": "Frederic",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Siteco da oltre 160 anni sviluppa e produce soluzioni di illuminazione per industria, uffici, città, retail e gallerie. Qui trova come lavoriamo e cosa potremmo fare per SITECO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SITECO.",
+ "evidence": [
+  {
+   "claim": "Siteco da oltre 160 anni sviluppa e produce soluzioni di illuminazione per industria, uffici, città, retail e gallerie.",
+   "url": "https://www.siteco.com/company",
+   "quote": "For more than 160 years, we develop and manufacture pioneering lighting solutions setting new standards in efficiency and sustainability || Our headquarter in Traunreut covers an area of about 12 football pitches, from the Technology and Design Center to the production and our own luminaire test road, all in one place || Our holistic lighting solutions. For every application. Industry Office City Retail Sport & Event Tunnel"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

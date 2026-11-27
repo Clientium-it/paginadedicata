@@ -1,0 +1,28 @@
+{
+ "slug": "jdentalcare",
+ "company": "JDentalCare",
+ "first_name": "Giacomo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "JDentalCare produce impianti dentali a Modena, con prodotti certificati in più di 80 paesi su tutti e 5 i continenti. Qui trova come lavoriamo e cosa potremmo fare per JDentalCare.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per JDentalCare.",
+ "evidence": [
+  {
+   "claim": "JDentalCare produce impianti dentali a Modena, con prodotti certificati in più di 80 paesi su tutti e 5 i continenti.",
+   "url": "https://jdentalcare.com/",
+   "quote": "JDentalCare è un'azienda italiana leader globale nella produzione di impianti dentali, con sede a Modena || I prodotti JDentalCare sono certificati in più di 80 paesi nel mondo, dislocati in tutti i 5 continenti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

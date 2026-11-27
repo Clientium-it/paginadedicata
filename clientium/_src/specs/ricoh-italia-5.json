@@ -1,0 +1,28 @@
+{
+ "slug": "ricoh-italia-5",
+ "company": "Ricoh Italia",
+ "first_name": "Salvatore",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ricoh Italia sviluppa e integra tecnologie per le organizzazioni, con una presenza capillare su tutto il territorio nazionale, utili a stampatori e centri stampa aziendali. Qui trova come lavoriamo e cosa potremmo fare per Ricoh Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ricoh Italia.",
+ "evidence": [
+  {
+   "claim": "Ricoh Italia sviluppa e integra tecnologie per le organizzazioni, con una presenza capillare su tutto il territorio nazionale, utili a stampatori e centri stampa aziendali.",
+   "url": "https://www.ricoh.it/",
+   "quote": "Siamo specializzati nello sviluppo e nell'integrazione di tecnologie end-to-end che aiutano le organizzazioni a rispondere a stili di lavoro in continua evoluzione. || Garantiamo una presenza qualificata e capillare su tutto il territorio nazionale. || ideale per le esigenze di stampatori e centri stampa aziendali"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

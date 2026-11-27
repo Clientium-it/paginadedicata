@@ -1,0 +1,28 @@
+{
+ "slug": "parts",
+ "company": "Holding Parts",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Holding Parts, nata nel 2019, riunisce aziende della filiera dei ricambi automotive con tre business unit e cinque siti produttivi, tra cui filtri cabina. Qui trova come lavoriamo e cosa potremmo fare per Holding Parts.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Holding Parts.",
+ "evidence": [
+  {
+   "claim": "Holding Parts, nata nel 2019, riunisce aziende della filiera dei ricambi automotive con tre business unit e cinque siti produttivi, tra cui filtri cabina.",
+   "url": "https://holdingparts.com/",
+   "quote": "Il Progetto Holding Parts parte nel 2019 con l'obiettivo di aggregare eccellenze italiane operanti nella filiera dei ricambi e accessori per il settore automotive || Il Gruppo è articolato oggi in tre business unit e cinque siti produttivi per una governance più condivisa ed integrata tra le tre società del Gruppo. || affermato produttore di filtri cabina abitacolo per il settore agricolo, movimento terra, industria e difesa"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

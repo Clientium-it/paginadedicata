@@ -1,0 +1,28 @@
+{
+ "slug": "terrazza-setterose",
+ "company": "Terrazza Setterose",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Terrazza Setterose ospita eventi a Fossacesia, sull'Adriatico, con 25 camere dedicate agli invitati. Qui trova come lavoriamo e cosa potremmo fare per Terrazza Setterose.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Terrazza Setterose.",
+ "evidence": [
+  {
+   "claim": "Terrazza Setterose ospita eventi a Fossacesia, sull'Adriatico, con 25 camere dedicate agli invitati.",
+   "url": "https://terrazzasetterose.it/",
+   "quote": "A Fossacesia, sull'Adriatico, con 25 camere dedicate agli ospiti dell'evento. || Sì. Le 25 camere sono dedicate agli invitati degli eventi organizzati a Terrazza Setterose."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

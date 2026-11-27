@@ -1,0 +1,28 @@
+{
+ "slug": "ferrari-motors-2",
+ "company": "Ferrari Motors",
+ "first_name": "Glenn",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Ferrari Motors è una concessionaria di auto che vende nuovo e usato a Porto Mantovano. Qui trova come lavoriamo e cosa potremmo fare per Ferrari Motors.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Ferrari Motors.",
+ "evidence": [
+  {
+   "claim": "Ferrari Motors è una concessionaria di auto che vende nuovo e usato a Porto Mantovano.",
+   "url": "https://intergeanordest.it/",
+   "quote": "Concessionaria auto | Vendita nuovo e usato || Ferrari Motors Indirizzo: Via Europa 4/6, Porto Mantovano (MN) 46047"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

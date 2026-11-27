@@ -1,0 +1,28 @@
+{
+ "slug": "saer-elettropompe-2",
+ "company": "SAER ELETTROPOMPE",
+ "first_name": "Alessandro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "SAER Elettropompe dal 1951 produce a Guastalla l'intera gamma di elettropompe per agricoltura, settore civile, industriale, minerario, navale e offshore. Qui trova come lavoriamo e cosa potremmo fare per SAER ELETTROPOMPE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per SAER ELETTROPOMPE.",
+ "evidence": [
+  {
+   "claim": "SAER Elettropompe dal 1951 produce a Guastalla l'intera gamma di elettropompe per agricoltura, settore civile, industriale, minerario, navale e offshore.",
+   "url": "https://saerelettropompe.com/azienda/storia.html",
+   "quote": "SAER ELETTROPOMPE S.p.A., venne fondata da Carlo Favella nel 1951 a Guastalla, Reggio Emilia, dove tutt'ora produce l’intera gamma || Sede legale e amministrativa via Circonvallazione, 22 42016 Guastalla (RE) Italia || agricoltura, civile, industriale, minerario, navale e offshore"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "colombini",
+ "company": "Colombini Group",
+ "first_name": "Loris",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Colombini Group nel 2025 ha aperto 121 nuovi punti vendita, 74 in Italia e 47 all'estero, e punta a 290 store Febal Casa. Qui trova come lavoriamo e cosa potremmo fare per Colombini Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Colombini Group.",
+ "evidence": [
+  {
+   "claim": "Colombini Group nel 2025 ha aperto 121 nuovi punti vendita, 74 in Italia e 47 all'estero, e punta a 290 store Febal Casa.",
+   "url": "https://www.colombinigroup.com/tra-retail-e-mercati-esteri-colombini-group-lancia-il-progetto-ambassadortra-retail-e-mercati-esteri/",
+   "quote": "Nel 2025 il gruppo ha aperto 121 nuovi punti vendita, di cui 74 in Italia e 47 all’estero, e prevede di raggiungere quota 290 store Febal Casa entro l’anno || Strada Ca' Valentino, 124 47891 Rovereta di Falciano Repubblica di San Marino"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

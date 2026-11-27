@@ -1,0 +1,28 @@
+{
+ "slug": "xfusion-technologies",
+ "company": "xFusion Technologies",
+ "first_name": "Jimmy",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "XFusion serve oltre 10.000 clienti in più di 110 paesi nei settori telecomunicazioni, finanza, internet, trasporti ed energia, con sede a Singapore. Qui trova come lavoriamo e cosa potremmo fare per xFusion Technologies.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per xFusion Technologies.",
+ "evidence": [
+  {
+   "claim": "XFusion serve oltre 10.000 clienti in più di 110 paesi nei settori telecomunicazioni, finanza, internet, trasporti ed energia, con sede a Singapore.",
+   "url": "https://www.xfusion.com/en/about",
+   "quote": "enabled it to serve over 10,000 customers in more than 110 countries and regions, including the telecom, finance, internet, transportation, and energy sectors || Headquartered in Singapore, xFusion has a substantial global presence, including 8 research centers, 7 regional offices, and 6 Global Technical Assistance Centers (GTACs). || including the telecom, finance, internet, transportation, and energy sectors"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}
