@@ -1,0 +1,28 @@
+{
+ "slug": "nikken-italia",
+ "company": "NIKKEN ITALIA",
+ "first_name": "Gabriele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Nikken Italia serve piccole aziende manifatturiere, produttori OEM e fornitori di primo livello in settori come aerospaziale, medicale, motorsport ed energia da Seregno. Qui trova come lavoriamo e cosa potremmo fare per NIKKEN ITALIA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per NIKKEN ITALIA.",
+ "evidence": [
+  {
+   "claim": "Nikken Italia serve piccole aziende manifatturiere, produttori OEM e fornitori di primo livello in settori come aerospaziale, medicale, motorsport ed energia da Seregno.",
+   "url": "https://www.nikken-world.it/azienda",
+   "quote": "NIKKEN EUROPE è la sede europea di NIKKEN Kosakusho Works Limited, che opera in 3 continenti, con oltre 70 uffici in tutto il mondo. || NIKKEN Italia S.r.l Via Tevere, 22 20831 SEREGNO (MB) || piccole aziende manifatturiere, produttori di apparecchiature orginali (OEM) e fornitori di primo livello di diversi tipo di settori industriali, quali aerospaziale, medicale, motorsport, energia, oil and gas, stampisti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

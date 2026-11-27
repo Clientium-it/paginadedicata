@@ -1,0 +1,28 @@
+{
+ "slug": "arcaplanet",
+ "company": "Arcaplanet",
+ "first_name": "Giuseppe",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Arcaplanet ha acquisito Agri Zoo 2 rafforzando la propria presenza in Piemonte e Lombardia, con sede a Milano. Qui trova come lavoriamo e cosa potremmo fare per Arcaplanet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Arcaplanet.",
+ "evidence": [
+  {
+   "claim": "Arcaplanet ha acquisito Agri Zoo 2 rafforzando la propria presenza in Piemonte e Lombardia, con sede a Milano.",
+   "url": "https://arcaplanetgroup.com/",
+   "quote": "Arcaplanet acquisisce Agri Zoo 2 e rafforza la propria presenza in Piemonte e Lombardia || Via Roncaglia, 12, 20146-Milano (MI)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

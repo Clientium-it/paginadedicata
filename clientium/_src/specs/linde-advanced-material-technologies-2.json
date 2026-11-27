@@ -1,0 +1,28 @@
+{
+ "slug": "linde-advanced-material-technologies-2",
+ "company": "Linde Advanced Material Technologies",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Linde AMT offre prodotti e servizi per coating, elettronica e additive manufacturing, per settori come aerospazio, automotive ed energia. Qui trova come lavoriamo e cosa potremmo fare per Linde Advanced Material Technologies.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Linde Advanced Material Technologies.",
+ "evidence": [
+  {
+   "claim": "Linde AMT offre prodotti e servizi per coating, elettronica e additive manufacturing, per settori come aerospazio, automotive ed energia.",
+   "url": "https://www.linde-amt.com/",
+   "quote": "products and services for coatings, electronics and additive manufacturing used in diverse and demanding industries || Manufacturing, aerospace, automotive and energy are just a few of the sectors that trust our materials and processes"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

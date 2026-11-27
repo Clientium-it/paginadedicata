@@ -1,0 +1,28 @@
+{
+ "slug": "partesa-2",
+ "company": "Partesa",
+ "first_name": "Sathya",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Partesa distribuisce bevande per il canale horeca a oltre 40.000 tra bar, ristoranti e pizzerie. Qui trova come lavoriamo e cosa potremmo fare per Partesa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Partesa.",
+ "evidence": [
+  {
+   "claim": "Partesa distribuisce bevande per il canale horeca a oltre 40.000 tra bar, ristoranti e pizzerie.",
+   "url": "https://www.partesa.it/",
+   "quote": "specializzata nella vendita e distribuzione di bevande per il canale ho.re.ca. Con oltre 40.000 clienti che ogni giorno scelgono di affidarci la gestione delle loro forniture, non siamo solamente un ingrosso di bevande per bar , ristoranti e pizzerie || offriamo un supporto completo per la distribuzione di bevande per bar, ristoranti, pizzerie e il settore horeca"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "struers-aps",
+ "company": "Struers ApS",
+ "first_name": "Cosimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Struers si rivolge ai materialografi dei laboratori, con uffici in 24 paesi e rappresentanza in 60 nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Struers ApS.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Struers ApS.",
+ "evidence": [
+  {
+   "claim": "Struers si rivolge ai materialografi dei laboratori, con uffici in 24 paesi e rappresentanza in 60 nel mondo.",
+   "url": "https://www.struers.com/en",
+   "quote": "More than 27,000 professional materialographers receive our newsletter || Offices in 24 countries worldwide Representation in 60 countries worldwide || maintaining consistent preparation conditions across specimens and operators remains a challenge for many laboratories"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

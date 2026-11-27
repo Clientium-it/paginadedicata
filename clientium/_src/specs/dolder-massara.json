@@ -1,0 +1,28 @@
+{
+ "slug": "dolder-massara",
+ "company": "Dolder Massara",
+ "first_name": "Michele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dolder Massara dal 1898 affianca produttori di materie prime e trasformatori di plastica come partner, operando nei principali mercati europei. Qui trova come lavoriamo e cosa potremmo fare per Dolder Massara.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dolder Massara.",
+ "evidence": [
+  {
+   "claim": "Dolder Massara dal 1898 affianca produttori di materie prime e trasformatori di plastica come partner, operando nei principali mercati europei.",
+   "url": "https://dolder.com/plastics/",
+   "quote": "Since 1898, we have been delivering effective solutions to our customers and suppliers. As a modern company and strategic partner to raw material producers and plastics processors || We operate in the most important European markets, ensuring proximity and performance where it matters most. || raw material producers and plastics processors"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

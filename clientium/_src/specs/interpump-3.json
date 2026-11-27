@@ -1,0 +1,28 @@
+{
+ "slug": "interpump-3",
+ "company": "Interpump Group",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Interpump dal 1977 produce pompe ad alta e altissima pressione ed è presente in 36 Paesi con circa 130 società. Qui trova come lavoriamo e cosa potremmo fare per Interpump Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Interpump Group.",
+ "evidence": [
+  {
+   "claim": "Interpump dal 1977 produce pompe ad alta e altissima pressione ed è presente in 36 Paesi con circa 130 società.",
+   "url": "https://interpumpgroup.it/it/chi-siamo/profilo",
+   "quote": "Interpump Group, il principale produttore mondiale di pompe ad alta e altissima pressione, è stato fondato nel 1977 grazie all'ingegno e all'imprenditorialità di Fulvio Montipò. || ~ 130 Società 36 Paesi Oltre 9.000 Numero medio dipendenti || veicoli raccolta rifiuti, veicoli per antincendio, veicoli con gru, etc."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "riolo-palermo",
+ "company": "Gruppo Riolo Palermo",
+ "first_name": "Claudio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Il Gruppo Riolo offre vendita di auto nuove e usate, assistenza e manutenzione meccanica, e nel 2024 ha aperto una nuova sede Toyota a Trapani. Qui trova come lavoriamo e cosa potremmo fare per Gruppo Riolo Palermo.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo Riolo Palermo.",
+ "evidence": [
+  {
+   "claim": "Il Gruppo Riolo offre vendita di auto nuove e usate, assistenza e manutenzione meccanica, e nel 2024 ha aperto una nuova sede Toyota a Trapani.",
+   "url": "https://www.riolo.it/chi-siamo/",
+   "quote": "fornendo soluzioni di mobilità a 360 gradi , con servizi di vendita di auto nuove e usate, di assistenza, riparazione e manutenzione meccanica. || Nel 2024 viene inaugurata la nuova sede di Toyota R. Motors Trapani nella Concessionaria sita in Via Marsala 88, a Xitta."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

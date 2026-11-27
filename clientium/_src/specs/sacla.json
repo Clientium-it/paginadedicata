@@ -1,0 +1,28 @@
+{
+ "slug": "sacla",
+ "company": "Saclà",
+ "first_name": "Robin",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Saclà è un'azienda alimentare italiana a conduzione familiare, fondata nel 1939. Qui trova come lavoriamo e cosa potremmo fare per Saclà.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Saclà.",
+ "evidence": [
+  {
+   "claim": "Saclà è un'azienda alimentare italiana a conduzione familiare, fondata nel 1939.",
+   "url": "https://sacla.it/",
+   "quote": "F.lli Saclà è un'azienda alimentare italiana a conduzione familiare, fondata nel 1939."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

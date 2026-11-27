@@ -1,0 +1,28 @@
+{
+ "slug": "gualapack",
+ "company": "Gualapack",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Gualapack produce imballaggi flessibili, buste con beccuccio, laminati, tappi e linee di riempimento, con sede in Italia e stabilimenti in Europa, Americhe e Asia. Qui trova come lavoriamo e cosa potremmo fare per Gualapack.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gualapack.",
+ "evidence": [
+  {
+   "claim": "Gualapack produce imballaggi flessibili, buste con beccuccio, laminati, tappi e linee di riempimento, con sede in Italia e stabilimenti in Europa, Americhe e Asia.",
+   "url": "https://gualapack.com/a-global-company",
+   "quote": "Gualapack is a global leader in flexible packaging solutions, specializing in pre-made spouted pouches, laminates, caps, spouts, and filling lines || With headquarters in Italy and manufacturing sites across Europe, the Americas, and Asia || high-quality packaging for the food, cosmetic, pharmaceutical, home-care, and industrial sectors"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

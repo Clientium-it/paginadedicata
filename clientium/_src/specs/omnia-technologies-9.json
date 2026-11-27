@@ -1,0 +1,28 @@
+{
+ "slug": "omnia-technologies-9",
+ "company": "Omnia Technologies",
+ "first_name": "Giacomo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Omnia Technologies realizza soluzioni automatizzate per i settori beverage, food e life sciences con oltre 40 unità produttive e competenze made in Italy. Qui trova come lavoriamo e cosa potremmo fare per Omnia Technologies.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Omnia Technologies.",
+ "evidence": [
+  {
+   "claim": "Omnia Technologies realizza soluzioni automatizzate per i settori beverage, food e life sciences con oltre 40 unità produttive e competenze made in Italy.",
+   "url": "https://www.omniatechnologiesgroup.com/the-group/",
+   "quote": "Omnia Technologies is the global platform in automated solutions for the beverage, food and life sciences. || +40 Production Units Our Group combines the expertise of a pool of Made in Italy specialists. || we serve as technology leaders in the wine, spirits, beverages, food, dairy and pharma industry."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

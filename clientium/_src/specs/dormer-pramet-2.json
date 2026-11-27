@@ -1,0 +1,28 @@
+{
+ "slug": "dormer-pramet-2",
+ "company": "Dormer Pramet",
+ "first_name": "Vitale",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dormer Pramet ha oltre 100 anni di esperienza, 3 centri di produzione e 21 uffici commerciali, e serve oltre 100 paesi. Qui trova come lavoriamo e cosa potremmo fare per Dormer Pramet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Dormer Pramet.",
+ "evidence": [
+  {
+   "claim": "Dormer Pramet ha oltre 100 anni di esperienza, 3 centri di produzione e 21 uffici commerciali, e serve oltre 100 paesi.",
+   "url": "https://dormerpramet.com/uk-ie/it/about-us",
+   "quote": "con la possibilità di servire oltre 100 mercati dai nostri centri di distribuzione potenziati in tutto il mondo || 21 21 uffici commerciali 3 3 Centri di produzione globali 100 100 paesi 2K+ Oltre 2.000 dipendenti 100+ Oltre 100 anni di esperienza || Lavorando a stretto contatto con distributori e utenti finali, superiamo collettivamente le sfide per aiutare le aziende a crescere."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

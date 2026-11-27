@@ -1,0 +1,28 @@
+{
+ "slug": "multimedical",
+ "company": "Multimedical",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Multimedical dal 1984 produce dispositivi medici come pompe elastomeriche e aghi di Huber nello stabilimento di Viadana, per centri ospedalieri e società farmaceutiche. Qui trova come lavoriamo e cosa potremmo fare per Multimedical.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Multimedical.",
+ "evidence": [
+  {
+   "claim": "Multimedical dal 1984 produce dispositivi medici come pompe elastomeriche e aghi di Huber nello stabilimento di Viadana, per centri ospedalieri e società farmaceutiche.",
+   "url": "https://www.multimedical.it/",
+   "quote": "Dal 1984 produce direttamente dispositivi medici quali: Pompe elastomeriche a flusso fisso e variabile Dispositivi per Radiologia Set Dentale Aghi di Huber Aghi fistola Aghi per infusione Set per infusione endovenosa || La produzione dei dispositivi medici avviene nella sede e stabilimento di Viadana (Mantova), una località che dista circa 100 Km da Milano. || I dispositivi medici MULTIMEDICAL sono utilizzati in molti importanti Centri Ospedalieri italiani ed esteri. Fra i propri clienti vanta importanti Società Farmaceutiche italiane ed estere."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

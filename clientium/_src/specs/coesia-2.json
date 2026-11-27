@@ -1,0 +1,28 @@
+{
+ "slug": "coesia-2",
+ "company": "Coesia",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Coesia fornisce soluzioni ai produttori alimentari per confezionare ogni giorno i loro prodotti in modo sicuro e pratico. Qui trova come lavoriamo e cosa potremmo fare per Coesia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Coesia.",
+ "evidence": [
+  {
+   "claim": "Coesia fornisce soluzioni ai produttori alimentari per confezionare ogni giorno i loro prodotti in modo sicuro e pratico.",
+   "url": "https://www.coesia.com/en/industries/food",
+   "quote": "to provide reliable solutions to Food manufacturers so to ensure a wide range of products are available to consumers every day in convenient and safe packages || Food manufacturers"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

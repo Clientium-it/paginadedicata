@@ -1,0 +1,28 @@
+{
+ "slug": "ims-gear-se-co-kgaa",
+ "company": "IMS Gear SE & Co. KGaA",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IMS Gear produce tecnologia di ingranaggi e trasmissioni per clienti dell'automotive e di numerosi settori industriali. Qui trova come lavoriamo e cosa potremmo fare per IMS Gear SE & Co. KGaA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IMS Gear SE & Co. KGaA.",
+ "evidence": [
+  {
+   "claim": "IMS Gear produce tecnologia di ingranaggi e trasmissioni per clienti dell'automotive e di numerosi settori industriali.",
+   "url": "https://www.imsgear.com/",
+   "quote": "Als einer der weltweit führenden Hersteller von Zahnrad- und Getriebetechnik steht Voranbringen und Vorankommen für uns seit jeher im Fokus. || Unsere Kunden aus Automotive und zahlreichen industriellen Zukunftsbranchen setzen mit dem Namen IMS Gear auf verlässliche Lösungen und innovative Entwicklungen."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

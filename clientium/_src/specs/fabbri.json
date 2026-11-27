@@ -1,0 +1,28 @@
+{
+ "slug": "fabbri",
+ "company": "Fabbri Group",
+ "first_name": "Silvio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fabbri Group produce e vende macchine e film per il confezionamento alimentare, con 30.000 macchine installate e attività in più di 90 paesi. Qui trova come lavoriamo e cosa potremmo fare per Fabbri Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fabbri Group.",
+ "evidence": [
+  {
+   "claim": "Fabbri Group produce e vende macchine e film per il confezionamento alimentare, con 30.000 macchine installate e attività in più di 90 paesi.",
+   "url": "https://www.gruppofabbri.com/",
+   "quote": "Gruppo Fabbri è la realtà industriale internazionale leader nella produzione e vendita di macchine e film per il confezionamento alimentare || 25 Impianti di estrusione 9 Uffici di assistenza tecnica e commerciale diretta 30000 Macchine installate su scala mondiale 40 Più di 40 modelli di macchine 90 Attivo in più di 90 Paesi nel mondo || che rispondono alle esigenze di performance e sostenibilità espresse da Retail, Produttori e Industria"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

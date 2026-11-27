@@ -1,0 +1,28 @@
+{
+ "slug": "polimed",
+ "company": "Polimed",
+ "first_name": "Giovanni",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Polimed dal 1990 distribuisce dispositivi medici, apparecchiature e strumentario chirurgico agli ospedali di Piemonte e Valle d'Aosta, con circa 5.000 consegne l'anno. Qui trova come lavoriamo e cosa potremmo fare per Polimed.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Polimed.",
+ "evidence": [
+  {
+   "claim": "Polimed dal 1990 distribuisce dispositivi medici, apparecchiature e strumentario chirurgico agli ospedali di Piemonte e Valle d'Aosta, con circa 5.000 consegne l'anno.",
+   "url": "https://www.polimedsrl.com/it/chi-siamo/storia/",
+   "quote": "fondata nel 1990 quale impresa orientata allo sviluppo e alla distribuzione di dispositivi medici ad elevato contenuto tecnologico, apparecchiature medicali e strumentario chirurgico in ambito ospedaliero nelle regioni Piemonte e Valle D'Aosta || POLIMED trasferisce la propria sede di Morano sul Po all'attuale complesso di fabbricati in Casale Monferrato, Piazza Industria n.6, ove occupa 2000 mq coperti comprendenti uﬃci, magazzini, logistica e prima assistenza. || effettuiamo circa 5.000 consegne annue presso gli Ospedali e Cliniche della nostra zona di pertinenza"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

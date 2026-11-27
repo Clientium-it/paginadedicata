@@ -1,0 +1,28 @@
+{
+ "slug": "opacmare",
+ "company": "OPACMARE",
+ "first_name": "Paolo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Opacmare produce dal 1995 componenti e accessori per yacht e superyacht, in uno stabilimento di 40.000 metri quadrati a Rivalta. Qui trova come lavoriamo e cosa potremmo fare per OPACMARE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per OPACMARE.",
+ "evidence": [
+  {
+   "claim": "Opacmare produce dal 1995 componenti e accessori per yacht e superyacht, in uno stabilimento di 40.000 metri quadrati a Rivalta.",
+   "url": "https://www.opacmare.com/it/company",
+   "quote": "Opacmare opera nel mercato dei componenti e degli accessori per yacht e superyacht dal 1995. || 40.000 metri quadrati di stabilimento produttivo a Rivalta, totalmente ristrutturati con impianti di ultima generazione 4.0, in continuo sviluppo per aumentare la capacità produttiva e la qualità."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

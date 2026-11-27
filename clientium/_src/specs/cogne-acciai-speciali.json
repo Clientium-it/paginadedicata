@@ -1,0 +1,28 @@
+{
+ "slug": "cogne-acciai-speciali",
+ "company": "COGNE ACCIAI SPECIALI",
+ "first_name": "Andy",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Cogne Acciai Speciali lavora per i mercati Oil&Gas, Power Generation, Automotive e Aerospace, con sedi produttive in Italia e in diversi altri Paesi. Qui trova come lavoriamo e cosa potremmo fare per COGNE ACCIAI SPECIALI.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per COGNE ACCIAI SPECIALI.",
+ "evidence": [
+  {
+   "claim": "Cogne Acciai Speciali lavora per i mercati Oil&Gas, Power Generation, Automotive e Aerospace, con sedi produttive in Italia e in diversi altri Paesi.",
+   "url": "https://www.cogne.com/chi-siamo-cogne",
+   "quote": "consolidare la propria posizione sui mercati dell'Oil&Gas, Power Generation e dell'Automotive, nonché di acquisire nuove e importanti certificazioni che le hanno permesso di aprirsi all'importante mercato dell'Aerospace || Sedi Produttive CINA MESSICO FRANCIA REGNO UNITO GERMANIA SVEZIA ITALIA SVIZZERA U.S.A. Sedi di Distribuzione BRASILE GERMANIA CINA INDIA COREA ITALIA FRANCIA REGNO UNITO SINGAPORE SVEZIA TAILANDIA TURCHIA U.S.A. || consolidare la propria posizione sui mercati dell'Oil&Gas, Power Generation e dell'Automotive, nonché di acquisire nuove e importanti certificazioni che le hanno permesso di aprirsi all'importante mercato dell'Aerospace"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

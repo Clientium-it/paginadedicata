@@ -1,0 +1,28 @@
+{
+ "slug": "etro-4",
+ "company": "Etro",
+ "first_name": "Claudia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Etro è nata nel 1968 da una famiglia di collezionisti appassionati e custodisce un ricco archivio di tessuti costruito in oltre mezzo secolo. Qui trova come lavoriamo e cosa potremmo fare per Etro.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Etro.",
+ "evidence": [
+  {
+   "claim": "Etro è nata nel 1968 da una famiglia di collezionisti appassionati e custodisce un ricco archivio di tessuti costruito in oltre mezzo secolo.",
+   "url": "https://www.etro.com/de-de/about-us.html",
+   "quote": "Etro wurde 1968 von einer Familie leidenschaftlicher Sammler gegründet und verfügt über ein reichhaltiges Stoffarchiv - ein Zeugnis von mehr als einem halben Jahrhundert unermüdlichen Sammelns, dynamischer Kreativität, globaler Erkundung und vielseitiger Inspiration."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

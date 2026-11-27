@@ -1,0 +1,28 @@
+{
+ "slug": "james-walker",
+ "company": "James Walker",
+ "first_name": "Edoardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "James Walker realizza dal 1882 soluzioni di tenuta e serraggio per applicazioni industriali critiche, dal chimico al nucleare fino all'aerospazio e all'idrogeno. Qui trova come lavoriamo e cosa potremmo fare per James Walker.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per James Walker.",
+ "evidence": [
+  {
+   "claim": "James Walker realizza dal 1882 soluzioni di tenuta e serraggio per applicazioni industriali critiche, dal chimico al nucleare fino all'aerospazio e all'idrogeno.",
+   "url": "https://www.jameswalker.biz/",
+   "quote": "High performance sealing and bolting solutions Since 1882 When failure is not an option Products, materials, and expertise for critical industrial applications. || Biopharmaceutical Chemical & petrochemical Defence & aerospace Hydrogen Metallurgical Nuclear Power Paper & pulp"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

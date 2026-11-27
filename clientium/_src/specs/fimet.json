@@ -1,0 +1,28 @@
+{
+ "slug": "fimet",
+ "company": "Fimet",
+ "first_name": "Danilo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fimet produce motori elettrici asincroni trifase e riduttori di potenza e lavora con Francia, Belgio, Svizzera, Austria ed Egitto. Qui trova come lavoriamo e cosa potremmo fare per Fimet.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fimet.",
+ "evidence": [
+  {
+   "claim": "Fimet produce motori elettrici asincroni trifase e riduttori di potenza e lavora con Francia, Belgio, Svizzera, Austria ed Egitto.",
+   "url": "https://fimet.com/azienda/",
+   "quote": "la FIMET è specializzata nella produzione di motori elettrici asincroni trifase e riduttori di potenza || raggiungere il 50% del proprio fatturato e a instaurare rapporti commerciali con svariati paesi: Francia, Belgio, Svizzera, Austria e Egitto"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

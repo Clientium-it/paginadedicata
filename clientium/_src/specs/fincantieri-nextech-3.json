@@ -1,0 +1,28 @@
+{
+ "slug": "fincantieri-nextech-3",
+ "company": "Fincantieri NexTech",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fincantieri NexTech sviluppa con circa 900 professionisti soluzioni tecnologiche per il mercato civile e militare in ambito maritime, defence e digital. Qui trova come lavoriamo e cosa potremmo fare per Fincantieri NexTech.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fincantieri NexTech.",
+ "evidence": [
+  {
+   "claim": "Fincantieri NexTech sviluppa con circa 900 professionisti soluzioni tecnologiche per il mercato civile e militare in ambito maritime, defence e digital.",
+   "url": "https://www.fincantierinextech.com/chi-siamo/",
+   "quote": "Fincantieri NexTech , con circa 900 professionisti ed esperti, è specializzata nello sviluppo di soluzioni tecnologiche innovative in ambito Maritime , Defence , Unmanned & Underwater , LifeCycle Management e Digital || Sede Legale: Via Carlo Ottavio Cornaggia 10 - 20123 -Milano, Italia || fornisce soluzioni altamente specialistiche per il mercato civile e militare"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

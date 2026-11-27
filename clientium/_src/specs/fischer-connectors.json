@@ -1,0 +1,28 @@
+{
+ "slug": "fischer-connectors",
+ "company": "Fischer Connectors",
+ "first_name": "Fabio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fischer Connectors dal 1954 progetta e realizza soluzioni di interconnessione per gestire dati, segnali ed energia a livello locale, con ricerca e sviluppo in Svizzera. Qui trova come lavoriamo e cosa potremmo fare per Fischer Connectors.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Fischer Connectors.",
+ "evidence": [
+  {
+   "claim": "Fischer Connectors dal 1954 progetta e realizza soluzioni di interconnessione per gestire dati, segnali ed energia a livello locale, con ricerca e sviluppo in Svizzera.",
+   "url": "https://fischerconnectors.com/en/",
+   "quote": "Founded in 1954, Fischer Connectors designs, develops and deploys end-to-end interconnect solutions for ecosystems requiring local transfer and management of data, signals and power. || one Group R&D center located in Switzerland and supported by regional hubs, three main manufacturing sites and a network of partners"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "errebi",
+ "company": "Errebi",
+ "first_name": "Antonio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Errebi dal 1949 produce chiavi per serrature nel suo stabilimento di Cibiana, in provincia di Belluno. Qui trova come lavoriamo e cosa potremmo fare per Errebi.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Errebi.",
+ "evidence": [
+  {
+   "claim": "Errebi dal 1949 produce chiavi per serrature nel suo stabilimento di Cibiana, in provincia di Belluno.",
+   "url": "https://www.errebispa.com/it/azienda",
+   "quote": "Errebi è un'azienda che dal 1949 produce nello stabilimento di Cibiana (Belluno, Italia) chiavi per serrature."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

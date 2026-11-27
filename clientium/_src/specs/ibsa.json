@@ -1,0 +1,28 @@
+{
+ "slug": "ibsa",
+ "company": "IBSA Group",
+ "first_name": "Nicola",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "IBSA è una multinazionale farmaceutica svizzera fondata nel 1945 a Lugano, presente in oltre 90 Paesi con 20 filiali in Europa, Cina e Stati Uniti. Qui trova come lavoriamo e cosa potremmo fare per IBSA Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per IBSA Group.",
+ "evidence": [
+  {
+   "claim": "IBSA è una multinazionale farmaceutica svizzera fondata nel 1945 a Lugano, presente in oltre 90 Paesi con 20 filiali in Europa, Cina e Stati Uniti.",
+   "url": "https://www.ibsaitaly.it/",
+   "quote": "è una multinazionale farmaceutica svizzera fondata nel 1945 a Lugano || Oggi è presente con i suoi prodotti in oltre 90 Paesi in 5 continenti e ha 20 filiali in Europa, Cina e Stati Uniti."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

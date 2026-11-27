@@ -1,0 +1,28 @@
+{
+ "slug": "api",
+ "company": "Api",
+ "first_name": "Sergio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "API progetta, produce e posa pavimentazioni in resina sintetica per il settore navale e industriale, con sede a Mignanego. Qui trova come lavoriamo e cosa potremmo fare per Api.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Api.",
+ "evidence": [
+  {
+   "claim": "API progetta, produce e posa pavimentazioni in resina sintetica per il settore navale e industriale, con sede a Mignanego.",
+   "url": "https://www.apiresinfloors.com/chi-siamo",
+   "quote": "API è l’azienda manifatturiera leader nella progettazione, produzione e posa di pavimentazioni in resina sintetica per il settore navale e industriale. || Registered office : Milano (MI) L.go Donegani, 2 - 20121 Italy HQ : Mignanego (GE), via Trieste, 13 - 16018 Italy || Collaboriamo con le più celebri compagnie di navigazione, con i cantieri dove nascono le migliori navi da crociera, yachts e superyachts, con numerosi gruppi industriali di fama internazionale."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

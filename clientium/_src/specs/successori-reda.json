@@ -1,0 +1,28 @@
+{
+ "slug": "successori-reda",
+ "company": "Successori Reda",
+ "first_name": "Elena",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Reda seleziona lane dall'Australia e dalla Nuova Zelanda e realizza i tessuti in Italia coordinando l'intera filiera produttiva. Qui trova come lavoriamo e cosa potremmo fare per Successori Reda.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Successori Reda.",
+ "evidence": [
+  {
+   "claim": "Reda seleziona lane dall'Australia e dalla Nuova Zelanda e realizza i tessuti in Italia coordinando l'intera filiera produttiva.",
+   "url": "https://grupporeda.factorial.it/",
+   "quote": "coordina le diverse fasi della filiera produttiva direttamente e/o collaborando con partner specializzati: dalla selezione delle lane, provenienti principalmente da Australia e Nuova Zelanda, fino alla realizzazione dei tessuti in Italia || Ristorante aziendale a disposizione per le sedi di Crocemosso e Vallemosso, anche per il turno notturno"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "mauli-2",
+ "company": "Mauli",
+ "first_name": "Walter",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mauli produce dal 1964 abbigliamento per bambini con i marchi Idexe', Birba e Trybeyond e commercializza oltre 10 milioni di capi ogni anno. Qui trova come lavoriamo e cosa potremmo fare per Mauli.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mauli.",
+ "evidence": [
+  {
+   "claim": "Mauli produce dal 1964 abbigliamento per bambini con i marchi Idexe', Birba e Trybeyond e commercializza oltre 10 milioni di capi ogni anno.",
+   "url": "https://www.mauli.it/chi-siamo",
+   "quote": "Mauli S.p.A., titolare dei marchi IDEXE' , Birba e Trybeyond, nasce nel 1964 come produttore di abbigliamento per Bimbi || uno dei primi produttori italiani di abbigliamento per Bimbi e Ragazzi, con oltre 10 milioni di capi commercializzati ogni anno || BIRBA è il brand ideale, che veste bimbi dai 3 mesi agli 8 anni, per Negozi mono o multimarca"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

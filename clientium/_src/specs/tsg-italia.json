@@ -1,0 +1,28 @@
+{
+ "slug": "tsg-italia",
+ "company": "TSG Italia",
+ "first_name": "Lorella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TSG Italia progetta, costruisce e mantiene le infrastrutture di mobilità per la transizione energetica, con una rete di vendita e assistenza in 30 paesi. Qui trova come lavoriamo e cosa potremmo fare per TSG Italia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TSG Italia.",
+ "evidence": [
+  {
+   "claim": "TSG Italia progetta, costruisce e mantiene le infrastrutture di mobilità per la transizione energetica, con una rete di vendita e assistenza in 30 paesi.",
+   "url": "https://www.tsg-solutions.com/",
+   "quote": "We design, build and maintain the mobility infrastructures that keep the energy transition moving. || We operate the largest sales and service network in our industry across Europe and Africa in 30 countries, serving our customers promptly and efficiently. || Mobility Hubs​ Transport & Fleet Retail and Hospitality​ Public Infrastructure​ Energy Companies​ Construction and Industry Automotive Agriculture"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "teo-italy",
+ "company": "TEO ITALY",
+ "first_name": "Lesia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TEO Italy è nata nel 2021 con un team in provincia di Alessandria, vicino ai territori dei grandi vini italiani. Qui trova come lavoriamo e cosa potremmo fare per TEO ITALY.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TEO ITALY.",
+ "evidence": [
+  {
+   "claim": "TEO Italy è nata nel 2021 con un team in provincia di Alessandria, vicino ai territori dei grandi vini italiani.",
+   "url": "https://teoitaly.com/about/",
+   "quote": "TEO ITALY SRL è stata fondata nel 2021. || Un nuovo team basato in provincia di Alessandria, vicino ai territori dei grandi vini italiani."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

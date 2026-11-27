@@ -1,0 +1,28 @@
+{
+ "slug": "farmacie-comunali-torino",
+ "company": "FARMACIE COMUNALI TORINO",
+ "first_name": "Nadia",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Farmacie Comunali Torino gestisce le 34 farmacie comunali torinesi e altre sedi a San Maurizio Canavese, Mappano, Chivasso e Chieri. Qui trova come lavoriamo e cosa potremmo fare per FARMACIE COMUNALI TORINO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FARMACIE COMUNALI TORINO.",
+ "evidence": [
+  {
+   "claim": "Farmacie Comunali Torino gestisce le 34 farmacie comunali torinesi e altre sedi a San Maurizio Canavese, Mappano, Chivasso e Chieri.",
+   "url": "https://www.farmaciecomunalitorino.it/azienda/chi-siamo/",
+   "quote": "gestisce le 34 farmacie comunali torinesi, la farmacia comunale di San Maurizio Canavese, la farmacia comunale di Mappano, la farmacia comunale di Chivasso e le tre farmacie comunali di Chieri || C.so Peschiera, 193 10141 Torino"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

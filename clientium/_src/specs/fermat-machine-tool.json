@@ -1,0 +1,28 @@
+{
+ "slug": "fermat-machine-tool",
+ "company": "FERMAT Machine Tool",
+ "first_name": "Veronica",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fermat produce e vende rettificatrici cilindriche e relativi accessori, con assistenza dopo la vendita, nata dalla ZEVO di Praga rilevata nel 2008. Qui trova come lavoriamo e cosa potremmo fare per FERMAT Machine Tool.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FERMAT Machine Tool.",
+ "evidence": [
+  {
+   "claim": "Fermat produce e vende rettificatrici cilindriche e relativi accessori, con assistenza dopo la vendita, nata dalla ZEVO di Praga rilevata nel 2008.",
+   "url": "https://www.fermatmachinery.com/",
+   "quote": "It produces and sells cylindrical grinders and related accessories, with after-sales support. || Cylindrical grinding is the work of FERMAT Machine Tool, the member of the FERMAT Group that grew out of ZEVO Prague, acquired in 2008."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

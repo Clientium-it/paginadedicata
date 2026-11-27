@@ -1,0 +1,28 @@
+{
+ "slug": "enrx",
+ "company": "ENRX Group",
+ "first_name": "Mauro",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ENRX offre consulenza strategica e soluzioni di personale specializzato a clienti in tutta l'area EMEA, con sedi in Marocco, Francia e a Dubai. Qui trova come lavoriamo e cosa potremmo fare per ENRX Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ENRX Group.",
+ "evidence": [
+  {
+   "claim": "ENRX offre consulenza strategica e soluzioni di personale specializzato a clienti in tutta l'area EMEA, con sedi in Marocco, Francia e a Dubai.",
+   "url": "https://enrx-consulting.com/en",
+   "quote": "Our services—ranging from strategic advisory and consultancy to specialized manpower solutions—are designed to support clients across EMEA in driving growth, enhancing delivery, and leading transformation. || ENRX Morocco 131 Boulevard Anfa, Residence Azur, office 11, 20000, Casablanca, Morocco ENRX France 40 rue Madeleine Michelis, 92200 Neuilly-sur-Seine, France ENRX Dubai 40 rue Madeleine Michelis, 9200 Neuilly-sur-Seine || Hydrogen Wind and Solar Farm Water Conventional Production Infrastructure and Grid Transportation"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

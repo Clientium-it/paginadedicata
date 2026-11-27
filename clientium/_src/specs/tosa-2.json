@@ -1,0 +1,28 @@
+{
+ "slug": "tosa-2",
+ "company": "TOSA",
+ "first_name": "Luca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "TOSA produce macchine per l'imballaggio dal 1974 e opera nei 5 continenti con un approccio tailor made e una rete di sedi e rivenditori. Qui trova come lavoriamo e cosa potremmo fare per TOSA.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per TOSA.",
+ "evidence": [
+  {
+   "claim": "TOSA produce macchine per l'imballaggio dal 1974 e opera nei 5 continenti con un approccio tailor made e una rete di sedi e rivenditori.",
+   "url": "https://www.tosagroup.com/azienda/",
+   "quote": "Nel 1974 Beppe Tosa, nato e cresciuto nel cuore eno-tecnico del basso Piemonte, vedendo il potenziale nel fine linea fonda la TOSA e inizia a produrre macchine per l'imballaggio. || operiamo nei 5 continenti con un approccio tailor made ed una rete di sedi e rivenditori || Beverage Food & Dairy Building materials Empty containers Home & personal care Paper & tissue Chemicals Logistics"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

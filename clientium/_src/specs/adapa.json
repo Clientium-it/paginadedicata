@@ -1,0 +1,28 @@
+{
+ "slug": "adapa",
+ "company": "adapa Group",
+ "first_name": "Francesco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Adapa fornisce soluzioni per i settori food, tabacco, home e personal care e healthcare da 15 sedi. Qui trova come lavoriamo e cosa potremmo fare per adapa Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per adapa Group.",
+ "evidence": [
+  {
+   "claim": "Adapa fornisce soluzioni per i settori food, tabacco, home e personal care e healthcare da 15 sedi.",
+   "url": "https://www.adapa-group.com/adapa-group/",
+   "quote": "Adapting to the evolving needs of customers in food, tobacco, home & personal care and healthcare industries, adapa offers efficient solutions that are crafted to perform and designed to be circular || 15 locations || customers in food, tobacco, home & personal care and healthcare industries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

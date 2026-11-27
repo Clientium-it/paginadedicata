@@ -1,0 +1,28 @@
+{
+ "slug": "monge-c-2",
+ "company": "MONGE & C",
+ "first_name": "Dusica-Lala",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Monge produce su una superficie di 180.000 metri quadri con una capacità di 160.000 tonnellate annue tra secchi e umidi. Qui trova come lavoriamo e cosa potremmo fare per MONGE & C.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MONGE & C.",
+ "evidence": [
+  {
+   "claim": "Monge produce su una superficie di 180.000 metri quadri con una capacità di 160.000 tonnellate annue tra secchi e umidi.",
+   "url": "https://www.monge.it/lastoria/",
+   "quote": "una superficie complessiva di 180.000 metri quadri e una capacità produttiva complessiva di 160.000 tonnellate annuali per secchi e umidi"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

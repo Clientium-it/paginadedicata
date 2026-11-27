@@ -1,0 +1,28 @@
+{
+ "slug": "kempower",
+ "company": "Kempower",
+ "first_name": "Carlo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Kempower progetta e produce in Finlandia stazioni di ricarica rapida in corrente continua per veicoli elettrici. Qui trova come lavoriamo e cosa potremmo fare per Kempower.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kempower.",
+ "evidence": [
+  {
+   "claim": "Kempower progetta e produce in Finlandia stazioni di ricarica rapida in corrente continua per veicoli elettrici.",
+   "url": "https://kempower.com/",
+   "quote": "Kempower designs and manufactures reliable and user-friendly DC fast-charging solutions for electric vehicles. || Our product development and production are rooted in Finland, with a majority of our materials and components sourced locally. || Public Charging Experience the fastest public EV charging solutions for CPOs and retail with superior user experience, scalability, and reliability."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

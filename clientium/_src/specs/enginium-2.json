@@ -1,0 +1,28 @@
+{
+ "slug": "enginium-2",
+ "company": "Enginium",
+ "first_name": "Riccardo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Enginium offre consulenza ingegneristica e informatica da Milano a partner dei settori automotive, telecomunicazioni, banche, aerospazio e farmaceutico. Qui trova come lavoriamo e cosa potremmo fare per Enginium.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Enginium.",
+ "evidence": [
+  {
+   "claim": "Enginium offre consulenza ingegneristica e informatica da Milano a partner dei settori automotive, telecomunicazioni, banche, aerospazio e farmaceutico.",
+   "url": "https://www.enginium.eu/chi-siamo/",
+   "quote": "Ci occupiamo di consulenza ingegneristica e informatica e supportiamo i nostri partner nel loro sviluppo tecnologico creando soluzioni personalizzate e aiutandoli a raggiungere più velocemente i risultati prefissati || Sede legale: Piazza IV Novembre, 5 – 20124 Milano || Automotive Telecommunications Banking & Finance Transportation Aerospace & Defence Industries Pharma & Medical Devices"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

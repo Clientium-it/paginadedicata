@@ -1,0 +1,28 @@
+{
+ "slug": "cera-novecento-e-novecento-paint",
+ "company": "Cera Novecento e Novecento Paint",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Novecento Paint in 40 anni di attività realizza prodotti che aderiscono su tutte le finiture e materiali senza scartavetrare, anche sul laccato extra lucido. Qui trova come lavoriamo e cosa potremmo fare per Cera Novecento e Novecento Paint.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Cera Novecento e Novecento Paint.",
+ "evidence": [
+  {
+   "claim": "Novecento Paint in 40 anni di attività realizza prodotti che aderiscono su tutte le finiture e materiali senza scartavetrare, anche sul laccato extra lucido.",
+   "url": "https://www.novecentopaint.it/",
+   "quote": "Aderisce su tutte le finiture e tutti i materiali senza scartavetrare! Anche sul laccato extra lucido ! || in 40 anni di attività, con i prodotti Novecento Paint , si è meritata un posto fra le mani di chi sa trattare con cura e amore la propria casa || agli appassionati del fai da te, del recupero e della decorazione"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

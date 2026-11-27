@@ -1,0 +1,28 @@
+{
+ "slug": "elantas-europe-2",
+ "company": "ELANTAS EUROPE",
+ "first_name": "Massimiliano",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Elantas fornisce all'industria elettrica ed elettronica materiali che migliorano sicurezza, affidabilità e durata di componenti e sistemi critici. Qui trova come lavoriamo e cosa potremmo fare per ELANTAS EUROPE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ELANTAS EUROPE.",
+ "evidence": [
+  {
+   "claim": "Elantas fornisce all'industria elettrica ed elettronica materiali che migliorano sicurezza, affidabilità e durata di componenti e sistemi critici.",
+   "url": "https://www.elantas.com/en-eu/",
+   "quote": "ELANTAS supports the electrical and electronics industry with materials that enhance the safety, reliability, and longevity of critical components and systems. || Explore the markets we serve and the industries we power."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

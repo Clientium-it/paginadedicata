@@ -1,0 +1,28 @@
+{
+ "slug": "mylav",
+ "company": "MYLAV",
+ "first_name": "Andrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mylav offre ai medici veterinari analisi di laboratorio dall'istologia alla genetica e dal 2023 è presente anche in Francia, Slovenia e Croazia. Qui trova come lavoriamo e cosa potremmo fare per MYLAV.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per MYLAV.",
+ "evidence": [
+  {
+   "claim": "Mylav offre ai medici veterinari analisi di laboratorio dall'istologia alla genetica e dal 2023 è presente anche in Francia, Slovenia e Croazia.",
+   "url": "https://www.mylav.net/azienda/",
+   "quote": "Operiamo in tutti i settori delle medicina di laboratorio dalla istologia e citologia alla genetica, dalla microbiologia all’ematologia, dalla biologia molecolare alla sierologia ecc. || Il 2023 vede l’ingresso di Mylav sui mercati esteri, Francia, Slovenia e Croazia || offerto ai medici veterinari richiedenti dai maggiori opinion leader italiani"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "piusi-3",
+ "company": "Piusi Group",
+ "first_name": "Federico",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Piusi produce soluzioni per travasare, rifornire e misurare carburanti e lubrificanti, con 340 dipendenti ed export in 135 paesi. Qui trova come lavoriamo e cosa potremmo fare per Piusi Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Piusi Group.",
+ "evidence": [
+  {
+   "claim": "Piusi produce soluzioni per travasare, rifornire e misurare carburanti e lubrificanti, con 340 dipendenti ed export in 135 paesi.",
+   "url": "https://www.piusi.com/company/about-us",
+   "quote": "We supply the world's leading markets with top-quality, professional and easy to use products and complete solutions for transferring, refilling and measuring lubricants, fuels and liquids such as gasoline, diesel, Diesel Exhaust Fluid (DEF), AdBlue®, oil, water and grease. || Employees 340 Total Area 30,000 sqm Export countries 135 || monitoring and transferring fuel at trucking companies, refueling of agricultural vehicles, transferring fuels in construction and mining for heavy duty vehicles"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

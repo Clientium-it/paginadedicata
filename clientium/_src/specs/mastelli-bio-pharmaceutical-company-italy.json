@@ -1,0 +1,28 @@
+{
+ "slug": "mastelli-bio-pharmaceutical-company-italy",
+ "company": "Mastelli Bio-Pharmaceutical Company Italy",
+ "first_name": "Daniele",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Mastelli è un'azienda farmaceutica italiana specializzata nella ricerca, sviluppo e produzione di polidesossiribonucleotidi e polinucleotidi, con dispositivi medici per medicina estetica, ortopedia e wound care. Qui trova come lavoriamo e cosa potremmo fare per Mastelli Bio-Pharmaceutical Company Italy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Mastelli Bio-Pharmaceutical Company Italy.",
+ "evidence": [
+  {
+   "claim": "Mastelli è un'azienda farmaceutica italiana specializzata nella ricerca, sviluppo e produzione di polidesossiribonucleotidi e polinucleotidi, con dispositivi medici per medicina estetica, ortopedia e wound care.",
+   "url": "https://www.mastelli.com/it",
+   "quote": "Mastelli è un'azienda farmaceutica italiana, specializzata nella ricerca, sviluppo e produzione di polidesossiribonucleotidi, PDRN, e Polinucleotidi High Purification Technology, PN HPT ® . || Mastelli S.r.l - Società Benefit Via Bussana Vecchia 32 | 18038 Sanremo (IM) Italy || DISPOSITIVI MEDICI Medicina Estetica Ortopedia Wound Care Ginecologia CURA DEL CORPO Dermocosmetica Integratori per la Salute Articolare"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

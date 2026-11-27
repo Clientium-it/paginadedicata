@@ -1,0 +1,28 @@
+{
+ "slug": "falken-tire-europe",
+ "company": "Falken Tire Europe GmbH",
+ "first_name": "Alberto",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Falken propone una gamma completa di pneumatici per autovetture, camion e SUV, sia come primo equipaggiamento per le case automobilistiche sia per il ricambio. Qui trova come lavoriamo e cosa potremmo fare per Falken Tire Europe GmbH.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Falken Tire Europe GmbH.",
+ "evidence": [
+  {
+   "claim": "Falken propone una gamma completa di pneumatici per autovetture, camion e SUV, sia come primo equipaggiamento per le case automobilistiche sia per il ricambio.",
+   "url": "https://www.falkentyre.com/it/l-azienda",
+   "quote": "propone una completa gamma di pneumatici per autovetture, camion, camion leggeri e SUV. Sia come primo equipaggiamento in dotazione di molte case automobilistiche, sia sul mercato per il ricambio dei pneumatici. || Centrale Dunlop Tyre Europe GmbH Berliner Straße 74–76 63065 Offenbach am Main || primo equipaggiamento in dotazione di molte case automobilistiche, sia sul mercato per il ricambio dei pneumatici"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

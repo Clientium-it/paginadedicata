@@ -1,0 +1,28 @@
+{
+ "slug": "minottiitalia",
+ "company": "Minottiitalia",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Minottiitalia nel cuore della Brianza progetta mobili dalle forme scultoree, geometrie decise e proporzioni inaspettate per dare carattere agli spazi. Qui trova come lavoriamo e cosa potremmo fare per Minottiitalia.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Minottiitalia.",
+ "evidence": [
+  {
+   "claim": "Minottiitalia nel cuore della Brianza progetta mobili dalle forme scultoree, geometrie decise e proporzioni inaspettate per dare carattere agli spazi.",
+   "url": "https://www.minottiitalia.it/azienda/",
+   "quote": "Interpretiamo il mobile come un segno capace di dare carattere agli spazi, attraverso forme scultoree, geometrie decise e proporzioni inaspettate. || Nel cuore della Brianza, dove la cultura del fare incontra la libertà di immaginare, nasce minottiitalia"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

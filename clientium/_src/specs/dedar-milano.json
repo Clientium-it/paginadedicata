@@ -1,0 +1,28 @@
+{
+ "slug": "dedar-milano",
+ "company": "DEDAR MILANO",
+ "first_name": "Patrick",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Dedar produce tessuti per tende, imbottiti e rivestimenti murali, unendo filati preziosi e ricerca sulle fibre, vicino a Como. Qui trova come lavoriamo e cosa potremmo fare per DEDAR MILANO.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per DEDAR MILANO.",
+ "evidence": [
+  {
+   "claim": "Dedar produce tessuti per tende, imbottiti e rivestimenti murali, unendo filati preziosi e ricerca sulle fibre, vicino a Como.",
+   "url": "https://it.dedar.com/about-dedar/",
+   "quote": "I tessuti di Dedar, caratterizzati da seducenti gamme di colori e motivi originali, uniscono filati preziosi alla ricerca tecnologica sulle fibre, così da offrire molteplici soluzioni per tende, imbottiti e rivestimenti murali di un'eleganza senza tempo || Situata nei pressi di Como, nel cuore di un'area dedita alla manifattura, Dedar sperimenta e innova"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

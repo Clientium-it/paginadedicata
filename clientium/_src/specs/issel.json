@@ -1,0 +1,28 @@
+{
+ "slug": "issel",
+ "company": "ISSEL",
+ "first_name": "Davide",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "ISSEL Nord, società del gruppo Fincantieri, da oltre 30 anni offre servizi di logistica integrata e supporto al prodotto per i settori civile e difesa. Qui trova come lavoriamo e cosa potremmo fare per ISSEL.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per ISSEL.",
+ "evidence": [
+  {
+   "claim": "ISSEL Nord, società del gruppo Fincantieri, da oltre 30 anni offre servizi di logistica integrata e supporto al prodotto per i settori civile e difesa.",
+   "url": "https://www.isselnord.it/company/about-us/",
+   "quote": "ISSEL NORD, a Fincantieri company well-established on the market for more than 30 years , is specialized in providing a wide range of integrated logistics and product support services for civil and defence sectors. || ISSEL NORD headquarters are located in Follo, La Spezia (Italy), with more than 2500 sq. m office space. || Naval Naval Aerospace aerospace Combat Systems combat systems Automotive automotive Energy energy Oil & gas oil & gas Information Technology information technology"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

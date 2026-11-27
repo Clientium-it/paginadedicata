@@ -1,0 +1,28 @@
+{
+ "slug": "farid-industrie-2",
+ "company": "FARID INDUSTRIE",
+ "first_name": "Massimo",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Farid costruisce macchinari per la raccolta dei rifiuti e dal 2019 fa parte del gruppo Faun Zoeller con più stabilimenti produttivi. Qui trova come lavoriamo e cosa potremmo fare per FARID INDUSTRIE.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FARID INDUSTRIE.",
+ "evidence": [
+  {
+   "claim": "Farid costruisce macchinari per la raccolta dei rifiuti e dal 2019 fa parte del gruppo Faun Zoeller con più stabilimenti produttivi.",
+   "url": "https://faridzoellergroup.com/it/chi-siamo/storia/",
+   "quote": "Nel 2019 il Gruppo Faun-Zoeller entra in misura maggioritaria nel capitale Farid, dando vita al p iù grande polo industriale europeo nel settore dei macchinari per la raccolta dei rifiuti. || Con più stabilimenti produttivi e una rete capillare di officine autorizzate e distributori, ogni cliente — indipendentemente dalle sue dimensioni — riceve lo stesso livello di innovazione tecnologica e supporto post-vendita."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "febal-casa",
+ "company": "Febal Casa",
+ "first_name": "Giada",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Febal Casa produce cucine, arredi moderni e mobili di design italiano con più di 200 store monomarca nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Febal Casa.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Febal Casa.",
+ "evidence": [
+  {
+   "claim": "Febal Casa produce cucine, arredi moderni e mobili di design italiano con più di 200 store monomarca nel mondo.",
+   "url": "https://www.febalcasa.com/it/chi-siamo/",
+   "quote": "Febal Casa: cucine, arredi moderni e mobili di design italiano || 2023 PiÃ¹ di 200 store monomarca nel mondo 2025 Collezione ONDA in collaborazione con ZHA"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

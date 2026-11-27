@@ -1,0 +1,28 @@
+{
+ "slug": "partner-in-pet-food-ppf-2",
+ "company": "Partner in Pet Food (PPF)",
+ "first_name": "Francesca",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Partner in Pet Food distribuisce a oltre 400 clienti in 35 Paesi, tra retailer, pet shop e veterinari, con 12 stabilimenti in Europa. Qui trova come lavoriamo e cosa potremmo fare per Partner in Pet Food (PPF).",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Partner in Pet Food (PPF).",
+ "evidence": [
+  {
+   "claim": "Partner in Pet Food distribuisce a oltre 400 clienti in 35 Paesi, tra retailer, pet shop e veterinari, con 12 stabilimenti in Europa.",
+   "url": "https://www.ppfeurope.com/our-company",
+   "quote": "We distribute products to more than 400 customers - these customers include a diverse range of grocery retailers, specialist pet shops, and veterinarians across 35 countries. || PPF operates across 35 countries with offices in 10 . With 12 factories and 10 distribution centres across Europe || these customers include a diverse range of grocery retailers, specialist pet shops, and veterinarians across 35 countries"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

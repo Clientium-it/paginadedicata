@@ -1,0 +1,28 @@
+{
+ "slug": "fgf-industry",
+ "company": "FGF-INDUSTRY",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "FGF Industry nasce nel 1998 da un'idea dello stilista Enzo Fusco e raggiunge con la sua rete retail 28 paesi. Qui trova come lavoriamo e cosa potremmo fare per FGF-INDUSTRY.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FGF-INDUSTRY.",
+ "evidence": [
+  {
+   "claim": "FGF Industry nasce nel 1998 da un'idea dello stilista Enzo Fusco e raggiunge con la sua rete retail 28 paesi.",
+   "url": "https://www.fgf-industry.com/pages/mission",
+   "quote": "Founded in 1998 and originating from an idea by fashion designer Enzo Fusco, FGF Industry combines a truly Italian DNA with an international soul || 28 Countries reached by the retail network"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

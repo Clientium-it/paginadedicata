@@ -1,0 +1,28 @@
+{
+ "slug": "prima-power-5",
+ "company": "Prima Power",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Prima Power sviluppa macchinari e sistemi per clienti nel mondo con 6 stabilimenti e centri di ricerca in Italia, Finlandia, Stati Uniti e Cina. Qui trova come lavoriamo e cosa potremmo fare per Prima Power.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Prima Power.",
+ "evidence": [
+  {
+   "claim": "Prima Power sviluppa macchinari e sistemi per clienti nel mondo con 6 stabilimenti e centri di ricerca in Italia, Finlandia, Stati Uniti e Cina.",
+   "url": "https://www.primapower.com/it/chi-siamo/chi-siamo/chi-siamo",
+   "quote": "Con centri di ricerca e sviluppo e stabilimenti produttivi in Italia, Finlandia, Stati Uniti e Cina, sviluppiamo e forniamo macchinari e sistemi a clienti in tutto il mondo. || ~ 1.700 DIPENDENTI ~ 500 MLN € DI RICAVI 6 STABILIMENTI E CENTRI DI RICERCA E SVILUPPO > 15.000 IMPIANTI INSTALLATI"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

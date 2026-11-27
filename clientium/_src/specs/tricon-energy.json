@@ -1,0 +1,28 @@
+{
+ "slug": "tricon-energy",
+ "company": "Tricon Energy",
+ "first_name": "Maria Chiara",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Tricon Energy opera con oltre 28 uffici e 1000 persone offrendo logistica delle commodity, gestione del rischio, finanza e market intelligence ai suoi partner commerciali. Qui trova come lavoriamo e cosa potremmo fare per Tricon Energy.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Tricon Energy.",
+ "evidence": [
+  {
+   "claim": "Tricon Energy opera con oltre 28 uffici e 1000 persone offrendo logistica delle commodity, gestione del rischio, finanza e market intelligence ai suoi partner commerciali.",
+   "url": "https://www.triconenergy.com/en-us/who-we-are/history/",
+   "quote": "Tricon now operates a global footprint of more than 28 offices with 1000 employees providing full commodity logistics, risk management, finance, and market intelligence services for our commercial partners. || Almaty, Kazakhstan Bogotá, Colombia Dubai, UAE Geneva, Switzerland Guayaquil, Ecuador Hanoi, Vietnam Ho-Chi-Minh City, Vietnam Houston, USA Istanbul, Turkey Kharkov, Ukraine Lima, Peru London, England Mexico City, Mexico Mumbai, India Paris, France Ravenna, Italy Rotterdam, The Netherlands Santiago de Chile, Chile Sao Paulo, Brazil Seoul, Korea Shanghai, China Singapore Victoria, Australia Zurich, Switzerland"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

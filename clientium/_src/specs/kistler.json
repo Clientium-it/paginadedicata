@@ -1,0 +1,28 @@
+{
+ "slug": "kistler",
+ "company": "Kistler",
+ "first_name": "Franco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Kistler è specializzata nella tecnologia di misura dinamica di pressione, forza, coppia e accelerazione, con 60 sedi nel mondo. Qui trova come lavoriamo e cosa potremmo fare per Kistler.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Kistler.",
+ "evidence": [
+  {
+   "claim": "Kistler è specializzata nella tecnologia di misura dinamica di pressione, forza, coppia e accelerazione, con 60 sedi nel mondo.",
+   "url": "https://www.kistler.com/NL/en/about-us/C00000001",
+   "quote": "specializing in dynamic measurement technology for pressure, force, torque, and acceleration || 60 locations worldwide || innovative sensing solutions for industry, research, and development"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

@@ -1,0 +1,28 @@
+{
+ "slug": "haifa",
+ "company": "Haifa Group",
+ "first_name": "Marco",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Haifa Group porta soluzioni di nutrizione vegetale a coltivatori in oltre 100 paesi, con 19 filiali e siti produttivi in Israele, Francia e Canada. Qui trova come lavoriamo e cosa potremmo fare per Haifa Group.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Haifa Group.",
+ "evidence": [
+  {
+   "claim": "Haifa Group porta soluzioni di nutrizione vegetale a coltivatori in oltre 100 paesi, con 19 filiali e siti produttivi in Israele, Francia e Canada.",
+   "url": "https://www.haifa-group.com/about-us-0",
+   "quote": "Haifa Group operates through 19 subsidiaries worldwide, with production sites in Israel, France, and Canada, as well as proprietary blending facilities in Brazil and South Africa. || Haifa makes its advanced plant nutrition solutions available to growers in more than 100 countries."
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

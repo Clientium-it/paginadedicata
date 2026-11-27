@@ -1,0 +1,28 @@
+{
+ "slug": "autozentrum-torino",
+ "company": "Autozentrum Torino",
+ "first_name": "Maurizio",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Autotorino propone oltre 2 mila auto usate con le sue concessionarie e officine in Italia e segue la manutenzione dei veicoli delle aziende. Qui trova come lavoriamo e cosa potremmo fare per Autozentrum Torino.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Autozentrum Torino.",
+ "evidence": [
+  {
+   "claim": "Autotorino propone oltre 2 mila auto usate con le sue concessionarie e officine in Italia e segue la manutenzione dei veicoli delle aziende.",
+   "url": "https://www.autotorino.it/",
+   "quote": "Scopri le oltre 2 mila auto usate! || Scopri tutte le concessionarie e officine di Autotorino in Italia || le aziende possono delegare la manutenzione dei veicoli a professionisti specializzati"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

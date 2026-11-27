@@ -1,0 +1,28 @@
+{
+ "slug": "perpulire",
+ "company": "Gruppo perpulire",
+ "first_name": "Pierandrea",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "PerPulire si occupa da oltre 40 anni di pulizia industriale e professionale con filiali su tutto il territorio nazionale. Qui trova come lavoriamo e cosa potremmo fare per Gruppo perpulire.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Gruppo perpulire.",
+ "evidence": [
+  {
+   "claim": "PerPulire si occupa da oltre 40 anni di pulizia industriale e professionale con filiali su tutto il territorio nazionale.",
+   "url": "https://perpulire.it/",
+   "quote": "Da oltre 40 anni PerPulire è il punto di riferimento per quanto riguarda il mondo della pulizia industriale e professionale || Con le filiali sparse su tutto il territorio nazionale, PerPulire rappresenta una presenza forte e concreta per i suoi clienti"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

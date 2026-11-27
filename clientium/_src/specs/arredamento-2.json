@@ -1,0 +1,28 @@
+{
+ "slug": "arredamento-2",
+ "company": "arredamento",
+ "first_name": "Roberta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Arredamenti Colavetta progetta ambientazioni d'arredo complete con preventivo dettagliato e gratuito a Grado. Qui trova come lavoriamo e cosa potremmo fare per arredamento.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per arredamento.",
+ "evidence": [
+  {
+   "claim": "Arredamenti Colavetta progetta ambientazioni d'arredo complete con preventivo dettagliato e gratuito a Grado.",
+   "url": "https://colavetta.it/arredare_grado.php",
+   "quote": "Il progetto grafico visualizza l'ambientazione d'insieme accompagnato da un preventivo dettagliato e gratuito. || ARREDAMENTI COLAVETTA MARIO - Via A. Manzoni n.28 angolo Riva Scaramuzza n.1/A - 34073 - Grado (GO)"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

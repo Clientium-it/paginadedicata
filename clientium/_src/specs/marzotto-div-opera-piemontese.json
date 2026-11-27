@@ -1,0 +1,28 @@
+{
+ "slug": "marzotto-div-opera-piemontese",
+ "company": "Marzotto Group div. Opera Piemontese",
+ "first_name": "Elisabetta",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Marzotto Group produce tessuti in lana per la moda, con 8 stabilimenti in Italia e 6 all'estero. Qui trova come lavoriamo e cosa potremmo fare per Marzotto Group div. Opera Piemontese.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per Marzotto Group div. Opera Piemontese.",
+ "evidence": [
+  {
+   "claim": "Marzotto Group produce tessuti in lana per la moda, con 8 stabilimenti in Italia e 6 all'estero.",
+   "url": "https://www.marzottogroup.it/",
+   "quote": "Punto di riferimento per tessuti in lana pregiata per la moda, che si contraddistinguono per artigianalità, innovazione, creatività stile contemporaneo e attenzione alla sostenibilità. || stabilimenti, di cui 8 in Italia e 6 all'estero"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}

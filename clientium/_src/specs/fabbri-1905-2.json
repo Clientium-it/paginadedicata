@@ -1,0 +1,28 @@
+{
+ "slug": "fabbri-1905-2",
+ "company": "FABBRI 1905",
+ "first_name": "Brunella",
+ "domain": "",
+ "register": "lei",
+ "sectors": [],
+ "cases_first": "EffePi Engineering",
+ "cases_allow": [
+  "Planetica",
+  "EffePi Engineering",
+  "Neven",
+  "Publy Team",
+  "Cube Proemotion"
+ ],
+ "campaign": "C20",
+ "level": 2,
+ "cover_note": "Fabbri 1905 propone prodotti e ricette per gelatieri, pasticceri, chef e barman dalla sua sede di Bologna. Qui trova come lavoriamo e cosa potremmo fare per FABBRI 1905.",
+ "base_note": "Una pagina su come lavoriamo e su cosa potremmo fare per FABBRI 1905.",
+ "evidence": [
+  {
+   "claim": "Fabbri 1905 propone prodotti e ricette per gelatieri, pasticceri, chef e barman dalla sua sede di Bologna.",
+   "url": "https://www.fabbri1905.com/",
+   "quote": "Fabbri 1905: prodotti e ricette per gelatieri, pasticceri, chef e barman || \"streetAddress\": \"Via Emilia Ponente 276\", \"addressLocality\": \"Bologna\" || prodotti e ricette per gelatieri, pasticceri, chef e barman"
+  }
+ ],
+ "checked": "2026-11-26 VPS playwright verbatim check (c20sn4_b3_pages_request)"
+}
